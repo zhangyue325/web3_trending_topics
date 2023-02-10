@@ -4,7 +4,8 @@ import csv
 import jieba.analyse
 import pandas as pd
 from bs4 import BeautifulSoup
-
+import os
+import shutil
 
 def get_keywords(para, topK = 3):
     keywords = jieba.analyse.extract_tags(para, topK, withWeight = True, allowPOS = ())
@@ -28,7 +29,7 @@ def get_blockbeats_article():
             elif datetime.date(post_date) < date.today() - timedelta(days = 1):
                 break
             else:
-                with open(r'get_article_links\articles.csv', 'a', encoding='UTF8', newline='') as f:
+                with open(r'articles.csv', 'a', encoding='UTF8', newline='') as f:
                     print(title, post_date)
                     keywords = get_keywords(title, 3)
                     writer = csv.writer(f)
@@ -53,7 +54,7 @@ def get_odaily_article():
         elif datetime.date(post_date) < date.today() - timedelta(days = 1):
             break
         else:
-            with open(r'get_article_links\articles.csv', 'a', encoding='UTF8', newline='') as f:
+            with open(r'articles.csv', 'a', encoding='UTF8', newline='') as f:
                 print(title, post_date)
                 keywords = get_keywords(title, 3)
                 writer = csv.writer(f)
@@ -73,7 +74,7 @@ def foresightnews_get_title_and_date(url):
     return (article_title, post_date)
 
 def get_foresightnews_article():
-    df = pd.read_csv("get_article_links\websites_url_id.csv")
+    df = pd.read_csv("websites_url_id.csv")
     n = len(df)
     web_id = df.loc[n-1,"foresightnews"] + 1
     url = "https://foresightnews.pro/article/detail/" + str(web_id)
@@ -93,7 +94,7 @@ def get_foresightnews_article():
                 web_id += 1
                 err += 1
             else:
-                with open(r'get_article_links\articles.csv', 'a', encoding='UTF8', newline='') as f:
+                with open(r'articles.csv', 'a', encoding='UTF8', newline='') as f:
                     print(post_date, article_title)
                     keywords = get_keywords(article_title, 3)
                     writer = csv.writer(f)
@@ -105,12 +106,12 @@ def get_foresightnews_article():
             web_id += 1
             
     
-    df = pd.read_csv(r"get_article_links\articles.csv")
+    df = pd.read_csv(r"articles.csv")
     n = len(df)
     last_id = int(df.iloc[n-1, 4][-5:])
-    with open("get_article_links\websites_url_id.csv", 'a', encoding='UTF8', newline='') as f:
+    with open("websites_url_id.csv", 'a', encoding='UTF8', newline='') as f:
         writer = csv.writer(f)
-        writer.writerow([date.today()+ timedelta(days = -1), last_id, 1, 1, 1, 1])
+        writer.writerow([date.today()+ timedelta(days = -1), last_id])
         print("index updated succefully")
 
 
@@ -119,5 +120,12 @@ def get_data():
     get_odaily_article()
     get_foresightnews_article()
 
+def move_article_csv():
+    yesterday = date.today() + timedelta(days = -1)
+    shutil.move("articles.csv", rf"articles\{yesterday}.csv")
 
-get_data()
+
+
+if __name__ == "__main__":
+    get_data()
+    move_article_csv()

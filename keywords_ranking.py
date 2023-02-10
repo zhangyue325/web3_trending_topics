@@ -18,7 +18,7 @@ def convert_string_to_list(list_like_string):
 
 def get_topics_hash(date):
     hash = {}
-    df = pd.read_csv(rf"get_article_links\articles\{date}.csv")
+    df = pd.read_csv(rf"articles\{date}.csv")
     n = len(df)
 
     for i in range(n):
@@ -29,18 +29,18 @@ def get_topics_hash(date):
                 hash[ele] += 1
             else:
                 hash[ele] = 1
-    with open(rf"get_article_links\topics\{date}.json", "w") as fp:
+    with open(rf"topics\{date}.json", "w") as fp:
         json.dump(hash, fp) 
     return hash
 
 
 def get_occurance_for_topics():
     dt = date.today() - timedelta(days = 1)
-    with open(rf"get_article_links\topics\{dt}.json") as json_file:
+    with open(rf"topics\{dt}.json") as json_file:
         data = json.load(json_file)
     df = pd.DataFrame()
 
-    article_df = pd.read_csv(rf"get_article_links\articles\{dt}.csv")
+    article_df = pd.read_csv(rf"articles\{dt}.csv")
     article_len = len(article_df)
 
     for k, v in data.items():
@@ -55,10 +55,10 @@ def get_historical_data_for_topics():
     df = get_occurance_for_topics()
     for delta in range(2, 8):
         dt = date.today() - timedelta(days = delta)
-        with open(rf"get_article_links\topics\{dt}.json") as json_file:
+        with open(rf"topics\{dt}.json") as json_file:
             data = json.load(json_file)
         
-        article_df = pd.read_csv(rf"get_article_links\articles\{dt}.csv")
+        article_df = pd.read_csv(rf"articles\{dt}.csv")
         article_len = len(article_df)
 
         for kwd in df["keyword"].tolist():
@@ -82,6 +82,6 @@ def get_slope():
     df.sort_values("slope", ascending=False,  inplace=True)
 
     yesterday = date.today() + timedelta(days = -1)
-    df.to_csv(rf"get_article_links\trending_table\{yesterday}.csv", index = False)
+    df.to_csv(rf"trending_table\{yesterday}.csv", index = False)
     return df
 
