@@ -36,5 +36,3 @@ def match_keywords_with_article():
 
 
 
-a = short_the_trending_table()
-print(a)
