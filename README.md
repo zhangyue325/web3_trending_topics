@@ -1,1 +1,1 @@
-# web3_trending_topics
+# the trending topics in Chinese web3 community
