@@ -67,32 +67,67 @@ def prepare_the_html_data(dt):
     t["hot tweets"] = "to be completed"
     n = len(t)
     for i in range(n):
-        t.loc[i, "trending"] = f'<img src="D:\work_experience\dethings\web3_trending_topics_project\statics\graph\{t.loc[i, "main_keyword"]}.png" width = "100"  />'
+        t.loc[i, "trending"] = f'<img src="statics\graph\{t.loc[i, "main_keyword"]}.png" width = "100"  />'
         
         if t.loc[i, "Occurrence"] >= 7:
-            t.loc[i, "Occurrence_display"] = "🔥🔥🔥<br>" + str(t.loc[i, "Occurrence"])
+            t.loc[i, "Occurrence_display"] = "<nobr>🔥🔥🔥</nobr><br>" + str(t.loc[i, "Occurrence"])
         elif t.loc[i, "Occurrence"] >= 4:
-            t.loc[i, "Occurrence_display"] = "🔥🔥<br>" + str(t.loc[i, "Occurrence"])
+            t.loc[i, "Occurrence_display"] = "<nobr>🔥🔥</nobr><br>" + str(t.loc[i, "Occurrence"])
         else:
-            t.loc[i, "Occurrence_display"] = "🔥<br>" + str(t.loc[i, "Occurrence"])
+            t.loc[i, "Occurrence_display"] = "<nobr>🔥</nobr><br>" + str(t.loc[i, "Occurrence"])
 
         if t.loc[i, "slope"] >= 0.5:
-            t.loc[i, "slope_display"] = "📈📈📈<br>" + str(t.loc[i, "slope"])
+            t.loc[i, "slope_display"] = "<nobr>📈📈📈</nobr><br>" + str(t.loc[i, "slope"])
         elif t.loc[i, "slope"] >= 0.3:
-            t.loc[i, "slope_display"] = "📈📈<br>" + str(t.loc[i, "slope"])
+            t.loc[i, "slope_display"] = "<nobr>📈📈</nobr><br>" + str(t.loc[i, "slope"])
         elif t.loc[i, "slope"] >= 0:
-            t.loc[i, "slope_display"] = "📈<br>" + str(t.loc[i, "slope"])
+            t.loc[i, "slope_display"] = "<nobr>📈</nobr><br>" + str(t.loc[i, "slope"])
         elif t.loc[i, "slope"] >= -0.3:
-            t.loc[i, "slope_display"] = "📉<br>" + str(t.loc[i, "slope"])
+            t.loc[i, "slope_display"] = "<nobr>📉</nobr><br>" + str(t.loc[i, "slope"])
         elif t.loc[i, "slope"] >= -0.5:
-            t.loc[i, "slope_display"] = "📉📉<br>" + str(t.loc[i, "slope"])
+            t.loc[i, "slope_display"] = "<nobr>📉📉</nobr><br>" + str(t.loc[i, "slope"])
         else:
-            t.loc[i, "slope_display"] = "📉📉📉<br>" + str(t.loc[i, "slope"])
+            t.loc[i, "slope_display"] = "<nobr>📉📉📉</nobr><br>" + str(t.loc[i, "slope"])
 
     t = t[["main_keyword", "Occurrence_display", "slope_display", "trending", "article_title", "English hot articles", "hot tweets"]]
+    t = t.rename(columns ={ "main_keyword":"Topics", "Occurrence_display":"Hot", "slope_display":"Trend",
+    "trending":"Trend for last 7 days", "article_title":"Related Chinese Articles", 
+    "English Hot Articles":"related English articles", "hot tweets":"Related Tweets"})
 
     t.to_csv("statics/data.csv",index = False)
     t.to_html("statics/data.html", index = False, escape=False)
+
+    with open("statics\data.html",'a', encoding='UTF8', newline='') as f:
+        f.write("""
+        <style>
+            .dataframe {
+            font-family: Arial, Helvetica, sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+            }
+
+            .dataframe td, .dataframe th {
+            border: 1px solid #ddd;
+            padding: 8px;
+            margin-left: auto;  
+            margin-right: auto;  
+            text-align: center;
+            }
+
+            .dataframe tr:nth-child(even){background-color: #f2f2f2;}
+
+            .dataframe tr:hover {background-color: #ddd;}
+
+            .dataframe th {
+            padding-top: 12px;
+            padding-bottom: 12px;
+            text-align: center;
+            background-color: #04AA6D;
+            color: white;
+            }
+
+        </style>     
+        """)
 
 
 

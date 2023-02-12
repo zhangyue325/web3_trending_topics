@@ -19,5 +19,6 @@ print("keywords table been successfully generated")
 match_keywords_with_article(dt)
 print("keywords table been successfully linked with articles")
 
+generate_all_the_graph(dt)
 prepare_the_html_data(dt)
 print("html table been successfully prepared")
