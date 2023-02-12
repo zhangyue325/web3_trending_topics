@@ -67,7 +67,8 @@ def prepare_the_html_data(dt):
     t["hot tweets"] = "to be completed"
     n = len(t)
     for i in range(n):
-        t.loc[i, "trending"] = f'<img src="statics/graph/{t.loc[i, "main_keyword"]}.png" width = "100"  />'
+        keyword = t.loc[i, 'main_keyword']
+        t.loc[i, "trending"] = f'<img src="graph/{keyword}.png" width = "100" alt="graph" />'
         
         if t.loc[i, "Occurrence"] >= 7:
             t.loc[i, "Occurrence_display"] = "<nobr>🔥🔥🔥</nobr><br>" + str(t.loc[i, "Occurrence"])
