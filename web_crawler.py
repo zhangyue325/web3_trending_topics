@@ -1,11 +1,13 @@
 import requests
 from datetime import datetime, timedelta, date
+from zoneinfo import ZoneInfo
 import csv
 import jieba.analyse
 import pandas as pd
 from bs4 import BeautifulSoup
-import os
+import time
 import shutil
+
 
 def get_keywords(para, topK = 3):
     keywords = jieba.analyse.extract_tags(para, topK, withWeight = True, allowPOS = ())
@@ -88,7 +90,9 @@ def get_foresightnews_article():
             url = "https://foresightnews.pro/article/detail/" + str(web_id)
             (article_title, post_date) = foresightnews_get_title_and_date(url)
             if post_date.date() == date.today():
-                break
+                print("PASS:", post_date, article_title)
+                web_id += 1
+                err += 1
             elif post_date.date() < date.today() + timedelta(days = -1):
                 print("PASS:", post_date, article_title)
                 web_id += 1
@@ -114,17 +118,107 @@ def get_foresightnews_article():
         writer.writerow([date.today()+ timedelta(days = -1), last_id])
         print("index updated succefully")
 
+def get_panewslab_article():
+    # dt = str(date.today()) + " 00:00:01"
+    # dt = int(datetime.strptime(dt, "%Y-%m-%d %H:%M:%S").timestamp())
+    dt = int(datetime.today().timestamp())
+
+    while True:
+        url = f"https://www.panewslab.com/webapi/depth/list?LId=1&Rn=20&LastTime={dt}&TagId=&tw=0"
+
+        d = requests.get(url).json()["data"]
+        for ele in d:
+            title = ele["title"]
+            article_url = ele["share"]["url"]
+            post_date = datetime.fromtimestamp(ele["publishTime"])
+        
+            if datetime.date(post_date) == date.today():
+                continue
+            elif datetime.date(post_date) < date.today() - timedelta(days = 1):
+                break
+            else:
+                with open(r'articles.csv', 'a', encoding='UTF8', newline='') as f:
+                    print(post_date, title)
+                    keywords = get_keywords(title, 3)
+                    writer = csv.writer(f)
+                    writer.writerow(["panewslab", title, post_date, keywords, article_url])
+
+        if datetime.date(post_date) < date.today() - timedelta(days = 1):
+            break
+        dt = int(post_date.timestamp())
+
+def get_techflowpost_article():
+    i = 1
+    while True:
+        url = f"https://data.techflowpost.com/api/pc/home/more?pageIndex={i}&pageSize=1"
+        d = requests.get(url).json()["content"]
+
+        for ele in d:
+            title = ele["title"]
+            post_date = ele["createTime"]
+            article_url = "https://www.techflowpost.com/article/" + str(ele["id"])
+
+        if datetime.date(datetime.strptime(post_date, "%Y-%m-%d %H:%M:%S")) == date.today():
+            i+= 1
+            continue
+        elif datetime.date(datetime.strptime(post_date, "%Y-%m-%d %H:%M:%S")) < date.today() - timedelta(days = 1):
+            break
+        else:
+            with open(r'articles.csv', 'a', encoding='UTF8', newline='') as f:
+                print(post_date, title)
+                keywords = get_keywords(title, 3)
+                writer = csv.writer(f)
+                writer.writerow(["techflowpost", title, post_date, keywords, article_url])
+            i+= 1
+
+def get_marsbit_article():
+    dt = str(date.today()) + " 08:00:00" # GMT +0 timezone
+    dt = int(datetime.strptime(dt, "%Y-%m-%d %H:%M:%S").timestamp() * 1000)
+    print(dt)
+
+    while True:
+        url = f"https://api.marsbit.co/info/news/shownews?currentPage=2&pageSize=15&channelId=0&refreshTime={dt}"
+        d = requests.get(url).json()['obj']['inforList']
+
+        for ele in d:
+            post_date = int(str(ele['publishTime'])[:-3])
+            post_date = datetime.utcfromtimestamp(post_date) + timedelta(hours=8)
+            article_url = f"https://news.marsbit.cc/{ele['id']}.html"
+            title = ele['title']
+
+
+            if datetime.date(post_date) == date.today():
+                print("PASS:", post_date, title, article_url)
+            elif datetime.date(post_date) < date.today() - timedelta(days = 1):
+                print("PASS:", post_date, title, article_url)
+                break
+            else:
+                with open(r'articles.csv', 'a', encoding='UTF8', newline='') as f:
+                    print(post_date, title, article_url)
+                    keywords = get_keywords(title, 3)
+                    writer = csv.writer(f)
+                    writer.writerow(["marsbit", title, post_date, keywords, article_url])
+
+        if datetime.date(post_date) < date.today() - timedelta(days = 1):
+            break
+
+        dt = str(ele['publishTime'] - 1000)
+
 
 def get_data():
     get_blockbeats_article()
     get_odaily_article()
     get_foresightnews_article()
+    get_panewslab_article()
+    get_techflowpost_article()
+    get_marsbit_article()
 
 def move_article_csv():
     yesterday = date.today() + timedelta(days = -1)
     shutil.move("articles.csv", rf"articles\{yesterday}.csv")
-
-
+    with open(r'articles.csv', 'w', encoding='UTF8', newline='') as f:
+        writer = csv.writer(f)
+        writer.writerow(["source","article_title","post_date","keywords","url"])
 
 if __name__ == "__main__":
     get_data()
