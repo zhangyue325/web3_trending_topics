@@ -68,7 +68,7 @@ def prepare_the_html_data(dt):
     n = len(t)
     for i in range(n):
         keyword = t.loc[i, 'main_keyword']
-        t.loc[i, "trending"] = f'<img src="graph/{keyword}.png" width = "100" alt="graph" />'
+        t.loc[i, "trending"] = f'<img src="statics/graph/{keyword}.png" width = "100" alt="graph" />'
         
         if t.loc[i, "Occurrence"] >= 7:
             t.loc[i, "Occurrence_display"] = "<nobr>🔥🔥🔥</nobr><br>" + str(t.loc[i, "Occurrence"])
@@ -91,7 +91,7 @@ def prepare_the_html_data(dt):
             t.loc[i, "slope_display"] = "<nobr>📉📉📉</nobr><br>" + str(t.loc[i, "slope"])
 
     t = t[["main_keyword", "Occurrence_display", "slope_display", "trending", "article_title", "English hot articles", "hot tweets"]]
-    t = t.rename(columns ={ "main_keyword":"Topics", "Occurrence_display":"Hot", "slope_display":"Trend",
+    t = t.rename(columns ={ "main_keyword":"Topic", "Occurrence_display":"Hot", "slope_display":"Trend",
     "trending":"Trend for last 7 days", "article_title":"Related Chinese Articles", 
     "English Hot Articles":"related English articles", "hot tweets":"Related Tweets"})
 
