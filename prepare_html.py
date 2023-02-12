@@ -68,7 +68,7 @@ def prepare_the_html_data(dt):
     n = len(t)
     for i in range(n):
         keyword = t.loc[i, 'main_keyword']
-        t.loc[i, "trending"] = f'<img src="statics/graph/{keyword}.png" width = "100" alt="graph" />'
+        t.loc[i, "trending"] = f'<img src="graph/{keyword}.png" width = "100" alt="graph" />'
         
         if t.loc[i, "Occurrence"] >= 7:
             t.loc[i, "Occurrence_display"] = "<nobr>🔥🔥🔥</nobr><br>" + str(t.loc[i, "Occurrence"])
