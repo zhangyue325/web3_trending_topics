@@ -1,0 +1,146 @@
+<!-- /*! 
+ *  Merge identical table rows jQuery plugin.
+ *  Copyright (C) 2021  Andrew Wagner  github.com/andreww1011
+ *
+ *  This library is free software; you can redistribute it and/or
+ *  modify it under the terms of the GNU Lesser General Public
+ *  License as published by the Free Software Foundation; either
+ *  version 2.1 of the License, or (at your option) any later version.
+ * 
+ *  This library is distributed in the hope that it will be useful,
+ *  but WITHOUT ANY WARRANTY; without even the implied warranty of
+ *  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ *  Lesser General Public License for more details.
+ * 
+ *  You should have received a copy of the GNU Lesser General Public
+ *  License along with this library; if not, write to the Free Software
+ *  Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301
+ *  USA
+ */ -->
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <title>Row Merge Plugin</title>
+  </head>
+
+  <body>
+    <!-- Load jQuery -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+
+    <!-- Load stylesheet -->
+    <link rel="stylesheet" id="admin.css-css" href="https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/css/mdb5/3.1.0/compiled.min.css?ver=3.1.0-update.1" type="text/css" media="all">
+
+    <!-- Load the plugin bundle. -->
+    <script src="row-merge-bundle.min.js"></script>
+
+    <section class="alternate page-heading">
+      <div class="container">
+        <header>
+          <h1>Table Row-Merge jQuery plugin</h1>
+        </header>
+        <p class="lead"></p>
+    </section>
+    <hr>
+    <div class="container">
+      <button id="b1">Merge</button>
+      <button id="b2">Unmerge</button>
+    </div>
+    <div class="container">
+      <div class="col-sm-12 col-md-8 col-lg-9 border-end">
+        <div class="datatable datatable-striped datatable-sm datatable-bordered">
+          <div class="datatable-inner table-responsive" style="overflow: auto; position: relative;">  
+            <table id="table1">
+              <thead>
+                <tr>
+                  <th>Month</th>
+                  <th>Week</th>
+                  <th>Day</th>
+                  <th>Color</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>March</td>
+                  <td>1</td>
+                  <td>Monday</td>
+                  <td>Red</td>
+                </tr>
+                <tr>
+                  <td>March</td>
+                  <td>1</td>
+                  <td>Tuesday</td>
+                  <td>Green</td>
+                </tr>
+                <tr>
+                  <td>March</td>
+                  <td>1</td>
+                  <td>Wednesday</td>
+                  <td>Blue</td>
+                </tr>
+                <tr>
+                  <td>March</td>
+                  <td>1</td>
+                  <td>Thursday</td>
+                  <td>Blue</td>
+                </tr>
+                <tr>
+                  <td>March</td>
+                  <td colspan="2">1</td>
+                  <td>Yellow</td>
+                </tr>
+                <tr>
+                  <td>March</td>
+                  <td>2</td>
+                  <td>Monday</td>
+                  <td>Yellow</td>
+                </tr>
+                <tr>
+                  <td>March</td>
+                  <td>2</td>
+                  <td colspan="2">Tuesday</td>
+                </tr>
+                <tr>
+                  <td>March</td>
+                  <td>2</td>
+                  <td>Wednesday</td>
+                  <td>Red</td>
+                </tr>
+                <tr>
+                  <td>March</td>
+                  <td>2</td>
+                  <td>Thursday</td>
+                  <td>Red</td>
+                </tr>
+                <tr>
+                  <td>March</td>
+                  <td>2</td>
+                  <td>Friday</td>
+                  <td>Blue</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script>
+      // Use the plugin once the DOM has been loaded.
+      $(function () {
+        // Apply the plugin 
+        var table = $('#table1').rowMerge({
+          excludedColumns: [4],
+        });
+        $('#b1').click((e) => {
+          table.merge();
+        });
+        $('#b2').click((e) => {
+          table.unmerge();
+        });
+      });
+    </script>
+  </body>
+
+</html>
+
