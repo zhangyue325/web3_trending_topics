@@ -105,7 +105,7 @@ def get_foresightnews_article():
                     writer.writerow(["foresightnews", article_title, post_date, keywords, url])
                 web_id += 1
         except:
-            print(f"{url}, something wrong")
+            print(f"{url}, invalid url")
             err += 1
             web_id += 1
             

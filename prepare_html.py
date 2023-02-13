@@ -93,7 +93,7 @@ def prepare_the_html_data(dt):
     t = t[["main_keyword", "Occurrence_display", "slope_display", "trending", "article_title", "English hot articles", "hot tweets"]]
     t = t.rename(columns ={ "main_keyword":"Topic", "Occurrence_display":"Hot", "slope_display":"Trend",
     "trending":"Trend for last 7 days", "article_title":"Related Chinese Articles", 
-    "English Hot Articles":"related English articles", "hot tweets":"Related Tweets"})
+    "English hot articles":"related English Articles", "hot tweets":"Related Tweets"})
 
     t.to_csv("statics/data.csv",index = False)
     t.to_html("statics/data.html", index = False, escape=False)
