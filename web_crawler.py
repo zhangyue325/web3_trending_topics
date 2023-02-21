@@ -83,7 +83,7 @@ def get_foresightnews_article():
 
     err = 0
     while True:
-        if err > 100:
+        if err > 300:
             print("loop breaked")
             break
         try:
@@ -106,8 +106,9 @@ def get_foresightnews_article():
                 web_id += 1
         except:
             print(f"{url}, invalid url")
-            err += 1
-            web_id += 1
+            # err += 1
+            # web_id += 1
+            break
             
     
     df = pd.read_csv(r"articles.csv")

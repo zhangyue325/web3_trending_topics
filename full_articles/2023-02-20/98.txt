@@ -1,0 +1,107 @@
+![](https://img.foresightnews.pro/202302/0eb96fa2bcb9857f9c050408940bf57e.jpeg?x-oss-process=style/scale70)Did you miss the Tiny World AMA in Discord on Friday?🤔Don’t worry, we have you covered!😊
+
+The full transcript from the AMA can be viewed below.
+
+*A: So your question is, will we change purple to make 4 tickets and 33% chance for 5th ticket to balance with the ranges of x10 for pet feeding and floor price? This is not something that is being considered as it would further impact the inflation of materials on the marketplace.*
+
+*We may consider using orange tickets for BOSS in the future, there may be new BOSS characters or systems in the future that may require tickets. Purple Tickets to make expedition tickets will not happen in expedition’s current iteration, because the idea of expedition is to turn blue or green materials into potential purple or orange materials.*
+
+*A: The team brings regular quest carnivals to help the markets in Tiny Kingdom move, and recently adding Tinymon feeding to increase part level has brought another consumption scenario for materials.*
+
+*The upcoming arena will be exciting, the tinymon skill for the first 4 parts will be released. It will significantly improve your battle abilities in the arena. We believe the arena will bring many demands of material. Moreover, players can reset tinymon’s part level and receive 80% of upgrade resources they have used. It means players can change tinymons for new strategies anytime with low cost. We expect this to help with the marketplace inflation.*
+
+*We have plans in the future for new quests that might work in a different way than seen before. We also have been discussing about some other mechanics to encourage usage of materials in gameplay, such as kingdom treasure.*
+
+*We still keep attracting new users to Tiny Kingdom, we are one of the most popular gamefi project on the market. We will always keep attracting new users to Tiny Kingdom through various updates and new gameplay, with effective marketing and strategic partnerships we can attract many more players in the future. We are still in the bear market and people are cautious where to spend their money.*
+
+*A: We have data about refinement and energy replenishment systems. It does not show they’re unpopular. On the contrary, there are 1–1.5M SPIRIT consumed by these two systems each week(Almost same as breeding). The energy replenish, equipment refinement and Tinymon breeding are all there to help against inflation of SPIRIT. It is currently working as intended and SPIRIT seems healthy currently, and is doing its job to support TINC token. We will keep the community updated on more use cases for SPIRIT and TINC.*
+
+*A: Tinymon evolution will allow users to unlock their 5th and 6th traits. Users will need to consume Tinymon to evolve their Tinymon, similar to Hero upgrade. But please know this is not the final design, the game is changed everyday, we will choose the best mechanic before it launches.*
+
+*A: There may be some new BOSS character or new BOSS system in the future. But right now we focus on PvP Arena and Tiny Dungeons as they are both currently in development.*
+
+*A: PvP rewards will be TINC leaderboard rewards. We are not sure whether to increase emission of TINC so we may reorganize the leaderboard TINC distribution with the help of the governance vote. There will also be daily rewards such as SPIRIT depending on your ladder position at the daily reset time.*
+
+*A: Not necessarily, the emission reduction schedule will continue until it is no longer needed. When TINC is in a healthier position, we can look to increase the emission to attract more users to Tiny World. We will of course collaborate with our community on this through TinyDAO.*
+
+*A: No, your NFT must be idle status to transfer them to Tiny Kingdom. There is no plan to change this. The current mechanism helps us to prevent a lot of exceptions in the game, such as NFT being transferred or traded on the blockchain.*
+
+*A: The material drop formula aims to protect the scarcity of high class materials, with users gaining more probability of obtaining high class when they increase their castle strength and drop rate through luck and stage bonuses.*
+
+*We didn’t mean to keep the formula as a secret, the drop rate formula is very complicated. We can public the formula if the community wants it. Please allow us some time to write it down and we can share with you all.*
+
+*A: The devs job is to keep developments coming. The hard work has been done securing the economy for the crypto winter, and now the dev team are fully focused on bringing developments to improve gaming and earning opportunities. Tiny Lord 2.0 has improved the playability of the game, PvP Arena will come soon, and then we have Tiny Dungeons in development and NFT land coming, as well as Tiny Swap. These will all add value to the ecosystem and allow us to scale users.*
+
+*We need to make sure people see these developments so strong marketing campaigns with partners can help us grow our users. We are always working on ways to increase the traffic to Tiny World.*
+
+*A: No plan yet. Please wait for the further announcements!*
+
+*A: We will publish 3 articles to describe the details of Arena until its launch. Please stay tuned for these announcements! PvP Arena will be launched in Tiny Kingdom, initially in a beta phase. We would expect to run something similar as with Tiny Lord 2.0.*
+
+*A: We plan to open them in the future when the platform is more stable. Until then, proposals will be provided by the team for users to vote on.*
+
+*A: The 2nd mini-game is already in development. It will be associated with your heroes and tinymons. We also would love to hear suggestions from the community about the kinds of mini-games they would like to see. If you have any suggestions then please let us know by reaching out to one of our mods, or creating a support ticket*
+
+*A: The power will be added after unlocking the locked parts. BTW, the part unlocking will be opened some time after Arena goes live.*
+
+*A: We have done a lot of work with the tokenomics to protect the economy and value of users assets during the crypto winter. This includes cutting TINC emission, increasing TINC use cases and increasing the amount of TINC burned. Nowaday, 70%-90% of emission is destroyed or staked each week.*
+
+*We will continue to add more use cases in the future for TINC, such as NFT lending, Tiny Dungeons, etc.*
+
+*We also need to increase the amount of users in Tiny World and amount of TINC holders. This will allow us to list on more CEX’s, increase trading volume and exposure to TINC, and will allow us to continue the growth.*
+
+*TINC has stabilized recently due to the adjustments to emission etc. This gives us a great platform to build on, and is why we are now focusing more efforts on game development and marketing to drive user adoption of the platform. All of this combined will allow for long term TINC growth.*
+
+*Tiny Dungeons is currently in development and is due to launch in Q2. There will be an NFT land presale and airdrop before we launch Tiny Dungeons which will be really important for players to enhance their earnings and have more fun.*
+
+*We cannot give away too many details currently, however, we plan to start publishing details of Tiny Dungeons in March. Such as graphs, gameplay and more. We cannot wait for it, we hope you will like it!*
+
+*Train your monsters to protect your own dungeon, while building your squad to plunder the treasures from other players’ dungeon!!*
+
+![](https://img.foresightnews.pro/202302/8cd0e42b88e2e8541df948e7e7ce3e58?x-oss-process=style/scale70)*A: For higher class traits there are many advantages;*
+
+1. *Farming power boost*
+2. *Bigger stat increases*
+3. *Better skills for PvP*
+*So for Tinymon with UR parts, they will have a significant advantage over other Tinymon in all of these areas. Plus the traits make them look really cool too!*
+
+*A: Tinyswap will support semi-nft first, such as SPIRIT, we will launch SPIRIT-TINC pair soon. Tinyswap can let users to add liquidity for a bunch of same value NFT with AMM mechanism. For example, user can add N Hero in the same pool for trading. It will significantly increase the liquidity of NFT.*
+
+*A: We already have quest carnival and current quest, but maybe if we will have the a brand-new furnace quest in the future. The furnace quest can potentially reward users with TINC/BUSD/SPIRIT for burning specific equipment. Any announcements about it will be made public at a later date.*
+
+*A: Because new users might not know much about energy, they bought a zero energy hero for mistake sometimes. If you want to buy 0 energy hero, we assume you’re not a rookie, you know where you can find it. We will add it into update news on the tiny farm.*
+
+*A: As i mentioned before, we will publish 3 articles to introduce the gameplay of pvp arena. The 2nd one will be the tinymon skills.*
+
+*A: In fact, we’re developing new mini-game, tiny kingdom arena, Tiny Dungeons and tinyswap at the same time. Our developers are working hard on everything. So you will see a lot of improvements in Q2.*
+
+*A: To be honest, they’re still in the discussion. So i can only share some thoughts here:*
+
+1. *We plan to add a new mechanism to adjust material drop dynamically.*
+2. *6-star materials and equipment will be released some time after the arena launched. We hope it can be design to NFT.*
+3. *We think the pvp arena is a place where the player can play at full strength.*
+*A: We will start a proposal for BUSD exchange soon. We plan to use the fund for ecosystem contributors and guild. At the same time, every community members are welcome to make suggestions on it.*
+
+*A: Yes, the skill will be improved when the trait leveled up*
+
+*A: Of course, we’re welcome developers to join our ecosystem.*
+
+Make sure you don’t miss our next AMA session! Join our official channels to stay up to date!
+
+👨‍🏫 [Binance Live](https://www.binance.com/en/live/u/25851821) 🕊️ [Twitter](https://twitter.com/tinyworldgamefi) 📺 [YouTube](https://www.youtube.com/@tinyworld2294/videos) 📰 [Medium](https://medium.com/@tinyworld.gamefi)
+
+🎮 [Discord](https://discord.com/invite/jXTRTz7B7N)🎴 [Instagram](https://www.instagram.com/tinyworld.gamefi/) 📘 [Facebook](https://www.facebook.com/profile.php?id=100084851317037)
+
+🏰 [Official Website](https://tinyworlds.io/)
+
+⛏️ [Tiny World Dapp](https://app.tinyworlds.io/)
+
+⚔️ [Start to Play](https://app.tinyworlds.io/game/dashboard)
+
+📖 [Whitepaper](https://docs.tinyworlds.io/)
+
+📱⚔️ [Tiny World Global Channel](https://t.me/tinyworld_en)
+
+📱📢 [Tiny World Announcement Channel](https://t.me/Tinyworldannouncement)
+
+![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=97366bcbfaf2)

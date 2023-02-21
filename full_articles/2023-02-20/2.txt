@@ -1,0 +1,723 @@
+**总体来讲**
+--------
+
+       
+
+### **1.热门币种方面：**
+
+**SUDO（Token）**，24 小时链上交易量 2350 万美金，本周日刚开放转账功能，上线后有一定的拉盘，代币较上线初期上涨一倍以上，过去一天链上共产生 4409 笔交易，DEX 上流动池大小有 368 万美金。
+
+  
+
+
+**CVP（Token）**，24 小时链上交易量 127 万美金，代币价格在非常短的时间内被拉盘一倍以上，随后有所回落。过去的一天内，发生了 789 次交易，DEX 上流动池有 127 万美金，上部套牢盘较多，进一步上涨有压力。
+
+ 
+
+**QOM（Token）**，24 小时链上交易量 122 万美金，交易量有所放大，代币 K 线非常稳健，代币价格上涨 25%。在过去的一天内，链上产生了共产生 516 次交易，DEX 上流动池大小有 427 万美金。
+
+ 
+
+**XMON（Token）**，24 小时链上交易量 819 万美金，量价齐升，短时间内上涨 30% 以上，总计发生了 2846 笔交易，交易热度较高。
+
+ 
+
+**BNBTiger（Token）**，24 小时链上交易量 104 万美金，代币短时间上涨 10 倍，引起交易员的短期博弈。在过去的一天内，代币发生了 9870 次交易，流动性池子大小为 357K，交易热度极高。
+
+ 
+
+**BOB（Token）**，24 小时链上交易量 52 万美金，是 zkBOB 项目的稳定币，币价稳定在 1$ 左右。过去的一天，链上发生了 722 次交易记录。
+
+ 
+
+### **2.热门 NFT 方面：**
+
+**Bull Dog Club（NFT）**，刚刚发售的 NFT 项目，NFT 价格经过一波炒作后有所回落，最高短期上涨了 10 倍，有一定的财富效应和交易热度，目前交易量有 15 个 ETH。
+
+ 
+
+**ChatFi（NFT）**，刚刚完成发售的 NFT 项目，其项目愿景是确保人工智能技术为 Web3 世界造福，项目创作设计感不错。目前交易热度较好，10K 个 NFT 在短时间即被售空，独立持有人有 7K 个，有大户按照地板价扫购，导致 NFT 价格短时间上涨 10 倍。项目热度较高。
+
+ 
+
+**Crown Royal（NFT）**，传统做酒类生产和零售的公司，近期在做 NFT 的发售活动，引起较多 Polygon 上新用户参与。该品牌在传统领域比较知名，此次运营活动可能会 on-board 不少新加密用户。
+
+ 
+
+**ChadsGPT（NFT）**，周末完成发售的 NFT 项目，开始发售即 Mint 完毕，目前二级市场的地板价在 0.01ETH 上下波动；Blur 有 30ETH 左右的竞价池，过去的 24 小时交易量有 400ETH，热度较高。
+
+ 
+
+**Opepen Edition（NFT）**，一个 TW KOL@jackbutcher 的 NFT 项目，1 月份开始发售的项目，目前 24 小时交易量为 488 个 ETH，独立持有地址数 12,943 个。该 KOL 在 TW 上有 22 万粉丝，在纽约的 10 年 Designer。
+
+ 
+
+**Semol Birds（NFT）**，昨日发售的 NFT 项目，发售环节有 FOMO 情绪，目前已经地板价升至 0.01ETH，总交易量上升至 62 个 ETH，交易热度较高。
+
+ 
+
+### **3.热门 DAPP 方面：**
+
+**Lens Protocol（Dapp）**，Lens 或即将发币引发热议。为了获取潜在空投机会，Lens 的交互量和 NFT 交易数据均上涨。
+
+ 
+
+**Camelot Router（Dapp）**，周末开启新一轮的 launchpad 项目"Arbitrove"。目前项目已经筹集 863 万美金，提高 $TROVE 的代币至 $0.043，Camelot 做为 Arbitrum launchpad 头部平台，为项目融资的能力较强，建议持续关注后续的 launchpad 项目。
+
+ 
+
+**Zyberswap（Dapp）**，Arbitrum 上的 DEX，通过代币奖励激励用户做 LP，TVL 上升至 161M，处于 ARB 上的第二位。近期和 Axelar 合作，准备集成跨链的 swap 合作，受消息刺激，代币的价格 24 小时上涨 25% 以上，项目的热度处于上升态势。
+
+ 
+
+**Luncrush（Dapp）**, 信息门户 + 交易平台，最近在推特上推 Lunar Crush Trade 的 Insight 功能，近期融入了 AI 功能，引起市场关注；另外，周末推的 Top Hashtags 的推文获得了 9 万多的社区浏览量，社区流量较大。
+
+ 
+
+**Vela Exchange（Dapp）**，交易量数据持续攀升，Beta 受到好评及看好；目前链上的 TVL 有 3232 万美金，24 小时场内交易量 1.23 亿美金，热度较高。
+
+ 
+
+### **4.Twitter 热议方面：**
+
+**BLUR（Token）**，随着 BLUR 第二阶段空投的开启，因为 BLUR 已有明确定价，用户之间的积分竞争将会十分激烈，但是高 bid 高积分的模式为传统的蓝筹 NFT 带来了大量的地板流动性，对整个 NFT 市场的流动性有一定改善。
+
+ 
+
+**MATIC（Token）**，2 月 14 日，Polygon 确定了 zkEVM 主网上线的日期，宣布将于 3 月 27 日正式上线主网 Beta 版本，这也是继 zkSync 上线主网后第二个 zkEVM 项目的主网上线，用户期待较高。
+
+ 
+
+**SNFTS（Token）**，SNFTS 是 IDO 平台 Seedify 推出的新代币，持有 SNFTS 可以降低用户市场费率、提高获得稀有 NFT 的概率，SNFTS 代币以 20:1 的比例空投给 SFUND 代币持有者，目前代币 SNFTS 市值 2662 万美金，24 小时成交额 53 万美金，只上线了 Pancake，代币近期二级市场走势比较强势，底部反弹了 440%，可以保持关注。
+
+  
+
+
+**LEND（Token）**，LEND.finance 跨链借贷协议，测试网发布后将在 TokenSoft 上启动 IDO，随后进行 10 万 LEND 代币空投，目前已完成跨链审计，预计近期发布测试网，项目社区在进行 LearnToLEND 活动，用户完成测验收集 10 个 NFT 可以获得奖励。
+
+ 
+
+### **5.区域热搜方面：**
+
+**COCOS BCX（Token）**，区块链游戏基础设施，团队为中国互联网大厂背景，受益资金近期关注中国概念，出现大幅拉升行情，目前市值 $1.6 亿，24 小时交易量 $5.6 亿。
+
+ 
+
+**QuickSwap（Dapp）**，Polygon 上第二大 dex，最早参与 Polygon 的 ZK-EVM 测试，后续将启动杠杆交易和 NFT Marketplace；受益于昨日官推宣布将于星巴克合作，价格上涨 50%。
+
+ 
+
+**BONE（Token）**，据官方核心开发者推特在周末透露，Shiba Inu 的二层网络 Shibarium 可能将于本周上线测试，相关概念代币 $SHIB、$BONE、$LEASH、$WOOF 都出现一定涨幅。
+
+ 
+
+**正文**
+------
+
+**撰文：Bitget 研究院**
+
+ 
+
+*数据统计时间：2 月 20 日 10:30*
+
+*数据来源：Dune、Dapps、Twitter、Google*
+
+*说明：*
+
+*1）新增活跃用户：是指在该公链过去 24 小时新产生，并在链上有交互行为的钱包地址*
+
+*2）存量活跃用户：是指在该公链 24 小时前产生，但过去 24 小时在链上有交互行为的钱包地址*
+
+*3）Dapp 日活 (UAW: unique active wallets)*
+
+ 
+
+**1.公链画像 - ETH 公链**
+-------------------
+
+### **1.1 用户画像**
+
+#### **1.1.1 核心数据**
+
+ETH 活跃用户总数：377,251
+
+ETH 新增活跃用户数：58,638 相比昨日增减幅：+1.37%
+
+ETH 存量活跃用户数：318,613 相比昨日增减幅：-2.19%
+
+#### **1.1.2 新增用户画像**
+
+核心数据：ETH 昨日新增活跃用户数 58,638，相比昨日 +1.37%
+
+热门赛道情况
+
+![](https://img.foresightnews.pro/202302/10214-1676893921156.png?x-oss-process=style/scale70)
+
+热门项目情况
+
+![](https://img.foresightnews.pro/202302/10214-1676893973695.png?x-oss-process=style/scale70)
+
+重点项目：
+
+**Bull Dog Club（NFT）**，刚刚发售的 NFT 项目，NFT 价格经过一波炒作后有所回落，最高短期上涨了 10 倍，有一定的财富效应和交易热度，目前交易量有 15 个 ETH；https://opensea.io/collection/bull-dog-club
+
+ 
+
+#### **1.1.3 存量用户画像**
+
+核心数据：ETH 存量活跃用户 318,613，相比昨日 -2.19%
+
+热门赛道情况
+
+![](https://img.foresightnews.pro/202302/10214-1676894028257.png?x-oss-process=style/scale70)
+
+热门项目情况
+
+![](https://img.foresightnews.pro/202302/10214-1676894021418.png?x-oss-process=style/scale70)
+
+重点项目：
+
+**ChatFi（NFT）**，刚刚完成发售的 NFT 项目，其项目愿景是确保人工智能技术为 Web3 世界造福，项目创作设计感不错。目前交易热度较好，10K 个 NFT 在短时间即被售空，独立持有人有 7K 个，有大户按照地板价扫购，导致 NFT 价格短时间上涨 10 倍。项目热度较高；https://opensea.io/collection/chatfi
+
+### **1.2 热门币对**
+
+#### **1.2.1 Uniswap V2**
+
+![](https://img.foresightnews.pro/202302/10214-1676894059286.png?x-oss-process=style/scale70)
+
+**SUDO（Token），**24 小时链上交易量 2350 万美金，本周日刚开放转账功能，上线后有一定的拉盘，代币较上线初期上涨一倍以上，过去一天链上共产生 4409 笔交易，DEX 上流动池大小有 368 万美金；https://www.dextools.io/app/en/ether/pair-explorer/0x68d01efdfbe5c0eebe3b19b571b18ae6d6ee16fc
+
+ 
+
+**CVP（Token），**24 小时链上交易量 127 万美金，代币价格在非常短的时间内被拉盘一倍以上，随后有所回落。过去的一天内，发生了 811 次交易，DEX 上流动池有 127 万美金，上部套牢盘较多，进一步上涨有压力，建议观察；https://www.dextools.io/app/en/ether/pair-explorer/0x12d4444f96c644385d8ab355f6ddf801315b6254
+
+ 
+
+**QOM（Token），**24 小时链上交易量 122 万美金，交易量有所放大，代币 K 线非常稳健，代币价格上涨 25%。在过去的一天内，链上产生了共产生 516 次交易，DEX 上流动池大小有 427 万美金；https://www.dextools.io/app/en/ether/pair-explorer/0x8ef79d6c328c25da633559c20c75f638a4863462
+
+ 
+
+#### **1.2.2 Uniswap V3**
+
+![](https://img.foresightnews.pro/202302/10214-1676894094265.png?x-oss-process=style/scale70)
+
+**XMON（Token）**，24 小时链上交易量 819 万美金，量价齐升，短时间内上涨 30% 以上，总计发生了 2846 笔交易，交易热度较高；https://www.dextools.io/app/en/ether/pair-explorer/0xd3ca35355106cb8bc5fd7c534275509673319d83
+
+ 
+
+**2.公链画像 - BSC 公链**
+-------------------
+
+### **2.1 用户画像**
+
+#### **2.1.1 核心数据**
+
+BSC 活跃用户总数：932,568
+
+BSC 新增活跃用户数：141,295 相比昨日增减幅：+0.68%
+
+BSC 存量活跃用户数：791,273 相比昨日增减幅：+1.16%
+
+#### **2.1.2 新增用户画像**
+
+核心数据：BSC 昨日新增活跃用户数 141,295，相比昨日 +0.68%
+
+热门赛道情况
+
+![](https://img.foresightnews.pro/202302/10214-1676894124987.png?x-oss-process=style/scale70)
+
+热门项目情况
+
+![](https://img.foresightnews.pro/202302/10214-1676894165496.png?x-oss-process=style/scale70)
+
+重点项目：
+
+**Cartoon Factory**，因合约透明度较低，且 Google、Twitter 未搜索到相应的项目，可能存在欺诈可能，注意警惕合约风险。
+
+**YES（Token）**：Yesworld，以拯救地球，推动绿色技术减少碳足迹为主题的社区类项目。
+
+ 
+
+#### **2.1.3 存量用户画像**
+
+核心数据：BSC 存量活跃用户 791,273，相比昨日 +1.16%
+
+热门赛道情况
+
+![](https://img.foresightnews.pro/202302/10214-1676894239715.png?x-oss-process=style/scale70)
+
+热门项目情况
+
+![](https://img.foresightnews.pro/202302/10214-1676894247708.png?x-oss-process=style/scale70)
+
+**Fintoch DC(Dapp)，**近期在越南线下举办主网上线庆祝会，在越南地区有一定的影响力。全球化做的一般，TW 上的关注度不高，建议持续观察；
+
+### **2.2 热门币对**
+
+#### **2.2.1 PancakeSwap V2**
+
+![](https://img.foresightnews.pro/202302/10214-1676894280751.png?x-oss-process=style/scale70)
+
+ 
+
+**BNBTiger（Token）**，24 小时链上交易量 104 万美金，代币短时间上涨 10 倍，引起交易员的短期博弈。在过去的一天内，代币发生了 9870 次交易，流动性池子大小为 357K，交易热度极高；https://www.dextools.io/app/en/bnb/pair-explorer/0x5e1aab9d49f6c7122df7de4d6dbd5b03c1ebb0b7
+
+ 
+
+**3.公链画像 - Polygon 公链**
+-----------------------
+
+### **3.1 用户画像**
+
+#### **3.1.1 核心数据**
+
+Polygon 活跃用户总数：313,325
+
+Polygon 新增活跃用户数：51,149 相比昨日增减幅：-14.96%
+
+Polygon 存量活跃用户数：262,176 相比昨日增减幅：-2.53%
+
+#### 
+
+#### **3.1.2 新增用户画像**
+
+核心数据：Polygon 昨日新增活跃用户数 51,149，相比昨日 -14.96%
+
+热门赛道情况
+
+![](https://img.foresightnews.pro/202302/10214-1676894342787.png?x-oss-process=style/scale70)
+
+热门项目情况
+
+![](https://img.foresightnews.pro/202302/10214-1676894377558.png?x-oss-process=style/scale70)
+
+重点项目：
+
+**Crown Royal（NFT）**，传统做酒类生产和零售的公司，近期在做 NFT 的发售活动，引起较多 Polygon 上新用户参与。该品牌在传统领域比较知名，此次运营活动可能会 on-board 不少新加密用户；https://opensea.io/collection/crown-royal-that-deserves-a-crown
+
+#### **3.1.3 存量用户画像**
+
+核心数据：Polygon 存量活跃用户 262,176，相比昨日 2.53%
+
+热门赛道情况
+
+![](https://img.foresightnews.pro/202302/10214-1676894408929.png?x-oss-process=style/scale70)
+
+热门项目情况
+
+![](https://img.foresightnews.pro/202302/10214-1676894441568.png?x-oss-process=style/scale70)
+
+重点项目：
+
+**Lens Protocol（Dapp）**，Lens 或即将发币引发热议。早前 2 月 8 日，据 Coinbase 平台加密资产界面显示，目前用户已可在该平台查询到 Lens Protocol 项目方 Token LENS 的相关页面，开盘价或为 0.00023 美元，其他具体信息暂无显示。为了获取潜在空投机会，Lens 的交互量和 NFT 交易数据均上涨；https://opensea.io/collection/lens-protocol-profiles；https://www.lens.xyz/；
+
+### **3.2 热门币对**
+
+#### **3.2.1 Uniswap V3**
+
+![](https://img.foresightnews.pro/202302/10214-1676894474226.png?x-oss-process=style/scale70)
+
+**BOB（Token）**，24 小时链上交易量 52 万美金，是 zkBOB 项目的稳定币，币价稳定在 1$ 左右。过去的一天，链上发生了 722 次交易记录，建议持续观察；https://www.dextools.io/app/en/polygon/pair-explorer/0x0a63d3910ffc1529190e80e10855c4216407cc45
+
+**4.公链画像 - Arbitrum 公链**
+------------------------
+
+### **4.1 用户画像**
+
+#### **4.1.1 核心数据**
+
+Arbitrum 活跃用户总数：109,952
+
+Arbitrum 新增活跃用户数：16,583 相比昨日增减幅：-8.05%
+
+Arbitrum 存量活跃用户数：93,369 相比昨日增减幅：-0.32%
+
+#### **4.1.2 新增用户画像**
+
+核心数据：Arbitrum 昨日新增活跃用户数 16,583，相比昨日 -8.05%
+
+热门赛道情况
+
+![](https://img.foresightnews.pro/202302/10214-1676894517737.png?x-oss-process=style/scale70)
+
+热门项目情况
+
+![](https://img.foresightnews.pro/202302/10214-1676894550581.png?x-oss-process=style/scale70)
+
+重点项目：
+
+**Zyberswap（Dapp）**，Arbitrum 上的 DEX，通过代币奖励激励用户做 LP，TVL 上升至 161M，处于 ARB 上的第二位。近期和 Axelar 合作，准备集成跨链的 swap 合作，受消息刺激，代币的价格 24 小时上涨 25% 以上，项目的热度处于上升态势，可以与钱包业务合作；https://coinmarketcap.com/currencies/zyberswap/
+
+ 
+
+#### **4.1.3 存量用户画像**
+
+核心数据：Arbitrum 存量活跃用户 93,369，相比昨日 -0.32%
+
+热门赛道情况
+
+![](https://img.foresightnews.pro/202302/10214-1676894592072.png?x-oss-process=style/scale70)
+
+热门项目情况
+
+![](https://img.foresightnews.pro/202302/10214-1676894612454.png?x-oss-process=style/scale70)
+
+重点项目：
+
+**Oreo Swap**，Arbitrum 上的老 Dex，TVL 并没有因行情炒作而有所起色，建议持续关注项目发展情况；
+
+### **4.2 热门币对**
+
+#### **4.2.1 Uniswap V3**
+
+![](https://img.foresightnews.pro/202302/10214-1676894637102.png?x-oss-process=style/scale70)
+
+ 
+
+**DBL（Token）**，24 小时交易量 8 万美金，池子深度 48 万美金，2 周前冲高回落，目前代币上涨有压力，建议持续观察；https://www.dextools.io/app/en/arbitrum/pair-explorer/0x93bcfb0469fd7e8e855abe81e13cf2e0f0192e48
+
+**5.DAPP 生态 - 所有公链**
+--------------------
+
+![](https://img.foresightnews.pro/202302/10214-1676894675701.png?x-oss-process=style/scale70)
+
+**Luncrush（Dapp）**, 信息门户 + 交易平台，最近在推特上推 Lunar Crush Trade 的 Insight 功能，近期融入了 AI 功能，引起市场关注；另外，周末推的 Top Hashtags 的推文获得了 9 万多的社区浏览量，社区流量较大；https://lunarcrush.com/portfolio
+
+ 
+
+**6.DAPP 生态 - ETH 公链**
+----------------------
+
+![](https://img.foresightnews.pro/202302/10214-1676894697459.png?x-oss-process=style/scale70)
+
+**ChadsGPT（NFT）**，周末完成发售的 NFT 项目，开始发售即 Mint 完毕，目前二级市场的地板价在 0.01ETH 上下波动；Blur 有 30ETH 左右的竞价池，过去的 24 小时交易量有 400ETH，热度较高
+
+；https://opensea.io/collection/chadsgpt
+
+ 
+
+**Opepen Edition（NFT）**，一个 TW KOL@jackbutcher 的 NFT 项目，1 月份开始发售的项目，目前 24 小时交易量为 488 个 ETH，独立持有地址数 12,943 个。该 KOL 在 TW 上有 22 万粉丝，在纽约的 10 年 Designer。 https://opensea.io/collection/opepen-edition
+
+**7.DAPP 生态 - BSC 公链**
+----------------------
+
+![](https://img.foresightnews.pro/202302/10214-1676894728768.png?x-oss-process=style/scale70)
+
+**MOBOX（Dapp）**，BNB 链上的头部链游项目。近期的运营活动较多：$MBOX 代币回购计划，与 Trush Wallet 合作活动预热等，其代币 $MBOX 因回购计划，目前在二级市场上表现良好，有突破前高的趋势，已经在 Bitget 上线交易；https://www.mobox.io/#/
+
+**8.DAPP 生态 - Polygon 公链**
+--------------------------
+
+![](https://img.foresightnews.pro/202302/10214-1676894771400.png?x-oss-process=style/scale70)
+
+**Playbite（Dapp）**，项目是一个游戏平台，用户可以通过玩游戏兑换真实奖励，包括苹果耳机、Switch 等，产品已在谷歌和苹果商店上线（谷歌商店下载次数 1 万 +），社群流量一般，可以持续观察；https://app.playbite.com/
+
+ 
+
+**9.DAPP 生态 - WAX 公链**
+----------------------
+
+![](https://img.foresightnews.pro/202302/10214-1676894798011.png?x-oss-process=style/scale70)
+
+**Nifty Kicks Factory（Dapp）**，初创的游戏项目，官网透露的有效信息比较有限，社交媒体也处于刚刚运营的状态，从介绍来看有点像 Stepn 的游戏，网站 UI 做的一般，可以持续关注；https://www.niftykicks.io/#
+
+**10.DAPP 生态 - Solana 公链**
+--------------------------
+
+![](https://img.foresightnews.pro/202302/10214-1676894834073.png?x-oss-process=style/scale70)
+
+Solana 链上的 Defi 项目因为 $SOL 的代币表现上涨明显，有较好的 UAW 的表现，主要是 price in 去中心化交易所池子价格的变化情况；Solana 近期和 Helium 的合作引起社区的关注：Helium 主网即将上线至 Solana。https://twitter.com/helium/status/1626617401914556417
+
+ 
+
+**11.DAPP 生态 - Arbitrum 公链**
+----------------------------
+
+![](https://img.foresightnews.pro/202302/10214-1676894859308.png?x-oss-process=style/scale70)
+
+**Vela Exchange（Dapp）**，交易量数据持续攀升，Beta 受到好评及看好，网站访问总量为 245.0K，相较上月增长 415.7%，流量主要来自美国（9.87%），印度尼西亚（8.7%），法国（7.1%）；目前链上的 TVL 有 3232 万美金，24 小时场内交易量 1.23 亿美金，热度较高；
+
+ 
+
+**Kyberswap（Dapp）**，链上流动性协议，昨日发推更新最新进展，表示 Polygon 链上的 KyberSwap 聚合器已启用并恢复正常，用户可以重新开始使用，昨天 Kyberswap 在 Polygon 出现技术问题，引起在其他跨链的交互数据异动，建议持续跟进项目动态。
+
+ 
+
+**12.DAPP 生态 - 全公链 GameFi 板块**
+------------------------------
+
+![](https://img.foresightnews.pro/202302/10214-1676894885258.png?x-oss-process=style/scale70)
+
+全公链 Gamefi 板块来看，项目 UAW 数据涨跌不一致，没有形成整个板块热度的趋势；各项目开展运营活动，根据市场社区的反映，可能会使交互数据有不同程度的上涨；
+
+**13.Gas 费消耗情况 - ETH 公链**
+-------------------------
+
+![](https://img.foresightnews.pro/202302/10214-1676894909921.png?x-oss-process=style/scale70)
+
+Semol Birds（NFT），昨日发售的 NFT 项目，发售环节有 FOMO 情绪，目前已经地板价升至 0.01ETH，总交易量上升至 62 个 ETH，交易热度较高；https://opensea.io/collection/semol-birbs
+
+ 
+
+**14.Gas 费消耗情况 - BSC 公链**
+-------------------------
+
+![](https://img.foresightnews.pro/202302/10214-1676894931190.png?x-oss-process=style/scale70)
+
+**Cartoon Factory，**因合约透明度较低，且 Google、Twitter 未搜索到相应的项目，可能存在欺诈可能，注意警惕合约风险。
+
+**Rank 5、15 可能是 MEV Bot**，在行情变化较大的时候，有较多的 Gas Fee 消耗。
+
+ 
+
+**15.Gas 费消耗情况 - Polygon 公链**
+-----------------------------
+
+![](https://img.foresightnews.pro/202302/10214-1676894953744.png?x-oss-process=style/scale70)
+
+**Lens follow action proxy（Dapp）**，Lens 社交生态中，用户 follow 的行为是上链的操作，Lens Follow 的动作加多，说明 Lens Protocol 的用户量在上升；主要因为前期受发布预期的影响，为了领取潜在空投奖励，Lens 生态的交互量和 Lens NFT 购买量均有较明显的上涨，引起 gas fee 的消耗提升；https://www.lens.xyz/
+
+ 
+
+**Crown Royal（NFT）**，传统零售行业做酒类生产和销售的公司。近期开发了 chain of gradtitude，官网显示只能在移动端可以使用，目前链上正发一些 ERC-721 的 NFT，申领人数较多；https://opensea.io/collection/crown-royal-that-deserves-a-crown
+
+**16.Gas 费消耗情况 - Arbitrum 公链**
+------------------------------
+
+![](https://img.foresightnews.pro/202302/10214-1676894977697.png?x-oss-process=style/scale70)
+
+**Vela Exchange（Dapp）**，热度情况已在前文有阐释，该项目做 Hyper VLP 质押年化收益率高达 322%，用户参与热度极高，建议观察是否有财富效应机会；（VLP，平台做市的凭证，与 GMX 的 GLP 类似）https://app.vela.exchange/staking/hyper
+
+ 
+
+**Camelot Router（Dapp）**，周末开启新一轮的 launchpad 项目"Arbitrove"，该项目采用无硬顶的、公开竞价的拍卖策略，即最后每位投资人无论参与先后，以最后的价格成交。目前项目已经筹集 863 万美金，提高 $TROVE 的代币至 $0.043，Camelot 做为 Arbitrum launchpad 头部平台，为项目融资的能力较强，建议持续关注后续的 launchpad 项目；https://app.camelot.exchange/launchpad/arbitrove
+
+**17.Twitter trends token top 20**
+----------------------------------
+
+![](https://img.foresightnews.pro/202302/10214-1676895005986.png?x-oss-process=style/scale70)
+
+从 Twitter 趋势代币热度角度看：
+
+ 
+
+热度明显上涨的代币有：BLUR、MATIC；
+
+ 
+
+**BLUR（Token）**：根据 Dune Analytics 显示，当前 BLUR 已领取钱包地址数达 111,773 个，占比空投总量达 93.84%，还有约 2219 万枚代币未领取，在已领取的账户中，领取<100 的地址为 33036（29.6%），领取 100-1k 的地址为 45313（40.6%），领取 1k-10k 的地址为 27589（24.7%），领取 10k-100k 的地址为 5502（5.1%），随着 BLUR 第二阶段空投的开启，因为 BLUR 已有明确定价，用户之间的积分竞争将会十分激烈，但是高 bid 高积分的模式为传统的蓝筹 NFT 带来了大量的地板流动性，对整个 NFT 市场的流动性有一定改善；
+
+ 
+
+**MATIC（Token）**：2 月 14 日，Polygon 确定了 zkEVM 主网上线的日期，宣布将于 3 月 27 日正式上线主网 Beta 版本，这也是继 zkSync 上线主网后第二个 zkEVM 项目的主网上线，用户期待较高，可以持续关注进展；
+
+ 
+
+新上榜代币：SNFTS、DOGGO、FTM；
+
+ 
+
+重点项目：
+
+ 
+
+**SNFTS（Token）**：SNFTS 是 IDO 平台 Seedify 推出的新代币，持有 SNFTS 可以降低用户市场费率、提高获得稀有 NFT 的概率，SNFTS 代币以 20:1 的比例空投给 SFUND 代币持有者，目前代币 SNFTS 市值 2662 万美金，24 小时成交额 53 万美金，只上线了 Pancake，代币近期二级市场走势比较强势，底部反弹了 440%，可以保持关注；
+
+ 
+
+**DOGGO（Token）**：基于 Solana 构建的 meme，代币 24 小时交易额 31 万美金，总估值 76 万美金，代币在 2023 年的 1 月 16 日上线，开盘即高点，随后一路下跌，目前价格距离高点跌幅了 95.21%，代币表现很差；
+
+ 
+
+**FTM（Token）**：近期 Fanton 上的很多项目都迁移到了 Arbitrum 上重新换个名字发币，连之前 AC 做的 dex-Solidly（高峰 TVL20 亿美金）都在 ARB、OP、BSC 生态出现了 Fork 版本，且 TVL 成长迅速，可以看出 Fantom 生态上的 Defi 项目具备较强的创新能力，后续叠加 AC 回归以及 Fantom 网络升级等重大更新，对于 Fantom 上的项目可以持续关注；
+
+ 
+
+**18.Twitter KOL 提及代币次数**
+-------------------------
+
+![](https://img.foresightnews.pro/202302/10214-1676895032201.png?x-oss-process=style/scale70)
+
+从 Twitter KOL 提及代币角度看：
+
+ 
+
+Super Kol 提及较热代币：BTC、ETH、BLUR、BUSD、MATIC，2 月 19 日 BTC 第二次尝试突破 $25200 重要压力位，在触碰到 $25200 后快速回落 1200 美金，最低跌至 $23840，目前 4 小时收长下影线，后续重点关注 $25200 附近多空争夺，这里换手频繁，一旦突破，上方新的压力位将在 $27000-$30000，如果突破失败，短期形成双头走势，$23000 附近是重要支撑；
+
+ 
+
+Builder 提及的代币：头部提及次数的代币为：BLUR、SNS，腰部提及次数的代币为：ETH、USDT、LEND、APT、QUAI、MOVE、STAR 等；
+
+ 
+
+**LEND（Token）**：LEND.finance 跨链借贷协议，测试网发布后将在 TokenSoft 上启动 IDO，随后进行 10 万 LEND 代币空投，目前已完成跨链审计，预计近期发布测试网，项目社区在进行 LearnToLEND 活动，用户完成测验收集 10 个 NFT 可以获得奖励，近期被 Build 提及多次，可以保持观察；
+
+ 
+
+**MOVE（Token）**：BlueMove 是搭建在 Aptos 和 Sui 上的 NFT 市场，代币在 2 月 13 日上线，近日和 SUI DinosNFT 合作推出了 2 个 Ticket 系列，用户需要使用 MOVE 代币购买，未来在 BlueMove 上进行 Launchpad 的项目基本都会采取这种合作方式，加强 MOVE 代币的消耗场景，MOVE 24 小时交易额 257 万美金，估值 4846 万美金；
+
+ 
+
+**19.Twitter VC 机构提及代币次数**
+--------------------------
+
+![](https://img.foresightnews.pro/202302/10214-1676895062573.png?x-oss-process=style/scale70)
+
+从 VC 机构在 TW 上提及的次数看：
+
+ 
+
+BTC、BLUR、ALIEN、BNB、BUSD 等代币被提及次数较多，BLUR 近期价格表现强势，后续有上线币安的预期，此外，ADA、CAKE、SAND、GHO、LINK 等代币的关注度开始提升；
+
+ 
+
+**20.Google 热搜词云 - 全区域**
+------------------------
+
+![](https://img.foresightnews.pro/202302/10214-1676895109108.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202302/10214-1676895114106.png?x-oss-process=style/scale70)
+
+从 Google 热搜的角度看，全区域最关注的热搜词和代币为：
+
+ 
+
+热搜词：Truth GPT、Binance、Crypto Bubbles、Crypto news；
+
+热搜代币：COCOS、TRUTHGPT；
+
+**COCOS BCX（COCOS）**：区块链游戏基础设施，团队为中国互联网大厂背景，受益资金近期关注中国概念，出现大幅拉升行情，目前市值 $1.6 亿，24 小时交易量 $5.6 亿；
+
+TRUTHGPT（词汇&token）：马斯克在 17 号推文提到"What we need is TRUTHGPT"，市场出现多个代号 $TRUTHGPT 的匿名土狗币，流动性不高；
+
+ 
+
+**21.Google 搜索热词飙升 - 东亚、南亚、东南亚、港澳台**
+------------------------------------
+
+![](https://img.foresightnews.pro/202302/10214-1676895155455.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202302/10214-1676895159924.png?x-oss-process=style/scale70)
+
+**【南亚区】**
+
+「印度」
+
+热搜 token：COCOS、STX；
+
+Stacks（STX）：基于 Bitcoin 的 Layer2，生态项目已初具规模，链上已铸造 65 万 +NFT，由于近期 Ordinals NFT 对 BTC 生态的催化，STX 今日价格放量突破暴涨一倍，目前市值 $7592 万，24 小时交易量 $1970 万；
+
+热搜词汇：加密货币价格情况、加密投资等基础交易信息；
+
+「巴基斯坦」
+
+热搜词汇：最好的加密货币交易所、cointelegraph、头部加密货币交易所、信任的加密钱包、coingecko 等基础信息；
+
+ 
+
+**【东南亚区】**
+
+「菲律宾」热搜 token：BLUR、FIL、COCOS、GFT、BTC；
+
+菲律宾主要是各类热搜 token，对加密货币的接受度和交易度较高；
+
+「印度尼西亚」
+
+热搜 token：COCOS;
+
+热搜词汇：加密赚钱游戏、加密货币质押、加密投资等；
+
+「新加坡」热搜 token：FIL；
+
+ 
+
+**【东亚及港澳台】**
+
+热搜词汇：Crypto news、Crypto credit card；
+
+ 
+
+**22.Google 搜索热词飙升 - 英文区、欧洲、CIS 区**
+-----------------------------------
+
+![](https://img.foresightnews.pro/202302/10214-1676895194138.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202302/10214-1676895198557.png?x-oss-process=style/scale70)
+
+**【CIS 区】** 
+
+热搜词：Crypto bubbles、加密空投；
+
+热搜 token：COCOS；乌克兰地区出现 COCOS 热搜，近期多地日度普遍较高；
+
+ 
+
+**【英文区】**
+
+「加拿大」热搜 token：TRUTHGPT、ALGO、STX、SHIB；
+
+「澳大利亚」热搜 token：STX、STG、TRUTH、IMPT、KEY；
+
+「美国」热搜 token：XMON、ELONGATE、TRUTHGPT、QUICK；
+
+QuickSwap（Dapp）：Polygon 上第二大 dex，最早参与 Polygon 的 ZK-EVM 测试，后续将启动杠杆交易和 NFT Marketplace；受益于昨日官推宣布将于星巴克合作，价格上涨 50%；
+
+ElonGate（Token）：马斯克推文概念，属于社区型 meme coin，https://www.dextools.io/app/en/bnb/pair-explorer/0x4c82b6ce77ee16ebaeb5e37098f18d1e722e1601，价格走势不佳，交易量 $33 万，建议观察；
+
+「英国」热搜 token：FLOKI、ACH、TRUTHGPT、CFX；
+
+ 
+
+**【欧洲区】**
+
+「德国」热搜 Token：COCOS、HEX、CAKE、CHIA；
+
+热搜词汇：加密咨询、加密新闻、加密税、恐惧与贪婪指数、中国加密货币；
+
+「意大利」热搜 Token：CFX、ULX、HBAR、ADA、FEG；
+
+「瑞士」热搜 Token：DOT、VET；
+
+「法国」热搜 Token：MERIA、STX、KDA、ALGO、HBAR、ASM；
+
+「西班牙」热搜 Token：T23、AAVE、RUNE、COCOS、BONE、GALA、TRUTHGPT；
+
+BONE（token）：据官方核心开发者推特在周末透露，Shiba Inu 的二层网络 Shibarium 可能将于本周上线测试，相关概念代币 $SHIB、$BONE、$LEASH、$WOOF 都出现一定涨幅；
+
+ 
+
+**23.Google 搜索热词飙升 - 中东、拉丁美洲、非洲**
+---------------------------------
+
+![](https://bglimited.larksuite.com/space/api/box/stream/download/asynccode/?code=ODY1NTNhMzgyZDNhZjgyYjM3NjIxYzZlZTgyMTIyZTZfV3Iwd1FpanZEcXdIMHExaGtUN2NmaHpVa2JPWXRMRExfVG9rZW46Ym94dXNvQ05nOVEwbG5DdXNJRGlHY0VSSFdnXzE2NzY4OTUyNjc6MTY3Njg5ODg2N19WNA)
+
+![](https://bglimited.larksuite.com/space/api/box/stream/download/asynccode/?code=MjZhMDM0ZWYzODIyYTQ5NjMxNmFlNjc1NDQ1ZWFkMmFfU2R3MEM2NmRvRnRLMHUzN1hDQm8xcXdBSFJVdzRuR0VfVG9rZW46Ym94dXNTenpUWTNkOFhjU1lpZXN3VFdCT2VlXzE2NzY4OTUyNzU6MTY3Njg5ODg3NV9WNA)
+
+**【非洲区】**
+
+热搜词：加密交易、coinmarketcap、crypto bubbles、加密钱包等基础信息；
+
+热搜代币：SOL、TRUTHGPT、BOMB、BTC；
+
+ 
+
+**【中东区】** 
+
+热搜词：Crypto news、最值得投资的加密货币、加密货币价格、加密货币市值、coinmarketcap；
+
+热搜 token：COCOS、TRUTHGPT；
+
+ 
+
+**【拉丁美洲区】**
+
+「巴西」 热搜 Token：SOL、COCOS、BLUR、MANA、GOG、AGIX、AXS、BTC；
+
+巴西热搜都是 token，种类非常丰富，涵盖主流币、近期多个赛道市场热点币
+
+「墨西哥」热搜 Token：COCOS；
+
+热搜词：加密市值；
+
+「阿根廷」热搜 token：NANO、COCOS、AGIX、CFX；
+
