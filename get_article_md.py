@@ -29,8 +29,19 @@ def add_article_md_foresightnews(url):
 
 
 def add_all_articles_md(dt):
-    shutil.rmtree('full_articles')
-    os.mkdir('full_articles')
+    path = f"full_articles"
+    if not os.path.exists(path):
+        os.mkdir(path)
+    path = f"full_articles\{dt}"
+    if not os.path.exists(path):
+        os.mkdir(path)
+
+    dt_to_delete = dt + timedelta(days = -7)
+    try:
+        os.remove(f"full_articles\{dt_to_delete}")
+        print(f"the full articles in {dt_to_delete} has been deleted")
+    except:
+        pass
 
     df = pd.read_csv(rf"trending_articles\{dt}.csv")
     n = len(df)
@@ -41,7 +52,7 @@ def add_all_articles_md(dt):
             article_md = add_article_md_foresightnews(url)
             # df.loc[i, "article"] = article_md
 
-            with open(rf"full_articles\{i}.txt", "w+", encoding="utf-8") as f:
+            with open(rf"full_articles\{dt}\{i}.txt", "w+", encoding="utf-8") as f:
                 f.write(article_md)
 
     df.to_csv(rf"trending_articles\{dt}.csv", index = False)
