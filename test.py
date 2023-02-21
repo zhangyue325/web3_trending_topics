@@ -1,5 +1,13 @@
 import wechatsogou
 import ddddocr
+import json
+from bs4 import BeautifulSoup
+
+
+tree = BeautifulSoup("https://news.marsbit.cc/20230220084205780132.html")
+print(tree)
+# good_html = tree.prettify()
+# print(good_html)
 
 
 # OCR = ddddocr.DdddOcr(ocr=True,show_ad=False,use_gpu=True,old=True,beta=True)
@@ -15,4 +23,7 @@ import ddddocr
 
 # for ele in res:
 #     print(ele)
+
+
+
 
