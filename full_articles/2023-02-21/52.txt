@@ -1,0 +1,64 @@
+Fantom 生态正在快速发展，出现了许多令人兴奋的机会💎。如果你正在读这篇文章，你仍然是早期探索者之一。这篇推文将简单介绍 Fantom 以及生态中一些有前景的宝石。
+
+概述
+--
+
+Fantom 是一个 L1 公链，它使用单个共识层来支持创建多个执行链。Fantom 成立于 2018 年，是继以太坊之后最老牌的公链之一，自成立以来 99.9% 的时间保持正常运行。
+
+要点速览
+----
+
+* Fantom 由@michaelfkong、@AndreCronjeTech、@Quan6888 和@theotherpomp 领导
+* Fantom 生态拥有 200 多个 dApp，并且还在增加。
+* FTM 在大约 65 个交易所和 127 个市场上市
+* 根据@DefiLlama，Fantom 的 TVL 约为 5.15 亿美元
+* Fantom 提供最快的交易确认时间（低于 900 毫秒）。
+* 自 2022 年 10 月以来，Fantom 的唯一地址一直在稳步增长
+* FVM 理论上可以每天处理大约 4 亿笔交易，是 VISA 的 4 倍
+![](https://img.foresightnews.pro/202302/5-1676960660888.jpeg?x-oss-process=style/scale70)
+
+技术
+--
+
+Fantom 的 PoS 共识机制被称为 Lachesis。使用 Lachesis，每个验证器都有其本地区块 DAG，将交易分批放入事件块中，并作为顶点添加到其 DAG 结构中。
+
+从本质上讲，Lachesis 使 Fantom 能够提供高交易速度、低交易成本和最终确定性。同时，Lachesis 可以在无需许可的开放环境中扩展到全球许多节点，提供良好的去中心化程度。
+
+![](https://img.foresightnews.pro/202302/5-1676960677958.jpeg?x-oss-process=style/scale70)
+
+进展
+--
+
+Fantom 最近通过了一项[治理提案](https://forum.fantom.network/t/dapp-affiliate-rewards-discussion/132)，以启动 Gas 货币化结构，以奖励高质量 DApp。根据这项提案，开发者可以赚取合约消耗 Gas 的 15% 作为收入。
+
+此外，Fantom 的 Ecosystem Vault 已于上个月上线。Vault 是一个链上和社区驱动的基金，Fantom 提供网络交易费用的 10% 作为资助，旨在支持新项目和想法。迄今为止，Vault 已吸引了超过 13 万 FTM。
+
+有前景的新项目
+-------
+
+### SpookySwap
+
+[SpookySwap](https://twitter.com/SpookySwap) 是 Fantom 上所有 DeFi 活动的一站式协议——从交易到挖矿等等。你可以抵押 BOO 以获得被动奖励。
+
+### Equalizer Exchange
+
+[Equalizer Exchange](https://twitter.com/Equalizer0x) 的双 AMM 设计将 StableSwap 池与标准「kxy」流动性池连接起来。Equalizer 最近达到了 4400 万美元 TVL。此外，它们是 Famtom 上最顶级的保险库之一。
+
+### Beethoven
+
+[Beethoven](https://twitter.com/beethoven_x) 利用 Balancer 为其用户提供自动再平衡指数基金。
+
+### Morpheus Swap
+
+[Morpheus Swap](https://twitter.com/MorphexFTM) 是一种创新的收益耕种和聚合器协议，即将开始启动。
+
+其他值得一提的项目：
+
+* [Tarot Finance](https://twitter.com/TarotFinance)
+* [COMB Financial](https://twitter.com/combfinancial)
+* [Mummy Finance](https://twitter.com/mummyftm)
+个人看法
+----
+
+Fantom 正在通过坚实的基础设施，以用民主化的方式构建优质 DApp。照目前的速度，它有望在 2023 年及以后成为最令人兴奋的基础层，我坚定看好它。
+

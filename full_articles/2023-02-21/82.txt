@@ -1,0 +1,227 @@
+加入 PolkaWorld 社区，共建 Web 3.0！
+
+![](https://img.foresightnews.pro/202302/9f6f6934b8916dc8f69060eefcf66bcd.png?x-oss-process=style/scale70)当前加密社区在跨链场景中使用最多的还是跨链桥，并且在通用消息跨链中最大的应用就是资产跨链桥，即将一个链上的资产转移到另外一条链上，从而进行相关的 Defi 操作。在 Polkadot 中，中继链为每个平行链随机分配验证者，从而实现共享安全性。在此结构之下，开发了平行链间的跨链消息传递协议 XCMP。跨链消息传递协议 XCMP 是 Polkadot 协议的一个子集。它定义了在除了共享中继链的安全性之外没有其他的信任假设的情况下，消息如何在平行链之间传递。
+
+  
+
+
+在 XCMP 正式启动前，Polkadot 采用 HRMP + XCM 的方式进行跨链。本文将介绍 HRMP + XCM 的跨链方式与跨链桥的区别和安全性，以及 XCM 的最新进展和在平行链间的实际场景。
+
+  
+
+
+  
+
+
+**HRMP + XCM 与跨链桥有什么区别？**
+
+  
+
+
+HRMP 指的是水平中继路由消息传递通道（Horizontal Relay-routed Message-passing Channel），是一种使用中继链传递消息的替代协议。当 XCMP 上线后，HRMP 这个替代通道将被**弃用**。
+
+  
+
+
+而 [XCM](http://mp.weixin.qq.com/s?__biz=MzI3MzYxNzQ0Ng==&mid=2247495924&idx=1&sn=4416d2b67c52ac3a81412ce796600894&chksm=eb2237bddc55beab5e5c95234b005602089a5fd292ef67bafaf4f2dba987f3b30b5d8a582541&scene=21#wechat_redirect) 是一种跨共识信息格式。例如，Bifrost 发布一个 XCM 消息，并将此消息广播出去，其他有同样消息格式的链就可以接收到 Bifrost 的消息并进行执行。
+
+  
+
+
+Polkadot 的这种跨链方式与跨链桥在应用场景上比较大的区别是**跨链桥的流动性是较为有限的**，不能承载大规模的流动性。正如 Gavin 在一次活动中的分享，“**目前异构的跨链桥是一个反网络效应的体系，当其上的资产达到一定数量的时候，就会出现安全性的问题**。” 如果通过 Polkadot 的 XCM 进行跨链，**无限流动性**是最大优势之一，因为中继链原生的保证了安全性， 因此 Polkadot 相对跨链桥不存在资金上限的瓶颈。
+
+  
+
+
+  
+
+
+**为什么 XCM 更加安全？**
+
+  
+
+
+首先，平行链**共享 Polkadot 中继链的安全性**，中继链的验证人是完全去中心化的，没有任何托管节点被攻击的风险，平行链之间本身可以安全地传递任意数据，这个数据也包括 XCM 跨链消息的传递。
+
+  
+
+
+从 XCM 实现来看，XCVM 虚拟机是一个基于寄存器模型、非图灵完备的虚拟机。这个寄存器是**不能随意更改**，有严格的机制来控制它的变化，因此也保证了安全性。
+
+  
+
+
+同时在使用 XCM 做跨链转账时有两种模型。一种是 **Teleport 传输模型**，适合于两个链之间相互是信任的，目前中继链和公益平行链之间会用到。另一种模型类似于 “**银行存款准备金**” 的跨链转账模型，叫做 Reserve Asset Transfer，这也是平行链之间进行跨链转账的通用做法。此做法不需要跨链双方互相信任，但可以信任资产发行的这条链，这条链上的平行链都会有储备账户。例如，从 Acala 转账 DOT 到 Bifrost，在波卡上就会存在这两条平行链的主权账户，这些账户没有私钥，无法进行转账操作，只能通过内置指令触发，以此有着**较高的安全性**。
+
+  
+
+
+  
+
+
+**XCM 最新进展**
+
+  
+
+
+Polkadot 创始人 Gavin Wood 在上个月发推，“ 经过整整 15 个月的开发，Polkadot XCM v3 终于被合并。将启动桥、跨链锁定、交换、NFT、条件、上下文跟踪等功能。https://github.com/paritytech/polkadot/pull/4097
+
+  
+
+
+目前 XCM v3 已经在最新的 Polkadot v0.9.38 版本中合并 ，但还没开放使用。预计将在**下次升级**中开放 XCM v3 调用。大家尽请期待！
+
+  
+
+
+关于 XCM v3 的更多信息，可以查看[《Gavin Wood：经过整整 15 个月的开发，Polkadot XCM v3 终被合并！》](http://mp.weixin.qq.com/s?__biz=MzI3MzYxNzQ0Ng==&mid=2247497658&idx=1&sn=4439680766f9f211f08f95a01f7b1ca6&chksm=eb2230f3dc55b9e5638bc12f6e2309c2b6bc240a887e4327d44bbb9344ad7473429074749c0c&scene=21#wechat_redirect)
+
+  
+
+
+  
+
+
+**XCM 在 Polkadot 中的使用场景**
+
+  
+
+
+Gavin 对 2022 年的总结中提到，迄今为止，仅在 Polkadot 上就发送了超过 **160,000** 条 XCM 消息，另外在 Kusama 上发送了 **200,000** 多条消息。我们粗略的计算，在 Polkadot 和 Kusama 上一共开启了 **300 个左右**的 HRMP 的通道。以下是我们整理的大家可能使用过的一些功能，这些功能都是基于 XCM 的实现，也是 XCM 的实际场景。
+
+  
+
+
+**Acala**
+
+  
+
+
+在 apps.acala.network 中，将 DOT 从 Polkadot 转移到 Acala 上，或者将 GLMR 从 Moonbeam 转移到 Acala 上，都是属于通过 XCM 的方式进行的跨链（除去以太坊）。正是因为在 XCM 跨链下，你的 DOT 才可以在 Acala 中获得更高的收益，即当你使用 Liquid Staking 时，你将收到 LDOT ，这些 LDOT 将作为带息资产。当持有 LDOT，就会被动增加 DOT 收益。
+
+  
+
+
+![](https://img.foresightnews.pro/202302/3ec3f426c22bf3719a986a9422c6aabd.png?x-oss-process=style/scale70)  
+
+
+**Moonbeam**
+
+  
+
+
+在 beta-apps.moonbeam.network 中，你也可以在 Parachain Bridges 的页面中进行平行链之间的跨链。例如，你可以将 DOT 从 Polkadot 网络跨到 Moonbeam 上生成 xcDOT，再质押进 Lido，也可以再释放流动性，生成 stxcDOT。https://polkadot.lido.fi/
+
+  
+
+
+![](https://img.foresightnews.pro/202302/1b93fbc983af5c638ce2135cf75efdf8.png?x-oss-process=style/scale70)  
+
+
+**Astar**
+
+  
+
+
+同样 Astar 也支持了 11 种跨链资产，将原生链的资产跨过来后，再在 Astar 生态中的 DeFi 应用中进行其他的使用。
+
+  
+
+
+![](https://img.foresightnews.pro/202302/0c42924c7cbf4f1a8934528ab1a9bd16.png?x-oss-process=style/scale70)*https://portal.astar.network/#/astar/assets*
+
+  
+
+
+**Zenlink**  
+
+
+  
+
+
+类似像 Zenlink 这样的 Polkadot 生态通用 DEX，也支持了 XCM 的跨链，大家可以 Zenlink 中将 DOT 从 Polkadot 跨到 Moonbeam 或者 Bifrost 上，然后可以加入一些 pool 进行组合收益。
+
+  
+
+
+![](https://img.foresightnews.pro/202302/ec3571355795f9e787196dcd5bd38b29.png?x-oss-process=style/scale70)  
+
+
+![](https://img.foresightnews.pro/202302/2b69e67ebdecfe81e2ac7fbbc5ce0625.png?x-oss-process=style/scale70)*https://dex.zenlink.pro/#/swap*
+
+  
+
+
+**Bifrost**
+
+  
+
+
+还有 Bifrost，也已经跟很多平行链开通了 XCM 跨链。跨过来的资产，可以参加流通性质押，也可以组合挖矿。
+
+  
+
+
+![](https://img.foresightnews.pro/202302/bfa2fad61c56878ea9ff33dcd638cf8f.png?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202302/53ede061ff49f87817fcddaab5e47d88.png?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202302/830462500a03f95113fc6b4428520881.png?x-oss-process=style/scale70)*https://bifrost.app/wallet*
+
+  
+
+
+尽管我们看到大部分的平行链都相互打开了 HRMP 通道，并进行了 XCM 的资产跨链。但目前我们还没看到太多针对这么多跨链资产的应用，这也说明整个平行链生态还处于早期的阶段，成长空间很大。我们也鼓励开发者，积极尝试去把这些场景 build 起来，利用 Polkadot 的独有优势，为整个 Polkadot 生态创造**更高的流动性**。
+
+  
+
+
+
+
+---
+
+  
+
+
+**直播预告**
+
+**2 月 22 日（周三）晚 7 点**，波卡世界直播间将进行 「波卡项目进展之 **Equilibrium** 专场」直播，点击下方按钮立即预约。
+
+  
+
+
+  
+**2 月 23 日（周四）晚 8 点**，波卡世界直播间将进行 「波卡项目进展之 **Moonbeam 生态** **StellaSwap** 专场」直播，点击下方按钮立即预约。
+
+  
+  
+
+
+* **PolkaWorld Telegram 群：**
+
+t.me/polkaworld
+* **PolkaWorld Youtube 频道：**
+
+https://www.youtube.com/c/PolkaWorld
+* **PolkaWorld Twitter：**
+
+@polkaworld\_org
+![](https://img.foresightnews.pro/202302/a8f10b59139a7d343010ec83324551c0.gif?x-oss-process=style/scale70)**更多内容**
+
+  
+
+
+[波卡 ETHDenver 活动报名开启！和波卡携手 BUIDL 多链生态吧！](http://mp.weixin.qq.com/s?__biz=MzI3MzYxNzQ0Ng==&mid=2247497993&idx=1&sn=4783b6b7ffc480a05f9cc276b5f1e50e&chksm=eb223e40dc55b75698a60c574d9beda4d781d7b99cc029df57d9034e9dd7f57e32b0839d0120&scene=21#wechat_redirect)
+
+[Acurast：波卡生态预言机，Web3 “ 数据使者 ”](http://mp.weixin.qq.com/s?__biz=MzI3MzYxNzQ0Ng==&mid=2247497985&idx=1&sn=bd1165cffdd3482fe1efd6d7f360d650&chksm=eb223e48dc55b75e33ff5f89b02c50fdc67cd4efcb20925a0230dc03ed794e327a08fb7a6da3&scene=21#wechat_redirect)
+
+[平行链 dApps 如何从 Polkadot 生态系统受益？｜提案分享](http://mp.weixin.qq.com/s?__biz=MzI3MzYxNzQ0Ng==&mid=2247497932&idx=1&sn=a8d2af65ea50a6e5617a41895502ff13&chksm=eb223f85dc55b6932feb3232008c8b02d335831e00441ee64d5ee9ae1388eac6cefd2ac241a1&scene=21#wechat_redirect)
+
+  
+
+
+![](https://img.foresightnews.pro/202302/b2c59d601e52ff269db62e55d33c4ba1.jpeg?x-oss-process=style/scale70)关注 PolkaWorld
+
+发现 Web 3.0 时代新机遇
+
+  
+
+
+点个 “在看” 再走吧！
+

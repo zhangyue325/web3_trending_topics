@@ -1,0 +1,142 @@
+### 【1】Renegade
+
+金额：340 万美元
+
+轮数：种子轮
+
+时间：2 月 20 日
+
+投资机构：Dragonfly 、Naval Ravikant 、Balaji Srinivasan 、Lily Liu 、Tarun Chitra 、Marc Bhargava 、Lev Livnev
+
+项目类型：DeFi、zk
+
+项目介绍：Renegade 正在开发基于多方计算 (MPC) 和零知识证明的链上版本的暗池，让经验丰富的交易者能够以更好的价格进行交易，而不会让更广泛的市场注意到他们的意图
+
+官网地址：<https://renegade.fi>
+
+推特：<https://twitter.com/renegade_fi>
+
+### 【2】EthSign
+
+金额：未披露
+
+轮数：未披露
+
+时间：2 月 20 日
+
+投资机构：Animoca Brands
+
+项目类型：链上财务解决方案
+
+项目介绍：EthSign 正在构建一套非金融、去中心化的应用程序，使实体能够签署具有法律约束力的协议，从而在区块链上开展业务。EthSign 的第一个产品 Signatures 允许用户使用他们的公钥签署具有法律约束力的协议，从而创建同意合同条款的链上记录。EthSign 第二个产品是 TokenTable，可帮助 Web3 项目执行、跟踪和执行项目用于分发其代币
+
+其他补充：2022 年 3 月 9 号融资 1200 万美元；2021 年 7 月 27 号种子轮融资 65 万美元
+
+官网地址：<https://www.ethsign.xyz>
+
+推特：<https://twitter.com/ethsign>
+
+### 【3】Gateway FM
+
+金额：460 万美元
+
+轮数：种子轮
+
+时间：2 月 20 日
+
+投资机构：Lemniscap 、CMT Digital 、Very Early Ventures 、Fantom 、TRGC 、Folius Ventures 、The LAO 、Unstoppable Domains 、MetaWeb Ventures
+
+项目类型：开发者平台
+
+项目介绍：GatewayFM 是一个去中心化的区块链基础设施 / 节点提供商。其全球分布式多链基础架构旨在帮助开发者无缝扩展 web3 项目，因此不必担心获取、配置或维护服务器
+
+官网地址：<https://gateway.fm>
+
+推特：<https://twitter.com/gateway_eth>
+
+### 【4】paprMEME
+
+金额：300 万美元
+
+轮数：未披露
+
+时间：2 月 20 日
+
+投资机构：Coinbase Ventures
+
+项目类型：NFT、NFTFi、Uniswap V3 生态
+
+项目介绍：Papr 是一个由 Uniswap V3 提供支持的 NFT 借贷协议，该平台不提供直接的点对点借贷，而是采用一种围绕其原生代币构建的新颖机制。合约使用市场价格来确定借款人所欠的利息，以 papr 代币价格的升值形式支付
+
+官网地址：<https://www.papr.wtf>
+
+推特：<https://twitter.com/backed_xyz>
+
+### 【5】Arbitrove
+
+金额：1400 万美元
+
+轮数：公募轮
+
+时间：2 月 20 日
+
+投资机构：未披露
+
+项目类型：DeFi、ETF
+
+项目介绍：Arbitrove 是一种在 Arbitrum 网络上原生构建的收益指数和策略保险库协议，ALP 是 Arbitrove 协议的第一个指数，是一篮子精选的蓝筹代币，例如 GMX、MAGIC 和 GRAIL，部署了各种策略来为我们的用户产生收益
+
+官网地址：<https://nitrocartel.finance/arbitrove>
+
+推特：<https://twitter.com/nitrocartel>
+
+### 【6】Third Earth
+
+金额：未披露
+
+轮数：并购
+
+时间：2 月 20 日
+
+投资机构：Holium
+
+项目类型：工具
+
+项目介绍：Third Earth 是一个 Urbit 托管平台，用于托管 Urbit ID 并简化用户连接到 Urbit 网络的过程
+
+官网地址：<https://third.earth>
+
+推特：<https://twitter.com/ThirdEarth3>
+
+### 【7】Holium
+
+金额：290 万美元
+
+轮数：种子轮
+
+时间：2 月 20 日
+
+投资机构：未披露
+
+项目类型：基础设施
+
+项目介绍：Holium 设计并开发了一个名为 Realm 的全新操作系统，专注于协作计算和社区建设。用户只需一次登录即可享受全套服务，大大减少了他们的个人和专业软件堆栈。Holium 旨在为 Web 3 公司、DAO 和互联网社区提供所有必要的工具，以在 Urbit 上安全地进行计算
+
+其他补充：2023 年 2 月 20 号并购了 Third Earth
+
+官网地址：<https://www.holium.com>
+
+推特：<https://twitter.com/holiumcorp>
+
+### 关于 veDAO
+
+veDAO 是致力于发掘早期潜力项目的投融资社区。通过集结大众智慧和专业意见，为社区参与者、投资人、项目方提供公平、透明、民主的项目评价及投融资流程，让所有参与者共享项目发展红利。
+
+Website: <https://app.vedao.com/>
+
+Twitter: <https://twitter.com/vedao_official>
+
+Telegram：t.me/veDAO\_zh
+
+Discord：<https://discord.gg/NEmEyrWfjV>
+
