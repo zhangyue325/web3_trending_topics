@@ -1,0 +1,321 @@
+![](https://img.foresightnews.pro/202302/6211f672239f2f2c05df7814a604f729.other?x-oss-process=style/scale70)
+
+**Polkad****ot****生态研究院出品，必属精品**  
+  
+
+
+  
+
+
+**波卡一周观察**，是我们针对波卡整个生态在上一周所发生的事情的一个梳理，同时也会以白话的形式分享一些我们对这些事件的观察。**本文旨在提供信息和观点，不为任何项目作背书。**任何提及的项目，均不作投资推荐，仅作信息展示。  
+  
+  
+
+
+1
+
+观察与观点
+
+首先是插槽拍卖的情况，OAK Network 的 Kusama 先行网 Turing Network 赢得了 Kusama 第 69 次平行链插槽拍卖，Kusama 第 70 次平行链插槽拍卖正在进行中，目前 Astar 的先行网 Shiden 与另一个匿名团队正在竞争中。波卡第 40 次平行链插槽拍卖正在进行中，目前只有 Hashed Network 参与竞拍，极大概率会是其胜出。  
+
+
+此前我们曾经多次提及 Astar 作为平行链，采取了一种聪明的思路来进行发展，即拓展在某个地区的影响力，并成为该地区其他企业进入 Web3 的首选，从而可以跳出波卡的庇护，走出自己独特的发展路线来。  
+
+
+而 Astar 确实在日本开启了一个好头，在过去的几周好消息不断，知名车企丰田，日本五大商业电视台之一的朝日电视台，全球知名的涉及电子、娱乐和金融等领域的跨国集团索尼都相继与 Astar 合作，用不同的方式支持和探索各自企业可能会如何加入到 Web3 中。再加上去年就已经与 Astar 达成合作的日本最大的通信运营商 NTT DOCOMO，Astar 作为一条单独的平行链，其在日本的影响力已经超过许多知名的公链了。  
+![](https://img.foresightnews.pro/202302/0e502cf6e6a9fb2f4dcf8156b387d9b9.png?x-oss-process=style/scale70)  
+Astar 的实践也证明了波卡平行链可以不输其他公链，关键在于如何发展。虽然许多公链以去中心化为目标，但是这个社会的主流的资源（资金、人才甚至更重要的是商业）都处在中心化的机制下。因此，如何将这些中心化机制下的资源引入到 Web3 领域，会是一片大蓝海。  
+
+
+随着波卡的桥 Hub 即将上线，Kusama 与波卡的生态将打通，但是即使打通，Kusama 的生态情况也与波卡的生态情况并不相同。尽管 Kusama 在进化速度上有一些优势，但是波卡更稳健自然会吸引更多的资金，相比于 Kusama 波卡具备更大的规模，其流动性与交易量也会更大一些。  
+
+
+所以，此前一些团队由于 Kusama 迭代更快以及插槽拍卖的参与费用更低等原因选择在 Kusama 上部署，如今随着项目的成熟度逐渐上升，其需求也在发生改变，从更注重对自身技术的迭代转而开始谋求更多的发展，于是像 Zeitgeist 这些在 Kusama 上的项目也开始朝着波卡进行迁移了。  
+
+
+这对于那些想要先从 Kusama 起步，待到成熟之后迁移到波卡的团队来说，Zeitgeist 所做的事情相当于把这一套流程实践了一遍，会为今后的项目提供良好的操作范例。  
+
+
+以下是上周波卡生态新闻的详细介绍，请 Enjoy。
+
+  
+  
+
+
+2
+
+波卡动态  
+
+
+【Turing Network 赢得了 Kusama 第 69 次平行链插槽拍卖】
+
+  
+【波卡官方发文：Staking 系统的最新进展、新功能和即将发生的事情！】
+
+波卡官方发文：Staking 系统的最新进展、新功能和即将发生的事情！详情请查看：
+
+[https://mp.weixin.qq.com/s/MXVYxKfccZVxJ19\_FaMQfg](https://mp.weixin.qq.com/s?__biz=MzI3MzYxNzQ0Ng==&mid=2247497931&idx=1&sn=7a95d44d6283e0e5baffe4ad004c8ae7&scene=21#wechat_redirect)
+
+  
+【Polkadot 学院第二期圆满结束】
+
+Polkadot 学院第二期圆满结束！来自 Web3 基金会、Parity 和行业的专家和工程师们带领学院同学深入学习了 Web3、Rust、Substrate 和 Polkadot。整个课程涵盖 50 多个主题内容，200 多个学习小时，将课程提升到一个新的水平，启发并为新一代区块链工程师提供构建更好网络所需的知识。
+
+  
+【波卡周报｜Polkadot 学院第二期圆满结束！Astar 与索尼联合推出 Web3 孵化计划！】
+
+根据 PolkaWorld 最新发布的波卡周报，本周重要事件包括：
+
+* W3F 的技术教育负责人 Radha 在 Messari Mainnet 的活动上分享了关于 Polkadot 上新的 OpenGov 系统的演讲。
+波卡国库情况
+
+* Polkadot101 号公投正在投票中！该公投提议批准对 Wasm 智能合约赏金（赏金#19）的国库资助。
+* Polkadot104 号公投正在投票中！旨在重置 Zeitgeist 的平行链的创世状态和 Wasm。
+* Polkadot105 号公投正在投票中！旨在将系统平行链的 runtime 升级到 v9370。
+* Polkadot 理事会通过了 Motion345，支付了 Polkadot 生态团队在新加坡 Token2049 期间举办的活动成本。
+* Polkadot 理事会通过了 Motion346，批准了 Encode Club 提出一系列旨在将 Web3 开发人员加入 Polkadot 生态系统的全球计划。
+* Polkadot 理事会通过了 Motion347，将系统平行链的 runtime 升级到 v9370。请注意该提案还需要通过公投进行社区投票后，才能执行。
+* Polkadot 理事会通过了 Motion348，开通 Statemint 与 HydraDX、Kapex、Ajuna,、Pendulum 和 Litentry 的 HRMP 通道。请注意该提案还需要通过公投进行社区投票后，才能执行。
+* Polkadot 理事会正在投票 Motion349，批准了 Polkawatch 团队申请的未来 9 个月的开发和运营费用。Polkawatch 将质押池的去中心化分析引入 Polkadot（已在 Kusama 上推出）、多钱包集成，并协助生态系统团队集成去中心化分析。
+* Polkadot 理事会正在投票 Motion350，旨在批准对 1tribe Radio 提出的支持非洲数字社区的提案，1tribe 是佛得角第一个英语广播和电视台，致力于展示非洲音乐、艺术、科技和创新，通过提案向非洲提供 Web3 新闻、内容和信息。
+* Polkadot 理事会正在投票 Motion351，旨在批准 Sublab 团队的提案，该团队创建了 13 个 Swift 和 Kotlin 存储库以与 Substrate 网络一起运行。本次提案旨在使 Kotlin 库完全用 Kotlin 编写，以使库为 Kotlin 多平台做好准备。
+* 除此之外，还有一些提案正在讨论中：
+* 一项寻求资助 Multix 的国库提案，这是一个管理复杂多重签名的界面。该提案旨在扩展它并确保它满足大多数业务需求和用例。即，实施包括设计和 UX 开发、创建流程中增强的 UX、密钥轮换流程、移动支持、常规 Multisig 教育内容（如常规文章）等等。
+* 印度历史最悠久、规模最大的区块链社区 Blockchained India 提出“60Days of Bootcamp”计划，旨在支持 Polkadot 网络对接开发者社区，帮助开发者进入 Polkadot 和 Substrate 生态。
+* PolkaWorld 的后续提案，旨在申请 2022 年 3 月到 5 月的社区运营和教育经费。
+* 反诈骗赏金的后续提案，要求对该赏金进行充值，以帮助进一步开展反诈骗工作，并扩大保护 Polkadot 社区免受尽可能多的诈骗领域影响的举措。
+* 一项旨在为 2023 年 4 月 1 日至 2 日在班加罗尔举行的印度第一届以 Polkadot 为重点的会议提供资金的提案。旨在教育和吸引开发人员、投资者、媒体和行业领袖了解 Polkadot 并发现合作机会。
+* Pinknode 的一项国库提案旨在支付上个季度为社区运营 RPC 服务的成本。
+* Grabber 的一项提案旨在激励 crowdloan 用户，通过将 dApp 与本地 Polkadot 社区连接起来，解决社区内的碎片化问题，使他们能够通过他们的工具接触到平行链社区以及熟练和本地链用户的社区。
+* Zumitow 发布提案来资助一系列的教育工作。通过该国最大的日报之一向西班牙观众宣传 Polkadot。资金将用于创建 24 篇时事通讯文章、12 篇博客文章、12 个推特线程和 12 个关于 Polkadot 的技术堆栈及其生态系统的短格式视频。
+* YieldBay 的一项后续提案旨在资助聚合挖矿仪表板的开发，以允许用户参与 Dotsama 挖矿。
+Kusama 国库情况
+
+* Turing Network 赢得 Kusama 第 69 次插槽竞拍。目前 Kusama 网络正在进行第 70 次插槽 Auction，匿名 ID2259 的团队出价最高！
+白名单公投
+
+* Kusama OpenGov95 号公投正在投票中！旨在帮助 Karura 和 Mangata 更换新的插槽租期。
+* Kusama OpenGov98 号公投正在投票中！旨在将 Kusama 系统平行链的 runtime 升级到 v9370。
+国库公投
+
+* Kusama OpenGov99 号公投正在投票中！提议使用国库资金定制 Kusama 巧克力棒。
+* Kusama OpenGov100 号公投正在投票中！提议为西班牙内容和活动赏金分配管理人。
+Root 公投
+
+* Kusama OpenGov101 号公投正在投票中！提议在 2023 年安排一系列的连续的插槽竞拍。
+* Kusama OpenGov 目前有 11 个活跃的公投，在这里查看：
+
+https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fkusama.public.curie.radiumblock.co%2Fws#/referenda
+  
+
+
+  
+
+
+3
+
+生态大新闻
+
+【Acurast 引入了与 EVM 环境的兼容性，并获得了将链外数据和计算直接推送到 EVM 智能合约的能力】
+
+  
+
+
+【Ajuna Network 宣布推出系列虚拟形象 Awesome Ajuna Avatars】  
+
+
+【索尼与 Astar Network 合作，实施 Web3 孵化计划】  
+
+
+【USDT XFlows 现已通过 Astar 在 Polkadot 上启动】  
+【Automata Network 宣布其 1RPC 现在支持 NEAR Protocol 和 Aurora】  
+
+
+【Basilisk 上的流动性 Farming 现已正式开启】  
+
+
+【Nova Wallet 现支持 Basilisk 上的新通证】  
+
+
+【Beamswap 宣布与 Damm Finance 和 GLMRApes DAO 建立战略伙伴关系】  
+【Celer Network 现已上线 Quest3】  
+
+
+【Celer Network 宣布 cBridge 正在帮助支持 PENDLE 扩展到 Arbitrum】  
+
+
+【Celer Network 宣布扩展对头寸市场 Thales 的支持，以支持 Arbitrum 桥接】  
+
+
+【Ceres 宣布 DEO Arena 第 5 赛季已正式结束】  
+
+
+【Deeper Network 宣布其新产品 Deeper Connect Air 即将上线】  
+
+
+【Equilibrium 宣布与 Crust Network 完成 XCM 集成】  
+
+
+【Hermes DAO 通证 $HMX 现可在 Polkaswap 和 Uniswap 中进行交易】  
+
+
+【Interlay 宣布推出 Interlay v2，该版本从转接桥扩展到完全去中心化的网络，为 BTC 用户提供 DeFi 工具】  
+
+
+【Moonbeam、Moonriver 和 Moonbase Alpha 上的新 DApp 界面现已正式上线】  
+
+
+【Pendulum 主网现已正式上线】  
+
+
+【Pendulum 现已上线 Nova Wallet】  
+
+
+【Phala Network 的 $PHA Farm 现已上线 Moonbeam Network】  
+
+
+【Huobi 在其 Isolated Margin 市场中添加了 Reef 通证 $REEF】  
+
+
+【Relation One 现已集成到 NFT 市场 Blur 中】  
+
+
+【Talisman 现已与 Societal MVP 完成集成】  
+
+
+【Unique Network 宣布其 Spark Fest 现已上线 CREW³平台】  
+
+
+【Unique Network 宣布推出 Unity SDK】  
+
+
+【Zeitgeist 宣布将从 Kusama 转移到 Polkadot 中继链】Zeitgeist 宣布将从 Kusama 转移到 Polkadot 中继链。关于更多迁移计划的原因和安排，请查看：https://blog.zeitgeist.pm/zeitgeist-will-migrate-to-the-polkadot-relay-chain/  
+
+
+【Zenlink 宣布第五次回购和烧毁现已完成】  
+
+
+【促进 Zenlink DEX 协议广泛集成的 Zenlink 开发工具包将于本季度正式发布】
+
+  
+
+
+  
+4
+
+生态合作
+
+【Bifrost 宣布与 SFY Labs 合作，在 Singular 上推出 20 个 MrWhiteholex Bifrost 系列藏品】
+
+  
+
+
+【OmniBTC 与 AptosLaunch 达成合作伙伴关系】  
+
+
+【OmniBTC 宣布与 Movernance 达成合作伙伴关系】  
+
+
+【OmniBTC 宣布与 Web3 任务平台 Taskon 建立合作伙伴关系】  
+
+
+【Phala Network 与 Apillon 合作，为 Web3 构建者带来去信任且功能更强大的算力】  
+
+
+【StellaSwap 宣布与 Phala Network 合作，将 $PHA 带入 Moonbeam 生态】  
+
+
+【SubQuery 宣布与 Secret Stash 合作，为其 NFT 市场提供数据索引】  
+
+
+【Zenlink 宣布与 Subsquid 达成合作伙伴关系】
+
+  
+  
+5  
+
+
+活动预告  
+
+
+【InvArch Network团队宣布“It's Grow Time”公共社区销售活动现已开放】
+
+InvArch Network 团队宣布“It'sGrow Time”公共社区销售活动现已开放，将有 5000 个 InvArch 访问 Pass 的 NFT 可用，活动持续时间为 96 小时，详情请查看：
+
+***https://twitter.com/invarchnetwork/status/1626251140139569154?s=46&t=9tSPq\_6ui8wkjMG\_WYGglQ***
+
+【第三期 Polkadot 学院将于 2023 年 7 月 10 日至 8 月 10 日在伯克利大学举办】第三期的 Polkadot 学院将于 2023 年 7 月 10 日至 8 月 10 日在伯克利大学举办，详情请查看：
+
+  
+***https://polkadot.network/development/academy/***  
+
+
+  
+
+
+  
+
+
+  
+
+
+波卡网络蓬勃发展，生态项目层出不穷，波卡生态研究院聚焦波卡生态动向，把握当前趋势。回复**【日报】**，获取**波卡生态每日最新消息汇总**。  
+
+
+  
+  
+
+
+
+
+---
+
+  
+  
+  
+*\*Polkadot 生态研究院所提供的信息不代表任何投资暗示，所发布文章仅代表个人观点，仅供参考学习，鉴于国内尚未出台数字资产相关政策及法规，请中国大陆用户谨慎关注 Crypto 的发展。*  
+  
+
+
+  
+  
+  
+**欢迎大家加入我们 Polkadot 生态研究院的电报群：**  
+**https://t.me/polkadot\_eri** **欢迎大家访问波卡生态研究院的 Mirror 地址：**  
+**https://mirror.xyz/0x9A259b3a2316281Cc948cE2Cf1Ac610a79844f05**
+
+  
+  
+  
+往期推荐  
+**![](https://img.foresightnews.pro/202302/527f048e4523ee7128e060e2a750329a.png?x-oss-process=style/scale70)**[**Kusama 与波卡之间的桥梁即将打通**](http://mp.weixin.qq.com/s?__biz=MzU5ODcwNzM1MQ==&mid=2247488614&idx=1&sn=ffb02815dbbf22950de97eb34c4acce5&chksm=fe41499ec936c088b5141d7c096543c612c0520a4a7b4575d319ae58d320a16358761962aa1e&scene=21#wechat_redirect)  
+  
+  
+  
+  
+  
+  
+  
+![](https://img.foresightnews.pro/202302/c72066d3df16a2a7eb9754f5e01ef577.png?x-oss-process=style/scale70)[**黑客松助力波卡生态加速前进**](http://mp.weixin.qq.com/s?__biz=MzU5ODcwNzM1MQ==&mid=2247488559&idx=1&sn=5a9a710d7335c15741cad843cf0e59d6&chksm=fe4149d7c936c0c1d3a4330fc9d64682a9b18a79dd0586f983ce364ec952ab69c3b04a128a49&scene=21#wechat_redirect)  
+
+
+  
+
+
+  
+
+
+![](https://img.foresightnews.pro/202302/ebace6d9b8903d74b781a7b9d912ec7c.png?x-oss-process=style/scale70)[**2022 冬季波卡黑客松大赛圆满完成**](http://mp.weixin.qq.com/s?__biz=MzU5ODcwNzM1MQ==&mid=2247488511&idx=1&sn=ab91b689c902fbe3b5273422b59eff40&chksm=fe414e07c936c711c09b5f8facb820f629fd1d307c49658e7bce910b6551f97302537f730dd1&scene=21#wechat_redirect)  
+
+
+  
+
+
+
+
+---
+
+  
+  
+![](https://img.foresightnews.pro/202302/cc4aac23dc89209cc2d91b70759951b5.gif?x-oss-process=style/scale70)
+

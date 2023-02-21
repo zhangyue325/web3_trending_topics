@@ -1,0 +1,48 @@
+微信不支持外部链接，可以点击文章底部的**阅读原文** ，方便阅读文中的链接，也可通过 https://daily.rebase.network/ 浏览每期日报内容。  
+
+
+
+> **Furland -- 可视化开源工具**
+> 
+> https://github.com/Nican/Furland  
+> 
+> 
+> **Zhangxuesong**: Furland 是一款展示推特用户关系的可视化开源工具，它构建了基于好友关系的社交关联图谱。
+> 
+> 
+
+
+> **来玩 z****khack 社区的 zk puzzle**
+> 
+> https://zkhack.dev/resources  
+> 
+> 
+> **Sun**: 一个 zk 社区和 zk 项目方一起做的 puzzle。基本上 puzzle 都有社区成员解谜了。而 puzzle 的解答方法也都在 zkhack 社区的学习资料里有解题的基本方式。喜欢 zk 和 puzzle 的朋友可以关注下。
+> 
+> 
+
+
+> **SVG 生成网站**
+> 
+> https://app.svgator.com  
+> 
+> 
+> **Survivor**: 适合自制 SVG 可交互动画，可用于 NFT TokenURI 的 SVG 生成网站。
+> 
+> 
+
+
+
+---
+
+  
+
+
+**Web3 极客日报是为 Web3 时代的极客们准备的日常读物，由一群极客协作完成，每天更新，每期包含三个推荐内容，都来自极客们各自关注的领域。每晚由 Rebase 志愿者整理发出。若有意参与内容贡献，请添加微信 ljyxxzj 并注明日报贡献。**
+
+****网站:****https://rebase.network****
+
+****公众号:****rebase\_network****
+
+**![](https://img.foresightnews.pro/202302/ad193951832a510fc76b55b6ad7aa334.png?x-oss-process=style/scale70)**
+

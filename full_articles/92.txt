@@ -1,0 +1,116 @@
+ //  
+
+随着全球对去中心化的需求不断增长，以色列 Web3 领域将继续吸引更多的投资和创业者，成为全球领先的 Web3 创新中心之一。
+
+以色列正在慢慢变成一个 Web3 创业国家，在该国不断发展的区块链生态系统中已经创造了数百个新工作岗位。 
+
+以色列充满活力的创业环境使其成为世界创业之都，目前已经发展了 97 家独角兽（价值超过 1 亿美元的私营公司），并拥有最高的人均创业密度。2021 年，超过 25 亿美元投资于以色列初创企业，创下了该国的创纪录数字。  
+
+
+以色列拥有最深厚的科技人才库、充满活力的创业文化和一流的风险投资公司 – 使其成为区块链创新的理想目的地，以色列的 Web3 领域未来发展潜力巨大。
+
+此外，以色列政府也在积极推动数字化转型，并支持区块链和加密货币的发展。随着全球对去中心化的需求不断增长，以色列 Web3 领域将继续吸引更多的投资和创业者，成为全球领先的 Web3 创新中心之一。
+
+最让笔者感到惊喜的事，以色列拥有像 Eli Ben Sasson、Shaffi Goldwasser、Yehuda Lindell、Aviv Zohar、Eran Tromer 等知名密码学者，而且他们是 MPC 和 ZKP 等革命性技术的重要推动者。
+
+下图是一个关于以色列在 Web3 项目生态版图。接下来，笔者将从里面选择三个最具代表性的 Web3 公司，让读者们熟悉这个不容小觑的 Web3 科技强国。
+
+![](https://img.foresightnews.pro/202302/6623dcc2b322718d7d4767df65b29c78.png?x-oss-process=style/scale70)1
+
+**Fireblocks 以色列估值**
+
+**最高的区块链安全公司之一**
+
+2018 年成立的 Fireblocks，核心技术产品主要由 Fireblocks Networks 和基于 MPC 的钱包基础设施组成。
+
+Fireblocks 是一个保护传输中的数字资产的平台，重点是保护客户的数字资产在交易所，柜台经纪人，以及传输转账时的安全。
+
+Fireblocks 使银行，金融科技公司，交易所，流动性提供商，OTC 和对冲基金能够安全地管理广泛产品和服务中的数字资产。
+
+![](https://img.foresightnews.pro/202302/97b884d2642cdeeea3904aade01dadf4.png?x-oss-process=style/scale70)2018-2019 年之间，以色列安全工程师 Michael Shauolov 联合 Idan Ofrat、Pavel Berengoltz 共同创立了 Fireblocks，由 Shauolov 担任 CEO，过去的 20 年，三位创始人都活跃在网络安全领域。加入 Fireblocks 之前，Michael Shauolov 曾参与创立 Lacoon Mobile Security，后被 Check Point 收购。为什么要进行创业呢？这要提到 2017 年 Lazarus Group 入侵了四个韩国交易所，并偷走了 2 亿美元的比特币。当时，Fireblocks 的创始人 Michael Shauolov 在 Check Point 工作，是调查大规模网络漏洞的工作组的成员。在调查过程中，有两件事变得显而易见：网络犯罪分子从入侵传统金融到数字资产的转变，以及在企业环境中保护数字资产安全的复杂性和缺乏解决方案。因此，显而易见的下一个挑战是确保区块链的安全。于是 Michael Shauolov 联合 Idan Ofrat、Pavel Berengoltz 共同创立了 Fireblocks。![](https://img.foresightnews.pro/202302/f563db0a28f87c6e48497746d561043a.png?x-oss-process=style/scale70)目前，Fireblocks 共获得五轮融资：2019 年 6 月：A 轮融资 16Million USD；2020 年 11 月，B 轮融资 30Miilion USD,Paradigm 参投；2021 年 3 月，C 轮融资 133Miilion USD,投资方包括 Ribbit Capital、Coatue、Stripes；2021 年 7 月，D 轮融资 310Million USD 投资方包括 Sequia Capita,估值 25 亿美金；2021 年 12 月，E 轮融资 550Million USD,投资方包括 D1 Capital Partners，估值 80 亿美金；Fireblocks 的估值在短短 6 个月内飙升了 3 倍，现在是以色列三家估值最高的私营公司之一。2
+
+**Secret Network 第一个基于**
+
+ **Cosmos 的隐私保护智能合约公链**
+
+Secret Network 是第一个基于 Cosmos 技术架构搭建的隐私保护智能合约公链（支持智能合约的部署 + 隐私属性 +Cosmos 的可扩展性和互操作性）。Secret Network 是基于 Cosmos SDK 和 Tendermint core 共识机制构建的一条 Layer 1 隐私公链，通过 IBC 协议能够与其他开通 IBC 接口的 Cosmos SDK 应用链实现互操作性。 Secret Network 主要通过几个主要组成部分实现数据隐私：加密智能合约（Secret Contract）和可信执行环境（TEE：Trusted Execution Environments）。![](https://img.foresightnews.pro/202302/c077fd2d9d2dc304da2c22ebdb2fab02.png?x-oss-process=style/scale70)项目的创始团队是 SCRT Labs，团队成员包括：Guy Zyskind（Founder and CEO）、Itzik Grossman（Vice President Of Engineering）、Nir Zyskind（Director of Operations and Business Development）、Assaf Morami（Lead Software Engineer）、Tom Langer（Senior Software Engineer）等。
+
+创始人 Guy 本科毕业于以色列的特拉维夫大学电气工程和计算机科学专业，硕士毕业于美国麻省理工大学的媒体实验室（Media Lab）专业。于 2016 年 6 月作为联合创始人兼 CEO 创办了 SCRT Labs。
+
+隐私问题在未来会是越来越重要的，存在着巨大的刚需，因此隐私赛道在未来出现 Alpha 的机会非常高。
+
+目前隐私赛道最大的问题并不是隐私性，而是要保护隐私所带来的高成本，低效率以及较差的用户体验，因此许多隐私技术目前仍未普及。
+
+因此 Secret Network 作为第一条具有隐私功能的智能合约公链为行业带来新的可能性。
+
+从项目本身，作为 Cosmos 生态内的首条隐私公链，也是目前生态发展最为完善的隐私公链。
+
+该链从隐私功能性入手，搭建了一条 Web3.0 时代隐私专用的基础设施，目前项目已搭建完善的跨链桥基础设施，生态系统逐渐丰富。
+
+目前，Secret Network 共获得两轮融资：
+
+2021 年 5 月 6 日：获得战略融资 1150 万美元 Arrington XRP Capital、Blocktower、Spartan Group、Skynet Trading Ltd 投资。
+
+2022 年 1 月 19 日  4 亿美元的生态系统基金 SCRT Labs、DeFiance Capital、 Alameda Research、CoinFund、HashKey Group、Hashed、Arrington XRP Capital、Dragonfly、分布式资本、Skyvision Capital、Blocktower、Terraform Labs、 Hartmann Ventures，NGC Ventures、 Figment、ArkStream 投资。
+
+![](https://img.foresightnews.pro/202302/c6007ae1515b62a9c92714d023b187f5.png?x-oss-process=style/scale70)3
+
+**Starkware 半年估值增涨**
+
+**60 亿美金的 Layer2 独角兽**
+
+区块链隐私解决方案提供商 StarkWare，总部位于以色列内坦亚 Netanya，公司两位联合创始人 Eli Ben-Sasson 和 Alessandro Chiesa 也是 ZCash 创始人。
+
+其主要目标是进一步推广以色列理工学院研发的 zk-Starks 突破性区块链隐私解决方案。
+
+其延续了零知识证明协议保护区块链上的信息隐私，一方面可以支持将海量数据压缩成为更小的样本。
+
+另一方面也比量子计算更高效、透明和安全。一大优势就是在证明隐私信息的同时，确保计算完整性且无需耗费大量算力。
+
+Starkware 目前有两款产品，分别是：
+
+1.StarkEx 为应用提供定制化的 ToB 服务，运行在 StarkEx 上的应用可以自定义他们的业务逻辑。
+
+StarkEx 服务于 Defi 和游戏等应用，能加快交易速度，降低交易费用，还可以通过 ZK-Rollup 或 Validium 两种方案来实现数据可用性。
+
+2.StarkNet 是一个无需许可的去中心化、抗审查的通用 layer 2 网络，任何用户和开发者都可以在上面部署使用 Cario 语言编写的智能合约。
+
+![](https://img.foresightnews.pro/202302/32f6865002dafaed8e031c4833d265fc.jpeg?x-oss-process=style/scale70)这两种产品分别对应了两种不同的商业模式，前者为应用提供定制化服务并出售，而后者则提供无许可的通用服务然后收取网络上的交易费或者作为节点在交易费用优先的原则下抽取 MEV。Starkware 的团队来自以色列，主要成员是有自希伯来大学和以色列理工背景的计算机科学及密码学开发者，可以说是零知识证明领域实力最强的团队。从 Starkware 的官网上可以看到，这个团队目前有成员 77 人，外加 7 名学科顾问和 5 名其他顾问。主要成员包括：Eli Ben-Sasson：Co-Founder & 首席科学家，希伯来大学理论计算机科学博士学位，长期从事计算完整性、密码学和零知识证明方面的研究。以色列理工学院计算机专业的教授。Zcash 的创始科学家，zkSNARK、zkSTARK 的发明者。Uri Kolodny：Co-Founder & CEO，希伯来大学计算机科学学士，是一个商业经验丰富、善于合作的连续创业者。
+
+Alessandro Chiesa：Co-Founder & 首席科学家，加州大学伯克利分校计算机专业的教授。Zcash 的创始科学家，zk-SNARKs 的联合发明者，简洁零知识证明的领先开源库 libsnark 的核心开发者。
+
+Michael Riabzev：Co-Founder & 首席架构师。以色利理工学院的博士，曾在 Intel、IBM 工作。
+
+Oren Katz：工程副总裁。希伯来大学计算机专业毕业，特拉维夫大学 MBA，20 年经验的资深工程师。
+
+在融资方面，StarkWare 共披露了七轮融资，涉及投资 45 笔，对外披露融资额 2.73 亿美元。
+
+2022 年 5 月 25 日，以太坊二层扩容方案 StarkNet 的零知识证明开发商 StarkWare 以 80 亿美元估值完成 1 亿美元 D 轮融资，在以太坊扩容方案的竞争中一骑绝尘。
+
+要知道 2021 年 11 月 StarkWare 刚刚完成由红杉资本领投的 5000 万美元 C 轮融资，估值 20 亿美元，也就是说仅仅半年的时间，StarkWare 便直接翻了 4 倍，跳涨 60 亿美元。
+
+最近因为以太坊的一系列升级路线，Layer2 热潮再起。由于 Starkware 技术的优越性，长期来说，笔者非常看好 zk-rollup 和 STARK 的发展。
+
+后期随着代币释放带来的激励效果以及网络逐渐转向去中心化，Starkware 将会是 Rollup 赛道最有力的竞争者之一。
+
+![](https://img.foresightnews.pro/202302/e58a3aaa54f6d12357b008fc0fcc04f3.jpeg?x-oss-process=style/scale70)  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  

@@ -1,0 +1,60 @@
+  
+
+
+![](https://img.foresightnews.pro/202302/73f782de8ab3bd838c450d4ec80c9704.jpeg?x-oss-process=style/scale70)**REBASE EVENT POOL**
+
+  
+
+
+这里是 Rebase
+
+社区的活动聚集地
+
+活动组织者可以自由发布活动信息
+
+![](https://img.foresightnews.pro/202302/a751b9e5d4fac9f6dfcdf33faa70fd1f.png?x-oss-process=style/scale70)分布式金融（DeFi）攻击与实施防范
+
+  
+
+
+![](https://img.foresightnews.pro/202302/6e037fa9dc56a4ed3ac7abe1854b3aa6.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202302/e59b09f75ebc4eb99b33763c714c0f8a.png?x-oss-process=style/scale70)2023 年 2 月 22 日 20:00
+
+![](https://img.foresightnews.pro/202302/1369da4d6f1dcdc453e63a1b3437f6ec.png?x-oss-process=style/scale70)https://meeting.tencent.com/dw/wZq6oxovsI3N
+
+请提前点击链接报名
+
+![](https://img.foresightnews.pro/202302/ba68a62e729adf90184d4b0ca7f2872e.png?x-oss-process=style/scale70)**Web3 青年学者计划正式启动！**  
+Web3 Young Scholar Program 由 DRK Lab 联合 imToken、Cryptape 共同发起，旨在传达华语学术声音，帮助 web3 builder 衔接理论研究与开发实践，推动 Web3 行业科技创新。我们邀请业内知名学者以每周线上直播形式分享研究成果，课题涵盖 MEV、mpc、zk、经济模型、监管等系列研究，为开发者带来相关科技领域前沿进展，同时有答疑环节、录播存档与社区交流，欢迎大家参加首期分享并持续关注！
+
+**W3YS 第一期分享主题：分布式金融 (DeFi) 攻击与实时防范**  
+本期将重点讲解 DeFi 攻击，探讨 DeFi 系统中的安全威胁，介绍防范这些攻击的方法。答疑环节可向 Liyi 博士提问 DeFi 项目开发中遇到的安全问题，欢迎大家参与并持续关注 Web3 青年学者计划分享！
+
+**本期分享学者：Liyi Zhou**  
+· 伦敦帝国理工博士研究生 / d23e.ch co-founder / DeFi MOOC 助教；  
+· 研究领域为加密货币和区块链安全，多项相关论文发表至一类国际会议（IEEE S&P, Usenix, Financial Crypto, WWW 等），同时担任多个加密货币安全相关会议审稿人。
+
+本期论文：<SoK: Decentralized Finance (DeFi) Attacks>  
+（https://arxiv.org/abs/2208.13035）
+
+  
+
+
+![](https://img.foresightnews.pro/202302/aee73189f1d4f7a35f3bc5071870c07d.png?x-oss-process=style/scale70)**Rebase Event Pool**
+
+     Rebase Event Pool 用来发布活动信息，任何人都可以发布。社区志愿者发现如果某个活动比较有趣，也会同步到 Rebase 的其它媒体渠道中。
+
+  
+
+
+可访问 👇 创建 issue 发布活动
+
+https://github.com/rebase-network/event-pool
+
+  
+
+
+  
+
+

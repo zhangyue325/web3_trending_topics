@@ -1,0 +1,253 @@
+![](https://img.foresightnews.pro/202302/0a04c0484b1a771644f0a22456ff11e0.gif?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202302/f20c631c0717d33c1bada2b2a44d3300.png?x-oss-process=style/scale70)  
+**“****波卡知识图谱****”**是我们针对波卡从零到一的入门级文章，我们尝试从波卡最基础的部分讲起，为大家提供全方位了解波卡的内容，当然这是一项巨大的工程，也充满了挑战，然而我们希望通过这样的努力让大家能够正确认知波卡，也让不了解波卡的人方便快速掌握波卡相关知识，**今天是该栏目的第 82 期，波卡的节点是支撑整个网络的关键，本文将介绍节点相关的基本信息以及基本的节点操作。**  
+此文包含有关运行 Parity Polkadot 客户端的基本信息。有很多方法可以获取 / 运行客户端，例如从源代码编译、在 Docker 中运行或下载二进制文件。本指南将始终将可执行文件称为 polkadot。  
+
+
+始终参考客户端的帮助文档中的 polkadot --help，以获取最新信息。  
+  
+  
+**笔记**
+
+  
+其他客户端实施团队：随意为您的客户端制作带有说明（或说明链接）的此页面的 PR。  
+
+
+如果您正在尝试成为验证者，请参阅教程：https://wiki.polkadot.network/docs/maintain-guides-how-to-validate-polkadot  
+  
+  
+  
+**基本节点操作**
+
+  
+  
+  
+1  
+
+
+选择链条  
+
+
+  
+
+
+使用该 --chain 选项选择链。可以是 polkadot、kusama、westend、 rococo 或自定义链规范。默认情况下，客户端将启动 Polkadot。观看视频，学习单个代码库如何为四个不同的区块链提供支持， 以了解有关链的选择的内部工作原理的更多信息。相关视频内容：  
+https://www.youtube.com/watch?v=i9vNCHz6wO4  
+  
+
+
+2
+
+归档节点
+
+归档节点不会删减任何区块或状态数据。使用 --pruningarchive 标注。某些类型的节点（如验证者）必须以归档模式运行。同样，每个区块中的所有事件（Event）都从状态中清除，因此如果你想存储事件，那么你将需要一个归档节点。
+
+  
+
+
+译者注：在区块链中，一个归档节点是指一个完全的节点，它会在本地完整地存储整个区块链的历史记录，并且可以提供完整的区块链数据查询服务。与之相对的是轻节点，轻节点只存储最新的区块数据，而不存储区块链的完整历史。归档节点相比轻节点来说，需要更多的存储空间和更高的带宽，因为它需要存储整个区块链的历史记录。然而，归档节点对于某些应用场景来说是非常有用的，比如需要对历史交易数据进行深入分析或者需要对过去某个时间点的状态进行验证等等。归档节点可以提供全面的查询服务，包括历史交易数据、智能合约状态以及历史事件等等。这些数据对于区块链的研究和分析非常重要。例如，研究人员可以利用归档节点进行数据分析，以了解不同的交易模式和趋势，而企业可以使用归档节点对历史交易数据进行审核，以确保其合规性。  
+
+
+有关升级节点的解释，请参考此视频：https://www.youtube.com/watch?v=5LtcdBR9F40&list=PLOyWqupZ-WGuAuS00rK-pebTMAOxW41W8&index=6  
+  
+
+
+3  
+
+
+导出区块  
+
+
+  
+要将区块导出到文件，请使用 export-blocks。以 JSON（默认）或二进制（--binary true）格式导出。polkadot export-blocks --from 0 <output\_file>  
+  
+
+
+4
+
+执行
+
+Parity Polkadot 客户端实现了一个 Polkadot 主机和一个本地 Runtime。Runtime 必须编译为 WebAssembly 并存储在链上。如果客户端的 Runtime 规范与存储在链上的 Runtime 规范相同，则客户端将使用客户端二进制文件执行区块。否则，客户端将从链上执行 Wasm Runtime。
+
+  
+因此，在同步链时，客户端将使用其关联的 Wasm 二进制文件执行过去运行时的区块。此功能还允许无硬分叉升级：客户端可以在不更新客户端的情况下执行新的 Runtime。
+
+  
+Parity 的 Polkadot 客户端有两种 Wasm 执行方式，解释执行（默认）和编译执行。使用 --wasm-execution 设置执行 Wasm 时使用的首选方法。编译执行将运行得更快，尤其是在同步链时，但这是实验性的，可能会使用更多内存 /CPU。一个合理的折衷方案是用编译执行同步链，然后用解释执行重新启动节点。
+
+  
+  
+  
+  
+**文件结构**
+
+  
+  
+Assets pallet 有自己的接口来处理资产。请参阅本文下面的集成部分，了解如何获取信息和构建交易。  
+
+
+该节点将许多文件存储在：/home/$USER/.local/share/polkadot/chains//. 您可以使用 --base-path 设置自定义路径。  
+  
+
+
+1  
+
+
+keystore
+
+  
+密钥库存储会话密钥，这对验证者的运行很重要。  
+
+
+波卡文档：https://wiki.polkadot.network/docs/learn-cryptographySubstrate 文档：https://docs.substrate.io/fundamentals/accounts-addresses-keys/#specialized-accounts  
+  
+
+
+2
+
+数据库
+
+数据库存储区块和状态树（state trie）。如果您正在运行验证器节点，它还会存储 GRANDPA 预投票和预提交以及链下工作数据库。迁移验证器节点时要小心 ，以免模棱两可。如果你想在不重新同步的情况下启动一台新机器，你可以停止你的节点，备份数据库，然后将它移动到一台新机器上。
+
+  
+
+
+译者注：关于状态树（state trie）的意思：在区块链技术中，一个区块链网络中的每个节点都有一份完整的数据库，该数据库包含了整个区块链网络中的所有区块和账户状态数据。这个数据库通常被称为“区块链状态数据库”。“state trie”是这个状态数据库中的一部分，它是用于存储账户状态的一种数据结构。在区块链中，每个账户都有一个状态，包括账户余额、合约代码和其他与账户相关的信息。这些账户状态被存储在一个 Merkle 树结构中，这个 Merkle 树结构就是“state trie”。  
+
+
+要删除您的数据库并从创世区块重新同步，请运行 polkadot purge-chainParity 的 Polkadot 客户端有两种 Wasm 执行方式，解释执行（默认）和编译执行。使用 --wasm-execution 设置执行 Wasm 时使用的首选方法。编译执行将运行得更快，尤其是在同步链时，但这是实验性的，可能会使用更多内存 /CPU。一个合理的折衷方案是用编译执行同步链，然后用解释执行重新启动节点。  
+  
+
+
+3
+
+使用 ROCKSDB 后端同步验证
+
+默认情况下，这是隐式的，但可以通过传递--databaseRocksDb标志来显式设置。在未来，建议切换到使用更快且更高效的ParityDb选项。在不同的数据库后端之间进行切换将需要重新同步。
+
+  
+
+
+如果您想测试 ParityDB，可以添加 --database paritydb 标志。  
+  
+  
+  
+**部署工具**
+
+  
+  
+
+
+Web3 基金会维护 Polkadot Deployer，它允许您创建 Polkadot 节点的本地或远程云部署。有关说明，请参阅 README 文件。相关内容：  
+https://github.com/w3f/polkadot-deployer验证者，请参阅验证者设置指南，以获取特定的部署验证者节点的信息。相关内容：https://wiki.polkadot.network/docs/maintain-guides-how-to-use-polkadot-validator-setup  
+  
+  
+  
+**监控和遥测**
+
+  
+  
+
+
+1  
+
+
+节点状态
+
+  
+您可以使用 websocat 通过 RPC 检查节点的健康状况 ：  
+https://github.com/vi/websocat#installation  
+
+
+echo'{"id":1,"jsonrpc":"2.0","method":"system\_health","params":[]}'| websocat -n1 -B 99999999 ws://127.0.0.1:9944{"jsonrpc":"2.0","result":{"peers":50,"isSyncing":false,"shouldHavePeers":true},"id":1}  
+  
+
+
+2
+
+日志
+
+Polkadot 客户端有许多日志目标。用户最感兴趣的可能是：
+
+* afg（Al's Finality Gadget - GRANDPA 共识）
+* babe
+* telemetry
+* txpool
+* usage
+
+  
+
+
+其他目标包括：db、gossip、peerset、state-db、state-trace、sub-libp2p、trie、wasm-executor、wasm-heap。日志级别，从最少到最详细，是：* error
+* warn
+* info
+* debug
+* trace
+
+  
+
+
+默认情况下，所有目标都设置为 info 日志记录。您可以使用 --log (-l short) 选项调整单个日志级别，例如 -lafg=trace,sync=debug 或全局使用 -ldebug.  
+  
+
+
+3
+
+遥测和指标
+
+Parity Polkadot客户端默认连接到遥测（Telemetry）。您可以使用--no-telemetry禁用它，或者使用--telemetry-url选项仅连接到指定的遥测服务器（有关说明，请参阅帮助选项）。连接到公共遥测可能会公开信息，从而使您的节点面临更高的攻击风险。您可以运行自己的私有遥测服务器或使用此Helm图表将substrate-telemetry实例部署到Kubernetes集群中。
+
+  
+
+
+该节点还默认公开了一个 Prometheus 端点（可以使用 --no-prometheus 禁用）。Substrate 有一个使用此端点的监控节点指标教程。相关内容：https://docs.substrate.io/tutorials/get-started/monitor-node-metrics/  
+
+
+  
+  
+  
+波卡网络蓬勃发展，生态项目层出不穷，波卡生态研究院聚焦波卡生态动向，把握当前趋势。回复**【日报】**，获取**波卡生态每日最新消息汇总**。  
+  
+
+
+  
+
+
+
+
+---
+
+  
+  
+  
+**欢迎大家加入我们 Polkadot 生态研究院的电报：**  
+
+
+**https://t.me/polkadot\_eri**
+
+**欢迎大家访问波卡生态研究院的 Mirror 地址：**  
+**https://mirror.xyz/0x9A259b3a2316281Cc948cE2Cf1Ac610a79844f05**  
+  
+  
+  
+  
+**精选文章**  
+  
+  
+[智能合约](http://mp.weixin.qq.com/s?__biz=MzU5ODcwNzM1MQ==&mid=2247487868&idx=2&sn=6de42f5744ee958dd5bdaf36300928c6&chksm=fe414c84c936c592476f19af658f3188925269ccdb5862ec2760fbebc24f41c60347efcfc91c&scene=21#wechat_redirect) | [经济模型](http://mp.weixin.qq.com/s?__biz=MzU5ODcwNzM1MQ==&mid=2247485018&idx=1&sn=8434e268bf6b73b9392113f8b3fcd582&chksm=fe415ba2c936d2b4f59923931a09542764a47632571a4a095226ac8899a7b7ce6aab329d3da0&scene=21#wechat_redirect) | [Slash](http://mp.weixin.qq.com/s?__biz=MzU5ODcwNzM1MQ==&mid=2247484930&idx=2&sn=a383e6eff9ae3f44f7649eb7c5854e15&chksm=fe415bfac936d2ecd84d4069aa7db323843dfced37aa80ae921cfcfad8e0f2268dc020c98843&scene=21#wechat_redirect) | [通货膨胀](http://mp.weixin.qq.com/s?__biz=MzU5ODcwNzM1MQ==&mid=2247484877&idx=2&sn=89d2858855e197dbcb8434669a1fe745&chksm=fe415835c936d1235d974b1ee75e0f791b396bb2b0281ca85da151d6004eae8a6b29c1004cf2&scene=21#wechat_redirect) | [NPoS](http://mp.weixin.qq.com/s?__biz=MzU5ODcwNzM1MQ==&mid=2247484822&idx=2&sn=1112d7d12d9765c1f82b087178f79eaa&chksm=fe41586ec936d1786f2722b6e0dfacb547a0a70fabcd2897bc92c900c73935af59ba93057051&scene=21#wechat_redirect)|[Web3 基金](http://mp.weixin.qq.com/s?__biz=MzU5ODcwNzM1MQ==&mid=2247485098&idx=1&sn=490915c540e32c807a98dc8675aa6664&chksm=fe415b52c936d2440be257471bf3ad9222b700f0b9998be76e2ad9f8ea3d691ae92f2ac83bfb&scene=21#wechat_redirect)  
+[Staking](http://mp.weixin.qq.com/s?__biz=MzU5ODcwNzM1MQ==&mid=2247484748&idx=2&sn=a77db046e6a9ae50009e6ff018705f3a&chksm=fe4158b4c936d1a2789b1aea55fef5107d5f3050ae634877066f6db8f655350531f3af2b5c34&scene=21#wechat_redirect) | [Gavin](http://mp.weixin.qq.com/s?__biz=MzU5ODcwNzM1MQ==&mid=2247484191&idx=2&sn=5bc5990af40a45cada26cbdca6b92201&chksm=fe415ee7c936d7f181da4b1f629a1aa94e8650afc01bea55bf6ef3d800585af9546a9033294b&scene=21#wechat_redirect)Wood | [跨链](http://mp.weixin.qq.com/s?__biz=MzU5ODcwNzM1MQ==&mid=2247484655&idx=2&sn=86874c60c0f0595df0e01bcac8b22d30&chksm=fe415917c936d001835923cc66c2b48aae060c8d23d5702d6fed7cca7bcf91d46b2f0eb07ce1&scene=21#wechat_redirect) | [平行链](http://mp.weixin.qq.com/s?__biz=MzU5ODcwNzM1MQ==&mid=2247484610&idx=2&sn=29bb6b7cb2d39c8bc594e37b904f40a7&chksm=fe41593ac936d02cc003bbac7dab63168139cf0d28f5101e34f3e0632631c8265598205aa196&scene=21#wechat_redirect) | [国库](http://mp.weixin.qq.com/s?__biz=MzU5ODcwNzM1MQ==&mid=2247484979&idx=2&sn=6e7ae4c365718363f0c0fd02a790fbe1&chksm=fe415bcbc936d2dd75f0499cfdae90797d52d2a2b4a00b041eaf2c510bff3f703706b2e38608&scene=21#wechat_redirect) | [Parity](http://mp.weixin.qq.com/s?__biz=MzU5ODcwNzM1MQ==&mid=2247485148&idx=2&sn=6fd88f76d532f7d58e78e9354a05cec1&chksm=fe415b24c936d232a0cfc6b4bc23d58990080b2033ab1595afd50e2812e605de47940efbf1ee&scene=21#wechat_redirect)  
+[KSM](http://mp.weixin.qq.com/s?__biz=MzU5ODcwNzM1MQ==&mid=2247486050&idx=2&sn=25337fc71c92f70f7b949089e7d9bf84&chksm=fe41579ac936de8c4c597011ec2e4e600cb94aa3dba58d23f473369fb48e252273c3f849c4c7&scene=21#wechat_redirect) | [Web3.0](http://mp.weixin.qq.com/s?__biz=MzU5ODcwNzM1MQ==&mid=2247484503&idx=2&sn=53c5a23d9b5deb0afd55f6e4a62b85d5&chksm=fe4159afc936d0b94f7878ec58f9cc854a64d999bd62823212fe880a30b84d5a8b9eccb69c87&scene=21#wechat_redirect) | [Kusama](http://mp.weixin.qq.com/s?__biz=MzU5ODcwNzM1MQ==&mid=2247486286&idx=2&sn=795c8d0a41023875a496056b89b0b4e6&chksm=fe4156b6c936dfa07470c7e48b85d9888f16bb3685b061c9f196efb4513eb12821f9b1ee5025&scene=21#wechat_redirect) |[Grant 指南](http://mp.weixin.qq.com/s?__biz=MzU5ODcwNzM1MQ==&mid=2247485234&idx=2&sn=be4816f3ab66a1a2ecf8d986855cd1a8&chksm=fe415acac936d3dcac036e63ea846058bcb97c56aec67c05fdbb13c8abc164ff3ff5c27bf342&scene=21#wechat_redirect)  
+[Statemint](http://mp.weixin.qq.com/s?__biz=MzU5ODcwNzM1MQ==&mid=2247485967&idx=2&sn=4f79235d4d441177dee401d6dc06c92d&chksm=fe4157f7c936dee17621c91c30b69a137a77cba744535b86a4cd22af914cff59beecb3b410b0&scene=21#wechat_redirect) | [区块链](http://mp.weixin.qq.com/s?__biz=MzU5ODcwNzM1MQ==&mid=2247484555&idx=2&sn=9f2089a56f09ba37a8659a1926d44fb9&chksm=fe415973c936d06558b5076f78dd102903014265fea72748a1037f18171f958a4e8fe3309b2c&scene=21#wechat_redirect)| [SBP 计划](http://mp.weixin.qq.com/s?__biz=MzU5ODcwNzM1MQ==&mid=2247485278&idx=1&sn=9858ba0aba1df13c1d8c473cf886a7d7&chksm=fe415aa6c936d3b04456a59e1434feee4a23a9d10ebec240a4373258f4da1423580b12a3bbe1&scene=21#wechat_redirect) | [NFT](http://mp.weixin.qq.com/s?__biz=MzU5ODcwNzM1MQ==&mid=2247485995&idx=1&sn=bca5671610568d01ada46ac98455f825&chksm=fe4157d3c936dec50ebd243312ab9cc88eaf06e3f014de9fd0d79890cf48cfb20d52df07fe9b&scene=21#wechat_redirect)  
+[XCVM](http://mp.weixin.qq.com/s?__biz=MzU5ODcwNzM1MQ==&mid=2247485546&idx=2&sn=ce26590eac02cb3f32dbe13fe98a19b7&chksm=fe415592c936dc841a6e23a0cf3bed1ca9d471f0e79680f516f2d77506bec92415e0555e4a89&scene=21#wechat_redirect) | [BEEFY](http://mp.weixin.qq.com/s?__biz=MzU5ODcwNzM1MQ==&mid=2247485409&idx=2&sn=34e557339e838f808f2e09637b00cee1&chksm=fe415a19c936d30fceda0dcbb2de511a73ea213ba50cc8906fbc013b5b6dbf847eee45cece9d&scene=21#wechat_redirect) | [XCM](http://mp.weixin.qq.com/s?__biz=MzU5ODcwNzM1MQ==&mid=2247485449&idx=2&sn=046ce86176d48df4c7dc95a405f77000&chksm=fe4155f1c936dce7fd53507de68234a7902a2c5078199c7c0eda66b76823c0442111005ce822&scene=21#wechat_redirect)  
+[Wasm](http://mp.weixin.qq.com/s?__biz=MzU5ODcwNzM1MQ==&mid=2247485775&idx=2&sn=7b67b2e14f24b585248a094fc5795ff5&chksm=fe4154b7c936dda18218c6ed847a2bf06224a02177d1ff46a605af574aa996cb283459798730&scene=21#wechat_redirect)  
+  
+
+
+
+
+---
+
+   
+
+
+![](https://img.foresightnews.pro/202302/cc4aac23dc89209cc2d91b70759951b5.gif?x-oss-process=style/scale70)
+

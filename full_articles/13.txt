@@ -1,0 +1,62 @@
+*作为代币经济学（Tokenomics）的组成部分，代币解锁（Token Unlocks，也称释放时间表）是指在设定的时间段内向市场释放锁定代币的过程，其目的是确保团队、投资者和社区用户之间的激励机制一致。代币解锁（尤其是一次性解锁）可能带来市场的抛售压力，进而导致代币价格出现明显波动，因此在代币解锁节点前后，投资者需注意风险。*
+
+*通常而言，代币解锁可分为线性解锁（Linear Unlocks）和一次性解锁（Cliff Unlocks）。一次性解锁是指代币处于锁定状态，直到一个特定事件或日期发生时，锁定的代币将会一次性全部释放。一般情况下项目方空投的代币就是「一次性解锁」的一部分。线性解锁是指代币在一段时间内以稳定、固定的速度每日进行释放。流动性激励通常包含在线性解锁中。*
+
+据 Token Unlocks 与 VestLab 整理的数据显示，本周（2023 年 2 月 20 日至 2 月 26 日），1INCH（1inch）、GAL（Galxe）、ACA（Acala）、IMX（ImmutableX）与 CQT（Covalent）代币将迎来一次性解锁节点：
+
+其中，1INCH 代币于 2 月 22 日 20:00:00 解锁 274,286 枚 INCH（约 16 万美元），占总供应量的 0.018%；
+
+![](https://img.foresightnews.pro/202302/5-1676857580249.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202302/5-1676857585077.png?x-oss-process=style/scale70)
+
+GAL 代币将于 2 月 23 日 20:00:00 解锁 192,307.69 枚 GAL（约 44 万美元），占总供应量的 0.096%；
+
+![](https://img.foresightnews.pro/202302/5-1676857594366.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202302/5-1676857597789.png?x-oss-process=style/scale70)
+
+ACA 代币将于 2 月 25 日 08:00:00 解锁 4,657,534 枚 ACA（约 65 万美元），占总供应量的 0.466%；
+
+![](https://img.foresightnews.pro/202302/5-1676857610095.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202302/5-1676857614242.png?x-oss-process=style/scale70)
+
+IMX 代币将于 2 月 25 日 18:00:00 解锁 18,075,990.62 枚 IMX（约 1954 万美元），占总供应量的 0.904%；
+
+![](https://img.foresightnews.pro/202302/5-1676857635865.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202302/5-1676857640499.png?x-oss-process=style/scale70)
+
+CQT 代币将于 2 月 26 日解锁占总供应量 1.38% 的 CQT。
+
+![](https://img.foresightnews.pro/202302/5-1676857648397.png?x-oss-process=style/scale70)
+
+除此之外，目前持续线性解锁的热门代币包括 OP、FIL、UNI、BLUR、CRV、LDO、GMT、ILV、IMX、ENS、AXL、MINA、MC、C98、MANA、COMP、SWISE、RPL、RBN、EUL、FXS、AAVE、LOOKS、GLMR、SWEAT、X2Y2、FORT、SUSHI 和 YFI 等。
+
+其中，FIL 代币每日解锁约 366,019 枚 FIL（约 337 万美元），「Baseline Minting」已解锁 28%，「Simple Minting」、「Protocol Labs 团队与贡献者」、「Filecoin 基金会」与「Protocol Labs」均已解锁 92%；
+
+![](https://img.foresightnews.pro/202302/5-1676857657615.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202302/5-1676857665663.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202302/5-1676857669839.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202302/5-1676857673793.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202302/5-1676857676996.png?x-oss-process=style/scale70)
+
+BLUR 代币发行后，每日解锁约 1,282,192 枚 BLUR（约 168 万美元），「社区金库 Year 1」现已解锁 1%；
+
+![](https://img.foresightnews.pro/202302/5-1676857696918.png?x-oss-process=style/scale70)
+
+OP 代币每日解锁约 2,411,115 枚 OP（约 663 万美元），「生态系统基金」和「追溯性公共物品资金」仍有 27% 尚未解锁，用户空投仍有 64% 尚未解锁；
+
+![](https://img.foresightnews.pro/202302/5-1676857710159.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202302/5-1676857717816.png?x-oss-process=style/scale70)
+
+UNI 代币每日解锁约 454,795 枚 UNI 代币（约 337 万美元），社区金库「Treasury Vester 3」与「团队 / 投资人 / 顾问」均已解锁 42%，Uni 代币锁仓量现占总供应量的 17.85%；
+
+![](https://img.foresightnews.pro/202302/5-1676857727265.png?x-oss-process=style/scale70)
+

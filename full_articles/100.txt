@@ -1,0 +1,118 @@
+![](https://img.foresightnews.pro/202302/bf90c3ddd001ae4c6e5365302bff1f16.jpeg?x-oss-process=style/scale70)**作者:****Lou****is,Octopus Network**  
+**编者按：**  
+
+
+链茶馆上上周五在北京举办了主题为「代币经济学的新叙事」的线下闭门聚会，邀请了二十多位 crypto 创业者和投资人从不同维度展开讨论，现场的碰撞非常精彩。
+
+  
+
+
+链茶馆根据现场讨论整理了Octopus Network 的Co-founder Louis Liu 的分享，在这里也一并感谢所有参与现场讨论的朋友们。
+
+  
+
+
+Louis Liu厘清了Web3 和通证化这两个相关但处在不同维度的概念，并从「协议如何控制平台经济」的角度出发，提出了一些通证经济设计要注意的 tips，非常具有启发性。以下为文字内容。
+
+  
+
+
+  
+
+
+作为 Crypto 的创业者，我对通证经济感兴趣，一方面是因为要给 Octopus Network 设计通证经济模型。另外我们作为基础设施类的项目，做过几期的 Web3 创业营，其中包含通证经济学的课程。
+
+  
+
+
+区块链研究层面的沟通通常很困难，因为大家对很多基本概念都没有达成一致。在这里只能用我的概念来推导，所以要先申明一点，我对于 Web3 的定义可能会把很多项目排除在外，这当然只是一家之言。
+
+  
+
+
+Web3 是 Web2 的延续。Web2 的核心是平台经济，是由各个互联网平台主导的经济形态，它带给我们非常大的便利，也创造了非常大的价值。
+
+  
+
+
+但是**创造并运营互联网平台的公司永远都有一个不可遏制的倾向——从竞争走向垄断、从垄断走向寻租。**寻租就是不创造新的价值，而是利用特殊地位去增加自己在经济活动中的分成，损害其他参与者的利益。
+
+  
+
+
+**Web3 的平台经济不是公司来控制，而是交给了加密协议**，因此任何一方都不能单方面寻租，从而避免了 Web2 平台因寻租而抑制效率和公平。
+
+  
+
+
+从平台经济的角度来看，**现在大多数区块链游戏做的其实是通证化（tokenization），而不是 Web3。**因为它并没有用 protocol（协议）来取代平台，只是发行了通证（无论是把金币变成 fungable 通证，还是把道具变成 non-fungable 通证）。
+
+  
+
+
+可是链游无法衡量玩家的行动给整个游戏贡献的价值（主要是给其他玩家带来的游戏体验提升），也就无法奖励对应的通证，那么发行通证其实对核心网络效应没有很大帮助。例如大部分 X to Earn 的机制吸引来的用户对他人的游戏体验少有贡献，通证奖励不能形成发展闭环，因此不可持续。
+
+  
+
+
+当然，游戏资产通证化有很大价值。让游戏资产进入全球化的加密市场并在链上交易，从而得到更好的流动性溢价。但我们要清楚，这是通证化而不是 Web3 带来的增值。
+
+  
+
+
+我们 Octopus 比较关注的是提供非金融类应用（比如提供存储、通信、算力等计算服务），并通过加密协议来协调市场。那么我们设计通证经济学，就要先回答这几个问题——业务是什么？网络效应是什么？谁是核心贡献者？还有个最难的问题：怎么在链上量化贡献？
+
+  
+
+
+**如何在链上去量化参与者对网络效应的贡献并奖励相应的通证，是加密协议的核心。**例如工作量证明 PoW、权益证明 PoS、覆盖证明 PoC、中继证明 PoR 等等。一旦贡献证明出现创新，Web3 的边界就扩大了。**如果有游戏发明了游戏体验增加值的证明，Web3 才算真正扩展到了游戏领域。**
+
+  
+
+
+DeFi 领域的通证奖励通常是流动性提供者，但除此之外肯定还有其他贡献者，如开发者、早期投资者等，那就也应该按照相对贡献来奖励通证。
+
+  
+
+
+如果只是 Fork 了其它项目，开发者没有实际贡献，那么不拿通证是公平的。但如果是很复杂的协议，而且要持续演进，那么开发者分配一定比例的通证才公平、可持续。**通证经济设计的目的是要实现 incentive compatible（激励相容），由各方的贡献值来决定通证的分配。**
+
+  
+
+
+另外，**协议治理一定要从核心团队转向社区，应用层协议在链上进行治理**，目前看来只能以通证为基础。
+
+  
+
+
+解决了以上问题之后，还要**检验这一套通证经济系统能否应对通证价格的剧烈波动。**
+
+  
+
+
+通证价格跟大市场高度相关，并不是说项目做得好就可以一直往上走。因此要去检验在急跌的情况下是否会大幅提高协议参与者的交易成本，甚或进入死亡螺旋。最好的情况是暴涨的时候吸引投机者进来，并把一部分投机者转化成变成协议参与者。同时在暴跌的时候因为有内在价值，对价格形成支撑。
+
+  
+
+
+现在已经出现了一些通证经济的方法和工具，系统的方法论正在形成。同时很多研究者也开始反思，对通证经济是否已经过度强调，协议的内在价值被忽略了。
+
+  
+
+
+创业者去学习通证经济学很不划算，学习成本非常高，而且不是经常能用到。最好的方式是让创业者研究业务，让投资机构的研究员去设计通证。
+
+  
+
+
+**网站：**
+
+https://oct.network/
+
+**Twitter:**
+
+@oct\_network
+
+  
+**热门赛道专题**  
+ [DeFi](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUxNDkxOTc4MA==&action=getalbum&album_id=2635260946592038912#wechat_redirect) ｜ [GameFi](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUxNDkxOTc4MA==&action=getalbum&album_id=2635277667805691906#wechat_redirect)｜[NFT](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUxNDkxOTc4MA==&action=getalbum&album_id=1783721960858796035&token=108254220&lang=zh_CN#wechat_redirect) ｜ [DAO](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUxNDkxOTc4MA==&action=getalbum&album_id=2635483580114141185#wechat_redirect) [｜](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUxNDkxOTc4MA==&action=getalbum&album_id=2635344486105088002#wechat_redirect) [SocialFi](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUxNDkxOTc4MA==&action=getalbum&album_id=2635344486105088002#wechat_redirect)[以太坊](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUxNDkxOTc4MA==&action=getalbum&album_id=2635348925943644161#wechat_redirect) ｜ [元宇宙](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUxNDkxOTc4MA==&action=getalbum&album_id=2635491315937443840#wechat_redirect) ｜ [跨链](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUxNDkxOTc4MA==&action=getalbum&album_id=2635334314750115841#wechat_redirect)[｜](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUxNDkxOTc4MA==&action=getalbum&album_id=2635344486105088002#wechat_redirect)[公链](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUxNDkxOTc4MA==&action=getalbum&album_id=2635226650506428417#wechat_redirect) 

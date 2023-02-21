@@ -1,0 +1,23 @@
+BitKeep NFT 市场现已支持 Lens Protocol Profiles 交易，为了回馈 BitKeep NFT 用户。BitKeep 于 2 月 20 日推出为期 7 天的挂单奖励活动，大家通过 BitKeep NFT 市场挂单和交易 Lens Protocol Profiles，即可赢取 GasU 奖励。
+
+点击进入 Lens Protocol Profiles 合集：<https://nft.bitkeep.com/zh/collection/matic/0xdb46d1dc155634fbc732f92e853b10b288ad5a1d?utm_source=tele&lens>
+
+  
+**活动时间：2 月 20 日 18:00-2 月 26 日 24:00**
+
+1.下载 BitKeep 钱包并通过 BitKeep NFT 市场交易挂单 Lens Protocol Profiles 即可获得挂单奖励（挂单价格相同情况下按照挂单时间先后排名）
+
+* 挂单价格最低的前 10 名：10 GasU
+* 挂单价格最低的前 11-100 名：3 GasU
+2.活动期间，每次交易 Lens protocol Profiles，BitKeep 还会为挂单和购买方各额外奖励 5GasU 作为激励。
+
+3.获奖名单将 3 月 1 日下午 18:00（GMT+8）在 BitKeep 官方 Twitter 进行公示。
+
+  
+**奖励分配：** 
+
+  
+**关于 GasU：**GasU 本质上是一种跨链交易的 gas 凭证，Web3 用户可以在 BitKeep 跨链交互时无需使用各主网代币支付 gas，可以统一由 GASU 代扣。
+
+联系我们：[官网](https://bitkeep.com/)︱[Twitter](https://twitter.com/BitKeepOS)︱[Telegram](https://t.me/bitkeep)︱[Discord](https://discord.com/invite/gUQB7gUarR)︱[Youtube](https://www.youtube.com/channel/UCD2S03RS-Q08VdJqZpuOCFQ)︱[FaceBook](https://www.facebook.com/BitKeep/)︱[Instagram](https://www.instagram.com/bitkeep_global/)
+
