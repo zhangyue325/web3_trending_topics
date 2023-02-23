@@ -1,0 +1,72 @@
+![](https://img.foresightnews.pro/202302/7ac52fc9b761cbad45fdb24a7f678953.png?x-oss-process=style/scale70)  
+
+
+我们隆重地宣布，TrueUSD（TUSD）现已使用 Chainlink 储备金证明（PoR）技术保障铸造通证的安全，从而进一步确保 TUSD 的透明可靠性。作为首个通过程序控制 minting、链上实时验证链下储备金的 stablecoin，TUSD 在去中心化、透明度以及独立审计方面提供了全新的范例。
+
+  
+
+
+TUSD 的储备金数据由美国一家专注于数字资产行业的独立会计师事务所 The Network Firm（“TNF”）进行汇总。TNF 实时收集储备金信息（金融机构的美元持有量），并通过 Chainlink 行业领先的去中心化预言机网络将信息上链。根据这些数据，TUSD 的智能合约将在铸造新通证前，自动验查 TUSD 的当前总发行量与即将铸造新通证的量之和是否超过其美元储备的总量。该流程由智能合约代码自动运行，高度透明，并采用公开独立的数据源。这反映出 TUSD 不仅追求系统上的稳定性，更是致力于为用户提供美元赎回的保障。
+
+  
+
+
+![](https://img.foresightnews.pro/202302/739c01e31a7d89e7869787cd915b2df2.png?x-oss-process=style/scale70)  
+
+
+![](https://img.foresightnews.pro/202302/687855db4cd9296c87f7aaa268cfd603.svg?x-oss-process=style/scale70)*Archblock ( 原 TrustToken) 的 CEO（首席执行官）Ryan Christensen 表示：“我们很高兴能使用 Chainlink 储备金证明来提升我们 stablecoin 的透明性和可验证性。作为行业标准的去中心化预言机网络，Chainlink 有助于确保 TUSD 无时无刻不受链下 fiat 储备金抵押，从而提高 TUSD 的透明度和可靠程度。”*
+
+  
+
+
+通过整合 Chainlink 去中心化的基础设施，用户可获取关于 TUSD 储备金的详情，且数据来源具备准确、高可用性和透明等特点，这将最终助力 TUSD 在 DeFi 和其他智能合约领域成为值得信赖的抵押资产和支付方式。
+
+  
+
+
+![](https://img.foresightnews.pro/202302/2ba4cb40f65348c1d120c9804dfb51dc.svg?x-oss-process=style/scale70)*Chainlink 联合创始人 Sergey Nazarov 表示：“我们很高兴能够与 TUSD 项目团队携手，提升其 minting 流程的透明度，强化风险管理并保障资产安全。通过 Chainlink 储备金证明，TUSD 不仅能够为用户提供升级保障，而且还有助于 stablecoin 乃至整个加密行业的稳健发展。”*
+
+  
+
+
+了解更多关于 TUSD 储备证明的信息，请点击：
+
+https://data.chain.link/ethereum/mainnet/reserves/tusd-por
+
+  
+
+
+**关于 Chainlink**
+
+  
+
+
+Chainlink 为预言机服务的开发、访问和销售建立了行业标准，可驱动任何区块链上的混合型智能合约。Chainlink 预言机网络可以将智能合约可靠地连接至任何外部 API，并安全地展开链下计算，为应用实现丰富的功能。Chainlink 目前为 DeFi、保险和游戏等各大行业保障了数百万亿美元价值，并为全球企业和领先数据提供商提供了通用门户，一站式接入所有区块链。
+
+  
+
+
+想要了解更多，请访问chain.link，或在docs.chain.link上查看相关文档。想要讨论集成事宜，请联系 Chainlink 专家。
+
+（链接请复制至浏览器打开）  
+
+
+  
+END  
+  
+‍‍▲获取 Chainlink 官方最新资讯  
+加入 Chainlink 官方渠道▼
+
+![](https://img.foresightnews.pro/202302/3b448bcab9371465762484a634e88fa4.jpeg?x-oss-process=style/scale70)  
+**Chainlink 官方渠道**   
+微博:  https://weibo.com/chainlinkofficial  
+知乎：https://www.zhihu.com/people/chainlink  
+中文 Twitter: https://twitter.com/ChainlinkCN  
+Twitter:  https://twitter.com/chainlink  
+中文爱好者电报群：https://t.me/chainlinkfans  
+Telegram:  https://t.me/chainlinkofficial  
+Discord:   https://discord.gg/aSK4zew  
+GitHub:  https://github.com/smartcontractkit/chainlink  
+SegmentFault：https://segmentfault.com/u/chainlink  
+QQ 群: 6135525  
+合作联系:  china@smartcontract.com**点击“阅读原文” 进入 Chainlink 中文官网**

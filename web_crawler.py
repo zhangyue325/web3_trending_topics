@@ -80,10 +80,11 @@ def get_foresightnews_article():
     n = len(df)
     web_id = df.loc[n-1,"foresightnews"] + 1
     url = "https://foresightnews.pro/article/detail/" + str(web_id)
+    print(url)
 
     err = 0
     while True:
-        if err > 300:
+        if err > 100:
             print("loop breaked")
             break
         try:
@@ -106,10 +107,9 @@ def get_foresightnews_article():
                 web_id += 1
         except:
             print(f"{url}, invalid url")
-            # err += 1
-            # web_id += 1
-            break
-            
+            err += 1
+            web_id += 1
+            # break
     
     df = pd.read_csv(r"articles.csv")
     n = len(df)
@@ -221,6 +221,9 @@ def move_article_csv():
         writer = csv.writer(f)
         writer.writerow(["source","article_title","post_date","keywords","url"])
 
+def test():
+    print(111)
+
 if __name__ == "__main__":
-    get_data()
-    move_article_csv()
+    get_foresightnews_article()
+    # print(111)

@@ -1,0 +1,182 @@
+ 
+
+*据 Dune 数据显示，2 月 21 日以太坊 Layer2 扩容解决方案 Arbitrum 交易笔数达 110 万次，首次超越以太坊主网，创历史新高。近期 Arbitrum 热度火爆，其生态中还有哪些指的关注的潜力项目呢，本文梳理了加密研究员 Route 2 FI 在推特上的观点，以下为正文：*
+
+ 
+
+Arbitrum 及其生态里的其他协议近来热度不断上升，本文将介绍我认为 Arbitrum 生态中极具潜力的一些 DeFi 协议，我为什么要投资 Arbitrum 以及我的投资组合的细目。
+
+ 
+
+分为以下内容：
+
+ 
+
+1. 什么是 Arbitrum？
+2. 是什么让 Arbitrum 如此特别？
+3. 3 个你必须知道的 DeFi 协议。
+4. 有很大的上升空间的 DeFi 协议.
+5. 我的 2 个 Arbitrum 投资组合的更新。
+ 
+
+什么是 Arbitrum
+------------
+
+ 
+
+Arbitrum 是迄今为止以太坊上最大的 Layer 2 网络，Layer 2 是以太坊的扩容网络，在独立运行的同时受益于以太坊提供的安全保证。Arbitrum 能做到所有这些，因为它是一个 Optimistic Rollup。
+
+ 
+
+![](https://img.foresightnews.pro/202302/10-1677060163262.png?x-oss-process=style/scale70)
+
+Optimistic Rollups 通过使用第二层链来处理大部分工作，同时仍将所有内容记录在主链上以确保安全，从而加速以太坊的智能合约。
+
+ 
+
+是什么让 Arbitrum 如此特别？
+-------------------
+
+ 
+
+很多协议选择迁移到了 Arbitrum，但这是为什么呢？
+
+ 
+
+几个月来，Arbitrum 一直以惊人的速度增长，目前是按总锁仓量（TVL）排名第四的链，也是 24 小时交易量排名第三的链。
+
+ 
+
+![](https://img.foresightnews.pro/202302/10-1677060078642.png?x-oss-process=style/scale70)
+
+Arbitrum 还有比 TVL 更有价值的东西，就是它的社区，Arbitrum 拥有整个 DeFi 领域中最具活力和创新的社区之一，当开发人员想要创造更好的产品时，社区就会提供很多创新。
+
+ 
+
+你必须知道的 3 个 DeFi 协议
+------------------
+
+ 
+
+### GMX
+
+ 
+
+GMX 是一个去中心化的永续交易所，以最低的费用和零滑点促进现货和永续交易，已经赢得了 Arbitrum 绝对真实收益之王的地位。
+
+![](https://img.foresightnews.pro/202302/10-1677060191096.png?x-oss-process=style/scale70)
+
+ 
+
+ 
+
+该交易所设有一个名为 GLP 的多资产池，可以进行做市、掉期费用和杠杆交易，为其主要代币 GMX 的流动性提供者和利益相关者创造收入。 
+
+ 
+
+GMX 的市值在 2022 年以及今年大幅增加，它现在的估值为 6.4 亿美元，完全稀释后的估值为 10 亿美元。 
+
+ 
+
+GMX 也被部署在了 Avalanche 上，并且它在两个链之间共享惊人的 6.33 亿美元 TVL。
+
+ 
+
+GMX 还通过收费产生了每日 26 万美元的收入，使其成为加密货币中最赚钱的协议之一。
+
+ 
+
+![](https://img.foresightnews.pro/202302/10-1677060226356.png?x-oss-process=style/scale70)
+
+ 
+
+### Radiant Capital
+
+![](https://img.foresightnews.pro/202302/10-1677060327554.png?x-oss-process=style/scale70)
+
+ 
+
+Radiant 是一个全链货币市场，允许用户跨多个链存款和借贷。
+
+ 
+
+Radiant 的 TVL 自 2023 年初以来爆炸式增长，其主要代币 RDNT 的市值也是如此。
+
+ 
+
+它建立在 LayerZero 的互操作性之上，使用 Stargate 的稳定路由器。
+
+ 
+
+即将发布的 V2 版本将简化跨链费用共享并加快在新链上启动的过程，并将很快在 BNB Chain 上启动。
+
+ 
+
+### Camelot
+
+ 
+
+Camelot 是 Arbitrum 原生的去中心化交易所（DEX），其创新的红利分配系统和定制的 Launchpad 非常强调社区参与。
+
+ 
+
+![](https://img.foresightnews.pro/202302/10-1677060301780.png?x-oss-process=style/scale70)
+
+Camelot 旨在高效和灵活地让用户利用其定制的基础设施来实现深度的、可持续的、适应性强的流动性。
+
+ 
+
+Camelot 的 TVL 自从在 Arbitrum 上推出以来一直在持续增长，其主要代币 GRAIL 在过去 30 天内的价值增长了 800% 以上。
+
+*（Foresight News 注： DeFi 项目 Onchain Trade 今日与 Camelot 产生纠纷，*[*警告*](https://twitter.com/OnchainTrade/status/1628255306038870017)*中国投资者不要参与 Camelot 的任何代币售卖。本文不构成个人投资建议，Foresight News 提醒读者注意投资风险。）*
+
+ 
+
+有很大的上升空间的 DeFi 协议
+-----------------
+
+ 
+
+#### Gains Network
+
+ 
+
+Gains Network 是具有旗舰产品 gTrade 的永续交易 DEX，在 Polygon 上已经有一段时间了，但是 Arbitrum 上发布后 TVL 增加了很多，以下是加密研究员 RiddlerDeFi 在 2022 年 11 月对 Gains Network 的[介绍](https://twitter.com/RiddlerDeFi/status/1592933272425705472)：
+
+ 
+
+### Vela
+
+ 
+
+Vela 也是一个具永续交易 DEX，支持合成资产、外汇等，以下是加密研究员 Small Cap Scientist 于 2023 年 2 月 14 日关于 Vela 的[介绍](https://twitter.com/SmallCapScience/status/1625289964148912129)：
+
+### Dopex
+
+ 
+
+Dopex 是一个去中心化期权交易所，有多种产品，但旗舰产品 SSOV 允许用户在规定的时间段内锁定代币并赚取收益，以下是 Blocksmith 于 2022 年 9 月关于 Dopex 的[介绍](https://twitter.com/blocksmithtech/status/1567553447725088772)：
+
+ 
+
+我的 2 个 Arbitrum 投资组合更新
+----------------------
+
+ 
+
+我的第一个投资组合称为「WAGMI」，是一个在上升趋势中表现优于 BTC 的投资组合，它在上周上涨了 30%，而 BTC 和 ETH 上涨了 14%。
+
+ 
+
+用户可在 DeFi 社交交易平台 [Nested Finance](https://app.nested.fi/explorer/arbi:8264/v8k4) 上查看我的投资组合，Nested Finance 为用户提供复制投资组合功能。
+
+![](https://img.foresightnews.pro/202302/10-1677060966860.png?x-oss-process=style/scale70)
+
+我的第二个 Arbitrum 投资组合称为「Arbitrum Degen」，它由仅在上周就涨幅超过 60% 的 VELA 和 GRAIL 组合 + 一些其他代币以实现多元化。
+
+ 
+
+您可以在 Nested Finance 上[复制](https://app.nested.fi/explorer/arbi:8261/7c6y)我的投资组合。
+
+![](https://img.foresightnews.pro/202302/10-1677060982578.png?x-oss-process=style/scale70)
+

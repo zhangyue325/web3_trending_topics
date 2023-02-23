@@ -1,0 +1,120 @@
+**撰文：黑米**
+
+Evmos 是 Cosmos 多链生态系统中一个兼容 EVM 的区块链，专为跨链 dApp 开发而设计，使命是为未来跨链应用程序提供所需的基础工具。
+
+本月初，Evmos 发布《Evmos 宣言》，概述了 2023 年的路线图，其中包括 EVM 扩展、Evmos SDK 和 dApp 商店。预计会有更多项目建立在 Evmos 上，随之而来的是许多值得我们关注的空投机会。
+
+*注意：要参与这些未来的空投，你应该在链上质押最少 100 个 EVMOS 代币。*
+
+Stride
+------
+
+![](https://img.foresightnews.pro/202302/68b891927d36fdf2a715c2320e12e733.png?x-oss-process=style/scale70)
+
+2022 年，Stride 作为第一个 Cosmos 生态系统内的流动性质押提供商推出。使用 Stride，用户可以在整个 Cosmos 生态系统中同时获得质押和 DeFi 收益。例如，用户可以流动性质押他们的 ATOM，获得 stATOM，stATOM 还可参与到其他的 DeFi 中。
+
+Stride 计划迅速扩大其在整个 Cosmos 生态系统中的影响力，支持所有与 IBCv3 兼容的链的原生代币作为“st”代币。他们计划在未来 12 个月内支持的 Cosmos 链是：
+
+Evmos (stEVMOS)、Terra V2 (stLUNA)、Injective (stINJ)、Secret (stSCRT)、Kava (stKAVA)、Oasis (stROSE)、Axelar (stAXL)、Akash (stAKT)、Regen (stREGEN)、Sommelier (stSOMM) , Band (stBAND), dYdX (stDYDX), Kujira (stKUJI), Umee (stUMEE), E-Money (stNGM), Crypto.Org (stCRO), Comdex (stCMDX), …等等。
+
+目前，Stride 正在向 ATOM、OSMO、STARS、JUNO、LUNA、EVMOS 等代币的质押者，Stride 测试网用户和 Stride 质押用户空投。
+
+Tyche
+-----
+
+![](https://img.foresightnews.pro/202302/42b5a74c76e5a59d60c65a4015fb6b3c.png?x-oss-process=style/scale70)
+
+Tyche 将自己定义为“跨越国家的金融中心”，正在开发基于 EVMOS EVM 的去中心化交易所 (DEX)。DEX 将在交换资产（包括 NFT）时为用户提供无缝且无摩擦的体验。
+
+在官方文章中，Tyche 提到原生代币未来将空投给 Evmos 质押者和 Cosmos 社区，以及通过激励池奖励给 DEX 上的流动性提供者。
+
+Evmos Domains
+-------------
+
+![](https://img.foresightnews.pro/202302/438d0e226c71448ac6f6d6f3b82e6a99.png?x-oss-process=style/scale70)
+
+Evmos Domains 是一个建立在 Evmos 网络上的去中心化域名系统。
+
+Evmos Domains 目前正在空投。
+
+空投网站：https://airdrop.evmos.domains/#/claim
+
+空投计划分为 3 期，目前第一期已结束。
+
+**空投#2：**
+
+快照日期：2022 年 12 月 28 日 00:00:00 UTC
+
+分发日期：2023 年 1 月 15 日 00:00:00 UTC
+
+索赔期结束：2023 年 2 月 15 日 00:00:00 UTC
+
+**空投#3：**
+
+快照日期：2023 年 3 月 28 日 00:00:00 UTC
+
+分发日期：2023 年 4 月 15 日 00:00:00 UTC
+
+索赔期结束：2023 年 5 月 15 日 00:00:00 UTC
+
+**空投比例（空投总量为 4,000,000）：**
+
+* 域名持有者（40%） — 将根据每个域名的长度和域名注册年限空投。
+* 注册人 (20%) — 将直接空投给 Evmos Domains 的注册用户，越早注册，空投越多。
+* OrbitalApes (10%) — 将空投给那些积极参与合作伙伴项目 OrbitalApes 的人。
+* Stakers (10%) — 将空投给 EVMOS 链的质押者
+* 团队 (10%) — 将空投给 Evmos Domains 团队。
+* 测试网用户（2.5%） ——将空投给测试网用户。
+* Discord 用户 (5%) — 将空投给活跃的 Discord 用户 (3%)、邀请人 (1%) 和带有“早期”标签的用户 (1%)。要获得空投资格，Discord 用户名必须设置为 .evmos 域名。
+Rebus
+-----
+
+![](https://img.foresightnews.pro/202302/984dad31583169376c86290a0a0f3b79.png?x-oss-process=style/scale70)
+
+Rebus 是 Cosmos 生态系统中的 L1，旨在促进可互操作智能合约的部署。该网络为开发人员提供了一个去中心化、无需许可和抗审查的渠道，可以使用标准框架快速、安全地启动智能合约。
+
+Rebus 目前正在开展空投计划，需要做任务。
+
+空投网站：https://app.rebuschain.com/airdrop
+
+* 任务 #1：在 2023 年 7 月 14 日前质押 Atom、Evmos 或 Osmo，或者在 8 月 31 日之前使用 Wax 账户加入 Rebus 社区。
+* 任务 #2：质押 REBUS 代币
+* 任务#3：对提案进行投票
+* 任务 #4（即将推出）：在 Rebus 上铸造一个 NFTID
+* 任务 #5（即将推出）：使用 Rebus Vault
+Diffusion
+---------
+
+![](https://img.foresightnews.pro/202302/d18f15d1db12b298d818bf0a7d2207fd.png?x-oss-process=style/scale70)
+
+Diffusion 是一种自动做市商 (AMM) 协议和流动资金池，可以更轻松地交易加密货币。Diffusion 上的交易活动为流动性提供者创造收入，创造去中心化的市场，以及丝滑的交易体验。
+
+根据一名 Evmos 深度用户的说法：Evmos 社区归根结底是 Diffusion 社区，Diffusion 的成功是整个生态成功的关键。该项目将空投 Evmos 上的所有质押者和 Osmosis 上的 Evmos LP。空投公告即将发布。
+
+Harbor
+------
+
+![](https://img.foresightnews.pro/202302/588b0db666f11672836bdf175001a7d8.png?x-oss-process=style/scale70)
+
+HARBOR 是 Comdex 链上的多功能 DeFi。
+
+HARBOR 目前正在多条链上进行空投，包括 Kava Chain、Stargaze、Sifchain、Regen Network、KI、Akash、Juno、EVMOS 等。
+
+HARBOR 为 EVMOS 社区分配了 631 万 $HARBOR 代币的空投额度。（截止 2 月 26 日）
+
+请按照以下步骤领取空投：
+
+第一步：通过 Keplr/Ledger 钱包连接 EVMOS 地址，点击 EVMOS 图标。
+
+![](https://img.foresightnews.pro/202302/552497825c368c6f51b3adda71fc6612.png?x-oss-process=style/scale70)
+
+第二步：网页将弹出一个窗口。
+
+从窗口中复制 Magic Txn Address 和 Amount to be Sent 并将其粘贴到 Keplr 钱包中，并在 Memo 中添加 CMDX 地址以完成交易。
+
+![](https://img.foresightnews.pro/202302/87cc11942263849d6f8860236b6aeda0.png?x-oss-process=style/scale70)
+
+第三步：点击下图「完成任务」，完成任务。
+
+![](https://img.foresightnews.pro/202302/f94d59c261237bc6a5302139056f5b33.png?x-oss-process=style/scale70)
+
