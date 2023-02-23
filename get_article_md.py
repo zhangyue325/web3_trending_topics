@@ -63,5 +63,8 @@ def add_all_articles_md(dt):
 
 
 if __name__ == "__main__":
-    yesterday = date.today() + timedelta(days = -1)
-    add_all_articles_md(yesterday)
+    url = "https://foresightnews.pro/article/detail/26145"
+    data = add_article_md_foresightnews(url)
+    index = url[-5:]
+    with open(f"{index}.txt", "w", encoding="utf-8") as f:
+        f.write(data)
