@@ -221,8 +221,6 @@ def move_article_csv():
         writer = csv.writer(f)
         writer.writerow(["source","article_title","post_date","keywords","url"])
 
-def test():
-    print(111)
 
 if __name__ == "__main__":
     get_foresightnews_article()

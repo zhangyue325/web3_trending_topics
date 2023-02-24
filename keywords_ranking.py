@@ -17,6 +17,7 @@ def convert_string_to_list(list_like_string):
         res = []
     else:
         print("keyword len is not 2 or 3")
+        pass
     for ele in data:
         keyword = ele.split(",")[0][1:-1]
         res.append(keyword)
