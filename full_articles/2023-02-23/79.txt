@@ -1,0 +1,17 @@
+2022 年是加密市场极其动荡的一年。伴随美联储加息、监管加剧，加密市场经历了两次至暗时刻 — — luna 崩盘以及 FTX 暴雷，流动性危机四溢，市场进入深熊。然而回顾 2022 年行业发展，也有不少令人鼓舞的高光时刻。以太坊迎来 POW 正式转向 POS 的历史性时刻，以 Aleo、Aptos 为首的新公链为市场带去叙事热点，星巴克等 Web2 品牌积极布局 Web3，中国香港大力拥抱虚拟资产市场，这些信息都在散发出积极的信号。2023 年新篇章已开启，如果今年是熊尾，当下我们应该怎么做？
+
+2 月 22 日，由 Cabin VC 和 Blocklike 主办，Synthetix、Chainlink、Bool Network、Web3Go 以及 MOVE ACCELERATOR 联合主办的【把握周期，Web3 开年趴】线下活动在杭州圆满举行。行业一线活跃机构和上百位来自不同项目的 Web3 Builders 齐聚现场，一起探讨了 2023 年行业趋势与热点，围绕项目新一年发展方向进行交流，并规划了深度合作机会。
+
+![](https://img.foresightnews.pro/202302/82094a6973128b91de18ff66c8de020a?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202302/3d520ecef5df09ff70708a2b079f75dc?x-oss-process=style/scale70)Cabin VC 作为成立于 2018 年的全球区块链产业现阶段发展路径下的核心投资机构，始终专注于区块链技术研究和区块链落地应⽤⽅向探索，现已形成以投资为主，媒体及硬件生态为侧的三⼤业务板块。Cabin VC 分享了 Cabin Eco Fud I 的成绩及 Cabin Eco Fund II 的投资策略，并将每周定期组织线上线下的投研开放日，共同寻找下一个行业 Alpha。旗下媒体品牌 Blocklike 接下来将在杭州、香港、成都等地组织一系列线下活动，进一步扩大行业交流，同时推出用户增长业务，帮助项目方更好获取精准用户。
+
+![](https://img.foresightnews.pro/202302/a6dac7054f314d6c5b6af7eaf298ddc1?x-oss-process=style/scale70)Sythetix 是建立在以太坊和 Optimistic Ethereum 上的去中心化流动性协议，提供由 SNX 抵押铸造的合成资产和产品，为一些领先的 DeFi 协议提供后端流动性支持。Sythetix 中国负责人 Errance 表示，Sythetix 正从面向合成资产现货交易的前端交易协议，演变为专注于流动性管理和增长的流动性协议，因此，Synthetix V3 正在提上日程。 Synthetix V3 重建了 Synthetix 过去 5 年几乎所有的基础架构、合约代码，其长期愿景是成为支持无许可衍生品交易协议的协议，提供多抵押物并建设由社区支持的 Synthetix 治理决策新系统，在更简单干净的新框架下，支持部署到任意 EVM 兼容链上。Errance 分享了 V3 的路线图，并表示今年将围绕 V3 进行重点建设。
+
+![](https://img.foresightnews.pro/202302/7634e1412ba5c53cc38f183323f476dd?x-oss-process=style/scale70)BOOL Network 是一个基于多方计算（MPC）、零知识证明（ZKP）和可信执行环境（TEE）的去中心化的全链互操作协议，旨在解决跨链的不可能三角问题。BOOL Network 联合创始人 Ronnie 从区块链行业整体发展以及当前跨链存在的挑战出发，阐释了 BOOL Network 如何解决跨链的不可能三角问题。BOOL Network 提出了一套独特的动态委员会签名机制，该机制可以被用作底层协议，去赋能上层应用实现异构网络之间的加密资产转移及任意信息传输。接下来，BOOL Network 将促进 EVM 和非 EVM 网络之间的消息传递，支持在 EVM 生态与比特币网络之间的数字资产转移，激励节点运营商在 BOOL Network 测试网络中提供验证和隐私服务，并启动 BOOL Network Beta 版本主网。
+
+![](https://img.foresightnews.pro/202302/fd581a0f30fde90762b461581f977e47?x-oss-process=style/scale70)Web3Go 是一个一站式数据解决方案供应商，旨在通过社区驱动模式，让更多人与区块链数据产生价值连接。Web3Go CMO 家伟从团队背景、产品功能与特色以及 Web3Go 高光时刻等内容进行了介绍。家伟表示，在基于流技术的 Polkadot 和 EVM 兼容链的强分析能力下，Web3Go 已与 Polkadot 和 BNBChain 上多个头部项目进行了数据分析合作，同时也为用户提供了诸如 BNBChain data daily 的数据分析内容，帮助用户捕获链上价值。当前 Web3Go 正在开发 V2 测试版并将于近期上线，作为社区驱动数据分析协同创新平台，用户能够轻松处理数据集，进行实时预览，同时还能获得丰富的模块化组件支持。未来 Web3Go 也可能会探索以 Token 激励的方式来驱动其链上数据社区。
+
+![](https://img.foresightnews.pro/202302/9894b839c85154456cef7bc2fdf4e199?x-oss-process=style/scale70)MOVE ACCELERATOR 是由行业 20 余家机构共同发起的 Move 生态加速器，为优秀的 Move 生态创业者提供从资金筹措到技术、社区、Listing 和海外品牌推广的全面支持，并促进 Move 生态发展。MOVE ACCELERATOR 联合创始人 Neo 从团队影响力、生产力、洞察力等层面进行了分享，并展示了一些团队关键数据。目前 MOVE ACCELERATOR 已与 Aptos 及 Sui 官方建立起了多层次、全方位沟通的渠道，同时已与众多 Move 生态项目合作。未来 MOVE ACCELERATOR 将为建设全球高影响力的 Move 生态加速平台目标继续努力，作为聚集 Move 开发者与项目方的入口，也将继续聚集多方资源，加速项目不同阶段业务需求，扩大 Move 生态。
+
+![](https://img.foresightnews.pro/202302/44132f4ac98ea12b1ffdbf461c3bdd8a?x-oss-process=style/scale70)被视为加密史上最艰难的 2022 年已然过去，2023 年开局，加密市场迎来 Arbitrum 生态火热、Nostr 去中心化社交协议出圈、Blur 推动 NFT 市场流动性等热点，一切积极信号都显示 2023 年正是建设与创新的关键年。对于行业从业者来说，应抓住机会，用心 Build，为下一轮周期的到来做充分准备。走出冬天，迎接春天。
+
+![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=7228a1e0a201)

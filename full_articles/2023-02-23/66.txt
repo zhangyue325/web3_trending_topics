@@ -1,0 +1,124 @@
+### 【1】Den
+
+金额：280 万美元
+
+轮数：未披露
+
+时间：2 月 22 日
+
+投资机构：IDEO CoLab Ventures 、Global Coin Research 、Gnosis 、Lemniscap 、Spice Capital 、Balaji Srinivasan 、Packy McCormick
+
+项目类型：基础设施、多签解决方案
+
+项目介绍：Den 为链上组织提供了一个自我保管的多重签名钱包，包括 DAO 和传统组织在内的团队使用 Den 来管理协议、与 DeFi、链上操作等。Den 建立在 Safe Contracts（以前的 Gnosis Safe）之上
+
+官网地址：<https://www.onchainden.com/>
+
+推特：<https://twitter.com/OnChainDen>
+
+### 【2】Unamano
+
+金额：未披露
+
+轮数：未披露
+
+时间：2 月 22 日
+
+投资机构：Oriental Patron
+
+项目类型：DeFi、质押协议
+
+项目介绍：Unamano 是一个 ETH2.0 质押和项目 DAOs 协议，质押 ETH 以赚取多种加密资产。用户可以通过将 ETH 质押到他们想要在 Unamano 平台上支持的项目的智能合约来获得项目代币奖励。项目方只需要创建一个 DAO 来维持 ETH Staking 产生的奖励，作为项目的发展基金。所有权益将作为不同项目的 DAO，所有资产由智能合约管理
+
+官网地址：<https://unamano.io/>
+
+推特：<https://twitter.com/unamanoio>
+
+### 【3】KEKKAI
+
+金额：37 万美元
+
+轮数：Pre 种子轮
+
+时间：2 月 22 日
+
+投资机构：Skyland Ventures
+
+项目类型：安全解决方案
+
+项目介绍：KEKKAI 是一个 Web3.0 安全插件，通过分析交易模拟来检测危险，旨在消除日益增长的 Web3 领域中的欺诈行为
+
+官网地址：<https://kekkai.io/>
+
+推特：<https://twitter.com/0xkekkai>
+
+### 【4】Polybase
+
+金额：200 万美元
+
+轮数：Pre 种子轮
+
+时间：2 月 22 日
+
+投资机构：6th Man Ventures、Protocol Labs 、OrangeDAO 、Alumni Ventures 、NGC Ventures 、CMT Digital
+
+项目类型：zk、开发者平台
+
+项目介绍：Polybase 是一种状态 zk-rollup 协议，原生支持可插拔数据存储和索引。开发者可以使用钱包加密数据以获得“自主数据”，并可验证地从智能集合中查询 Polybase
+
+其他补充：2022 年 6 月 Pre 种子轮已融资
+
+官网地址：<https://polybase.xyz/>
+
+推特：<https://twitter.com/polybase_xyz>
+
+### 【5】Blocto
+
+金额：未披露
+
+轮数：A 轮
+
+时间：2 月 22 日
+
+投资机构：Mark Cuban 、500 Startups 、IPX
+
+项目类型：基础设施、钱包
+
+项目介绍：Blocto 是一个跨链加密钱包，用于管理加密货币、dApp 和 NFT
+
+其他补充：2022 年 11 月 11 号已战略融资；2021 年 5 月 21 号私募轮融资 800 万美元
+
+官网地址：<https://blocto.portto.com/>
+
+推特：<https://twitter.com/BloctoApp>
+
+### 【6】OrdinalHub
+
+金额：未披露
+
+轮数：并购
+
+时间：2 月 22 日
+
+投资机构：Luxor
+
+项目类型：NFT、NFT 市场、比特币生态
+
+项目介绍：OrdinalHub 是一个用于购买、销售和跟踪比特币 NFT 的交易平台，以支持 ordinals 所有者
+
+官网地址：<https://www.ordinalhub.com/>
+
+推特：<https://twitter.com/ordinalhub>
+
+### 关于 veDAO
+
+veDAO 是致力于发掘早期潜力项目的投融资社区。通过集结大众智慧和专业意见，为社区参与者、投资人、项目方提供公平、透明、民主的项目评价及投融资流程，让所有参与者共享项目发展红利。
+
+Website: <https://app.vedao.com/>
+
+Twitter: <https://twitter.com/vedao_official>
+
+Telegram：[t.me/veDAO\_zh](http://http/)
+
+Discord：<https://discord.gg/NEmEyrWfjV>
+

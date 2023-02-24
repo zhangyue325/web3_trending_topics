@@ -1,0 +1,46 @@
+ 
+
+去年以太坊升级前，曾有骗子将 Goerli 测试网上的 ETH 测试币（即 GETH）宣传成「以太坊新币」，号称可以半价出售，偶尔引得几个不明真相的韭菜上当受骗。当时我就心生好奇，真有人会去买卖没有任何炒作价值的 GETH 测试币？
+
+时间线推至今日，全链互操作性协议 LayerZero 推出一款公共产品——Testnet Bridge（测试网桥），并为 ETH/GOERLI-ETH（GETH）创建了一个即时定价的开放市场。换言之，之前你存在 Goerli 测试网地址中的 GETH 测试币，现在可以兑换为以太坊主网上的 ETH。
+
+对普通用户而言，通常只需要少量的 GETH 测试币就可以参与 Dapp 测试的工具；但对于开发者来说，在开发过程中需要用到大量 GETH 进行大批量的部署和交易试验，如果通过常规方式去 Goerli 水龙头领取测试币，积累速度非常慢——目前 9 天才给 6.25 个测试币，远远不能满足开发者需求。因此，GETH 对于开发者而言也就有了一定的交易价值，Testnet Bridge 就是为了解决这一困境设计的。
+
+ 
+
+![](https://img.foresightnews.pro/202302/5-1677119041767.png?x-oss-process=style/scale70)
+
+*水龙头领取 GETH*
+
+操作上，用户首先需要连接钱包地址——目前支持 Metamask、Coinbase 钱包、Binance Smart 钱包以及 walletconnect 共计四种；在前端页面输入你想兑换的主网 ETH 数量，系统会根据实时汇率计算你可以在测试网上收到的 GETH 数量；点击确认，支付 GAS 费用即可完成交易。如果想将 GETH 兑换为 ETH，方法同理。
+
+ 
+
+![](https://img.foresightnews.pro/202302/5-1677119076342.png?x-oss-process=style/scale70)
+
+*ETH 兑换为 GETH*
+
+根据官方设计，GETH 的初始价格设定为 0.10 美元，并在以太坊主网以及 Goerli 测试网上的 Uniswap 上开设了两个池子，存入 12500 个 GETH，普通用户可以加入其中作为 LP 提供流动性。
+
+Odaily 星球日报查询发现，仅仅过了不到一天，Testnet Bridge 就开始起量，目前主网池中共有 4.91 个 ETH 以及 14.6 万个 GETH；测试网上有 5.05 个 METH 以及 15.7 万个 GETH。折算下来，GETH 价格目前约为 0.05 美元，较初始发行价腰斩一半。（注：ETH 与 METH 是 1:1 兑换。）
+
+ 
+
+![](https://img.foresightnews.pro/202302/5-1677119121050.png?x-oss-process=style/scale70)
+
+*ETH/GETH 流动池*
+
+如果你觉得这样就可以轻松赚钱，未免「图样图森破」。用户将自己测试网中 GETH 兑换为主网 ETH 时，需要支付 600 个 GETH 作为 GAS 费——这一关基本将中小玩家都排除在外。
+
+另外，虽然测试网和主网上 ETH/GETH 存在价差，但无法套利——我们在主网上 1 个 ETH 兑换为约 25000 个 GETH 后发现，测试网上没有开放 GETH 兑换为 METH 的通道，最终只能原路换回主网上的 0.68 个 ETH，折价 32%。
+
+*![](https://img.foresightnews.pro/202302/5-1677119159744.png?x-oss-process=style/scale70)套利折价*
+
+还有一种套利方式是在中心化交易平台 Lbank 和 Testnet Bridge 之间搬砖（注：Lbank 于 2021 年上线了 GETH/USDT 交易对），但这种方式操作可行性也不高。目前 Lbank 上 GETH 深度不够，买卖前十档总共只有不到 8000 个 GETH，并且买一和卖二存在近一倍的价差，如下所示：
+
+![](https://img.foresightnews.pro/202302/5-1677119176845.png?x-oss-process=style/scale70) 
+
+*Lbank 上的 GETH 交易情况*
+
+对于开发者来说，这次上线的 Testnet Bridge 最大用处就是以后可以在链上便捷买卖测试币；对于普通用户来说，如果非要薅一波羊毛，可以选择批量注册几个社交账户领取水龙头测试币，当然这需要等待很长的时间才可以成功变现。
+
