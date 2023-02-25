@@ -1,0 +1,180 @@
+### 【1】Kratos
+
+金额：2000 万美元
+
+轮数：种子轮
+
+时间：2 月 23 日
+
+投资机构：Accel 、Prosus Ventures 、Courtside Ventures 、Nexus Venture Partners 、Nazara Technologies
+
+项目类型：游戏
+
+项目介绍：Kratos 是一个 Web3 游戏公司，在新兴市场为全球 Web3 游戏建立分销渠道。它也是 web3 游戏和游戏基础设施领域的活跃投资者
+
+官网地址：<https://www.kratosstudios.io/>
+
+推特：<https://twitter.com/IndiGG_DAO>
+
+### 【2】indiGG
+
+金额：未披露
+
+轮数：并购
+
+时间：2 月 23 日
+
+投资机构：Kratos
+
+项目类型：链游公会
+
+项目介绍：IndiGG 是 Yield Guild Games (YGG) 的一个子 DAO，与 Polygon 联合建立，旨在在印度创建一个 web3 游戏中心。 IndiGG 正在构建一个平台，游戏玩家将在这里发现游戏的未来，并踏上他们拥有数字资产的虚拟世界之旅。 IndiGG 还致力于通过孵化和帮助开发人员制作他们可以想象的最好的 web3 游戏来发展印度和世界各地的 web3 游戏开发生态系统
+
+其他补充：2022 年 1 月 19 号种子轮融资 600 万美元；2021 年 12 月 Pre 种子轮融资 100 万美元
+
+官网地址：<https://indi.gg/>
+
+推特：<https://twitter.com/YGGIndia>
+
+### 【3】OneKey
+
+金额：未披露
+
+轮数：A1 轮
+
+时间：2 月 23 日
+
+投资机构：IOSG Ventures
+
+项目类型：基础设施、硬件钱包
+
+项目介绍：OneKey 是一个开源加密硬件钱包，以安全便捷的方式存储和使用加密资产
+
+其他补充：2022 年 9 月 28 号 A 轮融资 2000 万美元
+
+官网地址：<https://onekey.so/>
+
+推特：<https://twitter.com/OneKeyHQ>
+
+### 【4】Towns
+
+金额：2550 万美元
+
+轮数：A 轮
+
+时间：2 月 23 日
+
+投资机构：a16z 、Benchmark 、Framework Ventures
+
+项目类型：社交通讯
+
+项目介绍：Towns 是一个专为在线社区设计的群聊协议和应用程序，旨在在互联网上建设更好的“家乡”。Towns 允许社区成员真正拥有他们的城镇广场，并通过完全去中心化、端到端的加密聊天协议自由交流。Towns 使社区能够创建可编程的、自治的聚集空间来进行交流。任何团体都可以使用 Towns 在根据他们的需要设计的空间中自由集会和聊天——无需担心某些组织会改变规则、从他们的活动中获利或剥夺他们的权利
+
+官网地址：<https://www.towns.com/>
+
+推特：<https://twitter.com/townsxyz>
+
+### 【5】Beldex
+
+金额：2500 万美元
+
+轮数：未披露
+
+时间：2 月 23 日
+
+投资机构：DWF Labs
+
+项目类型：Layer1、隐私
+
+项目介绍：Beldex 是一个基于隐私的生态系统，由隐私优先的去中心化应用程序组成，包括 BChat、BelNet、Beldex 浏览器、Beldex 隐私协议和 Beldex 桥
+
+官网地址：<https://beldex.io/>
+
+推特：<https://twitter.com/BeldexCoin>
+
+### 【6】Worldwide Webb
+
+金额：1000 万美元
+
+轮数：A 轮
+
+时间：2 月 23 日
+
+投资机构：Pantera Capital
+
+项目类型：游戏
+
+项目介绍：WORLDWIDE WEBB 是一款基于像素的 MMORPG，玩家可以从多个区块链中携带自己的 NFT，用作参与战斗、任务和突袭的化身。赢得更多战斗的玩家可以获得更高级别的 NFT 铸币厂
+
+官网地址：<https://webb.game/>
+
+推特：<https://twitter.com/Worldwide_WEB3>
+
+### 【7】Affine
+
+金额：510 万美元
+
+轮数：种子轮
+
+时间：2 月 23 日
+
+投资机构：Hack VC 、Jump Crypto 、Spartan Group 、Coinbase Ventures 、Circle Ventures 、AlphaLab Capital
+
+项目类型：DeFi、资产管理
+
+项目介绍：Affine 正在为加密投资者构建一个支持跨链、智能收益策略的协议。Affine 允许用户同时投资多种资产，包括产生收益的 DeFi 协议。通过提供不同资产的多样化敞口，用户的回报是基础资产产生的回报的加权平均值
+
+其他补充：2022 年 2 月 17 号种子轮融资 180 万美元
+
+官网地址：<https://affinedefi.com/>
+
+推特：<https://twitter.com/AffineDeFi>
+
+### 【8】Sabre56
+
+金额：3500 万美元
+
+轮数：未披露
+
+时间：2 月 23 日
+
+投资机构：未披露
+
+项目类型：矿业
+
+项目介绍：Sabre56 是一家比特币矿业咨询公司，设计、建造和运营技术先进、高效且具有成本效益的区块链数据中心
+
+官网地址：<https://www.sabre56.com/>
+
+领英：<https://linkedin.com/company/sabre56>
+
+### 【9】iBLOXX Studios
+
+金额：500 万美元
+
+轮数：未披露
+
+时间：2 月 23 日
+
+投资机构：PrimeXM
+
+项目类型：游戏
+
+项目介绍：iBLOXX Studios 专注于使用虚幻引擎和 Unity 构建区块链游戏，开发 GameFi 经济健康和监控解决方案，以及创建与交易相关的区块链应用程序。该项目是 Web3 孵化器和做市商 iBLOXX 的 Web3 游戏部门
+
+官网地址：<https://www.ibloxx.com/>
+
+领英：<https://linkedin.com/company/ibloxx-proprietary-trading-dmcc/>
+
+### 关于 veDAO
+
+veDAO 是致力于发掘早期潜力项目的投融资社区。通过集结大众智慧和专业意见，为社区参与者、投资人、项目方提供公平、透明、民主的项目评价及投融资流程，让所有参与者共享项目发展红利。
+
+Website: <https://app.vedao.com/>
+
+Twitter: <https://twitter.com/vedao_official>
+
+Telegram：[t.me/veDAO\_zh](http://http/)
+
+Discord：<https://discord.gg/NEmEyrWfjV>
+

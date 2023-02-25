@@ -1,0 +1,196 @@
+据 Foresight News 统计，2 月 18 日至 2 月 24 日期间，加密市场共发生 37 笔投融资事件，其中工具和基础设施 15 笔、 DeFi 领域 3 笔、资管领域 4 笔、链游和 NFT 领域 9 笔、Web3 领域 6 笔。已披露投融资总金额约 3.65 亿美元，其中多笔融资金额未披露。
+
+ 
+
+![](https://img.foresightnews.pro/202302/4-1677238280356.jpg?x-oss-process=style/scale70)
+
+本周千万美元级融资共 10 笔，其中包括区块链芯片公司 Chain Reaction 完成 7000 万美元融资，Morgan Creek Digital 领投；Galaxy Digital 以 4400 万美元收购原 Celsius 旗下自托管平台 GK8；区块链农业科技公司 GrainChain 完成 2900 万美元融资等。
+
+ 
+
+在投融资细分赛道中，本周工具和基础设施领域热度持续高涨，其他赛道热度均有所回升。
+
+ 
+
+机构方面，本周活跃机构有 DWF Labs、Morgan Creek Digital、Dragonfly 和 Polychain Capital 等，主要聚焦于 Web3、工具和基础设施领域。
+
+注：投资基金的募资未计算在项目融资中。
+
+ 
+
+工具和基础设施
+-------
+
+隐私技术初创公司 Beldex 完成 2500 万美元融资，数字资产做市商和投资公司 DWF Labs 投资并与其建立合作伙伴关系，这些资金将有助于推动 Beldex 生态系统的研发，而 DWF 将担任顾问并帮助开展营销活动。Beldex 生态系统包括私人消息传递应用程序 BChat、去中心化虚拟专用网络 (VPN) BelNet、Web3 浏览器 Beldex 和跨链隐私协议 Beldex，它使跨链资产移动匿名化。
+
+[来源链接](https://foresightnews.pro/news/detail/18243)
+
+区块链芯片初创公司 Chain Reaction 完成 7000 万美元融资，Morgan Creek Digital 领投，资金将用于扩大其工程团队，融资总额已达到 1.15 亿美元。Chain Reaction 的联合创始人兼首席执行官 Alon Webman 表示，该公司将在今年第一季度开始量产其区块链芯片 Electrum，该芯片旨在快速、高效地执行称为「hashing」的区块链操作，也可用于比特币等数字货币的挖矿。此外，计划于 2024 年底推出「完全同态加密」芯片，允许用户在加密数据的同时处理数据。
+
+[来源链接](https://foresightnews.pro/news/detail/18218)
+
+硬件钱包公司 OneKey 宣布以 8500 万美元估值完成 A+ 轮融资，IOSG Ventures 领投。OneKey 于 2022 年 9 月完成约 2000 万美元 A 轮融资，由 Dragonfly、Ribbit Capital 领投，Framework Ventures、Sky9 Capital、Folius Ventures、Ethereal Ventures、Coinbase、Santiago R Santos 和前链闻总编辑刘锋参投。
+
+[来源链接](https://foresightnews.pro/news/detail/18210)
+
+Web3 数据库开发商 Polybase 完成 200 万美元 Pre-Seed 轮融资，6th Man Ventures 领投，参投方包括 Protocol Labs、Orange DAO、Alumni Ventures、NGC Ventures、CMT Digital 等。Polybase 旨在创建传统数据库的 Web3 替代品，Polybase 目前在测试网上运行，其主网预计将在未来几周内启动。
+
+[来源链接](https://foresightnews.pro/news/detail/18157)
+
+多重签名初创公司 Den 完成 280 万美元融资，IDEO CoLab Ventures 领投，参投方包括 Gnosis、Lemniscap 和 Spice Capital，个人投资者包括前 Coinbase 首席技术官 Balaji Srinivasan 和来自 Not Boring Capital 的 Packy McCormick 等。本轮融资将用于开发多签钱包，Den 的创始人为 ConstitutionDAO 核心成员 Jonah Erlich 和 Ittai Svidler。
+
+[来源链接](https://foresightnews.pro/news/detail/18155)
+
+多链钱包 Blocto 以 8000 万美元估值完成 A 轮融资，参投方包括 Mark Cuban、IPX 和 500 Global，融资金额未披露。Blocto 目前支持以太坊、Solana、Polygon、Flow、BNB Chain 和 Aptos。
+
+[来源链接](https://foresightnews.pro/news/detail/18154)
+
+Web3 安全公司 KEKKAI 完成数千万日元融资，Skyland Ventures 参投。KEKKAI 是一款 NFT、代币欺诈和防盗浏览器扩展程序，支持在 Metamask 等钱包执行交易之前，在系统内模拟交易并显示结果。
+
+[来源链接](https://foresightnews.pro/news/detail/18135)
+
+基于人工智能的加密搜索引擎 Kaito 完成 530 万美元种子轮融资，Dragonfly Capital 领投，参投方包括红杉资本、Jane Street、Mirana Ventures、Folius Ventures 和 Alpha Lab Capital 等。Kaito 创始人兼 CEO Yu Hu 表示，目前正在与 OpenAI、Binance 和 Dragonfly 讨论下一轮（融资）。Kaito 表示，将使用这笔资金扩大团队规模并加速产品开发。Kaito 的 MetaSearch 旨在通过一键式产品使用户能够通过 Twitter、Discord、治理论坛、Mirror、Medium 等平台搜索整个加密领域。除了聚合信息外，Kaito 还利用 AI 通过排名、主题挖掘、个性化、推荐、语音到文本转录和 AI 生成的内容来优化其搜索引擎，还会集成 ChatGPT/GPT-3。Kaito 还将推出一个基于代币的社区，该社区将利用与维基百科类似的模型，用户可以通过分层系统为平台做出贡献。
+
+[来源链接](https://foresightnews.pro/news/detail/18073)
+
+跨链信息索引平台 Sentio 完成 640 万美元种子轮融资，Lightspeed Venture Partners 领投，Hashkey Capital、Canonical Crypto、Essence VC 和 GSR Ventures 参投。该轮股权融资于去年 9 月完成，投后估值为 3200 万美元。Sentio 构建了一个面向 Web3 和加密项目的可观察性平台，通过 Sentio 的软件开发工具包，用户可以跨区块链收集基于智能合约事件、交易、跟踪和状态的指标和事件日志，支持以太坊、Aptos、Polygon 和 Avalanche。Sentio 处理此信息的索引过程，用户随后可以构建可视化此类数据的仪表板。Sentio 团队成员包括谷歌前软件工程师 Fuyao Zhao、微软前员工 Yulong Huang 和 TikTok 前工程主管 Kan Qiao。
+
+[来源链接](https://foresightnews.pro/news/detail/18071)
+
+总部位于加州伯克利的 ZK 基础设施初创公司 Polyhedra Network 完成 1000 万美元融资，Binance Labs 和 Polychain Capital 领投，Foresight Ventures、Animoca Brands 和 Dao5、ABCDE、Sparkle Ventures、KuCoin Ventures、DHVC、OMA3、Galxe、SPACE ID 等参投。Polyhedra 使用零知识（ZK）证明技术开发了多种基础设施产品，产品包括支持跨链资产和数据传输的 zkBridge、用于零知识凭证验证的去中心化身份解决方案，以及加速 ZK-Rollups 的 paraPlonk 可扩展性解决方案。目前 Polyhedra Network 的 ZK 桥已经上线测试网，支持以太坊、BNB Chain、Polygon、Cosmos 等区块链网络的跨链互操作。未来 Polyhedra Network 将支持更多区块链网络，并为开发者提供 API 和 SDK。
+
+[来源链接](https://foresightnews.pro/news/detail/18065)
+
+Web3 去中心化账户管理协议 Intu 完成 200 万美元 Pre-Seed 轮融资，参投方包括 CoinFund、Metaweb Ventures、Fantom Foundation 等。Intu 透露将于 ETHDenver 期间（2 月 24 日）发布测试版。Intu 旨在提供加密钱包解决方案，为开发人员提供创建去中心化、可恢复和自主 Web3 账户的工具，该平台使分布式外部拥有账户 (dEOA) 账户。
+
+[来源链接](https://foresightnews.pro/news/detail/18062)
+
+区块链风险分析公司 Chaos Labs 宣布完成 2000 万美元种子轮融资，PayPal Ventures 和 Galaxy Digital 领投。Chaos Labs 将利用所筹资金自动化链上风险优化。本轮融资参投方包括 HashKey、Lightspeed、Uniswap Labs、Coinbase Ventures、Uniswap、Third Prime、DeFi Alliance、Quiet Ventures、OpenSea、Castle Island Ventures、Samsung Next、Polygon、Avalanche、Tioga Capital、Wintermute、Lyrik Ventures、Bessemer Venture Partners、Blockdaemon、Folius Ventures、General Catalyst、Jump Crypto、Theta Capital Management，以及天使投资人 Coinbase 前首席技术官 Balaji Srinivasan、AngelList 前首席执行官 Naval Ravikant 等。Chaos Labs 团队成员包括以色列特种部队前成员 Omer Goldberg。Chaos Labs 构建的一个 Web3 云能够复制客户运行的区块链，从而进行压力测试和模拟最坏情况。Chaos Labs 此前与部分 DeFi 协议合作，包括 Aave、Chainlink、Uniswap、BENQI 和 Osmosis，以保护和优化协议以防止操纵和黑天鹅市场事件，同时还提供资本优化建议。
+
+[来源链接](https://foresightnews.pro/news/detail/18060)
+
+区块链基础设施提供商 Gateway.fm 完成 460 万美元融资，Lemniscap 领投，参投方包括 CMT Digital、LAO DAO、Very Early Ventures、Fantom Foundation 和 Unstoppable Domain Ventures。本轮融资将用于加速产品开发以及推动营销和招聘工作。Gateway.fm 旨在提供去中心化 RPC 解决方案，使得 Web3 公司无需依赖例如亚马逊云和谷歌云等中心化服务。Gateway.fm 提供的服务吧包括机构质押服务 Gateway Grow、Web3 RPC 节点基础设施解决方案 Gateway Access 和使得区块链协议能够加速其主网启动的 Gateway Jumpstart。据官网显示，其客户包括了 NEAR、Fantom、Gnosis 和 1inch 等。
+
+[来源链接](https://foresightnews.pro/news/detail/17993)
+
+去中心化电子协议签署平台 EthSign 获 Animoca Brands 投资，投资金额未披露。本轮融资将用于 EthSign 继续开发其代币管理平台 TokenTable 并在未来公开发布。EthSign 的联合创始人 Potter Li 表示 EthSign 迄今为止的总融资额目前为 1400 万美元，The Block 依据其前两轮共 1265 万美元的融资额猜测本轮融资金额为 135 万美元。
+
+[来源链接](https://foresightnews.pro/news/detail/17992)
+
+零知识证明硬件初创公司 Cysic 完成 600 万美元种子轮融资，Polychain Capital 领投，HashKey、SNZ Holding、ABCDE、A&T Capital 和 Web3.com 基金会参投。其联创 Leo Fan 表示，种子轮融资于 2022 年 12 月结束。该轮融资将用于扩大团队并继续致力于开发硬件解决方案。Cysic 旨在为 ZK 证明协议提供硬件加速解决方案，已经拥有 12 个生态系统合作伙伴，包括 Scroll、Nil Foundation 和 Hyper Oracle。
+
+[来源链接](https://foresightnews.pro/news/detail/17892)
+
+DeFi
+----
+
+DeFi 项目 Huma Finance 宣布完成 830 万美元种子轮融资，投资方包括 Race Capital、Distributed Global、ParaFi、Circle Ventures 和 Folius Ventures 等，启动合作伙伴包括 Circle、Request Network 和 Superfluid。Huma 的第一个产品将建立在以太坊和 Polygon 上，是一个链上保理市场。 Huma 计划利用这笔资金继续开发该平台，并将其业务范围扩大到新市场。Huma Finance 是一种面向个人和企业的收入支持贷款协议（根据借款人的收入批准的贷款），也是 2022 ETHDenver 黑客松 DeFi 赛道获胜者，由曾任职于 Google、Meta、Lyft、Microsoft、Earnin 和 Opendoor 的团队成员构建。
+
+[来源链接](https://foresightnews.pro/news/detail/18256)
+
+DeFi 收益率协议 Affine Protocol 完成 510 万美元融资，Jump Crypto 与 Hack VC 领投，Circle Ventures 与 Coinbase Ventures 参投。Affine 的目标是解决流动性提供中的减值损失问题，其旗舰篮子 USD Earn 通过流动性管理策略提供自动化的多样化和收益率。
+
+[来源链接](https://foresightnews.pro/news/detail/18246)
+
+多链期权协议 Optix 完成 180 万美元融资，Skynet Trading 领投，参投方包括 Ascensive Assets、Arrington Capital、LVT Capital、Morningstar Ventures、SkyVision Capital、Huobi Global 和 Phemex。Optix 产品包括代币期权交易、无需许可的结构化产品等，将于 2023 年第二季度推出原生代币。
+
+[来源链接](https://foresightnews.pro/news/detail/18136)
+
+资管
+--
+
+ 
+
+比特币矿业咨询公司 Sabre56 完成 3500 万美元融资，投资主要来自私人，具体投资者未披露。该资金将用于建设其托管站点，目标是到今年年底准备好 150 兆瓦 (MW) 的能源容量。Sabre56 首席执行官 Phil Harvey 表示，前四个站点总计 115 兆瓦已上线，位于怀俄明州和得克萨斯州，该容量将以每月 7MW-15MW 的增量建造，第一批将于 3 月中旬上线。
+
+[来源链接](https://foresightnews.pro/news/detail/18238)
+
+Galaxy Digital 以 4400 万美元完成对 Celsius 旗下机构自托管平台 GK8 的收购，GK8 解决方案服务将继续向市场提供，同时 Galaxy 将把该技术集成到其即将推出的加密经纪平台 GalaxyOne 中。Celsius 于 2021 年 11 月以 1.15 亿美元收购了 GK8，此次交易的估值折扣超过 60%。Celsius 去年 7 月申请破产保护，并出售了数项资产，其中包括 GK8。
+
+[来源链接](https://foresightnews.pro/news/detail/18225)
+
+基于 Solana 区块链的加密支付平台 TipLink 完成 600 万美元种子轮融资，红杉资本和 Multicoin Capital 领投，参投方包括 Solana Ventures、Circle Ventures、Paxos 以及天使投资人 Vinny Lingham 和 Sarah Guo 等。TipLink 联合创始人兼首席执行官 Ian Krotinsky 表示，这是一轮股权融资，始于去年 4 月，并于 7 月结束。TipLink 允许用户通过链接发送加密货币、稳定币和 NFT，发送方必须连接到 Solana 钱包并通过存入他们想要发送的代币或 NFT 来创建 TipLink，然后可以复制 TipLink URL 并将其发送给任何人。接收方不必拥有加密钱包，甚至可以通过 Gmail 登录接收代币。
+
+[来源链接](https://foresightnews.pro/news/detail/18074)
+
+暗池交易公司 Renegade 完成 340 万美元种子轮融资，Dragonfly 与前 AngelList 首席执行官 Naval Ravikant 领投，其他个人投资者包括 Lily Liu（Balaji Srinivasan）、Tarun Chitra（Robot Ventures）、Marc Bhargava（Tagomi）和 Lev Livnev（Symbolic Capital Partners）。Renegade 正在开发基于多方计算（MPC）和零知识证明的链上版本的暗池交易解决方案，旨在通过防止抢先交易、三明治攻击和套利等行为来改善 DeFi 中的执行价格。
+
+[来源链接](https://foresightnews.pro/news/detail/17990)
+
+NFT 和链游
+-------
+
+NFT 借贷平台 PaprMeme 完成由 Coinbase Ventures 投资的 300 万美元融资，PaprMeme 由四名前 Coinbase 员工开发。
+
+[来源链接](https://foresightnews.pro/news/detail/17991)
+
+链游公司 Azra Games 完成 1000 万美元额外种子轮资金，a16z（通过其 6 亿美元游戏基金）领投，NFX、Coinbase Ventures、Play Ventures 和 Franklin Templeton 等参投。Azra 计划在今年晚些时候发布游戏 Legions & Legends 的第一部作品。2022 年 5 月，Azra Games 完成 1500 万美元种子轮融资，领投方为 Andreessen Horowitz（a16z，通过其 6 亿美元游戏基金），参投方包括 NFX、Coinbase Ventures、Play Ventures 和 Franklin Templeton 等。Azra Games 将使用该笔资金开发其首款战斗角色扮演类游戏 Project Arcanas。Azra Games 由企业家 Sonny Mayugba（担任首席运营官）和 Travis Boudreaux 以及资深游戏设计师 Mark Otero（担任首席执行官）共同创立。 Mark Otero 是游戏《星球大战：英雄银河》的开发者。
+
+[来源链接](https://foresightnews.pro/news/detail/18070)
+
+Web3 游戏社区平台 Iskra 宣布向区块链技术公司 HDLabs 投资 1 亿韩元（约 7 万美元）并与之达成战略合作伙伴关系。Iskra 和 HDLabs 即将推出其回合制 RPG 游戏「3 Kingdoms Multiverse (3KM)」，游戏内资产为 NFT 形式，Web3 游戏社区平台 Iskra 于 2022 年 4 月成 3400 万美元融资，还计划部署 2 亿美元的游戏基金。
+
+[来源链接](https://foresightnews.pro/news/detail/18237)
+
+Web3 游戏 Worldwide Webb 完成 1000 万美元 A 轮融资，Pantera Capital 是其唯一投资者。资金除用于增强 Worldwide Webb 影响力外，还将用于扩大其团队并整合除以太坊之外的其他链。Worldwide Webb 创始人兼首席执行官 Thomas Webb 表示，其于去年第二季度开始筹集资金，并于 12 月底完成交易。在接下来的几周内，Worldwide Webb 还将发布一款名为 Blockbusterz 的游戏，CryptoPunks、BAYC 或 Doodles 等 NFT 持有者可以在战斗锦标赛中相互对抗。
+
+[来源链接](https://foresightnews.pro/news/detail/18242)
+
+Web3 孵化器和做市商 iBLOXX 宣布完成 500 万美元融资，PrimeXM 领投，这笔资金将用于扩大公司的游戏开发部门 iBLOXX Studios，该笔投资使其游戏部门的投后估值达到 3000 万美元。iBLOXX 的游戏部门 BLOXX Studios 专注于使用虚幻引擎和 Unity 构建区块链游戏，开发 GameFi 经济健康和监控解决方案，以及创建与交易相关的区块链应用程序。
+
+[来源链接](https://foresightnews.pro/news/detail/18239)
+
+数字收藏品市场 Broadway Exchange 宣布完成 200 万美元种子轮融资，剧目制作公司 No Guarantees 领投。Broadway Exchange 目前正在募集 100 万美元额外资金。Broadway Exchange 将与剧院合作伙伴合作，根据他们的知识产权创建数字收藏品，并在其市场上出售以及供粉丝购买和交易。Broadway Exchange 最近与 Dapper Labs 合作转向 Flow 区块链。该公司由 MuseWorks Labs 拥有，致力于通过与百老汇、外百老汇等合作，帮助现场剧院在数字经济发展，从而与粉丝建立更深层次的联系。
+
+[来源链接](https://foresightnews.pro/news/detail/18075)
+
+链上策略游戏 Curio Research 完成 290 万美元种子轮融资，Bain Capital Crypto 领投，TCG Crypto、Formless Capital、Smrti Lab、Robot Ventures 和多个天使投资人等参投。Curio 链上游戏由工程师兼游戏玩家 Kevin Zhang 和 Yijia Chen 于 2022 年创立，允许所有参与者为他们所谓的代码和数据的「共享宇宙」做出贡献。
+
+[来源链接](https://foresightnews.pro/news/detail/18054)
+
+RPG 游戏 Chainmonsters 完成 150 万美元融资，具体融资信息未披露，所筹资金用于上线以太坊 NFT 二层扩容方案 Immutable X 。
+
+[来源链接](https://foresightnews.pro/news/detail/18000)
+
+链游 Million on Mars 完成 350 万美元种子轮融资，Great South Gate 和 Widus Partners 领投，Solana Labs 等参投。该轮融资用于支持其基于区块链的太空模拟，为游戏添加更多的系统和虚拟环境。该游戏可在 Solana 和 Wax 区块链上运行。
+
+[来源链接](https://foresightnews.pro/news/detail/17895)
+
+Web3
+----
+
+Web3 游戏和娱乐创作者支持平台 Strider 完成 550 万美元融资，Makers Fund 和 Fabric Ventures 领投，Shima Capital、Sfermion、Magic Eden 等参投。Strider 累计融资总额已达到 850 万美元。Strider 由 a16z 前合伙人和 TinyCo 运营和增长主管 Andrew N. Green 创立，希望构建一个由代币持有者共同治理基于故事驱动的社区。2022 年 2 月份，Strider 完成由 1kx 领投的 300 万美元融资，参投方包括 Decasonic、Scalar Capital、Sfermion、Metaorient 和 Yield Guild Games 等。
+
+[来源链接](https://foresightnews.pro/news/detail/18057)
+
+区块链索引初创公司 Superchain 完成 400 万美元的种子轮融资，用于构建开放索引协议，该轮融资于去年 12 月结束，Blockchain Capital 领投，Superchain 还在 2021 年 12 月的种子前融资中筹集了 125 万美元，参与方包括 Maven 11、KR1、Tokonomy 和 Fasanara。Superchain 联合创始人 James Corbett 表示，最近的融资使用了股权加代币认股权证的融资结构，资金将用于交付产品、支持客户和招聘。Superchain 可以快速收集和定制区块链数据供开发人员使用，目前支持索引任何以太坊虚拟机（EVM）链。
+
+[来源链接](https://foresightnews.pro/news/detail/18085)
+
+Web3 初创公司 Here Not There Labs 完成 2550 万美元融资，a16z 领投，Benchmark 和 Framework Ventures 等参投，资金将用于构建 Web3 社交协议 Towns。Towns 是一种群聊协议和应用程序，让社区可以创建可编程的、自治的「城镇广场」，社区可以控制管理、隐私和角色等设置，并创建量身定制的体验，包括奖励成员参与或允许成员在聊天中出售 NFT。Here Not There Labs 由群组视频聊天应用程序 Houseparty、直播应用程序 Meerkat 的联合创始人 Ben Rubin、虚拟现实培训公司 STRIVR Labs 的前首席技术官和 Skype 的前工程总经理 Brian Meek 创立。Here Not There Labs 计划去中心化 Towns 网络，并将治理和控制转移到 Towns DAO，即去中心化的自治组织。
+
+[来源链接](https://foresightnews.pro/news/detail/18241)
+
+Web3 客户关系管理公司 3RM 完成 350 万美元融资，Distributed Global 领投，参投方包括 Shima Global、Big Brain Holdings、Metareal 和 3SE Holdings。3RM 专注于构建一个客户关系管理（CRM）工具，该工具将以 Web3 行业的发展方向为中心。3RM 目前有 14 名员工。
+
+[来源链接](https://foresightnews.pro/news/detail/18068)
+
+基于 ENS 的社交平台 Phi 宣布完成 200 万美元种子轮融资，Chapter One 和 Delphi Digital 领投，Polygon Ventures 参投，个人投资者包括 Bankless 联创 Ryan Sean Adams 与 David Hoffman、ETH Global 联创 Kartik Talwar、Gitcoin 联创 Scott Moore 等。本轮融资将用于加速改进 UI/UX 和新社交 / 游戏功能的设计和开发，并创建社区以扩大与更多协议的合作，同时创建 Phi 衍生品。
+
+[来源链接](https://foresightnews.pro/news/detail/17902)
+
+区块链农业科技公司 GrainChain 宣布完成 2900 万美元融资，Overstock 投资 1000 万美元，此前 Overstock 通过 Medici Ventures 参与 GrainChain A 轮和 B 轮融资。GrainChain 为农民和买家提供了一套解决方案，其中大部分基于区块链和智能合约，包括从种子到收获的跟踪数据、库存管理、物流和交易管理。
+
+[来源链接](https://foresightnews.pro/news/detail/17900)
+
+其他
+--
+
+拜风投机构 Cypher Capital 正在寻求 1 亿美元融资。去年 9 月份，Binance Labs 前负责人 Bill Qian 加入 Cypher Capital 任董事长，负责 Cypher Capital 的管理和运营。Cypher Capital 当前拥有 10 名员工，最近聘请了腾讯资深人士 Elaine Liu 来支持其在阿联酋的扩张。2022 年 3 月份，Cypher Capital 推出 1 亿美元区块链基金，用于投资区块链、加密货币和其他数字资产项目。
+
+[来源链接](https://foresightnews.pro/news/detail/18031)
+
+游戏公会 Yield Guild Games (YGG) 正在寻求为其第一只基金 YGG Ventures Fund I 筹集 7500 万美元，YGG 联合创始人 Beryl Li 确认了 YGG Ventures 的成立以及该基金的目标金额。该基金的演讲稿表示，该基金的任务是投资于 Web3、游戏工作室和支持行业发展的基础设施的早期代币和股权交易。Beryl Li 将与 YGG 的另一位联合创始人 Gabby Dizon 以及 YGG 资产收购主管 Jeff Holmberg 一起成为该基金投资委员会的成员。YGG 于昨日宣布完成 1380 万美元融资，DWF Labs 和 a16z Crypto 领投。
+
+[来源链接](https://foresightnews.pro/news/detail/17925)
+

@@ -1,0 +1,115 @@
+  
+![](https://img.foresightnews.pro/202302/2b8448e02d59e711901c1c5ad4a799b4.jpeg?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202302/66daad5d341188ee829793e322d90358.jpeg?x-oss-process=style/scale70)
+
+  
+所有希望成为 Web3 先锋的开发者，抓紧时间！作为 ETHDenver BUIDLathon 的一部分，DFINITY 基金会正在向能够应对互联网计算机（ICP）挑战的 BUIDLers 提供奖金和赢得资助的机会。  
+ICP 社区非常高兴能够通过 BUIDLathon 赛道、BUIDLer 研讨会等加入 ETHDenver 2023，我们期待着欢迎新手加入 ICP 生态系统，并向开发人员介绍互联网计算机区块链及其功能。  
+但更重要的是，我们迫不及待地想与对去中心化和突破最新 Web3 技术边界感兴趣的志同道合者建立联系。  
+您准备好在互联网计算机上打造一个真正去中心化的未来了吗？我们准备了一系列有趣的赏金任务，一定会让您兴奋不已。  
+立即申请，完全免费：  
+* ethdenver.com/buidl/preparation-guide
+
+  
+当然，我们会随时准备支持您实现您的创新想法。  
+![](https://img.foresightnews.pro/202302/19d69de4a533c49de37be16729902b5a.jpeg?x-oss-process=style/scale70)
+
+  
+**关于赏金**  
+我们创建了 5 个有趣的类别，让您可以使用互联网计算机最具创新性的功能，包括 HTTPS Outcalls、本地 BTC 集成、ckBTC、链密钥签名和生物认证。  
+每笔赏金价值 5000 美元，还有机会获得高达 25,000 美元的开发者资助。  
+* 赏金 #1：DAO 的去中心化前端托管
+* 赏金 #2：着迷使用 ICP 上托管的动态 NFT
+* 赏金 #3：与 ICP 集成
+* 赏金 #4：用比特币构建
+* 赏金 #5：EVM DAO 的链上治理
+
+  
+![](https://img.foresightnews.pro/202302/3ca1e683762a511bc5ed66e03a97a663.jpeg?x-oss-process=style/scale70)
+
+  
+**如何取胜**  
+我们希望获得惊喜，评委们将根据创造力、设计质量和源代码、影响力和潜力、可用性水平和对互联网计算机区块链的贡献来选出获奖者。  
+但这不应该吓跑你 —— 5 个赏金类别，给你所有的自由，让你的创意源源不断。  
+这很简单，真的，将 DeFi 和 SocFi 带入比特币，疯狂使用 NFT，或者在互联网计算机上分散一个以太坊 DAO，并因此获得奖励！  
+准备好迎接挑战了吗？观看本文开头的视频并在此处获取所有信息：  
+* internetcomputer.org/ethdenver
+
+  
+![](https://img.foresightnews.pro/202302/d8f8f1bf803368e2e18c22c059ade2f5.jpeg?x-oss-process=style/scale70)
+
+  
+**抢先一步**  
+在互联网上构建计算机区块链的优势是无穷无尽的：用户无需支付 gas 费用、低存储成本、可扩展性、网络服务、速度、可持续性、跨链集成、由 DAO 运行的高级治理系统等等。  
+由于它为开发人员提供了一个完整的技术堆栈，互联网计算机区块链有望帮助您以一种新的方式开始一场革命，以设计、构建和发布完全托管在链上的 dapp，而无需依赖集中式云提供商，这提供了完全去中心化并消除了单点故障。  
+如果您正在考虑接受其中一项赏金挑战，最好不要等到 BUIDLathon 开始，查看我们新修改的开发人员文档，抢先一步：  
+* internetcomputer.org/docs/current/home
+
+  
+我们建议直接进入指南选项卡，让自己为成功做好准备。  
+您还可以练习使用我们的示例代码或查看 ICP 生态系统中的现有项目 以获取灵感。  
+哦，您可能想浏览为互联网计算机成为世界计算机铺平道路的功能：  
+* internetcomputer.org/capabilities
+
+  
+这是您成为 Web3 先驱并重塑互联网的终极机会 —— ICP 社区祝您好运！  
+![](https://img.foresightnews.pro/202302/5fbc0c33fdf74b8e83f1fd9ba4658136.png?x-oss-process=style/scale70)
+
+  
+**开发者支持**  
+2 月 24 日至 3 月 1 日上午 10 点至下午 4:00（北美山区标准时间），在位于 @BUIDLhub 的 #BUIDLWeek Co-Working 找到 Kyle Peacock 和 Ryan Vandersmith。  
+
+
+2 月 27 日上午 9 点至 10:30（北美山区标准时间），与 Kyle Peacock 一起在 Vib Hotel 参加关于如何在互联网计算机上部署 dapp 的研讨会。  
+
+
+加入 DFINITY 开发者论坛和 Discord：discord.gg/TymbFcnaUh。  
+您可以在 Twitch 上观看 BUIDLathon 直播。  
+![](https://img.foresightnews.pro/202302/6a84a6e1dff66ab05b152af1d6c66190.png?x-oss-process=style/scale70)
+
+  
+**关于互联网计算机**  
+互联网计算机（ICP）区块链是第一个“世界计算机”，可以在其上构建完全链上的 Web3 服务，包括要求苛刻的网络社交媒体，而不需要云计算服务等传统 IT。  
+不需要集中式云提供商、链桥或预言机 —— ICP 提供前端、托管数据，已经可以处理 25k+ TXs/s，插入 Web2 API 并签署原生比特币 TX。因此，它可以实现端到端的去中心化。  
+![](https://img.foresightnews.pro/202302/155b4bcf87b033908da1aa55a98c61e6.jpeg?x-oss-process=style/scale70)
+
+  
+作者：Angela Harp翻译：Catherine  
+  
+**-****往****期****推****荐****-**
+
+  
+
+
+[**如何让 ICP 质押收益最大化**](http://mp.weixin.qq.com/s?__biz=MzU1ODA4MjE5Ng==&mid=2247494822&idx=1&sn=caa1a833c325c66c102320cbe25a6423&chksm=fc295d5dcb5ed44b38436186a79f17292e96fc746251b1488d3f1c0f67e8823bc80bb149d65f&scene=21#wechat_redirect)  
+
+
+[**2022 年 ICP 的巨大增长延续到 2023 年第一季度**](http://mp.weixin.qq.com/s?__biz=MzU1ODA4MjE5Ng==&mid=2247494817&idx=1&sn=a9996eb104743347d91fa9c025d6aefe&chksm=fc295d5acb5ed44c113ba73ec668a083a28c2d6dc977394a0d2b5271865759b4d227f0192e00&scene=21#wechat_redirect)  
+
+
+[**链反应 - 在 ICP.Lab 释放区块链的力量**](http://mp.weixin.qq.com/s?__biz=MzU1ODA4MjE5Ng==&mid=2247494772&idx=1&sn=eba2e63cc297c78aed6f07251ef6f580&chksm=fc295d8fcb5ed49967ad6044327d81f7f477b757f7f861a68580e098f0c6a77afa10212887d0&scene=21#wechat_redirect)  
+
+
+  
+
+
+  
+
+
+![](https://img.foresightnews.pro/202302/4c6131f3e8dae30b2011152141b05a3d.png?x-oss-process=style/scale70)
+
+  
+  
+**你关心的 IC 内容**技术进展 **|** 项目信息 **|** 全球活动 **![](https://img.foresightnews.pro/202302/152822ec49f5fcfe5fd7f77ae1410a85.png?x-oss-process=style/scale70)**长按关注 IC 微信公众号
+
+掌握最新资讯
+
+  
+
+
+＊添加小助手微信 comiocn 进交流社群
+
+  
+
+

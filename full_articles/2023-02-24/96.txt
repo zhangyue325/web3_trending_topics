@@ -1,0 +1,386 @@
+![](https://img.foresightnews.pro/202302/42fa9d51332b0c8a639d94dfa5328410.gif?x-oss-process=style/scale70)
+
+  
+
+
+  
+
+
+1  
+**概述**  
+  
+  
+  
+  
+人工智能成为了元宇宙产业近月来热议的话题。  
+
+
+元宇宙游戏平台《Roblox》宣布将使用生成式 AI 工具测试功能，通过文本提示生成材料和通过 AI 完成代码，以帮助提高开发速度。**作为拥有 5800 万日活用户的在线创作游戏平台，Roblox 对 AI 的采用将促进 AIGC 的快速发展**。  
+
+
+与此同时，多家上市公司宣布，要将 ChatGPT 与公司虚拟数字人融合，研发出更加智能化、拟人化的虚拟数字人。生成式 AI 算法的突破，使得 AIGC 进入了应用爆发期，其巨大的经济价值不容忽视。而虚拟人作为元宇宙身份的载体，将会拥有更大的潜力。  
+
+
+**除此之外，复旦大学团队发布国内首个类 ChatGPT 模型，取名“MOSS”**。MOSS 可执行对话生成、编程、事实问答等一系列任务，打通了让生成式语言模型理解人类意图并具有对话能力的全部技术路径。  
+
+
+与《流浪地球》中人工智能同名的 MOSS 将会在未来成为人类的伙伴还是管理者，人工智能的约束边界将如何限定，需要我们保持关注。  
+
+
+然而历史不会倒退，人工智能已经成为了我们日常生活的重要组成部分。香港将研究建立人工智能超算中心以支持数字化社会的进程。  
+
+
+**人工智能、虚拟现实等新一代信息技术的融合应用是元宇宙的重要组成部分**，我们期待看到更多 ChatGPT 一般的杀手级应用，改变世界。  
+
+
+元宇宙时代正在来临，我们满怀期待。以下是本期周刊的详细内容，我们元宇宙之心将其分为了**重要新闻、本周新闻一览**两大板块，请 Enjoy：  
+
+
+**METAVERSE**  
+**重要新闻**  
+  
+  
+**【多家公司拟将 ChatGPT 融入虚拟数字人】**近日，多家上市公司宣布，要将 ChatGPT 与公司虚拟数字人融合，研发出更加智能化、拟人化的虚拟数字人。中信建投研报认为，生成式 AI 算法的突破，使得 AIGC（人工智能生成内容）进入应用爆发期，创造出巨大的经济价值。多位市场人士预测，虚拟数字人乘着 ChatGPT 的东风，有望迎来更大发展机遇。  
+
+
+**【昆山在谈及落户的元宇宙企业已有 70 家】**2 月 19 日消息，在元宇宙产业大会 2023 年春季会上获悉，昆山在谈及落户的元宇宙企业已有 70 家。项目主要聚焦物联网、人工智能、交互技术、建模渲染、区块链等核心技术。  
+
+
+**【2027 年元宇宙市场将增长 11.5 亿美元】**市场研究公司 TechNavio 在最新的一项研究中预测，从 2022 年到 2027 年，全球元宇宙市场规模预计将增长 11.5 亿美元。预计该市场在预测期间将以 40.06% 的复合年增长率。此外，增长势头还将不断加快。其中，在预测期内，北美将占市场增长的 39%。该报告还包含了 2017 年至 2021 年的历史市场数据。2017 年，元宇宙市场价值为 924.8 亿美元。该报告对区域层面的增长机会、新产品发布、最新趋势以及全球市场疫情后的复苏进行了全面分析，大致以下几点正在推动元宇宙市场的增长：智能手机和 5G 应用不断普及、VR/AR 新品的发布以及 VR/AR 在不同应用领域的日益普及等。  
+
+
+**【能源巨头沙特阿美与 droppGroup 签署协议建立 Web3 技术】**能源巨头沙特阿拉伯国家石油公司（沙特阿美）已与 Web3 技术提供商 droppGroup 签署了一份谅解备忘录（MoU），以探索共同开发一系列 Web3 技术，使其工人受益，包括潜在的入职、培训生态系统，以及通证化网络和奖励计划。据悉，这次合作并不是该公司首次涉足区块链技术。2020 年初，该公司向基于区块链的商品交易后处理平台 Vakt 投资了 500 万美元。droppGroup 是一家 Web3 技术提供商，其技术栈包括人工智能（AI）和机器学习（ML）、扩展现实（XR）、通证化网络和元宇宙环境。  
+
+
+**【复旦团队发布国内首个类 ChatGPT 模型 MOSS】**近日，复旦大学团队发布国内首个类 ChatGPT 模型，取名“MOSS”，与《流浪地球》中人工智能同名。号称国内第一个对话式大型语言模型 MOSS 已由邱锡鹏教授团队发布至公开平台，邀公众参与内测。据介绍，MOSS 可执行对话生成、编程、事实问答等一系列任务，打通了让生成式语言模型理解人类意图并具有对话能力的全部技术路径。据了解，在 MOSS 完成初步验证后，复旦团队会将 MOSS 的经验、代码、模型参数开源以供参考。  
+
+
+**【中国邮政首个数字邮品发行平台正式上线】**中国邮政首个数字邮品发行平台“邮贝·数字邮局”正式上线，据了解，此次为邮贝·数字邮局提供底层区块链技术支持的人民日报全国党媒联盟链，是旨在实现全国党媒信息公共平台数字资产管理能力的重要基建工程和创新业务。  
+
+
+**【腾讯云宣布支持全球 Web3 生态发展并推出面向 Web3Builders 的新产品】**全球科技公司腾讯云宣布承诺支持 Web3 生态系统的发展，腾讯云公布了全套区块链 API 服务的发展路线图及其全新的腾讯云 Metaverse-in-a-Box 产品，为 Web3 构建者提供强大的技术基础，同时加强其成为 Web3 数字化推动者的承诺行业。腾讯云还与 Web3 基础设施提供商 Ankr 签署了谅解备忘录 (MoU)，共同开发全套区块链 API 服务，这套新的区块链 API 服务将部署在腾讯云的基础设施之上，并将为 Web3 游戏和 Web3 社交应用等项目提供与大多数流行区块链的可靠、高效的连接。此外，腾讯云还宣布与 Avalanche、Scroll、Sui 达成战略合作，以构建更强大的基础设施，帮助全球建设者加速采用 Web3 以实现去中心化的未来。  
+
+
+**【国家互联网信息办发布第十一批境内区块链信息服务备案清单，央数藏等获得备案】**近日，根据《区块链信息服务管理规定》，国家互联网信息办公室发布第十一批共 502 个境内区块链信息服务名称及备案编号。备案清单包括：人民日报国家人文历史数字藏品平台（主体名称：《国家人文历史》杂志社有限公司）、央视网数字藏品发行平台央数藏（主体名称：央视国际网络有限公司）、中国邮政数字藏品平台（主体名称：中邮电子商务有限公司）、腾讯区块链 TrustSQL 软件（主体名称：腾讯科技（深圳）有限公司）、华为云数字资产链（主体名称：华为云计算技术有限公司）等。  
+
+
+**【Spotify 正在测试支持 NFT 的音乐播放列表服务】**Spotify 正在测试一项名为“通证启用播放列表”的新服务，该服务允许 NFT 持有者连接他们的钱包并收听精选音乐，试点目前可供 Fluf、Moonbirds、Kingship 和 Overlord 社区内的持有者使用，精选播放列表将在三个月的测试期间主动更新，并且只能由社区成员通过唯一链接访问。目前该试点仅适用于美国、英国、德国、澳大利亚和新西兰的 Android 用户。  
+
+
+**【浙江出台未来产业发展“新政”，优先推进元宇宙、仿生机器人等】**浙江省政府官网日前发布《关于培育发展未来产业的指导意见》。《指导意见》提出，优先发展未来网络、元宇宙、空天信息、仿生机器人、合成生物、未来医疗、氢能与储能、前沿新材料、柔性电子 9 个产业，探索发展量子信息、脑科学与类脑智能、深地深海、可控核聚变及核技术应用、低成本碳捕集利用与封存、智能仿生与超材料 6 个产业。  
+
+
+**【数字出版与元宇宙产业发展研讨会在京召开】**2 月 23 日，第十二届数字出版博览会“数字出版与元宇宙产业发展”研讨会在北京人卫酒店召开。当天下午举行的圆桌论坛围绕“元宇宙生态下的新型融合出版”“元宇宙产业中的新技术和成果应用”等内容展开，多位专家、学者共同参与研讨。  
+
+
+**【全国首个数字产权链平台在成都上线】**2 月 22 日，由中国企业国有产权交易机构协会 ( 以下简称中国产权协会 ) 主办的首届中国数字产权创新大会在成都成功举办。在本次大会上，全国首个数字产权区块链平台——“数字产权链”正式上线。当天，大会还发布了《数字产权链白皮书》，对数字产权概念、数字产权链设计、数字产权创新成果等进行了阐述。  
+
+
+**【Roblox 测试生成式 AI 工具，以帮助提高开发速度】**近日，元宇宙游戏平台《Roblox》宣布将使用生成式 AI 工具测试功能，《Roblox》团队将在未来几周内推出两个新的 AI 工具测试：通过文本提示生成材料和通过 AI 完成代码，以帮助提高开发速度。据悉，《Roblox》是世界最大的多人在线创作游戏平台，玩家可以在其中创建自己的游戏或玩其他玩家创建的游戏。根据《Roblox》的数据，日活用户超过 5800 万，UGC 内容超过 3200 万。该公司计划提供一个系统，允许由第三方生成 AI 服务创建的 3DCG、纹理等直接用于 Roblox Studio、《Roblox》的游戏开发工具。Roblox Studio 中也有创作者使用 AI 进行创作，但由于 AI 系统没有与平台整合，导致输出上的一系列问题需要创作者后续进行大量工作。《Roblox》将在 2 月 23 日的开发者周和 3 月的游戏开发者大会 AI 峰会上展示测试的细节。  
+
+
+**【香港将研究建立人工智能超算中心】**2 月 22 日，香港特区政府财政司司长陈茂波在发表 2023-2024 年度特区政府财政预算案时表示，数字化在实现高质量发展的过程中，发挥关键作用。为加速推动香港数字化经济的进程，数字化经济发展委员会正就四大范畴进行深入研究，包括探索推动数字经济发展所需的数码基建、便捷安全的跨境数据流动、企业数码转型，以及人力资源配套。其中，在数码基建方面，特区政府会就建立人工智能超算中心进行可行性研究，并在 2023/2024 年度完成。  
+
+
+**【工信部科技司副司长：以发展元宇宙为先导，推动人工智能、虚拟现实等新一代信息技术的融合应用】**2 月 15 日至 17 日，元宇宙产业大会 2023 春季会在昆山举行。工业和信息化部科技司副司长任爱光也以元宇宙为出发点，对新兴科技产业的发展提出了三点建议：一是坚持创新引领，加快关键技术突破，加强产学研用联合创新，不断突破元宇宙领域关键核心技术，以发展元宇宙为先导，推动人工智能、虚拟现实等新一代信息技术的融合应用，研制一批标志性产品，加快成果转化，加速新技术落地应用。二是拓展重点领域应用，赋能行业发展，充分发挥我国超大市场需求和超广应用场景的优势，围绕工业、文旅、教育、智慧城市等领域，开拓元宇宙应用新场景，形成需求牵引供给、供给创造需求的高水平发展。三是营造良好发展环境。夯实产业发展根基，探索元宇宙治理体系，建立审慎包容的容错机制和监管机制，营造企业团队和个人创新发展的良好环境。
+
+  
+**METAVERSE**  
+**本周新闻一览**  
+  
+  
+
+
+**VR/AR/MR*** Meta AR 引擎支持开发者更轻松创建引人入胜的 AR 体验。
+* 雀巢利用 VR 创建和测试虚拟产品原型。
+* XR 硬件制造商 Varjo 宣布与芬兰国家歌剧院和芭蕾舞团（FNOB）合作，基于 VR 技术打造了一场大型歌剧表演。
+* 谷歌旗下 VR 游戏工作室 Owlchemy Labs 任命新 CEO。
+* 社交元宇宙平台 Spotselfie 近日宣布将推出其虚拟商店功能，大学生可以利用该平台的广告门户赚钱，并在校园地点开设 Web3 业务。
+* 腾讯 XR 业务并非全线暂停，仍会考虑 XR 领域软件技术和内容生态等发展方向。
+* EM3 推出多功能、高算力专业级 AR 眼镜 Stellar Pro。
+* OPPO 注册海外 VR/AR/MR/XR 商标。
+* 苹果头显或于 6 月 WWDC 大会推出。
+* 游戏开发商 Epic Games 宣布于 2 月 21 日 -25 日期间举办“VR 游戏周”，将介绍一系列用虚幻引擎开发的 VR 游戏。
+* 腾讯 XR 部门留存了少量员工，未来或将引入 Meta Quest2 头显。
+* XR 会议协作平台 Frame 发布了 3.0 版本，本次更新优化了用户体验、虚拟化身、加入私人会议区、优化图形和纹理等等。
+* palan 与 KDDI 合作，将体积视频引入 WebAR 服务。
+* 临港新片区 XR 产业大会今日召开 170 亿元人工智能项目集中签约。
+* 中兴通讯旗下手机品牌努比亚宣布其首款 AR 智能眼镜 nubia Neovision Glass 将在 MWC2023 世界移动通信大会上亮相。
+* Niantic 公布 2023 年发展前景及部分 AR 项目进程。
+* 东映动画与索尼合作，在 VR 中再现 90 年代。
+* 索尼 PSVR2 正式开售，首发游戏共 49 款。外媒评测 PS VR2 稳定性好，但画面会有重影。
+* 富士通宣布推出新的 5G vRAN 解决方案，将其虚拟化 CU（vCU）和虚拟化 DU（vDU）与英伟达的 GPU 技术相结合。
+* 研究发现，VR 干预可减轻抽血儿童的疼痛和焦虑。
+* Meta Quest v50 更新，新增直接触摸功能。
+* 智能眼镜 Ray-Ban Stories 将完成从 Facebook 至 Meta 的用户迁移。
+* 领先的虚拟现实培训提供商 Virtualspeech 已将 AI 语言模型 ChatGPT 集成到其 VR 软技能培训中。
+* 虚拟制作专家 Scenez 与 HTC VIVE 建立了开发者合作伙伴关系，以利用其 XR Elite 头显进行混合现实 (MR)、“4D”的内容创建和分发。
+* 元宇宙社交平台 Sensorium Galaxy 开放全新 VR 内容及功能访问。
+* 最新研究表明，VR 运动数据追踪可以识别用户身份。
+* 苹果邀请立讯精密开发其 AR/VR 头显。
+* 高阶 VR 将成为玉晶光电发展重点。
+* 沃达丰将于 MWC2023 展示元宇宙中操控无人机。
+* MAXST 将在 MWC2023 展示 AR 开发等平台。
+* Vuzix 将为旗下企业智能眼镜提供 Android11 支持。
+* 元宇宙社交平台 Sensorium Galaxy 宣布推出 VR 多人公共游戏测试，开放访问虚拟世界中的新 VR 内容及功能。
+* 微美全息开发基于 MEC 的智能 AR 系统平台。
+  
+**NFT/ 链游**
+
+* 亚马逊前高管推出 NFT 检索平台 Thred。
+* Art Blocks 与 Bright Moments 联手创建生成艺术 IRL。
+* The Sandbox 宣布与日本动画制作公司东映动画达成合作。
+* PUMA 公布 Super PUMA NFT 发行计划，60% 将空投给 NITRO NFT 持有者。
+* NFT 市场 Blur 在其官推宣布推出“热门藏品”新功能，用户可直接进行追踪相关 NFT 系列。
+* Ripple 公布第三批创作者基金支持名单，包括 2 个项目和 5 名艺术家。
+* The Sandbox 将与 Fragbite Group 子公司合作开发多人跑酷主题游戏模板。
+* Web3 内容分发与版权 NFT 交易平台 Read2N 宣布将使用 Greenfield 作为存储基础设施。
+* 星巴克“Holiday Cheer Edition1Stamp”NFT 竞价已超 2000 美元。
+* Opensea 宣布启动限时 0 手续费交易，并启用可选版税服务非强制执行。
+* NFT 项目 Okay Bears 推出全新激励计划“Badges and Streaks”。
+* NFT 市场 SuperRare 与圣莫尼卡艺术博物馆达成合作。
+* 黑猫 NFT 项目 Mimic Shhans 与来酷星球达成合作落地 Mimic 互动生态馆。
+* BAYC 游戏 Dookey Dash 获胜者将其 NFT 以 2222ETH 的价格上架 OpenSea。
+* Polygon Studios 已更名为 Polygon Labs，原 CEO 转任为总裁。
+* Crypto 艺术家 Beeple 发布 Yuga Labs 元宇宙新作品“Otherside”。
+* kiframe Studio 将用原创 IP《FSLands》参加 Stepn 旗下 mooar 平台的第二季 NFT LaunchPad。
+* Animoca Brands 旗下 NFT 系列 Mocaverse 宣布推迟铸造。
+* STEPN 与 HypeSaints 将合作推出限量版联名运动鞋、NFT 和商品。
+* Moonbirds 母公司 Proof 已取消原定于 5 月举办的活动，购票者将可获得退款，交易者可以保留已取消活动的收据 NFT。
+* OpenSea 澄清，operator filter 适用新的和现有的链上强制执行版税的 NFT 系列.
+* NFT 项目“胖企鹅”Pudgy Penguins 与 Retail Monster 达成合作将在线下店推出 Pudgy Toyline。
+* NFT 街机游戏 AKIVERSE 已启动为期一个月的 Beta 封闭测试。
+* 链游 Heroes Chained 宣布上线 Fortunes of Ventuna2.0BETA 版本。
+* STEPN 开发商推出的新兴 NFT Launchpad MOOAR 第二季已开启投票。
+* 前 NBA 球星 Baron Davis 拟创建 NFT 摄影和视频版权管理平台 SLiC Images。
+* 表情包艺术家 Mavensbot 收到比特币 NFT 社区 6 个 BTC 奖励。
+* Laguna Games 任命 Andrew Campbell 担任产品和市场增长主管。
+* NFT 系列“Des Monsters”创作者 Des Lucrece 宣布与苏富比达成 1 年合约。
+* Aura Network 主网 The Xstaxy 将于 3 月 20 日 21 时正式启动。
+* PUMA（彪马）公布 SUPER PUNA NFT 官方铸造链接。
+* 育碧在 The Sandbox 中推出 Rabbids NFT 化身。
+* 香港虚拟资产管理公司 Artifact Labs 将推出泰坦尼克号 NFT 和“Titanic DAO”。
+* Axie Infinity 已启动 Homeland Season1 并将持续至 3 月 22 日。
+* 英国国会议员 Matt Hancock 发布 NFT，帮助逃离战争的难民筹集资金。
+* NFT 项目 Cool Cats 即将上线第二期“Cool Cats Journey”。
+* Solana Web3 手机 Saga 推出 NFT 铸造应用 Minty Fresh。
+* DAO 薪酬支付系统 Utopia 推出首款纪念 NFT。
+* NFT 平台 Art Blocks 宣布将继续支持版税，聚合列表即将纳入 Blur。
+* 三箭资产清算人 Teneo 将出售三箭资本持有的 NFT，价值超 640 万美元。
+  
+**其他**
+
+* BNB Chain 推出针对 Web3 女性的新导师计划 Web3WonderWomen。
+* Unstoppable Domains 和 Crypto 浏览器 Opera 合作扩展数字身份产品。
+* Web3 社交黑客马拉松在 DoraHacks.io 正式启动。
+* 区块链视频网络 Theta Labs 与 AI 平台 FedML 达成合作，将在内容推荐和生成式 AI 方面实现协作式机器学习。
+* 1inch Network 与元宇宙项目 Bloktopia 达成合作关系。
+* YouTube 已任命对 Web3 友好的高管为新任 CEO。
+* 巴黎奥赛博物馆等十二家机构加入 Web3 奖学金计划。
+* 国家级区块链新型基础设施，“星火・链网”测试网开放。
+* 全链互操作基础设施 MAP Protocol 与 Conflux 达成战略合作。
+* 印度游戏流媒体平台 Loco 将在 Avalanche 区块链上构建 Web3 产品。
+* 中文在线平台科幻主题元宇宙 RESTART 将于近期上线。
+* 微软与 Ankr 合作提供区块链节点基础设施服务。
+* Web3 金融科技公司 Satoshi’s Index 将推出新平台。
+* 美妆购物平台丝芙兰中国发布 PFP 数字藏品，限量 30 万份。
+* Binance Colombia 与安第斯大学合作让学生和教师了解区块链和 Web3。
+  
+**投融资新闻**
+
+* 索尼与 Astar Network 合作推出 Web3 孵化计划。
+* hololive 母公司 COVER 将于 3 月 27 日挂牌上市
+* Web3 安全公司 Stelo Labs 完成 600 万美元种子轮融资。
+* 社交游戏元宇宙 Phi 完成 200 万美元种子轮融资。
+* 农业区块链科技公司 GrainChain 完成 2900 万美元融资。
+* 零知识硬件初创公司 Cysic 完成 600 万美元种子轮融资。
+* 自 9 月以来 MicroStrategy 通过股票销售筹集 4660 万美元。
+* 链游 Million on Mars 完成 350 万美元种子轮融资。
+* 基于 ENS 的社交平台 Phi 完成 200 万美元种子轮融资。
+* 游戏公会 YGG 推出首支 Web3 基金 YGG Ventures Fund I，拟筹集 7500 万美元。
+* 埃森哲投资全息光场显示技术公司 Looking Glass。
+* NFT 借贷平台 PaprMeme 完成 300 万美元融资。
+* 区块链基础设施提供商 Gateway.fm 完成 460 万美元融资。
+* 新加坡 Web3 全媒体公司 Wonder Strategic International（WSI）宣布完成新一轮融资。
+* Web3 游戏工作室 Unagi 完成 500 万美元种子轮融资。
+* 去中心化电子签名平台 EthSign 获 Animoca Brands 投资。
+* 链游 Chainmonsters 完成 150 万美元融资，将于 3 月 6 日上线 Epic Games。
+* 资管巨头贝莱德元宇宙 ETFIVRS 已在 NYSE Arca 上市。
+* 工业及医疗智能眼镜供应商 Iristick 完成 400 万欧元融资。
+* nChain 对元宇宙开发公司 Transmira 进行战略股权投资。
+* 马来西亚 Web3 信息技术公司 MASVERSE 宣布开始天使轮融资。
+* VR 公司 Virtualware 将在巴黎证券交易所上市。
+* WebAR 开发平台 Aryel 完成 370 万欧元种子轮融资。
+* 数字藏品交易平台 Broadway Exchange 完成 200 万美元种子轮融资。
+* 人工智能 Crypto 搜索引擎 Kaito AI 完成 530 万美元融资。
+* Fetch.AI 与博世启动 1 亿美元基金会以推动 Web3 的采用。
+* IgmnAI 正寻求以 5000 万美元估值融资 750 万美元。
+* 链游开发商 Curio 完成 290 万美元的种子轮融资。
+* Web3 玩家共创游戏创企 Strider 融资 550 万美元。
+* 区块链安全公司 Chaos Labs 完成 2000 万美元种子轮融资。
+* 科技初创公司 3RM 完成 350 万美元融资。
+* 链游公司 Azra Games 完成 1000 万美元融资，a16z 领投。
+* web3 可观察性平台 Sentio 完成 640 万美元种子轮融资。
+* 人工智能 Crypto 搜索引擎 Kaito AI 完成 530 万美元融资。
+* 数字藏品交易平台 Broadway Exchange 完成 200 万美元种子轮融资。
+* 扩展现实元宇宙公司 Spheroid 获 ABO Digital2500 万美元投资承诺。
+* VC 巨头 Lightspeed 宣布将重点投资印度 Web3、区块链和深度科技等新兴领域。
+* 沉浸式健身游戏平台 Quell 完成 1000 万美元 A 轮融资。
+* Web3 音乐流媒体平台 Wavlake 完成种子轮融资。
+* Web3 初创公司 Unikbase 完成 200 万欧元融资。
+* 矿企 Luxor Mining 收购比特币 NFT 平台 Ordinalhub。
+* NFT 项目 0N1Force 宣布已被 Old Fashioned Research 收购。
+* Web3 游戏工作室 Kratos 以 1.5 亿美元完成 2000 万美元种子轮融资。
+* 开拓健身游戏技术未来的英国健身游戏开发商和发行商 Quell 当日宣布，其已经完成 1000 万美元的 A 轮融资。
+* Web3 社交应用 Towns 完成 2550 万美元 A 轮融资。
+* 元宇宙游戏 Worldwide Webb 宣布完成 1000 万美元 A 轮融资。
+* Web3 游戏发布和采购公司 HDLabs 完成 1 亿韩元融资。
+* Prevu3D 完成千万美元融资，将扩展平台部署。
+  
+**观点**
+
+* 国家信息中心主任指出构建跨异构底层框架的区块链基础设施已成核心问题。
+* 日本工程院院士指出 ChatGPT 与元宇宙具有很多共同性，都需要强大的数据、算力和算法支撑。
+* YouTube 新任 CEO 表示看好 NFT 和元宇宙等 Web3 技术。
+* 万维网创始人 Tim Berners-Lee 表示互联网的未来是 Web3.0，而非区块链或 Web3。
+* 元宇宙专委会执行会长表示 ChatGPT 为元宇宙按下“加速键”。
+* 深圳发改委认为登记机构应当运用区块链等相关技术，对数据产权登记信息进行上链保存。
+* 周鸿祎表示比尔·盖茨都低估了 ChatGPT 的价值。目前 ChatGPT 最大的安全问题就是产生自我意识后是否能被控制。
+* Real Vision CEO 表示 NFT 将在繁荣周期中充当高端财产，将优于以太坊。
+* Nano Labs 创始人 Jack 孔认为香港给了 Web3 创业者很好的土壤。
+  
+
+
+  
+
+
+**更多新闻详情关注我们：****https://www.metaversehub.net****参见元宇宙之心网站系列文章《元宇宙早报》**  
+  
+  
+
+
+📣元宇宙之心编辑部首次公开征集稿件📣⬇️寻找全网最强创作者⬇️  
+
+
+![](https://img.foresightnews.pro/202302/43f87a92f57f617cedd6dc86a5c9cfd9.jpeg?x-oss-process=style/scale70)
+
+  
+  
+
+
+
+
+---
+
+  
+  
+OpenAI 是由马斯克等人于 2015 年在创立的一家非盈利的 AI 研究公司，该公司的目标是进行 AI 的相关研究，并开放研究成果以促进 AI 技术的发展。
+
+  
+
+
+**微软狂砸 100 亿，AI 巨头 OpenAI 为何能带领 AI 火热出圈？**  
+
+
+  
+
+
+  
+  
+
+
+![](https://img.foresightnews.pro/202302/afd601f9827bbd732ca6f0338d3429a6.jpeg?x-oss-process=style/scale70)
+
+\* 相比于夏日学习大礼包，**新增 30 份**最新报告  
+
+
+  
+
+
+扫码关注公众号![](https://img.foresightnews.pro/202302/d9a2d18d22a45bf3cb8fabf91a20a184.png?x-oss-process=style/scale70)
+
+回复**元宇宙**领取  冬日**学习大礼包![](https://img.foresightnews.pro/202302/0bdbc75e2ed07193c5146c335861e2d6.png?x-oss-process=style/scale70)**  
+
+
+  
+
+
+  
+
+
+  
+
+
+***元宇宙之心旨在打造一个全面且有深度的信息平台，洞察行业最新要闻。从新闻、观点、专栏、行业动向等多角度挖掘元宇宙的价值****，****欲了解更多详情，点击：***  
+  
+
+
+***www.metaversehub.net***
+
+  
+  
+***免责声明：作为元宇宙资讯平台，本站所提供的资讯信息不代表任何投资建议，投资有风险，入市须谨慎。***![](https://img.foresightnews.pro/202302/5aa653e57b11ceabf4b3a5263f53cae5.png?x-oss-process=style/scale70)  
+
+
+  
+
+
+  
+
+
+
+
+---
+
+![](https://img.foresightnews.pro/202302/1fb3ddf3da00deb7547bab0262609b7a.png?x-oss-process=style/scale70)
+
+****◉******走心原创******◉****  
+
+
+[万亿市场拉开帷幕，下一个千亿市值公司在哪？](http://mp.weixin.qq.com/s?__biz=Mzg2Njg0Mzg4Mg==&mid=2247490710&idx=1&sn=e803171e5453580eda961a22f2ee85dc&chksm=ce45f113f9327805bed92ecc3292683b5f7c772371008c714b0cf2c641639b38f98e62ecd8bf&scene=21#wechat_redirect)
+
+[如何为元宇宙时代的创作者带来“搭积木”的体验？](http://mp.weixin.qq.com/s?__biz=Mzg2Njg0Mzg4Mg==&mid=2247488128&idx=1&sn=bc686b2c88eef38e80d6b3bbc7742ab5&chksm=ce45ff05f93276136992faa91c4b821c331e738408088f29e4d5895cbb858e30952f13947f8f&scene=21#wechat_redirect)[元宇宙究竟可以给营销业带来哪些革新？](http://mp.weixin.qq.com/s?__biz=Mzg2Njg0Mzg4Mg==&mid=2247489146&idx=1&sn=00af58230faf00038d9392fb719db7f9&chksm=ce45fbfff93272e9adfcd04d22164905fd6ab50dc32ecd91466a226c745cb3b6351525c23cc8&scene=21#wechat_redirect)
+
+[当 Web3 成为“香馍馍”时，为什么还有人选择离开？](http://mp.weixin.qq.com/s?__biz=Mzg2Njg0Mzg4Mg==&mid=2247487863&idx=1&sn=603495310bf48b9da4580e41a8a12bbd&chksm=ce45fcf2f93275e45989f1ae51b0028fa07b86992efe26bdf0a216b65a82aa4f6168caa0011f&scene=21#wechat_redirect)  
+
+
+  
+
+
+********◉****** 必读好文 ******◉********  
+
+
+[虚拟购物 ROI 增长 450%，零售商如何迎接元宇宙？](http://mp.weixin.qq.com/s?__biz=Mzg2Njg0Mzg4Mg==&mid=2247487832&idx=1&sn=2a8f91f18676e1922f8f8d512412db5c&chksm=ce45fcddf93275cb4854c3d4dfd636f9d335cd4127429bddf39b3e107429c5da15ffd2a51998&scene=21#wechat_redirect)
+
+[视频创作者饭碗不保！AI 黑科技来抢活儿了](http://mp.weixin.qq.com/s?__biz=Mzg2Njg0Mzg4Mg==&mid=2247488824&idx=1&sn=ddd532b33caf64beee85436ce43ebc15&chksm=ce45f8bdf93271ab3054e5955274bfe5c9fc2918723d61259ad3d530f63a7c2466b56eaae5a0&scene=21#wechat_redirect)
+
+[元宇宙热潮的当下，将如何塑造内容创作者的未来](http://mp.weixin.qq.com/s?__biz=Mzg2Njg0Mzg4Mg==&mid=2247487828&idx=1&sn=50f9f6d62a87d30ef0b992fed4739421&chksm=ce45fcd1f93275c781821d8c7ea9946e6f842a037f2c98ad2fd13a5a8e33422878ee760bec00&scene=21#wechat_redirect)？  
+
+
+[诞生 33 年的华硕进军元宇宙还能踩上风口吗？](http://mp.weixin.qq.com/s?__biz=Mzg2Njg0Mzg4Mg==&mid=2247488740&idx=1&sn=ad23e9a5598f339a2e079dcb621ee5e8&chksm=ce45f961f9327077242a26a51ef27809213a9192561600ba5f3f6ef01a8d08e81eb5b3cf59ee&scene=21#wechat_redirect)  
+
+
+  
+
+
+******◉**** 每周大事件 ****◉******  
+
+
+[元宇宙周刊丨三季度国内元宇宙投融资达 228.4 亿](http://mp.weixin.qq.com/s?__biz=Mzg2Njg0Mzg4Mg==&mid=2247488787&idx=1&sn=9b148d7febac6488fdf336b1d0a33b47&chksm=ce45f896f9327180f43c3bc196a1c7eaedcb2554a120469283d8a3ee1a6366b2927583afeed9&scene=21#wechat_redirect)  
+
+
+元宇宙周刊  | [Rokid Air 全球销量突破 30000 台](http://mp.weixin.qq.com/s?__biz=Mzg2Njg0Mzg4Mg==&mid=2247487962&idx=1&sn=13a296b9a257a4d400067035923bb054&chksm=ce45fc5ff932754904d76b2df5bd860a213e7f4a53c16eebb32e90959ce5f17a83217d2775e2&scene=21#wechat_redirect)  
+
+
+[元宇宙周刊丨游戏产业上半年元宇宙收入占比达 94%](http://mp.weixin.qq.com/s?__biz=Mzg2Njg0Mzg4Mg==&mid=2247488538&idx=1&sn=5904427c2bed774a5d08c1f4c2b5c474&chksm=ce45f99ff9327089f166040734918b673e011fb6f15780ae162c5533051328987286779d2eb5&scene=21#wechat_redirect)  
+
+
+[元宇宙周刊丨中国元宇宙产业产值已超 400 亿](http://mp.weixin.qq.com/s?__biz=Mzg2Njg0Mzg4Mg==&mid=2247488394&idx=1&sn=cbc399ebc9077cc0f0d500a906d9323d&chksm=ce45fe0ff9327719eb3620ff4126f5640530f169117fc8cabdbc3db5fcee83e4228e5876cbd4&scene=21#wechat_redirect)  
+
+
+  
+
+
+![](https://img.foresightnews.pro/202302/6fe1ebcba24c0f58a98c79488cde7155.gif?x-oss-process=style/scale70)  
+
+

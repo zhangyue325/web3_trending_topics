@@ -1,0 +1,98 @@
+现在每个人都在谈论 Optimism。Coinbase 刚刚宣布他们将推出一个新的 L2 区块链，名为「Base」，建立在 $OP Stack 上。所以这篇文章将向你介绍：
+
+* Optimism 是什么；
+* 为什么 $OP 是 DeFi 的首选；
+* 一些潜力巨大的 DeFi 协议；
+![](https://assets.techflowpost.com/20230207/b15e3b16636e48079b60243215349375.png)
+
+什么是 Optimism？
+-------------
+
+Optimism 是以太坊上的明星第 2 层解决方案之一。随着 L2 上的许多 DeFi 进步，Optimism 无疑处于最前沿。
+
+![](https://assets.techflowpost.com/20230207/7f3914811d11499db8a7fdcd5c226680.png)
+
+与 Arbitrum 类似，Optimism 使用 Optimistic Rollups 来增加交易吞吐量并减少 Gas 费用。开发人员能够在以太坊之上创建可扩展和高效的应用程序，并从网络的现有基础设施中受益。
+
+![](https://assets.techflowpost.com/20230207/28f2f2cf0319481fab62ad85e38b7849.png)
+
+昨天 Coinbase 宣布他们推出一个新的 L2 区块链，名为「Base」，建立在 $OP 堆栈上，为任何人在任何地方构建去中心化应用程序提供了一种安全、低成本、对开发人员友好的方式。
+
+![](https://assets.techflowpost.com/20230207/978dd69fd15342f98618fd5617a70563.png)
+
+该合作致力于将 Optimism 主网、Base 和其他 L2 升级为初始超级链。并且希望超级链能够发展成为一个庞大的网络，最大限度地提高互操作性，共享去中心化的协议，并使其核心原语标准化。
+
+![](https://assets.techflowpost.com/20230207/0643897005f649438415784de3a348c6.png)
+
+是什么让 Optimism 成为 DeFi 的首要选择？
+----------------------------
+
+$OP 专注于与以太坊的兼容性。任何以太坊 dApp 都可以很容易地与 Optimism 集成，并从其可扩展性和减少的 Gas 费用中受益。这导致许多流行的 dApps 和 DeFi 协议迁移到 $OP 上。 
+
+![](https://assets.techflowpost.com/20230207/3d92cce129b0431d9cb3b5880fc5095e.png)
+
+Optimism 已经在主网上存在了一段时间，并经过了几个知名项目的实战检验，包括 Uniswap、Synthetix 和 MakerDAO。
+
+随着即将到来的重大网络升级，预计 Optimism 生态系统的活动将很快达到新的高度。
+
+![](https://assets.techflowpost.com/20230207/3c1df340bd5548a298055ad88c5d89c8.png)
+
+Optimism 上的 DeFi TVL 上个月上涨了 41%，仅次于 Arbitrum。因此让我们来看看一些有趣的 DeFi 协议：
+
+![](https://assets.techflowpost.com/20230207/c39cc0c10ba9454b844e13ba397ab65e.png)
+
+### Velodrome
+
+Velodrome 是 Optimism 上最大、发展最快的 DEX。
+
+在某种程度上，它是 Curve、Convex、UNIV2 的混合体，将多个协议层结合在一个中心。
+
+![](https://assets.techflowpost.com/20230207/e4c8181bf82444fe96ba6f0b2e0081bd.png)
+
+该交易所设有一个名为 Velocity Pool 的创新流动性池，流动性提供者可以通过其抵押资产赚取交易费和收益。
+
+Velodrome 还通过原生代币 $VELO 奖励用户参与生态系统。
+
+![](https://assets.techflowpost.com/20230207/5f99d71d2e184165add71822eae2ea77.png)
+
+Velodrome 允许许多流行的协议，如 Lido 和 Frax，为他们的代币持有者激励他们的流动性。
+
+![](https://assets.techflowpost.com/20230207/12602d89fd1d40f29b58a936a77974e9.png)
+
+Velodrome 的 TVL 从 2023 年初开始呈指数级增长，如今已超过 2.77 亿美元。
+
+### Synthetix
+
+Synthetix 是一个去中心化的资产保险协议，允许其用户通过被称为「Synths」的合成资产铸造和交易各种衍生品。
+
+![](https://assets.techflowpost.com/20230207/6428150ae659421a9e8967f6b74399aa.png)
+
+Synthetix 处于 DeFi 运动的最前沿，有可能在以太坊上创造一个大规模的现实世界资产代币化市场。
+
+### Sonne Finance
+
+Sonne Finance 是第一个提供完全透明和去中心化的点对点借贷解决方案。
+
+![](https://assets.techflowpost.com/20230207/4beb7ef71e0745468f84be3aca52218f.png)
+
+自 2023 年开始，SonneFinance 的 TVL 一直在稳步上升。它也已经成为 Velodrome 上最大的贿赂者之一。
+
+值得关注的 DeFi 协议
+-------------
+
+### Toros
+
+Toros Finance 是一个 DeFi 平台，让用户有机会通过 Dynamic Vaults 赚取收益。
+
+![](https://assets.techflowpost.com/20230207/7bbc330f264d4d8f84f60749fdf6a00a.png)
+
+### Perpetual Protocol
+
+Perpetual Protocol 是一个链上永续期货 DEX，具有深厚的流动性和可组合性。凭借 1700 万美元的 TVL，Perpetual 在 Optimism 生态系统中很显眼。
+
+### PikaProtocol
+
+Pika Protocol 是一个永续 Swap，允许用户以高达 100 倍的杠杆和几乎 0 的滑点进行外汇和加密货币交易。Pika Protocol 采用自动做市商模式，引导交易需要最低流动性。
+
+![](https://assets.techflowpost.com/20230207/25565bcea3e24eaa8467305c59da2a05.png)
+

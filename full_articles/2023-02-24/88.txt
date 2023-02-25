@@ -1,0 +1,49 @@
+最近很高兴有机会较为全面深入地研究 GPT / ChatGPT 这一热门技术，学到了不少东西，当然也遇到不少问题，其中一个问题就是，所有的 GPT 模型，都会有输入输出长度（加起来）的限制这个问题，就好像一个紧箍咒似的。  
+
+
+![](https://img.foresightnews.pro/202302/e5dc26cf9899d800203d120bdc8c6eb7.png?x-oss-process=style/scale70)
+
+我这段时间看到很多不同的一些办法来想办法绕过这个限制，例如把一个长的 prompt 拆成多个短的，逐个执行后再拼接起来。虽然有的确实能实现效果，但就是很麻烦。  
+
+
+难道没有更好的办法了么？我倒是实验了如下的这方法，而且确实是可行的。  
+
+
+![](https://img.foresightnews.pro/202302/1a904e7ca0621bbeb19b86845a007642.png?x-oss-process=style/scale70)
+
+你可能会说，我的内容不是一个网页啊，我是本地的一些文字呢？其实，这又有什么难的呢？你要做的无非是把你的文字，转换为一个网页即可。例如本例我演示一下，我把刚才那个 openai 的帮助文档保存在本地，形成一个 html 文件。
+
+![](https://img.foresightnews.pro/202302/201265e8cad4af6d275298064b73a1b6.png?x-oss-process=style/scale70)
+
+  
+
+
+这个文件其实是可以直接通过浏览器打开的。
+
+![](https://img.foresightnews.pro/202302/91dbc82fb2a96e363d2e8bcd1e730a20.png?x-oss-process=style/scale70)
+
+那么问题来了，这个文件是肯定不可能被 openai 在云端读取到的？怎么办呢？还是很容易，我可以本地把这个文件打开来，并且用反向代理将其发布到公网允许匿名访问。首先，我用了一个静态服务器来把这个网页托管起来。  
+
+
+![](https://img.foresightnews.pro/202302/cad12bcc8534c9bc6f5296a32a4b0d41.png?x-oss-process=style/scale70)
+
+然后用 ngrok 来做反向代理  
+
+
+![](https://img.foresightnews.pro/202302/d2fda6b635af45f9ba5209cc110a0e10.png?x-oss-process=style/scale70)
+
+运行起来后的效果如下  
+
+
+![](https://img.foresightnews.pro/202302/714edfee947a6ba6088336cfc1aeea5c.png?x-oss-process=style/scale70)
+
+那么接下来你要做的就是，把这个地址给 GPT 去解析即可。  
+
+
+![](https://img.foresightnews.pro/202302/65e57ca8fa4fcec1ccb42425a2e83ba5.png?x-oss-process=style/scale70)
+
+打完，收工！  
+
+
+请注意，真实场景下，你完全可以动态地生成很多本地的 html 文件，然后通过这个办法就解决了长度限制的问题了。
+

@@ -1,0 +1,89 @@
+市场观点：
+=====
+
+1、宏观流动性
+-------
+
+货币流动性趋紧。美联储 2 月会议纪要重申抗击通胀的强硬立场。市场预计美联储将在 3 月、5 月和 6 月分别加息 25 个基点，降息预期大幅减弱。欧洲央行有意在 3 月再次加息 50 个基点。不过中国近期注入创纪录的流动性来支持实体经济。美元指数持续反弹，对美股和加密市场形成压制。![](https://img.foresightnews.pro/202302/41f8ab5ef85f64442501e9145174a63e.png?x-oss-process=style/scale70)
+
+2、全市场行情
+-------
+
+市值排名前 100 涨幅榜：![](https://img.foresightnews.pro/202302/c7be88205f294e8d642a723bc9e4b7b7.png?x-oss-process=style/scale70)本周市场震荡下跌。BTC 基本持平，山寨币整体偏弱。市场预期香港在 6 月 1 日放开个人对加密市场的投资，中国资金有望再次回归成为主流。香港概念、BTC 生态成为市场热点主线。由于持续的 arbitrum 链发币传言，链上活动仍然高涨。
+
+1. CFX: 是国内唯一合规的公链，与上海、湖南政府关系很好，收到千万级别的政策补贴支持。近期和小红书合作 NFT，与中国电信（香港）合作手机卡，口号是带来一亿中国区块链用户。CFX 的首席科学家是清华姚班的姚院士。近期受益香港政策放开预期，值得长期关注。
+2. STX: BTC 的 NFT 例如 Ordinals 近期市场热度很高，投资者押注 BTC 的可扩展性。STX 是 BTC 的 L2 核心生态代币。RIF 是 BTC 的侧链，生态一般。REN 和 BADGER 都是 BTC 的 DEFI 项目。
+3. FIL：是永久存储赛道龙头。预计在 3 月 14 日推出兼容 EVM 的存储公链，将加快对代币 FIL 的消耗需求。
+
+3、BTC 行情
+--------
+
+### 1) 链上数据
+
+BTC 链上活动出现净增长。挖矿哈希值达到历史新高，这是由于矿工在 BTC 价格上涨的基础上加倍下注。更多的 BTC 从短期交易（小于 6 个月）逐渐转向为中长期交易，代表底部抄底的投资者是看好 BTC 的长期走势。这为 BTC 价格的上升奠定了基础。![](https://img.foresightnews.pro/202302/8823185db29d9796efee60f7d33c3af3.png?x-oss-process=style/scale70)场内资金基本持平。市场缺乏增量资金入场，整体仍处于存量博弈阶段。Tether 的主导地位继续增长，USDT 占稳定币总供应量的 52%，是 21 年 11 月以来最高水平。USDT 的增长主要是 BUSD 退出的结果。![](https://img.foresightnews.pro/202302/c2bf350bbb00f3b43bf373be25c09714.png?x-oss-process=style/scale70)长期趋势指标 MVRV-ZScore 以市场总成本作为依据，反映市场总体盈利状态。当指标大于 6 时，是顶部区间；当指标小于 2 时，是底部区间。MVRV 跌破关键水平 1，持有者总体上处于亏损状态。当前指标为 0.32，脱离了绿色抄底区间。![](https://img.foresightnews.pro/202302/c489a05773a7a37464b7b976ee39736f.png?x-oss-process=style/scale70)
+
+### 2) 期货行情
+
+期货资金费率：本周费率为正，表明市场主要采取看涨立场。费率 0.05-0.1%，多头杠杆较多，是市场短期顶部；费率 -0.1-0%，空头杠杆较多，是市场短期底部。![](https://img.foresightnews.pro/202302/70f5ec143e911b09c417de3c689f9f65.png?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202302/29fcfc62354c82ab32d9ab1d521278c5.png?x-oss-process=style/scale70)期货持仓量：本周总持仓量下降，部分市场主力选择离场。![](https://img.foresightnews.pro/202302/3ecbba4918dc801f7265f31fc2145310.png?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202302/abce9c20765a9f89ef3c9e69f05c0291.png?x-oss-process=style/scale70)期货多空比：1.5。散户做多情绪较高，散户情绪多为反向指标，1.7-2.0 以上比较危险。多空比数据波动大，参考意义有所削弱。![](https://img.foresightnews.pro/202302/692f4380c89bc61a4add65013f14ea96.png?x-oss-process=style/scale70)
+
+### 3) 现货行情
+
+本周 BTC 在 23000-25000 区间震荡。外围美股市场下跌拖累 BTC 走势。如果 BTC 能有效突破去年 8 月的 25000 强阻力位，则大概率会去 30000。反之如果 BTC 跌破前低 23000，则这轮反弹可能接近尾声。目前看来，市场继续震荡上行的概率更大。![](https://img.foresightnews.pro/202302/d4b878d646348d96ccf39eade18c7165.png?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202302/fb49a4e5d7a89ff47d957aa969d4dd05.png?x-oss-process=style/scale70)
+
+### 市场数据：
+
+1. 公链总锁仓量情况
+-----------
+
+![](https://img.foresightnews.pro/202302/6ee47da4a1a07999ff7392e516df5cfe.png?x-oss-process=style/scale70)2. 公链占比情况
+---------
+
+![](https://img.foresightnews.pro/202302/b13c49dd7d49e5dae23a67d6651bd4f8.png?x-oss-process=style/scale70)本周 TVL 较上周上升 0.58b，在 layer2 公链中，arbitrum 的上升最为明显，TVL 上升至 1.9b，相比上周上涨 16.56%，总占比 3.82%；optimism 也相比上周也有 5.67% 的上涨。
+
+### 1) ETH 锁仓量情况:
+
+![](https://img.foresightnews.pro/202302/2c54d8eebe6e32f8cb9b8667e44160ee.png?x-oss-process=style/scale70)### 2) BSC 锁仓量情况:
+
+![](https://img.foresightnews.pro/202302/be6cdee036dabe01118f4f0c8894f925.png?x-oss-process=style/scale70)### 3) Tron 锁仓量情况:
+
+![](https://img.foresightnews.pro/202302/369b861055155b9746fe5897e9216a22.png?x-oss-process=style/scale70)### 4) Avalanche 锁仓量情况:
+
+![](https://img.foresightnews.pro/202302/2476b1bed7798f2d83a84822a2f5cc67.png?x-oss-process=style/scale70)### 5) Polygon 锁仓量情况:
+
+![](https://img.foresightnews.pro/202302/61402bb7bcbf658caf499f398aedce25.png?x-oss-process=style/scale70)### 6) Arbitrum 锁仓量情况:
+
+![](https://img.foresightnews.pro/202302/b226da7c65e02e69ef98dcb8bbd6cec9.png?x-oss-process=style/scale70)### 7）Optimism 锁仓量情况：
+
+![](https://img.foresightnews.pro/202302/8817b1bb4118ffae48c852edcbfb1150.png?x-oss-process=style/scale70)3.ETH Gas fee 历史情况
+------------------
+
+![](https://img.foresightnews.pro/202302/e3645bbf5d564e40375d96aa5081a037.png?x-oss-process=style/scale70)当前链上转账费用约为，交易费用约为16.89，Opensea 的交易费用约为 $6.56。本周 Gas 相对有所下降，但仍可以看出已逐步离开底部区间，市场活性在不断增强；其中 blur 上消耗的 gas 已经来到第二位，仅次于 uniswap router。
+
+4.NFT 市场数据变化
+------------
+
+### NFT-500 市值：
+
+![](https://img.foresightnews.pro/202302/63ee470d98d51f7edf3c13ca3442c6ad.png?x-oss-process=style/scale70)### NFT 市场交易概览：
+
+![](https://img.foresightnews.pro/202302/ec4a09f080de2cc663a736adbaefaee3.png?x-oss-process=style/scale70)### NFT 市场交易情况：
+
+![](https://img.foresightnews.pro/202302/25d4e4db57f919ef2a031a44610f6ea6.png?x-oss-process=style/scale70)NFT 市场总市值延续上周趋势仍然在下降，并且交易中 sale 成交的数量有明显下降。可以注意到近期各市场占比中，blur 的份额在明显上升，甚至可以达到 open sea 份额的 50% 以上。相比上周，buyer 的数量有所上升，以 returning buyer 为主。同时，在活跃的 nft 项目方面，可以看到持续回暖的趋势。
+
+项目最新融资情况
+========
+
+![](https://img.foresightnews.pro/202302/c9d376751d629c969d4e176bbc015f13.png?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202302/a39019d3162cb4304a916a34e62265b3.png?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202302/e592763939d41a2a0e80ff358467d030.png?x-oss-process=style/scale70)
+
+**Foresight Ventures 支持创新和颠覆性的 Web 3 项目。我们相信未来的创新将由加密技术定义.作为早期投资者, 我们希望参与项目的成长,并从我们的生态系统中提供广泛的支持。**
+
+**官网：foresightventures.com**
+
+**邮箱：fv@foresightventures.com**
+
+**Twitter: twitter.com/ForesightVen**
+
+**Medium: foresightventures.medium.com**
+
+**免责声明：Foresight Ventures 所有文章均不作为投资建议。投资有风险，请评估个人风险承受能力，审慎做出投资决策。**
+

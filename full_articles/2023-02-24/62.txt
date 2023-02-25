@@ -1,0 +1,57 @@
+由 Galaxy Interactive、Republic Crypto 等知名机构投资的专注于 Web3 移动应用发展的项目 Mirror World，于 2.24 日 推出首个支持多链部署的 all-in-one Web3 应用开发平台 - Smart Platform，旨在通过一个易用的 Web3 应用开发平台，为所有移动应用的部署、增长和商业化变现提供完备的解决方案。
+
+Smart Platform 将嵌入式交易市场、登陆认证、MPC 钱包、出入金和 NFT 管理等功能全都集成在了同一个平台中。无需任何前期接入成本，开发者只需通过轻松调用对应的 API，即可快速集成区块链技术，为用户提供无缝的产品体验。
+
+Smart Platform 现在可以在 [Mirror World](https://www.mirrorworld.fun/) 的网站上进行[接入测试](https://app.mirrorworld.fun/auth/login)，并可通过[提交申请获得多链版本的使用权限](https://5uoekr5pezt.typeform.com/to/xVhzCLDZ)。
+
+![](https://img.foresightnews.pro/202302/4775-1677209384473.png?x-oss-process=style/scale70)
+
+### 一站式解决 Web3 应用开发难题
+
+Smart Platform 作为首个一站式 Web3 应用开发平台，就是为了完整解决开发者在更短的开发时间、更低的接入成本以及更好的用户体验之间的选择矛盾。
+
+![](https://img.foresightnews.pro/202302/4775-1677209452450.png?x-oss-process=style/scale70)
+
+为了提高扩展性，兼顾更多的生态项目，Smart Platform 也在不断的开发迭代，在去年 10 月支持 [Solana 生态](https://app.mirrorworld.fun/auth/login)并为超过 250 个项目提供 API 支持之后，在 2.24 再次推出支持多链生态开发部署的版本，同时完成了对 Ethereum、Polygon、BNB Chain 等公链的集成，并已经在官网开放了[早期使用权限的申请通道](https://5uoekr5pezt.typeform.com/to/xVhzCLDZ)。
+
+同时也保证支持 iOS, Android, Unity, Unreal, Rust, Javascript, TypeScript 等开发平台的流畅接入。
+
+![](https://img.foresightnews.pro/202302/4775-1677209477552.png?x-oss-process=style/scale70)
+
+“市场中现有的解决方案对项目方和开发者来说并不友好，一个应用想要提供完整的 Web3 体验，不光是嵌入式应用市场的构建，还涉及到账户认证、钱包服务、出入金、和相关 NFT 配套管理等多个环节，至少需要对接 5-6 个的供应商提供服务，不同的供应商之间还有着不同的编程语言、标准和对接的节奏。对于开发者们，尤其是对团队规模并不大的项目，，开发资源将被严重消耗，这是我们致力于要改变的情况，我们已经准备好帮助开发者和项目方成功转化他们的用户，“Mirror World 的 CEO 兼联合创始人 Chris Zhu 表示。
+
+![](https://img.foresightnews.pro/202302/4775-1677209495442.png?x-oss-process=style/scale70)
+
+和多个服务商对接的繁琐相比，Mirror World 的 Smart Platform 不但可以帮助开发者在最短 15 分钟内完成嵌入式交易市场、登陆认证、MPC 钱包等功能的接入，并且将为开发人员提供详细的咨询，帮助他们了解如何推出由区块链驱动的应用程序，在具备钱包生成、应用内 NFT/Token 购买等功能的同时，而不会有被 App Store 以及 Google Play 下架的风险。使开发者能够快速上手、激活和转换用户，同时符合 App Store 和 Google Play 的要求。
+
+![](https://img.foresightnews.pro/202302/4775-1677209521816.png?x-oss-process=style/scale70)
+
+### Smart Platform 解决方案
+
+* Smart Platform 可提供的解决方案：
+* [Smart Marketplace](https://mirrorworld.fun/docs/solutions/smart-marketplace): 帮助开发者搭建应用中内嵌的 NFT Marketplace，实现用户在应用内直接进行 NFT 资产的购买、出售以及转换等操作
+* [Smart NFT Management](https://mirrorworld.fun/docs/guides/how-to-create-solana-nft-collection): Smart Platform 提供一系列工具帮助开发者在不写代码的情况下，launch, mint 以及交易 NFT
+* [Smart Auth](https://mirrorworld.fun/docs/guides/authentication-with-mirror-world-sdk): 一体化的登陆和认证，允许用户通过用户熟悉的社交账号登陆 Web3 应用，并自动生成钱包绑定
+* [Smart Wallet](https://mirrorworld.fun/docs/solutions/smart-wallet): Web3 应用内置 MPC 钱包，支持多种法币应用内入金，用户中钱包无感知的情况下进行交易
+![](https://mirrorworldfun.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F1ac87fbe-26df-44c8-b3ad-c319aaeb9462%2FUntitled.png?id=bf71f51b-c650-4ea7-b0ed-fe71a32028c1&table=block&spaceId=82570b84-c712-4d98-b95c-4a2a828d1f73&width=1790&userId=&cache=v2)
+
+此外，Mirror World 的解决方案还有白标版本，项目可以轻松利用现有功能，定制自己的市场、NFT 管理、钱包和社交认证，为不同地域提供最佳的用户体验和覆盖面。
+
+开发者们可以通过定制化，使自己的交易市场在风格上与应用本身达到一致。在目前所有第三方交易市场的展示都趋于同质化时，定制化的交易市场更有利于展示应用的品牌个性。
+
+减轻开发者对 Onboard 用户和变现方式的考虑，才能使之把更多的精力放在如何产出更好的内容体验上；真正做到降低开发门槛后，才能让开发者有时间和精力重新构想 Web3 应用的未来。
+
+为了实现这一愿景，Mirror World 与行业领先的优质项目们首先完成接入与合作，如 Alchemy Platform, MoonPay, Delysium, Rage Effect, Notifi, Motley DAO 等，不断完善产品的易用性，拓展技术使用边界。
+
+![](https://mirrorworldfun.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fb5de37c0-be13-433d-a590-e2e2d9682eed%2FUntitled.png?id=a22386e7-f746-4125-ba8f-22b2d036152a&table=block&spaceId=82570b84-c712-4d98-b95c-4a2a828d1f73&width=1790&userId=&cache=v2)
+
+在线下活动方面，Mirror World 将在 2.28 日与 Mask Network、Next.ID、Chainbase、Collab.Land 等项目共同于 ETHDenver 期间举办的 Web3 Social House 活动上，进行产品首次的线下发布，同时获得了 Gitcoin、Lens Protocol、RSS3 等开发者社区的支持，这将允许 Mirror World 为更多项目提供 0 成本接入的机会。（报名我们的活动：https://lu.ma/yawp7vd8）
+
+Mirror World 在 Q1 仍计划向市场推出一系列奖金丰厚的 Hackathon 与开发者激励计划，旨在帮助产品完成更大规模的接入使用和为开发者的建设行为给予相应的回报。
+
+![](https://mirrorworldfun.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe74e7849-d1e8-4b3e-b0ad-bd955b45fdd0%2FUntitled.png?id=08bae129-9e0d-4837-8818-7099f77a632c&table=block&spaceId=82570b84-c712-4d98-b95c-4a2a828d1f73&width=1790&userId=&cache=v2)
+
+了解更多关于 Mirror World Smart Platform，请在 Twitter 上 关注 @MirrorPlatform，或通过我们的博客：<https://mirrorworld.fun/blog> ，或访问官网：<https://mirrorworld.fun> 来与我们联系。
+
+Be Smart, Make More.
+
