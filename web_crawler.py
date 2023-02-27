@@ -84,7 +84,7 @@ def get_foresightnews_article():
 
     err = 0
     while True:
-        if err > 100:
+        if err > 300:
             print("loop breaked")
             break
         try:
