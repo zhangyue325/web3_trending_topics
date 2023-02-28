@@ -1,0 +1,52 @@
+![](https://img.foresightnews.pro/202302/7de4ae69bd6cf1ae634a7bf502528f5c.png?x-oss-process=style/scale70)On Feb 16, iZUMi Finance’s ecosystem partner Wombex organized one of the biggest AMAs in the BNB Chain history. The event united 8 projects in one Twitter Space and made a huge buzz in the community:
+
+[**Wombat**](https://twitter.com/WombexFinance/status/1624790703644581888), [**pStake**](https://twitter.com/WombexFinance/status/1625133288380674048), [**Stader**](https://twitter.com/WombexFinance/status/1625147885141491712), [**Helio**](https://twitter.com/WombexFinance/status/1625394057189924864), [**iZUMi**](https://twitter.com/WombexFinance/status/1625453566696488961), [**Coin98**](https://twitter.com/WombexFinance/status/1625508069017878531), [**Axelar**](https://twitter.com/WombexFinance/status/1625838072402264064) and [**zkBOB**](https://twitter.com/WombexFinance/status/1625888706329444353)
+
+Each project shared its vision of the future of its product, its adoption on the BNB chain, and possible cross-chain transfers. Two main topics were innovative stablecoins and liquid staking derivatives (LSDs). Additionally to that zkBOB shared its vision of optional privacy for stablecoins.
+
+Twitter users were asked to vote for their favourite project and thus decide which Pool wins the ‘war’ and receives $5000 of additional incentives and close to zero fees from the Wombex team.
+
+In the end, iZUMi won the final vote against pStake, and received a grand prize of $5000 of additional incentives and close to zero fees from the Wombex team.
+
+1. [**Semi Final Poll 1**](https://twitter.com/WombexFinance/status/1626219259142586369)  
+298 Votes | iZUMi : 60.4%, Stader : 27.5% , Axelar : 12.1%  
+**iZUMi Wins**
+2. [**Semi Final Poll 2**](https://twitter.com/WombexFinance/status/1626219276037152768)  
+315 Votes | pStake : 44.4%, Helio : 38.7%, Coin98Dollar : 16.8%  
+**pStake Wins**
+3. [**The Final vote: iZUMi vs pStake**](https://twitter.com/WombexFinance/status/1626584848721936384)  
+336 Votes | iZUMi : 57.1%, pStake : 42.9%  
+**iZUMi wins!**
+Below we will discuss the mechanics of rewards distribution and how to participate and farm juicy rewards with iUSD & Wombex.
+
+As the winner, the iZumi’s iUSD pool receives $5000 in rewards. These rewards will be paid exclusively for Wombex users using WMX tokens.
+
+Rewards will be paid to the LPs via retroactive airdrop. It means that they wouldn’t be added to current pool APR in UI and will be paid on top of it:
+
+![](https://img.foresightnews.pro/202302/409bdb7cfe287f9168b7650677e41c71?x-oss-process=style/scale70)The current iUSD pool APR. An exclusive $5000 reward will be paid on top of that.The $5000 rewards will be split between BUSD (20%) and iUSD (80%) in the iUSD pool.
+
+Wombex & iZUMi **will announce the snapshot date** and collect all the on-chain LP data **7 days before the announcement**. Each LP would be weighted based on the share of stake in the pool and the time stayed there.
+
+We will publish a list of addresses with the amount of WMX rewards for each and other necessary data. When it is done, we will announce the airdrop execution and send WMX to eligible users.
+
+First, you need to be sure you have iUSD or BUSD for staking in the pool.
+
+While BUSD is a widespread unit of account in the BNB ecosystem, iUSD is relatively new for users. You can get it on [Wombat](https://app.wombat.exchange/swap) using BUSD or other stablecoins:
+
+![](https://img.foresightnews.pro/202302/f2a5ccbb9c6587b92db27ee1e64d3788?x-oss-process=style/scale70)When you have iUSD (or BUSD) in your wallet, you need to go to the [Wombex’s Stake page](https://wombex.finance/#/bnb/stake) and find iUSD pool there:
+
+![](https://img.foresightnews.pro/202302/0204d9285d17ba7e25f4b650907117dd?x-oss-process=style/scale70)Open a deposit section using a “down arrow” and deposit iUSD or BUSD to the pool. You need to approve spending your tokens first.
+
+Note that if you previously deposited iUSD (or BUSD) using Wombat or another platform, you need to unstake it, receive an LP token, and click “LP-IUSD” to stake the LP token into Wombex (the red arrow):
+
+![](https://img.foresightnews.pro/202302/d29942e29344258ca77e247ccd42b9da?x-oss-process=style/scale70)Since the exclusive airdrop is coming, the APR for iUSD/BUSD will be much higher than on any other platform or Wombex itself.
+
+The regular WOM and WMX rewards will be accured automatically in the UI and you can claim them at any time.
+
+The exclusive WMX airdrop rewards distribution will be announced on Twitter and other social network channels, so stay tuned and do not miss the farm!
+
+<http://link3.to/izumifinance>
+
+[Twitter](https://twitter.com/WombexFinance) | [Discord](https://discord.gg/wombex) | [Telegram](https://t.me/wombex) | [CMC Community](https://coinmarketcap.com/community/profile/WombexFinance) | [Medium](https://medium.com/wombex)
+
+![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=12688e73105a)

@@ -1,0 +1,124 @@
+那么什么是 NFT 的元数据呢？ 我们已知的最广泛被接受的非同质化代币（NFT）的标准是 ERC-721,  在 Opensea 上的 NFT 也大都采用 ERC-721 的标准合约，我们所说的 NFT, 指的是部署在区块链上以及存储在智能合约中 tokenURI( 代币统一资源标识符 )，关于 tokenURI 在智能合约中有两部分组成，第一部分为 tokenID, 既这个 NFT 的编号，比如发行一万个的无聊猿，其包含的 tokenID 有 1-10000， 每一个 nft 都有一个特定的编号即 tokenID；第二部分则是 NFT 的 metadata（元数据），元数据一般包含该 NFT 的信息，比如关于该 NFT 的描述（description）， 外部链接（external-URI）,图片地址（image），该 nft 的属性（attributes）,以及名称（name）等。
+
+![图 1: 为第 10 号无聊猿的图片和元数据 数据来源：Opensea,Etherscan](https://img.foresightnews.pro/202302/b2880ba7fa0f6845254a982a5c6cb06e.png?x-oss-process=style/scale70)
+
+所以，我们可以说：**实现元数据 (metadata) 改变从而将 NFT 变为动态 NFT**，即 NFT 的元数据具有可变性，可变性的改变会带来 NFT 在 ipfs 上存储的本体数字媒体（图片、音频、视频），也就是说你的 nft 会随着数据的改变，图片也会改变。这种动态式的交互方式会将 NFT 的玩法、使用场景得到极大的提升。
+
+静态的 NFT, 不具备内在的运行逻辑，所有可以提供的赋能都是派生出来的。换句话说赋能和这个 NFT 的主体是分离的。比如 Veefriends，持有该 NFT, 可以参加 Veecon (Gary Vee 的私董会），甚至有一些稀有款的 NFT, 可以和 Gary Vee 吃饭；再比如 Trait Sniper Lifetime Access, 持有该 NFT, 可以解锁 Trait Sniper 的一些高级别功能。读者不难发现，这些 NFT 更多是个凭证，其用途是脱离于这个 NFT 本身的故事和文化。这种感觉就像是，创作者创造了一幅画，并在这幅画上编制了一个故事。而这个故事和画无关。
+
+动态的 NFT, 是具备内在的运行逻辑的，所提供的赋能是内生的。表示着动态 NFT 本身就具有用途。比如票务系统的 NFT 化，假设现在买了一个 NBA 队伍的 Full-season membership 的 NFT, 可以享有观看 44 场主场比赛的观看权，那么每一次观看权是有价值的，可以单独进行出售，随着每一次观看权的消耗，Full-season membership 的价值也随着去球馆的次数而产生变动。这些变动在 NFT 中可以动态的展现出来，其赋能是可以直接展示出来的。
+
+实现 NFT 元数据的可编程化，有多种途径，笔者选取了四个有代表性动态 nft 的路径来进行分析。
+
+Chainlink 作为头部的预言机服务提供商，也很早的开始了动态 NFT 的探索.  以及如何运用预言机来给 dNFT 提供链下的技术支持。为了让 NFT 实现元数据的自动更新，有四个步骤：
+
+* 一个 NFT 的请求被送到智能合约中
+* 智能合约在区块链上寻找信息
+* 智能合约通过预言机来寻找链下信息
+* 智能合约发回信息处理结果并展示出来
+这意味着通过智能合约来构建动态 NFT 是可能的，智能合约通过读取链上以及链下的信息来进行条件判断，当符合条件时，则对 NFT 的元数据进行更新。
+
+以 Chainlink 的演示动态 NFT（Bull&Bear）为例子，其所有的可以动态改变的图片都存入了智能合约中如下图所示：
+
+![图 2， chainlink 动态 nft 演示代码，数据来源：github](https://img.foresightnews.pro/202302/f3e4a1163cf891275845f129d5d5737e.png?x-oss-process=style/scale70)
+
+该动态 NFT 的运行逻辑是， 根据市场上 BTC/USD 的交易对，来进行图片的更新，当这一个区间的价格大于上一个区间的价格时，则会显示牛的照片，当这个区间的价格小于上一个区间的价格时，则会显示熊的照片，其他情况则不发生图片的改变。
+
+![图 3: Bull&Bear 的展示图片，数据来源：Github](https://img.foresightnews.pro/202302/174942df056733e61835437fa3c82220.png?x-oss-process=style/scale70)
+
+Chainlink 运用 Chainlinkkeeper 去让智能合约每过一段时间区间，就去查询一下 Chainlinkpricefeed，去看价格是否改变，来决定是否更换图片。但是这个办法的局限性是需要更新的图片则无法更新，虽然可以很好的与链上数据交互，但是其可变的扩展性太弱了。
+
+![图 4，ChainlinkKeeper 的演示代码，数据来源：Github](https://img.foresightnews.pro/202302/8d575eb1707a10eca1d1d48a2ca8f4d9.png?x-oss-process=style/scale70)
+
+总结来说 Chainlink 的 DynamicNFT 的解决方法像是一个幻灯片，将所有的图片以 IPFS 的格式存入智能合约中，通过预言机来进行条件判断，选择展示哪一个图片。
+
+Async Art 将 NFT 作品进行模块化处理 NFT 创造和交易的平台，将作品分为 Master（完整作品）和 Layer( 图层 ) 两部分，用一个简单的数学公式表示，Master A =Layer A+ Layer B+ Layer C+….., 一个 Master, 可以由一个或多个 Layer 构成，且每个 Layer 都是相互独立的。并且每一个 Layer 可以有一个或多个 States（表达方式）的.
+
+![图 5:  First Supper，数据来源：Asyncmarket](https://img.foresightnews.pro/202302/16863ddb4b30a27a2261f2f97aa7f59d.png?x-oss-process=style/scale70)
+
+这幅《First Supper》由 13 位加密艺术家联合创作完成，共包含 22 个 Layer. 当其中一个 Layer 发生变化时这幅画也将发生变化。其中 Master 和各 Layer 都可以被单独的进行交易。
+
+![First Supper - Async Art Launch：25 Feb 2020](https://img.foresightnews.pro/202302/a16f69672762647d053fa221c65eda63.png?x-oss-process=style/scale70)
+
+这幅是在 2020 年 2 月的作品，图 5 则是 2022 年 10 月的作品。
+
+![图 6:  近 3 个月 Layer 发生的改变信息，数据来源：Async Market](https://img.foresightnews.pro/202302/0e3f6853b64c36144617d29fb9931bcd.png?x-oss-process=style/scale70)
+
+这个思路就是生成艺术的堆叠（layer）的创作思路，只是这样的创作思路放到了更大的尺度上，让每一个元素都是一个 artist 的作品，当然这个思路其实也是从 college（拼贴艺术）中想到的，将这些元素 nft 化，最后在组合就成为了一个作品。在这个作品中，其实生成规则和算法已经被固定了，元素也固定了，用户和持币者只能通过：其中状态、旋转、比例、XY 位置、可见性、不透明度、色调和 RGB 等参数来改变作品，也就是说作品的构图、画面其实差别不大，只是盖盖配色和元素本身的大小，**其实本质上还是没有达到本文说的可动态性的 NFT**。
+
+Async Art 将在 2023 年推出音乐和图片结合的动态 NFT,  但是目前我们还没有看到这个方法的具体实现，但是如果这种处理方式真的可以组合成为动态的 NFT，那么将会让 NFT 有了多重作品的可组合性，实现了多模态下的编程艺术。音乐加图片视频其实就构成了 mv 甚至更有连续内容的电影，这将推动多个艺术类型的作品得到重塑，电影的创作方式也得到了发展，整个加密艺术行业将得到电影这个艺术形式的补充。
+
+Revise.network 是一个为个人提供动态 NFT 定制的协议，该协议为用户提供 Revise SDK,  可以帮助用户储存和表达 NFT 的元数据,同时可以更新 NFT 的元数据，来实现 NFT 的动态变化。具体的步骤如下
+
+* 接入 Revisesdk，以及取得自己的授权 API key。
+![图 7:  Revise 的演示代码， 数据来源 Revise Doc](https://img.foresightnews.pro/202302/01a1968b58b9fc40eabe6168d1e0a549.png?x-oss-process=style/scale70)
+
+* 加入初始 NFT，和初始的 Collection，创建一个 index.js 的文档。下图创建了一个叫做 “my concert tickets”的 NFT 集合，并且储存了 tokenID 为 1 的 NFT 的元数据，包括图片地址，名称，描述，和特征。 这些元数据也是该 NFT 的参数，后面可以进行参数的更新。
+![图 8: Revise 的演示代码 index.Js，数据来源 Revise network](https://img.foresightnews.pro/202302/e4e3ee7b8db0870b204ad3f91d4470ba.png?x-oss-process=style/scale70)
+
+* 运行该 index. Js 的代码，会得到存储在 Revise network 上的 NFTID, 并且会展示初始的 NFT。
+![图 9-1: NFTID 在代码中的位置](https://img.foresightnews.pro/202302/9170976fd987ae8ee861c060f1f1ab7f.png?x-oss-process=style/scale70)
+
+![图 9-2: 运行 index.js 代码获得的 NFTID, 以及 NFT 展示,  数据来源：Revise Network](https://img.foresightnews.pro/202302/d4810616b57a0fd7d3c9f412019dbbe6.png?x-oss-process=style/scale70)
+
+* 创建一个文档叫做 update.js, 来进行 NFT 元数据的更新。
+![图 10: 完成第一次手动 NFT 元数据的更新: 数据来源：Revise Network](https://img.foresightnews.pro/202302/94a4a4f85216dee44956e89352c93e5b.png?x-oss-process=style/scale70)
+
+* 后续要进行 NFT 元数据的更新，也只需要按照 update.js 的格式来进行更新。每一次更新都会记录在 NFT 的展示中。
+![图 11: NFT 更新后图片展示，数据来源：Revise. network](https://img.foresightnews.pro/202302/37fa8d171f9e6e073aa06511bae1ca1d.png?x-oss-process=style/scale70)
+
+总结来说，Revise 最大的特点是，**通过 Revisesdk，让元数据参数化，可以进行元数据的手动更新，并且每一次的更新，都会进行加密认证**，Revise 使用 Optimizedversion 的零知识证明，将每个事件的哈希值部署在链上，来确保数据的不可篡改性。这样的手动方式更新元数据，虽然较为繁琐，但是算是达到了可扩展性和动态 NFT 效果的要求。
+
+Metahub 基于信用扩张曲线，提出了创新的 NFT：FT 流动性解决方案。采用开源、模块化设计的可编程 NFT 生成技术，100%onchain reality，由智能合约嵌套和渲染而成。与其他协议不同的地方是 Metahub 的存储是完全存储在链上的，图像通过 SVG 的格式来渲染。（SVG 是由 W3C 制定的一个开放标准，通过文本的描述来渲染图形，存储在链上的文本，可以通过各种浏览器来进行渲染得到图形。链上的文本就像办案过程中受害者对犯罪嫌疑人的外形描述，而各种浏览器对文本的渲染得到的图形就像是画师根据受害者的描述创作出来的画。）
+
+Metahub 通过 Identityhub 合约的 group 接口发布社区 Pass NFT 的铸造合约，每个 Passnft 都带有一个 tokenID, 社区成员通过 join 函式来铸造社区身份 NFT，加入该 Pass NFT tokenID 的社区集合。所有铸造所产生的链上信息的更改，将会通过 SVG 的格式存储 Pass NFT 的元数据中,从而构建动态 NFT。
+
+![图 12:   Metahub 的 PassNFT Collection 演示图，数据来源：Openseatestnet](https://img.foresightnews.pro/202302/7442b940fbd31d0c2af6e58c3579caf8.png?x-oss-process=style/scale70)
+
+![图 13-1:   PassNFT 是自主命名的独立 Collection 和社区账户 数据来源：Openseatestnet](https://img.foresightnews.pro/202302/0cfc63f720e278797c3e4f14df3ace25.png?x-oss-process=style/scale70)
+
+![图 13-2:   PassNFT 是自主命名的独立 Collection 和社区账户 数据来源：Openseatestnet](https://img.foresightnews.pro/202302/784c06490ee6133dc426ef5b4d55814a.png?x-oss-process=style/scale70)
+
+![图 13-3:   PassNFT 是自主命名的独立 Collection 和社区账户 数据来源：Openseatestnet](https://img.foresightnews.pro/202302/4546f022adbb36307e43886ddaec4dba.png?x-oss-process=style/scale70)
+
+在图 13 中展示的 3 个独立的社区的账户，比如一个 KOL 拥有的独立社群，这些社群可以有自己独立的 DAPP。Metahub 给每个社群空投一个 SBT, 来访问 Metahub 生态的 DAPP. 这样可以在形成社区间的链上协作网络。
+
+* 铸造一个 Pass NFT, 这个 NFT 会记录该社区的名字，和社区的人数。当社区成员每增加或减少一个其图形也会跟着 SVG 的渲染发生改变。
+![图 14: Pass nft 和社区成员 NFT,  数据来源：Openseatestnet](https://img.foresightnews.pro/202302/5c5afc94dac13a91784154960aaf0983.png?x-oss-process=style/scale70)
+
+* 铸造社区成员 NFT, 社区成员的 NFT 采用 xx.xx 的取名模式，如 annie.markie， 后缀为社区的专属名，类似于 ENS 的系统一样。
+* 社区 NFT 的铸造将遵循 NFTPMM（ProtocolMarket Maker）协议,基于 Y=logmX 的去中心化 PMM CURVE 机制，将创造一个基于函数模型打造的 NFT 对 ERC20 的金库池，让 NFT 有价值的保障。
+![图 15: 链上交易的记录，铸造和销毁 NFT 遵循 Y=logmX 函数模型，数据来源：EtherscanGoerliTestnet Network](https://img.foresightnews.pro/202302/dccde65af93fe3476e1ed527af96ac25.png?x-oss-process=style/scale70)
+
+Metahub 计划将每个社区池子的讯息也集成到 Pass NFT 中，来直接的显示社区的价值，为后续社区的信用创造借贷池子。
+
+Gamefi 游戏由于对 TPS 和计算逻辑有要求。现在的游戏是很难完全部署在链上的，大部分游戏厂商采用的方法是将游戏内的核心资产上链 (NFT 和代币 )。整体的做法，也很就是将链下游戏内的资产复制存储在链上，这样的做法让链上和链下的联系很弱。而动态 NFT 可以很好的实现链上和链下的互动，预言机通过抓取链下的活来反馈到动态的 NFT 中，这样可以给链下的行为进行有效的追踪。BAYC 作为 NFT 世界的第一品牌，其旗下包含 BAYC, MAYC, BAKC, CryptoPunks, Meebits 等多个 IP， 也在动态 NFT 领域进行了探索，其主打的 Otherside 就发行了动态的 NFT， OtherdeedbyOtherside，NFT 的元数据会根据玩家在游戏内的表现而进行更改，如下图所示，Otherdeed 包含五个特征，Environment, Sediment, Resource, Artifact, Koda.  其中 Resource，Artifact，以及 Koda，会根据玩家的游戏内的活动来进行动态更新。
+
+![图 16: OtherdeedbyOtherside NFT 的各个元数据的展示，数据来源：Otherside.xyz](https://img.foresightnews.pro/202302/f29412fb9e12c426ca950fb3f83ea8b0.png?x-oss-process=style/scale70)
+
+现在的票务系统是烂透了的，整个系统充满了很多的蛀虫。比如 Ticketmaster（北美最大的票务初始发售网站）上面的票务，有近三分之一是被机器人抢走的，有近三分之一是被经济人抢走的，留给粉丝的只有剩下的三分之一。当一个很火的明星要办演出的时候，粉丝得到手的票可能更少，他们只能在二手市场 Stubhub（北美最大的二手票务网站），或者找场外的倒卖人员来进行购买。在这个情况下粉丝需要付 3x 或者 8x 于原始票价的价格去购买演出票。为了展示有多离谱，拿阿黛尔在拉斯维加斯的凯撒皇宫的演出为例，405 号区域的初始售价为 $86, 但是现在的二手票价如下图:
+
+![图 17: Stubhub 上阿黛尔二手演出票，数据来源：Stubhub](https://img.foresightnews.pro/202302/6b6a63e2abdac696a3c7c7eb418cd8ff.png?x-oss-process=style/scale70)
+
+整个北美的票务市场，被经纪人和机器人所笼罩，在这样的系统下，粉丝和歌手都是受害者，粉丝没有得到一个公正的价格，歌手并未从转卖中获得任何收益。真正获得高额利润的都是中间商。这样的情况是可以通过 NFT 进行改变的并且为之赋能，首先可以确保歌手和主办方的利益，可以通过设定许可费（Royaltyfee）来确保每次 NFT 票务的转手，歌手和主办方都可以得到分成；第二个可以通过预售抽签的发行方式来减少机器人的攻击，让粉丝有一个相对公平的市场环境；第三个可以通过编程设定票价的天花板，来确保票价以一个合理的价格在二手市场来进行销售;第四个可以动态的记录 NFT 历史，比如交易数据，比如票务是否使用，可以很好的反应 NFT 票务的情况；最后一个 NFT 票务具有收藏意义，明星也可以对收藏 NFT 的粉丝进行空投，和 Presale 等一系列运营管理。
+
+目前有很多的 NFT 票务平台盯准了这块蛋糕，NFT 票务这一块有希望成为大众进入 Web3.0 的流量入口，最终赢得 NFT 市场上的大部分份额，成为 Web3.0 的美团。笔者根据融资的额度来进行了项目的排名。如下图所示:
+
+![图 18: NFT 票务投资额度排名，数据来源：Cruchbase, Linkedin](https://img.foresightnews.pro/202302/595ccf995c2a954d5c2aa68b030ce03e.png?x-oss-process=style/scale70)
+
+由图可知，北美市场将成为 NFT 票务的主战场。
+
+可组合的艺术收藏，本质上就是将 NFT 进行模块化处理，让各个模块在一起进行组合，来进行动态的 NFT 创作。这样让 NFT 多了很多的选择性。用 Async Art 的模式来打比方，一个 Master，下面有 10 个 Layer，每个 Layer 有 10 个 States，那么可以形成的多样性组合就为 10 的 10 次方，既有 100 亿种组合，让 NFT 的多样性得到了极大的扩展。Doodles 2 是 Doodles 系列的第二代作品，用户可以铸造一个基础款的卡通人物，可以选择他（她）的肤色或头发等，之后自定义时装组合，可以进行多次更改，并且生成包含原创音乐的动画。目前 Doodles 2 发布了两个系列的 NFT，一个系列是 Dooplicator，可以将一代 doodles 的一些特征带到 2 代中去，发行量为 9375。另一个系列是 Genesis Box, 是可供 doodles 2 穿戴的设备，共有 24000 个。这些都是可组合的，可单独交易的。Doodles 2 的 beta 版将在 2023 年推出。
+
+\*\* 动态 NFT 被称为 NFT2.0，NFT 不止是以 PFP 的形式存在，而让 NFT 自身产生了内在消耗，使用，交互等场景。\*\* 从各种解决路径来看，动态 NFT 有了多种的实现方法，让 NFT 提升了一个纬度，让 NFT 多了记录变化，价值储蓄，可组合性，以及动态展示的多个功能。从用例的角度看，动态 NFT 与收藏者之间产生了更多的互动，在游戏中道具的升级，资源变动，将会记录在动态 NFT 中，在票务系统中，动态 NFT 有了实际使用场景，让人们可以在现实生活中，真实的产生一个体验闭环。在可组合艺术中，玩家可以根据个人的喜好对艺术作品进行搭配，让 NFT 产生更多的可玩性。
+
+<https://debox.pro/indexs.html>
+
+<https://twitter.com/DeBox_Social>
+
+<https://opensea.io/collection/debox-guardians-penguin>
+
+<subscribe://>
+
+<collect://>
+

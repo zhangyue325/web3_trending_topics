@@ -1,0 +1,79 @@
+![](https://img.foresightnews.pro/202302/d33c0d7c2de6c462ac06bdc2ac55932f.jpeg?x-oss-process=style/scale70)Game have always been considered one of the core narratives in the crypto world, with concepts such as gathering more Web2 traffic, game asset ownership, verifiable data on-chain, global players online together, and unified currency payments all hitting the pain points of investors and [users.In](http://users.In) previous bull market, Gamefi attracted a large number of users’ input by monetizing game assets and props, and the projects represented by Axie and Stepn produced a wide circle-breaking effect, however, the Ponzi model of Play to earn could not escape the fate of death spiral, moreover, the heavy financial gameplay made many real players look back.
+
+From the perspective of on-chain data verification, ownership, and asset programmability, On-Chain Game has quietly emerged, and this concept, which has not yet entered the users’ vision on a large scale, has become a track with great potential in the eyes of some OGs, senior Gamefi enthusiasts and investors.
+
+On-Chain Game is a kind of game where the core gameplay, game logic and game assets are deployed on the chain, which has the characteristics of high decentralization, fair and transparent game mechanism, openness and combinability. There are many popular articles about On-Chain Game on the market, so I will not repeat them here.
+
+Restricted by the performance of the underlying infrastructure, most of the previous mainstream chain game developers execute the game logic under the chain and only upload the final results related to the assets on the chain. For on-chain games, at this stage, they still cannot escape the limitation of on-chain performance, and if all game logic are on the chain, it is destined to be a lightweight game model.
+
+### Game theory may be the core play of the full chain game-Battle To Play model
+
+What kind of game model might be the new way to play the full chain game? We propose the Battle To Play model, which means users play with the game mechanism or game play between users.
+
+First of all, if a game play is light, need mechanism fair, transparent, and need to play with the privacy and high liquidity of Token? It is none other than gambling games. Since the game system is all on the chain, the entire game play, the design of the mechanism and the data when playing are all verifiable, maximizing the avoidance of unfair behavior.
+
+It would be perfect if the system is supported by ZKP technology, which can prove the randomness of the game and ensure that the results of user input and output are not cheatable, for example, in the case of board games, random shuffling and dealing can be realized without the user and the third party being visible throughout, and only when the user gets his own hand is visible, which will provide a more fair and safe gaming environment for gambling games. And game developers can also access privacy-related settings to protect the privacy of users’ accounts, funds, and streams.
+
+According to Statista estimates, the global online gambling industry market size is about $60 billion in 2021 and will reach $100 billion by 2028, such a huge industry size is entirely possible to be transformed. As the current gaming users and Web3 users overlap is not high, and the core of the business is still simple and brutal addictive gaming game design, safe and stable deposit and withdrawal and mass marketing brought about by high user liquidity. We judge that the path of conversion should be the traditional gambling business to take the initiative to make changes, thus gradually driving users into the Web3 world. Although we have not yet seen any explosive gambling games appear, I believe this is a trend.
+
+![](https://img.foresightnews.pro/202302/813d6082635d0e80d481b2851cab6e12?x-oss-process=style/scale70)### What would happen if we transformed gaming from an asset-focused game to a more gameplay-focused game?
+
+Users can gain a sense of achievement and even profit by engaging in battles against game mechanics or other users, similar to traditional PVE challenges and PVP modes. In this case, with the integration of gambling gameplay, the flow of value would become:
+
+![](https://img.foresightnews.pro/202302/a6d176b921f2590c064e861c7b48bc52?x-oss-process=style/scale70)The confrontation with the game mechanics will be similar to the PVE mode we have in traditional games, where the game developers design various challenging levels to attract players, and players can bet for themselves to go for the level challenge, or bet for others. The winner gets the reward in the prize pool and the smart contract ensures a smooth settlement at the end of each game. The advantage of this model is that for players, they can not only get the pleasure of winning the challenge, but also reap economic benefits and even fan groups. **For developers, they present their whimsical ideas as a game in front of players, realizing the direct benefits of designing challenging games, no longer limited to in-game props/skin purchases or advertising revenue, etc.,** Of course, how to balance the difficulty and the revenue obtained by the player’s successful challenge is the key.
+
+The confrontation between players is similar to PVP mode, the result of this mode is more unpredictable, more diverse and more ornamental, for example, there is a category of traditional games called asymmetric competition games, such as “*Dead by Daylight*”, “*Indentity-v*”, “*Dune*” and “*Warcraft*” which emphasize more on strategy play, and “*The Werewolves of Miller’s Hollow*”, “Werewolf” and “Goose and Duck” which emphasize more on logical reasoning and performance. Kill”, “*Goose Goose Duck*”, etc., these types of games are likely to use Battle to play mode to design, and in the Web3 world, different chains and community players are likely to participate in the game and the game pressure bets as the two opposing sides. **For the user, defeating the opposite player may have a greater sense of achievement than completing a challenging level.** For developers, the choice of which type of game not only needs to consider the appeal of the game mechanism fair for players, but also to avoid the misconception of social casual type, light weight is not equal to social casual, at this stage, social casual games and on chain have an essential conflict, social casual focus on emotional connection and user experience, on chain games are difficult to meet.
+
+In fact, the current hot chain games can be seen from the Gnosis chain-based *Darkforest*, a real-time strategy game (RTS) game, which itself is an asymmetric game between many unfamiliar users, and the Arb based *Trident*, which is also suitable for full on chain instant pet battles.
+
+For a game.
+
+First: Attract players through gameplay, let players get visual, sensory and spiritual pleasure from the game, then make them recognize the gameplay and culture, stay loyal to the IP, and then guide them to pay for game props and game assets in the process.
+
+Second: Players can get revenue through their own efforts, skills or investment in the game.
+
+Traditional games focus more on the former and combine the latter to some extent, and the main way of profit is buy-to-play or in-game purchase. Play to earn game model is designed from the latter, and the main way of profit is the sale of tokens and transaction fee income.
+
+![](https://img.foresightnews.pro/202302/ed1ec6dd435a6eefc2c31500721dc31c?x-oss-process=style/scale70)### How does this change when we add openness and composability?
+
+The potential of UGC is unleashed to the greatest extent due to the highly open nature of On-chain games. Developers only need to define the original rules of operation of the game, then the community can make secondary development of features and components based on them. This is similar to the Mod features we commonly see in traditional game time, but the degree of freedom will be higher, combined with game assets natively, and less susceptible to centralized auditing. For example, in Dark forest, players can use community-deployed contracts to aid in exploration and resource collection, such as “*Crawl Planets*”, which captures planets near the selected planet with one click, “Distribute Silver”, which automatically distributes the selected silver ore to surrounding planets. Since all the game logic is in the chain, the developers are not allowed to stop the players.
+
+Defi Summer was started by AMM, but it has grown because of the constant nesting with mainstream assets as the underlying collateral. Mining, lending, leveraging various models have emerged. Assets are constantly flowing between different protocols to capture value, and the combinability between protocols is credited with this. **Similar to Defi, game characters and props can be combined with each other, which means the idea of building a large number of games and other derivative products based on a set of assets is gradually becoming feasible**, typically represented by a series of derivative content built on the basis of Loot: Realms, Crypts and Caverns, Loot Character; and the Treasure DAO game ecosystem on Arbitrum.
+
+Under the Battle to play model, the high level of community participation makes the gameplay more diverse and interesting. Whether it is PVE or PVP, if only the developers design the mechanics of the game, their creativity will have dried up, and the game mechanics must have some limitations, then may not be loved by the players. **While the community can fully undertake the outsourcing of servers and secondary development, then according to the members of the vote to customize the development, mature play can also be pushed to the market to get more attention and revenue, players are more willing to pay for their own sense of participation in the game model.** For independent creators, it is possible to build their own vision on the original game protocols wildly, similar to what we see in the traditional game “self-service “. The excellent servers will also attract a large number of fans, and **because the underlying protocols are interoperable, it is possible for players’ identities and assets to span across different “self-servers”, which will allow “self-servers” to help each other and capture revenue in the growth of the entire ecosystem.**
+
+### If we want to expand the impact of Battle to play mode, what other technical improvements do we need?
+
+ZKP will likely have a significant impact on games in terms of scalability, privacy, and fairness.
+
+First, most current online game architectures are client-server game architectures, where important information about players is stored in the server and the state between players needs to be synchronized through the server. With ZKP, the client can verify important information about users without saving data, and even enable P2P sharing of game information between players, and since it is ZKP verified, these game information will comply with the rules.
+
+ZKP allows users to be verified without showing information to the public, then in matchmaking, matching, strategy, gambling and other game types, players’ personal ability information, user data and other private information and even game strategies can be well protected.
+
+Multi-chain compatible technology ensures that from the perspective of user experience, no cross-chain is required to participate in the game. Developers help players count seamlessly through built-in underlying cross-chain technology, and the settlement assets and revenue obtained by users can be used on the source chain, and the access to multiple chains will also bring more users while intensifying the adversarial nature.
+
+The current on-chain game is in the early stage, the developers are more focus on the rules of smart contract, the interface of on-chain interaction and the interface of front-end display, so for general users, the client is relatively simple and there is a certain threshold to get started. When the full-chain game attracts larger users, the front-end display will be a very important part. Of course, we have reasons to believe that with the gradual expansion of the game community and the gradual increase of contributors and loyal players, this problem can be well solved.
+
+The ecology of on-chain games is still in the early construction stage, from the underlying game logic to the user-oriented products are relatively hard-core, but we have witnessed the fascination of transparency and fairness from the past development history of Web3, and also witnessed the power of combinability of traditional games Minecraft, Roblox, Steam Workshop, Battle to Play is a perfect demonstration of the characteristics of fairness and transparency and combinability. It’s still a long way to go. Let’s wait and see whether the full chain of games with Battle to play will become the core play in the next bull market.
+
+Reference:
+
+<https://aiko.substack.com/p/84b>
+
+<https://www.defidaonews.com/article/6797362>
+
+<https://medium.com/id-theory/pureplay-on-chain-games-74169a38484a>
+
+<https://hackmd.io/@_AaHqx7cQt2u0_TeMIC5hQ/BkUx3g6ho>
+
+<https://volt.capital/blog/the-future-of-on-chain-gaming>
+
+<https://jumpcrypto.com/defining-on-chain-gaming/>
+
+<https://www.binance.com/vi/feed/post/151533>
+
+<https://messari.io/report/analyzing-market-potential-of-fully-on-chain-games>
+
+<https://cryptoslate.com/why-the-future-of-gaming-will-be-on-chain/>
+
+![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=14523ffc98e3)

@@ -1,0 +1,110 @@
+如何成为 Smart Money？今天要介绍的 NUPL / NRPL 及相关指标，也许可以帮助你更了解市场获利 / 亏损情况，更准确地识别牛市和熊市的价格修正位，和聪明钱一样做到”高抛低吸”。
+
+本文主要包括：NUPL/NRPL 及相关指标：
+
+* Unrealized Profit / Loss
+* NUPL
+* Realized Profit / Loss
+* NRPL
+Unrealized Profit / Loss
+------------------------
+
+Unrealized Profit / Loss 为「未实现利润 / 亏损」，就是全网未实现利润 / 亏损之间的差异占市值的比例，反映**持有代币的市场价值与购买成本之间的关系**，可以被拆解为「Unrealized Profit 」和「Unrealized Loss」两个概念：
+
+* 「Unrealized Profit 」为「未实现利润」，表示持有代币的**当前价格高于**其最初交易 / 转账的价格时，累计的未变现利润；而「Unrealized Loss」为「未实现亏损」，则是持有代币的**当前价格低于**其最初交易 / 转账的价格时，累计的未变现亏损；
+### 如何计算 Unrealized Profit / Loss
+
+Unrealized Profit= Value1 \* (Current Price - Created Price)
+
+Unrealized Loss = Value2 \* (Created Price - Current Price)
+
+* Value1 = 当前价格**大于**最初交易 / 转账价格的代币数量；
+* Value2 = 当前价格**小于**最初交易 / 转账价格的代币数量；
+* Current Price = 以 USD 为计价单位的当前价格；
+* Created Price = 以 USD 为计价单位的最初交易 / 转账价格；
+NUPL
+----
+
+NUPL 为 *Net-Unrealized-Profit-Loss* 的缩写，为「未实现净利润 / 损失」 ，用于反映代币整体的链上交易盈亏情况。简单来说，「未实现净利润 / 损失」回答了一个问题，**假设今天卖出链上所有的代币，投资者的获利 / 亏损状态如何？**
+
+### 如何计算 NUPL
+
+NUPL = Relative Unrealized Profit - Relative Unrealized Loss
+
+
+```
+      = （Market Cap - Realized Cap） / Market Cap
+```
+* Market Cap = 总流通市值
+* Realized Cap = 已实现市值
+### NUPL 与市场形势的相关性
+
+* NUPL > 0：链上资金的投资收益处于**净盈利**状态；
+* NUPL < 0：链上资金的投资收益处于**净亏损**状态；
+* NUPL 越偏离 0，市场趋势越接近底部或顶部；
+以 BTC 的走势为例，
+
+* 蓝色部分：投资者出售现有代币可获利的时刻；
+* 红色部分：投资者可重新进场的时刻；
+![BTC：「未实现净利润 / 损失」](https://img.foresightnews.pro/202302/bcbd859c0707c253a703fb8e5bfeaf9f.png?x-oss-process=style/scale70)
+
+
+
+---
+
+Realized Profit / Loss
+----------------------
+
+Realized Profit / Loss 为「已实现利润 / 亏损」，反映代币（以 USDT 为单位）已实现利润或亏损的总值，可以了解链上资本流入、需求强度和盈利能力。
+
+Realized Profit / Loss 也可拆解为「Realized Profit 」和「Realized Loss」两个概念：
+
+* 「Realized Profit 」为「已实现利润」，表示代币的**卖出价格高于**卖出前最近一次交易 / 转账的价格时，累计的已变现利润；而「Realized Loss」为「已实现亏损」，则是代币的**卖出价格低于**卖出前最近一次交易 / 转账的价格时，累计的已变现亏损。
+### 如何计算 Realized Profit / Loss
+
+Realized Profit = Value1 \* (Spent Price - Created Price)
+
+Realized Loss = Value2 \* (Created Price - Spent Price)
+
+* Value1 = 最新的交易价格**大于**最初交易 / 转账价格的代币数量；
+* Value2 = 最新的交易价格**小于**最初交易 / 转账的价格的数量；
+* Spent Price = 以 USD 为计价单位的最新交易价格 ；
+* Created Price = 以 USD 为计价单位的最初交易 / 转账价格；
+NRPL
+----
+
+NRPL 是 *Net Realized Profit / Loss* 指标的缩写，为 「已实现净利润 / 亏损」， 表示相对的时间范围内某个代币链上交易已实现收益 / 亏损。
+
+### 如何计算 NRPL
+
+Net Realized Proft / Loss = Realized Profit - Realized Loss
+
+### NRPL 与市场形势的相关性
+
+* NRPL > 0 : 表示某个代币的已实现利润；
+* NRPL 持续上升：表示市场流入资金正在不断吸筹，随着吸筹成本的不断增加，利润减少，资金的买入需求也变弱了，此时大概率会形成代币价格的局部高点；
+* NRPL ~ 0 : 表示某个代币的链上已实现利润和亏损处于平衡状态，而最初交易成本过高 / 或过低的代币处于休眠状态；
+
+
+	+ 市场为牛市时，这预示着代币交易价格的回落，而新一波价格反弹的可能性增加；
+	+ 市场为熊市时，这预示着害怕币价继续下跌而引发的大量的抛售；
+* NRPL 持续下降：表示市场资金正在不断的流出；当到达极端低值时，市场即到达底部，此时，或有向上反转的行情；
+* NRPL < 0 :表示某个链上代币已实现的亏损；
+以 BTC 为例子, 进一步佐证 NRPL 和市场形势的相关性：
+
+* 红色圆圈部分：相对极高的已实现利润，且为周期性的市场顶部；
+* 蓝色圆圈部分：牛市时的价格修正位，通常伴随着利润的减少和已实现亏损的增加；
+* 绿色圆圈部分：相对极高已实现亏损，且为周期性的市场底部；
+* 橙子圆圈部分，熊市时的价格修正位，通常伴随着大量卖家在达到心理预期的收支平衡点后卖出，进而强化看跌趋势；
+![BTC：「已实现的净利润 / 亏损」](https://img.foresightnews.pro/202302/20858ce8509a787d7b7bc19ac0e907ea.png?x-oss-process=style/scale70)
+
+### 如何应用
+
+以 2017 年牛市到 2018 年熊市的转变为例：
+
+* 2017 年的牛市特点是：已实现利润不断累积，在 2017 年 12 月达到顶峰（Extrem Profits Realised 部分）
+* 接踵而至的是极端的净亏损（Deep Reversal to Loss 部分），可能是在高位买入 BTC 用户的恐慌抛售；
+* 此时，产生大量已实现亏损，BTC 在 $6K 附近震荡，既表示了周期性的熊市底部，又产生了长线交易的机会；
+* 最后在 2018 年 12 月，市场持续亏损了大约四个月（Deep + Sustained Losses 部分），虽然大部分的链上交易都处于亏损状态，但是整个价格走势仍然是上升状态，表明愿意在此时吸筹的买家数量增加；
+![BTC：2017 - 2018 NRPL](https://img.foresightnews.pro/202302/2ae63bc7d68eed4e116e032225725792.png?x-oss-process=style/scale70)
+
