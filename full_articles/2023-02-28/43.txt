@@ -1,0 +1,41 @@
+We are rolling out “**Next Planet**” to keep track of active contributors/community members by launching an SBT (Soul-Bound Token — Non-Transferrable) for everyone to collect.
+
+By collecting credentials like OATs (On-chain Achievement Tokens, by Galxe), POAPs (Proof-of-Attendance), and GitPOAPs (Issued to developers who contributed to [Next.ID](http://next.id/)’s Github repository), community members and developers are able to accumulate reputation points, which is then translated and reflected on the SBT.
+
+Essentially, [Next.ID](http://next.id/) will reward SBT holders with potential community perks or tokens. There will be different tiers of rewards that are tied to the level of reputation points. The higher the reputation points, the better the rewards.
+
+### Objective
+
+* To reward our recognized list of open-source devs & community buildooors/supporters
+* Each wallet can only qualify for one SBT (non-transferable)
+* To achieve the highest-tiered reward, the user will need to collect ≥ 10 tokens (OAT/POAP/GitPOAP)
+* Reputation-driven instead of monetary driven
+* Different tiers of levels of Reputation for members to signify their commitment to [Next.ID](http://next.id/)
+### Next Planet
+
+* Register to claim your Next Planet on [Clique](https://clique.social/campaign/nextid), the SBT will be airdropped on Polygon chain
+* Contains dynamic metadata that updates according to the number of [Next.ID](http://next.id/) OAT/POAP/GitPOAP that are held in the wallet
+* [Next.ID](http://next.id/) OAT are all minted on [Galxe](https://galxe.com/NextID)’s platform (Polygon)
+* [Next.ID](http://next.id/) POAP & GitPOAP are all minted on POAP’s platform (Gnosis)
+* According to the No. of OATs collected, users will be able to qualify for the different tiers of rewards (Refer to the [table](https://www.notion.so/Next-ID-Credential-5956cf4407cd480d8a2ab3be40b8c265) below)
+* Ideally, you would want to claim the SBT airdrop with the wallet that contains all of your [Next.ID](http://next.id/) OAT/POAP/GitPOAP that you’ve been collecting
+### Next Planet Design
+
+![https://cdn-images-1.medium.com/max/1600/1*b2slFrG0vDLegfDrOPhc4A.gif](https://img.foresightnews.pro/202302/082d5f7f026f03abb729e3099c5415ee.gif?x-oss-process=style/scale70)### List of [Next.ID](http://Next.ID) Campaign Tokens
+
+### 1. Galxe OAT (On-Chain Achievement Tokens)
+
+* OATs are given out to online campaign participants (Twitter Space, Discord AMA)
+* Minted on Polygon
+### 2. POAP (Proof of Attendance Protocol)
+
+* POAPs are given out to IRL event participants (Offline events, Panel Discussions, Conferences)
+* Minted on Gnosis
+### 3. GitPOAP
+
+* GitPOAPs are given out to [Next.ID](http://next.id/) GitHub contributors
+* Minted on Gnosis
+### How to claim your [Next.ID](http://next.id/) Community SBT?
+
+* Connect your credentials (Wallet, Twitter, Discord) on [Clique](https://clique.social/campaign/nextid)’s platform to get an airdrop of the SBT
+![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=7e7c87687224)

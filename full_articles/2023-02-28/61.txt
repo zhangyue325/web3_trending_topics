@@ -1,0 +1,60 @@
+原文出自 [Bixin Ventures](https://bixinvc.com/) 發佈的 
+
+中文版可至 ChainFeeds [< GLP War 指南：GMX 生态是套娃还是 DeFi 乐高的巧妙组合 >](https://chainfeeds.xyz/feed/detail/edd932d0-efb7-4c2c-93e9-5edae53c15b6)
+
+
+
+---
+
+#### 🔸 內容簡介
+
+GLP 作為 GMX 上交易者的對手方，是由 48% 穩定幣、52% 其他幣種組成，質押 GMX、GLP 者可獲得 ETH、AVAX 手續費收益，但也可能因交易者盈利而虧損，GLP 從 2021 年上線至今收益回報率是 -13%。
+
+開端：GLP 產生的收益用戶需手動復投、對沖 GLP 風險、收益率槓桿化 .. 圍繞 GLP 的流動性之爭展開
+
+* [PlutusDAO](https://plutusdao.io/)
+收益聚合，用戶可存入 GLP 用於解鎖更多使用場景的 plvGLP。PlutusDAO 整合 Lodesta、Vendor 使 plvGLP 能用於借款或質押，協議收取 GLP 10% 收益作為費用
+
+* [Mugen Finance](https://www.mugenfinance.com/)
+收益聚合。基於 LayerZero 的 Yearn
+
+* [Vesta Finance](https://vestafinance.xyz/))
+抵押 GLP 鑄造 VST 穩定幣。槓桿農場 + 算穩
+
+* [Unstoppable Finance](https://medium.com/@unstoppabledefi/zero-fees-free-forever-75d1bcbcf41f)
+GLP 自動復投。正開服 TriGLP 新机制，将 GLP 根據承受風險、收益分為 stableGLP 和 cryptoGLP 的頭寸
+
+* [GMD Protocol](https://gmdprotocol.com/)
+提供 BTC、ETH、USDC 單一資產鑄造的 GLP 收益聚合。Twitter 留意最近要搞自己的 Launchpad
+
+<https://twitter.com/GMDprotocol/status/1629928506124541953?s=20>
+
+* [Yield Yak](https://yieldyak.com/)：Avalanche 上的自動復投協議，也能獲得 AVAX 生態激勵
+![Yield Yak | Earn More Yield](https://img.foresightnews.pro/202302/bc74bcc4f44394ba2d5960735058f09e.png?x-oss-process=style/scale70)
+
+* [Rage Trade](https://docs.rage.trade/4TdI-overview)
+致力減少 GLP 資產波動造成的損失，發展 Risk-Off Valt , Risk-On-Vault 對沖 BTC、ETH 資產的下跌風險。
+
+[ref : Rage Trade 是什么？基于 GMX 的风险中性策略](https://tokeninsight.com/zh/research/analysts-pick/what-is-rage-trade-yet-another-gmx-delta-neutral-vault)
+
+* [Jones DAO](https://www.jonesdao.io/)
+搭建於 Etherum 上的收益策略協議，正對 GLP 的資金池，讓用戶能給 GLP 的收益上槓桿，增加持有 GLP 收益率。以及 jUSDC 金庫借入用於鑄造 GLP 的 USDC 所產生的額外收益。 [ref : JonesDAO 的 jGLP，高收益的 $GLP 从哪里来？](https://tokeninsight.com/zh/research/analysts-pick/jglp-from-jonesdao-how-it-offers-higher-yield-for-glp-holders)
+
+* [Abracadabra](https://app.abracadabra.money/#/leverage/3)
+基於 GLP 和 實現的槓桿策略，用戶存入 GLP 獲得 magicGLP，它是把 GLP 收益的 ETH 自動復投於 GLP 回饋給 magicGLP 持有者，在 Abracadabra 還能抵押 magicGLP 進行借貸
+
+#### 🟢・基於 GLP 的延伸場景
+
+1. 槓桿收益：圍繞在基於 GLP 的自動復投
+2. 中性策略：自動對沖 GLP 資產波動的風險
+3. 收益聚合：最大化 GLP 收益的策略、提供質押 GLP 進行借貸的選項
+
+
+---
+
+#### 🔸 個人思考
+
+DeFi 衍生品協議在 Layer2 迎來爆發，GMX 作為 Arbiturm 的龍頭，創新的 GLP 機制吸引大量資金進入，基於 GLP 搭建出的 DeFi 樂高場景包含收益槓桿化、Delta 中性策略、自動復投和借貸等
+
+GMX 在 Arbiturm 上發佈不過 1 年半的時間，基於其搭建的應用已如此之多，這一切都更加奠定了 GMX 在 Arbiturm 中的地位；未來還有更多協議及創新的 機制展開，圍繞著 GLP 的流動性之爭，是 Arbiturm 接下來值得關注的新篇章
+

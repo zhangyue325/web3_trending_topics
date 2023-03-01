@@ -1,0 +1,38 @@
+Progress Report Feb 21-Feb 28
+
+![](https://img.foresightnews.pro/202302/26905ad632aa05429b8c21595fac0a20.png?x-oss-process=style/scale70)### Key points:
+
+* Integration into the Rigel Protocol P2P DApp, trade $REI with 150+ fiat currencies
+* Strategic partnership with ContractWolf, USM.World and veDAO
+### A. Product Development Progress
+
+REI-CORE
+
+- BLS module introduces Hardfork test @in progress
+
+- Blocking performance test after the introduction of the BLS module @in progress
+
+- System contract call performance test @in progress
+
+REI-DAO
+
+- Tab switching routing mode improvement @100%
+
+- Asset dimension filtering function was added to Account transfer history @100%
+
+### B. Operational Progress
+
+* Blockbuster, a well-known Web3 media reported REI Network with the theme “Making Blockchain Accessible to All: REI Network and Its Ever-Expanding Ecosystem” last week. Exciting news for developers looking to join the Web3 space! Check out the latest article on the lightweight and dev-friendly: <https://blockster.com/making-blockchain-accessible-to-all-rei-network-and-its-ever-expanding-ecosystem>
+* Partnership Ann: ContractWolf has partnered with us to expand audits to REI Network. As a platform for Auditing & KYC for projects, ContractWolf helps us grow together and our projects for audit and KYC services, and mutual help to ensure safety. <https://twitter.com/contractwolf_io/status/1628675131433431041>
+* Advanced Slash Mechanism of REI Network will conduct more targeted punishment on the validator who does evil by judging whether it is subjective or objective. Here explains how the customized slash mechanism improves the security of REI Network: <https://medium.com/@GXS/how-the-customized-slash-mechanism-improves-the-security-of-rei-network-92c17cb55d30?source=social.tw>
+### C. Ecosystem
+
+* $REI token has been integrated into the P2P DApp. You can now trade $REI of REI Network with 150+ Fiat currencies. With this integration, users can become a merchant on Rigel to create trade ads and set your own terms and conditions. Start trading on [http://p2p.rigelprotocol.com](https://t.co/wVKdckjkHb). More details: [https://medium.com/rigelprotocol/rigelprotocol-welcomes-rei-network-to-the-p2p-ecosystem-a29fc10fd26a](https://t.co/tPslaZmCyv).
+* We are happy to announce an official partnership with USM. World-People’s Virtual World SportsFi. USM will build out headquarters in its Metaverse for REI Network, so stay tuned!
+* Glad to partner with veDAO, veDAO is a decentralized investing and financing platform led by DAO, a platform that truly belongs to the people. Stay tuned for more exciting collaborations between REI Network&veDAO.
+![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=fb141698ee8d)
+
+---
+
+[Integration into the Rigel Protocol P2P DApp, Partnership with ContractWolf, USM.World and veDAO](https://medium.com/gxchain-project/integration-into-the-rigel-protocol-p2p-dapp-partnership-with-contractwolf-usm-world-and-vedao-fb141698ee8d) was originally published in [REI Network Project](https://medium.com/gxchain-project) on Medium, where people are continuing the conversation by highlighting and responding to this story.
+

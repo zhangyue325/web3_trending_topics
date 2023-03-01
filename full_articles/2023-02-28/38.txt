@@ -1,0 +1,48 @@
+![](https://img.foresightnews.pro/202302/032db2c27f61152e8c85421dced3b319.jpeg?x-oss-process=style/scale70)以太坊坎昆升级在即，升级后以太坊的 Rollup 协议将大幅降低交易费用，Layer2 很快会迎来真正的爆发。BitKeep 作为用户进入 Web3 世界的最大入口之一，为进一步支持 Layer2 和 Arbitrum 的生态发展，上线了 Arbitrum Futures Token ( 简称 ARBK) 空投活动。
+
+ARBK 为 BitKeep 发行的 Arbitrum 官方代币兑换凭证，持有 BitKeep 空投的 ARBK 并完成相应的任务，即可 100% 获得兑换 Arbitrum 官方代币的资格！
+
+### 活动时间
+
+2023 年 3 月 1 日 – 2023 年 4 月 1 日（GMT+8）
+
+### 参与方式
+
+#### 红包空投
+
+#### （每个用户仅可领取一次 ARBK 红包空投，单个金额约为 5 $ARBK）
+
+1. 关注 BitKeep 官方推特，将定期发布 Arbitrum Futures 空投红包
+
+2. 进入 BitKeep 官方社群，将定期发布 Arbitrum Futures 空投红包
+
+3. 关注 BitKeep 联合 Arbitrum 热门项目发布 Arbitrum Futures 空投红包
+
+4. 关注 BitKeep 联合 Web3 Influencers 发布 Arbitrum Futures 空投红包
+
+### 交易奖励
+
+1. 在 BitKeep 上 Swap Token 或者交易 NFT 资产达到 100U，额外空投 1 个 ARBK；
+
+2. 在 BitKeep 上 Swap Token 或者交易 NFT 资产达到 500U，额外空投 5 个 ARBK；
+
+3. 在 BitKeep 上 Swap Token 或者交易 NFT 资产达到 1,000U，额外空投 10 个 ARBK。
+
+### 参与教程
+
+1. 创建 Arbitrum 钱包（已经创建过的用户可跳过该步骤）。
+
+![](https://img.foresightnews.pro/202302/eb6dac409e944caee85dd4209791508d.png?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202302/01c64412d6cb2eb98844d833a1e81fdb.png?x-oss-process=style/scale70)2. Swap 交易 Arbitrum 链币种。
+
+![](https://img.foresightnews.pro/202302/32d0001c82e1d8939d7171ebfb084ac1.png?x-oss-process=style/scale70)3. NFT 市场购买或出售 NFT。
+
+![](https://img.foresightnews.pro/202302/81f7173a802393aaafc9681110c3aad5.png?x-oss-process=style/scale70)### 如何兑换
+
+1. Arbitrum Futures Token 发布在 Arbitrum 链上，用户可以通过在 BitKeep 钱包添加代币合约地址：0xA8258c76506e0F56fDb9e9d0577a802Cae4ceCfC，显示自己获得的 ARBK 代币空投。
+
+2. 如果未来 Arbitrum 官方代币的总供应量与 Arbitrum Futures Token 一致，那么我们将按照 1:1 的比例，为符合条件的用户持有的 ARBK 兑换为 Arbitrum 官方代币。若 Arbitrum 官方代币总供应量与 Arbitrum Futures Token 不同，则按相应比例兑换。
+
+3. 兑换将于 Arbitrum 官方代币首发任一头部交易所 3-7 个工作日内完成。
+
+感谢您对 BitKeep 的支持与信赖，我们将推出更多 Layer2 生态相关的热门奖励活动，期待大家的参与！
+

@@ -1,0 +1,75 @@
+### 亮点
+
+* WorldwideWebb 获得了 Pantera Capital 的 1000 万美金的投资，交易热度飙升；
+* 中国香港放出一系列加密货币利好政策；
+* 随着 NFT 市场版税战争爆发，OpenSea 回击了 Blur；
+* 成千上万的 NFT 爱好者前往法国巴黎的 NFT Paris；
+* 电子商务元宇宙 Comearth 发布了其代币分配计划；
+* Decentraland, Illuvium, Voxels 的更新；
+* 一个为期 24 周的寻宝活动在不同的元宇宙内展开，参与并赢取一个 CryptoPunk !
+#### 1.市场数据与分析
+
+加入我们每周四下午一点讨论，[深入探索每周数据](https://discord.gg/PmTQM9C3?event=1079663327535439935)，并聚焦于一些有趣的亮点*:*
+
+![](https://img.foresightnews.pro/202302/d85491619fcb82a43a7f8bc75f03efe6?x-oss-process=style/scale70)Meta Rankings (7D)[OneLand 数据](https://oneland.world/#/main)显示 10 个元宇宙项目的 7 日土地总市值下滑 0.68% 至 929,432 ETH。这反映了加密货币市场的下跌 — — ETH 下跌 2.47%，$SAND, $MANA, $CUBE 也都下跌了。
+
+![](https://img.foresightnews.pro/202302/d1bdf065ba9f32c8f7f41c0fcf9e6e93?x-oss-process=style/scale70)Top Weekly Performer & Metaverse Heat Index (7D)* [The Sandbox](https://oneland.world/#/main/sandbox?selectkey=basicInfo) 推出了 Voxel Madness 土地销售，但是除了[3.89 ETH](https://etherscan.io/tx/0xafd5a03e08e407a426c9b59f0e102966283a220f3aa279463d720d27d205a61f)的本月销售新高之外，他几乎没有获得投资回报。
+* [Decentraland](https://oneland.world/#/main/decentraland?selectkey=tradeAnalytics) 的土地市值下滑 9.4%，自本月初达到六个月来最高点后，其土地市值已经下滑了 26.2%。
+* [Otherside](https://oneland.world/#/main/otherside?selectkey=basicInfo) 土地市值自 11 月 26 日以来已经上涨了 27.3%，本周环比上涨 4%。
+![](https://img.foresightnews.pro/202302/2be583c596f39f8fd684b1914d2a6616?x-oss-process=style/scale70)Market Cap & Volume (Nov 26 — Feb 26) — Otherside如果说本周六 191 套公寓的销售是一个大丰收日，那么 23 号周四的交易就是爆炸性的。根据我们的[Tweet](https://twitter.com/OneLand_World/status/1628968164678672385?s=20)，[Worldwide Webb](https://oneland.world/#/main/worldwideweb3?selectkey=basicInfo)周四成交量是让人难以置信的 670 笔，成交额在 24 小时内飙升了 7753%。或许是因为 Pantera Capital 宣布向 Worldwide Webb 注入 1000 万美金的资金。
+
+336.12 ETH 是近 10 个月以来最高的成交额，当日[16.88](https://etherscan.io/tx/0x6a60a62b3d766b0d7066e6f6f1fcb182245a138ab412d7b6100082156e59351a)ETH 的交易也是自 8 月 3 日以来最高的成交价。但在此我们也不得不表示怀疑，这是否只是为了获得 Blur 空投而进行的交易呢？
+
+![](https://img.foresightnews.pro/202302/8b6f3f1ec553910849a4db4f949f871d?x-oss-process=style/scale70)Trade Plots (23 Feb) — WorldwideWebbWorldwide Webb 本周销量为 843 (+241%) ，成交额为 399.5 ETH (+412.6%)，超过了[The Sandbox](https://oneland.world/#/main/sandbox?selectkey=basicInfo) (+1.18%) 在周二启动的 Voxel Madness 土地销售活动。均价上涨了 50.2%.
+
+尽管如此，土地市值市值 (-1.07%) 以及[持有者数量](https://oneland.world/#/main/worldwideweb3?selectkey=holderAnalytics)(-1.3%) 都有所下滑。这表明投资者正在进行整合，交易价格较前几个月较高，但仍未回到最高点。
+
+![](https://img.foresightnews.pro/202302/2efa0ca5d2ff027b93209e4e5878d11c?x-oss-process=style/scale70)Holder Trends & Holding Concentration — Worldwide Webb (7D)有关数据计算的说明，请查看：[*https://docs.oneland.world*](https://docs.oneland.world)*.*
+
+有关元宇宙的全面数据，请查看：[*oneland.world*](https://oneland.world/#/main)
+
+#### 2. 市场新闻
+
+[Hong Kong moves towards legalizing crypto with soft backing from Beijing](https://insidebitcoins.com/news/hong-kong-moves-towards-legalizing-crypto-with-soft-backing-from-beijing)
+
+[Pantera Injects $10 Million Into Gaming Platform Worldwide Webb](https://www.investingcube.com/pantera-injects-10-million-into-gaming-platform-worldwide-webb/)
+
+请持续关注，因为该项目的大片游戏即将发布。
+
+[Uniswap Traders Can Now Buy NFTs With UNI, SHIB or Any Ethereum Token - Decrypt](https://decrypt.co/121876/uniswap-nfts-ethereum-tokens)
+
+<https://medium.com/media/0f5543f281e6ddd63b2a3ac82f2a2dfb/href>#### 3. 销售&铸币
+
+<https://medium.com/media/d60e835789f0e78c3cba053c3e7eb777/href>[February MV Motors Car Sale](https://www.upland.me/events/february-mv-motors-car-sale)
+
+#### 4. 元宇宙事件
+
+### Decentraland on Twitter: "A look back at the 3rd Birthday Party 🎂Here's to many more years of innovation, creativity, and endless possibilities🥳📹 Shot by @NeoDCL pic.twitter.com/udEX2Neu9x / Twitter"
+
+A look back at the 3rd Birthday Party 🎂Here's to many more years of innovation, creativity, and endless possibilities🥳📹 Shot by @NeoDCL pic.twitter.com/udEX2Neu9x
+
+[FIRST COMES LOVE, THEN COMES TACOS: MEET THE COUPLE SAYING "I DO" AT THE TACO BELL METAVERSE WEDDING](https://www.prnewswire.com/news-releases/first-comes-love-then-comes-tacos-meet-the-couple-saying-i-do-at-the-taco-bell-metaverse-wedding-301752622.html)
+
+[Home - BOULEVART](https://boulevart.artinspacegallery.art/)
+
+<https://medium.com/media/2ae340717416476ddca387823907dfee/href><https://medium.com/media/d5afcf7bf2ad6c8ab4d206d5f3a1597a/href>Get to know more in The Lost Wallet [Twitter Space](https://twitter.com/The_Lost_Wallet/status/1628079556665163776?s=20).
+
+[Spring VoxEdit Contest](https://sandboxgame.medium.com/spring-voxedit-contest-a7401e1c981c)
+
+### Sectrom.eth on Twitter: "Happy to say that I just beated the kong on the @Worldwide\_WEB3 Paris NFT arcade ! Competiting for the 3eth prize ! Took a pic with @WebbEmotional too ;) pic.twitter.com/60kbpP9PVs / Twitter"
+
+Happy to say that I just beated the kong on the @Worldwide\_WEB3 Paris NFT arcade ! Competiting for the 3eth prize ! Took a pic with @WebbEmotional too ;) pic.twitter.com/60kbpP9PVs
+
+[**THE LOST WALLET**](https://twitter.com/The_Lost_Wallet/status/1628079556665163776?s=20) feat. The Sandbox, \_\_\_\_ & \_\_\_\_\_
+
+#### 5. 项目更新
+
+<https://medium.com/media/ea9c13ee96cdbed8669e898f966552cf/href>[DCL-Edit - A scene editor for the Decentraland SDK - DCL-Edit by METAGAMEHUB DAO](https://dcl-edit.com/)
+
+<https://medium.com/media/7fded487f015f5d2c5d7f3efe79f3ef7/href><https://medium.com/media/b1329b176aca97fbce7becccbbc1ef46/href>#### 6. 合作速递
+
+[Venice Carnival Partners with Ready Player Me - NFT Plazas](https://nftplazas.com/venice-carnival-ready/)
+
+<https://medium.com/media/b9709aa035d871f768177e3be58ab367/href>更多详细信息可以访问[oneland.world.](https://oneland.world/#/main)
+
+![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=f29acfb5fe8)

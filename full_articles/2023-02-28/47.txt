@@ -1,0 +1,136 @@
+DODO #Megascope brings you this week’s Highlights:
+
+1. Coinbase launched a new Ethereum L2 network Base chain based on OP Stack
+2. BTC L2 network STX
+3. Arbitrum lending project Radiant will launch V2
+4. Jump Crypto counter-exploited the Wormhole hacker
+5. Gamefi in-depth research report recommended reading
+6. Data Check: Optimism Superchain Narrative
+👀 Weekly Digest
+---------------
+
+### DeFi
+
+### Coinbase Launched a New Ethereum Layer 2 Network Base Chain Based on OP Stack
+
+On February 23, Coinbase announced the launch of the Base, and at the same time announced that it will cooperate with Optimism to develop Base based on the OP Stack.
+
+Base is an Ethereum Layer 2 network designed to provide a secure, low-cost, and developer-friendly way to build on-chain decentralized applications. The advantage of the Base chain is that it is developed based on the OP Stack, so it has high compatibility and scalability; the Base chain also uses Optimistic Rollup technology, which means that it can handle a large number of transactions while maintaining the integrity of the Ethereum network - security and decentralization.
+
+### Why Coinbase Chose OP Stack
+
+Coinbase once considered launching its own public chain similar to BSC, but this would be far away from the Ethereum ecosystem and cause ecological fragmentation. In the current market, L2 is actually more attractive than the new public chain. **As the route of Rollup becomes clearer, Coinbase’s construction of Layer 2 is the best choice, and Optimism’s Superchain just fits this narrative. The Superchain intends to build a multi-chain ecology through L2, and the OP chain will be a part of the Superchain, sharing security with other chains.**
+
+For Coinbase, building its own L2 based on the OP Stack, on the one hand, have access to the OP ecosystem, with its own traffic and project resources; on the other hand, Coinbase cooperates with OP to become the second OP Stack Core contributors, accelerate the development of the entire ecosystem, and snatch the incremental users brought about by the launch of the entire L2 sector.
+
+This operation is a strong alliance between Coinbase and Optimism. The trend of Ethereum to carry more DAPPs through Layer 2 expansion is becoming clearer.
+
+![](https://img.foresightnews.pro/202302/2aeb37b4aa4f27c5362965a2eee8031f.png?x-oss-process=style/scale70)
+
+### Base Chain and OP Super Chain Narrative Details that Need Attention
+
+* Coinbase has launched the Base test network and expects to launch the main network in two to three months. The development and delivery speed are very fast, but you should also pay attention to the performance after the main network is launched. Base Chain currently has no plans to issue coins.
+* Optimism is still a long way from the final realization of the super chain. Fraud proofs are not yet perfect, and the underlying OP Stack is still being updated iteratively. There is limited improvement in the performance of the OP chain itself.
+* The market competition between Optimism and Arbitrum is still ongoing. Arbitrum has been very popular recently and its users are growing rapidly. It is necessary to pay attention to the competition of the entire Layer 2 and the squeeze effect of Arbitrum on OP.
+### BTC L2 Network STX
+
+BTC itself is not composable and scalable, nor can it run smart contracts. The BTC design framework relies on block rewards and halving cycles to motivate miners to maintain ledger security. In reality, BTC miners’ fee income accounts for a small proportion. Fee income alone cannot motivate miners and maintain BTC prices, thus affecting security. The expansion of Ethereum is to solve the problem of DAPP operation congestion and cost, while the expansion of BTC to build decentralized applications is actually related to the security of BTC itself. At present, the leading BTC layer-2 solutions include Lightning Network, RSK, and Stacks (ie STX). The market value of Bitcoin ecology actually needs a second-tier network like STX to be released. If the liquidity and huge market value of BTC are added to the native DeFi ecology, there will be a lot of room for imagination.
+
+STX, as the only second layer of BTC that issues coins, also has the most APPs. It is relatively comprehensive in application ecology and friendly to developers. STX carries the narrative of the second layer of BTC, but obviously, there are still some risks on the bottom layer.
+
+To understand the biggest risk of STX, it is necessary to understand that STX is not actually the L2 of BTC in the typical sense of ETH L2. The L2 of Ethereum will use Ethereum as a source of security. No matter what technical route it is, a verification process is required. ZK replaces it with an algorithm, Optimisitic assumes trust and then ensures that nodes have not been tampered with by setting a challenging period, etc. . However, STX is a self-operated node, and BTC cannot provide security for it. However, BTC miners can guarantee that the submitted data will not be backed up and modified, that is, they can only provide one-way ledger.
+
+It is expected that the Nakamoto upgrade released this year will become an important part of solving STX risks. The Nakamoto upgrade will bring Subnet, which will enable the security of STX to be guaranteed by BTC, further simplify the process of transferring BTC into and out of STX, and improve STX speed. Before the Nakamoto upgrade, the security of STX was not guaranteed by BTC. After Nakamoto is upgraded, this potential major risk will be eliminated, and the narrative of the second layer of BTC will finally be settled.
+
+### Arbitrum Lending Project Radiant Will Launch V2
+
+Radiant recently announced that it is about to launch the V2 version. Let’s review the V2 version of Radiant which is the current highest TVL lending protocol on Arbitrum.
+
+* Move RDNT from ERC-20 to Layer Zero OFT format, so as to better realize cross-chain features;
+* Realize native cross-chain through Layer Zero, without relying on third-party cross-chain bridges;
+* RDNT emissions become linear unlock;
+* Adjust the proportion of fee distribution, 60% will be distributed to RDNT pledgers, 25% will be distributed to lenders, and 15% will be distributed to the operation wallet controlled by DAO.
+### Jump Crypto Counter-Exploited the Wormhole Hacker
+
+* In February 2022, the Wormhole was attacked, and a total of 120,000 ETH was lost.
+* Jump filled the Wormhole gap at its own expense for the first time in order to stabilize market confidence.
+* Then Wormhole issued a $10 million bug bounty in an attempt to settle with the hackers.
+* On February 21, 2023, Oasis received an order from the High Court of England, which mentions that all necessary steps can be used to recover all funds involved in last year’s security incident.
+* On February 21, 2023, Oasis, in conjunction with Jump, successfully extracted the stolen funds using the upgradeable Oasis contract.
+
+
+	+ Hackers established leveraged long positions on Oasis, totaling two Oasis vaults, both of which used Oasis’ automated services;
+	+ Oasis controls 4 of the multi-sig of the Oasis proxy contract, and Sender (suspected to be controlled by Jump) was added as a signer in the multi-sig of the Oasis proxy contract. After initiating 5 transactions, he was removed as a signer;
+	+ In the third transaction, Sender deceived Oasis Contract, allowing it to transfer the collateral and debts in the hacker’s vault to Sender’s vault;
+	+ After taking control of the vault, Jump sends 80 million DAI to Sender’s vault, repays the vault’s loan and withdraws the collateral, and then transfers the collateral;
+	+ Eventually, Jump recovered Wormhole’s stolen funds.
+This incident has aroused widespread concern and discussion in the community. Some people think that Oasis, that is, Maker products, has a serious centralization problem. If hackers cannot be protected, it will be difficult to protect other users. This kind of centralization is contrary Based on the principle of Code is Law. Others believe that the operation has court endorsement and is legal in the real world, and the stolen funds should be recovered.
+
+### Gamefi
+
+### Gamefi In-Depth Research Report Recommended Reading
+
+We recommend reading a Gamefi’s in-depth research report by @0xAikoDai and @MapleLeafCap.
+
+“To sail beyond the liquidity sunset of taxation-based Web3 games: with a new nautical chart on gameplay, resource, and economic-relations design”
+
+![](https://img.foresightnews.pro/202302/534c56e705295c0e83a78b15933851c8.png?x-oss-process=style/scale70)
+
+The first part of the research proposes a well-framed development direction for Gamefi, that is, to use In-App-Taxatation(IAT) as a business model, and to build long-term and continuous Web3 games through mature game categories and gameplay.
+
+Assuming that everyone agrees with the direction of the IAT system, then the second part gives the methodology and suggestions on how to build an IAT system game, focusing on how to increase the transaction scale to enlarge the tax collection plate, how to improve the tax collection efficiency, and how to tax for a longer time.
+
+Of course, if you think that the IAT system will not become the future development direction, you don’t have to read the last two parts carefully. What this research report is worth thinking about is whether the IAT system will be the ultimate development direction. Will the first game with tens of millions of users be based on the IAT system?
+
+### Datacheck
+
+On Feb 23rd, Coinbase disclosed its Layer 2 plan, Base, built on the open-source OP Stack. It made Optimism regain attention from Arbitrum. Today’s #Datacheck will have a look at the performance of Optimism Ecosystem.
+
+1/ Volume
+
+* Total trading volume in the past 7 days is $764M, ranking No.5, which is only a third of Arbitrum’s volume;
+* Among the top 10 chains ranked by weekly trading volume, Optimism achieved a significant increase (40%), while Arbitrum had a 7% decline.
+![source: https://defillama.com/dexs/chains](https://img.foresightnews.pro/202302/cee9495fa7b840b645b4999f91f01202.png?x-oss-process=style/scale70)
+
+2/ TVL
+
+* TVL on Optimism is $967M, ranking No.7, while Arbitrum’s TVL is Optimism’s 2.7 times;
+* Optimism and Arbitrum achieved 11% and 4.3% growth respectively in the past week when the crypto market fell.
+![source: https://defillama.com/chains](https://img.foresightnews.pro/202302/9593f961b56b06260e060b0a1ab1309e.png?x-oss-process=style/scale70)
+
+3/ Txs & DAU
+
+* DAU has stabilized at more than 2 times compared with 7 days ago, reaching more than 80k;
+* Total Txs reached a peak of nearly 430k on Feb 24, and then dropped to 270k.
+![](https://img.foresightnews.pro/202302/46bac56dcb9344e2f96bd4b31b24ea4a.png?x-oss-process=style/scale70)
+
+![source: https://app.artemis.xyz/dashboard/optimism](https://img.foresightnews.pro/202302/54cdb8d70608f9311ed713a2523197d7.png?x-oss-process=style/scale70)
+
+4/ Txs(7d) by protocols
+
+* Perpetual, an on-chain perpetual futures DEX ranks No.1, with 147.7k txs. For comparison, txs of GMX is 158k;
+* Among the top ten projects, there are 5 Defi projects(Perp, Uni, Velo, Synthetix, 1inch), 3 NFT-related(Collbab, Mirror, Backed), and 2 cross-chain platforms(Stargate, Hop).
+![source: https://dune.com/queries/2057459/3404091](https://img.foresightnews.pro/202302/28655be423d929eb4d69964802959085.png?x-oss-process=style/scale70)
+
+5/ Users(7d) by Protocols
+
+* Uniswap ranks No.1, with 3.3k users in a week. For comparison, 6.8k users interacted with Uni on Arbitrum;
+* Among the top ten, there are 5 Defi projects(Uni, 1inch, Velo, Synthetix, Pooltogether), 3 NFT-related(Collbab, Mirror, Backed), 1 cross-chain platform(Stargate) and 1 DID protocol(Clique).
+![source: https://dune.com/queries/2057459/3404091](https://img.foresightnews.pro/202302/6bb992cfd5b327c8ef3fdc8a64a1ff06.png?x-oss-process=style/scale70)
+
+6/ TVL by Protocols
+
+* Velodrome, an AMM modeled on Solidly, with a TVL of $312M, ranks No.1;
+* Among the top ten protocols, only Velodrome and Soone (lending platform) are native projects on Optimism.
+![source: https://defillama.com/chain/Optimism](https://img.foresightnews.pro/202302/6f00e1d401afe2680c674f2083655bff.png?x-oss-process=style/scale70)
+
+7/ Although there are fewer native projects on Optimism, its narrative about Superchain lets Optimism challenge Arbitrum Ecosystem once again. Future developments on Optimism deserve continued attention.
+
+🚄 Bullet News
+-------------
+
+### DeFi & NFT
+
+* Archifi, a new GLP Lego project on Arbitrum, supports up to x10 GLP leverage, and releases operational activities, with a total value of $10,000.
+* The compound initiated a proposal for deployment to Arbitrum.
+* Mangrove, an order-book decentralized trading platform, announced the completion of a $7.4 million Series A funding round. Mangrove will first be deployed on Polygon and will roll out to multiple EVM-compatible chains this year.

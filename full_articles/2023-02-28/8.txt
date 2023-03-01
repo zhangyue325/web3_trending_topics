@@ -1,0 +1,98 @@
+ 
+
+![](https://img.foresightnews.pro/202302/f909c40368d002790485988e557c0aeb.png?x-oss-process=style/scale70)
+
+ 
+
+2023 年第一季度已经过去了大半，我们希望可以为大家简单分享一下 NEAR 基金会在社区融资和加速器策略方面取得的最新进展。
+
+ 
+
+首先，如果您是基于 NEAR 开发的项目方或者希望基于 NEAR 开发并需要一些快速支持，可填写[项目支持表单](https://airtable.com/shrQk2yWacIj2QA3E)。NEAR 基金会将会派合适的人或机构与您接洽。
+
+ 
+
+ 
+
+我们在一月初宣布了[grant 项目的一些重要变更](https://near.org/blog/refining-near-foundations-grant-approach/)，将决策权交给了社区 DAO，强调了基金会的目标是打造一个更加去中心化的融资流程。下面列举了几个初始 DAO 的状态。
+
+ 
+
+MarketingDAO 正在通过[MarketingDAO 论坛渠道](https://gov.near.org/c/marketing/marketingdao)积极地审查和强化以及营销相关的提案。目前强化的核心焦点围绕内容和社交媒体，令人激动的[ETHDenver 赏金倡议](https://gov.near.org/t/introducing-the-near-day-community-content-bounty-program-for-eth-denver-2023/32935/9)已于近期宣布。
+
+ 
+
+* [什么是 Marketing DAO](https://gov.near.org/t/the-marketing-dao-vertical/3554)
+* [如何提交提案](https://gov.near.org/t/guide-how-to-submit-a-funding-proposal-to-the-marketing-dao/4603)
+* [Marketing DAO 指导方针](https://gov.near.org/t/guidelines-for-assessment-marketing-dao-proposals/31645)
+ 
+
+DevGov 正在通过[NEAR.social gig board](https://near.social/#/mob.near/widget/MyPage?accountId=devgovgigs.near)加速审查支持技术性的生态项目的提案。
+
+ 
+
+* [什么是开发者治理 DAO](https://www.neardevgov.org/blog/engaging-in-developer-governance)
+* [如何提交提案](https://near.social/#/devgovgigs.near/widget/Ideas)
+* [开发者治理 DAO 指导方针](https://www.neardevgov.org/)
+ 
+
+Creatives DAO 计划在 3 月结束前接受融资提案。
+
+ 
+
+* [什么是 Creatives DAO](https://docs.google.com/document/d/1Gj43xzngdxvU5U6Nyr14WdhXwX0Jim2s7FsToWAJqR0/edit?usp=sharing)
+* [如何提交提案](https://gov.near.org/t/guide-proposal-payout-process-for-creatives-dao/19764)
+* [Creatives DAO 指导方针](https://docs.google.com/document/u/0/d/11eNnM9uYetu9ALWk_Lo7sY0u2CnUGRxzwqiHAwFii18/edit)
+ 
+
+NEAR Digital Collective (NDC) 是由 NEAR 社区发起的旨在实现去中心化的草根运动。NDC V0 Governance 即将发布！V0 聚焦为上面列举的 GrassrootsDAOs（Marketing, Developer, Creatives）提供资金。
+
+ 
+
+* [NDC 治理框架（V0）新手指南](https://medium.com/near-digital-collective/a-beginners-guide-to-v0-of-the-ndc-governance-structure-39f977d91b3e)
+* [什么是 NDC？](https://medium.com/near-digital-collective/what-is-the-near-digital-collective-36151cab2b73)
+* 如何参与
+* 通过[Telegram](https://t.me/+SkmIlkkXB9UzYjM0)加入 NDC 运动
+* 加入该运动
+* 开始一个对话
+* 加入或成立一个工作小组，为 NEAR 治理和去中心化做出贡献
+ 
+
+ 
+
+NEAR 基金会举办 grant 项目的过往经历表明创始人和团队需要各种支持以取得成功以及将其项目带入下一个等级。为此，基金会的策略包括 3 个方面：
+
+ 
+
+1.我们正在 NEAR Discovery 打造一个产品，该产品将允许创始人和一系列贡献者（投资者、法律以及金融等领域的主题专家）取得联系，后者可以在他们的旅途中提供支持。我们计划在 3 月初发布一个 MVP。
+
+ 
+
+* 如果你是一名有意成为一个 beta 测试者的创始人、投资者、导师或主题专家，请填写该[表单](https://airtable.com/shrALYWH9TBQr8jxh)。
+* 如果你是一名有意参加付费用户调查的创始人，请填写该[表单](https://survey.alchemer.eu/s3/90526683/Research-Plan-NEAR-Foundation-Project-Journey)。
+ 
+
+2.我们目前正在为加速器[公开征集合作伙伴](https://near.org/blog/open-call-for-near-accelerator-partners/)，目的是帮助我们快速追踪项目的支持需求。我们将继续打造可为创始人使用的支持网络，未来几周内还会发布额外的征集公告。这些征集的需求如下：
+
+ 
+
+* 工程支持资源
+* 人才 / 招聘平台及服务
+* 法律平台和服务
+* 后台会计平台和服务
+* 市场营销服务
+* 产品管理服务
+ 
+
+3.我们在持续开发和识别对早期阶段创始人最有帮助的学习内容和工具（针对 Web3 团队的会计软件、走向市场示例），这些资源将会在产品内可用。
+
+ 
+
+如果您对去中心化融资、DAO 以及加速器项目有任何问题，请通过[Telegram](https://t.me/cryptonear)、[Discord](https://discord.com/invite/UY9Xf2k)以及其他 NEAR 社区使用的社交媒体渠道联系我们。
+
+ 
+
+还是那句话，如果您的项目正在基于 NEAR 开发或者有意向这么做，而您又需要一些快速的支持，可填写[项目支持表单](https://airtable.com/shrQk2yWacIj2QA3E)。NEAR 基金会将派合适的人或机构和您取得联系。
+
+ 
+
