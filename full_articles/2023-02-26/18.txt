@@ -1,0 +1,91 @@
+![](https://img.foresightnews.pro/202302/728cd86ee98674929a30a0de1b8e332d.gif?x-oss-process=style/scale70)
+
+SeeDAO 于 2 月 24 日至 2 月 26 日成功举办了第二季节点共识大会。这一季总共有 57 位节点分别在 SIP-46 到 SIP-65 做出投票，这些提案涵盖第一季的市政厅工作评估、本季重要提案、公共岗位选举及下一季度节点资格门槛的决定，整个大会于 2 月 26 日顺利落幕。以下是相关提案的结果公示。
+
+**0****1****第一季市政厅评估**
+
+**🔗 SIP-46：战略小组 综合评估 108%**
+
+*https://forum.seedao.xyz/thread/sip-46-42427*
+
+**🔗 SIP-47：财务小组 综合评估 106.67%**
+
+*https://forum.seedao.xyz/thread/sip-47-42428*
+
+**🔗 SIP-48：治理小组 综合评估 100%**
+
+*https://forum.seedao.xyz/thread/sip-48-42429*
+
+**🔗 SIP-49：品牌小组 综合评估 106.67%**
+
+*https://forum.seedao.xyz/thread/sip-49-42430*
+
+**🔗 SIP-50：外联小组 综合评估 93.33%**
+
+*https://forum.seedao.xyz/thread/sip-50-42431*
+
+**🔗 SIP-51：媒体中心 综合评估 120%**
+
+*https://forum.seedao.xyz/thread/sip-51-42432*
+
+**🔗 SIP-52：运营小组 综合评估 90%**
+
+*https://forum.seedao.xyz/thread/sip-52-42433*
+
+**🔗SIP-53：SeeShore 大理 综合评估 30%**
+
+*https://forum.seedao.xyz/thread/sip-53-seeshore-42434*
+
+  
+
+
+**0****2****第二季市政厅岗位竞选**岗位竞选结果如下：  
+**🌟内部治理小组：*** 负责人：baiyu#2918
+* 财务官：Simba#2118
+* Super Mod：VincentZZH#3925
+**🔗**SIP-62: *https://forum.seedao.xyz/thread/sip-62-42525* 
+
+**🌟****对外品牌小组：**
+
+* 负责人：Tanghan#8245
+* 媒体中心：SuanNai#5420
+* 社区拓展：Hal#2050
+* 内容官：Johnny J#2563
+🔗SIP-63:
+
+*https://forum.seedao.xyz/thread/sip-63-42528*
+
+**🌟****技术小组：**
+
+* 负责人：fatfingererr#0697
+* 协作工具管家：栗子#8207
+* 维护工程师：alex🐋.eth#3436
+🔗SIP-64:
+
+*https://forum.seedao.xyz/thread/sip-64-42529*
+
+期待以上成员在未来 3 个月为 SeeDAO 提供公共服务！  
+ **0****3****重要治理提案****市政厅第二季总预算**
+
+47 票同意 / 0 票反对 **通过！**
+
+🔗SIP-59: 
+
+*https://forum.seedao.xyz/thread/sip-59-42522*
+
+**修订治理元规则第二版 ( 第二轮投票 )**
+
+47 票同意 / 0 票反对 **通过！**
+
+🔗SIP-60: 
+
+*https://forum.seedao.xyz/thread/sip-60-42523* 
+
+**治理手册变动**47 票同意 / 0 票反对 **通过！**🔗SIP-61:*https://forum.seedao.xyz/thread/sip-61-42524*
+
+**第三季节点资格门槛设置投票**有效积分门槛：20000$SCR活跃度门槛：5000$SCR🔗SIP-65：*https://forum.seedao.xyz/thread/sip-65-42530*
+
+![](https://img.foresightnews.pro/202302/f8332e689388c73fb15998fc73963ae0.png?x-oss-process=style/scale70)[![](https://img.foresightnews.pro/202302/006a1b573da8b2d7c340dd76fb5d2498.jpeg?x-oss-process=style/scale70)](http://mp.weixin.qq.com/s?__biz=MzI3NDAzMjkwNg==&mid=2648425664&idx=1&sn=6d52ef4babb7a042a3c65c311723dec8&chksm=f33554a5c442ddb3e936dca6ade5bff650f0bfd9de72102c896f4b7ee54c7de271a4ea299077&scene=21#wechat_redirect)[![](https://img.foresightnews.pro/202302/554685e35e7afd08df82724d3b4f8928.png?x-oss-process=style/scale70)](http://mp.weixin.qq.com/s?__biz=MzI3NDAzMjkwNg==&mid=2648425600&idx=1&sn=9c53357673dd8cf13fb9390f98fbdcde&chksm=f33554e5c442ddf3b2108236ea1bd6ec8760a6684d612a5071488acbba54929748ad6cec2a67&scene=21#wechat_redirect)
+
+![](https://img.foresightnews.pro/202302/5928a80621d5faf2b4d926a279482b27.png?x-oss-process=style/scale70)
+

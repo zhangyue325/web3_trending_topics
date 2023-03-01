@@ -1,0 +1,288 @@
+*大家好，这里是歪脖山女外卖员协会，感谢大家一直以来的关注和支持，WWU 即将举办年度活动“2023 全球女性开发者大会”，活动预热如下文所述，竭诚欢迎大家的参与。***目录**
+
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+
+```
+活动背景报名方式活动议程嘉宾介绍活动福利合作伙伴关于 WWU
+```
+*编辑：Bonnie、Serene*
+
+  
+
+
+![](https://img.foresightnews.pro/202302/7018c181bc10dd935b9aa06eb3a6f2d2.png?x-oss-process=style/scale70)
+
+  
+
+
+**01.**
+
+**活动背景**  
+
+
+2023 年国际妇女节即将到来。今年，联合国妇女署将以 “数字包容：创新和技术推动性别平等 (DigitALL：Innovation and technology for gender equality)” 为主题。（[国际妇女节 2023 主题公布丨数字包容：创新和技术推动性别平等](https://mp.weixin.qq.com/s?__biz=MzA4ODQ4MDg4MA==&mid=2649009869&idx=1&sn=b616b05206f161f441d47e57b2ff7f00&scene=21#wechat_redirect)）
+
+  
+
+
+这一主题与即将举行的妇女地位委员会第 67 届会议 (CSW67) 的优先主题“数字化时代的创新、教育与技术变革·推动实现性别平等和赋权妇女与女童 ”相呼应，强调发展包容性技术创新和数字教育。
+
+  
+
+
+在 3 月 8 日国际妇女节即将来临的时刻，WWU 举办“2023 全球女性开发者峰会”，特邀技术女性与我们一同**学习、交流、成长**！
+
+  
+
+
+在技术浪潮快速冲刷各个产业的当下，为大众熟知的女性技术人却屈指可数。随着越来越多的女性投身技术浪潮，站在技术前沿的卓越女性们，应该被更多人看见！
+
+  
+
+
+在技术开发领域，**女性如何定位自身优势、抓住机遇乘风破浪？如何实现从技术研发到商业创新应用的转化？女性如何抓住新兴技术的浪潮？**
+
+  
+
+
+本次峰会邀请到不同领域的女性技术人，聚焦于**Web3.0、AI、深度学习、机器学习**等前沿技术，研究创新和对未来技术的思考，并开展深度对话，分享当下热门技术的发展、职业生涯经历、性别身份等话题，回溯各自的成长之旅和实践经验。
+
+  
+
+
+3 月 5 日，我们诚邀您的参与，与我们一起助力“数字包容：创新和技术推动性别平等”。
+
+  
+
+
+**02.**
+
+****报名方式****
+
+**活动时间****：**3 月 5 日（周日）13：30-17：00
+
+**活动地点：**
+
+线下：微软 Reactor 上海市徐汇区田林路 192 号 J 座
+
+线上：直播
+
+**主办方：**WWU
+
+**线下参与**（扫描下方二维码报名）
+
+![](https://img.foresightnews.pro/202302/9af7f81b95eac6fa5e7b995737947495.jpeg?x-oss-process=style/scale70)  
+
+
+**线上直播**  
+
+
+**思否：**https://ke.segmentfault.com/course/1650000043456000/section/1500000043456003
+
+**Bilibili:**http://live.bilibili.com/21704593
+
+**Youtube 直播：**https://youtube.com/live/9whc1SBs4Xc?feature=share
+
+  
+
+
+**活动交流群**
+
+![](https://img.foresightnews.pro/202302/6bef4dc2fe65671740124deb4958a4d2.png?x-oss-process=style/scale70)  
+
+
+**商务合作表单**
+
+![](https://img.foresightnews.pro/202302/b74a29c6d251dee869467071cf84b01b.jpeg?x-oss-process=style/scale70)  
+  
+
+
+**03.**
+
+**活动议程**
+
+13:00-13:15 开场与主办方介绍  
+
+
+13:15-14:00 参与 NFT 整体解决方案
+
+14:00-14:45 数据推动 ChatGPT
+
+14:45-15:30 解密联通现实世界与元宇宙的实时 AI 技术
+
+15:30-15:45 茶歇
+
+15:45-16:30 Milvus 向量数据库，加速 AI 技术落地的关键工具‍‍‍
+
+16:30-17:00 圆桌会谈：技术女性职业发展挑战与机遇 
+
+  
+
+
+**04.**
+
+**嘉宾介绍**
+
+**分享嘉宾**
+
+  
+![](https://img.foresightnews.pro/202302/a19c2e9044c75849e34606ad737d0f35.jpeg?x-oss-process=style/scale70)**张晴晴  北京爱数智慧科技有限公司（Magic Data）创始人兼 CEO**  
+
+
+**分享主题：数据推动 ChatGPT**
+
+张晴晴，北京爱数智慧科技有限公司（Magic Data）创始人兼 CEO。张晴晴博士是对话式 AI 先行者和 Data-Centric MLOps 引领者，毕业于中国科学院声学所，曾任中国科学院声学研究所副研究员，从事大词汇连续语音识别的声学建模以及语言建模。巴黎法国国家实验室 LIMSI-CNRS 语音交互处理博士后，从事大词汇连续语音识别声学建模。荣获《亿欧》2022 年 霓 - 中国青年女性创始人 TOP20，《财富》2021 年 中国最具影响力商界女性（未来榜），《创业邦》2021 年 最值得关注的女性创业者。张晴晴博士同时还是 CCF 语音对话与听觉专委会委员、智能汽车分会执行委员、女计算机工作者委员会委员、标准工作委员会委员。
+
+在张晴晴博士的带领下，Magic Data 致力于为全球人工智能领域研发企业和科研机构提供领先 AI 数据解决方案。产品包含数据处理工具 Annotator 智能化标注平台、AI 训练数据集和专业数据咨询服务。
+
+  
+
+
+![](https://img.foresightnews.pro/202302/73c4babfcbeef60e75b732fa9fbaa832.png?x-oss-process=style/scale70)**武卓博士 英特尔 AI 软件布道师**
+
+****分享主题：解密联通现实世界与元宇宙的实时 AI 技术****
+
+2006 年获得英国约克大学电子学博士学位。2006-2014 年就职于上海大学，担任副教授，研究生导师，主要负责无线通信领域算法研究，主持国家级及省部级科研项目十余项，发表论文二十余篇。2014-2018 年就职于贝尔实验室（中国）担任研究科学家，负责 5G 通信标准化及 AI 工业应用相关研究，已授权国际国内专利十余项。2018-2021 年任职于埃森哲（中国）有限公司，担任数据科学家，负责 AI 相关的行业解决方案制定及交付。2021 年 9 月加入英特尔，担任中国区 AI 布道师。
+
+  
+
+
+![](https://img.foresightnews.pro/202302/4c5adfc839a10a6f302aefae9fbab434.jpeg?x-oss-process=style/scale70)**Laura****1440 连续创业者**  
+
+
+****分享主题：参与 NFT 整体解决方案****
+
+包括教育，医疗，食品，体育，大健康等领域。码领十年，曾在淮阴师范大学与 csdn 联合教学，曾参与北京现代客户端研发，曾参与 O2O 线上应用整体解决方案，曾参与华中师范大学 K12 教育移动端解决方案，曾参与企业微信研发，曾参与盐城智慧政务移动驾驶舱项目，曾参与启迪国信移动安全应用，曾参与明易达数字化转型技术赋能，参与绿通就医，参与融生体育共益，码龄 10 年，16 年进入币圈，2022 年参与上海黑客松 socialfi 算法赛道，2022 web3 碳中和比赛导师，参与 relationlabs 项目荣获 web3 jam 2022 summer 最佳 web3 叙事奖，参与 gitcoin g15 女巫猎人冠军，参与 gamefi 代币经济模型研究，对区块链持续学习及创业中。大道至简，企业向善。
+
+  
+
+
+![](https://img.foresightnews.pro/202302/60d6dce7e7421ce562497439dfa812ee.jpeg?x-oss-process=style/scale70)**杨璇 Zilliz 高级工程师 武汉大学软件工程学术硕士**
+
+**分享主题：Milvus 向量数据库，加速 AI 技术落地的关键工具‍‍‍‍‍‍‍**
+
+杨璇进入 Zilliz 以来负责了多个模块的研发工作，目前负责 Milvus 分布式向量数据库的写链路，也是 PyMilvus 负责人。对分布式系统和数据库领域感兴趣。热爱开源文化，是上海 GDG 核心志愿者成员。工作之余爱好滑雪、摄影。她的 Github 账号是: XuanYang-cn。
+
+  
+
+
+**主持人 Host**
+
+![](https://img.foresightnews.pro/202302/16b905b760532081a70c5320e1b05d8a.jpeg?x-oss-process=style/scale70)**Shanshan**
+
+低调务实的 cool girl
+
+Shanshan's 3 lives：
+
+1.学习 健身 猫   
+
+2.旅行 滑雪 骑车
+
+3.工作 卷          
+
+  
+
+
+**05.**
+
+**活动福利**
+
+**到者有份，先到先选😉**
+
+Google WTM 布袋
+
+京东价值 799 英特尔第二代神经计算棒
+
+Intel logo 雨伞
+
+Intel logo 白色健身包
+
+MS Reactor 鼠标垫
+
+Magic Data 毛巾小熊礼包
+
+Zilliz- 玩偶  
+
+
+Zilliz 极客卫衣
+
+Zilliz-Milvus T 恤
+
+精美贴纸若干
+
+  
+![](https://img.foresightnews.pro/202302/cf9f8299a38d5179a4518def8b7039c3.png?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202302/ca52008d0588ee115b4db619cd43b928.jpeg?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202302/a6d5ccb3a78804be2aba3744c462dc12.png?x-oss-process=style/scale70)  
+
+
+**06.**
+
+**合作伙伴**
+
+![](https://img.foresightnews.pro/202302/1015d00c2b9ae63006669ab763499b51.jpeg?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202302/fd62c633f35ddf0294f881a1455685cc.png?x-oss-process=style/scale70)
+
+**更多赞助商和合作社区持续招募中......**  
+
+
+*感兴趣想合作的朋友们可以点击**阅读原文**，跳转合作表单链接🔗*  
+
+
+  
+
+
+**07.**
+
+**关于 WWU**
+
+**![](https://img.foresightnews.pro/202302/754d1bc67f2f4cfae9a415fb63eb5d66.png?x-oss-process=style/scale70)**
+
+**Web3 Women Union 致力于为 Web3 的女性提供一个开放包容的主题社区，聚集女孩的力量，关注女性成长。**我们将尽最大的努力鼓励越来越多的女性朋友在 Web3 中探索，通过最优化 Web3 女性资源 / 信息的整合，支持更多 Web3 女性传播个人影响力，让世界对 Web3 浪潮中的女性力量有更加包容开放的认知。  
+
+
+  
+
+
+[了解更多有关 WWU 的讯息及“加入我们”](http://mp.weixin.qq.com/s?__biz=MzIyNDczNDAzOQ==&mid=2247484626&idx=1&sn=4892e0070578127df4bbfea3a43e57d3&chksm=e80b3aeadf7cb3fc76fe6ac3f84e2d114795cafc31995158739f10eb6e2a056e48858626553a&scene=21#wechat_redirect)
+
+  
+
+
+**【WWU 的联系方式】**
+
+神马🐎?! 想要关注和加入 WWU 大本营没找到链接?
+
+（疯狂暗示）
+
+⬇️⬇️⬇️
+
+twitter.com/Web3WomenUnion
+
+discord.gg/zXHfE2auNg
+
+目前 WWU 在做纯女性社区，男性朋友们可以关注我们的公众号，了解并参与相关活动。  
+
+
+由于微信社群已满 200 人，公众号后台发送“1”可获取入群信息  
+
+
+![](https://img.foresightnews.pro/202302/11701eac80225ff74cffebb4b40e4226.jpeg?x-oss-process=style/scale70)请扫码添加小助手微信号加入“**歪脖山女外卖员接单群**”
+
+和姐妹们一起派单！
+
+web3womenunion@gmail.com
+
+商务合作请洽
+
+  
+
+
+Copyright@2023 Web3WomenUnion
+
+All Rights Reserved
+

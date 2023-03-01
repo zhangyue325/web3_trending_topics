@@ -1,0 +1,76 @@
+知名创投公司 Y Combinator 每年推出 2 期孵化计划，从全球申请者中筛选出具有发展潜力的公司组成 Winter Batch 和 Summer Batch。入选项目将获得 YC 提供的 50 万美元种子轮融资、创业建议以及业内资源。在 YC 最新孵化计划 Winter 2023 Batch 中，有 8 家加密初创公司入围，主要涉及 钱包、支付和隐私等基础设施领域。
+
+BlockBeats 对这 8 个项目进行梳理介绍，具体如下：
+
+Wallbit Pay
+-----------
+
+![](https://image.theblockbeats.info/upload/2023-02-23/1a6b5e68cbdc8b208e505e48ebe8638267116f91.png?x-oss-process=image/quality,q_50/watermark,image_d2F0ZXJtYXJrbmV3LnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzIw,g_center/format,jpg)
+
+Wallbit Pay 是一个专为远程工作者量身定制的支付平台，它可以让用户直接收取美元薪酬或加密货币，以及以 1% 的低手续费将美元换成加密货币，而无需多个中间交易平台，从而节省手续费。Wallbit Pay 旨在大大改善远程工作者从国外接收资金的方式。
+
+官网：https://wallbit.io
+
+Map3
+----
+
+![](https://image.theblockbeats.info/upload/2023-02-23/217440fffbd592da990cefd93dedadd586674c5c.png?x-oss-process=image/quality,q_50/watermark,image_d2F0ZXJtYXJrbmV3LnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzIw,g_center/format,jpg)
+
+Map3 将加密服务连接到钱包、交易所和桥接器，以实现跨链存款，提供实时 gas，并通过开放协议将用户直接连接到 250 多个钱包和交易所，大大降低了发送到错误链、地址的可能性。此外，Map3 还提供了集成跨链桥接的付款和存款，无需更改后端，形成无缝支付。
+
+官网：https://map3.xyz
+
+Littio
+------
+
+![](https://image.theblockbeats.info/upload/2023-02-23/c3352b69ed1e2959f174f28ce0aca5225b0aed57.png?x-oss-process=image/quality,q_50/watermark,image_d2F0ZXJtYXJrbmV3LnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzIw,g_center/format,jpg)
+
+Littio 是为拉丁美洲人民量身定制的 USDC 数字美元银行账户，它提供 USDC 储蓄和万事达借记卡的便捷访问方式，让用户可以方便地存储、发送和接收美元。Littio 旨在帮助拉丁美洲人民保护自己的储蓄，使其免受本国货币贬值的影响。
+
+官网：https://www.littio.co/
+
+Koywe
+-----
+
+![](https://image.theblockbeats.info/upload/2023-02-23/840849e48bb0ef8283eeb75ff64b85193c15a5df.png?x-oss-process=image/quality,q_50/watermark,image_d2F0ZXJtYXJrbmV3LnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzIw,g_center/format,jpg)
+
+Koywe 提供简单、文档齐全且完全合规的支付 API 和 SDK，以便任何开发人员都可以立即开始利用加密技术提供汇款、美元钱包和投资等服务，让企业和个人轻松地在本地法定货币和加密货币之间进行转换。
+
+官网：https://koywe.com
+
+Magik
+-----
+
+![](https://image.theblockbeats.info/upload/2023-02-23/fc0ef393546246e10451c7c290eb8e204cea878e.png?x-oss-process=image/quality,q_50/watermark,image_d2F0ZXJtYXJrbmV3LnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzIw,g_center/format,jpg)
+
+Magik 是一家全球性的法定货币转换加密货币的聚合器，它可以帮助 web3 应用程序接受来自世界各地的付款，消除了 web3 应用程序需要与不同地理区域的多个上行集成的需求。此外，Magik 的 SDK 聚合了入口提供商，以便为用户获得最佳汇率和最低费用。
+
+官网：https://magiklabs.io
+
+ZeroDev
+-------
+
+![](https://image.theblockbeats.info/upload/2023-02-23/6fc9474ece8079f00c830b0f92c84a113af0fa88.png?x-oss-process=image/quality,q_50/watermark,image_d2F0ZXJtYXJrbmV3LnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzIw,g_center/format,jpg)
+
+ZeroDev 是一个建立在 ERC-4337 之上的 SDK，用于构建由帐户抽象 (account abstraction 简称 AA) 提供支持的 Web3 应用程序。使用 ZeroDev 可以创建易于使用的应用程序，用户可以无需助记词而通过好友恢复账户、允许第三方支付用户完全跳过 GAS、合并交易步骤以改善用户体验，节省时间和成本并提高安全性。
+
+官网：https://zerodev.app/
+
+Chataverse
+----------
+
+![](https://image.theblockbeats.info/upload/2023-02-23/169daf78bd48ce054208beab11752ac1c69395ff.png?x-oss-process=image/quality,q_50/watermark,image_d2F0ZXJtYXJrbmV3LnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzIw,g_center/format,jpg)
+
+Chataverse 是一款 NFT 社区消息传递应用程序，它使 NFT 持有者和创作者能够以透明和加密的方式进行交流、社交和治理。Chataverse 内置了社区管理工具，可以一键空投奖励，用户可以直接在 NFT 社区中为新提案投票，创建和参加社区举办的活动，多个链的钱包聚合到一个身份以显示独特的 NFT 个人资料页面等。Chataverse 将自己定位为 NFT 社区的加密原生 Discord。
+
+官网：https://chataverse.io/
+
+Blyss SDK
+---------
+
+![](https://image.theblockbeats.info/upload/2023-02-23/cec1d2203d76ff3733a831f0cf15d73ba0969b1c.png?x-oss-process=image/quality,q_50/watermark,image_d2F0ZXJtYXJrbmV3LnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzIw,g_center/format,jpg)
+
+Blyss SDK 使用同态加密作为用于增强隐私的新技术，可以创建存储桶，将数据写入其中，并从中进行私人检索，使得用户可以在不泄露自己密码信息的同时检查自己是否已暴露在数据泄露中，在浏览器私下解析 DNS 而不会看到用户访问的每个网站，软件漏洞扫描程序也看不到客户的代码库或扫描结果。Blyss SDK 旨在启用新的隐私保护应用程序，为每一位开发者带来这一新的隐私领域。
+
+官网：https://blyss.dev/
+

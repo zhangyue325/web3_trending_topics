@@ -1,0 +1,105 @@
+Real Yield, DeFi’s nectar of the Gods, is likened to be the purest forms of yield one can find onchain. The sustainable nature of Real Yield made it extremely attractive to yield farmers looking for long term yield. Instead of relying on excessive token emissions, Real Yield protocols provide yield through actual protocol revenue. Likened to profit sharing, protocol revenue is typically from trading fees in the protocol.
+
+![](https://img.foresightnews.pro/202302/db04b5920a64a8098c2c4059a4741551.png?x-oss-process=style/scale70)Heralded as one of the pioneers in the Real Yield space, GMX is a popular perpetuals trading platform. It uses GLP, which is an index of assets such as BTC, ETH and stablecoins, as liquidity for trading. 70% of platform fees from user trades and trader losses are distributed to GLP stakers in either ETH or AVAX. Being one of the top fee generators in DeFi and distributing most of that to stakers has led to a war for the sweet, juicy yield from GLP.
+
+![](https://img.foresightnews.pro/202302/a1795377e5a60bcc9584c6365819a623?x-oss-process=style/scale70)[DeFi fees on 11th February](https://cryptofees.info/)Demand for GLP has skyrocketed since the launch of GMX. The Total Value Locked in GMX is over $500M, and has been up only since genesis. It is just natural that other protocols want a portion of this yield , thus leading to the GLP Wars.
+
+![](https://img.foresightnews.pro/202302/78a54fe041ffefb6898bcc449fbd3cfc?x-oss-process=style/scale70)[GMX TVL on 11th February](https://defillama.com/protocol/gmx)GLP, is a liquidity pool similar to Uniswap’s LPs, where it comprises a basket of coins shown in the figure below. With GLP being 48% stablecoins and 52% other coins, it is prone to fluctuations in value due to directional exposure of the volatility of coins such as BTC, ETH. Users are incentivized to stake GLP to earn from trader losses as well as yield in the form of esGMX and 70% of platform fees.
+
+![](https://img.foresightnews.pro/202302/2f1ed2f5fb9e9add1e61336e807a330b?x-oss-process=style/scale70)[GLP composition](https://app.gmx.io/#/dashboard)However, GLP stakers may still lose money despite the yield they receive, due to market exposure. The chart below shows the returns of GLP compared to the rewards. Since inception, GLP has had a -13% return due to its directional market exposure.
+
+![](https://img.foresightnews.pro/202302/c9041be28c435a499e768c1d54dd49a5?x-oss-process=style/scale70)[GLP returns](https://twitter.com/ape_rture)GLP was also paid in ETH or AVAX, so users had to manually claim the rewards. This means that the yield provided was not autocompounded and maximized. Users will have to spend gas fees to manually claim, purchase GLP and stake it. Despite Arbitrum and Avalanche having low fees, compounding many times manually would definitely rack up large amounts of fees.
+
+Various protocols took notice of this golden opportunity available on GLP. What if GLP was hedged against directional exposure? What if yield could be leveraged? What if yield could be autocompounded? What if GLP could be used as collateral? These questions led to the birth of the GLP Wars
+
+![](https://img.foresightnews.pro/202302/76ef2fed2810deac80a2be559007ddf9?x-oss-process=style/scale70)GLP holdings comparison across protocolsPlututsDAO is a yield aggregator that aggregates governance towards its native token PLS. It offers liquid staking for veAssets such as veJones, veDPX or veSPA. For GLP integration, they allow users to deposit GLP for plvGLP that unlocks greater capabilities.
+
+With plvGLP, ETH rewards will be autocompounded every 8 hours. This results in a growing value of plvGLP and higher APY due to autocompounding. PLS tokens are also distributed to plvGLP stakers as liquidity mining incentives. 10% of GLP yield is taken by Plutus as fees.
+
+plvGLP also unlocks greater composability with other protocols. Regular GLP can only be staked on GMX, and does not integrate with other protocols. plvGLP solves this by partnering with various protocols for borrowing/lending, asset management.
+
+Through Lodestar Finance and Vendor Finance, users can lend plvGLP to borrow or lend against it. The use of plvGLP as collateral allows for better strategies that users can do. They can take a leveraged long or short position as well as manually perform delta neutral strategies through borrowing BTC and ETH. For more information on the various strategies, bobdbldr details them [here](https://twitter.com/0xBobdbldr/status/1595929884320157696).
+
+Recently, Plutus has also partnered with FactorDAO to enable asset management. This allows for Factor strategists to utilize Plutus products and create new usecases. One potential usecase is a Plutus index vault that aggregates all plsAssets and diversifies yield sources.
+
+They are also exploring further integration opportunities with Rodeo, Dolomite and others.
+
+Mugen Finance is one of the earliest builders on GMX. Mugen is a cross-chain yield aggregator built on top of LayerZero. Users can farm yield from multiple on multiple chains. It can be likened to Yearn Finance on LayerZero. Currently, they have only one strategy live on their platform, which is the GLP strategy
+
+The GLP strategy is performed by Mugen’s treasury, according to the amount of funds whitelisted for the strategy. The treasury receives yield through minting and staking GLP. Users who deposit funds into Mugen will mint the native token MGN. Staked Mugen in the form of xMugen will then receive ETH yield from the treasury.
+
+Users can also opt for autocompounding of yield. ETH yield will be used to purchase MGN and staked. This helps to increase the yield APY as the yield can be compounded more often compared to manual compounding.
+
+Mugen’s strategy is basic but allows for diversification for yield farmers and autocompounding of yield. In the future, more protocols would be integrated and users would be able to receive yield from multiple sources and chains just by staking MGN.
+
+![](https://img.foresightnews.pro/202302/1194080ec71cd1fc7e90044f2a6942f7?x-oss-process=style/scale70)Simplified flow for Mugen FinanceVesta Finance is a collateralized debt platform for users to lock collateral and mint Vesta’s stablecoin VST. GLP is one of the collateral accepted by Vesta to enable increased possibilities for users. Users can deposit GLP to take a loan of VST and maximize their capital efficiency.
+
+VST can be staked in their pools to earn a 10–40% yield on the stablecoin depending on the lockup period. At a collateralization ratio of 150%, the yield on VST will be 6.7% — 26.7%. Overall, the GLP yield can be increased to about 46.7% without any directional exposure.
+
+Vesta also allows for leveraged positions on GLP yield. Similar to Degenbox, users can deposit GLP to take a VST loan, then use it to purchase more GLP. This process is repeated multiple times to obtain a greater leveraged position. At a collateralization ratio of 120%, a 6x leveraged position is possible, that provides almost 120% APY.
+
+![](https://img.foresightnews.pro/202302/d40e16320172fc631b8e4d2c9d0faa3c?x-oss-process=style/scale70)However, this strategy comes with directional risk of volatile assets such as BTC and ETH, and thus liquidation risks. Risk DAO has a [great article](https://medium.com/risk-dao/vesta-finance-system-parameterization-risk-analysis-b52aaf7b56e5) on the risks of Vesta Finance and the safety of its current configurations.
+
+Unstoppable Finance provides a completely free autocompounder for GLP holders. There are no fees for using the autocompounder, compared to other protocols that charge fees on yield or deposit. This helps to save gas costs for users who wish to compound their rewards. Its vault is also built using the ERC4626 tokenised vault standard, allowing for anyone to build on top of its vaults.
+
+They also have a novel mechanism called TriGLP that is still in the works. It aims to tokenize GLP into stableGLP and cryptoGLP, earning different amounts of yield based on the risk they take. They aim to create a delta neutral stablecoin-like position earning ~10% APR without exposure to volatility and a crypto-like position earning ~30% APR while keeping full ETH/BTC exposure.
+
+![](https://img.foresightnews.pro/202302/1bb212b0942265afe2e66f21d19b02c9?x-oss-process=style/scale70)[TriGLP mechanism](https://unstoppabledefi.medium.com/triglp-earn-10-realyield-on-stables-and-30-on-eth-btc-154d59bc5fd1)GMD Protocol is another yield aggregator offering additional features. GMD aims to alleviate the issue of GLP’s directional exposure by offering a pseudo-delta-neutral strategy.
+
+It offers single stake vaults for BTC, ETH and USDC that have deposit limits based on GLP’s relative ratio for USDC, ETH, and BTC. These assets in vaults will be used to mint GLP and earn yields. This allows for users to maintain pseudo delta neutrality against the asset they deposited. For example, a user that wants to earn yield on their USDC without exposure to BTC, ETH or other coins in GLP, can simply deposit into GMD’s USDC vault to receive a portion of GLP yield.
+
+The pseudo-delta-neutral strategy uses a ratio based on GLP’s composition of USDC, ETH and BTC. Over time, the amount allocated to the 3 vaults on GMD will be manually rebalanced every week to mimic the composition of GLP. Instead of rebalancing user funds, GMD Protocol will have deposited 5–15% of the maximum total value of the Delta-Neutral Vaults to rebalance instead. This helps to alleviate any low reserve issues as there will always be liquidity from the protocol itself available for withdrawal.
+
+To further reduce the risks of volatility from smaller assets such as Uniswap in GLP, GMD offers a protocol reserve that consists of GLP worth 5%-15% of TVL. This protocol reserve is funded by the Treasury and will be used to compensate users in case the value of users’ assets is lower than the GLP value. GMD believes that in the long run, the protocol reserve will only grow because it gains in value from GMX trader losses.
+
+![](https://img.foresightnews.pro/202302/cac199b840d1308128388477ea883b02?x-oss-process=style/scale70)[GMD working mechanism](https://gmd-protocol.gitbook.io/gmd-protocol/delta-neutral-vaults/working-mechanism)In terms of actual performance, the 3 vaults have a 2.6%-2.9% return during the period of 11/12/22–12/2/23. Extrapolating these results, the APY is around 16.6% — 18.7%, which is slightly less than the advertised 20% — 26% APY.
+
+![](https://img.foresightnews.pro/202302/15281ffe1a2b58cfd82e0e089c5d6e94?x-oss-process=style/scale70)[GMD Vault Performance](https://stats.gmdprotocol.com/)While GMD tries to be delta neutral, it does not have any short exposure to remain truly delta neutral. The protocol itself requires a reserve to act as a backstop against impermanent loss. This also limits GMD in terms of scalability as the vaults cannot grow too large without enough reserves that are 5%-15% of TVL. They can only scale to larger TVL based on the performance of the protocol reserve. So far, the GLP reserve is breakeven which limits GMD in expanding their vaults.
+
+![](https://img.foresightnews.pro/202302/1028daeaea724c66a3167be83aecd31e?x-oss-process=style/scale70)[GMD reserve performance](https://stats.gmdprotocol.com/)Yield Yak is an auto-compounder built on Avalanche. Users are incentivized to compound rewards for everyone in the pool with AVAX rewards for clicking the reinvest button.
+
+Thanks to Avalanche Rush, a $180M Incentive Program by Avalanche, Yield Yak is able to offer increased rewards for depositors. GLP strategy depositors will receive up to $300k in AVAX from Avalanche Rush. Moreover, Yield Yak stakes esGMX perpetually in order to maximize GLP rewards.
+
+Yield Yak has also upgraded Yak Swap to optimize GLP swaps. Yak Swap helps to rebalance GLP towards the intended index weights by automatically choosing the optimal path to swap assets to GLP. This reduces slippage for users while helping GMX to have the correct ratio of assets.
+
+![](https://img.foresightnews.pro/202302/d49afe9f79e3aef4c9b728f54ff5bc92?x-oss-process=style/scale70)Rage Trade is a LayerZero enabled perpetuals trading platform on Arbitrum.They are the first to launch a dual vault system for minimizing directional market exposure. They have the Risk-Off Vault and Risk-On Vault to minimize BTC and ETH exposure by shorting them on Aave and Uniswap.
+
+Users deposit sGLP or USDC into the Risk-On Vault which takes a flash loan of BTC and ETH on Balancer to sell for USDC on Uniswap. This USDC from the Uniswap transaction, together with some USDC from the Risk-Off Vault, is then deposited into AAVE to borrow BTC and ETH which will repay the flash loan from Balancer. This effectively creates a short position on AAVE as the Risk-On Vault has now borrowed BTC and ETH.
+
+Another important feature of the Risk-Off Vault is to provide collateral to the Risk-On Vault, in order to maintain a 1.5 health factor on the AAVE borrows. Every 12 hours, this position is reopened to harvest fees, rebalance PnL between shorts on AAVE and GLP collateral as well as rebalance the hedge based on GLP deposits’ compositions.
+
+![](https://img.foresightnews.pro/202302/91e0233b5522bbe1062bb6203ea510fb?x-oss-process=style/scale70)[Risk-On Vault mechanism](https://docs.rage.trade/ylC5-mechanism)![](https://img.foresightnews.pro/202302/254467e9a7eb66c4e2e3a775b74b6150?x-oss-process=style/scale70)[Risk-Off Vault mechanism](https://docs.rage.trade/ylC5-mechanism)In terms of the Risk-On Vault’s performance in comparison to GLP, theoretically it returns a profit of about 25% compared to GLP’s -13%.
+
+![](https://img.foresightnews.pro/202302/db5f25f36d947b19b02c72e54e3d1840?x-oss-process=style/scale70)[Vault performance comparison](https://twitter.com/ape_rture)However, currently the Risk-On Vault has a -1.2% return mainly due to high costs of hedging against directional exposure and trader wins causing a loss of GLP value. After Rage Trade completes its 2nd audit and increases its deposit cap, they will be able to significantly reduce their hedging costs. To hedge against traders’ PnL, Rage Trade will offer the option to partially or fully hedge against trader PnL. These will be in the form of separate vaults for users to deposit in if they wish.
+
+Jones DAO is a yield, strategy and liquidity protocol that enables for better capital efficiency. They rely on a dual vault mechanism to deliver leveraged yield for users. Their jGLP vault allows for deposits of GLP and any asset inside GLP. The jUSDC vault accepts USDC deposits.
+
+USDC from the jUSDC vault is used to mint more GLP and obtain a leveraged position on GLP. GLP rewards are then split between jGLP and jUSDC depositors to earn 33% and 11.3% APY respectively. The jGLP vault will automatically balance its leverage to prevent liquidations. Users can also opt for optional autocompounding.
+
+![](https://img.foresightnews.pro/202302/2d3aae5ae8e1126f80065d46aca6d53d?x-oss-process=style/scale70)Jones DAO protocol mechanismThe fee structure for Jones DAO is as follows. Their unique structure is built for long term growth as users who are still staked receive fees from those who unstake, encouraging users to continue staking in Jones DAO.
+
+![](https://img.foresightnews.pro/202302/82d850f23f2e69b76b39fd6bd1a9d6eb?x-oss-process=style/scale70)[Fee structure](https://docs.jonesdao.io/jones-dao/features/incentives)The greater the USDC deposited into jUSDC vault, the more GLP can be purchased, leading to higher leverage. The chart below shows jUSDC APY against vault utilization, where at 35% GLP yield, jUSDC yield can go up to almost 20% due to the increased leverage.
+
+![](https://img.foresightnews.pro/202302/bc97e91ad30c49dbaac5b4d3cbe3c7e9?x-oss-process=style/scale70)[jUSDC APY against vault utilization](https://docs.jonesdao.io/jones-dao/features/understanding-jusdc-and-jglp)In terms of performance, jGLP does not hedge against market exposure and in fact amplifies it. This means that the jGLP vault’s actual performance depends on market conditions. Backtesting against 0% GLP yield and 80% utilization shows that jGLP outperforms ETH. The results would probably be better when including GLP yield.
+
+![](https://img.foresightnews.pro/202302/cdacc06a838c77583aee9d4a24cafe8f?x-oss-process=style/scale70)[jUSDC and jGLP performance against ETH](https://twitter.com/pt1mfv_/status/1624588389574901760?s=20)Abracadabra is a lending platform with its own stablecoin MIM that can be borrowed using interest bearing collateral. Abracadabra introduces magicGLP, an auto-compounder for GLP tokens. ETH yield from farming GLP is used to purchase more GLP which is converted into magicGLP.
+
+Using MIM from the platform, users can also choose to leverage their positions up to 4x in order to receive up to 84% APY on their GLP.
+
+Steadefi is a platform offering automated leveraged yield strategies. They currently have a vault offering a 3x leveraged position on GLP.
+
+For every $1 a user deposits into the vault, $2 is borrowed from lending pools to mint GLP. This effectively creates a 3x leveraged position that is automatically compounded over time and rebalanced when necessary.
+
+![](https://img.foresightnews.pro/202302/db6609c5b040657c36ee0735475ef1bb?x-oss-process=style/scale70)[Steadefi mechanism](https://blog.steadefi.com/the-glp-3x-long-vault-on-avax)Performance wise, Steadefi’s vaults outperform GLP with a 89.8% PnL compared to GLP’s 12.3% PnL, a 7x better yield.
+
+![](https://img.foresightnews.pro/202302/87f5ef0bf42336cc0c7c608bf8a5e234?x-oss-process=style/scale70)[Steadefi’s performance compared to GLP](https://blog.steadefi.com/the-glp-3x-long-vault-on-avax#6519a9a34a704f9287e31836903a1fdf)![](https://img.foresightnews.pro/202302/381f1d7df8147912995803ac0c2facf2?x-oss-process=style/scale70)Umami Finance is expected to launch v2 of its GLP vault. They will be offering an algorithmic hedging strategy. They are still backtesting and optimizing their vaults, which have a last reported APY of 26.7%.
+
+![](https://img.foresightnews.pro/202302/f8756f083cc64844494fbbf23ed928d7?x-oss-process=style/scale70)[Umami backtesting results](https://umamifinance.medium.com/umami-v2-glp-vaults-initial-backtesting-results-and-analysis-7bd2bf3838bc)Yama Finance is building an omnichain stablecoin that is optimized for maximum capital efficiency, speed, and security. They are yet to launch on Arbitrum together with their leveraged GLP yield.
+
+Yama is able to offer up to 101x leverage, allowing for better yield farming opportunities. For GLP, they have limited it to 17x, bringing the APY to 333% (assuming GLP yield is 19.6%). They have yet to detail the mechanism of their leveraged GLP yield farming. However, it would likely involve borrowers using GLP collateral to borrow YAMA and obtain a leveraged position to get more yield.
+
+With countless protocols building on top of GLP and the millions of TVL in each of these protocols, there is a clear demand and supply for GLP based products. The composability of DeFi has allowed for it to have various use cases such as leveraged yield, autocompounding and borrowing/lending. As GMX grows even bigger, it is likely that more protocols would integrate GLP into their protocol mechanisms. However, there is a risk that GLP may be fully drained by traders winning their trades and withdrawing assets from GLP. Future protocols should likely try to hedge against trader PnL to ensure that risks are mitigated.
+
+*Disclaimer: None of the information above constitutes investment advice. Additionally, one of the projects mentioned above, Rage Trade is one of our portfolio investments, you can read more about our thesis*[*here*](https://bixinventures.medium.com/portfolio-insights-enabling-omni-chain-liquidity-with-rage-trade-11dbbcb9948)*.*
+
+![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=5e9693d8935f)

@@ -1,0 +1,130 @@
+  
+![](https://img.foresightnews.pro/202302/92bb2ff1262fecf03535f4b16720c7ee.jpeg?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202302/d710c3aae45dbe41481a4132a2b03e13.png?x-oss-process=style/scale70)
+
+  
+如何让自己的 ICP 质押收益最大化是困扰很多进入 ICP 圈小伙伴的难题，因为 ICP 的质押和传统 POS 质押系统不太相同，涉及到的因素很多。  
+我将详细为大家讲述一下 ICP 质押的影响因素，治理跟随设置，在 OpenChat 里便捷手动投票的方法以及一个实用的质押收益计算器。  
+我相信通过这个讲解，你将深入了解提高 ICP 质押收益的方法，好的，让我们开始吧。  
+首先大家需要了解的是质押收益根据 Voting Power 来计算的。  
+**Voting power =（ICP staked + maturity staked）x Dissolve Delay Bonus x Age Bonus**  
+![](https://img.foresightnews.pro/202302/e851f4506e424489f88235f4ac6e1fa4.jpeg?x-oss-process=style/scale70)
+
+  
+因此我们根据这个公式，总结一下涉及到的四个因素。  
+**四个因素**  
+* **质押代币数量**
+
+  
+这个很好理解，质押的 ICP 数量越多，你的收益越大。  
+* **质押时长**
+
+  
+![](https://img.foresightnews.pro/202302/d19effcc6b0f3b51456d89fdcabe38b4.jpeg?x-oss-process=style/scale70)
+
+  
+大家可以通过 IC 仪表板的治理页面查看预估的质押年化收益，最低的获取质押收益的年限是半年，收益是年化 9.6%，随着质押时间越长，年化收益就越高，目前最高的 8 年质押收益为 18.1%，这个年化会随着 ICP 增发的降低逐渐降低。  
+这里还有一个概念是：神经元是否是为解锁状态，当你在神经元里点击了 Start Dissolving 时，你的神经元就进入了倒计时溶解的状态，每过一天，质押时长就会减少一天，直至时间为 0，你质押的 ICP 就可以从神经元里取出来了。  
+如果你没有解锁神经元，那你的神经元就会一直保持你设置的质押时间，这样的好处是，你可以享受年龄奖励的加成，这个我接下来会讲。  
+IC Dashboard：  
+* dashboard.internetcomputer.org/governance
+
+  
+* **年龄奖励**
+
+  
+![](https://img.foresightnews.pro/202302/1408842f039837e969d58c07e8c2f3d2.jpeg?x-oss-process=style/scale70)
+
+  
+从质押锁定的第一天开始，持续增加，4 年增加到最大的质押奖励率也就是 1.25 倍，但当你一旦点击了解锁，年龄奖励就归 0 了，就不能享受年龄奖励加成了，所以在你点击解锁时一定要慎重。  
+上面这个截屏展示的是 8YearGangDAO 的命名神经元有 4.9% 的年龄奖励，所以质押收益比标准的 8 年质押收益 18.1% 高了一点，达到了 19%，就是这个年龄奖励加成的原因。  
+* **是否复利**
+
+  
+![](https://img.foresightnews.pro/202302/c045b8c2ae547964a91de5bdab9765a9.jpeg?x-oss-process=style/scale70)
+
+  
+神经元具有自动复利的功能，一旦打开，默认就会进行复利操作，从而获得收益最大化，后面我会分享一个计算器，可以看到复利收益和非复利收益的差距。  
+**投票跟随**  
+![](https://img.foresightnews.pro/202302/51e6af1836caa59d6d8836cf729ff975.jpeg?x-oss-process=style/scale70)
+
+  
+投票对于获得质押收益是至关重要的，因为 ICP 不是标准的 POS 奖励系统，而是基于治理的奖励系统，也就是说你除了要质押 ICP 代币，必须参与治理投票才能够获得奖励。  
+所以在大伙质押 ICP 后一定要设置跟随的神经元或者手动投票，否则就算你质押 10 万个 ICP，不投票也完全不能获得收益，因此神经元的治理跟随非常重要。那如何正确设置神经元的跟随呢？我给大家做个介绍。  
+我建议大家对于治理提案以及 SNS CommunityFund 跟随 8YearGangDAO 进行投票，首先因为治理提案的权重比其他提案更高，其次 Dfinity 和 ICA 经常不会对治理提案投票，如果你跟随了 Dfinity 或者 ICA，他们不投治理提案，你的神经元如果跟随了他们，你也就放弃了投票，这就意味着你无法获得收益，导致收益大大降低！  
+因此我建议大家都跟随 8YearGangDAO 神经元，理由如下：  
+* 8YearGangDAO 是真正建立在 8Year 质押者社区共识基础上的命名神经元，它的使命就是代表 8YearGang 社区发声，也是 IC 最中坚的力量之一；
+* 8YearGangDAO 会分析每一条治理提案，并发表在官方博客和官方 Twitter 上，对于治理方面的经验非常丰富；
+* 8YearGangDAO 不但会做文字的翻译，我们也会点评治理提案，为社区分析提案的优劣性供社区参考，是真正的 NNS 治理建设者；
+* 我们每一个治理提案都会审慎对待，确保不错过每一个提案的投票，保证大家的质押收益。
+
+  
+对于其他类型的提案，我们建议大家可以跟随 ICA 或者 Dfinity 都是可以的。  
+**在 OpenChat 里手动投票的方法**
+
+  
+如果你想手动投票，每次登陆神经元投票比较麻烦，有没有更简单的方式可以投票呢？当然有，如果你是 OpenChat 的用户，你可以通过简单地设置几步，就可以直接在 OpenChat 里对 NNS 提案进行投票了。  
+下面我将给大家介绍方法：‍  
+* 首先登录到 OpenChat，在自己的 Profile Settings 里找到 User ID 也就是你自己的 Canister ID，复制一下；
+* 登陆到 NNS，在你的神经元里的添加一个 Hot keys，粘贴刚才的 ID，点击确认；
+
+  
+![](https://img.foresightnews.pro/202302/c7ec3e8b964d871a1eb470c254dbcce9.jpeg?x-oss-process=style/scale70)
+
+  
+* 在 OpenChat 里搜索到 NNS Proposals 群组后，加入；
+* 点击群配置的过滤按钮，只打开 Governance 和 SNS CommunityFund 就可以了，这样每次有这两类提案，你就可以直接在 OpenChat 里进行手动投票了，OpenChat 不用每次登录，比 NNS 简单多了，你很快就可以完成手动投票了。
+
+  
+**质押收益计算器**  
+![](https://img.foresightnews.pro/202302/9802298a16db1faf28066dd30d3f0013.jpeg?x-oss-process=style/scale70)
+
+  
+根据质押的 ICP 数量、时长以及是否复利，很多小伙伴不知道如何计算未来收益，这里我给大家分享一个工具可以方便进行计算。  
+这个表格是从 2022 年 5 月 11 日开始计算，质押收益率以及综合了年龄奖励的最终收益率都会帮你逐天的展示出来，最重要的是分别展示了 8 年复利质押和 8 年非复利质押的差别。  
+通过表格我们可以看到，如果你初始质押了 1000 个 ICP，到 2029 年 5 月 11 日，复利模式下，你将获得总计 3186.75 个 ICP，届时你每天可以获得 1.24 个 ICP 的奖励。  
+非复利模式下，你将获得总计 2159.27 个 ICP，届时你每天可以获得 0.39 个 ICP。  
+**请参考这个 Excel 表格**：  
+* docs.google.com/spreadsheets/d/1vW9v4MnJIehLthY17gors0HjRWNG7b3Gp7PegriC8jI/edit?usp=sharing
+
+  
+![](https://img.foresightnews.pro/202302/373f6844ae608c9783c5dafa1bdb06e4.png?x-oss-process=style/scale70)
+
+  
+来源：8YearGangDAO排版：Catherine  
+  
+**-****往****期****推****荐****-**
+
+  
+
+
+[**2022 年 ICP 的巨大增长延续到 2023 年第一季度**](http://mp.weixin.qq.com/s?__biz=MzU1ODA4MjE5Ng==&mid=2247494817&idx=1&sn=a9996eb104743347d91fa9c025d6aefe&chksm=fc295d5acb5ed44c113ba73ec668a083a28c2d6dc977394a0d2b5271865759b4d227f0192e00&scene=21#wechat_redirect)  
+
+
+[**链反应 - 在 ICP.Lab 释放区块链的力量**](http://mp.weixin.qq.com/s?__biz=MzU1ODA4MjE5Ng==&mid=2247494772&idx=1&sn=eba2e63cc297c78aed6f07251ef6f580&chksm=fc295d8fcb5ed49967ad6044327d81f7f477b757f7f861a68580e098f0c6a77afa10212887d0&scene=21#wechat_redirect)  
+
+
+[**“100% 意大利制造”品牌利用互联网计算机协议**](http://mp.weixin.qq.com/s?__biz=MzU1ODA4MjE5Ng==&mid=2247494771&idx=1&sn=a7fba6c1a68351721258119a48ecbaea&chksm=fc295d88cb5ed49edb96ea995e4b1a4d6ba342aeb09a6461e3ba0d13b9c98fc7aeb2d03a9cbd&scene=21#wechat_redirect)  
+
+
+  
+
+
+  
+
+
+![](https://img.foresightnews.pro/202302/9ee2f9449768bb09dae0328fa9c9bd3b.gif?x-oss-process=style/scale70)  
+  
+**你关心的 IC 内容**技术进展 **|** 项目信息 **|** 全球活动 **![](https://img.foresightnews.pro/202302/152822ec49f5fcfe5fd7f77ae1410a85.png?x-oss-process=style/scale70)**长按关注 IC 微信公众号
+
+掌握最新资讯
+
+  
+
+
+＊添加小助手微信 comiocn 进交流社群
+
+  
+
+

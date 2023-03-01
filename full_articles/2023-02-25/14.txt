@@ -1,0 +1,120 @@
+### 【1】Huma Finance
+
+金额：830 万美元
+
+轮数：种子轮
+
+时间：2 月 23 日
+
+投资机构：Race Capital 、Distributed Global 、ParaFi Capital 、Circle Ventures 、Robot Ventures
+
+项目类型：DeFi、信用借贷
+
+项目介绍：Huma Finance 是一个 DeFi 项目，允许用户在没有抵押的情况下借入未来的收入流。相同的用户还可以为流动资金池做出贡献，在支持社区的同时从闲置资金中获得奖励
+
+官网地址：<https://huma.finance/>
+
+推特：<https://twitter.com/humafinance>
+
+### 【2】Chain Reaction
+
+金额：7000 万美元
+
+轮数：C 轮
+
+时间：2 月 23 日
+
+投资机构：Morgan Creek Digital 、Hanaco Ventures 、Jerusalem Venture Partners 、KCK Capital 、Exor 、Atreides Management 、Blue Run Ventures
+
+项目类型：基础设施、矿业
+
+项目介绍：Chain Reaction 正在通过加速计算性能来设计颠覆性区块链和隐私技术的未来。该公司与云服务商和数据中心合作，使用定制 ASIC 和系统改造计算基础设施，优化节能、高性能计算。其 3PU™（隐私保护处理单元）极大地加速了隐私增强技术对加密数据的实时操作，将云转变为可信环境，使依赖隐私大数据的垂直行业能够使用云（包括金融机构、医疗保健和大型制药、国防和政府以及石油和天然气）
+
+官网地址：<https://www.chain-reaction.io/>
+
+领英：<https://linkedin.com/company/chainreaction>
+
+### 【3】Tsunami Finance
+
+金额：130 万美元
+
+轮数：Pre 种子轮
+
+时间：2 月 24 日
+
+投资机构：Big Brain Holdings 、Mirana Ventures 、Brilliance Ventures 、Coral DeFi 、Zeta Markets 、Hedge 、Pontem Network 、Builder Capital 、Switchboard 、RNR Capital 、Marin Digital Ventures 、0xSoju 、Aptos Monkeys 、Time Research
+
+项目类型：DeFi、衍生品、永续合约
+
+项目介绍：Tsunami Finance 是一个去中心化的保证金交易和现货交易所，它提供了一种集合的 LP 代币（TLP），通过蓝筹加密货币和稳定币的多样化，最大限度地减少了无常损失带来的风险，同时通过在交易费用的基础上产生杠杆交易费用来实现回报最大化
+
+官网地址：<https://tsunami.finance/>
+
+推特：<https://twitter.com/TsunamiFinance_>
+
+### 【4】Bit.Store
+
+金额：未披露
+
+轮数：未披露
+
+时间：2 月 24 日
+
+投资机构：Alchemy Pay
+
+项目类型：SocialFi、社交交易
+
+项目介绍：Bit.Store (STORE) 是一个为初学者投资者设计的 SocialFi 投资平台。该平台通过与广泛的区域支付提供商网络合作，支持不同的汇款方式，让用户可以快速轻松地进入全球数字货币市场。该应用程序提供多种功能，包括社交交易、关注和复制由该领域经验丰富的专家发布的交易策略，并允许专家通过他们对平台的贡献获利
+
+官网地址：<https://bit.store/>
+
+推特：<https://twitter.com/www_bit_store>
+
+### 【5】Factor
+
+金额：760 万美元
+
+轮数：公募轮
+
+时间：2 月 24 日
+
+投资机构：未披露
+
+项目类型：DeFi、资产管理
+
+项目介绍：Factor DAO 正在构建用于链上资产管理的模块化构建块：DeFi 的基础设施和流动性层。所有现有的 DeFi 资产都集中在一个屋檐下，从而可以创建新颖的工具和策略。它适用于寻求提高 TVL 的协议、寻求对冲敞口和产生收益的资金经理
+
+官网地址：<https://factor.fi/>
+
+推特：<https://twitter.com/FactorDAO>
+
+### 【6】NeoSwap
+
+金额：200 万美元
+
+轮数：Pre 种子轮
+
+时间：2 月 24 日
+
+投资机构：DACM 、AngelHub 、Gossamer Capital 、Stacks Ventures 、Cavalry Asset Management 、Dhuna Ventures
+
+项目类型：NFT
+
+项目介绍：NeoSwap 是一个多方的 NFT 交易平台，可以帮助人们交易数字资产（例如 NFT），而无需提前知道他们正在寻找什么交易并且需要很少的流动性。NeoSwap 结合使用出价信息和人工智能预测来寻找对每个参与者都有利的多向交易
+
+官网地址：<https://neoswap.xyz/>
+
+推特：<https://twitter.com/NeoSwap_ai>
+
+### 关于 veDAO
+
+veDAO 是致力于发掘早期潜力项目的投融资社区。通过集结大众智慧和专业意见，为社区参与者、投资人、项目方提供公平、透明、民主的项目评价及投融资流程，让所有参与者共享项目发展红利。
+
+Website: <https://app.vedao.com/>
+
+Twitter: <https://twitter.com/vedao_official>
+
+Telegram：[t.me/veDAO\_zh](http://http/)
+
+Discord：<https://discord.gg/NEmEyrWfjV>
+

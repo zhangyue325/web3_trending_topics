@@ -1,0 +1,56 @@
+![](https://img.foresightnews.pro/202302/05675cbc0c3bec6e4f8e51c8af52eec5.jpeg?x-oss-process=style/scale70)
+
+3月1日 ，NFT 科幻卡牌游戏 Parallel 开启 PRIME 代币的解锁计划初始流通约为 2020万枚
+
+3月1日， HBAR 将解锁 31.4亿枚代币（约 2.37 亿美元），占总供应量的 6.28%。
+
+3月1日19点，LQTY将上线币安，其铸造的稳定币LUSD市值为$230.56m排名11
+
+3月1日，Secret Network 进行主网升级
+
+3月6日22点，Arweave 2.6 版本硬分叉激活
+
+3月7日，RPG链游Illuvium宣布推Beyond计划，玩家根据Illuvium的游戏角色竞争收集Illuvitar NFT，Illuvitar是一个可定制的NFT集合，其中包含拥有各种配件、背景和表情的Illuvials插图。
+
+3月10日21点30分，美国2月季调后非农就业人口(万人) 前值51.7（重要）
+
+3月14日，Filecoin 虚拟机 FVM 将在主网上线（重要）
+
+3月14日，基于 StarkNet 的衍生品交易协议 ZKX 将于上线测试网，并将开源智能合约。
+
+3月15日，跨链流动性协议 Stargate 将于重新发布 STG 代币
+
+3月15日，op Bedrock升级，该版本代表了以太坊扩容社区多年研究和开发的结晶，是对 Optimism 架构核心组件的完全重写。
+
+3 月中旬至 4 月期间，PlatON 将与阿里云和 HashKey联手举办 Web3 全球创业大赛
+
+3月18日 ，OKXChain 正式发布 OKT 减产计划，接下来将每 9 个月减半。
+
+3月23日2点，美联储利率决定(上限)前值4.75% 预期值5.00%（重要）
+
+3月27日，Polygon 将发布 zkEVM 主网 Beta 版本（重要）
+
+3月27日，去中心化无线通信网络 Helium 将迁移至 Solana 区块链
+
+3月27日EOS EVM最终测试网上线，主网Beta发布时间为4月14日
+
+其他：
+
+ETH上海升级：Goerli作为最受瞩目参与度最高的测试网，将在3月中旬激活升级。这主网的上海升级可能发生在3月底。
+
+cosmos v9-Lambda 升级（预计 2023 年第一季度）
+
+Cosmos 共享安全解决方案，使用 IBC 跨链验证 (CCV) 将验证器集组合从提供者链 (Cosmos Hub) 中继到消费者链。该验证器集负责使用不同的节点在两个网络上生成块。消费者链上的不当行为会导致供应商链质押代币 (ATOM) 大幅削减。
+
+CULT DAO ：在本地启动和运行 zkEVM ，进行云设置和配置$CULT作为本机令牌，
+
+预计仍将在 2023 年第一季度推出。
+
+MINA: 2023 年第一季度推出使用交互式零知识证明为 zkOracles 确定性能提高 256 倍的多方计算 (MPC) 设计
+
+XVS:第一季度推出Venus Prime 代币 (SBT)和烧伤XVS令总供应量减少
+
+ZIL:发布WEB3WAR v1.0
+
+ZEN:2023 年第一季度发布侧链公共测试网
+

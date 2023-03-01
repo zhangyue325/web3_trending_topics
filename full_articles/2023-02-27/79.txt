@@ -1,0 +1,51 @@
+![](https://img.foresightnews.pro/202302/f15a710ced11a26b882837b77cbc933a.jpeg?x-oss-process=style/scale70)BitKeep 将于 2023 年 2 月 24 日（GMT 8）开启 Sharky Swap 代币 $SHARKY 交易赛奖励活动。在 BitKeep Swap 中交易 $SHARKY，且跨链单笔交易金额达到 $10，即可瓜分 $2000 SHARKY 奖池，此外还有机会获得额外的交易排名奖励，排名越高奖励越高！
+
+### 活动时间：
+
+2 月 24 日 — 3 月 5 日 24:00 (GMT 8)
+
+### 活动规则:
+
+1. 活动期间，使用 BitKeep Swap 交易 SHARKY 且单笔交易额大于等于 $10 SHARKY
+2. 奖励发放之前，BitKeep 钱包地址至少持有 $10 SHARKY
+3. 同一地址或设备只可使用一次
+4. 奖励不可重复领取
+5. 参与任何违规交易活动的用户将被取消资格
+6. 奖励将在活动结束后 7 个工作日内发放至 BitKeep 钱包。如遇休息日或假期，将顺延发放。
+### 奖励规则: ( 交易量排名奖励 )
+
+第一名: $300 SHARKY  
+第二名: $200 SHARKY  
+第三名: $100 SHARKY  
+将随机抽选 200 名幸运儿瓜分 $1400 SHARKY 奖池
+
+### Gas 费免除:
+
+每位用户享有 $1 gas 费的额度 （上限补贴额度 $1000)
+
+### 币种信息
+
+标志：SHARKY    
+全名：Sharky Swap   
+链：Arbitrum   
+智能合约地址：0x73ed68b834e44096eb4bea6edead038c945722f1  
+总供应量：2,000,000 $SHARKY
+
+### 详细教程：
+
+1）打开 BitKeep 钱包，点击 Swap，右上角搜索“SHARKY”；  
+2）根据交易需求选择 Buy 或者 Sell，同链或跨链交易至少 $10 ，点击 Confirm 完成交易，即成功参与本次交易竞赛活动。
+
+![](https://img.foresightnews.pro/202302/fe43fd73dbafd7ad11e2f4876b7f903d.png?x-oss-process=style/scale70)### 关于 Sharky Swap
+
+Sharky Swap 是一个基于 Arbitrum 的去中心化交易平台，支持用户以无需信任和去中心化的方式交易任何 ERC-20 代币。与传统的 DEX 相比，Sharky Swap 利用 Arbitrum 第 2 层扩展解决方案提供更快、更便宜的以太坊交易网络。通过使用 Arbitrum 区块链，Sharky Swap 可以在 Layer2 处理交易，从而减少以太坊主链的负载并降低交易成本。此外，Sharky Swap 有一个用户友好的界面，这使得所有经验水平的用户都可以轻松地交易加密货币。Sharky Swap 结合了速度、成本效益和易用性，旨在为其用户提供卓越的交易体验。   
+官网：<https://sharkyswap.xyz/>   
+Discord：<https://discord.com/invite/sharkyswap>
+
+### 关于 BitKeep
+
+BitKeep 作为全球领先的一站式交易加密钱包，集合了钱包、Swap 交易、NFT 市场、 DApp 浏览器、Launchpad 等 5 大优势功能。  
+我们的愿景是打造全球一流的去中心化、Web3 加密钱包，为所有加密用户提供更加安全、便捷的交易体验。  BitKeep Global Inc 于 2018 年 5 月成立，为全球 800 万用户提供可靠的资产管理及交易服务，覆盖了北美、欧洲和亚洲的 168 个国家。  
+BitKeep 最新一轮投资由知名加密风投公司 Dragonfly 领投，高榕资本、Foresight Venture、Sincere Truth、Bixin Capital、SevenX Ventures 等参投。   
+官网：<https://bitkeep.com/>Telegram：<https://t.me/BitKeep_Official>
+

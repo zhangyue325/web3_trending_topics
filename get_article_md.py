@@ -38,7 +38,7 @@ def add_all_articles_md(dt):
 
     dt_to_delete = dt + timedelta(days = -7)
     try:
-        os.remove(f"full_articles\{dt_to_delete}")
+        shutil.rmtree(rf"full_articles\{dt_to_delete}")
         print(f"the full articles in {dt_to_delete} has been deleted")
     except:
         pass
@@ -54,11 +54,17 @@ def add_all_articles_md(dt):
 
             with open(rf"full_articles\{dt}\{i}.txt", "w+", encoding="utf-8") as f:
                 f.write(article_md)
+        else:
+            "add the md for other source"
+            pass
 
     df.to_csv(rf"trending_articles\{dt}.csv", index = False)
 
 
 
 if __name__ == "__main__":
-    yesterday = date.today() + timedelta(days = -1)
-    add_all_articles_md(yesterday)
+    url = "https://foresightnews.pro/article/detail/26237"
+    data = add_article_md_foresightnews(url)
+    index = url[-5:]
+    with open(f"{index}.txt", "w", encoding="utf-8") as f:
+        f.write(data)

@@ -1,0 +1,167 @@
+![](https://img.foresightnews.pro/202302/6f61a349b69ce92fe1eccd4baa16d25a.png?x-oss-process=style/scale70)  
+
+
+原文作者：Jesse Pollak
+
+编译：Azuma, Odaily  
+
+
+![](https://img.foresightnews.pro/202302/8a332220c91a32da68443d12b26c2e0d.png?x-oss-process=style/scale70)  
+
+
+北京时间 2 月 23 日晚间，Coinbase 宣布将基于 OP Stack 推出以太坊 Layer 2 网络 Base，这是一个安全、低成本、开发者友好的以太坊 Layer 2 ，旨在为 Web3 世界引入数以十亿计的新用户。
+
+在 Base 官宣后不久，Coinbase 开发主管（To C 方向）、Base 项目创始贡献者 Jesse Pollak 于个人推特分享了 Base 诞生的故事，向外界详细介绍了该网络究竟是如何从一个点子变为现实的。
+
+下文为 Jesse 推文内容，由 Odaily 星球日报编译。
+
+  
+
+
+**Base 诞生记**
+
+今天，我作为 100 多名贡献者之一参与了 Base 的启动。Base 由 Coinbase 的 builders 构建，并将为全世界的 builders 服务。我将在接下来的推文中讲述 Base 是如何形成的：
+
+![](https://img.foresightnews.pro/202302/c6cc9ca21936faef5fe09990a858d0ba.png?x-oss-process=style/scale70)我于 2017 年初加入了 Coinbase，距今已经有 6 年时间了，那刚好是在 Brian Armstrong（Coinbase 创始人）撰写「Coinbase 秘密总计划」（Coinbase Secret Master Plan）6 个月后，该计划提到 Coinbase 希望为世界创建一个开放式的金融系统。
+
+  
+
+
+**该计划分为四个阶段执行：**
+
+**一、（帮助）构建协议，比如比特币、以太坊**
+
+**二、构建交易所，也就是你们熟知的 Coinbase**
+
+**三、构建用户工具，比如 Coinbase Wallet**
+
+**四、打造可承载 10 亿用户的 Dapps**
+
+该计划的最终愿景是通过开放式的 Crypto 经济来提高全球的经济自由度。
+
+10 年以来，Coinbase 一直在坚持不懈地执行这一计划 —— 吸引更多用户并帮助 Crypto 经济的发展。最近，我们一直沉迷于推进第四阶段的工作，即创建可以承载 10 亿用户的 Dapps。这里插一句话，需要注意的是 Coinbase 的这份总计划撰写于 2016 年。我很感激 Brian 能够清晰地看到未来，并引导 Coinbase 向着 Crypto 经济的方向发展。
+
+在我们开始帮助全世界范围的 builders 构建 Dapps 之前，我们需要先从内部开始改进。
+
+**直到今天为止，大多数的 Coinbase 产品都不能算作 Dapps，它们仍只是带有一些 Crypto 功能的 Web2 产品。**
+
+不过，我们最近已开始通过 USDC、Coinbase Wallet 以及 cbETH 等产品来逐渐改变现状。展望未来，我们希望继续构建更多此类产品，并充分利用链上平台的全部功能。我们的想法是，如果我们能够让自己的团队做出改变，那么我们也将能够帮助其他开发者。
+
+当我们的团队继续沿着这一方向推进时，我们的面前出现了两个简单的问题：
+
+**一、他们应该如何构建 Dapps（比如使用什么工具包）？**
+
+**二、他们应该在哪里部署他们的 Dapps（比如选择哪条链）？**
+
+这是开发者在创建项目之前必须解决的问题。
+
+2022 年初，我们试着让 Coinbase 来“铺平道路”，并找到这两个问题的答案。
+
+* 关于如何构建，我们选择了 EVM 作为主要开发环境；
+* 关于在哪构建，我们认为高附加值 Dapps 应该基于以太坊主网构建，而有着更大扩容需求的项目则应该基于 Layer 2 构建（需要注意的是，这并不意味着 Coinbase 的产品将不再支持非 EVM 环境或非以太坊网络）。
+
+明确了方向，我们便开始通过各种方式来尽可能地“把路铺得更平”：
+
+**一、支持 EIP 4844 ，以将 Layer 2 费用降低 10-100 倍；**
+
+**二、通过创建真正意义上的 Layer 2 模型，来解答“哪种 Layer 2 方案”更好的问题。**
+
+整个 2022 年，我们几乎与每一个致力于扩容以太坊以及 Layer 2 的团队都做过沟通，他们的创造力、洞察力以及帮助以太坊扩容的信念令我们非常震撼。
+
+通过这些讨论，我们的观点也有了重大变化。在沟通之前，**我们倾向于认为单个 Layer 2 会作为“主导扩容网络”并逐渐吸收所有网络活动，**但在沟通之后，我们倾向于认为会有许多活跃的 Layer 2 网络，它们会充当不同生态系统的“枢纽”，并共同作用于以太坊的扩容。有了这样的想法后，我们不禁会问自己 —— 如果未来会存在许多的 Layer 2 ，我们能否自己也来构建一个，用以推进 Coinbase 的使命并帮助 Crypto 经济的发展？
+
+**Coinbase 历史上曾两次（2018 年、 2020 年）考虑过推出一条区块链，但两次最终都放弃了，而这次我们则选择了撸袖子开干。**
+
+于是，Base 就这样诞生了。
+
+Base 的出现将有助于：
+
+* 推进 Coinbase 链上产品的开发；
+* 把我们客户引入 Crypto 经济；
+* 加大对核心协议基础设施的投入。
+
+换句话说，Base 将是我们总计划的关键组成部分 —— 第 3.5 阶段。我们相信 Base 将帮助来自 Coinbase 以及外部的开发者创建新一代 Dapps，并吸引 10 亿用户进入 Crypto 世界。
+
+当我们开始构建 Base 时，我们发现构建一个区块链与构建 Coinbase 以往的其他产品完全不同。**最大的不同点是，它将成为一个“平台”，而我们迄今为止所构建的大多数东西都是“产品”。**
+
+构建一个具有去中心化特性和规模化愿景的 Crypto “平台”，意味着我们需要继承并发扬以往的那些去中心化“平台”的优秀特质。
+
+**因此我们在构建 Base 之时制定了四项关键原则：**
+
+* “构建桥，而非岛”；
+* “开源”；
+* “去中心化”；
+* “面向所有人”。
+
+**“构建桥，而非岛”**的意思是，在我们的设计中，Base 将可以安全、便捷地访问以太坊、其他 Layer 2 乃至 Layer 1 （例如比特币、 Solana）。Base 将成为那些来自链下的用户们的“桥梁”，并为他们提供简单的链上活动体验，帮助他们使用来自于任何位置的产品。
+
+**“开源”**指的是，我们认为 Crypto 经济的基础应该是开源且免费的。Base 系基于 Optimism 的 OP Stack 构建，并将作为第二个核心开发者加入 OP Labs，为公共产品（public goods）的发展做出贡献。
+
+**“去中心化”**的意义在于，虽然 Base 系由 Coinbase 构建，但我们将坚定地推进平台的去中心化。
+
+**“面向所有人”**指的是，Base 将是一个开放的生态系统，其中 Coinbase 会把我们的产品、用户及资产作为种子，然后与社区合作，真正地将区块链带入生活之中。我们很高兴能够看到在第一天就有如此多的项目加入了我们。
+
+在过去的 6 个月里，我们一直在努力将这些价值观植入 Base 之中。这是一项庞大的团队合作，这一氛围在 Coinbase 内部逐渐兴起并吸引到了越来越多的贡献者。我们最初只有少数贡献者，但现在整个公司已有 100 多人加入了进来。我们已通过「Base Contributor」 NFT 来纪念每一项贡献，我们希望在来年将其扩展到更广泛的范围。
+
+我们很高兴能够共同建设 Base，因为我们致力于将 Base 打造成为 Crypto 经济的基础。
+
+最后，我们邀请您也成为 Base 历史的一部分。现在开始直到美东时间周日午夜，每个地址均可铸造 Base 的纪念 NFT 「Based, Introduced」。
+
+加入我们，一起建设 Base 吧！
+
+  
+
+
+**Base 首批合作伙伴**
+
+![](https://img.foresightnews.pro/202302/925311eaf33f491fddf2a10740924b18.png?x-oss-process=style/scale70)第一排：Chainlink、Blockdaemon、Infura、QuikNode、Blockscout、Etherscan、Dune analytics、Hop Protocol、Nansen、0x(ZRX)、Socket
+
+第二排：Ondo、Panoptic、Aave、Flipside、Mnemonic、Daz 3D、Magic Eden、frame.eth、Animoca Brand、Transak、Guild.xyz、SEDA
+
+第三排：Perennial、Gelato Network、Pyth Network、Rainbow Wallet、Ribbon Finance、X、Balancer、PoolTogether、Euler Labs、Source.ag、The Graph
+
+第四排：Backed Finance、Dora、wagmi、Center、Wormhole、Coherent、Parallel、Sushiswap、X、Blackbird Labs、Covalent、Cask protocol
+
+第五排：Safe、Arkham Intelligence、Moonwell、City3、Thirdweb、Sardine、Bonfire、Layer zero、Messari、Axelar、Ethglobal
+
+Base 推出「Base, Introduced」纪念 NFT
+
+2 月 23 日，Coinbase 今日发布 L2 网络 Base，并为这一事件推出纪念 NFT「Base, Introduced」，该 NFT 总量无上限，截至本周日可自由铸造。
+
+  
+
+
+***7UPDAO***
+
+声明：请读者严格遵守所在地法律法规，本文不代表任何投资建议。
+
+  
+
+
+原文链接：
+
+https://twitter.com/jessepollak
+
+  
+
+
+**7up DAO**
+
+**关于我们**
+
+7upDAO 是一个 Web3 投资与研究驱动型社区，致力于分享 Web3 前沿动态，深度分析各赛道热点话题。
+
+  
+
+
+7upDAO 私董会是面向 Web3 行业的资源联盟。加入联系微信 c112606
+
+  
+
+
+微信群：加微信 seven7upDAO 入群
+
+Twitter：@7upDAO
+
+Discord：https://discord.gg/7updao
+

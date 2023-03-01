@@ -1,0 +1,164 @@
+译者：Xiang｜W3.Hitchhiker
+
+
+
+---
+
+第二部分：约束
+-------
+
+* [视频教程 (youtube)](https://www.youtube.com/watch?v=fg3mFPXEYQY)
+* [幻灯片 (PDF)](https://starkware.co/wp-content/uploads/2021/12/STARK101-Part2.pdf)
+在这一部分中，我们将在轨迹 a 上创建一组约束。 当且仅当轨迹表示 FibonacciSq 的有效计算时，约束将是轨迹单元格中的多项式（而不是有理函数）表达式。
+
+我们将分三步实现：
+
+1. 首先指定我们关心的约束（**FibonacciSq 约束**）。
+2. 将 FibonacciSq 约束转换为**多项式约束**。
+3. 将它们转换为表示多项式的**有理函数**当且仅当原始约束成立时。
+步骤 1 - FibonacciSq 约束
+---------------------
+
+![](https://img.foresightnews.pro/202302/98b57ed40a1ae5a1da3218f21935128c.png?x-oss-process=style/scale70)
+
+其计算结果恰好超过 G1，其中 G 是由 g 生成的“小”组。
+
+步骤 2 - 多项式约束
+------------
+
+![](https://img.foresightnews.pro/202302/177750615f1d29692da6042b4edfa6c8.png?x-oss-process=style/scale70)
+
+### 开始动手
+
+首先，由于这是与第 1 部分不同的笔记，让我们运行以下代码，使此处的所有变量都具有正确的值。请注意，它最多可能需要 30 秒，因为它会重新运行多项式插值。
+
+
+```
+from channel import Channelfrom field import FieldElementfrom merkle import MerkleTreefrom polynomial import interpolate_poly, X, prodfrom tutorial_sessions import part1a, g, G, h, H, eval_domain, f, f_eval, f_merkle, channel = part1()print('Success!')
+```
+你将获得三个约束中的每一个作为两个多项式的商，确保余数是零的多项式。
+
+步骤 3 - 有理函数 ( 实际的多项式 )
+----------------------
+
+![](https://img.foresightnews.pro/202302/05d974a42581367fb683ea2b83ced760.png?x-oss-process=style/scale70)
+
+### 第一个约束 The First Constraint：
+
+![](https://img.foresightnews.pro/202302/08641cdfa61d2de4dee51f3cd1895b66.png?x-oss-process=style/scale70)
+
+
+```
+numer0 = f - 1denom0 = X - 1
+```
+事实上 f(x)-1 有一个根为 1 在意味着它可被 (x-1) 整除。运行以下代码块以说服自己 numer0 模 denom0 的余数为 0，因此除法确实会产生一个多项式：
+
+
+```
+numer0 % denom0
+```
+运行以下代码块以通过将 `numer0` 除以 `denom0` 来构造 p0，即表示第一个约束的多项式。
+
+
+```
+p0 = numer0 / denom0
+```
+跑测试：
+
+
+```
+assert p0(2718) == 2509888982print('Success!')
+```
+### 第二个约束：
+
+![](https://img.foresightnews.pro/202302/dcde7ede4161fcb6a5ac06782bc2a7fa.png?x-oss-process=style/scale70)
+
+
+```
+numer1 = f - 2338775057denom1 = X - g**1022p1 = numer1 / denom1
+```
+跑测试：
+
+
+```
+assert p1(5772) == 232961446print('Success!')
+```
+### 第三个约束：
+
+![](https://img.foresightnews.pro/202302/617945c78e10e76fecf3bfc87b92ff41.png?x-oss-process=style/scale70)
+
+
+```
+lst = [(X - g**i) for i in range(1024)]prod(lst)
+```
+有关更多信息，请参阅博客文章 [Arithmetization II](https://medium.com/starkware/arithmetization-ii-403c3b3f4355)。
+
+让我们暂停一下，看一个关于多项式如何组成的简单例子。之后我们将生成第三个约束。
+
+### 组合多项式 (a detour)
+
+![](https://img.foresightnews.pro/202302/1b088f8b84b6dc527a01b746f74cc490.png?x-oss-process=style/scale70)
+
+
+```
+q = 2*X ** 2 + 1r = X - 3
+```
+把 q r 组合产生一个新的多项式：
+
+![](https://img.foresightnews.pro/202302/ab13a8bc47cd796793fb3f81d5b73440.png?x-oss-process=style/scale70)
+
+### 返回到多项式约束
+
+![](https://img.foresightnews.pro/202302/ba1fd1b0afac7b1c0e54f51cde3b3825.png?x-oss-process=style/scale70)
+
+
+```
+numer2 = f(g**2 * X) - f(g * X)**2 - f**2print("Numerator at g^1020 is", numer2(g**1020))print("Numerator at g^1021 is", numer2(g**1021))denom2 = (X**1024 - 1) / ((X - g**1021) * (X - g**1022) * (X - g**1023))p2 = numer2 / denom2
+```
+跑测试：
+
+
+```
+assert p2.degree() == 1023, f'The degree of the third constraint is {p2.degree()} when it should be 1023.'assert p2(31415) == 2090051528print('Success!')
+```
+运行以下代码块观察约束多项式的次数，均小于 1024 。这在下一部分很重要。
+
+
+```
+print('deg p0 =', p0.degree())print('deg p1 =', p1.degree())print('deg p2 =', p2.degree())
+```
+步骤 4 - 组合多项式
+------------
+
+![](https://img.foresightnews.pro/202302/c708c7001e98575b56108265448680f4.png?x-oss-process=style/scale70)
+
+
+```
+def get_CP(channel):    alpha0 = channel.receive_random_field_element()    alpha1 = channel.receive_random_field_element()    alpha2 = channel.receive_random_field_element()    return alpha0*p0 + alpha1*p1 + alpha2*p2
+```
+跑测试：
+
+
+```
+test_channel = Channel()CP_test = get_CP(test_channel)assert CP_test.degree() == 1023, f'The degree of cp is {CP_test.degree()} when it should be 1023.'assert CP_test(2439804) == 838767343, f'cp(2439804) = {CP_test(2439804)}, when it should be 838767343'print('Success!')
+```
+### 提交组合多项式
+
+最后，我们评估 cp 在评估定义域 (`eval_domain`) 上，在其上构建一棵 Merkle 树，并通过信道发送其根。 这类似于我们在第 1 部分末尾所做的 LDE 轨迹上的提交。
+
+
+```
+def CP_eval(channel):    CP = get_CP(channel)    return [CP(d) for d in eval_domain]
+```
+在评估上构造一个默克尔树，并通过信道发送其根。
+
+
+```
+channel = Channel()CP_merkle = MerkleTree(CP_eval(channel))channel.send(CP_merkle.root)
+```
+测试代码：
+
+
+```
+assert CP_merkle.root == 'a8c87ef9764af3fa005a1a2cf3ec8db50e754ccb655be7597ead15ed4a9110f1', 'Merkle tree root is wrong.'print('Success!')
+```

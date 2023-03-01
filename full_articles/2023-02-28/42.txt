@@ -1,0 +1,47 @@
+![](https://img.foresightnews.pro/202302/98ea5ccd4a67fa238f2d5adf8f0fa482.jpeg?x-oss-process=style/scale70)### What is the role of ProofService in Next.ID?
+
+NextID, as a decentralized identity service, aggregates the digital identities of web2 and web3 applications into an Avatar.
+
+ProofService uses cryptographic public-private key pairs to verify and authenticate the user’s Avatar across their Web2 and Web3 accounts. Subsequently, allowing the user’s Avatar to establish a trusted and verifiable connection with the respective Web2/Web3 platforms.
+
+### How does ProofService work?
+
+To start off, the user signs the Avatar with his private key and publicly posts the signature on the platform that needs to be connected. This is called “Proof Post”.
+
+The user will be required to send the “Proof Post” link back to ProofService, where the content of the link (Platform account, Wallet ID, Signature) is collected and verified. If the verification is successful, the connection is properly established.
+
+These platform-bound identities (Avatars) are stored in a blockchain-like structure called ProofChain. Each Avatar is aggregated onto ProofChain and all data storage and modification of the ProofChain is recorded on Arweave. This ensures that all data is open, transparent, and publicly verifiable.
+
+For more details, please refer to this documentation: <https://docs.next.id/getting-started/quick-start>
+
+The example in the above documentation uses Twitter as an example, showing the process of generating an Avatar which consists of a public and private key pair, using an elliptic curve. After which, you will be required to generate a “Proof Post”, post it on Twitter, send the URL of the Twitter post to Proof Service, and finally successfully bind your Avatar to your Twitter account. This pretty much sums up the layman step-by-step process of binding your Avatar to your Twitter account.
+
+### How to contribute to Next.ID as a developer?
+
+As an open-source project, we welcome all interested developers to contribute and build with us. All of our existing supported platforms for ProofService can be found at <https://github.com/NextDotID/proof_server#readme>
+
+If you wish to get involved with Next.ID, a great way would be to help integrate ProofService with more platforms. We are ecstatic to see developers who are already trying this.
+
+### Criteria for selection of platform integration
+
+To start off, you may select from the list of platforms as shown in our planned roadmap and work on them. Of course, platforms that are not listed are also welcomed. In order to know if the selected platform is able to access ProofService, we would have to consider:
+
+1. The user is able to post on the platform (content is not limited to text, but can be in any form, e.g., images, audio, video), through which the Avatar private key signature is posted.
+2. The post has to be public to allow verification.
+### How to get started?
+
+1. **Open an Issue**
+* In ProofService’s code repository, create a new Issue, eg: [Feature] support XXX platform
+* Clarify and elaborate on how the above 2 criteria for accessing the platform are met. Any uncertainty can be addressed in the Issue so other developers are able to chime in to help and discuss. Once the idea is deemed feasible, you may start on the development phase.
+* In the structure of the code, there is a validator folder with access implementations for each platform
+* You may refer to template implementations for other platforms and implement the corresponding GeneratePostPayload(), GenerateSignPayload(), Validate() methods. Proceed to add the new platforms to: [https://github.com/NextDotID/proof\_server/blob/ develop/types/platform.go](https://github.com/NextDotID/proof_server/blob/)
+* The corresponding step-by-step test procedure can be found in our documentation: <https://docs.next.id/getting-started/quick-start>
+* Do a merge request upon the completion of the new platform implementation
+* Our core contributors will verify and comment on the written code to confirm the feasibility of the implementation and perform the corresponding merge operation
+### Conclusion
+
+NextID is a community-led project and we encourage open-source contributors and enthusiasts to participate and build with us. ProofService is merely one of the many services you may work on.
+
+Interested? You may join us on our biweekly calls to get project updates, ask questions, and partake in discussions.
+
+![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=406465e96caa)

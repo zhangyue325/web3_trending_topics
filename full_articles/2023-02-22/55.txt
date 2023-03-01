@@ -1,0 +1,129 @@
+![](https://img.foresightnews.pro/202302/09dc55325b64076acc0c955a3494bb6c?x-oss-process=style/scale70)On Feb. 20th, 2023, the Network State Hackathon came to a close. Through the course of 10 days, 18 impressive projects are in our finalist, building and developing prototypes using development tools provided by event sponsors. We are thrilled to announce that we have over 200 participants from many different countries, including China, India, the US, Nigeria, Japan, Singapore, and more! This Hackathon is backed by Starkware Officials, Starkware’s core eco projects, and Mask Network’s social ecosystem.
+
+Web3 is built with new methods of human collaboration, enabling humans to create their own communities, currencies, and even states in cyberspace. The exploration of game and labor, data and information, economy and entertainment in cyberspace constructs a utopia, a new home of mind, in the digital age. The sponsors of this hackathon provide ove $50,000 to attract global developers to build a new generation of games, social, and creator economies.
+
+Web3 is built with new methods of human collaboration, enabling humans to create their own communities, currencies, and even states in cyberspace. The exploration of game and labor, data and information, economy and entertainment in cyberspace constructs a utopia, a new home of mind, in the digital age. The sponsors of this hackathon provide ove $50,000 to attract global developers to build a new generation of games, social, and creator economies.
+
+We thank all the projects and organizations that are providing judges, SDKs, Workshops, Bounties, sponsorships, developer connections etc. An incomplete list includes Starkware, Argent, Topology, Loot Realms, Cartridge, Briq, Starknet.id, RSS3, Web3MQ, Metaforo, .bit, Next.ID, Alphagram, KNN3, GoPlus, Giro Giro, Not Fellows, Moonshot, BuidlerDAO, Mint podcast, Unifra, Reddio, TokenDance, LXDAO, MoleDAO, Rebase, Denglian Community, and ChainIDE who are providing prizes, judges, SDKs/APIs or developer communities to this hackathon.
+
+![](https://img.foresightnews.pro/202302/57a4f2f081091e4ce9f9f305d5a82201?x-oss-process=style/scale70)#### **Gold —**Civia the Social Wallet
+
+#### **Silver —**Mind Network
+
+#### **Bronze —**W3Space
+
+#### **Category Prizes**
+
+* **Best Social**: Noname.Monster
+* **Best Infra**: Matrix Multi chain unity ToolKit
+* **Best Game**: Degen Reborn
+### **All Finalist Projects:**
+
+#### [**Civia the Social Wallet**](https://devfolio.co/projects/civia-the-social-wallet-386a)**— Gold Prize**
+
+Civia the Social wallet is a wallet prototype with social recovery and social graph based on the account abstraction support from Starkware and wallet functions baseline code from Argentx.
+
+Wallets are possibly the most frequently used Web3 infrastructure apps. We design Civia so that the wallet can be used for social purposes in addition to crypto asset transactions. In Civia, users get invited by friends to install the app and setup their real-life friends as guardians for the social recovery. Users can also follow friends and browse their wallets. These activities create users’ social graph on-chain.
+
+#### [**Mind Network**](https://devfolio.co/projects/mind-network-4173)**— Silver Prize & KNN3 Bounty**
+
+The Mind Network offers a decentralized privacy-preserving data lake to maximize the usability of data without trade-offs on privacy protection. Mind Network is built on cutting-edge encryption and privacy-computing techniques by a group of world-class experts.
+
+In this hackathon, Mind Network demonstrate how Mind Network can be used for private photo sharing on SocialFi. With Mind Network, the user stories are reformed:
+
+* Only masked photos are shared and accessed publically. No original photo can be accessed, even leaked.
+* Important information (e.g. face encoding) is encrypted. Only authorised users can access important information based on permission.
+* AI Models are decentralized and secured, and the same as permission is decentralized.
+#### [**W3Space**](https://devfolio.co/projects/wspace-cb41)**— Bronze Prize**
+
+W3.work is a fully decentralized social Metaverse for Web3.0 professionals, which significantly improves the efficiency of social events, remote working and community interaction for Web3.0 teams.
+
+* A workplace for Web3 professionals — making remote work more engaging.
+* A Metaverse for business and social networking — connecting Web3.0 organizations, teams, VCs, and creators.
+* A fun, new Web3 Work-style — empowering innovation and creativity
+#### [**Noname.Monster**](https://devfolio.co/projects/nonamemonster-c3da)**— Best Social Prize**
+
+Noname.Monster provides an all-in-one platform for Web3 identities/domains, enabling users to search, register, trade, and manage Web3 identities from different issuers on multiple blockchains and simplifying integration workflow for Web3 projects.
+
+On StarkNet, we have implemented single registration, bulk registration, and domain explore features for StarkNet.id. Users can easily explore the popular StarkNet.id names and register several StarkNet.id at one time.
+
+#### [**Matrix Multichain Unity ToolKit**](https://devfolio.co/projects/matrix-multichain-unity-toolkit-470a)**— Best Infra Prize**
+
+MultiChain Web3 ToolKit for Unity is a set of packages (scripts and UI) created to help game developers integrate Web3 APIs with Unity 3D WebGL Builds.
+
+* Helps integrate WebGL Unity 3D build with Web
+* Provides a framework and a standard UI for integrating Web 3 Auth for wallets such as Ethereum, Flow, Aptos, and Sui
+* Provides a package for Unity 3D and React
+* Customizable UI, API for easy integration
+* Provides API for signing messages, transactions
+#### [**Degen Reborn**](https://devfolio.co/projects/degen-reborn-550f)**— Best Game Prize**
+
+DegenReborn is a next-gen innovative life simulation game infused with cryptocurrency mechanisms. Players are able to purchase tokens, upgrade specific skillsets, power up game attributes to win the game. In DegenReborn, gamers can reborn themselves into an eventful and yet hilarious life trajectory tailored just for them! Get onboard and feel the reincarnations on the tip of your fingers!
+
+#### [**Starknet Validator for Next.ID**](https://devfolio.co/projects/starknet-validator-for-nextid-7648)**— Next.ID Bounty**
+
+Starknet Validator for Next.ID integrates Starknet support for Next.ID validation. It is platform-agnostic since once it is integrated with the proof server, it can be accessed through any platform.
+
+#### [**RewardSphere**](https://devfolio.co/projects/rewardsphere-365d)**— Next.ID Bounty & GoPlus Bounty**
+
+RewardSphere is A Web3 Social Impact Incentive Protocol. In RewardSphere, we are redefining the Value Delivery Chain in Social Network.
+
+RewardSphere allows users to break free from the constraints of platforms and reshape the value transfer of web3 social impact by utilizing the inherent advantages of the platform. In traditional web2 social media, the majority of value is captured by the social media platform. With RewardSphere, we can take back value from the platform and give it to the true content creators and content interactors who help to gain more attention for the content.
+
+In RewardSphere, by using the ERC1155 protocol and DID technology, the ownership of each twit can be shared, allowing content producers to form a good collaborative relationship with content interactors. Moreover, content interactors can obtain a portion of the ownership of twit NFTs based on their actual contribution.
+
+#### [**Feedbeats**](https://devfolio.co/projects/feedbeats-827e)**— Next.ID Bounty & RSS3 Bounty**
+
+As Web3 gamers, it is difficult to know how the users in alpha communities are playing on-chain games. It’s absolutely valuable for all web3 gamers to catch up the latest trend and getting a position.
+
+Feedbeats is web3 feed for all gamers.Gamers can see what games and which events the alpha users play. They can get the event information of users follow on Lens protocol as a feed contents. We fetch on-chain events focused on on-chain games via RSS3.
+
+#### [**Builders.Space**](https://devfolio.co/projects/buidlersspace-c913)**— Web3MQ Bounty**
+
+Builders.Space is a all-in-one web3 space for Creators & Brands. It provides No Code DAO Creation, Community Tokenized Building, Membership NFT as a Gating, and Fit for every industry in the real world.
+
+#### [**Ticken**](https://devfolio.co/projects/ticken-f143)**— .bit Bounty**
+
+Ticken is a tool to help event host create NFT tickets based on smart contracts and open protocols, with support for public sales, ticket airdrops & invitations, and other basic modes.
+
+Ticken can lack the transparency and risk in the secondary market and can effectively conbat scalpers.
+
+#### [**Lumi**](https://devfolio.co/projects/lumi-pray-to-give-unite-to-build-7bc4)**— .bit Bounty & Metaforo Bounty**
+
+Lumi helps people with the same ideal to better unite and donate, so as to realize their ideal world. We start from the Christian community first since we aggregated 1 million Christian followers.
+
+$500 billion is donated annually in the US every year, and the №1 contribution comes from Christians all the time. However, centralized donor agencies have such problems: High Commission fee, Low efficiency in dissemination, Centralized power, Only focus on how much money is raised. Lumi is a new way to make people find their spiritual community and unite to build their ideal world.
+
+#### [**Builder Card**](https://devfolio.co/projects/buidler-card-d96a)
+
+Builder Card is a SBT-based ID Card system for the Network State.
+
+In the Network State, each member must create and maintain an ID Card that includes their personal information. The ID Card is not transferable and cannot be sold, which is why the Buidler Card is designed to be a SBT.
+
+In the future, we plan to integrate with RSS3, .bit, and we will rewrite the Smart Contract and deploy to StarkNet for a better experience and lower gas fee for updating personal information.
+
+#### [**Hamster**](https://devfolio.co/projects/hamster-1a47)
+
+Hamster is the one-stop developer toolkit framework for StarkNet. It enables developers to achieve cost-effective and automatic development with smart contract template, CICD and more.
+
+It enables developers/teams to achieve a cost-effective and automatic development as well as O&M processes, including contract template, code/contract check, deployment, node service, CI/CD and more, empowering projects in StarkNet to improve their coding and delivery speed, quality and efficiency, as well as product reliability & safet.
+
+#### [**Pink Paper**](https://devfolio.co/projects/pink-paper-c9b0)
+
+Pink Paper seeks to counter the increasing censorship trend on big tech platforms by providing a safe space for free expression and promoting positive social change through fundraising. Through Pink Paper, users can share their views on various topics by creating and publishing blogs and other forms of content. The platform offers a decentralized and censorship-free space where everyone can express themselves without fear of being silenced. Additionally, Pink Paper provides an avenue for fundraising and supporting world-changing technologies, thereby promoting positive change in society.
+
+#### [**Uveryderiv**](https://devfolio.co/projects/uveryderiv-6bfc)
+
+Uveryderiv is a derivative social platform that encourages the union of art, it makes it easy for anyone to contribute to a creative project and iterate over an existing idea
+
+#### [**Metopia — Metobadge**](https://devfolio.co/projects/metopia-metobadge-ff4c)
+
+Metobadge is the community achievement-oriented rewarding system, upon the protocol of soul-bounded NFT.
+
+The current self motivation solutions heavily rely on coins & tokens, which only reflect limited contributions and hardly extendable. Creators and adminitrators of an organizations are able to issue their own badge collections, and provide various achievements with customized eligibility criterias, which will be proved in badge’s metadata. The badge contract implements ERC721 for the popularity and readability.
+
+#### [**Starsocial**](https://devfolio.co/projects/starsocial-f457)
+
+Socialstar is a social media aggregator app that combines multiple web3 socials like Farcaster and Lenster into one platform solves the problem of social media overload. With so many social media platforms available, it can be challenging for users to keep up with their accounts across multiple platforms. Socialstar solves that problem by allowing users to view and interact with their social media accounts from a single platform, making it more efficient and convenient. Users can easily switch between different social media platforms, post updates across all platforms, and customize their feeds based on their preferences. By aggregating web3 socials into one place, the app streamlines the user’s social media experience, saving time and reducing the burden of managing multiple social media accounts.
+
+![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=666140da3e0c)

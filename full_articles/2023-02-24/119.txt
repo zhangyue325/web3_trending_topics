@@ -1,0 +1,228 @@
+**点击蓝字 /**
+
+ 关注我们
+
+![](https://img.foresightnews.pro/202302/19e275caa57e61009a5feb1a66984103.png?x-oss-process=style/scale70)Buidler DAO：Web3 人才与项目孵化器  
+
+
+https://link3.to/buidlerdao
+
+商务合作 WeChat：MiaoFrank1229
+
+  
+
+
+
+
+---
+
+  
+
+
+「BNB Greenfield」白皮书于 2 月 1 日发布。这是继 BNB Beacon Chain 和 BNB Smart Chain 后，BNB Chain 生态的第三条链。BNB Greenfield 致力于将智能合约与去中心化数据存储进行集成，因此，这也是具备 Web3 应用程序智能合约集成的去中心化存储系统。
+
+  
+
+
+去中心化存储作为 Web3 最为重要的基础设施之一。目前 Web3 中主流的数据存储解决方案有 IPFS/Filecoin、Arweave、Ceramic Network 等多种协议，而基于 EVM 兼容链，往往无法兼顾使用体验、效率和成本。
+
+  
+
+
+BNB Greenfield 作为一条侧链，与其他解决方案完全不同，其与 BNB Greenfield dApps 和 BNB Smart Chain 三位一体的架构提供了更具互操作性的能力以及更低实现 Web3 愿景的成本。这意味着智能合约能够与用户自己的数据资产进行交互，减少了不同架构环境下的沟通摩擦，提高了使用效率，在去中心化存储赛道有着重要的意义。
+
+  
+
+
+本次翻译工作由 Buidler DAO 翻译小组成员在两周内完成，但受限于紧迫的时间，我们可能仍有不准确或翻译疏漏之处，欢迎广大读者联系我们指正！
+
+  
+
+
+在此，我们再次感谢参与本次翻译和校对的成员：@ Kyle, Nicole, Paul, SelinaB., Wenchuan, W.K.H  
+  
+
+
+
+
+---
+
+  
+
+
+  
+
+
+PDF 下载（点击“**阅读原文”**下载完整版 PDF）：
+
+https://maipdf.com/doc/d11237802301@pdf
+
+  
+
+
+Notion 在线阅读（复制链接至浏览器打开）：
+
+https://buidlerdao.notion.site/BNB-Chain-Greenfield-ad5e3c88aa0e47eb82eb853885fc0a66
+
+  
+
+
+![](https://img.foresightnews.pro/202302/58d10d9a12cec479d0b2977655e69946.png?x-oss-process=style/scale70)  
+
+
+**总览**
+
+  
+
+
+在经过 14 年的发展和几轮牛市，人们开始熟悉区块链、分布式（或去中心化）账本技术、加密货币、DeFi 等，以及围绕这些概念和实践建立的经济模型。许多人持有和交易代币，参与相关活动，这可能改变或已经改变了价值交换和管理的方式。
+
+  
+
+
+2014 年由加文·伍德（Gavin Wood）所创的“Web3”一词，在 2021 年再次成为热门话题。在所有“Web3”的定义中，我们 BNB 基金会和 BNB 链核心开发团队最终接受了 **Eshita** 的定义：
+
+  
+
+
+**Web3 是在 Web2 的“读 - 写”中增加“拥有”。**
+
+  
+
+
+我们相信区块链带来的是资产和有价值的物品如何在人们之间拥有、交换和转移的自由。
+
+  
+
+
+加密货币行业已经涵盖了金融资产：代币、稳定币和 DeFi 涵盖了许多经济场景。另一方面，NFT 实现了艺术和收藏品。但仍然有许多项目没有足够的创新，例如信用、现实世界资产（RWA）代币化，以及我们在本文中想要关注的：**数据**。
+
+  
+
+
+数据资产的价值在仅由一个人持有时并不明显。当它们被共享和使用时，它们的价值就变得更大。拥有和交换写入、读取、授予共享数据的权利，甚至通过执行一个数据来生成另一个数据，是非常有价值的。这些能力从金融特征中衍生出价值：由于它们是可交易的，**交易可以产生更多价值，使双方受益，而不是仅仅一方。**
+
+  
+
+
+我们预见到需要为数据创建新的 Web3 基础设施，因为两个主要功能仍然缺失：性能优良、方便和友好的去中心化存储基础设施，以及面向数据的智能合约协同。因此，我们决定创建一个新的 BNB 侧链和相关基础设施，使用户和开发者可以：
+
+  
+
+
+1. 使用基于匿名密码学的密钥（ID）进行“登录”；
+2. 以与当前云存储服务相似的用户体验和成本创建、读取、共享和执行数据；
+3. 完全拥有自己的数据资产，并控制谁可以使用它们以及如何使用它们；
+4. 轻松将数据资产置于广泛的基于智能合约的经济背景中，以获得与它们相关的财务价值。
+
+总之，通过这种新的基础设施，用户可以以更高的自由度“登录”，创建，拥有，共享，执行和交易他们的数据资产，并更加了解他们的数据如何被拥有和使用。
+
+  
+
+
+数据生命周期的透明度是 Web3 时代的关键。它有助于显示数据如何生成和使用，以便用户能够并想要控制它。更重要的是，它鼓励社区引入更开放和公平的新商业模式。
+
+  
+
+
+本白皮书是关于这样一系列系统的设计和实施的，名为“BNB Greenfield”，并呼吁更多的“buidlers”用它来建立自己的数据基础设施和业务。
+
+  
+
+
+**目录**
+
+**第⼀部分**
+
+1. 设计原则 
+
+2. 假设 
+
+3. 总体架构 
+
+4. BNB Greenfield 核⼼ 
+
+5. The Greenfield 数据存储 
+
+6. 存储经济学及其原语（Primitive） 
+
+7. 数据资产经济 
+
+8. 设计尚未结束 
+
+**第⼆部分**
+
+9. 示例：去中⼼化存储 
+
+10. 示例：数字出版的新⽅式 
+
+11. 示例：⽤户⽣成内容 
+
+12. 示例：个⼈数据市场 
+
+13. 从示例到实际产品 
+
+**第三部分**
+
+14 ⽣态中的⻆⾊ 
+
+15. ⽤户标识符 
+
+16. Greenfield 区块链 
+
+17. 存储元数据模型 
+
+18. 有效荷载的存储管理 
+
+19. 数据可⽤性的挑战 
+
+20. 存储交易 
+
+21. 计费和付款 
+
+22. 跨链模型 
+
+23. SP APIs 
+
+**资料领取**
+
+ 公众号后台回复 **Web3 入门** 即可领取 **Web3 Buidler 养成计划** 所有资料
+
+往期推荐
+
+Buidler DAO x Sui：Sui Move 官方系列课重磅发布
+
+[![](https://img.foresightnews.pro/202302/dbeb7d3b38f6eb3174bfe93a14b2a8e3.png?x-oss-process=style/scale70)](http://mp.weixin.qq.com/s?__biz=Mzg2MzgxNjAyOA==&mid=2247487198&idx=1&sn=7ad27b896c20e3d2ba55dcd2f7d65c70&chksm=ce739eedf90417fbe9443ade11e1fbd6c63c0d800c731723d7cc9cfa8a8da23da019fad27083&scene=21#wechat_redirect)Buidler DAO：Push Protocol 如何填补 Web3 通信空白
+
+[![](https://img.foresightnews.pro/202302/c87e6b9fc747a4377ecf26c40ab5221b.png?x-oss-process=style/scale70)](http://mp.weixin.qq.com/s?__biz=Mzg2MzgxNjAyOA==&mid=2247487200&idx=1&sn=31757155357a3150320ffb83d8cbb8f6&chksm=ce739ed3f90417c5a9308962b846c16da0993103cd1db383e47bbc1d2c0c707df20f27742735&scene=21#wechat_redirect)Buidler DAO: Tokenomics, 加密世界的经济秩序
+
+[![](https://img.foresightnews.pro/202302/2be870e36f4823d284829c7d3c6e82ba.png?x-oss-process=style/scale70)](http://mp.weixin.qq.com/s?__biz=Mzg2MzgxNjAyOA==&mid=2247487080&idx=1&sn=15a584a2b58e6e95e6fd5d6bdaad2842&chksm=ce739e5bf904174d14f9a34e0ce62fc3a43263609e2ca3922aa5c81d4fadd6b4dc772f91ab8c&scene=21#wechat_redirect)  
+
+
+ Buidler DAO 
+
+  
+
+
+MOVE OVER HODL,   
+
+
+IT'S TIME TO BUIDL!
+
+  
+
+
+Buidler DAO 聚集技术、投研、运营等领域的 Web3 实干家，以 DAO 的方式组织内容输出和产品实践，建立 Web3 人才网络和项目加速器；以自身实践打造 SocialDAO 治理范式和 DAO Tools 解决方案。
+
+  
+
+
+内部五大公会共同协作：孵化、技术公会构建项目加速生态；投研、教育公会输出深度内容；运营公会负责社区治理与增长。
+
+  
+
+
+官方链接：https://link3.to/buidlerdao
+
+深度参与：https://tally.so/r/wA7LlN
+

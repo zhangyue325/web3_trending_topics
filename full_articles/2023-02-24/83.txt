@@ -1,0 +1,70 @@
+![](https://img.foresightnews.pro/202302/72a075dd2a6d5616efb409be8a605e9d.png?x-oss-process=style/scale70)本周一晚受到香港加密货币政策的利好，这周市场情绪持续高涨，BitKeep 也第一时间为大家上线了香港概念专区，支持 $MASK,$SAND,$FIL$TVK 等多个香港概念币，BitKeep 研究院重点推荐的 HongKong 概念代币 $ACH，从**推荐至今整体上涨 70%**。此外，由于前期**Arbitrum 生态的暴涨，其衍生 DEX 代币也随之上涨**，本周 BitKeep 为大家甄选的**ARB+DEX 组合**概念的代币都表现的十分亮眼，其中**$OREO 最近一周上涨 133.09%，**$ZYB,$MMT 等代币的表现也远高于市场平均水平。
+
+本周**BitKeepSwap 第一时间上线了香港专区和 ZK（ZeroKnowledge）专区，**帮助大家第一时间捕捉市场热点并筛选出优质项目方便大家参与交易，更多异动代币及实时热点动态欢迎大家前往 BitKeep 体验。
+
+接下来我们将通过根据研究院给的数据和结论，对这些资产进行项目解析、深扒对比它们的项目背景，价格优势与潜力。
+
+本文提到的所有项目都可以在 BitKeep 钱包中交易，BitKeep 每天都会为大家筛选出优质的资产以及 NFT 项目分享给 BitKeeper，帮助大家在轻松获取最新资讯，第一时间抓住行情。
+
+🚨 本文中的所有信息均不构成交易建议，所有内容仅用于教育目的，请大家根据自身情况做好判断。🚨
+
+**ARB+DEX 概念币：**
+----------------
+
+![](https://img.foresightnews.pro/202302/80d167824de595b2779adedf8a79b936.png?x-oss-process=style/scale70)Zyberswap 是首批在 Arbitrum 区块链上具有自动做市商 (AMM) 的去中心化交易所 (DEX) 之一，其 Staking 和 Yield Farming 的奖励是整个 Arbitrum 生态系统中最赚钱的。 Zyberswap 通过代币模型，计划将 85% 以上的 $ZYB 用于激励用户做 LP，**目前 ZYB-USDC、ZYB-ETH 池子的年化收益率还有 1400% 以上**，由于持续的激励政策导致项目的 TVL 快速上涨，快速上涨的 TVL 同时带动 $ZYB 价格快速上涨。
+
+目前项目**TVL 已经达到 170 万美金，位于 ARB 生态中的第二名仅次于 GMX，**以 TVL 计，它的总价值锁定在 1.7 亿美金左右。它的 **TVL 在过去 7 天内增加了 100%，并在过去 30 天内增加了 886 倍。**TVL 暴涨的原因可能是该协议提供的原生代币奖励非常高。一些池子主要通过排放 $ZYB 提供超过 1000% 的年利率。
+
+Zyberswap 官方还宣布了与知名跨链桥项目 axelar 合作，将开发跨链 swap 的功能。其 Launchpad 功能也有所更新，**受到了整体 Arbitrum 生态气氛良好的支撑，$ZYB 价格还是持续看好的。**
+
+![](https://img.foresightnews.pro/202302/3d63679e076eef6a33e027d1d06d0eb9.png?x-oss-process=style/scale70)AlienFi 是一个建立在 Arbitrum 链上的**去中心化交易所 (DEX)**，AlienFi 在 Arbitrum 网络上提供快速、廉价和安全的 DeFi 资产交易。融合 DeFi、NFT 、质押、农场、DAO 以及元宇宙等多重热门概念为一体。
+
+AlienFi 专注于代币采用和增加平台上的总价值锁定（TVL）。**$ALIEN 代币没有最大供应量**，为了保证对代币数量和价格的控制，AlienFi 已经实施了铸造和燃烧 $ALIEN 的系统，这套系统同样也负责 $ALIEN 的排放和分配。
+
+OreoSwap($OREO) 最新的价格是 **$0.4455**，24 小时的交易量是 $54.4. **最近一周涨幅 47.42%**。
+
+OreoSwap 是第一个在 Arbitrum 区块链网络上提供自动做市（AMM）和 NFT 养殖的 DeFi 平台。OreoSwap 提供全方位的去中心化金融服务——DEX（兑换）、质押和流动性池。OreoSwap 还具有很多独特的功能，如 DEX 智能交易、NFT 整合和 DAO 治理，**重新定义用户的 DeFi 体验**。
+
+OreoPad 作为 OreoSwap 生态系统的一部分已经完成 IDO，即将正式上线 ，**加上本月原生代币 $OREO 刚进行了一轮销毁，短期币价趋势依旧看涨。**
+
+香港概念
+----
+
+![](https://img.foresightnews.pro/202302/bf9ec3ab49189cc92e3b0e44e6e055f7.png?x-oss-process=style/scale70)Alchemy Pay 是具有适应性的加密支付基础设施，本周受到香港概念的爆火再次获得大家的关注。
+
+Alchemy Pay 官方宣布与**Google Pay 合作展开法币购买加密货币的业务**，可以大大打通 Web3 金融和美元资产的通路，对 Alchemy Pay 的主营业务较大的支持。消息已经发布，1 个小时内 TW 获得 2.5 万的浏览量，引起社区的讨论和点赞。其原生代币**$ACH 当日上涨 30%+，放量 2.5 倍左右**，交易热度高涨。除此之外，**Conflux Network 也宣布集成 Alchemy Pay，支持使用法币购买加密货币。**
+
+本周香港概念普遍平稳上涨，随着香港政策的乐观情绪发酵和项目落地，Alchemy Pay 作为亚太地区领先的去中心化数字货币支付提供商**一定会持续受到市场关注**。
+
+![](https://img.foresightnews.pro/202302/bd55ee04b807f2f01ad3819dd7fc0791.png?x-oss-process=style/scale70)Wombat Exchange 是基于 BNB Chain 的原生多链稳定币兑换协议，为用户提供最佳的汇率和无缝的兑换体验。作为一个拥有 4600 万 TVL 的项目，Wombat 目前的流通市值只有 800 万美金，更有 BNB Chain 的 Curve fork 说法。
+
+WombatExchange($WOM) 不仅获得 Animocabrands 和 GSRVentures**两家香港顶级机构的投资。还和 Binance 关系也非常好，BNBChain 和 BinanceLabs 都参投了**WombatExchange。目前 $WOM 市值不到 1M 美金，发了币但还没上币安，值得重点关注，随时可能上线币安并伴随一波暴拉。另外，根据**社区透露 $WOM 在 Q2 有新的 CEX 列入计划**。
+
+DeFi：
+-----
+
+![](https://img.foresightnews.pro/202302/fdbd162ca997f07adde157b09942d36b.png?x-oss-process=style/scale70)DEXTF 是一种连接点对点投资者和投资组合经理的协议。**$DEXTF 是一种混合代币**，它结合了多个不同的 DeFi 项目的特点：收益率、衍生品、合成产品、期权等。$DEXTF 最新的价格是 $0.2327，**最近一周涨幅 274.07%。当前成交量是自 2021 年以来从未见过的水平，代币价格短期爆拉 30 倍。**
+
+德意志银行合作的新闻影响力巨大，市场尚未消化这个消息。对于一个与 240 亿美元的银行合作的代币来说，$DEXTF 现在的市值才 420 万美元左右，处于严重被低估的状态。
+
+虽然 DEXTF 炒作情绪较高，但是其项目有一定的时间沉淀，数据可以追溯到 2020 年，许多人已经对这个项目进行了深入的研究，项目可靠性较高。加上 K 线走势非常稳且呈上涨趋势，**建议持续关注有望继续拉升。**
+
+Roseon Finance 是一种混合解决方案，可桥接分散式 (DeFi) 和集中式金融服务 (CeFi)。
+
+$ROSN**即将从 BSC 迁移到 Arbitrum 并推出他们自己的衍生品交易所**。$ROSN 已经在 Kucoin, MEXC, Gate 等多个交易所上线，并聚合了 SushiSwap、GMX Pool。当前市值 200 万美元，是个很好的入场点。
+
+从盘面看来，**K 线近期走势强，底部放量上涨，交易活跃，**仅 24 小时交易额高达 92 万美金，量价齐升。加上 Arbitrum 依然处于黄金上涨趋势，而 $ROSN 即将迁移至 Arbitrum 并更名 $ROSX，**对于价格的上涨具备一定想象力。**
+
+结论：
+---
+
+L2 赛道自 OP 和 Arbitrum 上线后，整个公链格局都被改变，如今 Arbitrum 的 TVL 总量已经成为 L2 赛道 TOP1，不出意外的话，Arbitrum 在未来市场将持续领跑 Layer2。
+
+随着 Arbitrum 上衍生品 DEX 的成功后，OP 上衍生品 DEX 也同样具备炒作空间，同为 L2 赛道的两大当家花旦，Arb 最近的爆火带给 OP 带来了极大的压力。据 OP 官方最新消息，OP 与 Coinbase 交易所将合作发行新公链 Base，消息一出 OP 概念币集体异动，让我们一起期待 OP 接下来的表现吧。BitKeep 也将第一时间设立专区将最新信息分享给 BitKeeper。
+
+加入 BitKeep 社群获取更多信息: <https://t.me/Bitkeep_New>
+
+Contact us: [Website](https://bitkeep.com/en/)︱[Twitter](https://twitter.com/BitKeepOS)︱[Telegram](https://t.me/bitkeep)︱[Discord](https://discord.com/invite/gUQB7gUarR)︱[Youtube](https://www.youtube.com/channel/UCD2S03RS-Q08VdJqZpuOCFQ)︱[FaceBook](https://www.facebook.com/BitKeep/)︱[Instagram](https://www.instagram.com/bitkeep_global/)
+
+*风险提示：数字货币是一种高风险的投资方式，请投资者谨慎购买，并注意投资风险。BitKeep 会遴选优质币种，但不对投资行为承担担保、赔偿等责任。数字资产合约交易是创新的产品，风险较高，专业性较强。请您理性判断自己的投资能力，审慎做出投资决策。*
+

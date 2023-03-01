@@ -1,0 +1,271 @@
+*特别感谢 Loot 中文社区核心成员&布道者、Loot 元老级持有者 @Taylor Zhang， 以及 Dark Forest 活跃玩家、DF Archon 的核心成员 @byeddy 两位大佬，对文章的指导以及对烦人作者不厌其烦的解答，才让作者对两个生态有了更加清晰深刻的理解，感恩！！*
+
+*本主题共有 3 篇，此为 【上篇：一切的开始与 Dark Forest】*
+
+1. 引言
+-----
+
+区块链游戏的概念在非常早的时候便已存在，甚至可以说若没有对链游的畅想，便没有今天的区块链。
+
+毕竟，以太坊这颗参天大树的种子，便是万恶的中心化游戏对玩家进行「突袭」时埋下的， [那年魔兽对术士进行了大削](https://www.pcgamer.com/the-creator-of-ethereum-got-into-crypto-because-blizzard-nerfed-his-character/)，这让一个曾经眼中有光的青涩术士男孩哭成了泪人，从此魔兽世界少了一名术士，世界上多了一个 V 神，而他也成为了无数人的光。
+
+当我们顺着时间再往后走两步就能看到，如今已成为加密世界中极其重要的标准 ERC-721 的起点，也来自于一个叫 CryptoKitty 的游戏，其造成了以太坊网络第一次的严重拥堵，同时也启发了后续 X2 E 鼻祖 Axie Infinity 的出现，开启了一个新的纪元。
+
+伴随着 21 年 NFT 浪潮的造富效应和 BSC 生态的发力，大量项目方将目光放到了游戏这块自古以来的香饽饽上，区块链游戏的概念被再次提起，链游进入了一段「看似快速」的发展周期。
+
+![](https://img.foresightnews.pro/202302/5-1677133277716.png?x-oss-process=style/scale70)
+
+然而时至 2023 年的今日，当我们面对着 2,000 余款链游，仅 70 余万人机比例未知的日活，以及被斩到脚后跟的市值，我们实现了当初对链游的畅想吗？从这副被 X2Earn 游戏尸体堆满的光景中，很难得到肯定的答案。
+
+2. 全链上游戏 Fully On-Chain Game
+----------------------------
+
+### 2.1 到底什么是「GameFi」
+
+去讨论它们失败的原因非常困难，每个人对于成功的定义都不同，或许在某种层面上它们也获得了自己的成功。大家更想了解的其实是他们为何没有很好的存续下来，游戏这个品类究竟如何才能更好的在区块链这片土壤上生长？
+
+回到链游之初，GameFi 这个词被真正流传开，其实是从 DeFi 领域的灵魂人物，Yearn Finance 的 CEO Andre Cronje 2020 年 9 月的一条推文开始的，他认为将游戏化机制放到货币政策体系的想法非常有趣，能够改变当时 DeFi 都卷交易类项目（TradFi）的环境，让 DeFi 变得更游戏化（GameFi）。
+
+![](https://img.foresightnews.pro/202302/5-1677133324430.png?x-oss-process=style/scale70)
+
+因此在当时出现了两种思路：
+
+* 一是 DeFi 游戏化 ：即将 DeFi 和 NFT 进行结合，套路还是质押产出，但中间套了一层 NFT，比如当时的 [Aavegotachi](https://twitter.com/aavegotchi)和 [Meme](https://twitter.com/DontBuyMeme)；
+* 二则是将游戏 DeFi 化：即缩减游戏其他部分的内容，强化经济模型，将游戏行为往质押产出去靠拢，也成为了 Play2Earn，本质上其实就是流动性挖矿，最火的便是当时的 [Axie Infinity](https://twitter.com/AxieInfinity)。
+而无论是哪种思路，其核心都是围绕着 Fi，其用户群体始终是以投入产出为目的的 DeFi 用户。
+
+但 Axie 的爆火，还是成功的吸引到了不少的游戏从业者甚至是玩家本身，觉得这游戏做成这样，我上我也行，于是铺天盖地的 GameFi 开始向市场袭来，都认为自己是真正的去中心化游戏，打着 Game 的名号来 Fi 所有人，最后说区块链里只有投机者。
+
+这些项目中的一部分人根本不在乎，而在乎的人中大多始终没能想清楚，GameFi 从一开始就不是 Game。Gamification 和 Game 在底层逻辑上就是两码事儿。
+
+### 2.2 区块链游戏形态的分类
+
+如果我们对一个游戏的模块进行简要的拆分，可以大概的拆分成 3 个部分：
+
+1. 叙事部分：关于游戏宇宙的背景、人物的故事，以此建立玩家的动机，即便是简单的休闲游戏也能出现极具影响力的叙事，比如愤怒的小鸟；
+2. 核心游戏逻辑：玩家主要的交互部分内容，通过游戏引擎设计的各类元素和规则，同时也包括游戏后台的计算和渲染等环节；
+3. 经济模型：资产与货币的产出、消耗及勾稽逻辑，包括与外部货币（法币）的关联。
+当下大部分的链游，主要是对经济模型进行了改造，即将货币和部分的资产进行了上链，但核心的游戏逻辑和计算，以及叙事和治理都仍然是中心化的，在 Jump Crypto 的报告中，这类游戏被称为资产上链型游戏 (On-Chain Assets, OCA)
+
+![](https://img.foresightnews.pro/202302/5-1677133455687.png?x-oss-process=style/scale70)
+
+在这种基础上，货币和资产上链的行为，除了增加了流通效率，在其他层面上的意义并没有我们想象中的大，中心化的调控政策同样有可能使玩家持有的资产瞬间归零，而当项目方跑路之后，玩家手中所谓永久的资产价值又剩多少呢。
+
+而还有一种与区块链关联更小的模式仍被部分的游戏所使用，这类模式往往是早期传统游戏想在极短的时间内进入 web3 所使用的。
+
+在 OCM 的模式中，所有的一切都与传统 web2 游戏一样，资产与货币的发行也均是中心化的管理，但玩家拥有将自己在游戏中持有的某些资产铸造成 NFT 完成上链，以达到自由流通的目的。同时游戏方也会将一些权益或功能的权限以 NFT 的形式售卖。
+
+![](https://img.foresightnews.pro/202302/5-1677133480358.png?x-oss-process=style/scale70)
+
+上述的 2 类游戏可以被称之为使用了区块链技术的游戏，但显然无法称得上是去中心化的区块链游戏。因此，当理解到了如此的现状后，越来越多的目光开始集中到了真正的去中心化游戏上：全链上游戏。
+
+全链上游戏指的是将游戏内所有的行为交互及目标状态全部上链，即核心的游戏逻辑以及资产经济模型都经由区块链处理，将区块链作为游戏的服务器，而玩家所有的操作均通过与智能合约的交互完成，甚者连游戏的叙事和治理也通过 DAO 的形式完成去中心化，以此来实现真正的去中心化游戏。
+
+![](https://img.foresightnews.pro/202302/5-1677133519280.png?x-oss-process=style/scale70)
+
+目前全链上游戏的领域刚刚进入萌芽阶段，已经出现了一些非常有意思的游戏比如 [@Conquest](https://twitter.com/conquest_eth)、[@Tropology](https://trtwitter.com/topology_gg) 的 MuMu、[@0xCurio](https://twitter.com/0xcurio)的 Treaty、Paradigm 的 0xMonaco，包括曾经一度非常火爆的 Wolf Game 狼羊游戏等等，当然在这领域中绕不开的两座大山仍然还是 Dark Forest 和 Loot。
+
+3. 全链双雄：Dark Forest 黑暗森林
+------------------------
+
+Dark Forest 的灵感来自于著名的科幻小说《三体 2：黑暗森林》，其是首款全链上的不完全信息类游戏。
+
+作为一款太空 MMORTS 游戏，其能同时容纳上千名玩家在随机生成的无垠宇宙中探索、建造和彼此征服，同时所有玩家的行为和状态都会更新上链，却不向他人公开。
+
+### 3.1 背景&历史
+
+Dark Forest 想法最早的提出者及创始人是 @[Gubsheep](https://twitter.com/gubsheep)，他正巧参加完一个关于零知识证明的会议，便被刘慈欣所描绘的黑暗森林理论所折服，于是便有了一个利用零知识证明，创造一个「加密世界中的黑暗森林」的想法。（注：Mask 团队曾牵线帮助 Brian 联系到三体版权方游族，并赠予其一本刘慈欣亲笔签名的三体）
+
+在最开始这只是一个非常实验性甚至带有些玩票性质的想法，毕竟游戏作为一个高频交互的应用，在当时乃至现在的区块链环境中都面临着巨大的挑战，更别说将刚刚萌芽的零知识证明应用到如此复杂的系统当中，谁也没曾想 Dark Forest 不仅实现了这个概念，甚至成为了区块链历史上的一个里程碑。
+
+早期黑暗森林团队的主要成员由 Gubsheep、[@Alan](https://twitter.com/alanluo_0)、[@Ivan](https://twitter.com/chubivan)和 [@Moe](https://twitter.com/JannehMoe)构成。
+
+![](https://img.foresightnews.pro/202302/5-1677133709987.png?x-oss-process=style/scale70)
+
+团队在 2020 年的 8 月 7 号正式推出了游戏的第一个[测试版 v0.3](https://web.archive.org/web/20221219131839/https://blog.zkga.me/v3-rules)，部署于以太坊的 Ropsten 测试网。玩家需要获得早期发放的邀请码方能参与游戏，测试版本开放一周后结算删档，根据获得积分进行排名，并对 Top 15 名的玩家设置了 1024 DAI 的奖池，第一名将获得 256 DAI 的奖励。该版本在上线后没多久，就获得了 V 神的亲自盖章推荐。
+
+![](https://img.foresightnews.pro/202302/5-1677133741205.png?x-oss-process=style/scale70)
+
+随着社区的成长，后续也有了更多的成员和志愿者的加入，包括 [@Scott Sunarto](https://twitter.com/smsunarto)、[@spencecoin.eth](https://twitter.com/spencecoin)、[@Andy](https://twitter.com/Kooshaba) 等社区成员都为 Dark Forest 的发展做出过许多杰出贡献。
+
+在 2020 年 10 月 2 日，Dark Forest 的 [v0.4 版本](https://web.archive.org/web/20201028151930/https://blog.zkga.me/dark-forest-v04)正式上线，该版本部署在了 xDAI STAKE 网络上，可参与的玩家数量为 v0.3 的两倍，同时采用了 Burner Wallet（一次性钱包），并将开放时间增加至了 10 天。与 v0.3 类似，玩家需要获得邀请码方可参与，并同样设有 1024 DAI 的奖池分配给最终排行榜的前 15 名玩家。
+
+Dark Forest 的 [v0.5 版本](https://web.archive.org/web/20221207194613/https://blog.zkga.me/dark-forest-v05)则上线于 2020 年的圣诞节，开放时间增加至了 14 天（2020/12/25 - 2021/01/08），这个版本中增加了十分重要的插件系统，同时也加入了可被探索的特殊 NFT。
+
+[v0.6 版本](https://web.archive.org/web/20221207194613/https://blog.zkga.me/dark-forest-v05)则是 Dark Forest 最新的一个版本，该版本共分为了 5 轮，时间跨度长达 9 个月，增加了许多新的功能和游戏元素，并且发生非常有意思的《[一段「史诗般」的故事](https://mirror.xyz/vanishk.eth/TgEzC8MvAF2J5QBU61Xl1OsmgRVNX7mMOCA55GvRIh4)》。
+
+### 3.2 参与方式
+
+目前 Dark Forest 官方的 v0.6 版本已经结束，且尚未公布下一轮的相关消息，根据过去版本的情况，玩家可以 [zkga.me](http://xn--zkga-955fa488fqia59w.me/)网⻚中填写邮箱进入邀请码候选列表，而在上一轮测试当中获得积分的玩家则在游戏前收到邀请码，一般有多余邀请码的玩家会在 Dark Forest 的官方 Discord 中分享，普通玩家可以去碰碰运气。
+
+但除了官方轮，玩家们也可以多留意相关社区自行组织的社区轮，比如最早 MarrowDAO 的《[For Pioneer](https://buidl.mirror.xyz/PLGtmKyqiKgwLJ9-3RjSUWGl7IKSKc9kr_7Sr99yv38)》和 dfDAO 的 《[新年社区轮](https://medium.com/dfdao/a-dark-forest-new-years-community-round-death-of-the-universe-785af7c2b56e)》。
+
+在 2022 年 3 月 1 日 Dark Forest 团队上线了 [Lobbies 系统](https://web.archive.org/web/20221005183434/https://blog.zkga.me/hosting-a-dark-forest-community-round)，能让社区快速的完成一键开服，后续包括 277DAO 在内的社区和个人都曾借助该系统筹办过数轮社区轮次。
+
+而如果只是想感受下 Dark Forest 基本游戏操作的小伙伴，可以去 [Dark Forest 官网](https://zkga.me/)的 Lobbies 或是 dfDAO 开发的 [Arena 系统](https://arena.dfdao.xyz/)中创建一个小宇宙体验一下，对于相对有编程经验的小伙伴则可以使用 ProjectSophon 提供的 [DarkForest 本地版](https://github.com/projectsophon/darkforest-local)进行体验。
+
+### 3.3 游戏核心玩法
+
+作为一款 RTS 即时战略游戏，资源是游戏展开的核心，而最核心的资源便是天体的能量，玩家通过传输能量来完成对天体的守护与侵占，从而在整个随机生成的宇宙中进行探索，在这个过程当中玩家将根据规则尽可能多的获得积分，根据最终积分评定排名和奖励。
+
+每一轮游戏都有着不同的积分规则，常见的是根据玩家获得的资源总量按特定逻辑进行转化实现，也有像 v0.6.3 中根据玩家拥有星球中距离宇宙中心最近的距离进行判定的特别规则。
+
+在这一节，将仅对游戏的界面和核心元素做简单的介绍，想了解更全面详细的内容推荐 MarrowDAO 的这篇《[黑暗森林不完全指南](https://mirror.xyz/bitnews.eth/HZe6uO_faEvwut39jQvMtzNorKzpkTLdvZrEo6J4sTU)》，以及 YouTube 上 [Spencecoin 的视频介绍](https://www.youtube.com/watch?v=keY4a9cKmgg)。
+
+* 战争迷雾：一个不完全信息类游戏的核心，以灰色区域呈现，玩家可以将自行将探索游标放置至指定区域，游标将根据 CPU 或 GPU 的哈希率展开探索；
+* 天体：
+* 种类：截止至最新的 DF v0.6，共有 Planet ( 行星 )、Spacetime Rip ( 黑洞 )、Asteriod Field ( 小行星场 )、Quasar ( 类星体 ) 和 Foundry ( 铸造厂 )5 种天体类型，不同类型有着不同的功能，通常而言行星会是主要的据点，黑洞用来提取和运输神器，小行星场产出银矿，类星体作为能量和银矿的仓库，铸造厂产出神器。每种类型的天体均有等级 (Level) 和属性阶级 (Rank) 的设置，属性分为以下 7 种：
+* [属性 / 资源] Energy ( 能量 )：以「目前能量 / 最大能量 (eg. 100 / 400)」数值呈现，是游戏中的核心资源，是防御、攻击和运输时的唯一消耗，将能量传输至目标天体后，若抵达能量值大于目标天体的 ( 现有能量 x 防御系数 )，即可占领该天体；
+* [属性 / 资源] Sliver ( 银矿 )：以「目前银矿 / 最大银矿储存 (eg. 0 / 100)」数值呈现，同样是游戏中的核心资源。是升级行星时的必须消耗品，同时在被运送至黑洞 withdraw 后将会被计入积分；
+* [属性] Energy Growth ( 能量生成速率 )：除了 Quasar 类星体，其他天体均会根据该速率及目前能量比例，随时间不断地生成能量，直至该天体的能量上限；
+* [属性] Sliver Growth ( 银矿产出速率 )：产出银矿的速率；
+* [属性] Defence ( 防御 )：属于百分比系数，代表当前能量值能抵御百分之多少的能量攻击，若当前能量 200，防御 300，则能抵御 600 能量的攻击；若防御为 50，则只能抵挡 100 能量的攻击；
+* [属性] Speed ( 传输速度 )：决定了资源的传输速度；
+* [属性] Range ( 射程 )：在黑暗森林中能量的传输会随距离而衰减，该值代表传输能量衰减至零的最大距离；
+* Artifact 神器：神器为具有强大能力的一种特殊 NFT (ERC-721) 道具，仅能从 Foundry 铸造厂或是二级交易获得，有一次性的和可重复使用的两种类型，目前包括 Spaceship 在内共有 9 种神器 ( 神器 Spaceship 在 v0.6.5 被移除，变成了新的设定）；
+* Spaceships 宇宙飞船：在 DF v0.6 的最后一轮竞赛中，官方加入了[宇宙飞船的设定](https://web.archive.org/web/20220811181133/https://blog.zkga.me/v6-r5-announce)，玩家出生自带 5 艘类型不同飞船，每种类型都能为天体带来不俗的加成效果；
+* 积分：最终判断玩家排名的依据，由玩家所有已占领的天体的能量和银矿数量构成（v0.6.3 为例外）。
+   
+
+用户在官网进入会首先会看到的是一个命令行风格登录界面。
+
+   
+
+但用户只需要填对应选择的编号即可完成钱包的创建，创建好的钱包会将私钥储存在浏览器的内存中。
+
+   
+
+ 如果需要更换浏览器或电脑则需要将私钥导出后，在新的端上重新导入。
+
+   
+
+![](https://img.foresightnews.pro/202302/5-1677134374054.png?x-oss-process=style/scale70)   
+
+   
+
+![](https://img.foresightnews.pro/202302/5-1677134391144.png?x-oss-process=style/scale70)   
+
+在完成登录后，玩家便会进入到这样的初始界面中，正中央的便是玩家被随机分配至的母星。
+
+   
+
+* 右下角 红色框框内则是前述提到的属性信息，下面也有关于天体类别和所有者的信息；
+* 左上角红色圈圈内的则是玩家目前的积分情况；
+* 右侧的代码 Feed 则是所有行为的记录与反馈，可以看到行为是否有成功上链；
+* 而如果将视野缩放一下，就能看到蓝色范围外布满了灰色的战争迷雾，和正在一格一格探索的游标；
+* 到这里游戏就正式开始了，玩家可以通过按住母星，将鼠标拖动至想要占领的目标星球完成首次的能量传输。
+   
+
+Dark Forest 是一个十分自由开放的 MMO 策略类游戏，而且每一轮的游戏机制都会有略微的变化，因此需要玩家自由的发挥自己的想象力，去构建游戏内或是游戏外的打法。（没错，你完全可以去各大社区里面尔虞我诈一番来获得胜利 LOL）
+
+但通常而言，在开局的最早一段时间内都属于资源的积累期，在这个阶段，玩家普遍会先安装好自己顺手的插件，然后开始扩展视野，寻找蓝色 Nebula 区域外的黑色区域 Deep space 中合适的行星作为早期据点，并不断巩固自己的据点网络，同时开始寻找神器增加实力。
+
+有了早期的基础之后，便可根据自己的风格开展不同的战术部署，无论是向往星辰大海的探索型玩家，还是想赚点小钱的神器商人，亦或是主张斗争的侵略型玩家都有丰富的余地去施展自己的拳脚。
+
+在这里推荐一篇由 MarrowDAO 成员 [@xiangcai.eth](https://twitter.com/xiangcai88)分享的《[Dark Forest 个人策略心得](https://mirror.xyz/xiangcai.eth/Epz_mwS7uQUy0JcanS1RhpEGi0Dh3yisd7vdo8bRmvo)》，对新人玩家而言会是非常不错的参考。
+
+而如果想要了解更大规模的战争，可以看看这场由 [spencecoin 记录的约战](https://www.youtube.com/watch?v=o9A-cfDanTY&t=97s)，由 Ner0nzz（v0.6.1 排名第 2） 和 0x000da （v0.6.2 排名第 7）两位顶尖玩家在私下约定的规则中展开的一场宇宙鏖战，同时 Ner0nzz 也用[一篇文章](https://www.panewslab.com/zh_hk/articledetails/D35780083.html)从自己的视角用阐述了整场战役。
+
+### 3.4 Dark Forest 为什么耀眼
+
+前面我们对全链上游戏的定义以及 Dark Forest 进行了快速的介绍，但为什么 Dark Forest 那么重要，一个明明看上去十分粗糙简陋的游戏，为何会成为深入加密世界或是链上游戏过程中绕不开的名字？这就需要去了解 Dark Forest 到底实现了什么：
+
+* **全链上 Fully On-Chain, FOC**
+   
+
+在 Dark Forest 之前，全链上游戏的可行性一直都处于一个概念性的假设当中，因为游戏与其他的应用不太一样，尤其是想实现多人实时在线类的游戏，其有着对网络延时极高的敏感以及高强度的交互要求。
+
+   
+
+ 比如 MMORPG 或者 MOBA 类，可能一个玩家一秒内就会有 10 个以上的操作，和普通只需要和系统交互的应用不同，这些操作的交互对象即包括了系统，还包括了正在发生交互的其他玩家，而每个操作都需要获得即时的反馈才能推进游戏的进展，这在当时平均仅有 12-15 TPS 的以太坊网络上显然是不可能的事情。
+
+   
+
+并且要将游戏全部放至链上，也就意味着这些交互程序都需要以智能合约的形式部署，这对于游戏种类的选择以及游戏逻辑的设计都带来了极大的挑战。
+
+   
+
+而 Dark Forest 是第一个将这种概念性想法付诸实施的项目，其将所有的游戏规则和逻辑都以合约的形式部署至了链上，使玩家和宇宙的状态都会在任何交互发生后都实时更新在链上。因此即便时至今日，Dark Forest 仍然可以称得上是整个区块链中最复杂的应用之一。
+
+   
+
+* **zk-SNARK 实现不完全信息博弈**
+   
+
+在博弈的类型当中如果按照参与者掌握的信息程度来划分，可以被划分为完全信息博弈和不完全信息博弈，区别就是参与者是否能完全掌握彼此所有的信息，完全信息博弈中最典型的案例就是国际象棋，因为棋盘是公开的，所以参与者是在相同的信息基础上做决策；而不完全信息博弈的典型案例就是德州扑克，除了台面上公开的五张牌之外，玩家还有各自的两张底牌，这便提升了决策的挑战性。
+
+   
+
+在网络电子游戏中，不完全信息博弈最典型的元素便是「战争迷雾」，通过对视野的遮蔽来实现信息的不对称性。但该方法在曾经的区块链中几乎无法实现，因为一旦所有的游戏交互逻辑上链，玩家的交互内容和状态也会被更新至链上，变成透明可查的状态，因此战争迷雾也失去了意义。
+
+   
+
+![](https://img.foresightnews.pro/202302/5-1677134577704.png?x-oss-process=style/scale70)   
+
+但 Dark Forest 则首次采用零知识证明算法 zkSNARK，实现了对玩家交互信息的隐藏，使区块链上的不完全信息博弈变得具有可行性，同时也丰富了 zk 技术的应用场景和全链上游戏的可能性。
+
+   
+
+开源全链上游戏的模式赋予了 Dark Forest 一种非常重要的特质，那就是「Permissionless Interoperability 无许可的互操作性」。
+
+Dark Forest 本质上是一个以太坊智能合约，像是某种协议或规则，这首先意味着其不再受到特定客户端的局限 (Client Agnostic)，任何有能力的人都可以用自己喜欢的视觉形态，创造一个前端客户端来调取后端合约的参数；同时，这也意味着任何的地址都能与其交互，无论该地址背后是人、机器人或是另外一个智能合约，这不仅扩展了游戏策略的边界，也催生出了一个繁荣的插件生态 (Plugin)。
+
+在这个生态中，玩家们自发的去组合、构建和尝试各种各样的事物与玩法，从而形成了一个有机的社区。过程中所创造的东西也完全超出了官方的预期，比如神器的交易市场、天体的交易市场、行星的赏金系统甚至是战斗 AI 等等，这些插件的出现增添了更多的游戏目的和玩法，也让更多类型的玩家可以参与进来。而 Lobby 系统的推出以及链上引擎的发展，更是连规则也得到了释放，玩家可以自由的设定宇宙规则来开展游戏。
+
+这种开放的高组合性属性，毫无疑问的大幅拓展了游戏可能性的边界，让游戏玩家本身可以参与到游戏体验的构建当中，而不再是依赖于官方团队。
+
+### 3.5 Dark Forest 的生态体系
+
+如上文所述，随着 Dark Forest 的发展，生态成为了其非常重要的存在，甚至可以说在核心规则 / 合约部署完之后，就没官方什么事儿了，正如他们自己定位的一样，他们就如同实验室里的科学家，布置好培养皿的生长环境后，就静静期待着菌群的自由发展和演化。这里会对部分有料可考的社区及插件生态做一个简单的描绘，若想全面的了解，非常建议亲身参与到整个生态中进行体验：
+
+* [Dark Forest](https://twitter.com/darkforest_eth):首先是官方的社区，属于培养皿本皿，生态广场的概念，除了特定活动或公告的发布，以及日常的问题解决之外，运营行为较少；
+* [Project Sophon](https://github.com/projectsophon):是一个坚决不认为自己是 DAO 组织的美国团队，非常认可 Dark Forest 的理念与愿景，并与核心团队有着紧密的合作，成为了 Dark Forest 生态中密不可分的一部分。他们拥有十分强的技术能力，侧重与基础架构层面的技术搭建，他们曾写了一个[Dark Forest 本地库](https://github.com/projectsophon/darkforest-local)让用户可以自己在链下或链上开启一轮游戏；
+* [Orden GG](https://twitter.com/orden_gg):是一个非常硬核的乌克兰游戏组织，无论是代码能力还是游戏技术都有着很高的水准，曾在 v0.6 版本中连续 4 轮登顶第一，同时也是生态内优质的建设者，有很强的行动力和执行力，构建了神器的交易市场并且加了流动性池，另外还是 Aavegotichi ( 小幽灵 ) 的核心玩家，甚至给这个游戏做了个开源的客户端；
+* D\_F DAO:是 v0.6 版本时成立的早期以美国人为主的 DAO，是一个非常注重游戏体验创新的组织，同样具有非常优秀的开发能力，在 Dark Forest 宇宙中创造了许多有意思的东西，包括献祭流打法的星界巨像 ( 是一个智能合约，让成员将自己的星系贡献给合约，让其以集体的形式获胜 )、Dark Forest 的魔改版 [Dark Forest Arena](https://medium.com/dfdao/dark-forest-arena-14c47bfd4e8)( 一个 MOBA 形态的 DF 竞技游戏 ) 等等，在游戏中也擅长组织和尝试新的策略。整体有着不错的品牌宣传与运营，是 Dark Forest 中一个非常有活力的社区；
+* [MarrowDAO|GuildW](https://twitter.com/marrowdao):是一个由中国人构成的华语 DAO，非常积极的协助的 Dark Forest 生态的拓展与推进，属于 Dark Forest 的核心布道者，尤其是在华语圈内。MarrowDAO 组织内部产出了非常多优质的文章和策略分享，同时也有着不俗的开发能力，开发出了包括神器交易市场、GPU 开图工具在内的不少插件，同时也是整个 Dark Forest 生态中首个举办社区轮的组织，由于彼时尚未拥有 Lobby 系统，需要社区自行修改客户端和合约端的代码，其工作量和技术含量是不小的；
+* [277DAO](https://twitter.com/277dao_): 是一个专注于区块链游戏的华语社区，擅长于筹办活动，在 Dark Forest 的 Lobby 系统上线后曾连续举办了 5 轮的 Dark Forest 社区赛事；同时也是中文区内的主要布道者，翻译和编写了许多 Dark Forest 相关的教程与资料，并开发了一些有意思的小插件；
+* [DF Archon](https://twitter.com/DfArchon)：是一个专注于全链上游戏的开发者小团体，在 Dark Forest 生态中主要进行了很多插件的开发与整合， 并且将 DF 中的工具函数进行了更加用户友好的封装，构建成了 [DF-Gaia](https://github.com/dfarchon/DF-GAIA/blob/main/README.zh-cn.md)让开发者和玩家更好的使用，同时也创造了 Dark Foster 游戏中第一个天体赏金系统 DF-ARTEMIS
+* P DAO:是一个相对神秘的小规模中国人组织，在 v0.6.5 轮次方出现，不同于大型 DAO 的大规模插件使用和集团式的扩展策略，P DAO 更侧重于团队成员的高效协同，通过全程语音和班次轮替的策略，在 v0.6.5 实现了 7 名成员霸占前十的优秀成绩。
+插件是整个 Dark Forest 中非常重要的一部分，目前仅经官方审核收录于的[插件库](https://plugins.zkga.me/)的开源插件便达 55 款插件，在这里将仅做概述性的介绍。
+
+通过使用目的我们可以大致的将插件分为 3 大类：
+
+1. 可视化：由于 Dark Forest 原生的游戏界面相对简洁，因此便出现了许多能帮助信息更好呈现的插件，相对常用的包括：
+
+数据的可视化： Heat Map 热力图、小地图 Mini Map、能计算星球间传输时间的 Voyage Time、DF Archon 开发的地图导出工具 Map Filter Export 等
+
+     
+
+![](https://img.foresightnews.pro/202302/5-1677135071284.png?x-oss-process=style/scale70)
+
+     
+
+特定目标的高亮或标记：DF Archon 开发的两个抱团必备插件 友善标识 Peace Dove 和 高亮好友 Highlight Friends，高亮星球 buff 的 Hightlight Buffs 等等
+
+     
+
+![](https://img.foresightnews.pro/202302/5-1677135088792.png?x-oss-process=style/scale70)     
+
+2. 交易市场：主要为玩家撮合不同资源的交换，给玩家增加了新的游戏动机，包括但不限于：
+
+* 神器交易市场：D\_F DAO 的 [Artifact Market](https://darkforest.market/)， Marrow DAO 的[Dark Sea](https://github.com/snowtigersoft/darksea-market)
+* 坐标悬赏市场：由 0xSage 和 xyz\_pierre 利用 zk 技术开发的 [NightMarket](https://blog.zkga.me/nightmarket)，以及 Project Sophon 开发的[Broadcast Market](https://play2earn.projectsophon.com/)
+* 星球悬赏市场：DF Archon 开发的 [Artemis](https://github.com/dfarchon/DF-ARTEMIS)
+3. 自动化：这类插件使用的频率通常更高，主要通过脚本帮助玩家简化原本复杂繁琐的操作，提升执行效率：
+
+资源相关：神器的捕获和管理两件套 Hunt Artifacts、Artifactory、银矿的一键分配 Distribute Silver、一键汇集资源 Centralize Resources 等等
+
+ 
+
+![](https://img.foresightnews.pro/202302/5-1677135234330.png?x-oss-process=style/scale70)    
+
+战斗相关：一键捕获周边星球 Crawl Planets、自动重复攻击 Repeat Attack、一键协同攻击 Simultanous Attack、甚至能直接针对玩家发起战争的 Wage War 等等
+
+     
+
+![](https://img.foresightnews.pro/202302/5-1677135245635.png?x-oss-process=style/scale70)     
+
+除了官方审核收录的开源插件外，更有大量玩家或社区自主开发的插件或客户端，由此而构建出了丰富的游戏体验和多样性的玩法，甚至有社区玩家开发一个能自己玩 [Dark Forest 的 AI](https://twitter.com/nicksdjohnson/status/1427190777365417985)。
+
+这种围绕核心宇宙规则，向下无限展开丰富血肉，由玩家自由构建游戏体验和组合工具的开放生态模式，让 Dark Forest 拥有了比传统中心化游戏更广阔的可能性。
+

@@ -1,0 +1,93 @@
+长期以来，比特币持有者的口号之一是将 BTC 作为货币的唯一用途。现在这一点似乎正在改变……
+
+由于 Ordinals 协议，比特币 NFT 随之兴起，本文将介绍如何在比特币网络上铸造你自己的 NFT。
+
+如何铸造比特币 NFT
+-----------
+
+![](https://img.foresightnews.pro/202302/5-1677116220752.jpeg?x-oss-process=style/scale70)
+
+*图文：Logan Craig*
+
+比特币 NFT 的兴起是 NFT 生态系统中近期最大的故事之一。然而，这个早期的场景可能相当混乱。这个 Bankless 策略将向你展示如何以简单直接的方式铸造你的比特币 NFT。
+
+* 目标：学习铸造比特币 NFTs
+* 技能：初级 / 中级
+* 努力：不到一小时
+* 投资回报率：在 OG 区块链上的 DIY 铸造
+铸造比特币 NFTs 的初学者指南
+-----------------
+
+最近我在 Metaversal 上写了一篇关于比特币 NFT 场景的开始和蓬勃发展的文章。
+
+这一场景在 2014 年首次出现，当时出现了一个基于比特币的自定义代币网络 Counterparty。
+
+然而，Counterparty 最终未能获得重大关注，并最终被以太坊智能合约的崛起所掩盖，从那以后，以太坊智能合约催化了多次 NFT 繁荣。
+
+近十年来，大量的「比特币 NFT 生态系统」的概念始终不被认可，或者说，甚至被加密经济中的绝大多数人认为是不可行的。随着 [Ordinals](https://ordinals.com/) 的到来，这一切都发生了变化，Ordinals 是一种新协议，可以将元数据记录在单个 satoshis（比特币的最小单位）上。
+
+![](https://img.foresightnews.pro/202302/5-1677116274003.jpeg?x-oss-process=style/scale70)
+
+那么，为什么 Ordinals 会在此时异军突起？2014 年和今天有什么不同？
+
+首先，目前加密经济拥有一个蓬勃发展且发展良好的 NFT 生态系统，其中充满了能够轻松驾驭多个不同链的探索者。可以说，这次我们已经准备好了。
+
+其次，Ordinals 风格的 NFT 是一项创新突破，因为它们提供了一种将完全链上（Totally Onchain） NFT 直接铸造到比特币的新方法。在这里，「完全链上」意味着元数据（例如 NFT 的艺术）将可以无限期地从比特币区块链中检索，而不是从私有存储服务器或 Arweave、Filecoin、IPFS 等存储网络中检索。
+
+换句话说，就像我们迄今为止看到的所有 NFT 方法一样，Ordinals 风格的 NFT 具有许多独特的优点和缺点。
+
+![](https://img.foresightnews.pro/202302/5-1677116287360.jpeg?x-oss-process=style/scale70)
+
+在它们的优点专栏中，新的比特币 NFTs 提供了强大的永久性保证——至少从[目前的情况](https://twitter.com/ChainLeftist/status/1624802595725271041)来看——以及廉价的链上存储，这通常是非常昂贵的。
+
+至于缺点，这些铭文（Inscriptions）缺乏智能合约提供的可组合性和表达的可能性，并且比特币节点有可能最终将[它们删除](https://twitter.com/ChainLeftist/status/1624802598946496515)。
+
+不过，目前可以确定的是，这种新的比特币场景将继续存在，并且无疑会催生新的对 Ordinals 友好的钱包和铸币服务的激增。最近几周我们已经看到了这种激增的开始，因为多个项目已经开始提供简化的比特币 NFT 工具，而最初它需要运行用户自己的比特币节点才能与这些 NFT 交互。
+
+开始使用比特币 NFTs
+------------
+
+所以假设你有兴趣。你想尝试创建一个比特币 NFT，但你更喜欢简单的 NFT 铸造流程，而不是必须启动自己的节点，那么在这里你可以有多种选择。但在开始之前，你还需要两样东西：
+
+* 一些比特币
+* 一个兼容 Ordinals 的钱包
+就像在以太坊上铸造 NFT 需要 ETH 作为 gas 一样，你需要用 BTC 支付来完成比特币 NFT 铸造交易。在撰写本文时，gamma.io 上的正常铸币费约为 50,000 sats，即约 0.0005 BTC 或 13 美元。
+
+然而，根据需求，该费用可能会大幅波动。因此，购买价值 25 美元的 BTC（大约是 0.001 BTC），应该可以涵盖你的第一笔铸币费用，但如果考虑到波动，购买价值 50 美元的比特币可能才是你的最佳选择。
+
+当涉及到建立一个钱包时，请不要懈怠。如果你尝试使用普通的比特币钱包，可能会不小心浪费铸造 NFT 的 satoshis！因此，你可以使用的最简单的钱包之一是 Xverse，这是一种 Stacks 和比特币钱包，目前可作为 Chrome 扩展程序或适用于 Android 或 iOS 用户的移动应用程序使用。
+
+![](https://img.foresightnews.pro/202302/5-1677116356430.png?x-oss-process=style/scale70)
+
+下载扩展程序或应用程序后，系统会提示你创建一个新钱包，并询问你是现在还是稍后备份你的钱包，然后提示为你的新帐户设置密码。在完成后，你可以使用你的 Xverse BTC 地址接收铸造资金并支付比特币 NFT 铸造费用。
+
+![](https://img.foresightnews.pro/202302/5-1677116370583.png?x-oss-process=style/scale70)
+
+当你的 Xverse 钱包收到 BTC 后，你就可以开始铸造了。前面提到的 gamma.io 网站是目前可用的最直接的 Ordinals 风格的铸币资源之一，因此我推荐比特币 NFT 初学者使用它。
+
+![](https://img.foresightnews.pro/202302/5-1677116380921.png?x-oss-process=style/scale70)
+
+要继续使用 Gamma，只需在将 BTC 进入你的 Xverse 钱包后前往该项目的网站。然后点击页面顶部的「Ordirals」按钮并选择「Create Inscription」。这样做会进入如下所示的上传仪表板：
+
+![](https://img.foresightnews.pro/202302/5-1677116392380.png?x-oss-process=style/scale70)
+
+在这里，首先上传你想要的[文件类型](https://twitter.com/LeonidasNFT/status/1627371939822989312)。然后选择你想要的费用级别（正常、更高或自定义）并输入你的 Ordinal 收件人地址以铸造你的 NFT。注意：这不是你在 Xverse 应用程序中的 BTC 地址；你需要点击收藏品选项并按「接收」，然后复制你明确的 Ordinals NFT 地址来进行。
+
+![](https://img.foresightnews.pro/202302/5-1677116411426.png?x-oss-process=style/scale70)
+
+此时，在 Gamma 上点击「继续」，同意使用条款，然后为你的铸造交易付款，系统会提示你这样做：
+
+![](https://img.foresightnews.pro/202302/5-1677116419092.png?x-oss-process=style/scale70)
+
+然后呢？这是一个等待的游戏。根据你的交易费用和当时使用网络的需求，你的铭文可能需要数小时甚至数天才能完成。Gamma 将提供一个等待页面，你可以在其中查看铸造状态并放大交易详情。
+
+![](https://img.foresightnews.pro/202302/5-1677116428580.png?x-oss-process=style/scale70)
+
+一旦你的 mint 交易完成，你将能够在 Gamma 或 Xverse 钱包中查看它（在收藏品标签中选择「打开画廊（Open gallery）」选项）。至于出售 NFT，你可以尝试在 Gamma 上申请一个收藏[列表](https://gamma.io/ordinals/new-collection)，或者在今天的其他一些可用的 Ordinals 市场上尝试你的机会：
+
+![](https://img.foresightnews.pro/202302/5-1677116446135.jpeg?x-oss-process=style/scale70)
+
+总而言之，现在在比特币上铸造 NFT 并不适合胆小的人，但与一些人现在使用的更高级的途径相比（比如建立他们自己的比特币节点），像 Xverse 和 Gamma 这样的服务让它变得容易得多。
+
+放大来看，看看比特币 NFT 从这里获得了多少吸引力将会很有趣。对于 NFT 纯粹主义者来说，Satoshi inscriptions 的永久性和链上可能性令人信服，但生态系统未来将如何形成仍有待观察。比特币很可能会成为领先的链上存储选项，但我们必须拭目以待，看看这条路线会带来什么变化！
+

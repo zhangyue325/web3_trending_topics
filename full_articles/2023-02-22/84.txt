@@ -1,0 +1,278 @@
+加入 PolkaWorld 社区，共建 Web 3.0！
+
+![](https://img.foresightnews.pro/202302/b717d0bb1119cb7404ee4a3db399bb59.png?x-oss-process=style/scale70)ink! 是一种用于智能合约的编程语言，也是使用 Substrate 框架构建区块链的时候可以选择的编程语言之一。这是我们在 Parity 构建的一种自用的语言，对流行的 Rust 编程语言进行了拓展，增加了使其智能合约兼容所需的功能。有关详细信息，请参阅我们的文章[《Parity 官方博客：什么是 ink! 智能合约语言？》](http://mp.weixin.qq.com/s?__biz=MzI3MzYxNzQ0Ng==&mid=2247496508&idx=1&sn=70a47a83ae75d3a6d0835c599145b074&chksm=eb223475dc55bd63ea4577082819e0c881ec9c19428ef97875e25ddc37e396c40ee3262149ec&scene=21#wechat_redirect)
+
+  
+
+
+我们刚刚发布了 ink! 的下一个主要版本 v4.0。在这篇文章中，我们想分享这个版本的重要更新。
+
+  
+
+
+  
+
+
+**存储抽象**
+
+  
+
+
+此版本的一个重大变化是开发人员如何与其智能合约的存储进行交互。这也会影响第三方工具，例如显示合约存储数据的区块浏览器。
+
+  
+
+
+我们从 ink! 3.x 版本中吸取了教训并彻底检查了我们的存储抽象。这有两个主要好处：
+
+  
+
+
+* **它使开发人员更容易理解 ink!**。我们之前的抽象很复杂，需要开发人员为自定义数据结构编写大量样板代码。我们现在有更直观、更清晰的设计以及更舒适的默认行为。
+* **新的存储设置减少了链上合约的代码**。这是由于 ink! 的复杂性降低了。你可以这样理解，我们的新抽象不那么复杂，它使用更少的代码实现，从而减少了将成为最终二进制合约文件 blob 一部分的指令。链上较少的合约代码意味着用户与合约交互的成本较低，以及部署合约的链可以实现的更高吞吐量。
+
+  
+
+
+这项工作是与在 Web3 基金会的资助下的 Supercolony 合作完成的。感谢所有为这项工作做出贡献的人！
+
+  
+
+
+  
+
+
+**端到端测试框架**
+
+![](https://img.foresightnews.pro/202302/04acfd5f4e69f66f5249f24b2a77582d.png?x-oss-process=style/scale70)
+
+用 ink! 4.0 中我们引入了端到端 (E2E) 测试框架。现在，ink! 支持经典的单元和集成测试：
+
+  
+
+
+* ink! 合约的**单元测试**可以像任何其他 Rust 程序一样编写：使用 #[test] 注释。
+* 对于**集成测试**，使用我们的 #[ink::test] 属性进行注释。此属性表示测试随后在模拟的模拟区块链环境中执行。有一些功能可用于影响测试环境的配置方式（例如，设置帐户的指定余额以模拟合约在与之交互时的行为方式）。
+
+  
+
+
+通过 Substrate 的技术进步（即 Metadata v14，来自 ink! 团队的 Andrew 实现的）和 subxt 的改进，我们现在可以引入我们梦寐以求的组件：端到端测试。简而言之，你不再局限于在虚拟世界中测试合约 —— 相反，你现在可以在真实世界中进行测试！
+
+  
+
+
+E2E 测试使开发人员能够编写不仅以隔离方式测试合约的测试；相反，合约将与所有涉及的组件一起进行测试。这是通过在本地机器（或 CI）上运行的 Substrate 节点上部署合约来实现的。所以测试发生在链上，从头到尾，堆栈的所有部分都涉及到。这种测试方式与合约在生产中的实际行为非常相似。
+
+  
+
+
+作为测试的一部分，合约将被编译并部署到在后台运行的 Substrate 节点。我们提供 API 功能，使开发人员能够通过他们创建并提交给区块链的交易与合约进行交互。开发人员可以定义关于交易结果的声明，例如检查状态突变、交易失败或产生的 gas 成本。
+
+  
+
+
+你的链配置将与智能合约一起进行测试。如果你的链包含与智能合约执行相关的模块，那么它们也将成为测试执行的一部分。
+
+  
+
+
+我们不对后台的 Substrate 节点提出任何要求。例如，您可以运行一个包含实时网络快照的节点。
+
+  
+
+
+这是向前迈出的一大步，我们将 E2E 视为 ink! 测试金字塔中的最后一块石头。有了这个，我们现在可以自信地说 ink! 为开发者提供了完整的智能合约测试功能。
+
+  
+
+
+  
+
+
+**元数据 v4**
+
+  
+
+
+我们**重新设计**了 ink! 使用的元数据格式。这使得第三方工具（如区块浏览器）**更容易**与 ink! 智能合约交互并从部署的合约中**提取信息**。
+
+  
+
+
+我们的新格式带有适当的文档和正式规范。你可以在此处（https://use.ink/metadata/）找到新格式的文档。正式规范在此处（https://github.com/paritytech/ink/tree/master/crates/metadata）作为 JSON 架构提供。区块浏览器可以使用正式模式来验证用户上传的合约元数据。
+
+  
+
+
+  
+
+
+**更多的变化**
+
+  
+
+
+还有许多其他更改，我们就不在这里详细介绍了。你可以在此处找到详细信息。https://github.com/paritytech/ink/releases/tag/v4.0.0
+
+  
+
+
+总的来说，我们将 ink！API 改进的更符合 Rust 规范，**使 Rust 开发人员更直观地使用 ink!** 。ink! 现在还支持链扩展的注册表（https://github.com/paritytech/chainextension-registry）。这使 Substrate 开发人员能够轻松地包含 pallet-contracts 的扩展。例如，Supercolony 团队开源了一个扩展，可以使智能合约能够访问模块资产。
+
+  
+
+
+  
+
+
+**cargo-contract 2.0**
+
+  
+
+
+与 ink! 4.0 一起，我们还发布了 cargo-contract  的下一个主要版本，这是我们的 “**瑞士军刀**”，它适用于任何与 ink! 合约有关的东西。
+
+  
+
+
+cargo-contract 2.0 自带 ink! 4.0 的支持和许多与已部署合约交互的小改进。在此处查看发行说明。https://github.com/paritytech/cargo-contract/releases/tag/v2.0.0
+
+  
+
+
+  
+
+
+**更多的信息**
+
+  
+
+
+我们写了一个从 ink! 3.x 到 4.0 的**迁移指南**。你可以在我们的文档门户网站上找到它。https://use.ink/faq/migrating-from-ink-3-to-4
+
+  
+
+
+一般来说，了解 ink! 的最佳地方就是我们的文档门户 use.ink。
+
+  
+
+
+我们的文档门户现已版本化。它在右上角包含一个用于切换版本的下拉菜单。ink! 4.0 的所有变化都在那里记录。
+
+  
+
+
+如果你遇到任何关于 ink! 的问题，获得帮助的最佳方式是：
+
+  
+
+
+* 在 **Substrate Stack Exchange** 上发布问题。添加 ink! 和智能合约的标签。https://substrate.stackexchange.com/questions/tagged/ink/
+* 如果你认为这可能是一个 bug，或者你有功能建议，最好在 **ink! 存储库**中创建一个问题。http://github.com/paritytech/ink
+
+  
+
+
+  
+
+
+**兼容性**
+
+  
+
+
+ink! 4.0 与 Polkadot v0.9.37 发布的 pallet-contracts 兼容。
+
+  
+
+
+我们最新的 substrate-contracts-node（v0.23.0 版本）也支持 ink! 4.0。
+
+  
+
+
+  
+
+
+**感谢大家**
+
+  
+
+
+ink! 是一个开源项目，除了核心团队之外，还有很多人为这个版本做出了贡献。谢谢大家！
+
+  
+
+
+原文链接：https://www.parity.io/we-just-released-ink-4-0
+
+翻译：PolkaWorld 社区
+
+  
+
+
+
+
+---
+
+  
+
+
+**直播预告**
+
+![](https://img.foresightnews.pro/202302/0f5d0e8861aa79bd5a62cfdd10d4e103.jpeg?x-oss-process=style/scale70)
+
+  
+
+
+**2 月 22 日（周三）晚 7 点**，波卡世界直播间将进行 「波卡项目进展之 **Equilibrium** 专场」直播，点击下方按钮立即预约。
+
+  
+
+
+  
+
+
+![](https://img.foresightnews.pro/202302/2d40d8f8c23d312dae4add516fda2b12.jpeg?x-oss-process=style/scale70)
+
+  
+**2 月 23 日（周四）晚 8 点**，波卡世界直播间将进行 「波卡项目进展之 **Moonbeam 生态** **StellaSwap** 专场」直播，点击下方按钮立即预约。
+
+  
+
+
+  
+* **PolkaWorld Telegram 群：**
+
+t.me/polkaworld
+* **PolkaWorld Youtube 频道：**
+
+https://www.youtube.com/c/PolkaWorld
+* **PolkaWorld Twitter：**
+
+@polkaworld\_org
+![](https://img.foresightnews.pro/202302/a8f10b59139a7d343010ec83324551c0.gif?x-oss-process=style/scale70)**更多内容**
+
+  
+
+
+[Polkadot 生态爆发的重要指标，普通用户可以使用 XCM 做什么？](http://mp.weixin.qq.com/s?__biz=MzI3MzYxNzQ0Ng==&mid=2247498008&idx=1&sn=20cc42d4755dfbdfc8d905bdd20691b6&chksm=eb223e51dc55b747342e2b6eeda37b830f40ff6900fd3a99cde6a5526c1853d0632d536cd42b&scene=21#wechat_redirect)
+
+[波卡 ETHDenver 活动报名开启！和波卡携手 BUIDL 多链生态吧！](http://mp.weixin.qq.com/s?__biz=MzI3MzYxNzQ0Ng==&mid=2247497993&idx=1&sn=4783b6b7ffc480a05f9cc276b5f1e50e&chksm=eb223e40dc55b75698a60c574d9beda4d781d7b99cc029df57d9034e9dd7f57e32b0839d0120&scene=21#wechat_redirect)
+
+[Acurast：波卡生态预言机，Web3 “ 数据使者 ”](http://mp.weixin.qq.com/s?__biz=MzI3MzYxNzQ0Ng==&mid=2247497985&idx=1&sn=bd1165cffdd3482fe1efd6d7f360d650&chksm=eb223e48dc55b75e33ff5f89b02c50fdc67cd4efcb20925a0230dc03ed794e327a08fb7a6da3&scene=21#wechat_redirect)
+
+  
+
+
+![](https://img.foresightnews.pro/202302/b2c59d601e52ff269db62e55d33c4ba1.jpeg?x-oss-process=style/scale70)关注 PolkaWorld
+
+发现 Web 3.0 时代新机遇
+
+  
+
+
+点个 “在看” 再走吧！
+

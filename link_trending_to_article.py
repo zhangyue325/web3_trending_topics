@@ -6,7 +6,7 @@ from keywords_ranking import convert_string_to_list
 
 def short_the_trending_table(dt):
     df = pd.read_csv(rf"trending_table\{dt}.csv")
-    df = df[(df["Occurrence"] > 1.7)]
+    df = df[(df["Occurrence"] > 1.1)]
     
     return df.head(30)
 

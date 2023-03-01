@@ -1,0 +1,175 @@
+ 
+
+本月 NFT 圈发生最引人注目的两件事一件是 Blur 慷慨空投，另一件是昔日大哥「铁公鸡」OpenSea 宣布 0 手续费活动。
+
+Blur 靠着第一季慷慨空投和正在进行的第二季「交易挖矿」吸引了全市场的瞩目，OpenSea 也不甘落后，紧跟着推出了 0 手续费的活动，想要以此拉拢回流失的用户。
+
+OpenSea 此举是否能让已经投奔 Blur 的用户回心转意尚不可知，但可以确定的三个叙事：
+
+1. 主流 NFT 交易平台方大幅调低 NFT 交易摩擦成本，用户的交易意愿将会提高，进而市场成交量上升。流动性变好，吸引更多外部资金进入 NFT，有利于 NFT 全赛道获得红利。
+2. NFT 赛道终究还是个新兴市场，好团队好项目逆袭到第一名，并不是什么不可能的事。因此，部分投资人为了获得更高倍率的回报，逐渐将目光瞄准到业务量迅猛增长的早期项目，寻找第二个 Blur。
+3. OpenSea 沿用 Web2 时代陈旧的股权融资机制，迟迟不发币，一直吃着先发优势老本。而 Blur 采用 Web3 模式，对早期用户空投代币以及后续挖矿奖励不仅是最好的引流方式，还实现了用户、平台的共赢，一举多得。
+ 
+
+经过事实证明，有空投预期的项目要比股权融资不发币或已发币的项目更具备潜力。
+
+ 
+
+这里可以总结出近期的三个关键词，NFT 子赛道、业务量猛增和空投预期。本文将介绍的 NFT 借贷平台 Paraspace 恰好符合以上三点。
+
+ParaSpace 介绍
+------------
+
+ 
+
+ParaSpace 是一个先进的 NFT 借贷平台，可以帮助用户更有效地利用 NFT 资产获得更多的收益。
+
+目前 ParaSpace 上线仅个 2 月，在没发布代币激励的情况下，就吸引到了同赛道第二高的 TVL。相较于其他 NFT 借贷，它的产品更符合 DeFi 老玩家的习惯，产品中处处都是处处为用户着想的小细节。
+
+NFT 借贷解决了什么问题？
+
+如今，加密用户持有 NFT 市值已达百亿，但在大多数情况下，这些 NFT 资产都处于闲置状态，资本效率低下。
+
+在没有借贷服务情况下，NFT 用户可能会被迫出售他们独一无二的 NFT 以获得流动性。
+
+现有的大部分贷款解决方案对不同类型的抵押品的支持有限，不允许用户根据其特定风险偏好自定义借贷抵押品，用惯 AAVE 等针对 ERC20 资产的借贷平台就会深刻体会到 NFT 借贷平台在用户体验上还有着巨大的优化空间。
+
+而 ParaSpace 的愿景就是为用户做 NFT 借贷的同时提供如同交互 AAVE 一样的用户体验。
+
+### 基本信息
+
+ParaSpace 由 Para Labs 联合孵化。此前 Para Labs 曾推出基于 Polkadot 的可组合可互操作 DAPP 的生态系统 Parallel Finance，根据 Parallel Finance 的 Github 代码库显示。
+
+上周开发者还对两千余行代码进行了合并（merge），看得出团队对于过往产品非常上心，保持着高效的开发。
+
+2022 年 11 月 14 日，ParaSpace 在 Goerli Network 上发布了测试网，并通过 Traveler、Explorer 和 Settler 的 3 个独立活动来鼓励用户参与测试。
+
+2022 年 12 月 11 日，ParaSpace 宣布主网已经成功上线，并已稳定运行了 2 个月。
+
+目前 ParaSpace 平台支持 BAYC、MAYC、BAKC、Swer Pass、CryptoPunks、Otherdeed、Azuki、Moonbirds、CloneX、Doodles、Meebits、Pudgy Penguins 共计 12 种蓝筹 NFT 资产。
+
+并支持 APE、cAPE、ETH、DAI、WETH、stETH、USDC、USDT 共计 8 种 ERC-20 资产，以及创新地支持由以上 ERC20 组成的 12 组 UNISWAP V3 LP（指定费率）作为抵押品。
+
+自去年 12 月 ParaSpace 上线以来，交互数据亮眼。
+
+![](https://img.foresightnews.pro/202302/5-1677463018547.png?x-oss-process=style/scale70)
+
+*ParaSpace 的 TVL 保持良性上涨趋势，defillama*
+
+![](https://img.foresightnews.pro/202302/5-1677463031508.png?x-oss-process=style/scale70)
+
+*ParaSpace 的 TVL 跃居 NFT 借贷榜单第二名，defillama*
+
+ 
+
+在融资方面，ParaSpace 投资者不乏 Sequoia、Coinbase Ventures、PolyChain 等明星机构，如果再算上同团队的 Parallel Finance 的融资，资金充足，业务资源丰富。
+
+ 
+
+![](https://img.foresightnews.pro/202302/5-1677463046617.png?x-oss-process=style/scale70)
+
+在安全审计方面，ParaSpace 先后完成来自 Trial of Bits、Secure3、0xQuit、Certik、Veridise 等安全公司 9 次审计，目前还由 Quantstamp 和 Slowmist 主持两轮新审计，预计在 2023 Q1 交付。
+
+另外，Code4rena 曾在去年 11 月 23 日主持过一轮价值 19 万美金的漏洞赏金计划，目前正在进行的赏金计划由 Immunefi 主持。
+
+![](https://img.foresightnews.pro/202302/5-1677463059852.png?x-oss-process=style/scale70)
+
+在项目开发能力方面，Paraspace 一直在推进开发。尤其是去年 12 月自 Ape Staking 开启后，ParaSpace 团队推出的优于竞品的 Peer-to-Pool 创新性挖矿服务，体现出了其不俗的开发能力。
+
+![](https://img.foresightnews.pro/202302/5-1677463069630.png?x-oss-process=style/scale70)
+
+根据 Github，过去一个月 Paraspace-core 的代码仓库有着 5 位活跃开发者，添加了 7 千余行代码。
+
+ParaSpace 特色机制
+--------------
+
+ParaSpace 创新的机制是推动其 TVL 脱颖而出的关键原因之一，本文将展开介绍 3 个 ParaSpace 抵押借贷特别机制。
+
+### 生息资产作为抵押品
+
+ParaSpace 的抵押品涵盖到了多种生息代币，包括：Uniswap V3 LP、AAVE 的 aTokens 和 Compound 的 cTokens。
+
+将生息资产引入到抵押品行列，ParaSpace 摇身一变，就变成了 NFTFi 与 DeFi 的跨界产品，并为多方带来好处：
+
+1. 有助提高平台的存款用户的收益，也会让借款人为贷款支付更少的费用，实现更大的资本效率。
+2. 可以增加 ParaSpace 的 TVL
+3. 扩大生息资产原生项目的应用场景，推进 NFT-DeFi 共荣
+ 
+
+Uniswap V3 LP 是一种 ERC-721 代币，是用户在 Uniswap V3 池中提供流动的凭证，持有该凭证的人可以实时赚取交易手续费，因此其被视作是一种生息代币。
+
+ 
+
+若用户不再想提供流动性后，可以立刻兑换出相应交易对中属于用户份额的两种代币。
+
+ 
+
+UniV3 LP 作为有息代币，它非常适合作为 ParaSpace 等链上借贷协议的抵押品。在 ParaSpace 中，用户可以通过抵押 UniV3 LP 代币来获得信用额度。
+
+拥有信用额度后，用户可以使用这些信用来借入 NFT 或者其他 ERC20，最关键的是在享受借贷服务的同时，用户还可以继续赚取 LP 的手续费。
+
+目前，在 ParaSpace 以支持如下交易对：
+
+![](https://img.foresightnews.pro/202302/5-1677463114815.png?x-oss-process=style/scale70)
+
+不难发现，这些交易对中的基础代币都是在 ParaSpace 支持的 ERC20 单币，因此在 ParaSpace 平台上也可以实现 DeFi 杠杆挖矿功能，团队为此还特意推出了一键杠杆挖矿功能，此举不仅提高了平台内部的资金使用率，也可以使单 ERC20 存款用户捕捉到更高收益。
+
+若能理解上文中 Uni 作为抵押品的原理，下面的 aTokens 和 cTokens 将会容易理解很多。
+
+aTokens 和 cTokens 分别是 Aave 和 Compound 提供是自平台上的存款凭证，存款利息自动内含在存款凭证中累加。所以如果再在 ParaSpace 以此为抵押物，用户将会同时获得 DeFi 借贷利息 与 NFT 借贷利息，双份收益。
+
+文档中举了这么一个例子：
+
+用户 A 将 10,000 USDC 存入 Aave，现在持有 10,000 aUSDC，收取 5% 的存款利息。
+
+同一个用户看到，如果他们把 10,000 aUSDC 存入协议中，他们可以在 ParaSpace 上再赚取 5% 的利息，最终他们的 USDC 的总收益率高达 10.25%。这是由用户 B 借入 aUSDC 并支付利息实现的。
+
+用户 B 想用他们的 ERC-721 资产借 10,000 USDC。然而，他们看到 USDC 的借款利率是 20%，但 aUSDC 的借款利率是 5%。
+
+只要 aUSDC 的净借款利率低于 20%，用户就值得借入 10,000 个 aUSDC，再立即将其赎回为 USDC。
+
+可以看出，ParaSpace 这种引入外部流动性的办法很巧妙，既能增加借款人收益，还有助于全市场利率平稳。
+
+### 提高稀有 NFT 估值（未上线）
+
+ParaSpace 的市场允许 NFT 持有人通过其 Peer 2 Pool 借贷模式，根据提供 NFT 的地板价值推算出最多获得多少即时流动性。
+
+P2P Pool 借贷具有显著的优势，但同时也能意识到，基于 Pool 的模式的池子中所有 NFT 具有相同的价值，因此某些稀有属性高估值的 NFT 牺牲一定资金效率，稀有 NFT 持有人也会丧失参与积极性。
+
+目前 ParaSpace 团队正在针对每一个稀有属性设计价格加成乘数，以提供特定 NFT 的抵押品地板价以外的增值溢价，从而吸引稀有 NFT 持有人存入，提高资金效率，进一步推高 ParaSpace 的 TVL 增长。
+
+![](https://img.foresightnews.pro/202302/5-1677463146067.png?x-oss-process=style/scale70)
+
+*项目文档预先公布了一部分稀有特征细节，如：含有 Koda 的「猴地」乘数达「6x」*
+
+### 抵押同时享受蓝筹 NFT 福利
+
+ParaSpace 在保证用户资金效率的同时，还允许抵押 NFT 的用户获得空投和其他权益。
+
+因为 NFT 的独一无二性，ParaSpace 的 NFT 抵押品设置了两种模式，以防止稀有 NFT 被借走：
+
+1. 只作抵押品，不会被别人借走，选择这个设定的用户可以借出一定资产，日后只要还回资产就能原封不动的赎回自己存入的 NFT。
+2. 既做抵押品，也做可借品，适用于属性平平无奇接近地板价的 NFT。在赎回的时候，会池子中随机还给用户一个同系列 NFT。这个有悖于传统抵押贷款的逻辑，但好处是可以享受到借出 NFT 的利润。
+放在过去，如果一个蓝筹 NFT 宣布空投，抵押该 NFT 的用户需要进行多次交互，放弃资金效率，才能把抵押物赎回至自己钱包领取空投。
+
+而 ParaSpace 的 Flash-Claim 技术，不再需要用户在资本效率和获得他们的 NFT 利益之间做出复杂操作，直接一键完成抵押物的空投领取。（注：只能保证上一段中第 1 种存款选项拿到空投）。
+
+ParaSpace 将默认支持一些最流行的空投，对于其他空投，用户可以通过 Discord 联系团队额外支持。
+
+除领取空投外，ParaSpace 还支持抵押者验证蓝筹 NFT 所有权。
+
+由于 ParaSpace 和 tokenproof 之间的合作，保证了 NFT 存入 ParaSpace 的用户可以一直享有 NFT 快速验证的福利。
+
+ParaSpace 会给抵押用户发送一个由 tokenproof 发行的 nToken，这一个带有元数据的 ERC-721 代币，与用户抵押的 NFT 相对应，代表原始 NFT 的权益。
+
+总结
+--
+
+ParaSpace 在尚未发行通证激励用户的情况下，就取得第二大 NFT 借贷平台的成绩，离不开对 NFT 借贷的深入理解。
+
+从引入把生息资产纳入抵押品，以及对稀有属性 NFT 估值的研究可以看出这个团队深谙 Web3 经济学，笔者十分期待团队会如何设计 ParaSpace 自己的代币模型。
+
+ParaSpace 在安全方面下足了功夫，先后完成 9 次审计，目前还在推进两轮审计。不过，尽管如此 NFT 借贷产品作为一新兴赛道，创新也代表着安全挑战，用户依然需要把控风险。
+
+ParaSpace 是否能像 Blur 逆袭 Opensea 那样成为 NFT 借贷赛道第一名还有待观察，但单凭 ParaSpace 在用户体验方面精益求精态度，确实有 Blur 那股争夺赛道龙头的势头。借着近期 NFT 叙事大热的行情下，借贷赛道头把交椅的争夺战也将一触即发。
+

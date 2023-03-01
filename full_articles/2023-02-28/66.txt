@@ -1,0 +1,109 @@
+![](https://img.foresightnews.pro/202302/b6574a3c82ede869b42b6aea9c307e2f?x-oss-process=style/scale70)2023 年 2 月，Kava 成功升级 Kava 12 主网，为 Cosmos 生态带来全新开创性的 DAO 技术。同月，Kava 推出 Kava Strategic Vault，旨在为整个 Kava 生态的快速增长和安全措施提供资金保障。
+
+接下来，我们将带您一起回顾 Kava 平台 2 月的工作进展。
+
+### Kava DeFi 平台 2 月数据
+
+![](https://img.foresightnews.pro/202302/98e2ccd0e0226bbaef58938413a6074d?x-oss-process=style/scale70)该数据截止至 2 月 28 日### 产品 / 技术更新
+
+* Kava 宣布推出 Kava Strategic Vault，这是一个由 Kava 社区全权分配运行的去中心化储备 Vault，旨在为整个 Kava 生态的快速增长和安全措施提供资金保障，查看相关内容👉<https://www.kava.io/vault>
+* Kava 12 主网升级成功，此次更新重点在于发展 Kava 的链上 DAO。新升级主网的核心功能将包括推出 Cosmos DAO 技术、模块化发行控制、增强 Kava DAO 功能，查看相关内容⬇️
+[Kava 即将上线 Kava 12 主网，为 Cosmos 生态带来全新开创性的 DAO 技术](https://medium.com/kavachinese/kava%E5%8D%B3%E5%B0%86%E4%B8%8A%E7%BA%BFkava-12%E4%B8%BB%E7%BD%91-%E4%B8%BAcosmos%E7%94%9F%E6%80%81%E5%B8%A6%E6%9D%A5%E5%85%A8%E6%96%B0%E5%BC%80%E5%88%9B%E6%80%A7%E7%9A%84dao%E6%8A%80%E6%9C%AF-66a42b6e49a5)
+
+* Kava 宣布与 Akash 建立合作伙伴关系，共同推进去中心化的基础设施，了解详情⬇️
+### Kava 中文官方 on Twitter: "🎉#Kava 非常高兴地宣布与@akashnet\_建立合作伙伴关系，共同推进去中心化的基础设施。以下为预期合作内容：✅Akash 将支付超过 100 万美元给到 Kava 验证器；✅Akash 将 250 万枚 $AKT 分配给 Kava Strategic Vault；✅Akash Network 为 Kava 验证器启动去中心化云。 pic.twitter.com/OAIBC861ab / Twitter"
+
+🎉#Kava 非常高兴地宣布与@akashnet\_建立合作伙伴关系，共同推进去中心化的基础设施。以下为预期合作内容：✅Akash 将支付超过 100 万美元给到 Kava 验证器；✅Akash 将 250 万枚 $AKT 分配给 Kava Strategic Vault；✅Akash Network 为 Kava 验证器启动去中心化云。 pic.twitter.com/OAIBC861ab
+
+* 新一代的 DEX — — WhaleSwap 宣布加入 Kava Rise 开发者激励计划并成功完成部署，了解详情⬇️
+### Kava 中文官方 on Twitter: "🥳欢迎@whaleloans 加入 #KavaRise 开发者激励计划。WhaleSwap 是新一代的 DEX，通过其创新的混合流动性池来帮助用户最大化资本效率和收益。了解更多🧵（1/2） pic.twitter.com/CQXbAPUhYu / Twitter"
+
+🥳欢迎@whaleloans 加入 #KavaRise 开发者激励计划。WhaleSwap 是新一代的 DEX，通过其创新的混合流动性池来帮助用户最大化资本效率和收益。了解更多🧵（1/2） pic.twitter.com/CQXbAPUhYu
+
+* 去中心化的数字资产服务网络 Nerve Network 宣布加入 Kava Rise 开发者激励计划并成功完成部署，了解详情⬇️
+### Kava 中文官方 on Twitter: "🥳欢迎@nerve\_network 加入 #KavaRise 开发者激励计划。Nerve Network 是去中心化的数字资产服务网络，旨在打破孤立的区块链价值，建立跨链资产交换网络，为 DeFi 应用生态提供一切必要的底层支持。目前，Nerve Network 已成功部署了跨链资产中继网络，并将多条区块链连接到 #Kava 。了解更多🧵(1/2) pic.twitter.com/2D2TFFX3MM / Twitter"
+
+🥳欢迎@nerve\_network 加入 #KavaRise 开发者激励计划。Nerve Network 是去中心化的数字资产服务网络，旨在打破孤立的区块链价值，建立跨链资产交换网络，为 DeFi 应用生态提供一切必要的底层支持。目前，Nerve Network 已成功部署了跨链资产中继网络，并将多条区块链连接到 #Kava 。了解更多🧵(1/2) pic.twitter.com/2D2TFFX3MM
+
+* 由人工智能驱动的全球汇款区块链平台 Traddify 宣布加入 Kava Rise 开发者激励计划并成功完成部署，了解详情⬇️
+### Kava 中文官方 on Twitter: "🥳欢迎@traddify 加入 #KavaRise 开发者激励计划。Traddify 已成功将其由人工智能驱动的全球汇款区块链平台部署到 #Kava 。了解更多🧵(1/2) pic.twitter.com/Rn9CObVdJh / Twitter"
+
+🥳欢迎@traddify 加入 #KavaRise 开发者激励计划。Traddify 已成功将其由人工智能驱动的全球汇款区块链平台部署到 #Kava 。了解更多🧵(1/2) pic.twitter.com/Rn9CObVdJh
+
+* 游戏玩家和游戏开发者的 Hub — — Pixpel 宣布加入 Kava Rise 开发者激励计划并成功完成部署，了解详情⬇️
+### Kava 中文官方 on Twitter: "🥳欢迎@PixpelPlatform 加入 #KavaRise 开发者激励计划。#Pixpel 是游戏玩家和游戏开发者的 hub。Pixpel 的 #NFT 市场、DEX、钱包、NFT 保险和各种其它工具为社区用户提供了安全有效投资所需的一切条件。 pic.twitter.com/6mZ099nyDO / Twitter"
+
+🥳欢迎@PixpelPlatform 加入 #KavaRise 开发者激励计划。#Pixpel 是游戏玩家和游戏开发者的 hub。Pixpel 的 #NFT 市场、DEX、钱包、NFT 保险和各种其它工具为社区用户提供了安全有效投资所需的一切条件。 pic.twitter.com/6mZ099nyDO
+
+* 去中心化的多链借贷协议 FilDA Finance 宣布加入 Kava Rise 开发者激励计划并成功完成部署，了解详情⬇️
+### Kava 中文官方 on Twitter: "🥳欢迎@FilDAFinance 加入 #KavaRise 开发者激励计划。FilDA 已成功将其去中心化的多链借贷协议部署到 #Kava EVM。在 #FilDA 上的流动性提供者也能从其他 DEX 的质押流动性资产中获得收益。 pic.twitter.com/zcNOZ1HLCH / Twitter"
+
+🥳欢迎@FilDAFinance 加入 #KavaRise 开发者激励计划。FilDA 已成功将其去中心化的多链借贷协议部署到 #Kava EVM。在 #FilDA 上的流动性提供者也能从其他 DEX 的质押流动性资产中获得收益。 pic.twitter.com/zcNOZ1HLCH
+
+* 数字资产管理平台 Oryy 宣布加入 Kava Rise 开发者激励计划并成功完成部署，了解详情⬇️
+### Kava 中文官方 on Twitter: "🥳欢迎 #Oryy 加入 #KavaRise 开发者激励计划。#Oryy 已成功部署其协议，能够帮助用户定制他们在 Flare Network @flrfinance 上管理其加密资产的方式 。Oryy 通过它对@gnosisSafe 决定性的部署提供了安全的加密资产管理。了解更多🧵（1/4） pic.twitter.com/M6TEsqIxYg / Twitter"
+
+🥳欢迎 #Oryy 加入 #KavaRise 开发者激励计划。#Oryy 已成功部署其协议，能够帮助用户定制他们在 Flare Network @flrfinance 上管理其加密资产的方式 。Oryy 通过它对@gnosisSafe 决定性的部署提供了安全的加密资产管理。了解更多🧵（1/4） pic.twitter.com/M6TEsqIxYg
+
+* DeFi 协议Équilibre 宣布加入 Kava Rise 开发者激励计划并成功完成部署，了解详情⬇️
+### Kava 中文官方 on Twitter: "🥳欢迎@EquilibreAMM 加入 #KavaRise 开发者激励计划并在 #Kava EVM 上成功完成部署。"我们相信 2023 年将是整个@Cosmos 生态爆发式增长的一年，而 Kava 将成为区块链中的引领者。"-- #Équilibre 团队 pic.twitter.com/nbiNdhgeJv / Twitter"
+
+🥳欢迎@EquilibreAMM 加入 #KavaRise 开发者激励计划并在 #Kava EVM 上成功完成部署。"我们相信 2023 年将是整个@Cosmos 生态爆发式增长的一年，而 Kava 将成为区块链中的引领者。"-- #Équilibre 团队 pic.twitter.com/nbiNdhgeJv
+
+* 现在通过 Beefy 为 Curve 上的 Kava 3pool（USDC 、DAI 、USDT ）添加流动性，可获得的 KAVA 奖励已增加，了解详情⬇️
+### Kava 中文官方 on Twitter: "🤩现在通过@BeefyFinance 为 Curve 上的 #Kava 3pool（ $USDC 、 $DAI 、 $USDT ）添加流动性，可获得的 $KAVA 奖励已增加。不要错过获取 $KAVA 奖励的机会⬇️ https://t.co/A791I6z4C3 / Twitter"
+
+🤩现在通过@BeefyFinance 为 Curve 上的 #Kava 3pool（ $USDC 、 $DAI 、 $USDT ）添加流动性，可获得的 $KAVA 奖励已增加。不要错过获取 $KAVA 奖励的机会⬇️ https://t.co/A791I6z4C3
+
+* Kava 联合 SushiSwap 和 Axelar 上线全新激励活动，用户通过 Kava 跨链桥合作伙伴 Axelar 向 SushiSwap 部署在 Kava EVM 上的 KAVA/axlUSDC 池提供流动性，可获得丰厚的 wKAVA 和 SUSHI 奖励，了解详情⬇️
+### Kava 中文官方 on Twitter: "💪体验 #KavaRise 协议共同协作的力量。现在，用户通过 #Kava 顶级跨链桥合作伙伴@axelarcore 向@SushiSwap 部署在 Kava EVM 上的 KAVA/axlUSDC 池提供流动性，可获得丰厚的 $wKAVA 和 $SUSHI 奖励。前往参与⬇️https://t.co/9JpR7YEwEP / Twitter"
+
+💪体验 #KavaRise 协议共同协作的力量。现在，用户通过 #Kava 顶级跨链桥合作伙伴@axelarcore 向@SushiSwap 部署在 Kava EVM 上的 KAVA/axlUSDC 池提供流动性，可获得丰厚的 $wKAVA 和 $SUSHI 奖励。前往参与⬇️https://t.co/9JpR7YEwEP
+
+* Kava 上的 Curve 3pool 流动性池活动正在进行中，用户向 Curve 部署在 Kava EVM 上的流动性池提供流动性，可获得丰厚的奖励，前往参与👉<https://kava.curve.fi/pools>
+* Kava 上的 SushiSwap 流动性池激励活动正在进行中，用户向 Sushi 部署在 Kava EVM 上的流动性池提供流动性，可获得丰厚的奖励，了解收益详情⬇️
+### Kava 中文官方 on Twitter: "🍣@SushiSwap 部署在 #Kava EVM 上的流动性池激励活动正在火热进行中。现在前往提供流动性，即可赚取丰厚奖励。$KAVA / $USDC 年化收益率高达 44%；$KAVA / $ETH 年化收益率高达 63%；$KAVA/ $SUSHI 年化收益率高达 46%。前往赚取收益⬇️https://t.co/dPwQb7eSC3 / Twitter"
+
+🍣@SushiSwap 部署在 #Kava EVM 上的流动性池激励活动正在火热进行中。现在前往提供流动性，即可赚取丰厚奖励。$KAVA / $USDC 年化收益率高达 44%；$KAVA / $ETH 年化收益率高达 63%；$KAVA/ $SUSHI 年化收益率高达 46%。前往赚取收益⬇️https://t.co/dPwQb7eSC3
+
+* 截止至 2 月 28 日，Kava 上流动性质押的 TVL 已突破 3,779 万美元。
+* 截止至 2 月 28 日，已有 66 个项目正式部署到了 Kava Network，目前 Kava 生态拥有超过 1.75 亿美元的 TVL，前往查看👉<https://defillama.com/chain/Kava>
+* 截止至 1 月 31 日，Kava EVM 共链累计共生成了 377 万 + 区块，并已在 194 万 + 钱包地址之间处理了 641 万 + 交易，前往区块浏览器查看👉<https://explorer.kava.io/>
+### Kava 相关治理
+
+* Kava 123 号提案通过社区投票，Kava 已为参与 Kava Rise 开发者激励计划并符合条件的协议发放 1 月的奖励，了解详情👉<https://www.mintscan.io/kava/proposals/123>
+* Kava 124 号提案通过社区投票，Kava 最新主网 Kava 12 已于北京时间 2023 年 2 月 16 日成功升级，了解详情👉<https://www.mintscan.io/kava/proposals/124>
+* Kava 125 号提案通过社区投票，Akash 将支付价值 100 万美元的 AKT 给到 Kava 验证者，以推进 Kava 的去中心化基础设施，了解详情👉<https://www.mintscan.io/kava/proposals/125>
+### **社区活动 / 进展**
+
+* Kava 中文社区开展「Kava 月度 AMA」活动，为社区用户介绍 Kava 12 主网升级带来的全新开创性的 DAO 技术，回顾活动详情⬇️
+[Kava 月度 AMA｜Kava 12 正式升级，Kava DAO 扬帆起航](https://medium.com/kavachinese/kava%E6%9C%88%E5%BA%A6ama-kava-12%E6%AD%A3%E5%BC%8F%E5%8D%87%E7%BA%A7-kava-dao%E6%89%AC%E5%B8%86%E8%B5%B7%E8%88%AA-168bf4acbf9b)
+
+* Kava 亚太市场负责人 Ticky 受邀参加 2023 IBCL 第一次 Cosmos 跨链生态峰会，为大家分享从 Cosmos 到 EVM，Kava 的野心蓝图，查看详情⬇️
+### IBCL 中文 on Twitter: "2023 IBCL 第一次 Cosmos 跨链生态峰会开启。畅聊 Cosmos 跨链生态概况与投资机会。Let's Build the Internet of Blockchains. 活动期间赞助商万元红包福利! 加入活动电报群 https://t.co/u3XzoWAGlZ 用户抢 ATOM 红包（3ATOM/ 人，10 位）活动形式: Zoom + B 站 pic.twitter.com/wsDqD37fve / Twitter"
+
+2023 IBCL 第一次 Cosmos 跨链生态峰会开启。畅聊 Cosmos 跨链生态概况与投资机会。Let's Build the Internet of Blockchains. 活动期间赞助商万元红包福利! 加入活动电报群 https://t.co/u3XzoWAGlZ 用户抢 ATOM 红包（3ATOM/ 人，10 位）活动形式: Zoom + B 站 pic.twitter.com/wsDqD37fve
+
+* Kava 联合 DAO Labs 推出 Kava Hub 社区贡献者福利平台两个月以来成绩颇丰，查看详情⬇️
+### Kava 中文官方 on Twitter: "🥳Kava 联合@TheDAOLabs 推出 #KavaHub 社区贡献者福利平台两个月以来，数据情况如下：✅注册用户数 1,300 位✅获得总积分 186,910 分✅质押 $KAVA 共计 5,140.062 枚即刻加入，赚取奖励👉https://t.co/efmb8o77yz pic.twitter.com/iAz5edw0iQ / Twitter"
+
+🥳Kava 联合@TheDAOLabs 推出 #KavaHub 社区贡献者福利平台两个月以来，数据情况如下：✅注册用户数 1,300 位✅获得总积分 186,910 分✅质押 $KAVA 共计 5,140.062 枚即刻加入，赚取奖励👉https://t.co/efmb8o77yz pic.twitter.com/iAz5edw0iQ
+
+### 获取更多**Kava**信息：
+
+官网：<https://www.kava.io/>
+
+中文 Twitter：[@KavaChinese](https://twitter.com/KavaChinese)
+
+中文电报群：<https://t.me/KavaChinese>
+
+查阅代码：<https://github.com/kava-labs>
+
+订阅 Kava YouTube：<https://www.youtube.com/c/Kavalabs/videos>
+
+![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=ca551631bdbd)
+
+---
+
+[Kava 月度进展｜2023 年 2 月](https://medium.com/kavachinese/kava%E6%9C%88%E5%BA%A6%E8%BF%9B%E5%B1%95-2023%E5%B9%B42%E6%9C%88-ca551631bdbd) was originally published in [KavaChinese](https://medium.com/kavachinese) on Medium, where people are continuing the conversation by highlighting and responding to this story.
+

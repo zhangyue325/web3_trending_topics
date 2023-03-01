@@ -1,0 +1,41 @@
+2.23 昨日 Coinbase、Optimism 發佈推文就能瞧出端倪，看似有某種合作
+
+![Coinbase / Optimism Tweet](https://img.foresightnews.pro/202302/501c24df510a4300f219a0bed0ba7ec1.png?x-oss-process=style/scale70)
+
+#### ・Base 是什麼
+
+由 Coinbase 團隊基於 Op Stack 建立的以太坊 Layer2，目前仍是測試網，根據 Base 官方宣傳影片，預計至少有 40 個項目將入駐 Base 生態，包含錢包、DEX、借貸等協議
+
+<https://vimeo.com/801590853/5196ab18c2>
+
+#### ・為什麼建立 Base
+
+首先在 2022 上半年，團隊就確立了 3 個方向 ：
+
+1. EVM 會是 Dapp 主要發展平台
+2. Etheruem L1 是為服務經濟價值最高的 Dapp
+3. L2 是能把 Dapp 帶向規模化的重要路線
+![Supporting EIP-4844: Reducing Fees for Ethereum Layer 2 Rollups](https://img.foresightnews.pro/202302/8cbd616e5106dc575d3162af4c0663c9.png?x-oss-process=style/scale70)
+
+Coinbase 也作為核心共建者[參與 EIP4844 的開發](https://www.coinbase.com/blog/supporting-eip-4844-reducing-fees-for-ethereum-layer-2-rollups)，而早在 2022 年 10 月份的推文就提及和 OP Labs 的密切合作，因為他們堅信以太坊的發展能給加密生態帶來共贏局面
+
+Coinbase 早在 2018、2020 都曾考慮發佈自己的鏈，但直到 2022 年才下決定。官方提到以下 3 個關鍵原因：
+
+1. Base 能夠加速 Coibase 鏈上產品的發展
+2. Base 將更多用戶帶入加密經濟世界
+3. 促使 Coinbase 投注更多資金擴建加密貨幣的基礎設施
+
+
+---
+
+#### ・你可以做什麼
+
+* OP 發 [Mirror 上的文章](https://optimism.mirror.xyz/2jk3D1Y8-hid8YOCUUa6yXmsyzNCYYyFJP0Nhaey9x0)有 2 個 NFT 可搜集
+![BASEd and Optimistic](https://img.foresightnews.pro/202302/dd8d6825dbcb4243aead30701f9767c7.png?x-oss-process=style/scale70)
+
+* 下載 [Coinbase](https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad?hl=en) 錢包，到 [Coinbase Faucet](https://www.coinbase.com/faucets) 領取測試代幣
+![Coinbase Faucet](https://img.foresightnews.pro/202302/3d188dfd0e371ae198785b7da7650bb8.png?x-oss-process=style/scale70)
+
+* 有計劃在 L2 開發的團隊，可以填寫[生態基金的申請表](https://forms.gle/dbbCnnk38dKFFdfTA)，會有核心開發者和 BD 聯繫團隊
+![Base Ecosystem Fund](https://img.foresightnews.pro/202302/4434691fc0bc4366c3da7983fb703a83.png?x-oss-process=style/scale70)
+

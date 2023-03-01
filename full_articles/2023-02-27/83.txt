@@ -1,0 +1,357 @@
+**总结来说**
+--------
+
+### **1.热门币种方面：**
+
+### **2.热门 NFT 方面：**
+
+### **3.热门 DAPP 方面：**
+
+### **4.Twitter 热议方面：**
+
+### **5.区域热搜方面：**
+
+**正文**
+------
+
+*数据统计时间：2 月 27 日 10:30*
+
+*数据来源：Dune、Dapps、Twitter、Google*
+
+*说明：*
+
+*1）新增活跃用户：是指在该公链过去 24 小时新产生，并在链上有交互行为的钱包地址*
+
+*2）存量活跃用户：是指在该公链 24 小时前产生，但过去 24 小时在链上有交互行为的钱包地址*
+
+*3）Dapp 日活 (UAW: unique active wallets)*
+
+*4）TGE (Token Generation Event)*
+
+**1.公链画像 - ETH 公链**
+-------------------
+
+### **1.1 用户画像**
+
+ETH 活跃用户总数：440,911
+
+ETH 新增活跃用户数：87,335 相比昨日增减幅：+7.58%
+
+ETH 存量活跃用户数：353,576 相比昨日增减幅：-1.88%
+
+1.1.2 新增用户画像
+
+核心数据：ETH 昨日新增活跃用户数 87,335，相比昨日 +7.58%
+
+热门赛道情况
+
+![](https://img.foresightnews.pro/202302/10214-1677483503441.png?x-oss-process=style/scale70)
+
+热门项目情况
+
+![](https://img.foresightnews.pro/202302/10214-1677483544426.png?x-oss-process=style/scale70)
+
+核心数据：ETH 存量活跃用户 353,576，相比昨日 -1.88%
+
+热门赛道情况
+
+![](https://img.foresightnews.pro/202302/10214-1677483560467.png?x-oss-process=style/scale70)
+
+热门项目情况
+
+![](https://img.foresightnews.pro/202302/10214-1677483629676.png?x-oss-process=style/scale70)
+
+0x715...ea0，EOA 账户，从交易记录来看，过去的一天内有外部账户向该账户发送价值 10 USD 以下等值的 ETH，可能是机构的散钱归集动作 / 钓鱼账户，研究意义不大。
+
+其他合约是较为熟悉的项目方部署，无明显热点需特别关注 。
+
+### **1.2 热门币对**
+
+![](https://img.foresightnews.pro/202302/10214-1677483659478.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202302/10214-1677483677835.png?x-oss-process=style/scale70)
+
+**2.公链画像 - BSC 公链**
+-------------------
+
+### **2.1 用户画像**
+
+BSC 活跃用户总数：1,245,882
+
+BSC 新增活跃用户数：317,668 相比昨日增减幅：-18.76%
+
+BSC 存量活跃用户数：928,214 相比昨日增减幅：3.72%
+
+核心数据：BSC 昨日新增活跃用户数 317,668，相比昨日 -18.76%
+
+热门赛道情况
+
+![](https://img.foresightnews.pro/202302/10214-1677483689753.png?x-oss-process=style/scale70)
+
+热门项目情况
+
+![](https://img.foresightnews.pro/202302/10214-1677483705759.png?x-oss-process=style/scale70)
+
+核心数据：BSC 存量活跃用户 928,214，相比昨日 3.72%
+
+热门赛道情况
+
+![](https://img.foresightnews.pro/202302/10214-1677483715353.png?x-oss-process=style/scale70)
+
+热门项目情况
+
+![](https://img.foresightnews.pro/202302/10214-1677483733653.png?x-oss-process=style/scale70)
+
+### **2.2 热门币对**
+
+![](https://img.foresightnews.pro/202302/10214-1677483749417.png?x-oss-process=style/scale70)
+
+**3.公链画像 - Polygon 公链**
+-----------------------
+
+### **3.1 用户画像**
+
+Polygon 活跃用户总数：395,297
+
+Polygon 新增活跃用户数：125,265 相比昨日增减幅：+153.30%
+
+Polygon 存量活跃用户数：270,032 相比昨日增减幅：-6.28%
+
+核心数据：Polygon 昨日新增活跃用户数 125,265，相比昨日 +153.30%
+
+热门赛道情况
+
+![](https://img.foresightnews.pro/202302/10214-1677483766550.png?x-oss-process=style/scale70)
+
+热门项目情况
+
+![](https://img.foresightnews.pro/202302/10214-1677483772042.png?x-oss-process=style/scale70)
+
+0x948..930，0x2c3..2dd
+
+前两个合约存在大量的 1000MATIC 转账情况，可能和大陆网传 MATIC 的高息盘有关，从链上的和信息来看，项目方并没有做生息操作，其高息可能只是拆东墙补西墙的幌子，警惕高息陷阱。
+
+核心数据：Polygon 存量活跃用户 270,032，相比昨日 -6.28%
+
+热门赛道情况
+
+![](https://img.foresightnews.pro/202302/10214-1677483782561.png?x-oss-process=style/scale70)
+
+热门项目情况
+
+![](https://img.foresightnews.pro/202302/10214-1677483792007.png?x-oss-process=style/scale70)
+
+### **3.2 热门币对**
+
+![](https://img.foresightnews.pro/202302/10214-1677483798785.png?x-oss-process=style/scale70)
+
+**4.公链画像 - Arbitrum 公链**
+------------------------
+
+### **4.1 用户画像**
+
+Arbitrum 活跃用户总数：117,351
+
+Arbitrum 新增活跃用户数：22,225 相比昨日增减幅：+9.56%
+
+Arbitrum 存量活跃用户数：95,126 相比昨日增减幅：-2.09%
+
+核心数据：Arbitrum 昨日新增活跃用户数 22,225，相比昨日 +9.56%
+
+热门赛道情况
+
+![](https://img.foresightnews.pro/202302/10214-1677483814202.png?x-oss-process=style/scale70)
+
+热门项目情况
+
+![](https://img.foresightnews.pro/202302/10214-1677483820365.png?x-oss-process=style/scale70)
+
+0xb42..0c9，**EDE（Dapp）**，BSC 链上的去中心化永续合约交易平台，近期宣布在 Arbitrum 上部署合约，引起社区较大关注。其官方推特虽然只有 2 万的粉丝数，其推文有 1-2 万的浏览量，有较大的社区流量；https://ede.finance/
+
+核心数据：Arbitrum 存量活跃用户 95,126，相比昨日 -2.09%
+
+热门赛道情况
+
+![](https://img.foresightnews.pro/202302/10214-1677483876027.png?x-oss-process=style/scale70)
+
+热门项目情况
+
+![](https://img.foresightnews.pro/202302/10214-1677483882509.png?x-oss-process=style/scale70)
+
+### **4.2 热门币对**
+
+![](https://img.foresightnews.pro/202302/10214-1677483887745.png?x-oss-process=style/scale70)
+
+**5.DAPP 生态 - 所有公链**
+--------------------
+
+![](https://img.foresightnews.pro/202302/10214-1677483899706.png?x-oss-process=style/scale70)
+
+**6.DAPP 生态 - ETH 公链**
+----------------------
+
+![](https://img.foresightnews.pro/202302/10214-1677483910021.png?x-oss-process=style/scale70)
+
+**7.DAPP 生态 - BSC 公链**
+----------------------
+
+![](https://img.foresightnews.pro/202302/10214-1677483921281.png?x-oss-process=style/scale70)
+
+**8.DAPP 生态 - Polygon 公链**
+--------------------------
+
+![](https://img.foresightnews.pro/202302/10214-1677483932449.png?x-oss-process=style/scale70)
+
+**9.DAPP 生态 - WAX 公链**
+----------------------
+
+![](https://img.foresightnews.pro/202302/10214-1677483947252.png?x-oss-process=style/scale70)
+
+WAX 链整体异动不明显，头部项目还是 Alien Worlds，Alien Worlds 为 Was 链上长期处于 UAW 领先的项目，且与其他项目拉开明显差距，另一款 Farmers World 也有较高的 UAW，都是较老的 gamefi 项目；
+
+**10.DAPP 生态 - Solana 公链**
+--------------------------
+
+![](https://img.foresightnews.pro/202302/10214-1677483957512.png?x-oss-process=style/scale70)
+
+Solana 应用的 UAW 都有大幅的上升，其主要原因是：Solana 主网在 2 月 25 日进行了分叉事件，限制了网络 TPS 至 93 笔 / 秒的水平。该问题在次日被 Solana 社区解决，主网恢复处理交易的能力，导致问题的原因可能与网络运营商提供的节点服务有关。
+
+**11.DAPP 生态 - Arbitrum 公链**
+----------------------------
+
+![](https://img.foresightnews.pro/202302/10214-1677483966543.png?x-oss-process=style/scale70)
+
+**12.DAPP 生态 - 全公链 GameFi 板块**
+------------------------------
+
+![](https://img.foresightnews.pro/202302/10214-1677483977066.png?x-oss-process=style/scale70)
+
+Meta Apes 的异动情况已在前文有做阐释。
+
+**13.Gas 费消耗情况 - ETH 公链**
+-------------------------
+
+![](https://img.foresightnews.pro/202302/10214-1677483987360.png?x-oss-process=style/scale70)
+
+**14.Gas 费消耗情况 - BSC 公链**
+-------------------------
+
+![](https://img.foresightnews.pro/202302/10214-1677483995555.png?x-oss-process=style/scale70)
+
+**15.Gas 费消耗情况 - Polygon 公链**
+-----------------------------
+
+![](https://img.foresightnews.pro/202302/10214-1677484006328.png?x-oss-process=style/scale70)
+
+Rank3、4、5（Dapp）：都是 Lens 相关的合约地址，2 月 25 日，Lens 和 nft pairs 合作推出艺术角活动，用户参与活动可以领取 Lens Profile，随着 Lens 的发币预期高涨，预计 Lens 未来在 Polygon 上的活跃度会持续增高；
+
+**16.Gas 费消耗情况 - Arbitrum 公链**
+------------------------------
+
+![](https://img.foresightnews.pro/202302/10214-1677484013032.png?x-oss-process=style/scale70)
+
+**17.Twitter trends token top 20**
+----------------------------------
+
+![](https://img.foresightnews.pro/202302/10214-1677484025479.png?x-oss-process=style/scale70)
+
+从 Twitter 趋势代币热度角度看：
+
+新上榜代币：BLUR、COLLAB、KEY、SAND;
+
+上周 BTC 在持续上攻 25200 无果后开启连续回调模式，最低跌至 $22722 附近，周末两天处于震荡反弹走势，目前已回升至 $23500，目前距离 3 月份的美联储议息会议还有一段时间，大盘也进入了政策相对平稳的时期，预计 BTC 大概率维持震荡走势;
+
+**18.Twitter KOL 提及代币次数**
+-------------------------
+
+![](https://img.foresightnews.pro/202302/10214-1677484035214.png?x-oss-process=style/scale70)
+
+从 Twitter KOL 提及代币角度看：
+
+Super Kol 提及较热代币：BTC、ETH、BLUR；
+
+Builder 提及的代币：头部提及次数的代币为：BLUR，腰部提及次数的代币为：ETH、STAR、ABS、APT 等；
+
+**19.Twitter VC 机构提及代币次数**
+--------------------------
+
+![](https://img.foresightnews.pro/202302/10214-1677484043901.png?x-oss-process=style/scale70)
+
+从 VC 机构在 TW 上提及的次数看：SIDUS、BTC、BLUR、BNB 等代币被提及次数较多;
+
+**20.Google 热搜词云 - 全区域**
+------------------------
+
+![](https://img.foresightnews.pro/202302/10214-1677484053770.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202302/10214-1677484062877.png?x-oss-process=style/scale70)
+
+从 Google 热搜的角度看，全区域最关注的热搜词和代币为：
+
+热搜词：Crypto Bubbles、Binance；
+
+热搜代币：AION、ADA；
+
+**21.Google 搜索热词飙升 - 东亚、南亚、东南亚、港澳台**
+------------------------------------
+
+![](https://img.foresightnews.pro/202302/10214-1677484072968.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202302/10214-1677484084371.png?x-oss-process=style/scale70)
+
+「印度」热搜 token：PI、ORIS、BABYDOGE、LONELY；热搜词：faucetpay、Coindesk、bscscan；
+
+「巴基斯坦」热搜词：what is crypto currency、trading view；
+
+「菲律宾」热搜 token：AION、PI；
+
+「印度尼西亚」热搜 token：WAVES；热搜词：cryptotab、what is crypto trading、cmc；
+
+「新加坡」热搜词：binance；
+
+「越南」热搜词：cryptotab、crypto market news；
+
+**22.Google 搜索热词飙升 - 英文区、欧洲、CIS 区**
+-----------------------------------
+
+![](https://img.foresightnews.pro/202302/10214-1677484093503.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202302/10214-1677484103178.png?x-oss-process=style/scale70)
+
+「加拿大」热搜 token：HEX、XRP、ADA、TRON、SHIB；
+
+「澳大利亚」热搜 token：QNT、SSV、AION、STX；
+
+「美国」热搜 token：DOGE、GLMR、BRISE；
+
+「英国」热搜 token：FLOKI、UFO；热搜词：coinbase pro、ftx collapse；
+
+「德国」热搜 Token：FDX、EGLD；
+
+「意大利」热搜 Token：PI、GMX、STX、AXS；
+
+「瑞士」热搜 Token：CFX；
+
+「法国」热搜 Token：IOTA、OKB、PAW、WAVES、SWEAT、FET；
+
+「西班牙」热搜 Token：AION、SHIB、XEN、RUNE、HEX、RLC；
+
+「比利时」热搜 Token：PI；
+
+**23.Google 搜索热词飙升 - 中东、拉丁美洲、非洲**
+---------------------------------
+
+![](https://img.foresightnews.pro/202302/10214-1677484113542.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202302/10214-1677484122859.png?x-oss-process=style/scale70)
+
+热搜应用：binance、coinbase、bubble crypto、dexscreener；
+
+热搜词：crypto faucet、ido meaning in crypto；
+
+「巴西」 热搜 token：XRD、ADA、DOGE；
+
+「阿根廷」热搜 token：SHIB；
+
+「墨西哥」热搜词：Crypto tower、Crypto market；
+

@@ -1,0 +1,126 @@
+![](https://img.foresightnews.pro/202302/c3a3e6891b7e6e1e7dc16ea211f124c8.gif?x-oss-process=style/scale70)Block-1043
+
+  
+腾讯云近日宣布支持全球 Web3 生态系统开发，腾讯的云业务也推出了新产品，以促进 Web3 的创建和整合。
+
+  
+腾讯云在首届全球 Web3 峰会上表达了其承诺，腾讯云高级副总裁杨宝树表示：
+
+  
+“在腾讯云，我们看到了 Web3 的未来，这是互联网的新迭代，引入了‘沉浸式融合’的概念，使物理经济和数字经济相遇并融合。”
+
+  
+他还指出，**Web3 和其他去中心化技术越来越多的主流采用**，**需要在用例方法上进行范式转换**。正如腾讯云国际高级副总裁所言：
+
+  
+“随着越来越多的企业热衷于探索和适应高效、透明的数字未来，我们已经准备好利用我们在游戏、音频和视频领域多年的技术经验，为 Web3 提供强大的技术支持，并与行业伙伴合作，创造更沉浸式的体验，培育更好的 Web3 生态。”
+
+  
+腾讯云宣布与 Web3 区块链和基础设施提供商进行战略合作，包括 Ankr、Avalanche、Scroll 和 Sui。
+
+  
+除了对全球 Web3 社区发展做出重大贡献外，该业务还公布了发展路线图。
+
+  
+这一蓝图包括区块链的全套产品，包括区块链 API 服务和腾讯云元服。
+
+  
+根据该公司的说法，这些产品为 Web3 构建者提供了坚实的技术基础，以投射他们的产品和服务。
+
+  
+
+
+腾讯云还将自己定位为满足全球合作伙伴不断增长的需求，这些合作伙伴与新兴的 Web3 技术保持一致。
+
+  
+
+
+![](https://img.foresightnews.pro/202302/b45a080549366cf999c75097ee79237f.png?x-oss-process=style/scale70)
+
+  
+
+
+腾讯云的业务部门解释说，通过这些合作伙伴的合作，腾讯云正在利用高性能、高质量的基础设施和云技术。
+
+  
+其他一些促进 Web3 可持续发展的计划包括提供云解决方案积分和营销研讨会。
+
+  
+该平台还计划通过腾讯云 Web3 生态系统联盟，促进利用其生态系统资源的宣传机会。
+
+  
+腾讯云 Metaverse-in-a-Box 计划是一个全面、无缝、一站式的解决方案，该解决方案将云的多个功能完全组合到一个动态服务中。
+
+  
+这些特性包括高性能产品、广泛的基础设施和低代码解决方案，这些都适用于游戏、媒体和娱乐。
+
+  
+此外，Metaverse-in-a-Box 产品也与 Web3 原生产品以及传统行业相关。
+
+  
+腾讯云副总裁 Tommy Li 将 Metaverse-in-a-Box 描述为加速用户走向元宇宙的一种手段。
+
+  
+在其他与腾讯相关的新闻中，由于宏观经济的限制，这家中国科技巨头取消了其虚拟现实（VR）硬件计划。
+
+  
+腾讯表示，**放弃虚拟现实硬件将确保其在其他元宇宙领域的竞争力**。
+
+  
+这家总部位于深圳的公司还补充说，它将削减其元宇宙部门的员工人数，并降低额外的运营成本。
+
+  
+
+
+  
+
+
+原文来源于 coinspeaker，由区块链骑士编译整理，英文版权归原作者所有，中文转载请联系编辑。  
+
+
+  
+  
+
+
+---
+
+  
+
+
+  
+
+
+**ATH**
+
+欢迎大家加入**区块链骑士**的电报群：  
+**https://t.me/blockchainknight**
+
+  
+  
+  
+**推 荐 阅 读**![](https://img.foresightnews.pro/202302/36f1113b176f651c9ad0121ceaebe26c.jpeg?x-oss-process=style/scale70)
+
+**文章精选****区块链 +**[高性能计算](http://mp.weixin.qq.com/s?__biz=Mzg2NjAxMTI5Mg==&mid=2247485195&idx=1&sn=436864bd1fe01d71bb45c207dfee1a37&chksm=ce5016f8f9279fee934ec77907235045bf4da3309de655ef0e7fae5e7324988d0620ba3b4a7e&scene=21#wechat_redirect) | [游戏 |](http://mp.weixin.qq.com/s?__biz=Mzg2NjAxMTI5Mg==&mid=2247485170&idx=1&sn=a1220cb963e04df41e3720c5b9e54744&chksm=ce501701f9279e173906ac3535c38959e8f8e7614574894ed22018fd528967be3c15d2df56d4&scene=21#wechat_redirect)[冠状病毒医疗](http://mp.weixin.qq.com/s?__biz=Mzg2NjAxMTI5Mg==&mid=2247485107&idx=1&sn=92fd82997bece70638b47ef3a45f63e4&chksm=ce501740f9279e567227e1dd241e256f10ed5476b8d4e8a570305471c5ab9e78f29bdcef7ba8&scene=21#wechat_redirect)[|](http://mp.weixin.qq.com/s?__biz=Mzg2NjAxMTI5Mg==&mid=2247485107&idx=1&sn=92fd82997bece70638b47ef3a45f63e4&chksm=ce501740f9279e567227e1dd241e256f10ed5476b8d4e8a570305471c5ab9e78f29bdcef7ba8&scene=21#wechat_redirect)[银行](http://mp.weixin.qq.com/s?__biz=Mzg2NjAxMTI5Mg==&mid=2247485022&idx=1&sn=7def438cee77315ea5944cc90395bd15&chksm=ce5017adf9279ebb820fb1754d81372db3a842b09b617d725289de43d3304d0479f82f655dc6&scene=21#wechat_redirect)
+
+[物流](http://mp.weixin.qq.com/s?__biz=Mzg2NjAxMTI5Mg==&mid=2247484270&idx=1&sn=a71a5e214ad9940b92b3be60ade0f82f&chksm=ce50129df9279b8b85ec4cf92461f13f397bc5a7da55c376d07481419ae040c2616432e913a4&scene=21#wechat_redirect) | [供应链](http://mp.weixin.qq.com/s?__biz=Mzg2NjAxMTI5Mg==&mid=2247484277&idx=1&sn=e08f7bf885faaebd2702439aae5376df&chksm=ce501286f9279b909bd4632af23a66a1a0f0f8512c4fefaeb3fb13f149c1b5599889034bf724&scene=21#wechat_redirect) | [教育培训](http://mp.weixin.qq.com/s?__biz=Mzg2NjAxMTI5Mg==&mid=2247484114&idx=1&sn=e178c5401929cf7136f6461d36cb4605&chksm=ce501321f9279a37c7ed868428990d7658090a2cae4a2973f01ee8d4ee92ccfc05c7a9dfc399&scene=21#wechat_redirect) | [绿色能源](http://mp.weixin.qq.com/s?__biz=Mzg2NjAxMTI5Mg==&mid=2247484054&idx=1&sn=6e60b04be3b3c69c2202615e820261fa&chksm=ce501365f9279a73929438919dd691c530642b0202012fa997c91c153b4373ac86d3733be7ef&scene=21#wechat_redirect) | [会计金融](http://mp.weixin.qq.com/s?__biz=Mzg2NjAxMTI5Mg==&mid=2247484102&idx=1&sn=c6da4b3733f58a207035cc89cd915757&chksm=ce501335f9279a23347f62cd4559a56920fb21effa51f43a17235a503849e1b5bc4c1835768c&scene=21#wechat_redirect)  
+
+
+[数字艺术市场 |](http://mp.weixin.qq.com/s?__biz=Mzg2NjAxMTI5Mg==&mid=2247484751&idx=1&sn=965a38dbd14d1f91120974430e35e4d5&chksm=ce5014bcf9279daa12f32971b82de95f3ccf1c1178c9ac5299dcb47bd2e82ce19fec8538e003&scene=21#wechat_redirect)[军事 |](http://mp.weixin.qq.com/s?__biz=Mzg2NjAxMTI5Mg==&mid=2247484802&idx=1&sn=3743d2b5d93c14a4a711dfe8c8750a04&chksm=ce501471f9279d677993574361a8d71d5367b2e7c597db500fe80583eff6520f38f0493e36e2&scene=21#wechat_redirect)[慈善监管 |](http://mp.weixin.qq.com/s?__biz=Mzg2NjAxMTI5Mg==&mid=2247484627&idx=1&sn=664e99a1ce32e9ddf8376de62456301c&chksm=ce501520f9279c36c4e8774c02cf25b1d94b03255574be78e40074c27dbdeeb2206a93b5290d&scene=21#wechat_redirect)[公司结构](http://mp.weixin.qq.com/s?__biz=Mzg2NjAxMTI5Mg==&mid=2247484542&idx=1&sn=5dc7446e04dbe1f9cf3bc7ff19b5d280&chksm=ce50158df9279c9bc614976f1d1693d3e5ee86cc5161921089f205dfa03ad001b30227f70eaf&scene=21#wechat_redirect)  
+**Crypto**  
+[一文详解 2023 年 Crypto 市场前景如何？](http://mp.weixin.qq.com/s?__biz=Mzg2NjAxMTI5Mg==&mid=2247500194&idx=1&sn=b2aad1ee9d7e81e3bb2f509ad96d8d17&chksm=ce53d051f92459476034d264d08a8a62a5d20e2a99bcee49339a53b8d8417fa2a03af0ee2bcd&scene=21#wechat_redirect)  
+
+
+[速速了解区块链新趋势](http://mp.weixin.qq.com/s?__biz=Mzg2NjAxMTI5Mg==&mid=2247500377&idx=1&sn=e89fc9bd4d28417009b11e0eb2164861&chksm=ce53d3aaf9245abc6352e2e31db1199524255cb8f80b9c7dc727d1d772864b7eee4eacdb2055&scene=21#wechat_redirect)  
+
+
+[俄罗斯和欧盟 CBDC 计划将在 2023 年取得新进展](http://mp.weixin.qq.com/s?__biz=Mzg2NjAxMTI5Mg==&mid=2247500210&idx=1&sn=d52cd7df367c6dae2f8c01937dd812fc&chksm=ce53d041f924595767b6a9536d87d782c17d9812971ca6a87bec0c8e4510026266e530c0c8e9&scene=21#wechat_redirect)  
+
+
+[风靡创投圈的 Web3 是什么？](http://mp.weixin.qq.com/s?__biz=Mzg2NjAxMTI5Mg==&mid=2247500165&idx=1&sn=30afeb775c219146c25c09cc8352d195&chksm=ce53d076f9245960934349e6e0df33a0657d23ff3b4bf6266d9185d3086d87bcca4c4221edb0&scene=21#wechat_redirect)  
+
+
+[2023 年 DeFi 预测，明年 DeFi 何去何从？](http://mp.weixin.qq.com/s?__biz=Mzg2NjAxMTI5Mg==&mid=2247500120&idx=1&sn=da95ec288592d1c8ed8ecad0674aa36a&chksm=ce53d0abf92459bde46106362b2aed2a39cc26c6d037fadae4cb3bb6edc02fe43405203eb945&scene=21#wechat_redirect)  
+
+
+![](https://img.foresightnews.pro/202302/47c33a55fa2609d1f9db149d4300c215.gif?x-oss-process=style/scale70)
+

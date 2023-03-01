@@ -1,0 +1,35 @@
+The co-founder of ImmutableX (IMX), Robbie Ferguson, made predictions for the future of the network and industry earlier this year. He believes that there will be a Web3 game with one million players by the end of the year, which may not seem like a lot in the world of gaming, but would be a big accomplishment for the Web3 industry. In alignment with his beliefs, significant price action and activities have been seen on IMX recently.
+
+Since November of last year, IMX entered into a partnership with Starware to introduce ZK rollups and the “Immutable Passport,” which is touted as an “instant non-custodial wallet onboarding solution for web3 games.” These high-quality developments may be the reason behind the rally of the $IMX token.
+
+### What is ZK rollup and how does it impact IMX
+
+![](https://img.foresightnews.pro/202302/8b49e7a6889f67581b75ca2d0ec5efb5.png?x-oss-process=style/scale70)IMX + ZK rollup[ZK rollups](https://www.immutable.com/blog/immutable-starknet-cross-rollup-nft-liquidity) are a method of confirming that a statement is true, but not revealing what the statement actually is. This allows for some of the information involved in a transaction to be processed outside the main system, making transactions on the IMX chain faster.
+
+Imagine wanting to prove that you have enough money in your bank account to buy something, but not wanting to reveal your exact balance to the seller. ZK rollups are like a secret message between you and your bank, where the bank confirms that you have enough money without revealing how much. This secret message can be processed quickly, making the entire process faster.
+
+### What is Immutable Passport
+
+![](https://img.foresightnews.pro/202302/630348dfef47aea4cab7f6b3eedf45c7.jpeg?x-oss-process=style/scale70)IMX passportThe Immutable Passport is a tool that makes it easier for people to join web3 games. Instead of creating a new account and remembering a password, people can use the Immutable Passport to quickly sign in.
+
+Additionally, the Immutable Passport creates a web3 wallet for people automatically, meaning they don’t have to worry about setting up a separate wallet before they can play.
+
+The Immutable Passport is designed to keep people’s information and assets secure while they play web3 games, helping to keep the web3 gaming community safe and growing. With the added security and ease of use, more people will be interested in playing web3 games.
+
+### The Road Ahead of Web3 Gaming
+
+The web3 scene has not always been so bullish and lively. Just last year, the entire web3 gaming scene went through a collapse and was expected to see one of its worst slumps in recent years. While the market has seen a mini rally in January, Robbie Ferguson doesn’t seem to have changed his perspective on the market yet. He predicts that sideways action will continue due to the current state of the economy and expects to see even more regulations this year following the collapses of the past year.
+
+### About Formless
+
+Formless is a collection of revolutionary gaming infrastructure protocols and SaaS based toolbox designed to enhance user gamer experience, and enable gaming developers to build the next wave of Web 3.0 Dapps and games. Zero blockchain experience needed.
+
+Formless’ one-stop portal connects users through our comprehensive, feature-rich ecosystem with over 200 partnered games, giving them the best chance to discover the next Axie Infinity.
+
+We are well positioned to lead the emerging success of the Metaverse and Play-to-Earn economy.
+
+Follow us on our socials👇
+
+[Twitter](https://twitter.com/formlessgamefi) | [Telegram](https://t.me/formless_official) | [Medium](https://medium.com/@Formless.Official) | [Website](https://formless.me/home) |
+
+![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=3eb0459eaade)

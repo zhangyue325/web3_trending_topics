@@ -1,0 +1,8 @@
+💫 **新功能： -** 初版跨链聚合器：支持三方桥 Multichain，来源链 BSC、Polygon，及部分 MGT；为用户提供体验良好，安全的跨链服务，从而完善产品使用闭环，提升用户体验。
+
+💫 \*\* 重要更新： \*\*- STC, Aptos 转账时，更新 gas 费编辑不支持小数、负数的问题； - SDK Ifram 版本更新； - SDK 支持 Tron，TRX 支持 DApp 授权； - 官网首页 “下载页” UI 更新 + 上线安卓 APK； - 短域名增加 Arbitrum .arb 项目。
+
+上述所有更新已正式上线 OpenBlock 网页端钱包 <https://openblock.com/>
+
+🎉 关注 OpenBlock：官方交流电报群：<https://t.me/OpenBlock_Official>中文交流电报群：<https://t.me/OpenBlock_Official_Chinese>官方推特： <https://twitter.com/OpenBlockWallet>Discord：<https://discord.gg/EhsKYbvtJx>官方 Mirror:<https://mirror.xyz/0x054a948bD54a17419dF6bfFac05a64beFF62C51B>
+

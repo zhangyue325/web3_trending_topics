@@ -1,0 +1,41 @@
+近期 Arbiturm 生态持续火爆，一款名为 TridentDAO 的项目引发了社区的讨论，这款免费游玩、由 Geyser Forge Studios 开发的游戏项目，其原生 Token PSI 在近期涨幅也较大，在经历 Token 和 NFT 价格大涨后一些社区成员甚至把该项目冠以「TreasureDAO 的最大竞品」称号。官方称未来扩展到其他 Layer 2 StarkNet 等。
+
+PSI 是 TridentDAO 原生 Token，可用于玩家下注、兑换 NFT 等游戏内用途。
+
+新 GameFi 模型—— Risk to earn
+--------------------------
+
+Trident 团队认识到此前 Play to earn 的困境，首先 P2E 游戏用户玩游戏的收益来自于在游戏中产生的资产卖给别人，其次是游戏内一般还存在一个无限增殖系统，一个 NFT / 资产可以被 「繁殖」以创造更多的 NFT / 资产，这两种模式导致游戏的资产供应量和抛售压力增加，而这类游戏资产价格在理论上最终陷入死亡螺旋是注定的，这就大多数 P2E 游戏的模型是非可持续性的原因。
+
+Trident 尝试使用零和的 Risk To Earn 模型，团队计划于今年第二季度发布该功能。玩家可以将在 Trident 上的游戏中下注，玩家下注的资产会存放在同一个池子，游戏的赢家将获得整个池子的资产，输家将失去所有下注的资产。与以往的 Play to earn 模式不同，该模式是可持续的，让资产在玩家之间流动，解决了严重的供应问题。游戏的胜负更多取决于玩家的对游戏的熟练程度，技能更好的玩家将会获得胜利，与其他 Gamefi 模式输家不受惩罚不同，由于 Risk To Earn 的机制，让玩家更热衷于提高自己的技能获得游戏胜利，那些不熟练和高效的人可以在游戏中练习。此外，游戏还允许观众进行 Risk To Earn 等手段吸引用户加入。无论是观众还是玩家完成下注都要交一定的费用给平台，这一小部分进入国库用于后续生态建设，而 PSI Token 也会在下注后永久销毁，Token 供应不会增加，这是团队为 Token 通货膨胀提供了一种解决方案，Trident 团队更多是通过根据玩家基数数据调整 Token 供应量。
+
+但同时应该注意的是，因为 Risk To Earn 类似赌博模式可能容易引起相关监管机构的注意。
+
+游戏生态
+----
+
+### 游戏
+
+Trident 页面上显示三款游戏，分别是 Trident MMO、Sprite Duels 和 Trial of the Trident。
+
+Trident MMO ：仍然在开发中，官方宣称将在一季度开放。
+
+Sprite Duels：类似口袋妖怪宠物战斗小游戏，玩家在 15 种宠物选择并排列 3 只宠物与另一个玩家 3 只宠物对战，每只宠物都有各自的战斗统计属性（攻击、防御、速度等）和四个动作。玩家轮流选择进行动作选择，当宠物的生命死亡时，游戏就会自动将下一只宠物带入竞技场。获胜者是最后一个有宠物存活的玩家。
+
+Trial of the Trident：Trident 的练习模式，新手玩家可以在此模式提高游戏熟练度，玩家需要躲避海妖 BOSS 的水晶雨和岩浆攻击，并通过攻击减少海妖 BOSS 的生命值直至死亡，玩家通过击败海妖获得更多玩法的解锁。不过在即使玩家拥有四条生命，但社区有部分玩家反应该模式击败海妖难度过大。
+
+### NFT
+
+Pseudo-Krakens NFTs：Trident 首个 NFT 系列，限量供应 3000 个，初始铸造价格为 0.03 ETH，当前该 NFT 地板价将近 0.28 ETH。拥有该系列 NFT 的玩家在游戏将有一个外观选项，此外持有该 NFT 还能允许玩家对 Trident 关于未来游戏的决定事务进行投票，每个 NFT 代表一个投票权。
+
+### 徽章
+
+帐户徽章为 Trident 忠实粉丝和合作伙伴社区提供独家机会，如获得游戏内装备、独家小游戏资格、获得限量版皮肤等独家事项。当前已推出 「We're So Early」、「Sprite Duelist」、「Kraken Killer」、DegenScore Degenerate 和 CryptoPunk Bourgeoisie 五个徽章。
+
+与 TreasureDAO 的竞争
+-----------------
+
+TreasureDAO 和 TridentDAO 同为 Arbitrum 上的 Gamefi 项目难免进行相互比较，但就目前来看，TreasureDAO 仍处于在领先的位置。在游戏种类上，TridentDAO 当前三个游戏上线低于 TreasureDAO 超过 10 款的游戏种类；在用户活跃度上，Dune Analytics 数据显示，TreasureDAO 2 月单周新增 MAGIC Token 用户数（4,084）超过了 PSI Token 持有者总数（3,377）；从社交媒体 twitter 也进一步验证，与 TreasureDAO 相比（关注数 127.9K），TridentDAO 关注数为 11.8K；TridentDAO 生态丰富程度尚不如 TreasureDAO，TreasureDAO 拥有原生 DEX（Magicswap）、原生的 NFT 交易市场（Trove）等，不过 TridentDAO 也即将在上线自己的 DEX OasisSwap 填补一部分生态的空缺。
+
+从现阶段可以看出，横向对比来看，作为 TreasureDAO 的竞品，TridentDAO 暂时还不具备优势，但是赌博概念 Risk to earn 的引入后以及纵向上随着 L1 向 L2 转移的趋势加强，Arbitrum 用户量进一步增长，未来有机会吸引更多的新用户参与，缩小二者之间差距。
+

@@ -1,0 +1,162 @@
+![](https://img.foresightnews.pro/202302/3e094532ddf0ffd49249a593da5c92e6.jpeg?x-oss-process=style/scale70)
+
+**本周，我们将关注 Arbitrum 的发展，分析其在技术上的升级和未来路线。同时，在生态上，我们分析了爆火的 Defi 类和游戏类项目的成功原因及未来发展，例如 GMX 这类机制上有所创新，协议收入在熊市表现亮眼。**
+
+![](https://img.foresightnews.pro/202302/eac736284bbbe4e480a11ae00ecea35f.jpeg?x-oss-process=style/scale70)
+
+来源| 火币研究院
+
+  
+
+
+### **摘要**
+
+随着美联储加息放缓，1 月底加密行情出现小牛市，比特币上涨到半年来的新高，突破了 23700 美元。由于以太坊二层的频频利好，Arbitrum 给整个加密市场带来了新的活力。一是，Arbitrum 在 2022 年更新了技术，来应对更为频繁的交易活动。二是，由于奥德赛活动第一周的火爆程度，让 Arbitrum 的生态项目获得了巨大的关注。
+
+本周，我们将关注 Arbitrum 的发展，分析其在技术上的升级和未来路线。同时，在生态上，我们分析了爆火的 Defi 类和游戏类项目的成功原因及未来发展，例如 GMX 这类机制上有所创新，协议收入在熊市表现亮眼。在此基础之上，Arbitrum 的发币预期将持续带来利好。
+
+### **概况**
+
+2023 年初表现最亮眼的赛道莫过于 Layer2，这也符合大部分机构和影响力人物的预测。在币价上，Optimism, Polygon 以及 Arbitrum 上的生态币也都表现不错，比如代币 $OP 在 2 月最高 $3.17，$MATIC 最高也达到 $1.32。在 Terra 和 Solana 这类新公链在熊市的暴雷事件影响下，未来还将是以太坊的主场，可以说更多是新公链和 Layer2 的竞争。随着加密行情出现的小高潮，在 2 月 Arbitrum 一马当先，创造了瞩目的成果。
+
+![](https://img.foresightnews.pro/202302/b20eaf53cbc03004437f0a8726749356?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202302/5ac3b497453bfa5c3e4dbe23e0fab2f5?x-oss-process=style/scale70)目前，Arbitrum 是以太坊二层扩容方案中 TVL 最大的项目，达到 2.98B，占所有网络的 3.01% TVL 份额，在 L2 中还拥有 49.51% 的 TVL 份额。Arbitrum Rollup 是一种由链上以太坊合约管理的链下协议，所以准确地说 Arbitrum 并不是一条区块链，而是把链下交易通过压缩算法上传到以太坊主网。这种方式能够部分解决以太坊面临的拥堵问题，以达到快速交易、低 gas fee、安全性保证、用户体验好等优势。
+
+![](https://img.foresightnews.pro/202302/99383d7fb82ee5ba133e660577183776?x-oss-process=style/scale70)
+
+### **第一章 技术升级**
+
+2022 年，Arbitrum 动作频出，除了奥德赛活动之外，其在技术升级上也是不断推陈出新，其中包括启动 Arbitrum Nova 和 Arbitrum One 双链、推出新的编程环境 Stylus。下面我们一一介绍这些技术核心和解决的问题。
+
+**Arbitrum Nova — AnyTrust 链**
+
+2022 年 7 月 12 日，Arbitrum 网络宣布构建了新链「Arbitrum Nova」。这条链基于 AnyTrust 技术搭建，专为游戏、社交应用程序和对成本更敏感的用例而设计。AnyTrust 技术基于通过数据可用性委员会确保的最小信任假设。该委员会将负责管理链下交易数据并提供该数据支持批次。因此，AnyTrust 省去了用户需要等待的 7 天提币期，提高了用户体验。主要技术核心有以下几点：
+
+* 为批量交易签署数据可用性证书 (DACerts) 并发布此 DACert；
+* 如果委员会无法达成共识，该链将恢复为 Arbitrum 汇总协议；
+* 数据执行将在 L2 链上执行，经过一段充满挑战的时期后，新的汇总状态将在以太坊上得到确认。
+
+**Nitro**
+
+2022 年 8 月底。Arbitrum One 成功升级到 Nitro 版本。Nitro 升级大大提高了网络速度并降低了交易成本。总的来说，Nitro 主要做了以下技术升级：
+
+* 对之前的 AVM 架构和 ArbOS 进行了一些修改；
+* 流行的 WebAssembly (WASM) 架构将取代旧的、定制设计的 AVM 架构。
+* 定制的 EVM 模拟器被 Geth 取代；
+* ArbOS 将缩小尺寸并用 Go 重写，从而为交易提供更优化的批处理和压缩系统。
+
+Arbitrum Nitro 技术的核心是一个新的证明器（prover），可以在 WASM 代码上进行 Arbitrum 的交互式欺诈证明。这样就可以使用标准的语言和工具来构建和编译。同时，Gethcore 也直接编译到 Arbitrum 中，使得其更兼容 EVM。
+
+**Stylus**
+
+Arbitrum 开发团队 Offchain Labs 宣布将为 Arbitrum One 和 Arbitrum Nova 推出下一代编程环境 Stylus，Stylus 通过 WebAssembly 智能合约功能，允许用户使用他们最喜欢的编程语言（包括 Rust、C 和 C++）部署应用程序，以便与 Arbitrum 上的 EVM 程序一起运行。Stylus 的速度快了一个数量级，并且能够降低费用，并且与以太坊虚拟机（EVM）完全互操作。Offchain Labs 将 Stylus 称之为 EVM+，但是，Stylus 不会取代 EVM。
+
+### **第二章 生态合作**
+
+在过去一年，Arbitrum 市场份额大幅增长，这种增长来源于：1. Layer2 的持续看好；2. Arb 的发币预期；3. 生态应用的增长，尤其是原生应用的增长。自去年 9 月主网 Arbitrum One 上线以来，以太坊 Layer1 主网上的头部 DeFi 协议 Uniswap、Sushiswap、Curve 等应用纷纷在 Arbitrum One 上集成部署，还有一些知名的跨链协议。例如 Synapse 和 Stargate。这些应用的涌入也表明了开发者对 Arbitrum 扩容方案的看好。
+
+2022 年 6 月，奥德赛活动主办方挑选了 Arbitrum 上的 14 个最活跃项目，包括跨链桥、DeFi、NFT 、游戏。活动时间原本计划为期 8 周，但实际只进行了第一周就暂停了。奥德赛暂停的根本原因是在第二周的时候，网络拥堵，导致 gas fee 太高。当时已经超过了以太坊主网的 gas fee. 其实这已充分说明 Arbitrum 当时的状态没办法承载这么多的用户。
+
+但是，奥德赛虽然只举办了一周，但这次的活动还是吸引了足够多的关注。Arbitrum 结合 NFT 以活动周的形式，激发了用户参与的热情，也有助于用户了解 Arbitrum 的生态，在提高用户量的同时，也给其生态的项目带来了流量。同时又保留了未来对发币的预期，而不是匆匆发币给空投的方式。
+
+根据浏览器上的数据显示，自 6 月 21 日奥德赛活动开始到第一周任务结束时，Arbitrum 的新增地址达 20.7 w 个。并在 6 月 27 日单日新增达到了 5.5 万个，成为单日新增地址最多的一天。可见奥德赛活动之成功。
+
+![](https://img.foresightnews.pro/202302/78b5f3c17e0da5eead98e04ebff799f9?x-oss-process=style/scale70)奥德赛活动之后，Arbitrum 在技术上持续发力，在生态上不断推出创新机制的项目，使得其在 1 月底的小牛市期待值拉满。目前，Arbitrum 2022 年 10 月 -2023 月 1 月的平均月活跃地址数为 608.365k，较 9 月上涨了 51.2%。Arbitrum 的交易量与用户数也有相应的上升。
+
+![](https://img.foresightnews.pro/202302/6ac37ca548b938c940f1ee64b2d019aa?x-oss-process=style/scale70)
+
+### **第三章 热门项目分析**
+
+近 2 个月，Arbitrum 上的原生生态项目获得了整个加密市场的关注。这里梳理了部分表现亮眼的项目，这些项目的市值与其它公链的同类型项目比较还有一定的差距，还是处于低估值状态。随着 Arbitrum 的发币和未来发展，都会有很大的提升空间。
+
+#### **3.1 Defi 类**
+
+Arbitrum 上有多链部署的知名项目，例如 Uniswap 和 AAVE。但是，Arbitrum 的原生项目反而展现出惊人的爆发力，例如永续合约交易所 GMX 、衍生的收益聚合器和机枪池项目 Jones DAO 等。目前 Arbitrum 已经跑通了一个可以持续赚钱的飞轮：衍生品协议类似赌场，有持续的业务收入；各类收益聚合器利用自身策略持续吸引资金，并扩大收益；更多人参与收益聚合器，流动性更充足，收入也越来越多。
+
+**热点项目一：GMX**
+
+GMX 是一个去中心化永续合约交易所。其允许用户在一个去中心化的平台上进行高达 30 倍杠杆的 ETH、BTC、LINK 和 UNI 永续合约交易，而不是通过 Binance 或 FTX 等中心化交易所使用杠杆来进行做空或做多。
+
+在执行上，它相比中心化交易所操作要更复杂些，并且需要使用预言机进行喂价。所以，它需要借助外部力量来执行开仓平仓操作，GMX 正是借助 Keeper（类似于众包）完成这项工作。
+
+用户在 GMX 进行平仓操作的时候，会分为两部分：一个是用户发送交易，另一个是执行操作，而执行操作则是由 GMX Keeper 完成的。
+
+用户不但需要交发送交易的 Gas 费外，为了能保证交易能正常执行，还需要为 Keeper 执行操作交 Gas 费。
+
+GMX TVL 达 5.43 亿美元，占 Arbitrum 所有 DeFi 协议 TVL 的 31.46%。该协议在过去一年中产生了 3390 万美元的收入，使 GMX 代币成为在动荡的 2022 年表现最佳的资产之一，对美元和 ETH 的回报率分别为 84.0% 和 428.5%。
+
+**热点项目二：Camelot**
+
+Camelot 作为 Arbitrum 的原生 DEX，在 2022 年 12 月已经完成了代币销售，整体上还是常规的 Uniswap V2+Curve 类型的 DEX，在此基础上增加了 Launchpad、结合了自定义交易手续费、将 LP 与 NFT 结合、允许项目方设置激励措施，它的功能和特点总结如下：
+
+* 和 Uniswap V2 一样的 AMM DEX，流动性分散在从零到无穷大的整个区间内；
+* 和 Curve 类似的稳定币互换交易对；
+* 支持动态定向交易费用。Camelot 让项目方可以根据市场条件和协议的具体情况设置交易手续费比例；
+* 通过 NFT 提供收益和激励措施。用户提供流动性获得代表质押头寸的 spNFT；
+* 协议是无需许可的，项目方可以通过激励池 Nitro Pools 设置激励措施。这是额外的奖励池。
+* 具备 Launchpad 功能，项目方可以借此进行融资并引导流动性。
+
+OP 上的同类型项目 TVL 最高的为 Velodrome，有 7714 万美元的流动性。这一数字甚至超过了 Uniswap V3 的 4487 万美元，但 FDV 只有 946 万美元，FDV/TVL 为 0.21。相对于 Camelot，Velodrome 的 TVL 更高，但估值更低。
+
+**热点项目三：RDNT**
+
+Arbitrum 上的借贷协议 RDNT 有两个创新：利用 LayerZero 进行多链借贷；可以循环贷（暂不能使用）。目前在 Arbitrum 上是龙头，TVL 超过了 aave V3 的 Arb 版本，但是长期来看竞争依然非常非常大。
+
+由于是全链借贷协议，用户可以在任何主要链上存入任何主要资产，并跨链借入各种受支持的资产。lender 存入资产，borrower 可以借贷，产生的手续费（平台收益） 50% 给到 lender，剩下 50% 给到锁仓 RNDT 作为奖励。目前该协议是 V1 版本，而 V2 版本将做出以下升级：
+
+* 将允许对 BTC、ETH 和 USDC 进行完全跨链借贷，随后由 Radiant DAO 投票选出的更多资产。
+* 将会把协议费用向 LP 倾斜，从而提高流动性和降低滑点；
+* 引入“Dynamic Liquidity”机制，奖励长期投资者；
+* 退出流动性池将触发惩罚机制。
+
+#### **3.2 游戏类**
+
+Arbitrum 拥有一个快速发展的 GameFi 生态系统，尤其是三个爆火的项目：Treasure DAO，The beacon，Trident DAO。目前 Arbitrum 上的 GameFi 生态并不像其衍生品赛道拥有和其他链比的绝对优势，只是相对领先，一切都需要看后续的发展。
+
+**Treasure DAO**
+
+Treasure 想要构建一个「去中心化任天堂」，这是一系列链上游戏，这些游戏通过游戏内资产的互操作性和 Treasure 的原生代币 MAGIC 作为共享货币相互连接。这些游戏中最受欢迎的包括战略游戏 Bridgeworld、The Beacon 和 Smolverse 等角色扮演游戏，以及资源管理和战略游戏 Realm。
+
+这些游戏可以通过 Trove 访问。Trove 是宝藏生态系统的中心，是游戏内资产和宝藏 NFT 收藏品的市场。这些系列中最受欢迎的是 Smol Brains（Smolverse 的基础）和另一个 NFT 系列 The Lost Donkeys，它有自己的同名游戏。
+
+**Trident DAO**
+
+Arbitrum 上一个项目「Trident」提出了「Risk To Earn」的可持续 GameFi 经济模型，引起了玩家和社群的关注，并在其 Token 公售后飙升为 Arbitrum 生态热度最高的项目。
+
+PSI 是 Trident 的官方实用 Token，将使用于其未来版本中的各种游戏，可用于购买物品、兑换 NFT，玩家之间的投注等，并且 Trident 将从每次成功的下注中收取费用然后将其永久销毁，一旦 Risk To Earn 集成完成，PSI 的供应就会通货紧缩。
+
+### **第四章 未来发展**
+
+Arbitrum 的成功预示着 Layer2 赛道将会成为下个牛市的起点。但在此之前，无论是 Optimistic Rollup 路线还是 zk Rollup 路线，在技术上仍然存在一些问题需要解决。在未来，Arbitrum 项目将会在三个方面进行发展：（1）继续技术升级；（2）不断支持生态项目；（3）借助发币预期吸引用户入场。
+
+首先技术上，Optimistic Rollup 技术仍然被略为中心化的排序器所诟病。Arbitrum 目前拥有中心化的排序器和白名单证明验证，同时拥有可升级的合约。虽然这些在目前并没有出现安全问题，也足以保护用户资产。但仍然增加了审查和损失用户资金的风险。所以，去中心化排序器和无需许可的证明验证都是必然之路。offchain labs 在这些问题上也给出了相应的技术路线：
+
+* 继续降低费用，提升 tps
+* 去中心化
+* 将管理和授权软件升级去中心化
+* 验证者去中心化
+* sequencer 去中心化
+
+在生态方面，目前 Defi、跨链和游戏类是 Arbitrum 主打应用。但未来随着开发者和用户的不断增长，会有更多的新应用部署在该平台，而最值得期待的是社交类和 NFT 类的项目。同时，鉴于 Treasure 的成功和 Arbitrum Nova 的增长潜力，Arbitrum Nova 链将会真正用起来，让 Arbitrum 在游戏领域处于有利地位。
+
+在经济模型上，其实这是最为期待的一个部分。代币的推出对于 Arbitrum 的长期成功至关重要，包括：（1）代币分配方案；（2）空投和激励生态方案；（3）治理方案。好的经济模型将会让 Arbitrum 朝着更加正向的方向发展，吸引用户和开发者。代币分配也将在决定 L2 的治理和生态系统内的长期权力集中方面发挥重要作用。此外，代币还可以用于分散关键网络功能，例如排序器 — — 排序、批处理和向 L1 提交交易的实体。
+
+从以上分析可以看出，2023 年将会是 Arbitrum 持续爆发的一年。它可能继续奥德赛项目，并强化目前的 DeFi 和游戏类项目，也会推出有特色的原生社交类项目和 NFT 类项目。同时，可能会推出期待已久的代币，并奖励用户和协议。真正启用 Nova 链，并开始部署协议。
+
+  
+
+
+  
+![](https://img.foresightnews.pro/202302/14a21b470f467cc35fc4e54cd9b3b43b?x-oss-process=style/scale70)
+
+项目融资孵化，宣发路演，技术支持等合作
+
+请备注来意联系助理 Emma
+
+（微信号：951581306）  
+
+
+![](https://img.foresightnews.pro/202302/7de078bcb078916083fdd4d4311b42de?x-oss-process=style/scale70)
+
+  
+
+

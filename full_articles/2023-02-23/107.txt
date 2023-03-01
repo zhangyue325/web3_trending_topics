@@ -1,0 +1,60 @@
+![](https://img.foresightnews.pro/202302/520e2f9f437c72043e1a60a36a77fc8e.png?x-oss-process=style/scale70)
+
+  
+昨日，Sui 基金会宣布了 20 位 Sui Builder Hero（建设者英雄）的获奖者，这些获奖者不仅在 Sui 网络上构建了各种各样的项目，也通过参与论坛、举办研讨会和演讲等活动在 Sui 社区中声名鹊起。Sui 目前仍处于测试阶段，但这些获奖者的表现，是对 Sui 网络未来潜力的最大认可。以下是 20 个获奖者的完整阵容及解读：
+
+### **Aftermath Finance：****Sui 上的“流动性中心”**
+
+![](https://img.foresightnews.pro/202302/70e0acc8494caa12d9b4546d2c0e8812.jpeg?x-oss-process=style/scale70)
+
+Aftermath Finance 是一个多功能 DeFi 产品，致力于成为 Sui 的流动性和交易中心。
+
+- CMMM：允许创建具有两个以上代币的资金池，可用于低流动性代币、自定义的 LP 对、具有灵活条件的贷款项目，或者创建去中心化指数和投资组合管理系统。- 衍生品：由永续合约、期权和结构性产品组成，为用户提供实际收益率、杠杆、对冲和波动率交易机会。- 借贷：链上借贷- Capys 质押挖矿：用户可以在 Capy.art 上铸造 Capy NFT，然后在 Aftermath 上质押，获得 SUI 和 AF（Aftermath 代币）奖励，或者使用两个 Capy 繁殖培育一个全新的 Capy。繁殖培育需要付手续费，手续费会分配到质押 Capy 的用户手里。 这些功能可以被结合起来用于创建各种金融工具，例如链上期权和期货交易、保证金交易等。Aftermath Finance 有望成为被其他 Sui 项目开发者广泛利用的 DeFi 基础设施。官网：http://aftermath.finance/### **Belaunch：领先的 Launchpad**
+
+![](https://img.foresightnews.pro/202302/1795cb7beecc7f32309ea2884311b17e.png?x-oss-process=style/scale70)Belaunch 是 Sui 生态系统上领先的去中心化 Launchpad 平台，允许项目发行自己的代币并自定义初始代币销售。无需编码知识，只需在后台简单操作即可自定义创建代币和代币发行。此外，Belaunch 还提供许多其他服务，例如营销、KYC、审计等。Launchpad 只是一方面，Belaunch 还将在未来扩展自己的生态系统，开发更多功能：- DEX- DeFi 收益聚合器- 治理- 原生代币质押- NFT 市场目前 Belaunch 已在 Sui 生态和更广泛的加密行业拥有众多合作伙伴，为许多成功上线的项目提供过服务。官网：https://belaunch.io/### **BlueMove：领先的 NFT 市场**
+
+![](https://img.foresightnews.pro/202302/50ee79cabe50849f1d6cd6321a040579.png?x-oss-process=style/scale70)BlueMove 是一个专为 Move 语言公链而设计的 NFT 市场，目前已支持 Sui 和 Aptos。BlueMove 具有用户友好的界面，可以让用户轻松地发现、收集和交易来自世界顶级艺术家和创作者创作的 NFT。目前该平台涵盖了超过 1 万个 NFT 集合，累计交易价值已超过 2,000 万美元。官网：https://sui.bluemove.net/### **Capsules：Sui 的资源标准**
+
+![](https://img.foresightnews.pro/202302/9c71da5329cfc8c7e549495d19a4e3c1.png?x-oss-process=style/scale70)Sui 区块链使用为创建数字资产而设计创造的 Move 语言，旨在用于开发出可定制化的交易逻辑。Move 将资产作为一种资源，允许开发人员自定义资源，并设置可以修改资源的规则。“资源”不同于“数据”，因为数据可以被任意复制，而资源的数量是有限的。因此基于 Move 的每一笔资产都具有原生稀缺性，是独一无二的，并且拥有对应的访问控制属性。Capsules 是由 Sui 开发者提出的可编程资源单位，充当资源标准。详细文档：https://www.capsulecraft.dev/### **Cetus：集中流动性协议**
+
+![](https://img.foresightnews.pro/202302/0a7fbd22cb545504b335ab111fa2cf7c.png?x-oss-process=style/scale70)Cetus 是建立在 Move 语言系公链（Sui、Aptos）上的早期 DEX 和流动性协议，专注于通过构建“集中流动性”协议和一系列附属功能，为 DeFi 用户提供最佳的交易体验和更高的资金效率。Cetus 目前主要提供 2 个功能：- 集中流动性：当今大多数常见 DEX 的 AMM 协议中，流动性沿着整个价格曲线均匀分布。Cetus 允许用户在自定义价格范围内增加流动性。- 代币交易官网：https://www.cetus.zone/### **Cramium：Web3 广告平台**
+
+![](https://img.foresightnews.pro/202302/ac443d0560b8123990cd3f5a3deb42af.png?x-oss-process=style/scale70)Cramium 由数据、身份和营销分析高管创立，旨在通过 Web3 技术来改变当前不完善的广告技术生态系统。Cramium 利用 NFT 构建了 3 种解决方案，使品牌能够直接与大规模的消费者建立更深的联系：- 数字优惠券- 独家内容访问- 忠诚度奖励每一种解决方案都同时实现了隐私保护和消费者“0”加密知识。Cramium 的 NFT 分发服务将与电子邮件、视频广告等广告技术营销渠道相结合，使品牌能够通过促销、独家内容和忠诚奖励等方式吸引消费者。Cramium 的用例有机会将 Sui 带入消费者服务领域。官网：https://cramium.io/### **Ethos Wallet：Sui 一站式钱包**
+
+![](https://img.foresightnews.pro/202302/66dc510fc881ee4b09377069c25e6263.png?x-oss-process=style/scale70)Ethos Wallet 是一个为 Sui 用户“探索”而构建的一站式钱包，可用邮箱注册。“探索”是该钱包的重点，用户可以在该钱包中直接进入 dApp，不论是 DeFi 还是链上游戏，都可以在同一个钱包中流畅体验。不论是 Web3 新用户还是 Web3 老手，都可以轻松使用。Ethos Wallet 在上个月的种子轮融资中筹集了 420 万美元以用于继续开发。官网：https://ethoswallet.xyz/### **Keepsake：游戏 NFT 市场**
+
+![](https://img.foresightnews.pro/202302/55e63ddf0656d4328ab30f6b60f9a592.png?x-oss-process=style/scale70)Keepsake 是一个专门为链上游戏而生的 NFT 市场，玩家能够将自由交易 NFT 资产，同时也可以被集成到游戏中，允许开发者将角色财产（例如衣物）制作成 NFT。此外，Keepsake 也支持项目 / 创作者 / 艺术家铸造 NFT，并上架交易。官网：https://keepsake.gg/### **KunaLabs：开源 AMM 智能合约**
+
+![](https://img.foresightnews.pro/202302/5980b8d52ae5c7f858f3e8cfee357d66.png?x-oss-process=style/scale70)应用程序开发商 KunaLabs 开源了一个 UniswapV2 风格的 AMM 智能合约，让开发者在 Sui 上构建 DeFi 变得更加容易。官网：https://kunalabs.io/### **MovEX：加密老油条熟悉的 DEX 风格**
+
+![](https://img.foresightnews.pro/202302/72161ba0dc1af4bf6d68767f057720f6.png?x-oss-process=style/scale70)MovEX 是一个由社区驱动的 DeFi 协议，网页布局类似于 Uniswap，旨在为 Sui 生态系统上的用户提供最佳的交易场所。MovEX 的核心产品包括：- 集中流动性 AMM+ 订单簿混合流动性 DEX- 智能流动性配置功能：自动调节流动性，提升用户的资金效率和做市收益- ILO：为项目提供初始流动性发行服务，自定义代币发行。官网：https://app.movex.exchange/### **Originbyte：旨在“统一”Sui 网络的 NFT 生态系统**
+
+![](https://img.foresightnews.pro/202302/edf4260eea254c2895ac81a7d49fb4dc.png?x-oss-process=style/scale70)OriginByte 是一个专注于 NFT 的工具、标准和智能合约基础设施平台，旨在让开发者和创作者的工作更轻松。从创作简单的艺术品到更复杂的游戏资产，从创作 NFT 到交易 NFT，OriginByte 提供了一系列链上基础设施。核心产品：- NFT 平台：铸造 NFT、交易 NFT- NFT 发行：为创作者提供了可以自定义销售 NFT 的一级平台- SDK：帮助开发者将游戏连接到 Sui 网络- NFT 流动层：这是一个公共协议，具有上述所有功能，允许 Sui 上的项目集成，使 Sui 分散的 NFT 流动性聚合在一起。官网：https://originbyte.io/### **OtterSec：安全审计平台**
+
+![](https://img.foresightnews.pro/202302/b7e8b56075e34b33679adc91cb634be2.png?x-oss-process=style/scale70)OtterSec 是一家 Web3/ 加密安全审计平台，负责审核了 Sui 网络和 Sui Move 虚拟机的安全性，对于 Sui 网络有着至关重要的作用。官网：https://osec.io/### **Polymedia：构建基于 Sui 的链上身份系统**
+
+![](https://img.foresightnews.pro/202302/86d1c243e7372bfc056c630ffe59c542.png?x-oss-process=style/scale70)Polymedia 是一个开发商，构建了基于 Sui 网络的链上身份系统 Polymedia Profile。目前，Polymedia 正在开发该系统的 SDK，使其他项目开发商可以轻松地集成到他们的项目中。此外，基于 Polymedia Profile，他们还制作了三款休闲 dApp：- Polymedia Chat：去中心化聊天应用- GotBeef：链上投注- Mountsogol：小游戏官网：https://polymedia.app/### **PySui：一个用于 Sui 网络的 Python 客户端 SDK**
+
+![](https://img.foresightnews.pro/202302/097d710a37b42998a84e968d00ac6be1.png?x-oss-process=style/scale70)让 Sui 与现有的编程语言一起工作是招募新开发者的关键手段。PySui 是一个用于 Sui 网络的 Python 客户端 SDK。Github：https://github.com/FrankC01/pysui### **Sui Gallery：早期 NFT 市场**
+
+![](https://img.foresightnews.pro/202302/41123c24fc17e1a4f308f6b98ce63124.png?x-oss-process=style/scale70)Sui Gallery 是 Sui 网络上的早期 NFT 市场，拥有超过 30,000 名铸造 NFT 的用户。官方披露的信息较少，感兴趣可以关注他们的推特。官网：https://www.sui.gallery/### **Suia：Sui 网络首个 POAP 应用**
+
+![](https://img.foresightnews.pro/202302/d73c6acc72c17d7f5659f5c0859f97c0.png?x-oss-process=style/scale70)Suia 是 Sui 网络上首个 POAP（考勤证明）应用，由 Mynft 团队开发。Suia 有多种用途，比如赛事门票、贡献奖章、游戏等，为 Web3 品牌和用户之间搭建一种全新的沉浸式、游戏化的互动方式。任何人都可以通过 Suia 创建 POAP 事件，所有的创建、分发都是在 Sui 链上进行，公开透明。用户拥有 Suia 资产的所有权，并且 Sui 网络的独特架构和并行运行的性能可以让 Suia 有机会组合创造更多其他的玩法且允许大规模用户参与，既能实现低延迟又能实现低费用，便于连接 Web2 的应用市场。用户可以在 Suia 探索各种场景：- 参加社区组织的活动- 收集创作者创作的艺术品、纪念品、摄影作品- 获取品牌创建的 POAP- 社交官网：https://suia.io/### **Suiet：Sui 网络开源钱包**
+
+![](https://img.foresightnews.pro/202302/d1c338d0800dd62a52e865fe57b49bdf.png?x-oss-process=style/scale70)Suiet 是一款开源钱包，旨在创建更多用户友好的功能，例如一键铸造 NFT。此外，安全性是 Suiet 团队内部的首要任务之一，完全开源且不跟踪用户数据。官网：https://suiet.app/### **SuiNS：去中心化域名服务**
+
+![](https://img.foresightnews.pro/202302/76d0e121e5ada91a467e737915a4fd72.png?x-oss-process=style/scale70)SuiNS 是构建在 Sui 网络上的去中心化域名平台，创立之初就获得了由 Sui 开发团队 Mysten Labs 参与的种子轮融资。目前，SuiNS 提供 .Sui 和 .Move 的域名注册服务。SuiNS 通过建立机制和激励框架来阻止域名抢注者，并且没有白名单或优惠待遇，确保所有用户可以平等参与注册。官网：https://suins.io/### **SuiScan：区块链浏览器**
+
+![](https://img.foresightnews.pro/202302/d6c9dd8866bdb152a9e3d29d171c7476.png?x-oss-process=style/scale70)SuiScan 为所有用户实时提供了 Sui 网络的仪表板视图、网络运行指标，包括交易、代币、节点和 NFT。官网：https://suiscan.xyz/devnet/home### **Switchboard：去中心化预言机**
+
+![](https://img.foresightnews.pro/202302/545d7ea61aede733e2e7349f87942c8c.png?x-oss-process=style/scale70)Switchboard 是一个去中心化、无需许可的预言机网络，允许任何人启动自己的数据源并在链上发布，旨在让所有开发人员能够毫不费力地获取链下数据。在创立不到两年的时间里，Switchboard 已从最初的 Solana 网络扩展至 Aptos、Sui、Near 网络，被多条链的多个项目所集成。官网：https://switchboard.xyz/**>END<****风险提示：**
+
+根据央行等部门发布的《关于进一步防范和处置虚拟货币交易炒作风险的通知》，本文内容仅用于信息分享，不对任何经营与投资行为进行推广与背书，请读者严格遵守所在地区法律法规，不参与任何非法金融行为。
+
+  
+
+
+  
+由于公众号改版，文章不再定时推送  
+如果《白泽研究院》对你有所收获，  
+点个”赞“和”在看“。

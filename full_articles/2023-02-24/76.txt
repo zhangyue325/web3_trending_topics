@@ -1,0 +1,224 @@
+![](https://img.foresightnews.pro/202302/02dc80452714f7d3ead85093a1202d8b.png?x-oss-process=style/scale70)💡 *Web3 正在加速发展，Arweave 作为基础设施将被更多的开发者采用，创造一个全新的、更加丰富多彩的生态系统。 PermaDAO 正是为此而建立起来的共建者社区。所以参与的人都能在这里找到自己的角色来贡献 Arweave 生态，任何关于 Arweave 的提案与任务都可以发布于此，并得到整个社区的支持与回馈。* [*加入 PermaDAO*](https://www.notion.so/PermaDAO-052d694af9f841f1a07916df7f9d19b7)*，建设 Web3！*
+
+想在 Arweave 上开始挖矿吗？你来到了对的地方！通过这个快速简单的指南做好设置，加入我们不断增长的矿工网络吧。
+
+如有任何关于在 Arweave 挖矿的问题和支持咨询，我们强烈建议你加入我们的 [Discord 服务器](https://discord.gg/GHB4fxVv8B)，因为这是我们挖矿和开发者社区的中心。在这里你会发现很多可以帮助你的社区成员和 Arweave 团队成员。🤖
+
+Arweave 的核心开发者已经了解到，中国大陆境内至少有一个挖矿节点已经被政府查封。节点运营商应该明白，Arweave 网络存储并提供了大量与中国政府活动有关的材料。Arweave 协议并不要求任何矿工存储他们认为不合适的数据。你可以在 [这里](https://www.arweave.org/technology#content-moderation) 阅读更多关于我们内容政策的信息。
+
+### 安装挖矿软件
+
+从 [发布页面](https://github.com/ArweaveTeam/arweave/releases) 为你的操作系统下载 .tar.gz 文档。提取 tar -xzf [release\_file] 文档的内容。
+
+如果你的操作系统 / 平台架构不在列表中，请查看源代码库的 [README](https://github.com/ArweaveTeam/arweave#building-from-source)，了解如何从源代码搭建挖矿软件。
+
+### 准备工作：文件描述符限制
+
+可用的文件描述符的数量会影响你的节点处理数据的速度。由于分配给大多数操作系统的用户进程的默认限制通常很低，我们建议增加。
+
+你可以通过执行 ulimit -n 查看当前的限制。
+
+在 Linux 上想要设置更大的全局限制，打开 /etc/sysctl.conf 并添加下列指令：
+
+执行 sysctl -p 让改动生效。
+
+你可能还需要为特定用户设置适当的限制。想要根据用户的情况设置相应的限制，打开 /etc/security/limits.conf 并添加下列指令：
+
+打开新的终端会话。为了确保改动已生效，限制已被增加，输入 ulimit -n。你还可以通过 ulimit -n 10000000 改变当前会话的限制。
+
+如果以上指令无效，那就在 /etc/systemd/user.conf 和 /etc/systemd/system.conf 设置
+
+### 准备工作：数据目录
+
+在你的系统中创建一个目录。在本指南中，我们把它称为 [data\_dir] 。我们建议在相应的磁盘上至少有 200GB 的可用空间，尽管有可能用更少的空间来配置节点。对于挖矿，你显然需要更多的空间，但挖矿数据应该存储于挂载在 [data\_dir] 内文件夹或与之建立符号链接的单独的硬盘驱动器上。本指南后面会有更多介绍。
+
+### 准备工作：挖矿密钥
+
+想要在 2.6 版本中挖矿，你的挖矿密钥需要在你的机器上。 如果你想创建新钱包，运行 ./bin/create-wallet. 文件随后就创建在 [data\_dir]/wallets/. 确保你不会分享给任何人！如果你想使用现有的钱包，把它放在前面提到的路径。
+
+### 准备工作：存储设置
+
+为了最大化你的挖矿效率，将数据存储在读取速度约为 200 MiB/s 的 4 TB 硬盘上。使用更快的磁盘也可以，但由此产生的额外成本就不划算了。
+
+第一步是在 [data\_dir]/storage\_modules/ 中为你打算用来挖矿的每个 4 TB 磁盘创建一个文件夹。Arweave 数据集在逻辑上被划分为 3.6 TB 的 "挖矿分区 "集合。每个 4 TB 磁盘将存储和开挖其中的一个挖矿分区。这些分区从 0 开始按顺序进行索引，0 表示存储在 Arweave 上的第一个 3.6TB 数据，一直到当前挖矿分区计数为止。你可以通过在文件夹名称中指定其索引来选择要存储的挖矿分区。比如，要在 weave 中设置一个带有第一个挖矿分区的存储模块（用你的挖矿地址打包），创建文件夹 [data\_dir]/storage\_modules/storage\_module\_0\_[your\_mining\_address]. 在[data\_dir]/storage\_modules 文件夹中挂载你的驱动器。例如：
+
+
+```
+**sudo mount /dev/sda [data_dir]/storage_modules/storage_module_0_[your_mining_address]**
+```
+确保你将 /dev/sda 替换为你的驱动器的名称，将 (lsblk), [data\_dir] - 替换为你的数据文件夹的绝对路径，将 [your\_mining\_address] - 替换为你的挖矿地址。
+
+如果你有一个已经挂载在其他地方的驱动器，你可以创建一个符号链接来代替：
+
+
+```
+**ln -s [path/to/disk/folder] [data_dir]/storage_modules/storage_module_0_[your_mining_address]**
+```
+如果你有一个配置了很大空间的 RAID，你可以从 [data\_dir]/storage\_modules 文件夹创建一个符号链接。
+
+关于存储模块的几个重要注意事项：
+
+* 两个或多个相同的分区（比如说，重复的 0 号分区）有相同的挖矿地址并不能提高你的挖矿性能。另外，用一个地址在一个完整的 weave 副本（所有的挖矿分区）的挖矿收益比用不同的挖矿地址在同等数量的数据的挖矿收益更高。目前，我们只支持每个节点有一个挖矿地址。
+* 如果你想把一个存储模块的内容复制到其他地方，在没有相应的 storage\_module 命令行参数的情况下重新启动节点，复制数据，并再次用存储模块重新启动节点。你可以把复制的数据作为一个存储模块附加到另一个节点上。只要确保当节点在与这个存储模块交互时不要复制。请勿在同时使用相同挖矿地址的多个节点上进行挖掘（请参阅下面的警告）。
+* 请确保存储模块的磁盘有足够的可用空间。disk\_space 参数不适用于存储模块。如果要在小于 4 TB 的磁盘上创建存储模块，请为此模块指定自定义大小： storage\_module [number],[size],[mining\_address] 该模块将使用 number \* size（以字节为单位）和 (number + 1) \* size 之间的 weave 数据偏移量进行数据同步。您还需要为文件系统、默克尔证明和每个存储模块内存储的其他元数据留出一些空间 — — 约为配置的存储模块大小的 10%。
+* 指定的挖矿分区高度不一定要在当前的 weave 大小之下。这使得提前配置存储模块成为可能。一旦 weave 数据增长到足以开始填充指定高度的挖矿分区，节点将开始把新数据放在已经配置好的存储模块中。
+* 如果你不从完整的 weave 数据中挖矿，所需的磁盘读取吞吐量平均为（100 + 你的 weave 份额 \* 100）MiB/s。
+<aside> ⚠️ 使用相同的挖矿地址让两个或更多节点独立挖矿非常危险。如果它们同时找到并发布区块，网络将会减少您的奖励并撤销该挖矿地址的挖矿权限！我们目前正在开发协同挖矿框架，该框架可以让您安全地连接覆盖不同部分的节点，使用相同的挖矿地址。
+
+</aside>
+
+如果你要升级一个版本为 2.5 的矿工程序，需要设置“enable legacy\_storage\_repacking”选项来启动一个进程，以便将原本已打包好的 2.5 数据进行重打包，从而使得默认存储模块可以在以后的 2.6 版本的矿工程序中使用。无论如何，如果存在配置好的存储模块，数据将从 2.5 的存储模块中复制到这些模块中。
+
+<aside> 💡 当 2.6 分叉激活时，节点也将使用 2.5 存储中的重打包数据进行挖矿，即使没有存储模块（当启用了“enable legacy\_storage\_repacking”时）。
+
+</aside>
+
+<aside> 💡 当启用“enable legacy\_storage\_repacking”时，在分叉之前，由于正在重新打包数据，你的 2.5 挖矿性能会下降。
+
+</aside>
+
+<aside> 💡 节点将不会将新数据同步到 2.5 存储中，如果你想要同步更多数据，请配置存储模块 (storage modules)。
+
+</aside>
+
+### 准备工作：未打包的存储模块
+
+如果你想同步多个 weave 副本，首先创建一个“未打包”的副本是有意义的。然后，对于每个矿工地址进行打包比在重新打包使用另一个矿工地址打包的副本时要快两倍。为了配置一个用于存储未打包数据的存储模块，请在矿工程序启动时将”unpacked”指定为矿工地址。
+
+例如，要同步一个未打包的 12 分区，请在启动时指定 storage\_module 12,unpacked。与其他存储模块一样，请确保[data\_dir]/storage\_modules/storage\_module\_12\_unpacked 文件夹存在于所需的磁盘上（如果你没有提前创建目录，节点将为你创建它，因此数据将最终存储在挂载到 data\_dir]/storage\_modules 的磁盘上）。
+
+### 重复使用来自 Testnet 2.6 的存储模块
+
+如果你在 2.6 测试网络中运行了一些节点，你可以重复使用那里同步的存储模块，并将数据同步到主网的 Weave 偏移量 122635245363446（区块高度 1072170）。你可以尝试使用你拥有的所有存储模块启动矿工程序，如果其中任何一个包含不属于主网的数据，节点将停止并提供让你使用“enable remove\_orphaned\_storage\_module\_data”选项重新启动。如果设置了此标志，节点将在启动之前从相应的存储模块中删除额外的数据。
+
+### 准备工作：RAM
+
+我们建议你有 8 GB + 每个挖矿分区（4 TB 驱动器）400 MB 的内存。节点在挖矿时自动决定在内存中读取的 chunk 块的数量。如果你的节点无论如何都会耗尽内存，可以尝试在命令行中设置 mining\_server\_chunk\_cache\_size\_limit 选项（指定缓存为 256 KiB）。
+
+### 准备工作：CPU
+
+我们可以大致勾勒出计算单元在 Arweave 中解决的三个任务：
+
+1. 打包和拆包数据
+2. 执行 VDF
+3. 计算存储证明
+打包主要包括执行 RandomX 指令，所以 [你的 CPU 计算 RandomX 哈希值的速度越快](https://xmrig.com/benchmark)，你就打包得越快。请注意，打包一个 256 KiB 的 chunk 块需要花费的时间比计算一个 RandomX 哈希值长 30 倍。一旦你打包了一个数据集，你不一定要保持强大的进程。你可以用 packing\_rate 启动命令参数来控制允许的最大打包速率。默认值是每秒 50 个 256 KiB 的 chunk 块。
+
+为了保持适当的挖矿性能并跟上网络的发展，你需要及时计算 VDF 步骤（每一步应该需要一秒钟左右）。为此，CPU 需要支持 [SHA2 硬件加速](https://en.wikipedia.org/wiki/Intel_SHA_extensions)。应该注意的是，VDF 是由单个核心执行的。 节点会在启动时报告 VDF 的性能，如果太低了会警告你。一些可行的选择是 AMD Ryzen 9 或英特尔第 12 或 13 代处理器，其时钟频率接近 5 Ghz，最好是与 DDR5 RAM 连接。
+
+你可以让另一台机器为你计算 VDF（比如，你可以设置一个专门的 VDF 节点，将 VDF 的输出广播给所有的挖矿节点）。
+
+运行一个从其他节点获取 VDF 状态的节点：
+
+
+```
+./bin/start vdf_server_trusted_peer IP-ADDRESS ...
+```
+运行一个节点将其 VDF 的输出推送给其他节点：
+
+
+```
+./bin/start vdf_client_peer IP-ADDRESS-1 vdf_client_peer IP-ADDRESS-2 ...
+```
+如果你的节点被配置为监听除 1984 以外的 TCP 端口，请确保指定 [IP-ADDRESS]:[PORT]。
+
+<aside> ⚠️ 不要连接到你不信任的外部节点。
+
+</aside>
+
+<aside> 💡 请通过 [team@arweave.org](mailto:team@arweave.org) 联系我们，如果你想使用我们团队的 VDF 服务器。
+
+</aside>
+
+挖矿涉及到每 3.6 TB 挖矿分区每秒计算 1 个 RandomX 哈希值和几个 SHA2 哈希值。这不是很多，但当你配置了很多挖矿分区时，你的 CPU 可能会成为一个瓶颈。为了最大化你的散列性能，考虑在你的操作系统中配置巨大的内存页。
+
+在 Ubuntu 上，要查看当前值，执行：cat /proc/meminfo | grep HugePages。要设置一个值，运行 sudo sysctl -w vm.nr\_hugepages=1000。为了使配置在重启后仍然有效，创建 /etc/sysctl.d/local.conf 并将 vm.nr\_hugepages=1000 放在那里。
+
+cat /proc/meminfo | grep HugePages 的输出应该看起来像这样： AnonHugePages: 0 kBShmemHugePages: 0 kB HugePages\_Total: 1000 HugePages\_Free: 1000 HugePages\_Rsvd: 0 HugePages\_Surp: 0
+
+如果没有或者在启动时出现”erl\_drv\_rwlock\_destroy “错误，请重启机器。
+
+最后，通过在启动时指定 enable randomx\_large\_pages 来告诉挖矿软件它可以使用大页面（你可以在指南中找到一个完整的启动例子）。
+
+### 运行挖矿软件
+
+现在你已经准备好运行来自 Arweave 目录的命令，开始挖矿过程：
+
+
+```
+./bin/start data_dir YOUR-DATA-DIR mining_addr YOUR-MINING-ADDRESS enable legacy_storage_repacking enable randomx_large_pages peer 188.166.200.45 peer 188.166.192.169 peer 163.47.11.64 peer 139.59.51.59 peer 138.197.232.192 debug mine storage_module 0,YOUR-MINING-ADDRESS storage_module 8,YOUR-MINING-ADDRESS storage_module 9,YOUR-MINING-ADDRESS storage_module 10,YOUR-MINING-ADDRESS storage_module 11,YOUR-MINING-ADDRESS**
+```
+请将 **YOUR-MINING-ADDRESS** 替换为你想在找到区块时接收奖励的钱包地址！
+
+<aside> ⚠️ 请注意：为了保护你的机器远离那些在你的国家可能非法的素材，你应该在挖 Arweave 时使用内容政策。内容政策可以用 [Shepherd 工具](https://github.com/shepherd-media-classifier/shepherd) 生成。Shepherd 允许你为你想存储在 Arweave 节点上的内容创建自己的内容策略，遵守你的道德和法律要求。
+
+为了帮助你快速入门，@ArweaveTeam 提供了一个 NSFW 内容过滤器，你可以通过在你的 Arweave 启动命令中添加以下指令来加载：
+
+transaction\_blacklist\_url <http://shepherd-v.com/nsfw.txt>
+
+</aside>
+
+如果你想看你的挖矿软件的活动日志，你可以在不同的终端运行 Arweave 目录下的 ./bin/logs -f 。有时，如果在命令行 - ./bin/debug-logs -f 中用 debug 标志启动节点，看一下调试日志是很有帮助的。
+
+挖矿控制台最终应该看起来像这样：
+
+
+```
+Mining performance report:  
+Total avg: 9.97 MiB/s,  39.87 h/s; current: 0.00 MiB/s, 0 h/s.  
+Partition 1 avg: 0.01 MiB/s, current: 0.00 MiB/s.  
+Partition 2 avg: 0.03 MiB/s, current: 0.00 MiB/s.  
+Partition 3 avg: 0.34 MiB/s, current: 0.00 MiB/s.  
+Partition 4 avg: 0.31 MiB/s, current: 0.00 MiB/s.
+```
+当你挖掘一个区块时，控制台会显示：
+
+
+```
+[Stage 2/3] Produced candidate block ... and dispatched to network.
+```
+约 20 分钟后，你应该看到
+
+
+```
+[Stage 3/3] Your block ... was accepted by the network
+```
+请注意，你的区块偶尔不会被确认（链会选择不同的分叉）。
+
+在你的挖矿控制台中注意以下警告信息：
+
+
+```
+WARNING: Peer 138.197.232.192 is 5 or more blocks ahead of us. Please, double-check if you are in sync with the network and make sure your CPU computes VDF fast enough or you are connected to a VDF server.
+```
+如果你在加入网络后不久就看到它们，看看它们是否在几分钟后就消失 — — 如果是的话可能就没问题。否则，很可能是你的处理器跟不上 VDF 的计算，或者有网络连接问题。虽然 VDF 的执行是由单个核心 / 线程完成的，但区块头中的 VDF 检查点的验证可以并行完成（用多线程）。为了加快 VDF 验证的速度，尝试用 max\_vdf\_validation\_thread\_count 更高值（比如，CPU 线程数 - 1）重新启动节点。
+
+要停止节点，运行 ./bin/stop 或终止操作系统进程（kill -sigterm <pid> 或 pkill <name>）。**不**建议发送 SIGKILL（kill -9）。
+
+由于 Arweave 节点的特殊性（将数据存储在稀疏文件中），在初始同步后的挖矿过程中，某些磁盘的读取吞吐量可能不是最优的。在控制台打印的性能报告中，你可以看到每个配置好的存储模块的预计最佳性能（MiB/s）。第一个数字估计的是小数据集的最佳性能，第二个数字是接近 weave 大小的数据集。 如果一个存储模块的实际性能明显较低，考虑运行碎片整理程序来提高该模块的挖矿性能。用以下参数（重新）启动挖矿软件：
+
+
+```
+./bin/start run_defragmentation defragment_module 8,YOUR-MINING-ADDRESS defragmentation_trigger_threshold 500000000 ..**.**
+```
+碎片整理是在启动前进行的。只有大于 defragmentation\_trigger\_threshold 字节的大块文件和在本模块上一次碎片整理后增长超过 10% 的文件将被更新。请注意，碎片整理可能需要很长时间。
+
+### 故障诊断
+
+挖矿过程的一个重要部分是发现其他矿工挖的区块。你的节点需要在互联网上的任何地方都可以访问，这样你的同伴就可以与你连接并分享他们的区块。
+
+要检查你的节点是否可以公开访问，请浏览 http://[Your Internet IP]:1984。你可以[在这里获取你的公共 IP](https://ifconfig.me/)，或者通过运行 curl ifconfig.me/ip。如果你在启动挖矿软件时指定了一个不同的端口，把这些说明中任何地方的"1984"替换成你的端口。如果你不能访问该节点，你需要设置 TCP 端口转发，将进入你在 1984 端口的互联网 IP 地址的 HTTP 请求转发到你矿机上的选定端口。关于如何设置端口转发的更多细节，请咨询你的 ISP 或云服务提供商。
+
+如果该节点在互联网上无法访问，挖矿软件也能使用，但效率会大大降低。
+
+### 了解最新情况
+
+加入我们的 [Discord](https://discord.gg/GHB4fxVv8B) 服务器
+
+加入我们的挖矿 [邮件列表](https://mailchi.mp/fa68b561fd82/arweavemining)
+
+一旦你在 Arweave 上成功挖矿，你将需要了解新版本的最新信息。[加入邮件列表](https://mailchi.mp/fa68b561fd82/arweavemining)，接收电子邮件，通知你已发布的更新和为获取最新信息所需采取的步骤 — — 特别是需要你在一定时间内执行的动作，以保持与网络同步的更新。留意这些信息，如果可能的话，确保你将 [team@arweave.org](mailto:team@arweave.org) 添加到你的电子邮件提供商的可信发件人名单中！
+
+🔗 **关于 PermaDAO 更多信息：**[**Website**](https://www.notion.so/PermaDAO-4c0bd73f5a1c4410ad72a32e1718ebb6) **|** [**Twitter**](https://twitter.com/perma_daoCN) **|** [**Telegram**](https://t.me/+UEnIssIHTn0wZDc1) **|** [**Discord**](https://discord.gg/y6CmaAdVD8) **|** [**Medium**](https://medium.com/@permadao) **|**[**Youtube**](https://www.youtube.com/@permadao)
+
+![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=fef5b09b44c9)

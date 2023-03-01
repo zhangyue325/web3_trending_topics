@@ -1,0 +1,62 @@
+### PermaDAO 研发公会正式启动开发者激励计划
+
+Arweave 是作为 Web3.0 时代的亚历山大图书馆承担永久存储人类智慧结晶重任的基础设施。Web3.0 正在加速发展，Arweave 作为基础设施将被更多的开发者采用，创造一个全新的、更加丰富多彩的生态系统。
+
+PermaDAO 正是为此而建立起来的「共建和应用孵化社区」。所以参与的人都能在这里找到自己的角色来贡献 Arweave 生态，任何关于 Arweave 的提案与任务都可以发布于此，并得到整个社区的支持与回馈。
+
+现在研发公会正式开启开发者激励计划！
+
+![](https://img.foresightnews.pro/202302/66139997c274427120a3614f39f9e671?x-oss-process=style/scale70)### 开发者激励计划
+
+目前开发者激励分为三个类型，分别是一个面向个人开发者的任务激励和两个面向项目方的激励。
+
+### 个人开发者激励
+
+每个开发者都可以在 PermaDAO 领取开发任务，只要保质保量完成开发任务就可以获得激励。目前在研发公会进行开发将按照工作量获得激励。
+
+### 项目方 Grant
+
+不论是成长中的项目方，还是业内具备影响力的大型项目，欢迎集成 Arweave。在集成后可以获得从最低 100 美金 Grant 到最高 20 万美金 Arweave SCP Ventures 投资的资金支持。
+
+### 项目方存储 Grant
+
+如果你已经是一个成熟的 Arweave 项目，可以申请存储 Grant。根据项目方的存储量按照 Arweave Fees 一定的比率获得存储资助。
+
+开发者激励详情：<https://www.notion.so/permadao/a82c1004707d437fad659ad996653e4b>
+
+### Onboard PermaDAO 开发公会的项目
+
+* **Arseeding**<https://web3infra.dev/docs/Arseeding/guide/quickStart>  
+由 PermaDAO 研发公会管理的开源 Arweave 轻节点，支持 ANS-104 交易，支持 everPay 支付。  
+使用个人开发者激励，任何开发者可以在开发公会中提交和领取 Arseeding 开发任务，对 Arseeding 进行升级迭代。
+* **ArNostr**wss://arnostr.permadao.io  
+<https://github.com/permadao/ArNostr-relayer>  
+由 Webb 等人发起的 Arweave Nostr Relay 项目，和 Nostr 完全兼容，将所有的数据永久存储到 Arweave 上，保障用户的数据所属权。  
+使用个人开发者激励，任何开发者可以在开发公会中提交和领取 ArNostr 开发任务，对 ArNostr 进行升级迭代。
+* **Atem**<https://www.atem.io/>  
+Atem Network 是一个去中心化的内容创作协议，目标是帮助创作者将他们的内容代币化并建立 web3 原生社区。Atem 的所有文字内容都使用 Arweave 进行存储。  
+使用存储 Grant，单日超过 500 MB 或一个月超过 10 GB，将获得存储补贴。
+* **Classical**<https://www.classical.cool/>  
+将历史书籍永存，守护人类典籍，是一个很有意义的公益项目，与 STE web3 委员会共同孵化。用户可以将典籍存储到 Arweave，并铸造 NFT。深度孵化，包括个人开发者激励和其他公会的使用。除了开发之外，在 DAO 中举办典籍永久存储公益活动等。
+* **iWeave**<https://demo-dev.web3infra.dev/>  
+基于 Arseeding 的网盘产品，用户可以将文件、视频、图片等内容永存到 Arweave，并进行预览、下载。产品使用 everPay 进行支付，可支持 eth、usdc 等多种代币。  
+使用个人开发者激励，任何开发者可以在开发公会中提交和领取 iWeave 开发任务，对 iWeave 进行升级迭代。
+* **MetaBox**<https://metabox.rocks>  
+MetaBox 是一个多链主权的数据空间，提供多链的存储聚合。数据可以在 Box 内被安全地存储为明文或者加密后的密文，还可以被存储到多个去中心化存储协议中。MetaBox 内置微型的社交系统，用户在 MetaBox 中拥有个人 Profile，可以展示自己的个人数据，并可以有 Follow 关系。  
+使用项目方 Grant，集成 Arweave 获得单笔赞助。
+### PermaDAO 经济模型
+
+PermaDAO 的底层代币是 Permaswap Network 的 PSN。20% 供给总量的 PSN 将在 PermaDAO 中使用，用于 Arweave 生态共建和应用孵化。
+
+如上图所示，PSN 将用于项目孵化，Permaswap Network 作为 Arweave 生态唯一的跨链 DEX，将承载项目的价值流动，为孵化的 Arweave 生态项目提供代币兑换和流动性。项目在价值交换中产生的手续费将回馈到 PSN 持有者手中。PSN 在 PermaDAO 孵化和 Permaswap 兑换过程中成为经济循环的核心资产。
+
+### 开发者工具
+
+* Arweave 存储轻节点和 SDK：<https://web3infra.dev/>
+* 0 Gas 支付协议：<https://everpay.io/>
+* Warp(SmartWeave)：<https://warp.cc/>
+进阶资料：<https://permadao.com/AR-f9a799aab9bd47e88ddafa4b9fc96260#3886504e1f714289a0f770677886b80b>
+
+🔗 **关于 PermaDAO 更多信息：**[**Website**](https://www.notion.so/PermaDAO-4c0bd73f5a1c4410ad72a32e1718ebb6) **|** [**Twitter**](https://twitter.com/perma_daoCN) **|** [**Telegram**](https://t.me/+UEnIssIHTn0wZDc1) **|** [**Discord**](https://discord.gg/y6CmaAdVD8) **|** [**Medium**](https://medium.com/@permadao) **|**[**Youtube**](https://www.youtube.com/@permadao)
+
+![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=af645e4e53ac)

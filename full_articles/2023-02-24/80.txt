@@ -1,0 +1,90 @@
+### Tiny World Update — 49
+
+![](https://img.foresightnews.pro/202302/08e1a8d6aa1ba644507fba45e055d7df.png?x-oss-process=style/scale70)Hey Tiny Fans👋,
+
+It’s Friday again and it’s time for a fresh dose of our new update. Our team has been hard at work, and the last 2 weeks have been full of new developments.
+
+You know we released **⚔️Tiny Lord 2.0⚔️** the official version in the last 2 weeks, which **reduce 95% of gas fee** for territory challenge/territory occupation. It’s huge progress for you warriors as well as for Tiny World. Because we are always willing to provide the best experience to you all. Find out more here🥰!
+
+🔎Here you have a quick browse as follows🔍
+
+* Platform Stats
+* Tiny Lord 2.0 Official Version
+* PVP Arena Preview (1/3)
+* UR Hero Auction Campaigns — Alexander
+📊**Platform Stats** 📊
+
+Total Registered Users: 216,571
+
+Total NFT Trading Volume: $ 20,496,019
+
+APR up to 58%
+
+The number of NFTs Minted: 424,096
+
+The number of TINC Burned: 40,420,875
+
+Circulation of TINC: 42,072,478
+
+Tiny Kingdom Market Trade Volume: $ 7,095,132
+
+Treasury Fund: $ 972,770
+
+Buyback Pool: $ 730,335
+
+The total of TINC Burn is 427,599 TINC this week🚀, with Rune Burn, Tinymon Burn, Auction Burn, and Buyback Burn.
+
+![](https://img.foresightnews.pro/202302/7e0fc6b59068bd862f3aca6891290736.png?x-oss-process=style/scale70)🏰**Tiny Lord 2.0 Official Version**🏰
+
+After one week of Tiny Lord 2.0 public beta test, Tiny Lord 2.0 officially launched on 16/02/2023 10:00 AM UTC. Meanwhile, Tiny World Team optimized and adjusted the official version according to feedback and suggestions from community players as follows:
+
+1. Adjust the challenge limit of each NFT: Lv1 NFTs can challenge the territory **ONCE** a day, and lv2/above NFTs can challenge the territory **TWICE** a day.
+2. Everyday the First territory challenge of each player needs to send an on-chain transaction, and subsequent challenges will not require on-chain operations. The refresh time is 08:00 AM UTC every day.
+3. TINC/SPIRIT rewards are **DOUBLED** in the first week, and the emission is restored from the second week.
+4. UI optimization, added the detailed territories of each faction and the player list of each faction.
+![](https://img.foresightnews.pro/202302/efc7fc87c0c624afa66eb33df87a31f3.png?x-oss-process=style/scale70)🤼‍♂️ **PVP Arena Preview (1/3)**🤼‍♂️
+
+With the arena gameplay development in progress as planned, we provided a preview of PvP Arena Gameplay Details🤩. Because we know what you are eager for in Tiny World and would try our best to satisfy your demand🤗.
+
+➡️1. Gameplay Mode 🎮
+
+* The arena game will be released in **season mode**, **with** **each season lasting 7 days**. Season rankings are settled 🗓️**on Thursday 08:00 AM UTC🗓️**️, and **season rewards are distributed then**.
+* In order to provide the freshness of the arena game experience, each season will randomly obtain different **seasonal themes**.
+➡️2. Participation Conditions 🪧
+
+* To participate in the arena game you require **up to 3 heroes to combat, including a maximum of 1 for each class.**
+* Only heroes **in idle or active status (BOSS/arena status) can fight in combat.** Heroes in the castle combats cannot participate in the arena game at the same time.
+* Each player can **challenge 3 times a day for free**, after the free challenges are used up, you can continue to challenge with Arena Tickets.
+➡️3. Tinymon Reset 😸
+
+As an important participant in the arena gameplay, Tinymon can be reset for players to experience more strategic matching gameplay. **After resetting, most of the consumption resources by Tinymon upgrade will be returned** and players can use the returned materials to upgrade other Tinymons.
+
+For full details, please check [**HERE.**](https://medium.com/@tinyworld.gamefi/pvp-arena-gameplay-preview-1-3-db36ab403491)
+
+![](https://img.foresightnews.pro/202302/5a3e0818706798be3fbecd72eb6bca76.png?x-oss-process=style/scale70)It’s our Final Round of the UR hero auction campaign at the moment. The first UR Hero in the final round of auctions was —**Alexander, 👑King of Macedonia**. However, due to the impact of the launch of Tiny Lord 2.0 which led to a high system load — some players failed to bid at the last moment and unfortunately missed the auction of UR hero —**Alexander**. In response to the community feedback, we gave our warriors another chance to bid for UR hero —**Alexander** in the 2️⃣4️⃣th week.
+
+Meanwhile, in order to reduce the system load and continuously optimize the playing experience, the End Time of each round will be adjusted from 08:00 AM UTC every Thursday to 🗓️**08:00 AM UTC every Wednesday**🗓️. This will commence starting from the 2️⃣4️⃣th week of UR auction.
+
+If you missed your last chance at royalty this time, don’t worry. Here the great UR Hero in the final round of auctions — **Alexander, 👑King of Macedonia** has been released for players to [bid on](https://app.tinyworlds.io/mysterybox/auction)🥳. What are you waiting for? Please join us in the auction for this great chance…🙋
+
+To know more about this auction click [**HERE**](https://medium.com/@tinyworld.gamefi/ur-hero-auction-campaign-week-24-a4cfba61c36e).
+
+![](https://img.foresightnews.pro/202302/64919dc58c6eed6a49ee144744d4dc20.png?x-oss-process=style/scale70)That’s everything for this week. We look forward to seeing you next week! Have a great weekend Tiny fans🤩!
+
+👨‍🏫 [Binance Live](https://www.binance.com/en/live/u/25851821) 🕊️ [Twitter](https://twitter.com/tinyworldgamefi) 📺 [YouTube](https://www.youtube.com/@tinyworld2294/videos) 📰 [Medium](https://medium.com/@tinyworld.gamefi)
+
+🎮 [Discord](https://discord.com/invite/jXTRTz7B7N)🎴 [Instagram](https://www.instagram.com/tinyworld.gamefi/) 📘 [Facebook](https://www.facebook.com/profile.php?id=100084851317037)
+
+🏰 [Official Website](https://tinyworlds.io/)
+
+⛏️ [Tiny World Dapp](https://app.tinyworlds.io/)
+
+⚔️ [Start to Play](https://app.tinyworlds.io/game/dashboard)
+
+📖 [Whitepaper](https://docs.tinyworlds.io/)
+
+📱⚔️ [Tiny World Global Channel](https://t.me/tinyworld_en)
+
+📱📢 [Tiny World Announcement Channel](https://t.me/Tinyworldannouncement)
+
+![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=74e928c8f210)

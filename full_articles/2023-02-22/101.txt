@@ -1,0 +1,181 @@
+来源 | blog.ethereum.org
+
+作者 | Protocol Support Team
+
+翻译 | Franci, ECN
+
+  
+
+
+![](https://img.foresightnews.pro/202302/9bcf500836b3332aadca038f5965744f.png?x-oss-process=style/scale70)  
+
+
+* 提款就要来了！Shapella 网络升级将在 Sepolia 测试网于 epoch 56832 激活，计划在北京时间 2 月 28 日 12:04:48 PM 进行。
+* 质押者和节点运行者应该阅读本文以及提款 FAQ
+* 在 Sepolia 升级之前，浙江测试网可用于测试 Shapella 功能。
+
+  
+
+
+经过数月的测试和短暂的开发者测试网运行，Shanghai/Capella ( 即 Shapella) 网络升级现在计划在 Sepolia 部署。
+
+  
+
+
+此次升级是在合并之后进行，使得验证者能够将其质押存款从信标链提款至执行层。它还为执行层和共识层引入了新的功能。
+
+  
+
+
+**升级规范**
+
+  
+
+
+Shapella 升级包含对执行层 (Shanghai)、共识层 (Capella) 和引擎 API 的更改。
+
+  
+
+
+**Shanghai**
+
+  
+
+
+Shanghai 升级包含的执行层更改请查看此处的规范。作为参考，有这些 EIP：
+
+  
+
+
+* EIP-3651: Warm COINBASE ( 降低访问 COINBASE 地址的 gas 开销 )
+* EIP-3855: PUSH0 instruction ( 新增操作码 `PUSH0)
+* EIP-3860: Limit and meter initcode ( 对 initcode 的大小设限并引入 gas 计量 )
+* EIP-4895: Beacon chain push withdrawals as operations ( 信标链推式提款作为系统操作 )
+* EIP-6049: Deprecate SELFDESTRUCT ( 取消 SELFDESTRUCT)
+
+  
+
+
+请注意，EIP-6049 只是一个操作码弃用警告。客户端团队预计 SELFDESTRUCT 语义将在未来的网络升级中发生变化，但该操作码的行为在上海升级中保持不变。
+
+  
+
+
+此外，现在可以在以太坊执行层规范 (EELS) 中查看这些变化，它是执行层的一个新的 Python 参考实现。
+
+  
+
+
+**Capella**
+
+  
+
+
+Capella 升级包含的共识层更改在 v1.3.0-rc.3 规范 的 capella 目录 中规定。从高层次来讲，该升级引入了：
+
+  
+
+
+* 验证者完整以及部分提款功能
+* BLSToExecutionChange 消息，允许使用 BLS\_WITHDRAWAL\_PREFIX 的验证者将其更新为 ETH1\_ADDRESS\_WITHDRAWAL\_PREFIX，这是提款的前提条件
+* 独立的状态和区块历史累积器，取代了原来的单数历史根
+
+  
+
+
+建议验证者去阅读 提款 FAQ，以了解更多关于他们应该如何准备 Capella 的信息。
+
+  
+
+
+**客户端版本发布**
+
+  
+
+
+以下客户端版本支持以太坊主网上的 Shanghai & Capella 升级。但是请注意，这些版本仅用于 Sepolia 测试网络的升级。用于 Goerli 和主网的版本，将在后续公告中宣布。
+
+  
+
+
+当考虑选择运行哪个客户端时，验证者应该特别注意在执行层和共识层运行多数客户端的风险。关于这些风险以及他们的后果可以阅读这篇文章了解更多。而如果想预估当前执行层和共识层客户端的分布，以及了解如何从一个客户端切换至另一个客户端，则可以阅读这篇文章。
+
+  
+
+
+**共识层 Sepolia 网络客户端版本**
+
+![](https://img.foresightnews.pro/202302/e496c8ec0c8a45687105a07e8309922f.jpeg?x-oss-process=style/scale70)  
+
+
+**执行层 Sepolia 网络客户端版本**
+
+![](https://img.foresightnews.pro/202302/8d930df2fc32d2cfe86d607fec5add89.jpeg?x-oss-process=style/scale70)  
+
+
+**常见问题解答**
+
+  
+
+
+**Q:** 作为一个以太坊用户或者 ETH 持有者，我需要做什么？
+
+**A:** 简单来说，没有。
+
+如果你使用交易所、数字钱包或硬件钱包，你不需要做任何事情，除非你的交易所或钱包提供商通知你采取额外的措施。
+
+如果你运行自己的以太坊节点，请参阅下文。
+
+  
+
+
+**Q:**作为一个非质押的节点运营商，我需要做什么？
+
+**A:** 为了与 Sepolia 测试网的 Shapella 升级兼容，请将你的节点更新到上表中所列的以太坊客户端版本。
+
+  
+
+
+**Q:**作为一个质押者，我需要做什么？
+
+**A:** 为了与 Sepolia 测试网的 Shapella 升级兼容，请将你的节点更新到上表中所列的以太坊客户端版本。
+
+我们建议你阅读 提款 FAQ。此外，你可以在 Sepolia 激活升级之前，在短暂运行的浙江测试网上进行测试。
+
+  
+
+
+**Q:**如果我是一个验证者或节点运行者，而我没有参与升级，会怎么样？
+
+**A:** 如果你使用的以太坊客户端没有更新到上面列出的最新版本，一旦升级发生，你的客户端将同步到分叉前的区块链上。
+
+你将被困在一个不兼容的链上，遵循旧的规则，无法发送 ETH 或在升级后的 Sepolia 网络运行。
+
+  
+
+
+**Q:**作为一个应用程序或工具开发者，我应该怎么做？
+
+**A:** Shapella 不会为智能合约引入破坏性变化。应用程序和工具开发者应该要审查升级更改，以确保任何修改工作已完成，或了解如何使用新引入的功能。
+
+  
+
+
+**Q:**为什么叫 "Shapella"？
+
+**A:** 执行层的升级按照 Devcon 举办城市来起名，而共识层的升级则根据恒星名字来取。"Shapella" 是上海 (Devcon 2 的举办地 ) 和 Capella (Auriga 北方星座中最亮的星 ) 的结合。
+
+  
+
+
+点击“阅读原文”获取文章内部链接！
+
+原文链接：https://blog.ethereum.org/2023/02/21/sepolia-shapella-announcement  
+
+
+  
+
+
+ECN 的翻译、编辑工作旨在为以太坊中文社区传递优质资讯和学习资源，文章版权归原作者所有，转载须注明原文出处以及 ETH 中文。若需长期转载，请联系 eth@ecn.co 进行授权。
+
+![](https://img.foresightnews.pro/202302/f49c15233c5d398f44865e2226ed8a3e.png?x-oss-process=style/scale70)

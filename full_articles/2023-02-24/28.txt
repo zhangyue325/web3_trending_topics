@@ -1,0 +1,56 @@
+关于 Dapper Labs 的 NBA Top Shots NFT 地位的持续争议引发了律师和观察人士的评论。
+
+该案件始于原告 Jeeun Friel 于 2021 年 5 月提起的集体诉讼，**指控 Dapper Labs 的 NBA Top Shots NFT 是未注册证券。**
+
+在最后一次出庭后，几名律师对维克多·马雷奥法官的裁决发表了评论。
+
+区块链协会的首席法律官 Jake Chervinsky 和其他律师抨击了一篇误解法官对此案判决的帖子。
+
+法院将决定 NBA Top Shots 是否是证券，因为有关 NFT 收藏的诉讼从 2021 年 5 月就开始了。
+
+原告 Jeeun Friel 起诉 DapperLabs 通过其 NBA Top Shot 市场提供未注册证券作为 NFT 通证。
+
+此前，该平台经历了上述收藏品的大量买家和卖家涌入。
+
+因此，Dapper 实验室的网站瘫痪了，客户无法兑现提款。愤怒的客户声称 Dapper Labs 故意推迟他们的提款时间。
+
+当时，Twitter 和所有可用的渠道都充斥着客户的抱怨和哀叹，试图从平台上撤资。
+
+然后是 Jeeun Friel 的诉讼，要求为 Dapper 提供未注册证券的行为讨个公道。
+
+![](https://img.foresightnews.pro/202302/6559a467dfd9f789be0f620d3f2072d5.png?x-oss-process=style/scale70)
+
+联邦法官 Marrero 在上次庭审中驳回了 DapperLabs 提出的驳回此案的动议，争论仍在继续。
+
+许多人认为法官的决定是荒谬的，他们认为 NBA Top Shots NFT 远不是证券。
+
+但在评论最新的诉讼程序时，区块链协会的首席法律官 Jake Chervinsky 为法官的立场辩护，称这一更新是虚假的。
+
+在他的声明中，律师指出，法官 Marreo 拒绝该动议并不意味着他已经对该案件作出裁决。
+
+在 Chervinsky 看来，法官没有做出最终裁决，但允许案件继续进行，因为证券索赔是合理的。
+
+Jake Chervinsky 补充说，除了目前的争端，**美国法院将存储在中央数据库中的有价值的数字资产判定为证券将是一个不合理的决定。**
+
+在另一条推特上，美国律师 Jesse Hynes 评论了这一动议。
+
+Hynes 指出，当案件有合理的理由继续审理时，驳回诉讼的动议通常不会成功。
+
+他解释说，法官否决动议是因为原告提供了足够的证据，如果所有指控都是真的，那么就违反了证券法规。
+
+Hynes 进一步表示，案件的下一步是审查事实，之后 Dapper Labs 可能会提出即决判决的动议。
+
+![](https://img.foresightnews.pro/202302/e9c55f612e5e2ae2a47edf5de378f2cb.jpeg?x-oss-process=style/scale70)
+
+与此同时，另一位在推特上化名为 MetaLawMan 的美国律师 James Murphy 对此案发表了评论。
+
+Murphy 指出，在一个私人的区块链上，关于 NBA 顶级球员的指控是法院决定拒绝解雇动议的基础。
+
+据 MetaLawMan 报道，法官表示，所谓的 NFT 通过私人区块链进行交易。
+
+然而，律师认为法官的意见可能对 Ripple 与 SEC 的法庭之战是积极的，因为 Ripple 在公开的区块链上交易。
+
+法官 Marreo 驳回了驳回案件的动议，理由是 Dapper 的 NFT 在公司和投资者之间建立了足够的法律关系，符合 Howey 测试标准。
+
+不过，他也暗示，**最终裁决不会为 NFT 开创先例。**
+

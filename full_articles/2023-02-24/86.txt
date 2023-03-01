@@ -1,0 +1,253 @@
+  
+  
+![](https://img.foresightnews.pro/202302/3390250af6b81fba6748a320700ceec3?x-oss-process=style/scale70)  
+欢迎各位新人进入 Web3，这是一个更加开放、透明、去中心化的世界。
+
+![](https://img.foresightnews.pro/202302/02c86ca72eccfe044fd8344e9ef20f3f.jpeg?x-oss-process=style/scale70)
+
+  
+
+
+Web3 作为一种新兴技术，涉及到加密货币、智能合约、去中心化应用（DApps）等多个领域。在这份必读指南中，我们筛选出了 Web3 重点领域的必读内容，帮助零基础新人快速入门。让我们开始吧：（点击“阅读原文”获取“必读文章”链接）
+
+![](https://img.foresightnews.pro/202302/d0fedeeecf4bbf83c06d4c4e8441f94e?x-oss-process=style/scale70)01比特币
+===
+
+![](https://img.foresightnews.pro/202302/1e7401bd03ebab8213a73498626acacf.jpeg?x-oss-process=style/scale70)
+
+  
+
+
+比特币是一种去中心化的数字货币，它基于区块链技术，由独立的节点维护和确认交易记录。比特币的交易可以在全球范围内进行，而且交易记录都是公开的，但是用户的身份信息是匿名的。比特币的总量是有限的，它的供应量不受任何中央机构控制。
+
+必读文章：
+
+什么是比特币？
+
+读懂区块链共识机制：PoW、PoS、DPoS
+
+什么是比特币私钥、账户与钱包？
+
+什么是比特币矿场和矿池？
+
+![](https://img.foresightnews.pro/202302/d0fedeeecf4bbf83c06d4c4e8441f94e?x-oss-process=style/scale70?wx_fmt=svg)02Web3
+====
+
+![](https://img.foresightnews.pro/202302/a76f1fd4f07e478505cc5d7bf523e961.jpeg?x-oss-process=style/scale70)
+
+  
+
+
+Web3 是互联网的下一代，是一个去中心化的 Web。Web3 基于区块链技术，旨在通过去中心化的方式重新定义互联网和数字资产。Web3 提供更安全、透明、开放和民主的数字世界。
+
+必读文章：
+
+“Web3 之父”回答：Web3 究竟是什么？
+
+Web3 风口已来，普通人该如何参与？
+
+Web3 术语大全，初学者必备！（上）
+
+Web3 术语大全，初学者必备！（下）
+
+![](https://img.foresightnews.pro/202302/d0fedeeecf4bbf83c06d4c4e8441f94e?x-oss-process=style/scale70?wx_fmt=svg)03公链
+==
+
+![](https://img.foresightnews.pro/202302/c34d33f1ffdd9322ff479e0124ba7c38.jpeg?x-oss-process=style/scale70)
+
+  
+
+
+公链（Public Blockchain）是一种开放、去中心化的区块链网络，它允许任何人都可以加入并参与到网络中，同时可以查看和验证网络上的交易。公链通常没有中心化的控制机构，而是通过共识机制来保证网络的安全性和可靠性。
+
+必读文章：
+
+什么是公链？
+
+什么是以太坊？
+
+三分钟搞懂 ERC-20 和 ERC-721 的不同
+
+什么是以太坊的“难度炸弹”？
+
+什么是“智能合约”？
+
+年度公链系列盘点 | 公链创新的方向有多少
+
+![](https://img.foresightnews.pro/202302/d0fedeeecf4bbf83c06d4c4e8441f94e?x-oss-process=style/scale70?wx_fmt=svg)04Layer2
+======
+
+![](https://img.foresightnews.pro/202302/9b297b14d7d2c562a85865fa926930b4.jpeg?x-oss-process=style/scale70)
+
+  
+
+
+Layer2 是公链之上构建的第二层协议，用于解决公链本身的性能问题。Layer2 可以实现更高的交易速度和更低的交易费用，同时也可以提高区块链的扩展性和可扩展性。
+
+必读文章：
+
+万字深度研报：全面解析链下扩容
+
+三分钟弄明白什么是 Layer2，侧链，Rollups！
+
+一文读懂 Arbitrum：为何成为 Layer2 赛道的领跑者？
+
+一文了解 Optimism 生态，为什么说它是最有影响的 L2 方案
+
+什么是 StarkNet？
+
+zkSync2.0 是什么？技术特性有哪些？
+
+![](https://img.foresightnews.pro/202302/d0fedeeecf4bbf83c06d4c4e8441f94e?x-oss-process=style/scale70?wx_fmt=svg)05DeFi
+====
+
+![](https://img.foresightnews.pro/202302/bfa63fe1bd7073e4c193bf1f58313b99.jpeg?x-oss-process=style/scale70)
+
+  
+
+
+DeFi 是去中心化金融（Decentralized Finance）的缩写，它是基于区块链技术的一种金融服务形式。与传统金融机构不同，DeFi 没有中心化的机构，用户可以通过智能合约和去中心化交易所实现无需信任第三方的金融服务，如借贷、交易、稳定币等。
+
+必读文章：
+
+什么是 DeFi？
+
+什么是 Uniswap? 史上最全新手导读
+
+一文读懂 AAVE——“去中心化银行”
+
+什么是 Curve Finance？
+
+DeFi 基础知识普及：你了解 LP 流动池与 Token 逻辑吗？
+
+以 Uniswap、Compound 和 MakerDAO 为例，告诉你什么是 TVL？
+
+什么是合成资产？
+
+DeFi 科普视频：加州大学伯克利分校 DeFi 系列公开课
+
+![](https://img.foresightnews.pro/202302/d0fedeeecf4bbf83c06d4c4e8441f94e?x-oss-process=style/scale70?wx_fmt=svg)06NFT 和元宇宙
+========
+
+![](https://img.foresightnews.pro/202302/f7b771bde36617ff911016d96c7af242.jpeg?x-oss-process=style/scale70)
+
+  
+
+
+NFT（Non-Fungible Token）是一种非同质化代币，它是一种基于区块链技术的数字资产，每个 NFT 都具有唯一性，不能被替代。NFT 在数字艺术、游戏道具等领域得到广泛应用。
+
+元宇宙是一个虚拟的世界，它是一个基于区块链技术的数字世界，用户可以在其中进行虚拟交互和交易。元宇宙的发展需要 NFT 等去中心化技术的支持，它可以在虚拟现实、数字艺术、游戏等领域得到应用。
+
+必读文章：
+
+一文了解透彻 NFT
+
+NFT 究竟有何价值？
+
+全景式解读 NFT 生态全貌，这些重点项目不容错过
+
+什么是元宇宙
+
+元宇宙两大龙头浮出水面：The Sandbox 和 Decentraland
+
+![](https://img.foresightnews.pro/202302/d0fedeeecf4bbf83c06d4c4e8441f94e?x-oss-process=style/scale70?wx_fmt=svg)07去中心化社交
+======
+
+![](https://img.foresightnews.pro/202302/9525beb49ed9fc15fe0b32f15018ddb4.jpeg?x-oss-process=style/scale70)
+
+  
+
+
+去中心化社交是一种基于区块链技术实现的社交网络形式。与传统的中心化社交网络不同，去中心化社交网络不依赖于单个中心化的服务提供商，而是由多个节点共同维护网络，保障用户的数据安全和隐私。
+
+必读文章：
+
+详解 Web3 社交：一个充满标识证明 、灵魂绑定和 NFT 的世界
+
+Binance Research：详解 Web3 社交的创新效用、生态赛道及未来展望
+
+去中心化“推特”长啥样？一文了解 Lens、Mastodon 与 nostr 三大社交协议
+
+腾讯研究院万字研讨实录（上）：Web3 将如何影响社交网络？
+
+腾讯研究院万字研讨实录（下）：Web3 与社交网络的未来
+
+![](https://img.foresightnews.pro/202302/d0fedeeecf4bbf83c06d4c4e8441f94e?x-oss-process=style/scale70?wx_fmt=svg)08GameFi
+======
+
+![](https://img.foresightnews.pro/202302/278aebff8f3e074102a40a46d414d30f.jpeg?x-oss-process=style/scale70)
+
+  
+
+
+GameFi 将游戏中的虚拟资产和代币化奖励与区块链技术和 DeFi（去中心化金融）相结合，从而为玩家提供了更多的收益机会和游戏体验。
+
+必读文章：
+
+最近频频被提到的 Gamefi 是什么，与 DeFi 有什么关系？
+
+GameFi 的科普与简谈
+
+GameFi 热度飙升，究竟有何优势？
+
+一文速览 GameFi 生态产业全景图
+
+![](https://img.foresightnews.pro/202302/d0fedeeecf4bbf83c06d4c4e8441f94e?x-oss-process=style/scale70?wx_fmt=svg)09安全警钟长鸣
+======
+
+![](https://img.foresightnews.pro/202302/bb08016dfcd8ff1e57f4c17446d6ee48.jpeg?x-oss-process=style/scale70)
+
+  
+
+
+在区块链黑暗森林，我们都会遇到哪些风险？我们应该如何应对？
+
+必读文章：
+
+行走在加密黑暗森林，你需要这篇 Crypto 防盗指南
+
+NFT 防范指南：一文了解常见的 NFT 诈骗手法
+
+在 Web3 你都会遇到哪些钓鱼攻击，该怎么防范？
+
+慢雾：在区块链世界你都会遇到哪些风险？该如何应对？
+
+加密行业的 360 卫士？盘点市场上的 11 款“防钓鱼插件”
+
+![](https://img.foresightnews.pro/202302/d0fedeeecf4bbf83c06d4c4e8441f94e?x-oss-process=style/scale70?wx_fmt=svg)10最后
+==
+
+读完以上内容就够了？答案肯定是不够的，Web3 世界发展日新月异，新概念、新技术不断更迭中，要想在这里自由遨游，需不断学习。
+
+为此，我们还为新人朋友们创建了专题：Web3 新人科普：零基础如何入门？将会持续更新内容，让新人朋友们赶在 Web3 潮流前线，敬请关注。PS：如果你身边有 Web3 新人，请分享给 TA！
+
+如果还有什么想要了解的信息没覆盖到，欢迎在 APP - 我的 - 提点建议中反馈，请收藏本文，会根据行业发展和热点更迭持续更新。
+
+  
+
+
+
+
+---
+
+#### **PANews PARTY AWARD 2023 年度评选提名火热征集中！**
+
+冬去春来，今年我们以“Keep Building”为主题，旨在发现并激励 Web3 领域中持续建设的真正 Builder。将通过数据初选、公开征集、线上投票及专业评审团评议，最终评选出 12 项权威年度奖项。
+
+阅读原文，了解详情↓↓↓
+
+![](https://img.foresightnews.pro/202302/352b489800e0cd1b8e7899309380641c.jpeg?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202302/013a29b8723f6d324f26f7ad1472eea1.png?x-oss-process=style/scale70)
+
+  
+
+
+点个【 在看 】，你最好看
+
+  
+
+
+  
+
+
