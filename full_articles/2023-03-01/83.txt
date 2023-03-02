@@ -1,0 +1,53 @@
+Windows 11 还包括 "开始 "按钮中的新 AI 功能，以及持续的更新。
+
+*\* 转载请扫码添加后台微信二维码，转载请注明来源，且附上本文的所有参考文献链接。*
+
+作者 |  阿法兔
+
+****事件****
+----------
+
+\**本文 1700 字左右*
+
+  
+
+
+2 月 28 日，微软首席产品官Panos Panay 发表了一篇文章，介绍了 Windows 11 的重大更新，包括将新的 AI-powered Bing 引入 Windows 任务栏。  
+![](https://img.foresightnews.pro/202303/68c67dc634777c55d64107544b05a22a.png?x-oss-process=style/scale70)  
+  
+Panos 提到，随着大家逐步接近由人工智能的大规模应用所引领的下一波计算浪潮，二 Windows 11 的更新，**正是由这个人工智能的新时代所带来的。这个时代将会重新创造并且迭代人们在 PC 上完成工作的方式。**  
+而过去的三周，微软为 169 个国家的 100 多万人推出了由 ChatGPT 驱动的搜索引擎必应的测试版，并将新必应扩展到 Edge 移动应用程序中，还将人工智能技术引入 Skype。  
+**微软和大家想要共同去定义一个搜索、聊天和创作的全新时代。**  
+现在，Windows 又向前迈出了一大步，通过在任务栏中直接实现可输入 Windows 搜索框和新的人工智能驱动的必应的赋能，给 Windows PC 增加了全新的广泛性和易用性，用户可以将很轻易就满足自己对 Windows 的所有搜索需求。  
+![](https://img.foresightnews.pro/202303/ae9e62ca953ee51452060fd6a69467fc.png?x-oss-process=style/scale70)  
+通过研究后发现：**搜索框是 Windows 上使用最广泛的功能之一，每月有超过 5 亿用户在使用它，现在有了可键入的 Windows 搜索框和新的人工智能驱动的 Bing，所有用户都将有能力迅速且精确地找到自己想要的答案。**  
+  
+很快，数以亿计的 Windows 11 用户可以获得这种令人难以置信的新技术，从他们的 Windows 任务栏上搜索、聊天、回答问题和生成内容。  
+  
+更新中的其他 Windows 11 新功能，旨在使用户的日常工作更轻松，比如说，用户将能够使用新的 Phone Link for iOS 预览，把 iPhone®等移动设备直接链接到用户的 Windows 11 电脑。  
+  
+**Windows 11 还包括 "开始 "按钮中的新 AI 功能，以及持续的更新。**  
+2022 年，微软推出了 Windows Studio Effects1。在先进的人工智能的支持下，这个音频和视频效果集使用户能够为你所处的任何情况定制音频和视频。  
+这次更新将给大家带来新的人工智能驱动的必应和其他新功能，使每个人都能更轻松地保持联系，这种联系包括人，也包括信息。  
+****前情提要****
+------------
+
+  
+早在今年年初，微软就提出会把 ChatGPT 加入 Azure 云服务，而微软的 Azure OpenAI 是 2021 年推出的，此项服务，令微软云服务客户可以使用各种 OpenAI 工具，如 ChatGPT 基于的 GPT-3.5 语言系统，以及可以通过文本提示生成图像的 Dall-E 模型。  
+自 2019 年微软向 OpenAI 投资 10 亿美元，微软已经是 OpenAI 紧密的合作伙伴，主要还是希望在先进的人工智能系统领域获得内部优势，以便在与谷歌、亚马逊公司和 Meta 的竞争中取胜。2022 年 11 月底 ChatGPT 推出，迅速席卷互联网，用户迅速上了百万。  
+![](https://img.foresightnews.pro/202303/45de8d20ff2448cbd5cbe564532635c4.png?x-oss-process=style/scale70)  
+**微软 2023 年初已经在讨论将 OpenAI 的技术纳入 Word、PowerPoint、Outlook 和其他应用程序**，这样用户就可以用简单的提示自动生成文本，最近，人工智能在创意领域越来越流行，而微软正在考虑使用同样的技术来帮助客户在 Word 页面上或 PPT 给出提示。  
+很早之前微软就在人工智能方面有过尝试，比如 Word 已经使用了微软内部开发的人工智能工具 Turing，通过它用户可以对文档进行搜索引擎式的查询，也可以生成 Word 文档的要点摘要并在预览中显示。  
+  
+几年前，负责微软 Word 和 Outlook 等主要应用程序的 Office 团队的领导人并不认为在自己的业务领域应用人工智能是开明的，因为 AI 在这些生产力应用上的表现不明显，也害怕用户对人工智能没什么反应，不过当 OpenAI 在 2020 年发布 GPT 的成功，去年秋天 ChatGPT 的爆火，说服了微软在 AI 上面发力。  
+***参考文献：****1.*Introducing a big update to Windows 11 making the everyday easier including bringing the new AI-powered Bing to the taskbar | Windows Experience Blog***2.https://www.theinformation.com/articles/ghost-writer-microsoft-looks-to-add-openais-chatbot-technology-to-word-email**3.https://www.wsj.com/articles/chatgpt-banned-in-new-york-city-public-schools-over-concerns-about-cheating-learning-development-11673024059**4.What is Azure OpenAI? - Azure* *Cognitive Services | Microsoft Learn**5.https://www.bloomberg.com/news/articles/2023-01-17/microsoft-azure-to-add-chatgpt-to-cloud-services?srnd=premium*  
+**【阅读更多】**
+
+* [微软人工智能 Office 和电邮即将登场...](http://mp.weixin.qq.com/s?__biz=MzI5MjE4NzYzNw==&mid=2247485993&idx=1&sn=173a65b8ad18518e86021138a7ddb217&chksm=ec0476b3db73ffa5355bd2ac4ecde325ca758682e7831fc8c9ed68dedd869f6809805cd3a44d&scene=21#wechat_redirect)
+* [整合 ChatGPT：微软与谷歌的搜索大战](http://mp.weixin.qq.com/s?__biz=MzI5MjE4NzYzNw==&mid=2247485984&idx=1&sn=2fce2ef0cf5a5e834cc3b08a21a100d5&chksm=ec0476badb73ffac1c29a072aae822178437fc92fb17d358892f6f2d2a67c5b28b3b6b91d7ca&scene=21#wechat_redirect)
+* [战略|回首 20 年，百度做错了什么？](http://mp.weixin.qq.com/s?__biz=MzI5MjE4NzYzNw==&mid=2247483794&idx=1&sn=e12827cd8b918ac91e7f8aaacae578ee&chksm=ec047d08db73f41e7ecc96d6c12b6cfebe0e0d115549d882dee6e41af9e0a8187a4472a8f42c&scene=21#wechat_redirect)
+* [从 GPT-1 到 GPT-4 看 ChatGPT 的崛起](http://mp.weixin.qq.com/s?__biz=MzI5MjE4NzYzNw==&mid=2247485877&idx=1&sn=b716ecd4b27b3e146cb5b9b6b261b151&chksm=ec04752fdb73fc399f90fd7937a06532fcf8ff2353fd91f667f61e4bee266cab676bfd596b2a&scene=21#wechat_redirect)
+* [生成式 AI 在游戏领域的机会（市场假设 + 预测）](http://mp.weixin.qq.com/s?__biz=MzI5MjE4NzYzNw==&mid=2247485861&idx=1&sn=6e36e14d0aa548632e39c4a7d149af5d&chksm=ec04753fdb73fc29fe77a84344c761cf2a65b4407d1f24cedc436dd61cb70d61d7e6d27c17b5&scene=21#wechat_redirect)
+* [生成式 AI 在游戏领域的机会（市场生态&具体公司）](http://mp.weixin.qq.com/s?__biz=MzI5MjE4NzYzNw==&mid=2247485895&idx=1&sn=124da8b26b7b0c42f1229cf6551ac1f2&chksm=ec04755ddb73fc4b1e89896cf3cae79e8f1dcb07f116d31f9d25b09634ae876e461652aed1e2&scene=21#wechat_redirect)
+* [VC 进军生成式 AI，机会到底在哪里？](http://mp.weixin.qq.com/s?__biz=MzI5MjE4NzYzNw==&mid=2247485762&idx=1&sn=fd3ce8386481a4ddc2894a1ec27c343f&chksm=ec0475d8db73fccedc168dd5024f64fcd07fa02dd9d866cdb15f12e4f9882f925a0c49334a10&scene=21#wechat_redirect)
+* [白皮书 | AIGC 的机会到底在何处?](http://mp.weixin.qq.com/s?__biz=MzI5MjE4NzYzNw==&mid=2247485825&idx=1&sn=79f5b5aa504f707d49f4d2ab15424df7&chksm=ec04751bdb73fc0d86776656ce64f5a13c4561a41f2339c1f2697288f168f3e5e7fc17e25125&scene=21#wechat_redirect)

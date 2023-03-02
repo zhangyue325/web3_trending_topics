@@ -1,0 +1,179 @@
+### 结构化产品研究 — 第 1 期 — 总览
+
+![](https://img.foresightnews.pro/202303/116496a0f8b5d40647f0808fdaf6fcd0.jpeg?x-oss-process=style/scale70)### 1. 结构化产品概述
+
+结构化产品一般指表现与**基础资产、产品或指数挂钩的金融工具**，通常会通过基础金融工具和金融衍生工具相结合以满足资产配置需求，**结构化产品挂钩的标的一般为风险资产**，需要承担市场波动带来的收益风险。
+
+一般来说结构化产品条款相对灵活，可以针对投资者个性化需求，设计不同的挂钩标的、期限、风险收益。另外，对于投资人来说，在合规、会计处理方面可能相对灵活。
+
+结构化产品=基础资产 + 衍生品
+
+基础金融资产：债券、指数、股票、外汇等
+
+衍生品：期货、期权、互换等
+
+常见的结构化产品包括雪球、鲨鱼鳍、安全气囊等，**大部分需要使用期权**，甚至需要非标准化的奇异期权，如障碍期权、二元期权等。
+
+### 2. 期权基础
+
+期权分为标准化、场内交易的香草期权（Vanilla Options）和非标准化、场外交易的奇异期权（Exotic Options）。
+
+期权通常指的都是香草期权，即传统期权，分为有固定行权日期的欧式，和无固定行权日期的美式。
+
+期权是可在未来某个既定日期前或当天以特定价格买卖标的期货合约的**权利**，因此有看涨 Call、看跌 Put 两个方向。
+
+期权价值由内在价值 + 时间价值组成。
+
+看涨期权 Call Option，投资者支付权利金 C，享有在到期日 T，以行权价格 K，买入标的物 S 的权利。**内在价值**表示为：
+
+![](https://img.foresightnews.pro/202303/88714282c8c095bf4a81d7b026b2946b.jpg?x-oss-process=style/scale70)看跌期权 Put Option，投资者支付权利金 P，享有在到期日 T，以行权价格 K，卖出标的物 S 的权利。**内在价值**表示为：
+
+![](https://img.foresightnews.pro/202303/34f1ee0dd42a2cf9e6b4090b7a0f3c55.jpg?x-oss-process=style/scale70)根据期权的执行价格与标的物的现价，分为平值（at the money）、虚值（out the money）、实值（in the money）。
+
+交易上有 long 和 short 两个方向，有人买入就有人卖出，与买入期权的投资者对应，卖出方收取权利金，承担作为期权持有者买卖标的物的对手方**义务**。
+
+根据对未来标的物市场走势的不同观点，有以下基本策略：
+
+看涨：long call
+
+看跌：long put
+
+看不涨：short call
+
+看不跌：short put
+
+看涨期权的损益为：
+
+![](https://img.foresightnews.pro/202303/4701c3cfb65f2b0d660e7e50f4142eb1.jpg?x-oss-process=style/scale70)看跌期权的损益为：
+
+![](https://img.foresightnews.pro/202303/e9c8686fae5a8d93b6004e4d02f9dab0.jpg?x-oss-process=style/scale70)期权应用广泛，除了是很多产品的基础要素外，还提供了一种在不确定环境决策的思路和定价模型，以便于定价。例如：
+
+1）保险本质是一种看跌期权，比如重疾险可以视为对自身健康的看跌期权
+
+2）实物期权 Real option，企业战略决策的一种方式，用期权模型为项目决策定价
+
+3）企业估值（Merton 模型）中，也会把公司的资产拆分为负债 + 股权。以债权人为例，有两种思路：
+
+以债权为对价向股东买入公司，同时卖出了看涨期权（short call），收取固定收益（期权费 C），到期时，如果资产 S > 负债 K，则债权人收取以债权本金为限（执行价 K）的资金，向股东出售公司的全部资产 S。因此，对于股东而言，相当于买入了看涨期权；对于债权人而言，其债权价值为公司价值 S — 看涨期权 C。
+
+![](https://img.foresightnews.pro/202303/ab6bec92de36f3fc45243e5bcb2acede.jpg?x-oss-process=style/scale70)同时，根据期权平价公式，债券价值=S-C=K-P，也可以理解成债权人（持有公司债券），实质上是，卖出了看跌期权（short put），收取期权费，同时以无风险利率买入债券。到期时，如果公司资不抵债破产清算，即股东持有的看跌期权行权，债权人实质上被迫以执行价买入公司剩余资产；如果公司存活，则股东不会行权，债权人取回无风险收益 K，并赚到期权费。
+
+基于多、空、看涨、看跌，期权可组合出多种不同的损益情况，以贴合对未来市场的预测观点，而无需预测具体的涨跌，可组合性强，比如预判市场波动、不波动、区间内波动、时间内波动等。
+
+以下是一些期权组合的基本策略：
+
+![](https://img.foresightnews.pro/202303/cf7e77856a329d81b1dd7aa0d433a088.jpg?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/e2d9f820970b1cafb4a5a1156d696391.jpg?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/917a333c78f06870cbf038b119834386.jpg?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/3d7c8fca2347af206e2a2a25c9c9e31e.jpg?x-oss-process=style/scale70)以上为部分期权基础组合的策略，还可以和标的物结合组成策略，比如：
+
+![](https://img.foresightnews.pro/202303/48df8de6e3704b09571d06c22db287fe.jpg?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/6a0aea1e8c0e233ad9c1a52ae15fb96c.jpg?x-oss-process=style/scale70)### 3. 交易所、资管平台在售结构化产品
+
+仅有双币（上线相对较早）
+
+<https://www.binance.com/zh-CN/dual-investment>
+
+双币&鲨鱼鳍（今年新上线）
+
+<https://www.okx.com/earn/shark-fin?from=home>
+
+目前仅有双币，鲨鱼鳍已下线
+
+<https://learn.bybit.com/zh-tw/bybit-shark-fin/crypto-structured-products/>
+
+仅有双币（今年新上线）
+
+<https://www.bitget.com/zh-TW/dual-investment>
+
+目前仅有双币，Kucoin Wealth（未上线，预计 3 月）提供结构化产品和期权
+
+<https://www.kucoin.com/zh-hant/wealth/landing?spm=kcWeb.B1homepage.Header6.4>
+
+资管平台的产品较交易所丰富很多，包括双币、趋势智盈（价差策略）、鲨鱼鳍、区间猎手等。
+
+<https://www.matrixport.com/zh/invest-crypto-with-dual-currency>
+
+产品类型丰富
+
+![](https://img.foresightnews.pro/202303/cf318714abbc05fd814ef982eaa885e7.jpg?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/036567a35f6a054dc0ea34907275a5ae.jpg?x-oss-process=style/scale70)<https://www.metalpha.finance/zh/>
+
+Paradigm 领投，TVL 达 42.5m，产品为 Covered call（备兑看涨）、Put selling、twin win strategy（双向鲨鱼鳍）等
+
+从以太坊上的期权协议**Hegic 和 Opyn**同时获取流动性，其产品架构值得深入研究
+
+<https://www.ribbon.finance/>
+
+### 4. 产品案例、拆解
+
+目前市场上最常见的产品，包括低买和高卖两个方向，实质上是上文提到的 Covered Call 和 Put Selling 策略，结构简单。
+
+核心问题在于，交易所如何撮合期权的买卖方成交，流动性是否充足；如果是交易所自己担任用户的交易对手方，需要考虑风险对冲。
+
+![](https://img.foresightnews.pro/202303/97b17d5411569d0e3317a07c192361f8.jpg?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/c787bfc2adfaea4c0b7a93a0151cccc4.jpg?x-oss-process=style/scale70)交易所一般使用利息、年化收益率表示产品收益，有降低用户风险警惕、促进销售的意图，年化收益率应该是用期权费倒算出来的。
+
+![](https://img.foresightnews.pro/202303/4ec3d6fa8aa349aa50eabe7d6582cdda.jpg?x-oss-process=style/scale70)交易所在产品中的收入不透明，不同交易所在时间、现货价格、执行价、到期日均相同的情况下，收益有差距，可能存在克扣用户期权费作为手续费，但包装成无手续费。
+
+交易所少见（仅看到 OKX 有发售），资管平台常见，有看涨看跌两个方向，又分为单向和双向。
+
+![](https://img.foresightnews.pro/202303/a8f816f29830186e3e97d83fb1ca7825.jpg?x-oss-process=style/scale70)以上图为看涨鲨鱼鳍，该产品可以理解为：**买入一个固定收益产品 + 买入一份看涨障碍期权，long bond + long up-and-out call options。**
+
+![](https://img.foresightnews.pro/202303/defcc641611cbd31bc84d615f196b97c.jpg?x-oss-process=style/scale70)一般来说为了吸引投资者，鲨鱼鳍产品会包含一定的敲出收益（Rebate），使投资者不至于颗粒无收。
+
+![](https://img.foresightnews.pro/202303/8c8c300465e33594dad74bac6d10fd81.jpg?x-oss-process=style/scale70)看跌鲨鱼鳍同理，call 替换为 put 即可。
+
+对应的，双向鲨鱼鳍具备向上向下两个敲出价格，相比单向鲨鱼鳍多了一个方向的潜在收益：**买入一个固定收益 + 买入一份看涨障碍期权 + 买入一份看跌障碍期权，long bond + long up-and-out call options + long down-and-out put options。**
+
+![](https://img.foresightnews.pro/202303/355113ba5a0154a8a36848e3c86fa97d.jpg?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/6cd5dd43c9c8fd506ecde2e05c512768.jpg?x-oss-process=style/scale70)同等条件的障碍期权的期权费低于香草期权（因为障碍期权放弃了上端收益的可能），所以在固定收益的基础上，可以给予客户保本收益（利息收益扣减期权费）。
+
+障碍期权的对冲相对复杂，部分产品可能还会设置观察期间，由于敲出价的存在，临近时期权的 delta 会显著波动，动态对冲难度相对高。
+
+另一种对冲思路为静态对冲，在期初即通过组合场内一系列香草期权，复制出具备同等现金流状态的组合。以期权买入方举例，执行价格 100、敲出价格 120 的看涨障碍期权，在标的价格高于 120 时价值为 0，在其余情况下等同于普通看涨期权，所以：
+
+1）我们需要处理的情形仅为标的价格高于 120 的情况
+
+2）买入一份执行价格 100 的普通看涨期权
+
+3）分别 short 不同份数、不同到期日，但行权价在 120 的多个看涨期权
+
+4）最终形成一个 long call option + N \* short call option 的投资组合，构造了等同于障碍期权的现金流
+
+（3）**安全气囊 Airbag**
+
+交易所无此产品，仅部分资管平台在售。通过放弃部分潜在上涨，换取标的资产价格下跌的保护，但该保护存在一个下跌敲入价（安全垫），安全垫范围内不承担亏损，但刺破后依然会承担亏损，亏损额度等同于期初买入现货。
+
+![](https://img.foresightnews.pro/202303/c45a2af8187feebc85bf8db6fe534a4e.jpg?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/05d9f7464efd2894b5f55a286626361c.jpg?x-oss-process=style/scale70)其本质结构为：**买入平值看涨期权，同时卖出向下敲入看跌期权**，即，敲入未发生时，看跌期权不生效，卖出的期权费收益冲减 long call 的成本；敲入发生时，看跌期权生效，触发行权，被迫以执行价格买入对应的标的物。
+
+由于普通期权的价格高于障碍期权，如果需要保证期初净期权费为 0，long call 的期权费需要和 short put 匹配，所以上涨时收益低于持有现货；其收益曲线在未达到敲入价格时，和 long call 基本一致。
+
+这里需要注意，该产品的上涨端参与率（即期权费 + 手续费等成本）不能过低，否则对于投资者显著不利。此时投资者支付了过高的成本，换取中等程度的保护，而当真正需要保护的长尾风险发生时，保护无效，投资者承担全部损失。通常产品说明的情景分析中，会遗漏这种情况。
+
+### 5. 风险因子与对冲
+
+对冲的核心在于风险因子，对冲掉我们不想承担的风险，保留我们想要承担的风险（收益）。
+
+期权的风险因子 — 希腊字母 Greeks：
+
+标的资产价格变动 1 单位，期权价格的变动程度
+
+看涨期权为正，看跌期权为负
+
+![](https://img.foresightnews.pro/202303/c610b46d8c8b8bb94b5dc523775054ec.jpg?x-oss-process=style/scale70)持有期权头寸时，通过增加和减少对应份额的标的物，使 Delta 为 0 的操作称为 Delta 中性策略。
+
+指 delta 的导数，即标的资产价格变动 1 单位，期权 delta 的变动程度，类似 delta 变化率、加速度的概念
+
+![](https://img.foresightnews.pro/202303/4d664980c9151f56787d25c5dc9bc96a.jpg?x-oss-process=style/scale70)无论看涨看跌期权，Gamma 均为正；深度实值和深度虚值的期权在临近到期日是 Gamma 接近归零。
+
+当 Gamma 较高时，单纯对冲 delta 是不足的（会有误差），需要使用其他期权来对冲 Gamma，构造 Delta — Gamma 中性对冲。
+
+表示期权的随着到期日的临近，价值相对于时间的损耗速度。
+
+无论看涨看跌，Theta 为负。
+
+![](https://img.foresightnews.pro/202303/5e05a9a040c451726428925c24952e05.jpg?x-oss-process=style/scale70)期权卖方所赚取的收益之一。
+
+期权价格对于标的资产波动率的敏感程度。无论看涨看跌，Vega 均为正。
+
+![](https://img.foresightnews.pro/202303/89e6f1f070dfc1ccd264d210d25a5a5e.jpg?x-oss-process=style/scale70)平值期权的 Vega 最大，深度实值、深度虚值的接近于 0。
+
+期权价格对于无风险利率的敏感程度，短期影响小。
+
+JZL Capital 是一家注册于海外，专注区块链生态研究与投资的专业机构。创始人从业经验丰富，曾经担任过多家海外上市公司 CEO 和执行董事，并主导参与过 eToro 的全球投资。 团队成员分别来自芝加哥大学、哥伦比亚大学、华盛顿大学、卡耐基梅隆大学、伊利诺伊大学香槟分校和南洋理工大学等顶尖院校，并曾服务于摩根士丹利、巴克莱银行、安永、毕马威、海航集团、美国银行等国际知名企业。
+
+![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=c6e40a99f851)

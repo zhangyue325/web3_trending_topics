@@ -1,0 +1,215 @@
+![](https://img.foresightnews.pro/202303/df063d2e04ef8fe316f2cff659a0db4c.jpeg?x-oss-process=style/scale70)  
+
+
+课代表 ｜ Clark
+
+审阅 ｜ 圣洁
+
+排版 ｜BigSong.eth
+
+  
+
+
+**篇首导读**
+
+这期节目主要谈论 Trach 关于**人类合作机制的核心理念：分权（fractal sovereignty），即未来去中心化的工作模式**，它将超越“40 小时工作制”这个工业时代的产物。其概念不仅起源于科技，更起源于人类学。
+
+注：文中出现的 Coordinape 是一个从 Yearn Finance 衍生出来的资源分配工具。它依靠点对点的代币投票来分配资源。BanklessDAO 使用‘Coordinape’作为向贡献者提供资源的工具。社区补助金、内部工资和特殊项目都可以由社区本身进行激励和奖励。而不是繁琐的投票或黑箱委员会，贡献者自己可以快速和透明地奖励他们看到的创造的价值。
+
+  
+
+
+![](https://img.foresightnews.pro/202303/cea51aad11fc63a828ba93cd6763c66f.png?x-oss-process=style/scale70)Trach 的一些过往经历
+
+Tracheopteryx 这个超难发音的名字其实是 trachea 和 archaeopteryx 的结合，前者是气管的意思，代表声音 / 发声，后者指的是始祖鸟（最早的鸟类），所以 Trach 认为这是一种转变的象征。**Trach 认为目前人类的合作机制已经有点不能满足人们的需求，正像当初恐龙演化成始祖鸟一样亟待改变**，而目前的 DAO 就像一座冰山，露在表面的只是冰山一角。Kevin 认为直接去谈 DAO 并不是一个好的角度，因为这个概念太大，要关注到所有的公司，是不太现实的，反而不如聊聊目前做的比较好的例子，也就是 Yearn，而 Trach 正是 Yearn 的核心成员。
+
+Trach 是在 DeFi summer（2020 年暑期）期间加入的 Yearn，所以两位先聊了下 Trach 在 Yearn 这两年的见闻收获。Trach 从 2010 年就开始关注 crypto，但真正深入了解还是在 DeFi Summer 期间。加入 Yearn 的契机是 Trach 之前做过老板，管过大的团队，但是一直对传统的企业管理方式很不满意，所有大的决策都需要他去做，所以他一直在找不同的管理方式，比如合弄制（Holacracy），或者分一些股份给其他员工等等。Kevin 认为 Trach 将 fractal sovereignty 类比成黏菌（slime mold）的比喻很直观，清楚地展现了自下而上的分工网络这种制度，而传统的自上而下的公司则是按照既定逻辑由中心做决定，固定输入对应固定输出。**谈及这种 DAO 的起源，Trach 说是受到尤瓦尔·赫拉利的启发，他非常认同联系人类的纽带是故事**（fiction）这个理论，而书里关于北冬虫夏草（cordyceps，这种真菌会影响蚂蚁的神经系统从而让他们被带到草地，最终被牛吃掉后寄生在牛的肚子里）的例子更是让他想到影响人类的北冬虫夏草就是金钱。**金钱会把一切变成金钱，从而让人类团结起来，过去这套很有用，但现在是时候改变了。**真正让 Trach 决定行动起来的时刻是听闻 Andre Cronier 在发布会上的撒币事迹（minting YFI tokens），这种拥有独特的、超越金钱的原则的想法深深启发了 Trach。Trach 加入 Yearn 的时候公司还没有什么组织结构，像宇宙大爆炸的初期一样原始，于是他们创立了去中心化的治理结构。
+
+Yearn 现在走向了不同的方向，人们对于 Yearn 的核心批判点在于（在电脑里）用预设好固定逻辑的智能合约（immutable smart contract）调用 5 个函数是一回事，（在现实中）管理有 200 个贡献者的混乱组织是另一回事。（真实世界里）人们总是“各怀鬼胎”，而且一旦谈及金钱，人们更会为其争斗不休。因此 Trach 和 Gabe Shapiro 设计了“受限委派”（constrained delegation / governance），**这种模式不是分配投票权，而是通过投票去分配决策权给一个独立的团队，由他们代表 DAO 行权。**
+
+Trach 认为 Coordinape 最大的挑战之一就是如何处理劳动的报酬（compensation），依赖过去工资、股权那套是不够的，在 DAO 里必须公平公正且不对称（多劳多得），同时新的报酬系统还需要能竞争过传统的模式才有意义。最开始在 Yearn 的那段时间，全职工作的人会得到一笔持续的回报（grant），但是还有一群兼职的贡献者也需要得到回报，所以最开始是每次大家讨论哪些人做出了让人眼前一亮的贡献，就以“礼物”的形式奖励他们。但后来发现这种做法并不好，因为**靠着上层或下层决策都很难公平分配，只有真正做了那些事情的人才能最懂所做事情的价值**，因此应该靠边线（edges），Coordinape 正是受此启发，来实现这种新机制的。Coordinape 在不断地进化，不单单是吸纳了上述的“礼物经济”，也受部族社会“传递善意”（pay it foward）的文化启发，以及“公开交易不一定是平等的”等等。Trach 又指出，人们往往将金钱当作 Coordinape 体系下的“礼物”，其实金钱只是“礼物”的象征，人们做的事情（work）才是“礼物”。
+
+继续上面的比喻，Trach 谈到“礼物圈”的概念（gift circle），其第一个好处就是可以做到完全的去中心化。比如决定圈子的成员，可以定下规矩，要求任何 3 人必须都同意才能引入新人，而取消成员身份则需要任何 7 人都同意。每个月礼物圈会举行一次送礼仪式（gift ceremony），每个成员会收到 100 个币（token），不是 ERC20 那种币，只是一种 database artifact，像赌场里的筹码（poker chip）一样。**这些币不可以保留，而是要送给自己心中为社区创造了最大价值的人，同时这些币只有送出去才有价值。**这有点像古代部落里的生态，人们认为给予最多而非拥有最多的人是最富裕的人。最终，每个组按照收到的币的数量来分配预算。
+
+  
+
+
+  
+
+
+  
+
+
+![](https://img.foresightnews.pro/202303/cea51aad11fc63a828ba93cd6763c66f.png?x-oss-process=style/scale70)互动式主观共识 
+
+  
+
+
+Kevin 和 Trach 谈到 Coordinape 的机制是一种互动式主观共识（Intersubjective Consensus），**与过去算法按照客观数据（如点赞、评论量）排序的机制不同，由真正做事情的人去评价**，人们可以不再沉湎于算法体系下的对抗游戏（adversarial gaming），即想办法利用系统规则获利，而**被激励去创造更多的信任、互帮互助与自主性**。这种机制不是天真地相信“人性本善”，而是将愿意相信“人们是善良的、可以信任的”当作起点。Kevin 表示 Coordinape 最棒的点在于其模型的可复制性，过去 6-9 个前就拓展至其他 45 个 DAO，Trach 深感认同，提出目前或许已影响了数百个 DAO。
+
+![](https://img.foresightnews.pro/202303/3ab418e8d250ea7587ef926468749663.png?x-oss-process=style/scale70)  
+
+
+  
+
+
+  
+
+
+![](https://img.foresightnews.pro/202303/cea51aad11fc63a828ba93cd6763c66f.png?x-oss-process=style/scale70)金字塔理论 Existential Pyramids
+
+  
+
+
+这三个不同领域的“理论金字塔”都是**高级理论建立于次级理论的基础之上的类似结构，而 Trach 认为 DAO 相比同级别的 Person 与 Corp 的优势在于其“地基”更牢**，比如像 Corp 的成立必须依附于各种文件，各种信用中介等，而 DAO 依附于数字计算（digital computation）、区块链等。如果将传统的银行账簿（bank ledger）比作 RNA，基于区块链的公共账簿（public ledger）就像 DNA 一样，RNA 能容纳病毒等微生物共存，更具流动性，存储信息的时间更短，而 DNA 更加顽强（robust），能存留千百年，也能维持更复杂的有机结构。本质上，这些最高维的概念都很像，比如公司其实可以看成不同个体的结合体，人也可以看成是不同细胞与器官的结合体。从这个角度看，人的“地基”更加顽强，有像 DNA、血液等结构。
+
+关于组织的结构会影响组织自治的能力，Kevin 问道 Trach 觉得未来哪些组织结构会更加成功，Trach 也分享了他的观点。Trach 认为过去国家以及企业都是靠着命令与控制（command and control）去不断扩张，而目前亟待改变，**人们需要一种新的社会生态（metabolism），人们需要更多的聆听，更多的交流（listen and speak）**，这有点类似 Charles Eisenstein 提出的理念，**人们过去将地球视作可以无限索取的 mother earth，现在应变成 lover earth**，和地球维持一种伴侣的关系。
+
+那么，要如何实现 lover earth 呢？Trach 认为要想建立能与其他组织和善相处（live in balance with each other）的组织，首先从个人层面就要做到与其他人和善相处。个人层面的发展和集体层面的发展是同频的，同时一定要根植于更加牢靠的“地基”，比如公共账簿就比银行账簿更加牢靠。
+
+  
+
+
+![](https://img.foresightnews.pro/202303/cea51aad11fc63a828ba93cd6763c66f.png?x-oss-process=style/scale70)DAO 的三个秘诀 
+
+  
+
+
+Kevin 将问题进一步延展为如何做到真正的 DAO，而不是运行在区块链上的公司。Trach 分享了三个秘诀：第一是对体系忠贞（Process Fidelity），不是说坚信明天兜里的比特币还值钱那种忠贞，而是指**坚信在 DAO 的体系下，我的贡献会收获应有的回报**；第二点是 Operational Access，这点是指**组织内的透明度、Accessible 的程度**，比如一个 13 岁的天才能否参与到重大的讨论里，他的观点能否被组织吸纳与使用；第三点是 Network Topography，它与之前两个概念的联系就好比**Process Fidelity 是汽车，Operational Access 是驾驶员，而 Network Topography 则是马路**。过去的官僚层级制度（hierarchical structure）是导致 control and command 的根源，人们需要借助 artificial relation 去抑制本能，而关系网的改变，人们互相间的决策关系也会改变，就像不同的表面张力（surface tension）。
+
+  
+
+
+![](https://img.foresightnews.pro/202303/cea51aad11fc63a828ba93cd6763c66f.png?x-oss-process=style/scale70)生物特性的重要性
+
+  
+
+
+Trach 和 Kevin 谈及生物特性的重要性，指出当前的问题远远超过了一个人能解决的范畴，需要群策群力。同时，人类社会的决策过程依靠模拟电子计算、机器人这些元件的简单决策模式也是不可行的。就像 Xerox PARC 创始人（普适计算 ubiquitous computing 的发明者）所说，人走进森林散步会感到平静，而用计算机去模拟森林，得到的是混乱，因为数据量过于庞大。**人的生理特性就注定其与计算机拥有不同的进化之路（pathways），决策必须依靠每个微小个体（minimal viable）做出贡献。**
+
+  
+
+
+![](https://img.foresightnews.pro/202303/cea51aad11fc63a828ba93cd6763c66f.png?x-oss-process=style/scale70)迅速进化
+
+  
+
+
+Kevin 进一步追问如何能够迅速向更加高阶的社会决策模式发展（advanced strategies），而不是受制于简单决策或是对抗决策这样容易实现的（low hanging fruit）模式？当然，进化肯定会是多元的而不是单一方向的。
+
+Trach 的首个想法是**人注定是多样的，那么最理想的决策模式就注定不是一种完美主义的模式，而是照顾到每个人的想法、人人皆能有所贡献的模式**，从而让每个人都能从他们的角度出发做好事儿（do something good）。
+
+Trach 又指出他的一条原则就是每当他思考自己要做什么时，会想想自己到底想要什么，对什么最感兴趣（desire），而**DAO 中的一个重要改变就是人们不再指导别人应该去做什么，而是每个人自发去做自己想做之事**。Kevin 拿四圆模型举例，模型的中心区域就是 DAO 模式之下人们要做之事：
+
+![](https://img.foresightnews.pro/202303/3343f5eed16406203aa359ca3cc4268c.png?x-oss-process=style/scale70)  
+
+
+Trach 指出，如果总去想人类世界的危机或是需要改正之处，这种情绪会让人无法承受（overwhelming），人们总会把自己心中的恐惧投影（project）到别的事物或者他人之上，这让人觉得改正某些事儿就能很容易地消除恐惧，但这样做正是人们痛苦（suffering）的根源。**人们应将停止受这种“改正”之欲望的摆布，而想着要去改正世间种种，而应首先为自己的行为负责，并满足自己所需。**如果能做到这些，也不需要什么科技（去实现未来的理想决策模式了）。
+
+  
+
+
+![](https://img.foresightnews.pro/202303/cea51aad11fc63a828ba93cd6763c66f.png?x-oss-process=style/scale70)未来理想世界之展望
+
+  
+
+
+Trach 认为**过去人们的劳动史非常糟糕，总是被迫去工作**，不论是工业时代被时钟安排着做工，或是现代（信息时代）被工作守则（work ethic）与金钱驱使去做自己不愿之事，**在未来的理想世界之中，这些会统统不复存在，人们可以自由地安排自己的工作量，真正听从自己的内心与天赋**，为社区（community）做贡献，同时被同伴们认可，亦不用焦虑金钱。
+
+Kevin 继续问道，如果人们现在想要开始加入 DAO，应该怎么做？Trach 指出可以从自己所处之社区做起，不要将其视作解决一道方程题，而是**感受自己心之所想，即“靠身体思考而不是大脑（get out of your head and get into your body）”**。从自己过去做的事或者接触的人中找寻线索，找到自己被触动的点。这与过去人们被训练出的为了回报做事的思维完全不同，因此**也要做好努力而没有回报的预期。**那么，该如何降低努力而没有回报的风险呢？Kevin 表示他自己会广撒网，同时投入在 5-6 个项目里，这样才能系统性地降低风险。Trach 表示从这个角度看我们很幸运，能有足够的自由和教育水平投入到自己真正的兴趣中去，所以更应该积极发声（create signposts），触达到更多不满足于传统的朝九晚五的工作的同伴。
+
+  
+
+
+  
+
+
+✨ 订阅《GreenPill》播客✨
+
+https://availableon.com/greenpill
+
+🟢 本期播客油管链接  🟢
+
+https://youtu.be/L54lcwjUYzM
+
+  
+
+
+![](https://img.foresightnews.pro/202303/15873638fd24ac8e8d17b6b22d63c990.png?x-oss-process=style/scale70)  
+
+
+![](https://img.foresightnews.pro/202303/cea51aad11fc63a828ba93cd6763c66f.png?x-oss-process=style/scale70)共建者招募
+
+作为在 GreenPill 中文社区立项的 Workstream，《GreenPill 播客共学》采用共创形式，鼓励更多人能够 Get involved。具体来说，我们招募以下角色：
+
+**课代表**
+
+* 听播客，产出听后笔记并在 GreenPill 中文社区媒体账号发布。
+* 要的不是翻译！而是内容理解的基础上，进行拓展和总结。
+* 在共学会上分享自己的笔记以及理解。
+* 根据播客时长发放 Bounty，每分钟 3 USDT。
+
+**排版员**
+
+* 基于课代表产出内容、栏目信息进行排版。
+* 每篇 15 USDT。
+**如果你对以上角色感兴趣，欢迎到我们的 Dework 页面报名：**https://app.dework.xyz/greenpill
+
+如果你对我们这个 Worktream 感兴趣，请复制打开我们的 Notion 页面：
+
+https://greenpillcn.notion.site/GreenPill-62cbfc461cb44fd0a55f62a8104928bc
+
+  
+
+
+我们的相关输出内容将持续在 GreenPill 中文社区相关媒体平台上发布，请持续关注
+
+  
+
+
+  
+
+
+  
+
+
+![](https://img.foresightnews.pro/202303/cea51aad11fc63a828ba93cd6763c66f.png?x-oss-process=style/scale70)栏目历史文章  
+
+
+[《GreenPill》播客共学发刊词与建设者招募](http://mp.weixin.qq.com/s?__biz=Mzg4MjgzMDUxNQ==&mid=2247483897&idx=1&sn=b49c697c96ab3a3fb23ec9bc0ca2d192&chksm=cf51fc25f82675337aa9eb53be14743f4f674620a648d01180545b0b35524724f8b730e16986&scene=21#wechat_redirect)  
+
+
+[Kevin Owocki：我要做《GreenPill》播客！](http://mp.weixin.qq.com/s?__biz=Mzg4MjgzMDUxNQ==&mid=2247483928&idx=1&sn=5985607e2c63361ff51be9f3aa935a8e&chksm=cf51ffc4f82676d2e6e13f47667745fc215b377805c3d3d5955431e9fb44da8065d55f5ca2a7&scene=21#wechat_redirect)  
+
+
+[加密技术是否增益世界？——Owocki & David Hoffman & Juan Benet](http://mp.weixin.qq.com/s?__biz=Mzg4MjgzMDUxNQ==&mid=2247483968&idx=1&sn=2343915d84f004264db1c4e9d611cc31&chksm=cf51ff9cf826768a386354c4df5d65a89b3eabba9101ee1a802cfbb044641b1d126cd9ae7699&scene=21#wechat_redirect)  
+
+
+[以 NFT 协作社会事业，DoinGud 但行](http://mp.weixin.qq.com/s?__biz=Mzg4MjgzMDUxNQ==&mid=2247483986&idx=1&sn=579422eb9127dba3b75363c4a07bbc55&chksm=cf51ff8ef82676980e56351a1e62c405f12c9e3e8875d61eae7ca1eee9f467e61b152fe01e4b&scene=21#wechat_redirect)  
+
+
+  
+
+
+  
+
+
+  
+
+
+![](https://img.foresightnews.pro/202303/cea51aad11fc63a828ba93cd6763c66f.png?x-oss-process=style/scale70)关于 GreenPill 中文社区
+
+Greenpill CN is a public sphere where a collective of Commons Builders explore Crypto Thought together.
+
+  
+
+
+GreenPill 中文社区是一群受 GreenPill 思想影响和感召的 Web3 爱好者、社会建设者和互联网公民自发组织的公益性社区。社区旨在建立探索公共物品治理的跨组织协作架构，在 ImpactDAOs、社区间建立桥梁，共同探讨前沿理念，传播与践行 GreenPill 可再生经济学，改进协调失灵，重塑健康生态。GreenPill 中文社区已组织了 GreenPill 等书的翻译以及读书会，目前正在筹备聚焦去中心化社会内各领域的 DeSoc 20 讲分享会、面向内外的英文播客 DAOTalk、DAOTech 公共技术分享 / 视频等，期望通过栏目链接更多的节点，创造对外价值。
+
+  
+
+
+Discord : https://discord.gg/3vkuahA6
+
+Notion : https://greenpillcn.notion.site
+

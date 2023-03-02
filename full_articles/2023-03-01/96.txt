@@ -1,0 +1,119 @@
+![](https://img.foresightnews.pro/202303/46b26cae858a04b05c25bc9739d3d89f.png?x-oss-process=style/scale70)  
+
+
+  
+
+
+![](https://img.foresightnews.pro/202303/d272d58e234990e77839a6ffb60618de.svg?x-oss-process=style/scale70)**技术开发**
+
+  
+
+
+![](https://img.foresightnews.pro/202303/8b39bb52c0c718c3f4f58d37a6cd23a9.png?x-oss-process=style/scale70)**Dapp 1.7.1**
+
+* 上线 Mangata 资产跨链
+* SALP 增加开启倒计时
+* 优化主导航，收纳部分低频功能
+  
+
+
+![](https://img.foresightnews.pro/202303/8b39bb52c0c718c3f4f58d37a6cd23a9.png?x-oss-process=style/scale70)**Dapp 1.7.2**
+
+* vToken 综合收益算法优化展示更为符合真实收益
+* 新增资产转账二次确认，避免误操作
+* BNC 转账时增加对 Bifrost 两个网络的区分提示
+* Dashboard 资产 icon 不再展示 LP token 展示更简洁
+* 上线 Rainbow Boost 5.0 活动
+* 集成 MOVR & GLMR 直接连接钱包进行资产跨入
+  
+
+
+  
+
+
+![](https://img.foresightnews.pro/202303/2e0001641176198a65ffc1624e17bf3e.svg?x-oss-process=style/scale70)**产品进展**
+
+  
+
+
+* 流动性衍生品方面，vDOT 总铸造价值 (TVL) 突破 $2,000,000；vGLMR 总铸造量 (TVM) 突破 1,000,000 枚。**本月 Bifrost 总 TVL：$63,450,483。**
+* Bifrost Dapp 新增 $MOVR 一站式跨链功能，用户可直接在 bifrost.app/wallet 中操作 $MOVR 的跨入与跨出，无需连接 Moonriver App 执行到 Bifrost 的跨链操作。
+* XCM-Action 模块已完成第一阶段本地测试，可支持 Pallet 到 EVM contract 的远端 vToken 铸造与兑换 (Swap)，将在后续版本中加入 vToken 的赎回功能。
+* MangataX DEX 已上线 vKSM-KSM 流动性池，用户可在 Bifrost Dapp Wallet 中操作跨链，在 MangataX 中提供流动性并参与 Farming。教程参考：  
+https://twitter.com/BifrostFinance/status/1625525466328170499?s=20
+* Bifrost 正在与 Filecoin Storage Provider 进行 vFIL (Voucher Filecoin) 的后端联调测试；Bifrost Dapp 正在对 Substrate 与 Filecoin 的地址绑定进行生产测试。完整功能将与 vFIL 同步上线。
+  
+
+
+  
+
+
+![](https://img.foresightnews.pro/202303/39ff48f426adf588dc4a6a9814129100.svg?x-oss-process=style/scale70)**市场运营**
+
+  
+
+
+* 2 月 3 日 - 2 月 6 日，vsKSM/KSM 和 vKSM/KSM farming 池分别上线 Mangata DEX，这将有益于扩大 vToken 群体，目前 farming 仍在进行中，持有 vKSM 和 vsKSM 的小伙伴可以参与  
+https://app.mangata.finance
+* 2 月 3 日， [Rainbow Boost 5.0 上线](http://mp.weixin.qq.com/s?__biz=MzIyODk1OTIyMw==&mid=2247507493&idx=1&sn=042c1efe9af28879b47721f39bf79e8d&chksm=e84b68bddf3ce1ab30931296be9ea457c60385c7d59661c35264595794354257357e13d9a337&scene=21#wechat_redirect)，开启**为期 28 天的铸造激励活动将于 3 月 3 日 18 点结束。**目前，活动仅剩 3 天结束，活动结束后将不再享受铸造积分获得，**BNC 奖励排名将在 3 月 3 日 18 点快照。**
+* 2 月 13 日，自第 3 轮 vsToken (BNC) 治理赎回以来，我们收到了 1 个治理赎回请求。本次治理将销毁对应地址的 vsToken，并将相应数量的 KSM 从金库转移到对应的销毁地址。
+
+https://twitter.com/BifrostFinance/status/1625072432779345920
+
+  
+
+
+* 2 月 15 日，Bifrost 发布 NFT Back To Asgard 路线图，预计 Back to Asgard NFT 网站最快将于 4 月初上线，届时小伙伴可通过网站查询自己的 NFT 白名单状态。
+
+https://twitter.com/BifrostFinance/status/1625820839248646144
+
+  
+
+
+* 2 月 24 日， Bifrost 和 Equilibrium 之间的 HRMP 通道已经在 Polkadot 生态上开通。未来，双方的链上资产将很快在两条平行链上开启互跨。
+
+https://twitter.com/BifrostFinance/status/1629089155316695040
+  
+
+
+  
+
+
+![](https://img.foresightnews.pro/202303/03a56bd25c98c40cac1e8e0e540b54db.svg?x-oss-process=style/scale70)  
+
+
+  
+
+
+![](https://img.foresightnews.pro/202303/8b39bb52c0c718c3f4f58d37a6cd23a9.png?x-oss-process=style/scale70)**Bifrost 是什么？**
+
+  
+
+
+Bifrost 是一个为 Staking 提供跨链流动性的 **Web 3.0 基础设施**，通过**跨链通信协议（XCMP）**为多链提供**去中心化**、可跨链的 **L****iquid Staking** 服务。
+
+  
+
+
+Bifrost 的使命是通过跨链衍生品来聚合超过 80% PoS 共识链的 Staking 流动性，为波卡中继链、平行链，以及与波卡桥接的异构公链提供标准化可跨链的**带息衍生品**，降低用户 Staking 门槛、提升多链质押比例、提高生态应用收益基础，打造**用户、多链、生态应用**三方赋能、正向循环的 **StakeFi 生态**。
+
+  
+
+
+目前 Bifrost 已获得 **NGC、SNZ、DFG、CMS** 等机构数百万美金融资和 Web3 基金会 Grant，同时也是 **Substrate Builders Program、Web3 Bootcamp** 成员。
+
+  
+
+
+![](https://img.foresightnews.pro/202303/8b39bb52c0c718c3f4f58d37a6cd23a9.png?x-oss-process=style/scale70)**往期文章**
+
+[![](https://img.foresightnews.pro/202303/1a2408fb3a7dd99731260a4527d24331.png?x-oss-process=style/scale70)](https://mp.weixin.qq.com/s?__biz=MzIyODk1OTIyMw==&mid=2247499788&idx=1&sn=84f4aa9b2de6b626c518626612bb1519&scene=21#wechat_redirect "https://mp.weixin.qq.com/s?__biz=MzIyODk1OTIyMw==&mid=2247499788&idx=1&sn=84f4aa9b2de6b626c518626612bb1519&scene=21#wechat_redirect")[![](https://img.foresightnews.pro/202303/42beecd7ad86481689020ea513aa4e4f.png?x-oss-process=style/scale70)](https://mp.weixin.qq.com/s?__biz=MzIyODk1OTIyMw==&mid=2247498502&idx=1&sn=aa8f38d8f98fba1c0567df56969ebaec&scene=21#wechat_redirect "https://mp.weixin.qq.com/s?__biz=MzIyODk1OTIyMw==&mid=2247498502&idx=1&sn=aa8f38d8f98fba1c0567df56969ebaec&scene=21#wechat_redirect")[![](https://img.foresightnews.pro/202303/f41c3273c8d77b88081132d47c6f2d07.png?x-oss-process=style/scale70)](https://mp.weixin.qq.com/s?__biz=MzIyODk1OTIyMw==&mid=2247494958&idx=2&sn=4f64dc3bd41aaa38b932739ded89efa1&scene=21#wechat_redirect "https://mp.weixin.qq.com/s?__biz=MzIyODk1OTIyMw==&mid=2247494958&idx=2&sn=4f64dc3bd41aaa38b932739ded89efa1&scene=21#wechat_redirect")![](https://img.foresightnews.pro/202303/6af0dcd25eb4906c96d53337ad26edca.gif?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/0e55c6f5c2b40620df6cb98c762dee8b.gif?x-oss-process=style/scale70)**官网** https://bifrost.finance
+
+**白皮书** https://whitepaper.bifrost.finance
+
+**Github**https://github.com/bifrost-finance
+
+**Twitter**  https://twitter.com/bifrost\_finance
+
+**Telegram** https://t.me/bifrost\_finance
+

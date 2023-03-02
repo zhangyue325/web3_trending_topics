@@ -1,0 +1,76 @@
+![](https://img.foresightnews.pro/202303/0cd521fd2ef50dec0973f33a983f58a7.png?x-oss-process=style/scale70)BitKeep NFT 市场现已支持 Arbitrum 生态 NFT 交易，为了回馈 BitKeep NFT 用户，BitKeep 于 3 月 1 日推出为期 2 周的 Arbitrum 链上 NFT 交易奖励活动，大家通过 BitKeep NFT 市场挂单或交易 Arbitrum 链上 NFT，即有机会赢取 50,000USDT 奖池，NFT 盲盒以及 $BKB 空投等三重福利！
+
+### 活动一：免手续费交易 Arbitrum NFT
+
+活动时间：2 月 18 日 – 8 月 17 日
+
+为全力支持 Arbitrum 生态发展，BitKeep NFT 市场现已开启为期 6 个月的 Arbitrum 链 0 手续费交易活动，并帮助大家 0 成本体验 Arbitrum 生态。
+
+### 活动二：Arbitrum 链上 NFT 挂单 基础活动：
+
+活动时间：3 月 1 日 – 3 月 15 日  
+活动规则如下：  
+活动期间，在 BitKeep NFT Market 挂单 Arbitrum 链上任意 NFT，即可获得 5GasU 作为奖励。  
+**注意：每人仅限领取一次。**
+
+
+
+|  |  |
+| --- | --- |
+| 参与内容 | 奖励金额 |
+| 挂单 Arbitrum 链上任意 NFT | 5GasU/ 每人 **( 可抵扣交易 5-10 次的 Gas 费用 )** |
+
+奖励发放规则：
+
+1. 每天 500GasU 的奖池发放，先到先得，发完为止。
+2. **GasU 的发放需要用户提前激活云钱包。活动结束后 7 个工作日内统一发放。**   
+云钱包激活和 GasU 的使用教程请参考以下链接：<https://study.bitkeep.com/zh/?ht_kb=how-to-claim-and-use-gasu>
+### 活动三：Arbitrum 链上 NFT 挂单 进阶活动：
+
+活动时间：3 月 1 日 – 3 月 15 日  
+活动规则：  
+活动期间，BitKeep NFT Market 将推出“用户忠诚度”等级，将根据用户挂单数量、质量（对比同一合集的全网地板价）和交易数量进行排名，并设置黄金、白银、青铜三个等级。每个等级对应单独的奖金池，等级越高、奖金池越丰厚。  
+**请注意：本轮奖励要求挂单和交易的 NFT 必须为下表中的合集。**
+
+
+
+|  |  |
+| --- | --- |
+| Bridgeworld Legions | SPACE ID .arb Name Service |
+| Bridgeworld Keys | Smol Cars |
+| The Beacon | Smol Bodies |
+| Battlefly | Smol Brains |
+| Realm (REALMVERSE) | OreoChads |
+| Government Toucans | The High Roulers |
+| The High Roulers | Tour de Berance |
+| Treasures | Primapes |
+| GMX Blueberry Club | MetaLine-MysteryBox |
+| Tales of Elleria – Heroes | Arbitrum Odyssey NFT |
+
+
+
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| **用户等级** | **挂单质量** | **交易非本人挂单最少次数** | **挂单总次数要求** | **奖励名额** | **总奖金池** |
+| 黄金 | 挂单价格≤ 1.2\* 全网地板价均值 | 3 | >5 | 100 | 10,000 GASU 空投奖励金 + 10,000 BKB 奖池 + 3 个 Treasure Box NFT 限定盲盒 |
+| 白银 | / | 2 | 3-5 | 500 | 10,000 GASU 空投奖励金 + 1,000 BKB 奖池 |
+| 青铜 | / | 1 | 1-2 | 1000 | 5,000 GASU 空投奖励金 |
+
+参与挂单活动并达到各等级挂单、交易要求的用户，将有机会瓜分该等级的奖金池。各等级的发放规则如下：
+
+* 进入青铜等级的用户将获得 1-5 GASU 不等的空投奖励金；  
+**总奖池为：5,000 GASU；**
+* 进入白银等级的用户将获得 10-20 GASU 不等的空投奖励金以及 1-3 BKB；  
+**总奖池为：10,000 GASU + 1000 BKB ；**
+* 进入黄金等级的用户将获得 50-100 GASU 不等的空投奖励金以及 50-100 BKB, 还有机会参与 NFT 盲盒抽奖，赢取限定版 Treasure Box 盲盒；  
+**总奖池为：10,000 GASU 空投奖励金 + 10,000 BKB + 3 个 Treasure Box NFT 限定盲盒；**
+  
+BitKeep 拥有对此次活动的最终解释权，**如遇到同设备、同 IP 刷单客户，将取消奖励发放资格。**
+
+欢迎大家下载最新版 BitKeep 参与活动赢取 USDT+NFT 盲盒 +BKB 多重奖励！   
+【中国区】：<https://bitkeep.io/>   
+【海外区】：[https://bitkeep.com/](https://bitkeep.io/)
+
+  
+联系我们：[官网](https://bitkeep.com/)︱[Twitter](https://twitter.com/BitKeepOS)︱[Telegram](https://t.me/bitkeep)︱[Discord](https://discord.com/invite/gUQB7gUarR)︱[Youtube](https://www.youtube.com/channel/UCD2S03RS-Q08VdJqZpuOCFQ)︱[FaceBook](https://www.facebook.com/BitKeep/)︱[Instagram](https://www.instagram.com/bitkeep_global/)
+

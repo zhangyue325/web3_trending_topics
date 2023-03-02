@@ -1,0 +1,89 @@
+**🌶 一周热点****Coinbase 推出基于 OP 的以太坊 L2 网络 Base**  
+Coinbase 宣布推出以太坊 L2 网络 Base 测试网。据悉，Base 基于 OP Stack 构建并与 Optimism 合作，是一个安全、低成本、开发人员友好的以太坊 L2，旨在为 Web3 引入下一个十亿用户。Base 将定位为 Coinbase 的链上产品家园，也是任何人都可以构建的开放生态系统。Base 主网将稍后发布。  
+![](https://img.foresightnews.pro/202303/b94d75be5432ff909766c4493924b172.png?x-oss-process=style/scale70)  
+情报员评论: 压力来到 ARB 上面了情报员 033：iguana情报来源：https://www.coinbase.com/blog/introducing-base  
+
+
+---
+
+**币安将销毁 BNB 链上 20 亿美元的闲置 BUSD**币安官方在推特上表示，今天晚些时候，币安将在 BNB Chain 上销毁价值 20 亿美元的闲置 BUSD，然后将释放以太坊网络上用作抵押品的相同数量的 BUSD。  
+![](https://img.foresightnews.pro/202303/6b5ff31646b3e90e7cd9e7619a0f7721.png?x-oss-process=style/scale70)  
+情报员评论: Paxos 这雷可能有点大情报员 033：iguana情报来源：https://twitter.com/binance/status/1628365742650294278  
+
+
+---
+
+**麻吉在 Blur 上接盘 71 只 BAYC**2 月 22 日，NFT 项目 rektguy 创始人 Mando 的地址（0xC8...36e8）在半小时内在 Blur 以约 78 ETH 的均价抛售 71 个 BAYC，以 16.3 ETH 的均价抛售 11 个 MAYC，以 15.14 ETH 的均价抛售 7 个 Azuki，附加几十个 Otherside 和 Beanz。这笔在 10 秒内成交的订单吸引了众人围观，毕竟谁不好奇会是哪个倒霉蛋呢。。根据链上信息以及 Blur 上的交易数据，发现这笔抛售交易的接盘者竟是麻吉大哥的钱包地址（0X020...5872）。  
+![](https://img.foresightnews.pro/202303/d0699c6eb21d792b74bf4d4caedec56c.png?x-oss-process=style/scale70)  
+情报员评论: 你笑大哥哭，大哥笑你穷情报员 033：iguana情报来源：https://www.odaily.news/post/5185257  
+
+
+---
+
+  
+**🌶 以太嬉皮论****下一轮牛市将从东方开始？** Gemini 联合创始人 Cameron Winklevoss 发推称，下一轮牛市将从东方开始，这将提示人们，“加密货币是一种全球资产类别。”而西方，实际上是美国，只有两个选择：要么接受、要么被抛在后面。不提供明确规则和真诚指导的政府将错过自商业互联网兴起以来最伟大的增长时期，也将错过塑造和成为这个世界（及以后）未来金融基础设施的基础部分的机会。  
+![](https://img.foresightnews.pro/202303/b7705bcf859624dba660b7cbe7704cf0.png?x-oss-process=style/scale70)  
+情报员评论：国人要注意了，下一波韭菜将从东方开割。情报员 008：Ganppns#1589情报来源：https://twitter.com/cameron/status/1627352859216949248  
+
+
+---
+
+**Sui Network 正在招募 Testnet Wave 3 验证者**  
+Layer1 公链 Sui Network 宣布已开启 Testnet Wave 3 验证者申请，申请将于太平洋标准时间 2 月 27 日 23:59（北京时间 2 月 28 日 15:59）截止。  
+![](https://img.foresightnews.pro/202303/a20a0052706a4bee95cbba7df9629b42.png?x-oss-process=style/scale70)情报员评论: 又是批量暴富？情报员 033：iguana情报来源：https://twitter.com/SuiNetwork/status/1628524397874278400  
+
+
+---
+
+  
+**🌶NFT****Coinbase：不会退出 NFT 项目**  
+在发布新一季财报后，Coinbase 在与投资者和分析师的最新财报电话会议上回答了一系列有关公司健康状况的问题，其中包括 Coinbase NFT 平台损失了多少资金、是否有减少亏损的计划、以及 Coinbase NFT 市场份额等，此外，加密货币交易所 Coinbase 表示不会退出其 NFT 项目。过去一周，Coinbase NFT 销售仅为 41 笔，而交易量不到 3 枚 ETH（约 4900 美元）。  
+![](https://img.foresightnews.pro/202303/4c528b13654acc0347ce89a303950cc2.png?x-oss-process=style/scale70)  
+情报员评论: NFT 市场赢者通吃的时代正在到来情报员 033：iguana情报来源：https://decrypt.co/121940/coinbase-not-giving-up-on-nft-marketplace-despite-low-volume  
+
+
+---
+
+  
+**以 ETH 计价最高的 NFT：MechMind #7689 以 12.5 万 ETH 的价格成交** 据数据显示，MechMind #7689 于 21 日 3 时 18 分以 12.5 万 ETH 的价格在 Opensea 上成交，成为以 ETH 计价有史以来成交价最高的 NFT。目前，该 NFT 地板价仅为 0.06 ETH。情报员评论：难以理解的图片，不可思议的价格，加密艺术已经颠覆了传统艺术价值体系吗？  
+![](https://img.foresightnews.pro/202303/41256a2b466b8fcd1b340345aaa70dcb.png?x-oss-process=style/scale70)  
+情报员 008：Ganppns#1589情报来源：https://opensea.io/collection/mechminds  
+
+
+---
+
+  
+**🌶WEB3**  
+**加密艺术家 Beeple 发布 Yuga Labs 元宇宙新作品“Otherside”**  
+ 加密艺术家 Beeple 在社交媒体发布与 Yuga Labs 元宇宙相关的全新作品“Otherside”，其中展示了“无聊猿”BAYC 的吉祥物 Curtis 眺望未来城市，整个城镇的广告牌上都是各种 NFT，在 Beeple 对 The Otherside 作品的解释中，广告牌上的 NFT 项目包括 Cryptodickbutts、Mutant Apes、CoolCats、Nouns、World Of Women、Meebits、CryptoPunks 和 Toadz，大部分来自 Yuga Labs 在 2022 年 3 月第一部 Otherside 预告片中列出的 NFT 系列。 此前，Beeple 创作的 NFT 作品《Everydays: The First 5000 Days》以约 6930 万美元（42329.453 ETH）成功竞拍，创下迄今为止数字艺术拍卖最高记录。  
+![](https://img.foresightnews.pro/202303/e7ec34fa40a8d72d591f91a2895eec2a.png?x-oss-process=style/scale70)情报员评论：加密艺术大神的新作！情报员 008：Ganppns#1589情报来源：https://twitter.com/beeple/status/1626851617621544961  
+
+
+---
+
+  
+**👿 其他****美 SEC 反对 Binance.US 收购 Voyager 交易**  
+Binance.US 斥资 10.2 亿美元收购已倒闭的加密贷款商 Voyager 的资产的交易遭到了纽约和联邦金融监管机构的反对。SEC 表示，鉴于该计划设想如何偿还 Voyager 的前客户，拟议的 Binance.US-Voyager 交易的内容也可能违反法律。  
+![](https://img.foresightnews.pro/202303/677b53551474608e4023604919da2715.png?x-oss-process=style/scale70)  
+情报员评论: 自从搞倒 FTX，币安四处被锤情报员 033：iguana情报来源：https://www.coinbase.com/blog/introducing-base  
+
+
+---
+
+**Jump Crypto 与 Oasis 协作，成功盗回被黑的 12 万枚 ETH**Jump Crypto 和 Oasis 合作，逆向攻击了一个可升级的 Oasis 合约，从最初 Wormhole 攻击者的金库中获得被盗资金。就在一年多以前（2022 年 2 月 3 日），Wormhole 跨链桥遭到黑客攻击，成为加密行业最大规模的安全事件之一。总共有大约 12 万枚 ETH 被盗，当时价值高达 3.25 亿美元。不过该行为也在社区引起很大争议。  
+![](https://img.foresightnews.pro/202303/ad66683834efdf00835380b4cecd5240.png?x-oss-process=style/scale70)  
+情报员评论: 一个系统如果保护不了坏人的钱，那么它也保护不了任何人的钱情报员 033：iguana情报来源：https://www.blockworksresearch.com/research/we-do-a-little-counter-exploit  
+
+
+---
+
+**🌶 社区分享精选**https://www.xiaoyuzhoufm.com/episode/6385535ad3a5286ded648c4e?s=eyJ1IjoiNjM4OGE2N2JlZGNlNjcxMDRhZDAxYWViIn0%3Dhttps://0xbanklesscn.substack.com/p/banklesscn?utm\_source=post-email-title&publication\_id=536843&post\_id=104353875&isFreemail=true&utm\_medium=emailhttps://permadao.notion.site/ArNostr-Relay-a8ec3c8b1aac45149579355242177ba9 
+
+---
+
+### 
+
+### **关于 DAOSquare 加密情报**
+
+  
+DAOSquare  加密情报是由 Typto 策划，DAOSquare 出品的一份专注于加密世界的周报。我们希望将加密世界那些有趣的东西  ( 而非千篇一律的热点新闻 )  呈现给大家。同时，我们也希望帮助更多还未进入甚至还不知道加密世界的人了解这个新兴的，正在成为主流，并且充满机遇的世界。欢迎加入 DAOSquare 社区，让我们一起提前进入未来！DAOSquare 起源于西方著名以太坊社区 MetaCartel，DAOSquare 的使命是构建属于 Web3 时代的孵化器，从而更好地帮助这个时代的创新者从 0 到 1 并走向成功，正如互联网时代的 Y·Combinator 一样。Website: [https://daosquare.io]Twitter: [https://twitter.com/DAOSquare]Discord: [https://discord.gg/daosquare]Forum: [https://forum.daosquare.io]Media: [https://dao2.muse.lol]

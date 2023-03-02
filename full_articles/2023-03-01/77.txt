@@ -1,0 +1,43 @@
+### PlatON Monthly Report — February
+
+![](https://img.foresightnews.pro/202303/7e9763fdb0bb2e8711e48809c1797b1b.jpeg?x-oss-process=style/scale70)1. PlatON 1.3.2 DevNet has been verified and is now available for download;
+
+2. PlatON 1.4.0 has been developed, and the testing environment is being tested; version updates: the new version supports the Map light-client protocol and unprotected transactions;
+
+3. The optimized version of Platscan-v1.1.7 has been developed; the version is syncing with the mainnet data and is under verification.
+
+[Web3 Global Start-up Competition HAPathon 2023 Open for Submissions]
+
+Web3 Global Startup Contest HAPathon 2023, a joint initiative of Alibaba Cloud, HashKey Group, and PlatON, is now open for submissions.
+
+Cyberport, co-organizer of the competition, will provide 3 winning teams with a fast track for the Cyberport Creative Micro Fund (CCMF) or Cyberport Incubation (CIP) program, fast-forwarding the eligible winners to the project review stage. Cyberport will decide which program applies (CCMF or CIP), and the winning teams may use the fast track to make one application within one year after the competition.
+
+Click here to sign up for the event: <https://survey.aliyun.com/apps/zhiliao/eKb7XOFAJ>
+
+![](https://img.foresightnews.pro/202303/3a70c5914d0f6794ab84bdf1c2426dd2.png?x-oss-process=style/scale70)[PlatON Partners up With Web3 Ecosystem USMVerse]
+
+RACA (USM.WORLD) is a Web3 ecosystem initiated by Maye Musk NFT Dog community. Within 9 months, the project recorded over 3.7 million BNB in trading volume, which is worth $2 billion, from Maye Musk NFTs and derivative NFTs, including game characters and virtual lands.
+
+![](https://img.foresightnews.pro/202303/cb0c823de910fb1711e49b7fafe6be39.png?x-oss-process=style/scale70)[MixMarvel Reaches Strategic Partnership with PlatON Project NiftyIN]
+
+Blockchain content incubation platform and creator community MixMarvelhas announced a strategic partnership with NiftyIN in fields covering GameFi and NFT. In the initial stage of the partnership, the two will work together on NFTs in Web3 games such as DeHeroGame and MetaCene.
+
+[Smart Contract Wallet Solution UniPass Reaches Partnership With PlatON Project NiftyIN]
+
+UniPass Wallet is a smart contract wallet solution that supports on-chain Email social recovery. Using UniPass Wallet, developers can provide a seedless, gasless user experience familiar to Web2 users, significantly increasing the conversion rate.
+
+[Particle Network Reaches Partnership With NiftyIN to Create a Smart Platform for Generating NFTs and Empowering GameFi]
+
+Particle Network has announced its partnership with NiftyIN to create a smart platform for generating NFTs and empowering GameFi. Particle Network is a full-stack, data-driven, and composable Web3 data and development platform.
+
+[PlatON Project NiftyIN Teams up With Decentralized Identity Domain Name Aggregator JAZ DID]
+
+JazDID is a decentralized identity Domain name aggregator. Users can use .bab as their DID on all BNB Chain Dapps, .bab will be resolvable on multiple chains.
+
+[Ms-meta.HK to Actively Use NiftyIN as Its NFT Tool Platform to Build a Parallel Crypto World in Hong Kong]
+
+Ms-meta.HK has announced its plan to join forces with PlatON, Alibaba Cloud, and Cyberport in the booming Metaverse market and adopt NiftyIN extensively as its NFT tool platform for building a parallel crypto world in Hong Kong. Ms-meta.HK strives to build a one-stop crypto Hong Kong by combining DID, NFT, and GameFi.
+
+As we celebrated Valentine’s Day on February 14, PlatON and NiftyIN co-hosted the “Record Your Love on Blockchain Forever” mystery box event, offering exclusive rose NFTs.
+
+![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=2b4e71b7903)
