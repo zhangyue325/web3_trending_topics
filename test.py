@@ -1,8 +1,13 @@
-import wechatsogou
-import ddddocr
+import pandas as pd
+import matplotlib.pyplot as plt
 
-OCR = ddddocr.DdddOcr(ocr=True, show_ad=False, use_gpu=True, old=True,beta=True)
+df = pd.read_csv(r"trending_articles\2023-02-28.csv")
 
-ws_api = wechatsogou.WechatSogouAPI()
-data = ws_api.get_gzh_article_by_history("六维数据")
-print(data)
+
+hour = df["post_date"].str[11:13].value_counts().sort_index()
+
+x = hour.index.tolist()
+y = hour.values.tolist()
+
+plt.bar(x, y)
+plt.show()
