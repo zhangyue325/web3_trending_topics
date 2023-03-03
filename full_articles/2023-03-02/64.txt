@@ -1,0 +1,228 @@
+![](https://img.foresightnews.pro/202303/92b4394cee91cca04d9da05aa31c6ff1.png?x-oss-process=style/scale70)本研究将介绍三个目前在衍生品领域中的王者：dYdX、GMX 和 SNX。我们将会探讨每个项目的基本概况、重要数据以及代币经济学。
+
+### dYdX
+
+#### 一. 基本概况
+
+dYdX 是一个基于 Ethereum 的去中心化订单簿式衍生品合约交易所，项目成立于 2017 年 8 月。
+
+dYdX 自 2017 年以来已经进行了四轮融资，共筹集 8700 万美元，投资名单里包括 A16Z、Paradigm、Polychain Capital、Kronos 等，资方阵容较强，项目发展资金充足。
+
+#### 二. 项目团队
+
+#### 三. 项目详解
+
+1. **发展历程**
+![](https://img.foresightnews.pro/202303/48b4af536b175d4fd963ce56af8b6f4d.png?x-oss-process=style/scale70)* 相比建立在 L1 上的早期版本，建立在 L2 提供了更低的交易费用、更好的交易性能、更高的杠杆率（4x-25x）、支持更多的交易对。
+* 交易过程中每一笔订单的成交都会上链，但是下单、挂单并不上链，在 dYdX 服务器上进行，**去中心化程度有限。**
+* 只在存入资金和赎回资金时需要交 gas ，此后的交易过程不需要。
+* 目前正在准备 Cosmos 上的 V4 版本，旨在大幅提升去中心化程度；并将协议产生的交易佣金分配给 dYdX 的持有者。
+* dYdX 支持 8 种不同的订单类型 — — 市价订单、限价订单、止损市价订单、止损限价订单、追踪止损订单、止盈市价订单、止盈限价订单和一篮子订单。
+* 提供最高 20 倍的多空双方交易功能，最小杠杆变动倍率为 0.01。
+* 交易模式。采用订单簿形式，由专业做市商 Wintermute、Altonomy 等提供流动性。
+* 资金费率。资金费率由交易量以及 dYdX 代币持有数量决定。交易量或 dYdX 代币持有量越大，资金费率越低。
+![](https://img.foresightnews.pro/202303/c23cf131a6955cd2ee46639fac5ac09f.png?x-oss-process=style/scale70)* 提供 iOS 端 APP
+* 目前尚未对美国用户提供服务
+将 dYdX 平台上交易的角色分为以下三类：
+
+* 交易挖矿：每个 epoch 最后，dYdX 协议会空投 3835616 枚 dYdX，根据交易者交易产生的手续费与未平仓量来确定每个交易者在每个 epoch 能分到多少奖励。
+* dYdX 交易产生的费用对交易者无分成。
+* 流动性提供者挖矿：每个 epoch 最后，dYdX 协议会空投 115 万枚 dYdX。
+#### 四. 重要数据
+
+1. **运营数据**
+* **交易量：**dYdX 的交易量不断增长。随着当前 epoch 临近结束，dYdX 的交易量会出现激增，可见 dYdX 上的交易者主要是为了交易挖矿而进行交易。年度交易量为 $484.21b，2023 年 2 月 6 日交易量为 854.4M，超过 Uniswap 和 SNX，且目前交易主要以 USD-BTC 和 USD-ETH 为主。
+![](https://img.foresightnews.pro/202303/889db694f0b64bbecb80c579a310b798?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/62aa0b06fd18b4419fb822e74ef942ab?x-oss-process=style/scale70)* **年度费用收入：**$123.59m
+* **未平仓合约：**2023 年 2 月 6 日未平仓合约总量为 315.5M，同样的，未平仓合约主要是 USD-BTC 和 USD-ETH 两个交易对上的未平仓合约。
+![](https://img.foresightnews.pro/202303/c088192bfd65bcfad418a24c035015da?x-oss-process=style/scale70)* TVL：2023 年 2 月 6 日 dYdX 的 TVL 为 $401.39m，在同类型的衍生品协议中排名第二，低于 GMX 的 TVL
+*\* 数据采集至 2022 年 2 月 8 日*
+
+* DYDX 总量为 10 亿枚，将在五年内分配完毕，5 年后将通过治理机制开启每年最高 2% 的通胀。
+* 代币的分配规则可以由 dYdX 持币人通过社区投票修改规则，由于团队持有大量的 dYdX 代币，可以直接确定投票结果。
+* 从 2021 年 8 月 3 日 15:00:00 UTC 开始，每个 epoch 为 28 天。一共有 60 个 epoch，持续时间为 5 年。最初五年 $DYDX 的总供应量分配如下。
+![](https://img.foresightnews.pro/202303/291a2c966c75e32598531a29e9db3a38.png?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/eaee6d8197493425e8c320765de25320?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/9878fa3277da06c980153b0ccd5fdba9?x-oss-process=style/scale70)dYdX 团队初始计划于 dYdX 代币发行 18 个月后（ 2023 年 3 月）对 50% 分配给投资者、公司及基金会的代币进行大规模解锁。但于 2023 年 1 月 25 日，dYdX 基金会宣布该部分初始释放日期推迟至 2023 年 12 月 1 日。
+
+新的解锁方案为：
+
+在 2023 年 12 月 1 日（新的初始解锁日期），解锁 30%；
+
+从 2024 年 1 月 1 日到 2024 年 6 月 1 日，在每个月的第一天，以等额的月度分期支付 40%；
+
+从 2024 年 7 月 1 日至 2025 年 6 月 1 日，在每个月的第一天，以等额方式分期支付 20%；
+
+从 2025 年 7 月 1 日至 2026 年 6 月 1 日，在每个月的第一天，以等额方式分期支付 10%。
+
+![](https://img.foresightnews.pro/202303/4a2e57aee94e1ef673d123a5f881a305?x-oss-process=style/scale70)此次推迟前，dYdX 的价格从 2022 年 11 月 25 日的 $2.5 一直下跌至 2022 年 12.30 日的 $1.0，此后又上升至 2023 年 1 月 25 日的 $1.5，从下图中可以看出，在宣布解锁推迟后，dYdX 的价格不断攀升至 2023 年 2 月 7 日的 $3.1
+
+![](https://img.foresightnews.pro/202303/5856f606811ff9ef940601e0c931d056?x-oss-process=style/scale70)#### 五. 缺陷与风险
+
+* 去中心化程度不足：只有真实交易上链，基础设施提供方 Starkware 并不开源，产品的中心化属性依旧很强。官方显然也注意到了这点，正在搭建 V4，声称其能做到完全的去中心化。
+* V4 的开发进度不能确定，官方此前称会在 2022 年底发布 dYdX V4，至 2023 年 1 月已完成里程碑 2 — 内部测试。
+![](https://img.foresightnews.pro/202303/837175f7666b56e36bdc3c43e850916a?x-oss-process=style/scale70)* V4 版本从以太和到 dYdX 桥接的安全性需要保证
+* 从主网转移到 Cosmos 可能会导致一部分用户流失
+* 性能不足：上链交易的速度与下单与吃单速度不匹配
+* 代币效用：交易手续费不会对 dYdX 持有人分成，目前交易者的交易动机主要为交易挖矿。
+* 代币价格：代币效用不足，导致 dYdX 代币价格持续下降。
+#### 六. 思考与结论
+
+1. 质押池已经不再活跃，dYdX 的整体交易方式更加偏向于 CEX。如今交易量的增长主要是由于交易带来的 dYdX 奖励以及 dYdX 的较低的交易佣金，但是由于获得 dYdX 奖励后，持有 dYdX 无用，交易者会卖出，导致 dYdX 价格持续低下。因此官方也将对投资人、公司员工持有的大量代币的解锁日期从 2023 年 3 月延期到了 2023 年 12 月，意在避免抛压，维持 dYdX 代币的价格。
+2. 选择 Cosmos 是一次确定性（维持现状不会致使用户流失）和产品未来的持续发展间的权衡。但一旦成功，会带来 dYdX 跨里程碑式的发展，同时也会激励更多产品使用 Cosmos。
+3. 想要获得持续增长，dYdX 的代币经济学需要更好的完善。目前的 V4 版本在离开 Starkware 后，交易者可能会得到一部分交易佣金，有助于协议的持续发展。
+### GMX
+
+#### 一. 基本概况
+
+GMX 是 Arbitrum 和 Avalanche 链上的去中心化的永续合约和现货交易所，项目成立于 2021 年 9 月，创始团队在 2020 年创立了以太上的 XVIX 项目，后来创立了 BSC 链上的 Gambit 协议，GMX 是 Gambit 协议的第一次迭代的成果。
+
+#### 二. 项目团队
+
+匿名团队。
+
+#### 三. 项目详解
+
+1. **发展历程**
+![](https://img.foresightnews.pro/202303/0094fef9b6933a2937b311aaf751d2ec.png?x-oss-process=style/scale70)* 对交易可支持 50 倍杠杆
+* 由 GLP 提供流动性，具有显著优于 dYdX 的代币经济学
+* 无滑点交易，GMX 根据 AMM 和预言机混合定价，没有滑点。对于大额交易很友好，并减少了做市商的无常损失
+* 目前已有其他协议可以自由基于 GMX 构建产品，给 GMX 带来更多的流量和需求量
+* 代码开源
+* GMX 有了初步生态应用，如 Vesta Finance、Moremoney、DeCommas、Umami Finance 等 （来源：<https://www.panewslab.com/zh/articledetails/43mbrzzo.html>）
+![](https://img.foresightnews.pro/202303/fec2a23146593c7d183d4a0e4e7a0a4b?x-oss-process=style/scale70)图片来源：<https://rileygmi.substack.com/p/gmx>
+
+* 投资者通过铸造 GLP 为资产池提供流动性，资产池是单一多资产池。
+* 获得 70% 交易费用（ ETH on Arbitrum, AVAX on Avalanche)。
+* GLP 是一个多资产资产池，代币 GLP 的价格随着资产池内资产的价格变化为变化。
+* 质押 GMX，获得 30% 交易费用分成，获得 esGMX\30% 交易费用以及 Multiplier points。
+* esGMX 可以 vest，申请 vest 后，账户内的 GMX 和 esGMX 都会被锁定，处于无法出售的状态，但仍然会产生奖励。esGMX 会在一年的时间内进行线性解锁。锁定的 GMX 可以随时提取，但这一行动将停止 esGMX 的 vest。
+* esGMX 享有投票权。
+* 可以用 GLP 资产池内的资产进行交易，可添加高至 50x 的杠杆。
+* 无论做空 / 做多，都需要支付「Borrow Fee」。
+* 交易费用与当前 GLP 池内资产的价值是否被高估 / 低估有关。
+* GLP 池与交易者是对手方，交易者盈利，GLP pool 会移去盈利部分资产；反之则会增加。GLP 和交易者是零和博弈关系。
+#### 四. 重要数据
+
+1. **运营数据**
+* 2022 年度交易总量：$89.52b
+* 年度费用收入：$175.39m
+* OI：$211m
+* TVL：$540.88m
+* GLP 资产池当前的组成为：40.2% USDC，29.76% ETH，21.1% BTC，3.24% DAI，2.1% FRAX，1.3% USDT，1.23% LINK，1.03% UNI。主要资产为 USDC，其次为 ETH、BTC, 整个池子的波动性会相对减少
+* 交易者净收益 / 损失：在 GMX 中，交易者多数处于亏损状态，也就是说，GLP 池在不断盈利
+* GMX 具有 79% 的质押率（强锁仓机制和较为可观的回报率）
+![](https://img.foresightnews.pro/202303/796b9591fe79053541e2dcfa500576bc.png?x-oss-process=style/scale70)*\* 数据采集至 2022 年 2 月 8 日*
+
+* 6M GMX 给 XVIV、Gambit 迁移者。
+* 2M GMX 在 Uniswap 提供 ETH/GMX 的流动性
+* 2M GMX 留做 esGMX 奖励
+* 2M GMX 归属于底价基金
+* 1M GMX 留给社区合作和推广
+* 0.25M GMX 给团队，2 年线性解锁
+* 每月 100,000 esGMX 代币给 GMX 交易者。
+* 每月向 Arbitrum 的 GLP 持有人提供 100,000 esGMX 代币。
+* 从 2022 年 1 月至 2022 年 3 月，每月向 Avalanche 的 GLP 持有者提供 50,000 esGMX 代币。
+* 从 2022 年 4 月至 2022 年 12 月，每月向 Avalanche 的 GLP 持有人提供 25,000 个 esGMX 代币。
+#### 五. 风险与缺陷
+
+* esGMX 锁仓机制强，需要一年时间才能解锁。这些由于质押产生的 esGMX 只会有极少数转化为 GMX。
+* 尽管质押 GMX 可以获得 30% 的交易费用，但是这部分奖励会被分为 ETH/AVAX 和 esGMX 两部分，处于 esGMX 的流动性考虑，esGMX 部分的回报率应当给予折价。
+* 相比 GLP，成为 GMX 持有者有更多好处：GMX 不承担风险，但可以分得 30% 的交易费用（这也是 GMX 代币质押率如此之高的原因之一），而 GLP 需要承担货币价格变动带来的资产变动以及交易带来的损失。
+* 空头交易者需要支付资金费用，牛市中会出现多头>空头的现象，GLP 池不可持续
+* 由于 GMX 机制中，空头方与多头方都需要向 GLP 支付借款费用。
+* 在市场上涨阶段，协议空方少，此时市场下跌，才会导致 GLP 盈利
+* 在牛市时，GLP 出借资产必会导致损失，但同时他们也获得流动性补偿。可一旦补偿低于 GLP 的损失，LP 可能会拿走流动性。
+* 预言机带来的价格操纵风险。由于 GMX 采用预言机与 AMM 混合定价机制，一方面带来了 0 滑点，对于流动性强的资产来说有很大的优势；但是对于流动性不强的资产来说，就会带来价格操纵风险。
+* 匿名团队存在一定的跑路风险。
+#### 六. 思考与结论
+
+* 团队分配的 GMX 很小，只有 25 万 GMX（占总供应量的 1.88%），在 2 年内线性解锁。又考虑到 esGMX 的锁仓机制，归属于底价基金的 2M GMX，市面上流通的 GMX 不会是 GMX 发行总量的全部，供应量会相对不那么大。
+* GMX 有很好的代币经济学，但就代币效用来看，GMX 的代币效用是三个项目中最高的。由于 GMX 代币效用高，在一段时间内会有较高的需求量。此外，GMX 在其他协议上的引入也拉动了需求量的上涨。所以，在短期内，GMX 在市场上可能会有较好的表现。
+* GLP 的逆势上涨与他的产品逻辑有很强的关联性。在正常交易中，多空双方总有一方会向另一方支付资金费用，但在 GMX 中，无论做多还是做空都是向 GLP 池支付资金费用。GMX 上的交易者在牛市中只会做多，导致 GLP 池的亏损，如果 GLP 收到的 70% 手续费无法弥补由于币价上涨对 GLP 带来的损失，人们会从 GLP 池中移除资产，导致 GMX 的流动性崩盘。GMX 的长期稳定发展需要团队对 GMX 逻辑的优化。
+* 尽管有不少项目对 GMX 或 GLP 给予了关注，但我认为由于这些协议对 GMX 的粘性不强，目前的情况可能是由于 GMX 的亮眼表现所带来的。
+### Synthetix
+
+#### 一. 基本概况
+
+Synthetix 是 Optimism 和 Ethereum 链上的合成资产协议，项目成立于 2018 年，其前身是 Havven。
+
+#### 二. 项目团队
+
+Kain Warwick — 创始人，创建了加密网关 Blueshyft。
+
+Justin Moses — CTO。毕业于悉尼新南威尔士大学，曾在 MongoDB 担任工程总监。
+
+Clinton Ennis — 曾在摩根大通担任 Architect Lead，目前在 OnChain Technologies 担任智能合约工程师。
+
+#### 三. 项目详解
+
+1. **发展历程**
+![](https://img.foresightnews.pro/202303/b3b9bb3ec04b7ebb263b3408aabe19ca.png?x-oss-process=style/scale70)* Synthetix 是一个大产品矩阵，目前包含主协议 Synthetix，衍生品与现货合成资产交易平台 Kwenta，算法期权平台 Lyra，二元期权与预测平台 Thales，期权收益策略平台 Polynominal，去中心化资管策略平台 dHEDGE 等。
+* synths 彼此之间可以进行无滑点的交易，但需要收取手续费。
+* 不论在市场上行或是下行期间，SNX 的价格变动和债务池的变动都可以相互对冲。
+* Lyra 上的交易需要 sUSD，Polynominal、dHedge 等产品的交易都直接或间接为 Synthetix 的流动性提供了支持。通过构建起生态飞轮效应带来更多的流动性和需求，有助于其成为多链之间的 Liquidity Layer。
+* 原子交换。原子交换时 Synthetix 在 2021 年发布的功能，允许用户通过 Chianlink 和 Uniswap V3 的组合对合成资产进行定价。
+* 原子交换的核心原理是 Synthetix 在 Curve 上建立的 sBTC、sETH、sUSD 的流动性池，当综合交易成本低时，1inch 会选择 Synthetix 链路，实现（x-sx-sy-y）的第成本交换。
+* 通过 onchain 的方式复制 CEX 的衍生品功能。比如做空 BTC，不需要去 CEX 买做空合约，而可以直接在 SNX 买入 iBTC 风险。
+* 可以在没有滑点和流动性问题的情况下 on chain 交易各种合成资产，需要支付的是交易费用。
+* 流动性提供者会获取 100% 交易费用，并且会获得 SNX 通胀产生的 SNX 奖励。
+* 可以收取交易费用，并且获取额外奖励的 SNX，但是会面临由于价格波动造成的资产损失的风险（这一点和 Uniswap 流动性提供者面临的无常损失比较类似）。
+#### 四. 重要数据
+
+1. **运营数据**
+a. 2022 年度交易总量：$4.94b
+
+b. 年度费用收入：$14.81m
+
+c. TVL：$432.50m
+
+Synthetix 的交易量和利润与另外两个项目不是一个量级，但是 TVL 却是一个量级，表明 SNX 协议中具有大量的资产。
+
+*\* 数据采集至 2022 年 2 月 8 日*
+
+2018 年 2 月 28 日，SNX 进行首次代币发行。SNX 代币的总供应量上限为 282,337,310 以及自第一个 Epoch 以来的通货膨胀。其中，
+
+* 60.00% 被分配给投资者和代币销售
+* 3.00% 分配给奖励和营销激励措施
+* 5.00% 分配给合作伙伴
+* 12.00% 分配给基金会
+* 20.00% 分配给团队和顾问
+SNX 的供应预计将在 2024 年 3 月全部解锁。
+
+![](https://img.foresightnews.pro/202303/fc47502d48874fabe7f56a4e26ce7656?x-oss-process=style/scale70)#### 五. 缺陷与风险
+
+1. SNX 的价格目前是通过 Chainlink 来提供，会面临第三方的预言机风险。
+2. V3 版本的更新进度缓慢，完成时间尚不能确定
+3. 生态较为复杂，若非成熟完善的管理，否则会使系统的潜在不稳定型增加。
+4. 目前流动性会与 SNX 价格以及抵押率挂钩，目前的抵押率是 400%，也就是说 $4 的 SNX 获得 $1 的 sUSD，高抵押率会对 sSYN 的资产流动性产生较大的影响。
+5. Synthetix 的交易费率是三者中最高的，这会对交易者的交易体验造成影响
+#### 六. 思考与结论
+
+* 产品独特，逻辑性感，带来了极大的想象空间，近期收入增长使投资者看到了逻辑兑现的潜力。
+* 项目比较复杂，整体的架构宏大，因此需要更长的时间进行发展，投资回报周期较长。
+* 由于流动性会和 SNX 的价格与抵押率挂钩，资产池深度是有上限的，团队目前正在考虑增加抵押品种类能提高 Synthetix 合成资产 synths 的深度。V3 版本中，多重抵押品的逻辑为协议的可持续性和发展空间扩大了上限。
+* 由于 synths 与现实资产挂钩，可能会面临较大的监管压力。
+* SNX 质押者可以获得 100% 的交易费用，但是会面临价格波动造成的损失，且交易费用较高，效用会打个折扣。
+* 个人还是比较喜欢这个项目的，Synthetix 的去中心化程度是三个项目中最高的。他的整体交易逻辑与另外两个有明显的区别，但是考虑到其实际应用（把现实资产映射到 web3 中）以及代币经济学，该项目的可玩性还是很高的。机制比较复杂确实是一个问题（但我觉得正是因为机制复杂才导致他的可玩性高），很多交易者可能会因此望而却步，V3 已经在考虑对交易机制进行简化。
+#### **对比分析**
+
+![](https://img.foresightnews.pro/202303/6583e6d82cf47ba3a047018cd4399ef0.jpeg?x-oss-process=style/scale70)*\* 数据采集至 2022 年 2 月 8 日*
+
+#### 总结
+
+dYdX 目前最需要克服的是代币的效用问题，这个问题是否能解决需要等待其 V4 Cosmos 版本的到来，长期来看还是有上涨潜力的。目前，dYdX 拥有三个项目中最高的 FDV/TVL，为 7.75，且由于核心问题能不能解决还未成定数，近期的增长不一定能一直持续。
+
+GMX 目前的隐患是牛市死亡螺旋问题。但是其代币效用是三个之中最高的。而且该项目带动了整个 Arbitrum 生态。
+
+SNX 的核心价值是 synth 之间的交易的低费用，这一价值已经在原子交换期间的高交易量中体现了。从 2018 年起至今，SNX 的整体交易数据与另两个不在一个量级，且 Synthetix 的产品过于复杂，要尽善尽美做全要更长的时间。主协议而且会有流动性、交易费率上的硬伤，会削减代币效用。因此，投资周期会是三个项目里最长。
+
+作者：Scarlett He
+
+#### 参考链接
+
+1. <https://craft.co/dydx/executives>
+2. <https://antonio-dydx.medium.com/the-history-of-dydx-so-far-68bf46789f86>
+3. <https://docs.dydx.community/dydx-governance/start-here/dydx-allocations>
+4. <https://rileygmi.substack.com/p/gmx>
+5. <https://www.panewslab.com/zh/articledetails/43mbrzzo.html>
+[Cipholio Ventures | Twitter | Linktree](https://linktr.ee/cipholio)
+
+![](https://img.foresightnews.pro/202303/25290303765be6cc743a5625ae9137af.png?x-oss-process=style/scale70)![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=9ebff26ebe08)

@@ -1,0 +1,162 @@
+*![](https://img.foresightnews.pro/202303/700ff7d58b3f38f1c9602e5dc057d1d0.gif?x-oss-process=style/scale70)*
+
+摘要：负面消息不断的 XR 行业要“凉”了吗？一级市场投资人不这么看。深圳一中腰部投资机构创始人对创投日报记者表示，今年将重点布局 XR 领域，尽管目前市场存在不同的声音和反应，但其认为 XR“趋势已经越来越明显”。投资机构方面，国资有成为投资主力的趋势，截至目前，已有 7 个国资背景的投资平台出手 XR 领域项目。（创投日报）
+
+  
+
+
+![](https://img.foresightnews.pro/202303/7a5bcf0c5cca31bcd1459dc119c6eb12.png?x-oss-process=style/scale70)
+
+图片来源：由无界 AI 绘画工具生成。
+
+  
+
+
+热点资讯  
+
+
+**中手游董事长肖健：游戏产业是布局元宇宙最合适的支点**
+
+  
+
+
+据财联社报道，3 月 2 日，中手游董事长兼 CEO 肖健就元宇宙行业展望进行主题分享。肖健提到，元宇宙本身带有沉浸感社交的特质，和游戏本质不谋而合。天然设施和游戏娱乐领域元宇宙相关技术的发展，将助力平台化游戏拓宽用户群体和市场容量，提高用户粘性，改变已有价值分配模式。元宇宙发展需要大量的投入来推动，布局元宇宙产业，需要具备强的变现能力，成熟的商业模式和高的用户规模。从这些角度，游戏产业被看作是最合适的支点，从而成为元宇宙的领跑者。
+
+  
+
+
+**OpenAI CEO 借高价 CryptoPunk 说明 ChatGPT API 收费合理**
+
+  
+
+
+3 月 2 日，OpenAI 首席执行官 Sam Altman 发推表示，去年一枚 CryptoPunk #5822 NFT 的价格为 2370 万美元，而使用 ChatGPT 时，仅需 2 美元就可以购得 100 万枚 token（ChatGPT 内字符单位）。
+
+  
+
+
+早前消息，OpenAI 宣布允许第三方开发者通过 API 将 ChatGPT 集成到自己的应用程序和服务中。OpenAI 总裁兼董事长 Greg Brockman 等人发文称，ChatGPT API 由“gpt-3.5-turbo”支持，是 GPT-3.5 的优化版本，定价为 0.002 美元 / 每 1000 个 token（指系统将句子和单词分解成的文本块）。
+
+  
+
+
+**Moonbirds 母公司 PROOF 将发布 NFT 系列“Archive of Feelings”**
+
+  
+
+
+DeFi 之道讯，3 月 2 日，Moonbirds 母公司 PROOF 宣布将与 Pace Verso 合作，于 3 月 15 日发布术家 Mika Tajima 的首个个人 NFT 项目“Archive of Feelings”。“Archive of Feelings”系列 NFT 总量 1152 枚，使用自定义的算法来可视化美国 12 个地区的 Twitter 数据。PROOF Collective Pass 持有者均可以 0.1 ETH 的价格铸造一枚 NFT。Moonbirds 和 Pace Verso NFT 持有者将有资格在第二轮进行铸造。若有剩余将可用于公开铸造。
+
+  
+
+
+**The Sandbox 联创：元宇宙需要“开放”**
+
+  
+
+
+据 Decrypt 3 月 1 日报道，The Sandbox 首席运营官兼联合创始人 Sebastien Borget 强调，Roblox 和堡垒之夜等其他元宇宙平台不允许用户在不同平台之间自由移动数字资产。
+
+  
+
+
+“这就是为什么我们仍然需要说‘开放的元宇宙’，以反对围墙花园平台，”他在今年的巴黎 NFT 上表示。Borget 称：“用户对这些内容拥有真正的数字所有权是至关重要的，他们是自己虚拟形象的真正所有者，也是他们的可穿戴设备、装备、土地、房屋以及他们创造和赚取内容的真正所有者。”他补充道，创作者应该获得“他们所带来的收入的 95% 或 100%，因为他们为开发做出了贡献。”
+
+  
+
+
+投融资  
+
+
+**3D 资产管理平台 Hexa 完成 2050 万美元 A 轮融资，Point72 Ventures 等参投**
+
+  
+
+
+据 PRNewswire 消息，3D 资产可视化和管理平台 Hexa 宣布完成 2050 万美元 A 轮融资，Point72 Ventures、Samurai Incubate、Sarona Partners 和手机制造商 HTC 参投。截至目前，Hexa 融资总额达到 2720 万美元。据悉，Hexa 为客户创建的 3D 元宇宙资产模型提供存储、管理、分发和分析服务。目前亚马逊、Unity 等公司都在 Hexa 平台上制作、管理和部署 3D 资产，相关模型可以轻松迁移到网页、社交媒体网站或游戏引擎上。
+
+  
+
+
+**NFT 通信传输协议 Redeem 完成 250 万美元 Pre-Seed 轮融资，Kenetic 领投**
+
+  
+
+
+据 The Block 3 月 1 日报道，NFT 通信传输协议 Redeem 完成 250 万美元 Pre-Seed 轮融资，Kenetic 领投，VC3 DAO、CMT Digital、Flyover Capital 等参投。融资资金将用于在第二季度战略合作伙伴关系发布之前继续构建其核心功能集。据悉，Redeem 由前阿里巴巴高管、生物识别初创公司 EyeVerify 创始人 Toby Rush 创立。Redeem 希望提供一种基础设施，使个人能够仅使用电话号码参与 Web3，可通过短信传输 NFT。
+
+  
+
+
+元宇宙荐读  
+
+
+**《重磅：Meta 未来 4 年路线图曝光，Quest 出货超 2000 万台》**
+
+  
+
+
+The Verge 今天曝光了一份 Meta 内部 AR/VR 产品规划图，这份规划图为 Meta 高管为 Reality Labs 员工的内部分享，包括了大量 AR/VR 产品信息，我们一起来看看。
+
+  
+
+
+https://www.8btc.com/article/6806822
+
+  
+
+
+**《国资“添柴”，XR 一级市场火正旺》**
+
+  
+
+
+近期，海内外科技大厂相继传出调整 XR 业务的消息。All in XR 的 Meta 于去年末最先开启历史最大规模裁员潮，本月则有腾讯的 XR 部门几乎全线裁员，字节 Pico 也进行了 15% 的人员“优化”。负面消息不断的 XR 行业要“凉”了吗？一级市场投资人不这么看。深圳一中腰部投资机构创始人对创投日报记者表示，今年将重点布局 XR 领域，尽管目前市场存在不同的声音和反应，但其认为 XR“趋势已经越来越明显”。
+
+  
+
+
+https://www.8btc.com/article/6806794
+
+  
+
+
+**《“你的 AI 侵犯了我的版权”：浅谈 AIGC 背后的版权保护问题》**
+
+  
+
+
+AIGC 技术开发与应用中的知识产权尤其是版权侵权问题之所以受到高度关注，其根源在于 AIGC 模型的形成和完善依赖于大量的数据训练，而用于训练的数据往往包含受版权法保护的内容。AIGC 是如何利用版权作品进行数据训练与输出成果的？这一过程存在哪些版权侵权风险？应当如何有效应对 AIGC 版权利用带来的侵权风险？本文以“Stable Diffusion 案”为引，结合 AIGC 内容生产模式的技术原理，对上述问题进行探讨。
+
+  
+
+
+https://www.8btc.com/article/6806806
+
+  
+
+
+  
+
+
+**巴比特园区开放合作啦！**
+
+  
+
+
+![](https://img.foresightnews.pro/202303/f7dcb8536e4e40e8e4d847bc9529dfe0.png?x-oss-process=style/scale70)
+
+  
+
+
+![](https://img.foresightnews.pro/202303/ef27af54365ff70cc040f4157e2f6e7a.jpeg?x-oss-process=style/scale70)
+
+  
+
+
+![](https://img.foresightnews.pro/202303/8fa93812717d18039e5848d30555ebd2.gif?x-oss-process=style/scale70)  
+
+
+中文推特：https://twitter.com/8BTC\_OFFICIAL
+
+英文推特：https://twitter.com/btcinchinaDiscord 社区：https://discord.gg/defidao电报频道：https://t.me/Mute\_8btc电报社区：https://t.me/news\_8btc![](https://img.foresightnews.pro/202303/8287da5ef763d915fd33d8b7033c23a1.jpeg?x-oss-process=style/scale70)

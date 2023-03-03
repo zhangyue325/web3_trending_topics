@@ -1,0 +1,269 @@
+本文，我们将聚焦 Arbitrum 的发展现状，分析其在技术上的优势和生态进展，探究 Arbirtum 在 Layer2 竞争图景中占据优势地位背后的深度原因。我们认为，在拥有大量生态建设者和创新的背景下，Arbitrum 会在一段时间内的 Layer2 竞逐中继续快速增长，并保持其领先优势。
+
+基本概况
+----
+
+Arbitrum 是基于以太坊的 Layer 2 扩容解决方案，平台宗旨是希望开发者能够在 Layer 2 上轻松运行 EVM 合约以及完成以太坊协议。目前，平台因为能够交易基于以太坊的代币所以不会发行代币。
+
+根据 DefiLlama 的数据，1 月 31 日之后，Arbitrum 的 TVL 超过 Polygon 位列第四，并在与其拉开差距，持续巩固这一地位。前段时间大火的 Treasure DAO 生态（magic、the beacon 等）、费用一度超过以太坊的 GMX 都是该链上的项目。作为 Layer 2 中的代表，Arbitrum 凭借技术和生态上的优势吸引了一众明星项目迁移过来，也进入了广大投资者的视野。
+
+![](https://lh4.googleusercontent.com/Uy-ol9sdK6eDnHHeVTcS9hOz4mLEJhz1khjY0N-XVBu-QWe9T2Im3nhffgaj5InOdOzR_MYz5TidNvEJXmhKFbgOPN9qDnHUIYpwK9tLZvn7OSZmTYEqOpnJ_QGv1AR8t9hGpjDVayLDz_APsW8A_5Y)
+
+  
+
+
+### 团队背景
+
+开发团队 Offchain Labs 由前白宫技术官员、普林斯顿大学计算机教授 Ed Felten 与普林斯顿计算机博士生 Steven Goldfeder 、Harry Kalodner 联合创立。
+
+### Offchain Labs 融资信息
+
+![](https://lh6.googleusercontent.com/JJo5prRd0spNlB_5sXhItxvRT75U63D2JLYcSz68XnKXnY8SCmJKdrR7lTrRb78n-Q3yOmVrL-abz0BUs02o3pE5TdukAxPrGFbv4hNZFZ8O_0bhqshZcTrcHB3IWqAGmBnA0gwunusjNFWMArwqhbQ)
+
+  
+
+
+### 发展时间线
+
+2021 年 1 月，测试网进行了 Defi Demo 产品
+
+2021 年 5 月，部署测试网
+
+2021 年 9 月，正式启动主网 Arbitrum One，并完成 1.2 亿美元 B 轮融资
+
+2022 年 8 月，推出升级版的 Nitro
+
+2023 年 2 月，开发团队宣布今年将会为 Arbitrum One 和 Arbitrum Nova 推出新编程语言 Stylus
+
+目前 TVL 最高的 Layer2 协议，交易活跃
+-------------------------
+
+![](https://lh4.googleusercontent.com/t2ykGwb6zfJ4maf7pSQSdT2hh4UEWq49kBsz6QVw-yQ4Yhi677RHUMUyS4c-IiR9E0rUJ7VocrgUYW5PVrvIYDm-wE9ignk1wCj7zyClRJwhQQwRfeJXtVMh57VTp3w-CxLHteHZdK4p6-_aKdVln1Q)
+
+*(Arbitrum 的 DEX 交易量位列全链第三 )*
+
+*![](https://lh3.googleusercontent.com/cRuvv9ppy7W2xJGrmhoXcixsabAskt3DNGmOuuRF3t2LLWj5Qrjdpnnh_Z6AJPzxgZ_KoJmM6FQVMG0jD03TLlHPmfKoiN5hpwU0oHZcxUJQVVf88vDg1Evmp1qIzI-Fh2J8hMFZpsfbnWTMEDTVV2g)*
+
+*(Arbitrum 的日交易总数一度超过主网 )*
+
+*![](https://lh6.googleusercontent.com/yhvALSiWOUhbzjeT4swj_JmCQlXhQoqZpgfGTpp7v5fLkjyr54JAjrIg5A6SZ42Eij_JKCvlZ7AfRvUXMdn8jUN7YpPOAhNegmlbR7pkQ8o8YF2I5E_4_CXsuaMvKfqig1Fp-eEOVVEx_eAYgrpIZ0w)*
+
+*(Arbitrum 的 TVL 在 Rollup 路线的竞品中优势显著 )*
+
+  
+
+
+*![](https://lh5.googleusercontent.com/HnbsN6KGaXo7wwFdnldOiESDWk8rD95nxlzoK8msoGCKSgtTmqyy_gIfK2v_qheE7A9PST4A4J__ov-6LJ6MedMrUgHlFZbilWnjUoujinanI3zuQsMsMX1QMexPhVEwM6mVSBWi24680CW1WiVxm7Y)*
+
+*(Arbitrum 链上活跃地址数持续走高，达到 Optimism 活跃地址数量的四倍 )*
+
+  
+
+
+*![](https://lh3.googleusercontent.com/OuwBQ4zppIotLPg2iJOw5iWq7gQGnMYlob1iDD1fam13EvJKJnFaP_mRtcM0dgcL8KbVKCyduM4I3zZT2DesmdDS_b84kN6JYcGtP1dbW4gVxg15y1AcyBQeC0f7_rTagAwpJ3_soH0va-NHGBQytHo)*
+
+*(2.21 arb 的交易处理量超越主网了，来源 dune)*
+
+综上，Arbitrum 的当下数据非常良好。
+
+交易量、流动性以及流量同比大幅增长
+-----------------
+
+Optimism 推出代币后，短时间内完成了 TVL 的迅速上升；在此之前 Arbitrum 能在 Layer2 赛道中占据 53% 以上 TVL。回顾近期历史数据，我们不难从整体趋势得出结论。
+
+首先 Arbitrum One 每日交易量同比增长 600%；自 2 月初，Arbitrum One 处理主网 40-50% 的交易，与 L1 相比，平均成本降低了近 97%。
+
+*![](https://lh5.googleusercontent.com/fUZt6ItbIW3NkrDRuyjKbiVoIK95ZbkF-d60Zerv8feh0AUdAp9LPMHaD2wprggVAPmngmUGAMLowUKXaHwWISWwKPsm7cN4skFXRca2tcNi1_LpFAJ4TFx4KX5VBI_h6Gsvv4WdnxByYBSevHSEDrI)*
+
+*( 来源：Arbiscan)*
+
+此外，Arbitrum 的流动性也在持续增加。目前有 8.7 万 ETH bridge 到 Arbitrum，这比所有其他主要扩容解决方案的总和还要多。 DeFi TVL 在过去一个月也增长 39%，DEX 交易量较上周增长了 46%。
+
+*![](https://lh3.googleusercontent.com/kW1hB9K3N5-ME5-Gd-3sZ5xxTWp-ZYomlYVZpxmogSc6U-OMXh9tja6SppA1qMV0T7IHAg2Zy4RUUIF6ozjxqC2YMdHm-QGKGS0cFliZiY1_zx8xkIQd0PsnxOk7y7pX3qvmuOQYdiDm1tpFJ5CKFI8)*
+
+*( 来源：l2Beats)*
+
+与此同时，在上个季度中 Arbitrum 经验证合约环比增长超过 50%。
+
+*![](https://lh3.googleusercontent.com/Qm3PW2U66R7vJHWpSKH7DtjKdMGI5E24UkgcRb21hxu3RT09zbekmu_3SwVxwLW9b2i_q6m8DG9AvabvUjSClue8bzwJP-mfIdKNUwZqSi1NS-sCvFjTjDeSDS2SazaHhic2NHz3CsPbnzmm5zaSW-w)*
+
+*( 来源：Arbiscan)*
+
+技术分析
+----
+
+### Nitro 版本升级带来流动性、用户快速增长，新编程语言助力趋势
+
+Arbitrum 生态中有 One 和 Nova 两条公链，前者是狭义上的 Arbitrum，后者基于 AnyTrust 技术，于 2022 年 8 月 10 日上线，适合高频交互、对成本更敏感的场景（如链游 GameFi、社交 SocialFi）。两者的主要区别在于处理数据的存储位置，Nova 利用数据可用性委员会 (DAC) 实现显著的成本缩减。我们主要讨论 Arbitrum One。
+
+目前，Arbitrum 在 Github 上推出了 28 个 Release 版本，经历了测试网阶段（包括 Alpha、Beta）、到现在的 Arbitrum V1.4，8 月推出的 Nitro 是最新版本。
+
+22 年 9 月，Arbitrum 完成 Nitro 升级后，在日活用户和交易量上领先 OP 并拉开了距离。
+
+另外，开发团队近日宣布，新编程语言 Stylus 将在今年推出，这将允许开发者使用 Rust、C 和 C++ 进行开发；而 C 和 C++ 是常年霸榜前三的编程语言。这比 Near 吸引 Javascript 开发者的叙事更吸引人。
+
+*![](https://lh5.googleusercontent.com/aUrlnA8kamM3HmNelw-bf8l1VrwsT2ulk1lUaQKjClrjHMWtSrK99O9OHVmK6mhvzJGnZQdlGONc8NioNqISmwomd4JEk3HnmVfZovOmNcNGs2SkVplEyqJa1t00w7244-4Go9PmgY8yEfnFUQsJ2dg)*
+
+*（来源：GitHub）*
+
+### 二分法缩减证明节点规模以降本提效
+
+目前，区块链扩容有两种角度：
+
+1. 是提高本链的性能表现，对应水平扩容，就是增加块大小、并行度、分片等，比如单体链、侧链、应用专属链的方案。
+2. 是模块化区块链，对应垂直扩容，也就是把执行或更多内容转移到链下操作，然后在 L1 验证结果。
+![](https://lh3.googleusercontent.com/qfkYy2oazswpuqfssywh5MLPu01y7ecHrTHK2RE8pLBv7Q-7_jPSl-TKybkuPOVruic8QzcpuT74edL7oreNEXncDQ0868egTzTyIjL_puON9r-hPSjdcYgK9amXnQ0o4EJWCg_FQZSZwQwC81i1I2o)
+
+针对以太坊的垂直扩容以 Rollup 为主，这也正是当前 Layer2 的主流解决方案。ZkSync、StarkNet、Optimism 和 Arbitrum 都采用了 Rollup 路径，但是 zkSync 和 StarkNet 采用的 ZK Rollup 路线可部署合约的方式尚不成熟；Optimism 采用的使用欺诈证明的 Optimistic Rollup 方式导致提款过慢。
+
+*![](https://lh4.googleusercontent.com/eud7ojdwLbo_0UNoB8lvnQGJCghWF789RZDJTufnjez7bP_pf0lAcgJTB0XNZNl7jhUx2u1PjCPEkkquY7xf9NBJa8s0pSiUF2HXU8M-sY6-axztcScOohpsBptHo450d8FK2gyyOki1MGQGTX8Ii9Y)*
+
+*（来源：MoleDAO）*
+
+与 Optimism 相比，Arbitrum 做了一些小改进，用二分法处理涉及的部分而非全部交易，从而只需证明特定节点的结果。另外，Arbitrum 的 Nova 采用更高效的 AnyTrust 技术，其假设中包括最小信任假设 —— 至少有两名 DCA 成员是诚实的，这极大降低了交易的成本。
+
+此外，EVM 的同步执行环境支持非 EVM 的合约，支持自定义预编译降低成本等。Nitro 的基于 WASM 的设计为 EVM+ 的创新制造了巨大结构性优势；在 ZKEVM 完整实现前，就在 Arbitrum 上同时开发 Rust 合约和 Solidity 合约。
+
+Layer2 竞品分析
+-----------
+
+*![](https://lh6.googleusercontent.com/odHw2MoVdUzk8kNwb86ia1ZsMqZ2Tr6cVIOEW5ZaQBuGEMjmpNawj1M_b-SDw6Q-mS2oJAm4ObYpb3I4TUeXQ2CWUj6oAbeDs9b_TAmCyJCAfO46iKE3g02HGTz8BnFjubd9LWYLB1s2sMynx-hNLgw)*
+
+*（来源：l2beats）*
+
+在 Layer2 赛道， 主要技术路径有 Optimistic 系（以下简称 Op 系）和 Zero Knowledge（以下简称 ZK 系），Arbitrum 与竞品相比，具有显著优势。
+
+首先在用户体验方面，Optimistic 系的 Arbitrum 和 Optimism 与以太坊一致，都可以直接在 MetaMask 上使用，这优于 ZK 系的 zkSync 和 StarkNet。其次前两者具有先发优势，吸引了诸多自带群众基础的明星项目，如 Sushi 等，可能形成生态壁垒。
+
+相比之下，ZK 系技术开发难度大、不具备 EVM 等效性、配套生态等导致漫长的建设周期，所以在目前的环境下，想要达到公链一样的叙事很难。ZK 基础设施进展值得关注；而且在更根本的技术、效率上来看，ZK 路径终究会发挥优势，但并不妨碍 OP 系此刻是一个更优秀的投资方向。
+
+在 OP 系中，因为具有 EVM 等效性、开发门槛低、大量应用快速成熟，就形成了有效的生态壁垒。具体地来看 Arbitrum 和 Optimism 的对比。
+
+从数据来看，Arbitrum 的交易数和活跃地址数在今年超越了 Optimism，并形成趋势和 TVL 一路向上。Optimism 已经发币（目前 OP 仅作为治理代币），对逐利的 Web3 玩家来说，显然是热闹而有发币预期的 Arbitrum 更有意思。
+
+*![](https://lh4.googleusercontent.com/GEPaxJbRgN_mPzXbXP1H5bp0NMmheq4bBbiQpeSlpgeB3rxcdPz96HmMjS9lct-AvhU87D8xTw-qiVkOABQrHPxHU_Rm0jVaRq2MG8AGulHx4w5bYvElQflIckS3hTeHpPAf1FpaZFZWSWiuaMP-2Dw)*
+
+*（来源：dune）*
+
+为什么有发币预期？如果不发币仅靠不同 Layer 的 gas 抽水（如果有的话）是很难为继的。从竞争对手的动作亦能反推出同样的结论，目前 Op 已经发币，StarkNet 也推出代币计划，所以 Arbitrum 发币预期高涨。
+
+生态优质项目概览
+--------
+
+链上生态的繁荣程度是链的价值的根本尺度，而项目方、开发者、用户则是生态里的重要元素。本部分对 Arbitrum 链上各细分赛道的头部项目和运营策略做了介绍，以此说明链上生态之热闹完善。
+
+![](https://lh3.googleusercontent.com/5Z2mDNGrBxDJsfjCi_ME7Q2RkzH9IOL9UoZ5qa84z7vLT5Z9Y3vDKVilNfPGYW0K0ggSd8AJ6WjuCYksnTB0-jOcZSgKAaV7COv6OjoyXzuq1Ov0dd3WzFAPtuDBDhkZ-ADx9783oQvNF0KvqK5dPOI)
+
+*（Arbitrum 链近一周收入排名第四，仅次于 ETH、Polygon 和 BNB Chain；tokenterminal）*
+
+技术角度中已经提到，Arbitrum 生态具有两条链，其中 Nova 适合游戏、社交应用等场景，而 One 则适合 DeFi、NFT 等场景。让我们不妨从 DeFi 说起。
+
+### GMX
+
+注意到 Arbitrum 在熊市中的优异表现，诸多头部 DeFi 项目都覆盖或迁移到了这条链，包括 Uniswap、SushiSwap、AAVE、Curve、gTrade 等。而 Arbitrum 的 DeFi 生态大部分围绕全链 TVL 排名第一的 DeFi 应用——GMX 展开。
+
+GMX 是 Arbitrum 和 Avalanche 上的去中心化衍生品交易平台，支持 30 倍杠杆，无需 KYC 即可交易。其代币经济学设计比较精妙，详见下图：
+
+![](https://lh5.googleusercontent.com/aLW7qZGjQsZBSsr3qt7JI0H9wxWV5a_Pg1aLFSaXD5Ew6REEKm4mbOTDn8_xe9UkjJlpcqw_9uHlIUwYGRAHRUSvOWWI-3p2TiYhPret_QRT5EgstsTMVRvZk89xRpNH4FL27JCnlizPQE7Fy9A-bGs)
+
+  
+
+
+质押 GMX 可以获得未解锁的 GMX、乘法点数和 ETH/AVAX 奖励，具体奖励信息可以在这查看。
+
+由闪兑和杠杆交易的费用中，30% 会转换成 ETH/AVAX 并分配给质押的 GMX，分配的费用基于扣除推荐奖励和 keepers 的网络代价（大概是总费用的 1%）后的数目。
+
+GMX 有个地板价基金，以 ETH 和 GLP 的形式存在。GMX/ETH 流动性池子属于协议，由协议提供，从这个交易对产生的费用会转换成 GLP 并存入地板价基金。通过 Olympus 债券收到的基金的 50% 也会发送到地板价基金，另外 50% 用于营销。
+
+地板价基金用来确保 GLP 的流动性，并为质押 GMX 提供稳定的 ETH 奖励流。当地板价基金增加时，如果地板价基金除以 GMX 的总供应量小于市场价，它也会用来回购销毁 GMX，这样一来 GMX 的最低价格就与 ETH 和 GLP 挂钩了。（必要时，还会用于支付漏洞赏金）
+
+Uniswap 上的 GMX 流动性会在 GMX 价格上涨的情况下逐渐增加。保存在和 XVIX 和 Gambit 迁移相同的多签钱包。
+
+预测最大供应量约为 1300 万。超过最大供应量的铸造有 28 天时间锁。这种情况只会出现在新产品发布或者流动性挖矿的时候。任何变更之前都会有治理投票。
+
+随着生态进一步发展壮大，GMX 的产品也吸引了一部分开发者围绕 GLP 进行创新和拓展，包括 Rage Trade、GMD、Jones DAO、PlutusDAO 等。
+
+### Rage Trade
+
+Rage Trade 是一个基于 Arbitrum 生态的永续合约，并且已经确定有发币计划；产品通过 Omnichain recycled liquidity 机制整合来自其他链的 Defi 流动性并进行 80-20Vaults。80-20Vaults 是 ETH-PERP 的策略， 80% 资金在协议中进行生息，而 20% 提供流动性。另一业务线是稳定币产品，Rage Trade 进行了分层，Risk-On（Aave + Uniswap）执行 GLP 对冲策略，而 Risk-Off 借 U 给 Risk-On 扩大规模。
+
+*![](https://lh4.googleusercontent.com/63Qm5LI6cIt77b3saafjLAH6gYPOD1gkhx9OfyJ6SNjOFcHioRq7m-y0_vGmllEAeFPaHHrmEH9vVX9mOx7KoE-yw1jv31OBSJagPociwS9Mj14pdIh6wI5STM7S0jHkDyMg9TXuC62DkbE4gtc9s6Q)*
+
+*（来源：Rage Trade）*
+
+目前，Rage Trade 的总锁定价值（TVL）为 1606 万美元，平均 APY 7.48%，协议还没有发布 Token。
+
+*![](https://lh6.googleusercontent.com/GEIQ4rhBT9yc2F0FS32aqp0KKEQHPQ8ObvhGns-xqACV9r_vVzcnKw8DthJZTcz1kxVD-pH-jBK2ZBuGMlgrz0e8UzVQ7pKok4e9SKvxhpaEhmjH6BT7alEp9zcov3o_VoD3dI_peBykWX5SbGzeLMk)*
+
+*（来源：Defilama）*
+
+### GMD
+
+GMD 是一个收益率优化和聚合平台，产品围绕 GMX 代币 GLP 进行；允许用户将代币存入 Delta 中性金库并购买 GLP，将获得的收益分给质押者。GMD 设计机制简单，提供提供 USDC、BTC、ETH 的单币质押金库，并且 Delta 中性策略会保持三个金库中的资产配比与 GLP 资产配比持平。金库平均 APR 为 20%，基本全部募满，在面对一些无偿风险，GMD 会用原生治理代币进行补偿。
+
+*![](https://lh5.googleusercontent.com/6ur1slk9Ztq-EWLXdjPPa3puRKT22PubTgEI__72pN40X2DG9XZd9WL3_W9gmrfcjRdirWLF9HTZUVKZ2w5FJ23Dl5YG41qe-yXS8pxeKU5MMqwaSUxqhC3WfggbY2m5ydL9IUDlt9cVckJzPcZf-Nk)*
+
+  
+
+
+*![](https://lh6.googleusercontent.com/DSy4pLMWEEXtlh5S83QKzNolPuFu21iiO0rcqLUBC5x3szfU2sSfYdx-LhIfrtE4PslGO19Uge3CNInajSbb8yuxEM_sJS33ToIQHaKEJlFmBbNnyLR0LpP_iJCgX5HGD3PR2MM9vih-5TvrgiRzDqg)*
+
+*( 来源：GMD Official)*
+
+目前，GMD TVL 约 700 万美元。
+
+在 2 月 27 日，GMD 宣布发行新的 Launchpad，并保证会对申请加入的项目进行严格的尽调。
+
+*![](https://lh6.googleusercontent.com/IGNWRbLR1eUnExaMEx6AssVT244B2geAQPRRcbUx5aBgDL1z7yyuxXA2HLqWuqr5MmP1YxO6duAy9xndlkGAjcJsiXwHTNIx_KiKzotp4bJiLUeoFtf6dukCG5jXe4vfZLpNN9GWD5Jj442H_5Ye6A4)*
+
+*（来源：Defilama）*
+
+### Jones DAO
+
+JonesDAO 是 Arbitrum 上的收益生成协议，它能让参与者利用期权协议获得收益。而 jGLP 和 jUSDC 池是收益策略协议 JonesDAO 中的重要成分，它也在 GLP 市场上占据主要份额。
+
+在这两个池中，USDC 投资者把 USDC 放入 jUSDC 池，而 jUSDC 国库借出 USDC 给 jGLP 国库（jGLP 国库会用借来的 USDC 铸造 GLP 然后产生费用）; 同时 GLP 和 GLP 篮子资产的投资者也会把资产放入 jGLP 国库用来铸造 GLP 产生费用。该费用和 GLP 的流动性挖矿都可以提高 jGLP 的价值反哺给 GLP 投资者。费用还有助于增加 jUSDC 的价值来反哺 USDC 持有者。
+
+*![](https://lh6.googleusercontent.com/lGvaf9IsYMWg-NVeJi3R60rky83oP265sHZej8uLvw8yaTMQyiePH6a26eBIhQqh2UI9-vT_DcwGKe3_vI50XST_Xm4f0my_SHPGPN891hOb0zSDhbniyICL91-fyxN08p0DsFk_XeqcioA9GIuUfmw)*
+
+*（来源：Jones DAO）*
+
+  
+
+
+*![](https://lh5.googleusercontent.com/xBvSXRz-pEUZad187oXFAFOsktLY8uFCbkZR8csgHIhS6LgKwZDPeJpKrNrM1l8LJpzOv0kfY6poQ22DqpqDAyW_0eZVxVpSysUIjzgPMqsIXWPwBOfnkufcRcz-WGta28hWhpfs7wwoTd_1W26eSpA)*
+
+*（来源：TokenInsight）*
+
+### PlutusDAO
+
+PlutusDAO 是 Dopex 和 JonesDAO 的治理聚合器（所谓「Layer2 的治理黑洞」）。它会尽可能多地累积 Dopex、JonesDAO 等项目的治理 token，然后给用户 pls 系列的凭证，并通过贿选 / 质押 / 复投等方式为用户创造收益。PlutusDAO 将会因为治理 token 的充分占有率成为其他项目贿选的对象。另外 PlutusDAO 也开了 GMX 的 GLP 金库，在有 PLS 补贴的情况下，转换成 plvGLP 的 APR 会有 20%。
+
+### Treasure DAO
+
+DAO 是开发者、投资人和广大用户形成的利益共同体，构成了生态中最有活力的一部分。Arbitrum 上最具影响力的 DAO 莫过于 TreasureDAO，这是 Offchain labs 支持的。
+
+比较流行的叙事将 Treasure DAO 视为 Web3 的任天堂。这个 2021 年 10 月从主网迁移过来的 Loot 项目，经历了一年多的扩展和重塑，套过不少 NFT 的 OG 玩家，如今又映入大众眼帘。Trove 市场、BridgeWorld 和 MagicSwap 是 Treasure DAO 生态中的关键基础设施。TreasureDAO 还孵化了 The Beacon 这一现象级游戏，开发者的活力在 TreasureDAO 的组织下被充分激活了。他们都与 Magic 代币有着密切关系。
+
+*![](https://lh3.googleusercontent.com/KmZKWUW8xP90f1U9x5wotJbTcZ68ZGDcVLix4SFnqqtBT20q6rrvlIt6glSmGi-XKJGKeueyjExF1pGMLKPd4cMrhuu3gVt9OCuEIKkhcCmIaiyR1kfIvo9sfMwPYxIQt6bkd5XaPcv206e-CJCwChk)*
+
+*( 近两月，Magic 已从底部 $0.5 上涨至 $2.0)*
+
+Arbitrum 生态建设：重视社区和良好的用户激励
+--------------------------
+
+在目前的发展阶段，Web3 的用户大多靠空投或者空投预期来吸引。奥德赛活动正是 Arbitrum 招徕用户，盘活生态的手段之一。
+
+奥德赛活动经历了两个阶段，当前已暂停，预计今年合适的时候会再度重启。第一阶段的奥德赛于四月份开始，由用户票选 14 个不同组别的项目晋级作为后续任务的交互对象；第二阶段于 5 月中旬正式开始，原计划执行七周，每周开启两个项目的任务，每个项目对应一个 NFT。若用户集齐 15 个中的 12 个，将会收到 tubby cat 创始人 Ratwell & Sugoi 设计的纪念 NFT。可惜，由于活动过于火爆，导致链上 gas 飙升（短时甚至高于主网的 swap 费用）影响普通用户的活动，Arbitrum 选择暂停这一活动。
+
+从活动的策略和实施来看，Arbitrum 运营团队充分听取社区反馈、顾全大局，虽然活动并不顺利，但仍然获得了极大的关注和热度。考虑到当前 Arbitrum 的亮眼表现，奥德赛再次开启时，一定会有更多用户参与进来，再对该链的性能和安全性验的同时，也是巨大的机遇。
+
+*![](https://lh4.googleusercontent.com/HVfpa1765S3uzEIu0G4S00F1ygpSTqsxwV_r8ccW5ralmLAvmuqWkB4L671mYRKkJUT-aHI2GqxLXTuRDz5gvVzqEz9tCHubI1I5WGV6eoqQFOYrDoatzSxO75D-Gj-s41Is5f64DibJ9VhrHnXaI6s)*
+
+*（来源：dune）*
+
+Arbitrum 2023 年展望
+-----------------
+
+Offchain Labs 在 SmartCon 2022 演讲中提到，Arbitrum 未来会继续扩大去中心化，包括验证者、sequencer、管理和授权软件升级等；并将继续降低费用，提高 TPS；今年奥德赛应该会再重启；Nova 生态（社交、游戏）也会继续孵化；强调验证者、管理和授权软件升级、sequence 的去中心化等。
+

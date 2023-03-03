@@ -1,0 +1,103 @@
+![](https://img.foresightnews.pro/202303/c3a3e6891b7e6e1e7dc16ea211f124c8.gif?x-oss-process=style/scale70)Block-1048
+
+  
+周三，Polygon 宣布正在为其新 Web3 ID 服务转入零知识证明赛道。  
+
+
+Polygon 在其以太坊侧链上宣布了 Polygon ID，这是一项 Web3 识别服务。  
+
+
+该服务为基于区块链的应用程序验证用户凭据，而不会泄露个人信息。  
+
+
+它将与 Collab.Land、Fractal、Kaleido 和 The Sandbox 建立合作伙伴关系，并以此获得约 400 万用户。  
+
+
+Polygon Labs 正在将该服务集成到 Polygon zkEVM 中，该服务将于本月发布。  
+
+
+与竞争对手的身份解决方案不同，Polygon ID 使用零知识证明（ZKP）。  
+
+
+使用 ZKP，敏感信息不会公开上传到区块链以进行验证。因此，Z**KP 正在成为 Web3 中越来越流行的技术**。  
+
+
+Polygon 称这是“互联网信任模式的根本改变”，并且 Polygon ID 对企业和个人都有好处。  
+
+
+对于企业来说，它消除了管理用户数据的挑战；对于个人而言，它使他们在与机构和私人机构分享个人资料时，更能控制自己的身份和酌情权。  
+![](https://img.foresightnews.pro/202303/317e728a17633c83aab8e9ecb2bf0486.jpeg?x-oss-process=style/scale70)  
+Polygon 在推特上宣布:“未来是自主的。”参考生态系统范围内走向自我主权认同（SSI）。  
+
+
+SSI 允许个人创建和管理存储在分布式账本上的自己的身份，该技术使用公钥加密技术保护信息，个人控制他们公开的内容。  
+SSI 增强了隐私和安全性，同时降低了身份盗窃和欺诈的风险。然而，广泛采用的挑战仍然存在，包括互操作性和确保准确性。  
+
+
+尽管如此，SSI 可以改变数字身份，并影响金融、数字投票和医疗保健等领域。  
+
+
+最近，**ZKP 在区块链行业中变得越来越重要**。  
+
+
+使用这种技术，用户可以证明他们知道一些东西，而不必真正透露他们知道什么，这使得在不泄露任何敏感信息的情况下提供所有权或授权证据成为可能。   
+
+
+ZKP 允许在链下执行计算，同时验证多个证明，并实现更高效的数据存储和检索，从而使区块链更快、更可扩展。  
+
+
+一些使用 ZKP 的 Layer1 区块链包括 Zcash、Tezos、Cosmos 和 Aleph Zero，还有更多的链正在探索其实施。  
+
+
+  
+
+
+原文来源于 beincrypto，由区块链骑士编译整理，英文版权归原作者所有，中文转载请联系编辑。  
+
+
+  
+  
+
+
+---
+
+  
+
+
+  
+
+
+**ATH**
+
+欢迎大家加入**区块链骑士**的电报群：  
+**https://t.me/blockchainknight**
+
+  
+  
+  
+**推 荐 阅 读**![](https://img.foresightnews.pro/202303/36f1113b176f651c9ad0121ceaebe26c.jpeg?x-oss-process=style/scale70)
+
+**文章精选****区块链 +**[高性能计算](http://mp.weixin.qq.com/s?__biz=Mzg2NjAxMTI5Mg==&mid=2247485195&idx=1&sn=436864bd1fe01d71bb45c207dfee1a37&chksm=ce5016f8f9279fee934ec77907235045bf4da3309de655ef0e7fae5e7324988d0620ba3b4a7e&scene=21#wechat_redirect) | [游戏 |](http://mp.weixin.qq.com/s?__biz=Mzg2NjAxMTI5Mg==&mid=2247485170&idx=1&sn=a1220cb963e04df41e3720c5b9e54744&chksm=ce501701f9279e173906ac3535c38959e8f8e7614574894ed22018fd528967be3c15d2df56d4&scene=21#wechat_redirect)[冠状病毒医疗](http://mp.weixin.qq.com/s?__biz=Mzg2NjAxMTI5Mg==&mid=2247485107&idx=1&sn=92fd82997bece70638b47ef3a45f63e4&chksm=ce501740f9279e567227e1dd241e256f10ed5476b8d4e8a570305471c5ab9e78f29bdcef7ba8&scene=21#wechat_redirect)[|](http://mp.weixin.qq.com/s?__biz=Mzg2NjAxMTI5Mg==&mid=2247485107&idx=1&sn=92fd82997bece70638b47ef3a45f63e4&chksm=ce501740f9279e567227e1dd241e256f10ed5476b8d4e8a570305471c5ab9e78f29bdcef7ba8&scene=21#wechat_redirect)[银行](http://mp.weixin.qq.com/s?__biz=Mzg2NjAxMTI5Mg==&mid=2247485022&idx=1&sn=7def438cee77315ea5944cc90395bd15&chksm=ce5017adf9279ebb820fb1754d81372db3a842b09b617d725289de43d3304d0479f82f655dc6&scene=21#wechat_redirect)
+
+[物流](http://mp.weixin.qq.com/s?__biz=Mzg2NjAxMTI5Mg==&mid=2247484270&idx=1&sn=a71a5e214ad9940b92b3be60ade0f82f&chksm=ce50129df9279b8b85ec4cf92461f13f397bc5a7da55c376d07481419ae040c2616432e913a4&scene=21#wechat_redirect) | [供应链](http://mp.weixin.qq.com/s?__biz=Mzg2NjAxMTI5Mg==&mid=2247484277&idx=1&sn=e08f7bf885faaebd2702439aae5376df&chksm=ce501286f9279b909bd4632af23a66a1a0f0f8512c4fefaeb3fb13f149c1b5599889034bf724&scene=21#wechat_redirect) | [教育培训](http://mp.weixin.qq.com/s?__biz=Mzg2NjAxMTI5Mg==&mid=2247484114&idx=1&sn=e178c5401929cf7136f6461d36cb4605&chksm=ce501321f9279a37c7ed868428990d7658090a2cae4a2973f01ee8d4ee92ccfc05c7a9dfc399&scene=21#wechat_redirect) | [绿色能源](http://mp.weixin.qq.com/s?__biz=Mzg2NjAxMTI5Mg==&mid=2247484054&idx=1&sn=6e60b04be3b3c69c2202615e820261fa&chksm=ce501365f9279a73929438919dd691c530642b0202012fa997c91c153b4373ac86d3733be7ef&scene=21#wechat_redirect) | [会计金融](http://mp.weixin.qq.com/s?__biz=Mzg2NjAxMTI5Mg==&mid=2247484102&idx=1&sn=c6da4b3733f58a207035cc89cd915757&chksm=ce501335f9279a23347f62cd4559a56920fb21effa51f43a17235a503849e1b5bc4c1835768c&scene=21#wechat_redirect)  
+
+
+[数字艺术市场 |](http://mp.weixin.qq.com/s?__biz=Mzg2NjAxMTI5Mg==&mid=2247484751&idx=1&sn=965a38dbd14d1f91120974430e35e4d5&chksm=ce5014bcf9279daa12f32971b82de95f3ccf1c1178c9ac5299dcb47bd2e82ce19fec8538e003&scene=21#wechat_redirect)[军事 |](http://mp.weixin.qq.com/s?__biz=Mzg2NjAxMTI5Mg==&mid=2247484802&idx=1&sn=3743d2b5d93c14a4a711dfe8c8750a04&chksm=ce501471f9279d677993574361a8d71d5367b2e7c597db500fe80583eff6520f38f0493e36e2&scene=21#wechat_redirect)[慈善监管 |](http://mp.weixin.qq.com/s?__biz=Mzg2NjAxMTI5Mg==&mid=2247484627&idx=1&sn=664e99a1ce32e9ddf8376de62456301c&chksm=ce501520f9279c36c4e8774c02cf25b1d94b03255574be78e40074c27dbdeeb2206a93b5290d&scene=21#wechat_redirect)[公司结构](http://mp.weixin.qq.com/s?__biz=Mzg2NjAxMTI5Mg==&mid=2247484542&idx=1&sn=5dc7446e04dbe1f9cf3bc7ff19b5d280&chksm=ce50158df9279c9bc614976f1d1693d3e5ee86cc5161921089f205dfa03ad001b30227f70eaf&scene=21#wechat_redirect)  
+**Crypto**  
+[腾讯云推出神秘新产品加速全球 Web3 生态建设](http://mp.weixin.qq.com/s?__biz=Mzg2NjAxMTI5Mg==&mid=2247500403&idx=1&sn=137f85257b5ae2848a8008e0e67b5acd&chksm=ce53d380f9245a9612a3e44605a469991d75a0e08130c2940eb41546d7da26660d0a1ef727da&scene=21#wechat_redirect)  
+
+
+[速速了解区块链新趋势](http://mp.weixin.qq.com/s?__biz=Mzg2NjAxMTI5Mg==&mid=2247500377&idx=1&sn=e89fc9bd4d28417009b11e0eb2164861&chksm=ce53d3aaf9245abc6352e2e31db1199524255cb8f80b9c7dc727d1d772864b7eee4eacdb2055&scene=21#wechat_redirect)  
+
+
+[星展银行计划在香港申请提供 Crypto 交易](http://mp.weixin.qq.com/s?__biz=Mzg2NjAxMTI5Mg==&mid=2247500359&idx=1&sn=43127800bfae856a43b74e0ef0cf8e95&chksm=ce53d3b4f9245aa2f91295657e4344d5f2fe5272fe654b499c477b79166fe1f3259449eab620&scene=21#wechat_redirect)  
+
+
+[风靡创投圈的 Web3 是什么？](http://mp.weixin.qq.com/s?__biz=Mzg2NjAxMTI5Mg==&mid=2247500165&idx=1&sn=30afeb775c219146c25c09cc8352d195&chksm=ce53d076f9245960934349e6e0df33a0657d23ff3b4bf6266d9185d3086d87bcca4c4221edb0&scene=21#wechat_redirect)  
+
+
+[CBDC 和 Crypto 有望从动荡中脱颖而出](http://mp.weixin.qq.com/s?__biz=Mzg2NjAxMTI5Mg==&mid=2247500329&idx=1&sn=b3078c1466f1f76c99cdd8c190556ba0&chksm=ce53d3daf9245acc18b99c7d8fa33c71286df1a4852bbaec7142a4a343d9d4331b0c6d6c7ec9&scene=21#wechat_redirect)  
+
+
+![](https://img.foresightnews.pro/202303/47c33a55fa2609d1f9db149d4300c215.gif?x-oss-process=style/scale70)
+

@@ -1,0 +1,101 @@
+![](https://img.foresightnews.pro/202303/be8397190e29e258f9bb06fc311b72d8.jpeg?x-oss-process=style/scale70)**作者:****Chloe**  
+
+
+链茶馆已经很久没有关注Move 生态了，直到前天Sui 的 CTO 在Twitter 上和Aptos 掐架![](https://img.foresightnews.pro/202303/a1954d65724214b46611b4ee85f47cb9.png?x-oss-process=style/scale70)
+
+  
+
+
+他指控Aptos 向在 ETHDenver 期间举办的 MOVECON（Move 生态第一场大规模论坛）的主办方Pontem 团队施压，取消Sui 团队的演讲，甚至把Sui基金会从活动组织者名单中剔除。
+
+  
+
+
+该指控大概率成立，因为Pontem 确实取消了对 Sui 基金会的邀请，而Pontem 是Aptos 生态的钱包项目，并且MOVECON是在Aptos 大楼举办。
+
+  
+
+
+Aptos 和Sui 的核心团队都来自于从Facebook 已解散的稳定币项目Diem，因此都是Move 语言的OG，并采用了Move 语言来建构区块链。Sui 团队的 Tim Nowacki 还是 Move 编译器的设计者，Damir Arushanov 则写了第一本关于 Move 的书（http://move-book.com）。
+
+  
+
+
+无论是 Aptos 和 Sui，还是整个Move 语言，现在都远远谈不上起飞，那么造成如此紧张的关系也许只能解释为Move 赛道太卷了。
+
+  
+
+
+Aptos 被包装为来自 IT 行业最优秀开发者创造的独特产品，去年 Q4 启动主网并发币。虽然价格一路缩水超过 76%，但自年初以来表现十分强劲，最近有所回调，但总市值仍达21.8 亿美元。
+
+  
+
+
+据 CoinDesk 观点，上涨是由 Aptos 上的 NFT 市场（如 Aptomingos 和 Aptos Monkeys 系列）带动的。
+
+  
+
+
+不过链茶馆此前曾在线下头脑风暴会上邀请了区块链专家 Steven 分析 Aptos，他的观点非常精彩——Aptos 既没有区块也没有链，压根儿就没有完整的设计思想。
+
+  
+
+
+他的 diss 是：
+
+  
+
+
+*“Aptos 没有区块链基本的结构——就是以上一个区块为指针去指向下一个区块。因为没有了全局化的状态数字，所以不同节点之间是一个混乱的状态，它的攻击成本远远小于比特币或者以太坊。*
+
+*但是它又借鉴了 Solana 的全局时钟的概念。*
+
+  
+
+
+*总之 Aptos 是把「不可能三角」中的去中心化和安全性这两个最重要的部分给去掉了，给人的感觉是一个半成品，而不是一个有完整的设计思想的公链项目。”*
+
+  
+
+
+至于主网尚未上线也未发币的 Sui，在安全性上要略优于Aptos，因为它的共识算法可以抵御 DoS 攻击。而且据开发者反馈，Sui让 Move 语言更加好用（通过 Sui SDK 可以获得更好的 dapp UX 开发支持）。
+
+  
+
+
+Sui 的主网即将上线，在前天圆满结束了 Wave 2 测试，共有 7000 余节点连接到 41 个验证者，处理 3650 万笔交易，以及处理 735 万笔质押操作。
+
+  
+
+
+可以说 Wave 2 的表现让Sui 的主网进程的确定性更高了，而且届时的市场环境和生态的完善度也许会更好，这也许是Aptos 打压的Sui目的。
+
+  
+
+
+以下是链茶馆不负责的吐槽（欢迎在评论区吐槽我们的吐槽）：
+
+  
+
+
+历史上的很多衰败其实都有迹可循，转折点是从开放走向封闭，这是一种危机意识的下意识反应。
+
+  
+
+
+Aptos 在一个增量市场上玩存量市场里的那套商战手段，至少说明Sui 让他们有了危机意识，骨子里流出一种不自信。
+
+  
+
+
+特别申明一下，链茶馆并不据此认为Sui 一定会腾飞（毕竟没有深入研究，不过我们可以邀请区块链专家 Steven 再来 diss 一下 Sui）。我们比较看好 Cosmos 生态，并且将在3 月 18 日在上海举办一场Cosmos 论坛，欢迎关注及勾搭！
+
+  
+
+
+**热门赛道专题**
+
+  
+
+
+ [DeFi](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUxNDkxOTc4MA==&action=getalbum&album_id=2635260946592038912#wechat_redirect) ｜ [GameFi](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUxNDkxOTc4MA==&action=getalbum&album_id=2635277667805691906#wechat_redirect)｜[NFT](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUxNDkxOTc4MA==&action=getalbum&album_id=1783721960858796035&token=108254220&lang=zh_CN#wechat_redirect) ｜ [DAO](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUxNDkxOTc4MA==&action=getalbum&album_id=2635483580114141185#wechat_redirect) [｜](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUxNDkxOTc4MA==&action=getalbum&album_id=2635344486105088002#wechat_redirect) [SocialFi](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUxNDkxOTc4MA==&action=getalbum&album_id=2635344486105088002#wechat_redirect)[以太坊](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUxNDkxOTc4MA==&action=getalbum&album_id=2635348925943644161#wechat_redirect) ｜ [元宇宙](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUxNDkxOTc4MA==&action=getalbum&album_id=2635491315937443840#wechat_redirect) ｜ [跨链](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUxNDkxOTc4MA==&action=getalbum&album_id=2635334314750115841#wechat_redirect)[｜](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUxNDkxOTc4MA==&action=getalbum&album_id=2635344486105088002#wechat_redirect)[公链](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUxNDkxOTc4MA==&action=getalbum&album_id=2635226650506428417#wechat_redirect) 

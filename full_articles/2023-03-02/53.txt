@@ -1,0 +1,104 @@
+### 【1】FLUUS
+
+金额：60 万美元
+
+轮数：Pre 种子轮
+
+时间：2 月 28 日
+
+投资机构：FHS Capital 、Base64 Ventures
+
+项目类型：支付、法币通道
+
+项目介绍：FLUUS 是一家加密支付公司，构建了一个直观的小部件和 API，使企业更容易将加密货币升级无缝集成到他们的产品中，开发人员受益于连接到任何供应商的单一界面和智能选择引擎
+
+官网地址：<https://fluus.com/>
+
+领英：<https://linkedin.com/company/itsfluus>
+
+### 【2】Conflux
+
+金额：1000 万美元
+
+轮数：未披露
+
+时间：3 月 01 日
+
+投资机构：DWF Labs
+
+项目类型：基础设施、Layer1
+
+项目介绍：Conflux 是一个高性能的 Layer1 区块链，专为需要大规模速度的 dapp 设计，同时保证了去中心化。Conflux 的树图结构可以同时确认多个区块，这种区块和交易的并行处理降低了确认时间，并大大提高了交易吞吐量。作为中国一家合规和无需许可的公链，Conflux 正在为具有全球思维的加密项目构建一个无国界的交易和技术生态系统，从中国扩展到北美、俄罗斯、拉丁美洲、欧洲、非洲和世界其他地区
+
+其他补充：2018 年 12 月 5 号天使轮融资 3500 万美元
+
+官网地址：<https://confluxnetwork.org/>
+
+推特：<https://twitter.com/Conflux_Network>
+
+### 【3】Impossible Cloud
+
+金额：700 万美元
+
+轮数：种子轮
+
+时间：3 月 01 日
+
+投资机构：HV Capital 、1kx 、Protocol Labs 、Very Early Ventures 、TS Ventures
+
+项目类型：基础设施、存储网络
+
+项目介绍：Impossible Cloud 是一个基于 web3 技术的企业级云存储解决方案，可以让用户能够控制他们的数据，同时无需代币或钱包即可实现更快、更便宜、更安全的云存储
+
+官网地址：<https://www.impossiblecloud.com/>
+
+领英：<https://linkedin.com/company/impossiblecloud>
+
+### 【4】Helika
+
+金额：400 万美元
+
+轮数：种子轮
+
+时间：3 月 01 日
+
+投资机构：Diagram Ventures 、Fenbushi Capital 、Sfermion 、Big Brain Holdings 、Builder Capital 、Sparkle Ventures
+
+项目类型：工具、数据分析
+
+项目介绍：Helika 是一个 web3 技术平台，可提供实时分析并为游戏工作室和流行的 NFT 系列吸引新用户。Helika 专注于 Web2、游戏内、链上和社交媒体数据的综合分析，帮助 Yuga labs 和 Treasure 等顶级 Web3 品牌了解他们的社区，增加用户获取和参与度，并通过数据推动整体增长驱动的方法
+
+官网地址：<https://www.helika.io/>
+
+领英：<https://linkedin.com/company/helika>
+
+### 【5】Redeem
+
+金额：250 万美元
+
+轮数：未披露
+
+时间：3 月 02 日
+
+投资机构：Kenetic Capital 、CMT Digital 、VC3 DAO 、Flyover Capital
+
+项目类型：NFT、NFT 解决方案
+
+项目介绍：Redeem 将数字资产链接到用户的电话号码，让用户可以在任何地方轻松存储、访问和使用他们的数字资产。它允许用户通过扫描二维码或使用他们的电话号码在各种端点兑换门票、奖励和会员资格，允许用户使用现有行为和熟悉的服务（如 iMessage、WhatsApp 和 SMS）交换数字资产
+
+官网地址：<https://redeem.xyz/>
+
+领英：<https://linkedin.com/company/redeemtechnologies>
+
+### 关于 veDAO
+
+veDAO 是致力于发掘早期潜力项目的投融资社区。通过集结大众智慧和专业意见，为社区参与者、投资人、项目方提供公平、透明、民主的项目评价及投融资流程，让所有参与者共享项目发展红利。
+
+Website: <https://app.vedao.com/>
+
+Twitter: <https://twitter.com/vedao_official>
+
+Telegram：[t.me/veDAO\_zh](http://http/)
+
+Discord：<https://discord.gg/NEmEyrWfjV>
+

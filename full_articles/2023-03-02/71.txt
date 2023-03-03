@@ -1,0 +1,73 @@
+![](https://img.foresightnews.pro/202303/724baf0643a0920791d8deba26fba051.png?x-oss-process=style/scale70)Here, we are announcing an important milestone which we are planning to reach. MataOasis will open a new round of fund-raising. We are excited about making the decision that will help MetaOasis flourish and be built better.
+
+For all of our investors, partners, communities, and supporters, it is without a doubt a good idea because round B of fund-raising can certainly further help us accelerate our ambitious vision for MetaOasis.
+
+Look at the present, web3 games offer the gaming industry a completely new path to take, but due to its features and flaws, they are stuck in the position of focusing more on speculation than the game itself, making it difficult to expand into a larger market outside of web3.
+
+It still needs all people to make joint efforts in advancing the revolutions of web3 games, and we MetaOasis are fortunate to participate in it with the support of all our backers and partners.
+
+![](https://img.foresightnews.pro/202303/14a0d74caf2279f84ea269559326baec.png?x-oss-process=style/scale70)MetaOasis would like to take this opportunity to share with all of our supporters the learnings and insights we have gained over the previous year, the outcomes we have attained, and the improvements we will be implementing in the future.
+
+Let’s show outcomes we have attained. In products, some high quality games were listed on MetaOasis platform. In the area of marketing and business growth, we have reached a partnership with some active communities and superior projects as well as got positive feedback from users.
+
+These hard-won achievements have outlined MetaOasis and its ecosystem:
+
+* Over 30 VCs from crypto, web2 and web3.
+* Years of Web3 Marketing building
+* Over 100 partners from more than 30 countries and regions.
+* Over 10 blockchain games are listed on MetaOasis ecosystem.
+* Over 100 KOLs in close cooperation.
+* Over 4,000 gamers participated in the public beta of Light Chaser.
+* Over 10,000 online participants in a single Twitter Space.
+* TOP4 Trend on OpenSea on launch day (Genesis PlayerOne PFP NFT).
+* Double hackathon titles (Metaverse Hackathon Gamefi Track/Avalanche Asian Hackathon).
+* Take 1.5 million to layout of the VR field.
+We are confident that our supporters will be pleased with the outcomes obtained by MetaOasis.
+
+In the future, we will be committed to achieving our vision in order to create a top-ranking web3 game publishing platform, overcome more challenging technical obstacles, meet more users’ needs and create a larger ecosystem.
+
+MetaOasis has established an obvious path for achieving these goals. That is, Interstellar will lower the cost of game producers, and 1P DAO under MetaOasis will, for the first time, allow gamers and developers to work more closely together to create a robust and sustainable gaming ecosystem.
+
+![](https://img.foresightnews.pro/202303/a73a61942d9d36509b90d9bf1ee1668f?x-oss-process=style/scale70)### Enjoyment
+
+There is still a large number of speculators in gamefi at present, even if there is neither a scarcity of technology that allows users to lower the cost to access web3 nor of developers that are focusing on enjoyment. Numerous quality projects suffer as a result of not being able to find the guide to open the market, and individuals who believe in decentralized games are often disappointed…
+
+This is because practitioners have yet to establish an ideal environment for game players and creators to coexist and complement each other in the same way that web2 has.
+
+We know that **evolution is more important and challenging for enjoyment than creativity.** Based on this, MetaOasis will build a healthy and sustainable gaming ecosystem, providing players with constant novel gaming experiences while developers earn their profits.
+
+* For users: Players who actively give their opinions on the MetaOasis platform forums and those who actively promote MetaOasis to more users will be rewarded with significant tokens, which will make players become more and more eager to review, suggest and recommend.
+* For developers: With the incentive of tokens, quality projects will get more recommendations and good reviews, and even get support from Play-verse fund, which will empower the game NFT.
+The algorithm behind the MetaOasis consensus mechanism is that the DAU of each game is used as one of the indicators, and the hash rate is randomly assigned to its NFT output through a smart contract, the higher the DAU, the higher the total amount of hash rate will be acquired by the project; and players can earn $MTOS by staking the NFT with hash rate.
+
+The platform will become one of the most healthy and sustainable ecosystems on web3 as more and more high-quality games are listed, drawing in more and more players to be active on MetaOasis. As a result, their recommendations and opinions will make each game better and more fun in the process of self-optimization.
+
+### Infrastructure
+
+Infrastructure, the primary shortcoming shackling the development of web3, has been a clichéd topic in the gaming field. All major media platforms are filled with endless technological innovations, and practitioners seem to be making various attempts to solve pain points and optimize the experience, but very few of them can really be called valuable and landable.
+
+Therefore,MetaOasis has never been fancy to boast about technical innovations, but has always focused on solving the defects we have inspected and finding perfect solutions to optimize it.
+
+* For users: MetaOasis has divided the entry protocol into two layers, enabling web2 users sign up and log in in the form of their familiar account management system, and buy in-game assets using traditional methods of payment. The users’ assets will be managed by MetaOasis public accounts, while the smart contract can make the assets transfer and update from web2 to web3
+* For developers: By providing MetaOasis Labs integrated SDK for multiple engines and platforms, including a series of API that make it easy for web2 users to log in and pay, we assure that the game studios can save a lot of time in blockchain development and game deployment, regardless of their experience of blockchain games.
+Web2 users will no longer be blocked by the difficult and unfamiliar web3 environment in the future, while an efficient and professional series of development empowerment will also draw more quality developers to the platform.
+
+### Ecosystem
+
+![](https://img.foresightnews.pro/202303/ad54a06c700fe0a77c9c0af1e0b2837d?x-oss-process=style/scale70)Many practitioners try to make up for gamefi’s lack of gameplay by enriching and packaging ecology, which seems to produce a prosperous and grand ecosystem, but is meaningless to users, partners and even the projects themselves.
+
+We would like to take this opportunity to reintroduce you to the four segments of MetaOasis ecosystem, including Play-verse, Emergence, 1P DAO, and Interstellar.
+
+![](https://img.foresightnews.pro/202303/7ba25aa15b72ad8d04ec2b23eab03307?x-oss-process=style/scale70)We believe that these four highly valuable segments will help MetaOasis take the lead in becoming one of the first blockchain game publishing platforms on web3 that has both gameplay and a truly high-quality ecosystem.
+
+Finally, we would like to say.
+
+Compared with other web3 games or game platforms, we will work together with web3 pioneers to expand the border of technology, and not brag about some false innovation.
+
+We are keenly aware of the difficulties and challenges faced by users, developers and the platform in the current web3 field. We believe that through a series of solutions to optimize the experience and balance the interests of all parties, MetaOasis can eventually grow into a stable and reliable next-gen web3 game publishing platform.
+
+We believe that MetaOasis has the ability to bring more web2 users to the web3 by providing seamless and silky initial experience, ignite those decentralized gamers with a constant stream of emotional value, and lead quality developers through the vast desert between web2 and web3 to a new oasis with comprehensive empowerment.
+
+[**Twitter**](https://twitter.com/Metaoasis_) **|** [**Discord**](https://discord.gg/metaoasis) **|** [**Telegram**](https://t.me/metaoasis) **|**[**OpenSea**](https://opensea.io/collection/playerone-1p) **|** [**Website**](http://www.metaoasis.cc/) **|** [**Youtube**](https://www.youtube.com/channel/UCGLcR_Q72Uvpjf-NDuLgc6Q/featured) **|**[**Medium**](https://metaoasis.medium.com/)
+
+![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=7898e3857482)

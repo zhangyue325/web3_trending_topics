@@ -1,0 +1,37 @@
+![](https://img.foresightnews.pro/202303/c27978547a2bb5d91d0bc223403c6bf1.png?x-oss-process=style/scale70)### 主体工程：协议栈开发
+
+Dante 的技术开发已进入最终阶段。在本阶段，我们将通过上一阶段完成的各类 SQoS，实现 Verifiable Fraud Proof 和 Verifiable Passive Inception 两个关键技术。所以，最终阶段又被称为“VV Stage”。这两个关键技术将提供极高的跨链安全性，这一点将在后续官方即将发表的文章中详细介绍。
+
+### On-chain
+
+* （完成）Flow 技术栈 Omniverse Token 协议开发；
+* （持续进行）Flow 技术栈 Omniverse swap 协议栈开发；
+![](https://img.foresightnews.pro/202303/7ffd8e6d636070ea252132a40d4f3cf2.png?x-oss-process=style/scale70)### On-chain
+
+* （完成）Flow 技术栈 SQoS Items 组合机制链上测试组件开发；
+* The optimization of related SQoS items for Verifiable Fraud Proof.
+### Off-chain
+
+* The optimization of the related off-chain mechanism of the Verifiable Fraud Proof algorithm.
+![](https://img.foresightnews.pro/202303/7ffd8e6d636070ea252132a40d4f3cf2.png?x-oss-process=style/scale70)### On-chain
+
+* The development of Verifiable Fraud Proof.
+![](https://img.foresightnews.pro/202303/7ffd8e6d636070ea252132a40d4f3cf2.png?x-oss-process=style/scale70)暂无。
+
+* （测试网持续进行）测试网 V0.2.0（基础共识、Omni Smart Contract/Resource）；
+* ( 进行中 )Omniverse DLT 测试网部署。
+* Complete all the underlying algorithms of the Multi-Layer Gaming Model, and this leads us to come into the final “VV Stage”.
+* (Completed)The AMM mechanism of the Omniverse Swap.
+* ( 持续进行 )Dante Protocol 经济激励机制算法研究。
+* 研究更加适合多链部署的 token 机制。
+暂无。
+
+通过 Flow Grants milestone 2 的验收。
+
+[Dante Website](https://dantechain.com/) | [Dante Twitter](https://twitter.com/DanteNetworkCN) | [Dante Telegram](https://t.me/Dante_Network) |
+
+[Dante GitHub](https://github.com/dantenetwork) | [Dante Discord](https://discord.gg/sZeFJthprE) |
+
+Email: Nika@dantechain.com
+
+![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=533273b1a00c)

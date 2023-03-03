@@ -1,0 +1,176 @@
+[「StarkNet 中文」社区](https://linktr.ee/starknet_zh)和 Nurstar 推出全新采访系列《对话 Starknet 建设者》，通过采访 Starknet 生态建设者们，旨在让更多用户深入了解 Starknet 生态建设的重要进程，本系列涵盖全链游戏、开发团队、 基础设施等多领域，让用户对话 Starknet 项目背后的优秀团队。
+
+第一期采访邀请到的是 [Loot Realms](https://twitter.com/LootRealms) 团队，参与开发 Starknet 生态中的 MMO 全链游戏《Realms: Eternum》，本期将重点采访：游戏经济模型设计、Dojo 游戏开发引擎、社区参与方式、学习「Play to Die」模式等问题，全方面探索 Loot Realms 团队。
+
+采访英文版由 [Nurstar](https://twitter.com/0xNurstar) 发布，点击查看完整内容
+
+
+
+---
+
+### 关于 Bibliotheca DAO：
+
+[Bibliotheca DAO](https://bibliothecadao.xyz/) 是 Loot 生态游戏 Loot Realms 衍生的开放式、去中心化游戏开发工作室、孵化器、研究实验室。致力于打造一款基于以太坊和 Starknet 的全链游戏。同时积极参与游戏开发引擎 Dojo 开发。
+
+![](https://img.foresightnews.pro/202303/b35a9cf4749b64dd73c85041ea59871c.png?x-oss-process=style/scale70)
+
+### 关于 Realms: ETERNUM：
+
+[《Realms: Eternum》](https://realmseternum.com/)是由 Bibliotheca DAO 在 Starknet 利用 L2 高扩展性开发的经济和军事战略游戏，作为 Loot 衍生即时战略 MMO 全链游戏，具备实时游玩，无最终状态，可组合性、模式多样化等特点。ETERNUM 部署在 Starknet 和以太坊网络上，目前处于内测阶段，所有的游戏逻辑和游戏状态都在链上进行。目前《Realms: Eternum》正在测试两个游戏模块：Bastions 和 Ruins。
+
+链游开发协议 Realms: Adventurers 采用全新「Play to Die」。
+
+![](https://img.foresightnews.pro/202303/9efbac94aa1754d0286df3ce72891c73.png?x-oss-process=style/scale70)
+
+### 精彩对话：
+
+* 介绍 BibliothecaDAO、Loot Realms 和 《Realms: ETERNUM》
+* Realms 选择构建在 StarkNet 的原因
+* Dojo 游戏开发引擎
+* 了解 Realms 的代币经济模型
+* 如何通过社区建立游戏
+本文对话经过编辑，以下是翻译后的采访内容
+
+
+
+---
+
+关于 Realms
+---------
+
+这个项目通常被称为「Realms」，但有些概念需了解：
+
+* Bibliotheca DAO 是一个去中心化的游戏工作室，使用尖端技术构建区块链游戏。
+* Loot Realms 是由 8000 个程序生成的 NFT 组成的收藏品。它有两个功能：它们是一个 Realm 的「契约」，持有者可以玩 Realms: Eternum 游戏。持有 Loot Realms NFT 即成为领主。Loot Realms NFT 也是治理代币，持有者可以参与 Bibliotheca DAO 治理。
+* Realms: Eternum 是由 Bibliotheca DAO 开发的旗舰区块链游戏。这是一个复杂的经济和军事策略游戏，背景是在一个虚构地图集上。玩家是持有 Loot Realms NFT 的领主。目前游戏正在 Starknet 上进行 Pre-Alpha 测试。
+
+
+---
+
+作为 DAO，我们希望在以太坊上开发游戏，它是现在最为去中心化和安全的智能合约网络。
+
+我们的目标是建立复杂的游戏，让玩家有很多自主权，并将游戏逻辑和状态保持在链上。因此，我们需要一个二层扩展解决方案，以使计算密集型的游戏玩法变得可行。
+
+我们在 2021 年第四季度在 Arbitrum 上创建了《Realms：Eternum》的原型。然而，我们在链上遇到了计算上的硬性限制，这意味着我们无法创建 DAO 想要制作的复杂游戏。EVM 链非常适合简单的计算，但我们需要更多的链上计算空间。
+
+我们后续研究了解到了 StarkNet。StarkNet 团队编写了零知识的手册，我们相信 Cairo 作为编程语言会最大化 Rollup 的潜力。我们相信 Cairo 和 StarkNet 拥有最好的技术，所以当我们的游戏准备好上主网时，相信属于全链游戏的市场也会准备好。
+
+
+
+---
+
+我们与 [DoJo](https://github.com/dojoengine) 密切合作，它是一个使用 Cairo 1.0 和 Rust 编写的即将推出的链上游戏引擎。
+
+链上游戏本质上很难构建，DoJo 旨在通过抽象大部分复杂性来解决这个问题，让开发人员专注于游戏而不是基础架构。
+
+StarkNet 生态系统中许多优秀的开发人员正在研究 DoJo，我们很自豪能与他们合作。我们将把它添加到 SDK 中，以便开发人员在开发与 Realms 链上游戏宇宙相关的游戏时可以使用。
+
+
+
+---
+
+除了构建《Realms: Eternum》之外，我们还有一个名为《Realms: Adventurers》的单独计划。
+
+冒险家是链上角色。玩家可以花费少量成本（10 美元的 $Lords）铸造一个冒险家。这个链上角色可以进入小游戏，如果冒险家在游戏中死亡，该角色生命将被没收。我们称之为「Play to Die」。
+
+「Play to Die」是建立繁荣创作者生态系统的一种新颖方法。为什么？因为如果冒险家在你创建的游戏中死亡，你作为创作者，会收到用于铸造该冒险者的 $Lords 代币的分红。如果你的小游戏不好玩或没有奖励，就没有玩家来玩！这种推拉将创造一个繁荣的、包括玩家和创作者的双边市场。
+
+关于 Adventurers 的一个要点是它是建立在原始 Loot 包 NFT 上的。Bibliotheca DAO 正在创建原始物品，给予 Loot 包中的物品物理属性，如武士刀和圣袍。
+
+通过「Play to Die」机制，我们为建造者创造了一个无需许可的激励系统，以不断扩展 Realms 全链游戏宇宙。 计划中的游戏包括类迷宫探索型游戏 (rogue-like games)、幸存者游戏、卡牌游戏……想象一下一个去中心化的 Realms 全链游戏应用商店，你就明白我们的思路了。
+
+
+
+---
+
+代币经济模型及其它
+---------
+
+在这次的代币销售中获得了超额认购（超过 6 倍），并在社区私募轮售罄并完成资金募集，为社区的力量感到自豪。
+
+代币销售计划是 DAO 对社区治理提案 (BIP-7) 进行投票后的结果。募集资金是为了资助链游《Realms: Eternum》和《Realms: Adventurers》下一阶段的发展。
+
+目前 DAO 成员正在精心设计提案，以增加 $LORDS 代币流动性，引进专业人才，如 3JS 工程师来升级 Realms 地图集。且将创建基金，让 Bibliotheca DAO 资助其他游戏开发者参与 Realms 全链游戏宇宙的开发。
+
+欢迎 Loot Realm NFT 持有者加入社区讨论。
+
+
+
+---
+
+除经济中的主要代币 \(LORDS 外，还有其他的资源代币。当 Loot Realm NFT 结算时（即质押参与《Realms: Eternum》游戏），它可以产生资源。一共有 22 种 ERC1155 资源代币。玩家需要在游戏 AMM 中互相交易资源，用于建造建筑物和召集军队。而且每种资源都可以与 \)LORDS ERC20 代币兑换。
+
+从 Realms 中生产新的资源需要花费资源成本。玩家必须决定哪些资源的生产更加可行。通过这种方式，可以避免游戏经济出现游戏玩家不参与游戏只挖掘资源的问题。
+
+最后，DAO 能够在 NFT 市场的交易费用中赚取 \(ETH，作为 DAO 的固定流动资产。它可以在市场上出售来补充 DAO 国库，减少从 DAO 国库中出售 \)LORDS 代币来资助 BIP 计划的需要。
+
+
+
+---
+
+我们现在正处于全链游戏早期阶段，或称之为黎明时期。最令人兴奋的是，只要以太坊不断生产区块，我们开发的游戏就能永久存储在链上。我们希望开发出一款能够代代相传、具有深远影响的游戏。
+
+为什么我们以前没有全链游戏呢？大部分区块链用户上链的价值，如金融和艺术，人们对于将事物转移到链上产生了巨大的兴趣。因为区块链具备透明度、互操作性、真实所有权、永久性等多方面特质。
+
+创建全链游戏的需求一直存在，但扩容解决方案迟迟未出现。因为在 L1 的计算成本非常昂贵，导致在 L1 创建游戏难以实现。在合并完成后， L2 的扩展性能，如 Rollup 能够轻松解决成本问题。
+
+现在，像金融和艺术领域一样，我们看到了开发者们攻克了难题，克服区块链的限制，从而创建出真正的全链游戏。因此，当前还是非常早期阶段，但链游发展的步伐正在加快。
+
+
+
+---
+
+任何游戏最重要的就是可玩性，这一点同样适用于全链游戏。如果游戏可玩度高，实现玩家之间的良性竞争，促进游戏生态积极发展，就会不断吸引更多新玩家参与其中。
+
+
+
+---
+
+《**Realms: Eternum》游戏永远不会「完结」，因为开发者会不断扩展游戏。我们希望**《Realms: Eternum》达成不断扩展、永存的、社区所有的元游戏 (Metagame)。希望未来能够将 Loot Realms 能够一直传承下去，到下一代、下下代…不断更迭，让源源不断的新玩家参与，继续游戏之旅。
+
+
+
+---
+
+关于团队
+----
+
+大约有十几名全职和兼职开发人员、通讯和社区贡献者。DAO 中有数百人每天做出小的贡献，例如训练 DAO 正在开发的文本转图像的自定义模型。
+
+
+
+---
+
+关于 DAO
+------
+
+Realms 是最早的全链游戏之一，在 2021 年 8 月开始构建。我们没有答案，但有正确的态度。我们每天都在让游戏变得更加透明，对贡献者更加包容，更加去中心化。我们很自豪有这样一个充满激情、才华和动力的社区，每天都在为最棒的全链游戏这一使命做出贡献。
+
+
+
+---
+
+任何人都可以！如果您想为《Realms：Eternum》做出贡献或使用 Adventurers 制作小游戏，请加入 Realms x Bibliotheca DAO Discord，在其中询问 Loaf 或 Secretive。
+
+
+
+---
+
+学习 Cairo。我们非常看好 Cairo！
+
+Cairo 一开始可能看起来很劝退，但我们相信它是将 ZK 技术潜力最大化的完美语言。它不仅在 StarkNet 上使用，而且还可以在非 EVM 网络上使用。如果想学习 Cairo，欢迎进入我们的 Discord 社区，我们有问必答。
+
+
+
+---
+
+🔮Loot Realms Discord 社区：<https://discord.com/invite/yF6vNegMZd>
+
+💙 Bibliotheca DAO 网站：<https://bibliothecadao.xyz/>
+
+🎴 《Realms: Eternum》网站：<https://realmseternum.com/>
+
+🔧 BiBibliotheca DAO 代码库资源：<https://github.com/bibliothecaDAO>
+
+📑 Loot Realms 白皮书文档：<https://scroll.bibliothecadao.xyz/>
+

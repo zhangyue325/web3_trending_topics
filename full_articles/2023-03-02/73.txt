@@ -1,0 +1,30 @@
+近日，NFT 数据基础设施服务商 NFTScan 宣布正式成为 BNBChain Kickstart Program 官方 NFT 数据服务商。双方将在 NFT 数据和生态建设方面进一步开展深度合作。
+
+BNB Chain 启动的 “Kickstart Program” 计划，旨在帮助区块链开发人员在知名业内机构的支持下开始他们的项目。通过此次合作，NFTScan 将为 BNB Chain 生态 Web3 开发者提供全面的多链 NFT 数据服务，降低开发者门槛，提高开发效率，更好地促进 BNB Chain 网络 NFT 生态的繁荣发展！
+
+对于加入 BNBChain Kickstart Program 的开发者团队，NFTScan 提供以下支持：
+
+1）拥有 Pro API 服务 3 个月的免费使用权限；
+
+2）有机会与 NFTScan 技术团队进行一对一的技术交流；
+
+3）有机会使用 NFTScan 旗下 Web3 生态资源网络；
+
+欢迎 BNB Chain 生态开发者加入该 Program 计划，与 NFTScan 团队一起构建具有创造力的 Web3 产品和协议！
+
+Apply Now:
+
+https://www.bnbchain.org/en/developers/developer-programs/kickstart
+
+NFTScan 是亚洲地区最大的 NFT 数据服务商，目前已支持 Ethereum、Solana、BNBChain、Polygon、Avalanche、Arbitrum、Optimism、Fantom、Moonbeam、PlatON、Cronos、Gnosis 12 条区块链。除了 NFTScan.COM 多链浏览器产品外，NFTScan 旗下设有 Web3 开发者平台，为区块链开发者提供专业的 NFT API 数据服务。NFTScan 目前服务了 100+ Web3 项目，其中包括 Coinmarketcap、Safepal、Mask、imToken、CyberConnect、BitKeep、DefiYield、Kucoin、OneKey、Cobo、Bybit、Enjin、Stepn 等知名区块链项目。
+
+NFTScan: https://nftscan.com/
+
+Developer: https://developer.nftscan.com/
+
+API Docs: https://docs.nftscan.com/
+
+Twitter: @nftscan\_com
+
+![](https://img.foresightnews.pro/202303/5303-1677739217699.png?x-oss-process=style/scale70)
+

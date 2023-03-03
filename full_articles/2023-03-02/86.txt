@@ -1,0 +1,194 @@
+![](https://img.foresightnews.pro/202303/ab8372828ffe9e1d95682aa41aa19688.png?x-oss-process=style/scale70)  
+
+
+我们非常高兴地宣布 Chainlink Functions beta 版正式发布！这是一个无服务器的开发者平台，任何人都可以使用安全可靠的 Chainlink 网络，轻松将智能合约接入任何 Web2 API 接口，并运行自定义计算任务。
+
+  
+
+
+Chainlink Functions 的发布标志着 Chainlink 平台进入了全新的发展阶段。之前，Web3 开发者无法将智能合约接入传统的 Web2 API 接口，因此无法访问社交媒体平台、人工智能计算以及消息传输服务等资源。不仅如此，三千多万名 Web2 开发者也无法利用现有的 Web2 基础设施来构建 Web3 应用。Chainlink Functions 正好可以解决这一问题，为开发者提供所需的服务，构建功能强大的混合型应用。
+
+  
+
+
+AWS、Meta 和 Google Cloud 等顶尖的云服务商以及 Web2 平台都参与了展示用例，向开发者展示了如何使用 Chainlink Functions 轻松在智能合约中接入 Web2 API 以及云服务。Block Scholes、ChainML、Dopex、Nusic 以及 Thirdweb 等众多项目在各类 Web3 垂直应用场景中都尝试了 Chainlink Functions，用例包括 AI 集成和 DAO 治理。
+
+  
+
+
+有了 Chainlink Functions 的加持，Web3 开发者可以安全快速地将智能合约自助接入链下资源，无须自己运行基础设施。开发者只需要确定想要访问的外部数据源（如：天气数据和体育比赛数据）、数据点的处理方式（如：取中位数）以及数据输出的目的地（如：以太坊智能合约）即可。Chainlink Functions 简化了后端复杂性，并严格按照代码执行。这样做的好处是开发者可以将注意力放在打造创新的 Web3 应用上。
+
+  
+
+
+Chainlink Functions beta 版目前在以太坊 Sepolia 和 Polygon Mumbai 测试网上正式上线。请点击下方链接注册并使用：
+
+  
+
+
+**访问 Chainlink Functions**
+
+![](https://img.foresightnews.pro/202303/1d6e2e1e3d6dcf0cdce14ed6b4771ceb.png?x-oss-process=style/scale70)  
+
+
+**为 Web3 开发者打造的无服务器平台，只需几行代码就可以访问任何数据、设备或系统**
+
+  
+
+
+Chainlink Functions 是一个去中心化的 compute runtime，为 Web3 应用测试、模拟和运行自定义的链下逻辑。这就类似于在云端无服务器解决方案（如：AWS Lambda、GCP CloudFunctions 以及 Cloudflare Workers）基础上添加了[信任最小化](http://mp.weixin.qq.com/s?__biz=MzU0MTgyMDQwNQ==&mid=2247496463&idx=1&sn=123837db631d70b6f233887324aad751&chksm=fb26a795cc512e83a40869b8eb08946e46a70f212de4fa3c3f3b57722aa636f2eb07054352be&scene=21#wechat_redirect)和区块链功能。
+
+  
+
+
+开发者无须亲自部署和运行外部适配器来进行自定义的链下计算，也无须寻找或运行自己的 Chainlink 节点将智能合约连接至链下世界；而是只需要专注于开发去中心化的应用，并将保障连接、安全和可靠性的工作交给 Chainlink 网络。Chainlink 是区块链行业内最成熟的预言机和计算基础设施。另外，Chainlink Functions 还是一个完全自助式的平台，开发者无须与 Chainlink Labs 或 Chainlink 节点运营商交互，就可以接入外部数据或计算资源。
+
+  
+
+
+![](https://img.foresightnews.pro/202303/8a18224c304c54bf64e3f9c1712d03fc.png?x-oss-process=style/scale70)注：Chainlink Functions 是分布式的无服务器基础设施，由 Chainlink 去中心化的预言机网络提供支持，并采用了最新版的链下报告（OCR）协议。OCR 是 Chainlink Data Feeds 底层的共识协议，并为 Aave、Compound 和 Frax Finance 等众多主流的 Web3 协议提供安全保障。Chainlink Functions 测试网 beta 版的订阅合约采用测试网 LINK 通证。
+
+  
+
+
+**Chainlink Functions 为开发者实现的功能**
+
+  
+
+
+* **畅通无阻的连接性：**可以将智能合约接入任何数据、设备或系统，无论是公共还是受密码保护的 API 接口，物联网设备还是企业系统，都可以畅通无阻。
+* **可自定义的计算：**无服务器 runtime 环境可以实现强大的可扩展性和自定义功能，并用来聚合和处理数据。
+* **信任最小化的安全性：**Chainlink 去中心化的基础设施经过了时间的检验，已经为众多 Web3 应用保障了数十亿美元的价值。
+* **几分钟即可享受自助服务：**Chainlink Functions 无服务器解决方案只需几分钟就可以上手。解决方案包括一个 CLI、新手工具包以及一个 debugging 环境。
+* **无服务器的 runtime 环境：**无需服务器就可以运行 JavaScript 代码，因此可以将原本放在基础设施上的时间和精力花在核心应用开发上。
+
+  
+
+
+**为百万开发者打开 Web3 世界的大门**
+
+  
+
+
+如今，区块链行业大约有几十万个应用开发者，而全世界的开发者总数大约是三千万。区块链如果要变成像云服务甚至人工智能一样主流的技术，就必须不断提升 Web3 开发者的体验。而 Chainlink Functions 要解决的其中一个根本问题就是 API 数据访问，Functions 可以为 Web3 建设者解锁全新的应用场景。
+
+  
+
+
+接下来，我们将具体阐述 Chainlink Functions beta 版面向智能合约开发者的四个初始设计。如果想查看附带代码片段的用例（包括如何接入 AWS、Google、Meta 和 Twilio 等主流 API 接口），请查看最新的开发者教程《使用 Chainlink Functions 的 5 种方式》。
+
+  
+
+
+另外，各位开发者还可以访问：
+
+https://www.usechainlinkfunctions.com/  
+
+
+这是一个社区网站，开发者可以在上面分享自己使用 Chainlink Functions 创建的链下连接用例。
+
+  
+
+
+![](https://img.foresightnews.pro/202303/bf0df702599419c83c358e30a7551b5e.png?x-oss-process=style/scale70)Chainlink Functions 将在连接性和计算两个维度解锁一系列丰富的用例。 
+
+  
+
+
+**接入数据**
+
+  
+
+
+开发者可以使用 Chainlink Functions 连接至任何公共或私有数据 API 接口，比如获取最近的游戏或体育比赛结果，或从 Token Terminal 上获取某一 Web3 协议的指标数据（如：协议收入、用户费用、活跃用户人数和 TVL）。
+
+  
+
+
+另外，还可以使用 Chainlink Automation 来实现其他功能。比如，可以创建基于外部事件变化的动态 NFT，利用 Chainlink Automation 来持续确认 NFT 是否需要更新，当条件满足时利用 Chainlink Functions 将事件数据上传到链上。
+
+  
+
+
+**接入物联网设备和传统后端系统**
+
+  
+
+
+开发者可以通过 Chainlink Functions 接入受密码保护的物联网设备数据或企业系统，将 Web3 协议和 Web2 技术相结合。比如，开发者可以从智能手表或探测污染物的智能传感器获取数据。他们还可以将智能合约接入企业 ERP 系统（比如 SAP），以开发供应链应用；或接入 Stripe 的 API 接口，以查看用户的账户余额。
+
+  
+
+
+**连接并处理数据**
+
+  
+
+
+开发者在将数据输入智能合约之前还可以使用 Chainlink Functions 对数据提前进行处理。比如，开发者可以从社交媒体 API 接口获取数据，对数据进行情感分析，并将分析结果发送到链上，以触发链上操作（如：用户可以获得限量版 NFT）。
+
+  
+
+
+**链下计算和存储**
+
+  
+
+
+开发者还可以集成 Chainlink Functions，将智能合约接入 IPFS 和 Filecoin 等外部去中心化数据库。这将有助于开发链下计算类 dApp，利用 Chainlink 的去中心化预言机网络作为计算层，并利用 IPFS 作为低成本的去中心化存储层。比如，开发者可以为 DAO 开发去中心化的链下投票系统，利用 Chainlink Functions 来获取链下投票，并将投票结果发送到链上，触发智能合约执行。
+
+**立即探索 Chainlink Functions 的功能**
+
+  
+
+
+Chainlink Functions beta 版目前已经在以太坊 Sepolia 和 Polygon Mumbai 测试网上线。在未来我们会根据用户的需求和反馈在更多区块链上线。
+
+  
+
+
+如果你想使用 Chainlink Functions beta 版，请点击此处注册。另外，你也可以查看Chainlink Functions 开发者文档，并加入 Chainlink Discord 群组询问技术问题或提出反馈意见。如果你正在参加[ETHDenver 2023](http://mp.weixin.qq.com/s?__biz=MzU0MTgyMDQwNQ==&mid=2247496489&idx=1&sn=ffcdfa4468303a4de91275a9ca23ee11&chksm=fb26a7b3cc512ea560e1323ceddc16b4f8ba1ada8390cd882c32d3e3354d0a9f90c5bd9e83ac&scene=21#wechat_redirect)（以太坊丹佛大会），欢迎前来参加 Chainlink Functions 的发布活动。参与此次活动的嘉宾还包括 AWS、Polygon 以及 Web3 领域的顶尖开发者。
+
+  
+
+
+![](https://img.foresightnews.pro/202303/e8594c64525d2f742a538d2a689b82a0.png?x-oss-process=style/scale70)**注册**
+
+**Chainlink Functions beta**
+
+![](https://img.foresightnews.pro/202303/89d7ef6e3d281371578522b30a5de87b.png?x-oss-process=style/scale70)**查看**
+
+**Chainlink Functions 开发者文档**
+
+Chainlink Functions 让 Web3 开发者能够在几分钟内轻松将智能合约接入链下资源，并由 Chainlink 强大的去中心化网络提供可靠的保障。一旦智能合约可以畅通无阻地接入现实世界并同时保障信任最小化，势必将激发出无限潜力。Chainlink Functions 将 Web2 系统与区块链在安全、透明和效率上的独特优势相结合，将打造出更多创新的高级 Web3 用例。
+
+  
+
+
+免责声明：Chainlink Functions 目前处于 beta 阶段，并可能基于用户反馈或未来开发需求而发生变化。Chainlink Functions 是"按现状"和"按可用性"提供的，没有任何形式的条件或保证。Chainlink Functions 的用户需要自行考虑其应用中使用的数据质量。如想进一步了解如何筛选优质的数据源，请参考 Chainlink 文档中“评估数据源”部分。
+
+  
+END  
+  
+‍‍▲获取 Chainlink 官方最新资讯  
+加入 Chainlink 官方渠道▼
+
+![](https://img.foresightnews.pro/202303/3b448bcab9371465762484a634e88fa4.jpeg?x-oss-process=style/scale70)  
+**Chainlink 官方渠道**   
+微博:  https://weibo.com/chainlinkofficial  
+知乎：https://www.zhihu.com/people/chainlink  
+中文 Twitter: https://twitter.com/ChainlinkCN  
+Twitter:  https://twitter.com/chainlink  
+中文爱好者电报群：https://t.me/chainlinkfans  
+Telegram:  https://t.me/chainlinkofficial  
+Discord:   https://discord.gg/aSK4zew  
+GitHub:  https://github.com/smartcontractkit/chainlink  
+SegmentFault：https://segmentfault.com/u/chainlink  
+QQ 群: 6135525  
+合作联系:  china@smartcontract.com  
+  
+![](https://img.foresightnews.pro/202303/acbd2417f9c7a98a99dbd7dd06376440.gif?x-oss-process=style/scale70)点击“阅读原文”，查看更多
+
+  
+
+

@@ -1,0 +1,35 @@
+![](https://img.foresightnews.pro/202303/719132a42d2209f387d69e90965f6617.png?x-oss-process=style/scale70)Thank you for your support of Gosleep. The Gosleep Closed Beta Test is about to begin.
+
+Gosleep is a HealthFi-focused lifestyle app built on the Arbitrum and backed by leading investment firms such as Foresight Ventures, CCC Capital, Amber Group, SevenX Ventures, KuCoin Ventures, and Gate Labs. The goal of Gosleep is to incentivize players to adopt a healthy lifestyle through personalized sleep advice based on their sleeping patterns, helping them develop healthy sleep habits over time.
+
+We will take a snapshot of Nightscapter Edition Holders and Starlight Edition Holders at 4:00 AM UTC on March 3rd, 2023. Addresses that meet the requirements can participate in Closed Beta Test.
+
+To participate in the beta test, users need to register an account and import their wallet. The wallet address will be matched with the snapshot results, and corresponding centralized NFTs will be generated based on the snapshot results (multiple NFTs can be generated).
+
+Each user will receive an initial amount of 150 ZZZ and 15,000 NGT.
+
+Closed Beta Test Prize: Max $50000 $NGT
+
+For NFT holders: A snapshot will be taken when the user enters the beta test and another snapshot will be taken at the end of the test. The two snapshots will be compared, and as long as the user holds our NFTs at the beginning and end of the test, the settlement will be based on the NFT holdings at the end of the test. The highest quality NFT will be used as the standard, and other NFTs will be used as growth parameters, multiplied by the user’s active days to reward NFT holders.
+
+The weights of the NFTs are as follows: Common = 0.1, Rare = 0.2, Epic = 0.4, and Myth = 0.8.
+
+![](https://img.foresightnews.pro/202303/a4dc0d3218cf8e5e59bed25e4e0b3b6c.png?x-oss-process=style/scale70)Token Rewards = Active days \* Highest quality NFT standard \* (1 + 0.1 \* number of common NFTs + 0.2 \* number of rare NFTs + 0.4 \* number of epic NFTs + 0.8 \* number of legendary NFTs)
+
+Example:
+
+If a user has one Epic NFT, one Rare NFT, and one Common NFT under their address, and they have been active for seven days, their reward will be:
+
+Reward = 7 \* 300 NGT \* (1 + 0.1 \* 1 + 0.2 \* 1) = 2,730 NGT.
+
+Each address who participates in the Closed Beta Test can receive three furniture lotteries, which will be airdropped to the registered email address after the public beta test.
+
+After the Closed test starts, **100** addresses will be randomly selected each day to receive a free NFT airdrop.
+
+Addresses that have already received rewards will not receive additional free NFT airdrops
+
+Based on their registered account, they will receive 1 furniture lottery airdrop, which will be sent to their registered email address after the public beta test.
+
+Note: If a user registers and receives an airdrop before importing their wallet and discovering that they are an NFT holder, they will only receive one reward.
+
+![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=52be567177e9)
