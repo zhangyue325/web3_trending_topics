@@ -1,0 +1,14 @@
+我所编写的非官方 OpenAI PowerShell SDK，今天升级到 1.0.4.7 这个版本，增加了对 ChatGPT 的支持。
+
+
+> 这个 SDK 支持的 PowerShell 包括了 5.1 和最新版的 PowerShell Core，所以理论上是全平台都可以使用（Windows，Mac 和 Linux ），你可以通过 Install-Module code365scripts.openai 来安装。更多详情请参考 https://github.com/code365opensource/code365scripts/tree/master/code365scripts.openai  【点击”阅读原文“ 可直达此地址】
+
+![](https://img.foresightnews.pro/202303/5e19ca8e5a6573cb7f6d87d829341ba9.png?x-oss-process=style/scale70)
+
+你可以通过New-ChatGPTConversation 这个命令，或者 chatgpt 、 chat 这样的缩写启动它，然后就像你在网页中对话那样愉快的聊天了。  
+
+
+这个函数可以建立一个基于 ChatGPT 的聊天机器人界面，以便你可以一直输入内容，并且得到答复。请注意，默认是单行输入，但通过输入 m 回车后即可多行输入，而 输入 f 回车后可以选择磁盘上的整个文件作为输入。这个函数跟 New-OpenAICoversation 的最大区别就在于，它调用的是真正的 ChatGPT 的模型（默认就是 gpt-3.5-turbo），而且它是有上下文理解能力的。当前我实现的版本，默认会把最近的 5 个消息历史作为上下文。
+
+我什么会开发这个 SDK？这是由于 PowerShell 在很多公司内部的 IT 管理和运维（以及自动化）场景使用非常广泛，有了这个 SDK，就可以很容易地把人工智能的能力介入到这些场景中去了，期待可以帮助到大家。
+

@@ -1,0 +1,63 @@
+![](https://img.foresightnews.pro/202303/982326ff8a41d12e5a6a8b063411decc.png?x-oss-process=style/scale70)
+
+BNB 链的支持，是 Watchers 未来支持多链的重要一步。
+
+我们很高兴地宣布，我们的区块链数据分析平台 -Watchers 现已支持 BSC 链，为 BSC 链上的项目和用户提供更全面、更深入的数据分析服务！
+
+BSC 是目前 TVL 第三大的链，并拥有大量的活跃用户。Watchers 通过对 BSC 数据的支持，能够极大的丰富用户的链上行为数据，并最终生成更大的地址关联图谱以及更全面的用户画像。除此以外，BSC 链上多种多样的 Token、项目，也能够进一步丰富我们的数据库，帮助用户挖掘出基于 BSC 的宝石。
+
+截至目前，我们的 BSC 的基础数据规模如下：
+
+1. 识别了 234,831,507 地址 和他们的实体
+2. 识别了 3M+ token
+3. 识别了 300+project
+### 如何切换 BSC 链：
+
+只需点击左上角的 BSC 按钮来快速切换。
+
+![](https://img.foresightnews.pro/202303/b5d951eafd4ac2f1438663e365b876f1.png?x-oss-process=style/scale70)
+
+### 您可以在 Watchers BSC 版本上得到什么
+
+这个模块提供了 BSC 上代币、地址、以及项目的排行。同时您可以点击排行中任意一个地址、项目、代币来进入相对应的详情页面。
+
+对于 Wallet Explorer，您可以在此看到某个代币的最大持有者排行，以及该地址所对应的标签。
+
+![](https://img.foresightnews.pro/202303/ceac0f30d82194d3d5f9a84f09aaed1b.png?x-oss-process=style/scale70)
+
+对于 Token Explorer，您可以找到 BSC 链上市值最大的 Token 的各种数据，例如合约地址、价格变动、市值以及持有者人数信息。
+
+对于 Project Explore，您可以找到 BSC 链上分别按照 TVL 或活跃用户数排名的项目。
+
+![](https://img.foresightnews.pro/202303/8f9ca4bd3d55331efe910a95fcd71776.png?x-oss-process=style/scale70)
+
+对于 Project Explore，您可以找到 BSC 链上分别按照 TVL 或活跃用户数排名的项目。
+
+![](https://img.foresightnews.pro/202303/b9d282e2264fa1c1cfcd8d111b5a547a.png?x-oss-process=style/scale70)
+
+1. 调查模式:
+当您在确定一个地址或代币之后，想要对其的链上行为进行深度分析时，就能够使用该模块内的工具。
+
+对于 Address Clustering，您可以看到该地址在 BSC 链上的关联地址情况，例如，与该地址交易频繁的 EOA 地址，或交易所充币地址，以及他部署过的合约地址等等。
+
+![](https://img.foresightnews.pro/202303/5d5baf6c53b7513b6a203e38f491388f.png?x-oss-process=style/scale70)
+
+对于 Money FLow，您可以追踪该地址在 BSC 链上的资金动向，您还可以通过筛选代币、时间，来精准查找。
+
+![](https://img.foresightnews.pro/202303/863d2924fd6d435069758b914eb5f354.png?x-oss-process=style/scale70)
+
+对于 Token Holder Graph，您可以查看某一个代币在 BSC 链上分配情况，例如该 Token 分别在交易所、桥、合约、EOA 地址中的分布占比。
+
+![](https://img.foresightnews.pro/202303/b10ca2d16ce4339d8f97e0c4124c0db4.png?x-oss-process=style/scale70)
+
+* 你可能会注意到，在 BSC 版本中的功能相较于 ETH 会少一些，例如 Due-diligence 功能，该板块将会在不久的之后上线。
+### 下一步
+
+拓展更多链的数据是我们的目标，ETH 和 BSC 链只是我们战略版图中的一小部分，请大家拭目以待。悄悄透露：L2 马上到来。
+
+我们近推出了邀请奖励计划！完成任务，就可赢得免费 Watchers Pro 会员，享受 20% 的现金返还! 在 Notion 中了解更多细节👉[https://www.notion.so/0xScope-Presents-Watchers-pro-Referral-Program-7e0addb4479e482197b4421250af97c0 找到程序的详细信息和用户指南](https://www.notion.so/0xScope-Presents-Watchers-pro-Referral-Program-7e0addb4479e482197b4421250af97c0%E6%89%BE%E5%88%B0%E7%A8%8B%E5%BA%8F%E7%9A%84%E8%AF%A6%E7%BB%86%E4%BF%A1%E6%81%AF%E5%92%8C%E7%94%A8%E6%88%B7%E6%8C%87%E5%8D%97)
+
+官方邀请链接：XXX
+
+加入我们，传播 0xScope 的传奇，并从您的推荐中赚取现金回报吧！
+

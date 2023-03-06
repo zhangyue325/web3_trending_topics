@@ -1,0 +1,61 @@
+![](https://img.foresightnews.pro/202303/982326ff8a41d12e5a6a8b063411decc.png?x-oss-process=style/scale70)
+
+近期 0xScope 推出了“Watchers.pro 推荐计划”计划，完成任务，赢得免费 Watchers Pro 会员，并且享受 20% 的现金奖励!！
+
+在我们的 Notion👉 [<https://www.notion.so/0xScope-Presents-Watchers-pro-Referral-Program-7e0addb4479e482197b4421250af97c0](>) 了解详细信息！
+
+0xScope 是第一个 Web3 知识图谱协议。它通过从数据层建立新的身份标准——新的范围实体 (Scope Entity)，解决了 Web3 数据分析地址而不是真实用户的问题。并利用其知识图形化能力统一了不同类型 Web2 和 Web3 数据的标准，大大降低了数据获取难度，提高了数据利用效率。
+
+![](https://img.foresightnews.pro/202303/014d742bd15cc6c3d8b45e18a2781e9c.png?x-oss-process=style/scale70)
+
+近期，Watchers 迎来了一系列重大升级，让我们来看看 Watchers V2 到 V3 的全面升级的具体内容，以及它将带给您哪些价值：
+
+* Watchers Pro 新增对 BSC 链的支持，包括 3M+ 代币和 300+ 项目。
+* Watchers Pro 新增 Alpha Hunting 模块：Smart Money 和 Live Statistics
+* Watchers Plutus 新增 Asset Management, Project Hub, Address Profiler 功能
+* 推出推荐返佣机制，我们的忠实粉丝将成为 0xScope 传奇延伸的节点
+Alpha Hunting
+-------------
+
+加密市场是一个充满信息不对称的黑暗森林。随着新代币的出现，热点转移，鲸鱼用户使用多个地址进行高频操作，极其复杂、高度相关的交易继续出现在市场上，投资者需要更智能的工具来捕捉市场数据，以帮助自己进行交易。 为此，我们开发了新的功能来为即将到来的牛市做准备：
+
+### Live Statistics
+
+Live Statistics 是一个实时数据聚合仪表板，旨在帮助用户尽快发现链上发生的最新市场趋势，并做出更好的交易决策。该仪表板包括 GAS 消耗统计数据、链上活跃地址的趋势、CEX 存取排名、机构和交易所大额转账的新闻，以及稳定币供应的总变化。
+
+![](https://img.foresightnews.pro/202303/818ee0f4a5f5ce03dbf5bc1e472ee9b4.png?x-oss-process=style/scale70)
+
+### Smart Money Signals
+
+什么是 Smart money? Smart money 是指可能由具有丰富投资经验的个人控制的特定地址。这些地址在过去通过对市场的相对准确的预测获得了优异的投资回报。
+
+跟踪 Smart money Signals 有什么好处? 聪明的投资者通常在市场变化发生之前进行投资或撤资。跟踪他们的行动可以帮助我们更早地了解市场趋势；其次，Smart money 可能由掌握内幕信息的个人或团队控制，跟踪他们的行为可能有助于减少信息不对称的影响。 因此，我们开发了多种算法来识别这些地址，并每天汇总他们的实时交易行为，为用户提供辅助投资数据仪表板。
+
+![](https://img.foresightnews.pro/202303/67ca3406c57e051cbf3fecd7e9802693.png?x-oss-process=style/scale70)
+
+BNB Chain Support
+-----------------
+
+0xScope 正在为更多的链扩展数据，首先将与 BNB Chain 深度合作、共建生态。BSC 作为第三大 TVL 的公链，拥有大量活跃用户——我们很高兴地宣布，0xScope 现在开始支持 BSC 链，并为 BSC 链上的项目和用户提供更全面、更深入的数据分析服务。通过 Watchers 对 BSC 数据的支持，我们将进一步丰富用户的链上行为数据，生成更大的地址关联图和更全面的用户档案。截至目前，我们对 BSC 支持的基本数据规模如下:
+
+1. 识别了 234,831,507 个地址及其实体
+2. 已识别的 3M+ 代币
+3. 确定了 300 多个项目
+通过我们的全面合作，0xScope 将通过以下方式为币安生态系统赋能和贡献:
+
+* 所有用户肖像识别，推出“项目价值评级”功能，协助生态运营。
+* 协助改善整个生态系统的风险控制系统，利用 KYE 能力帮助提前识别潜在风险。
+* 让更多基于用户画像和数据的创新产品率先在生态系统中诞生。
+Join us！
+--------
+
+![](https://img.foresightnews.pro/202303/031037a56a6d19d2637247a5abea77ef.png?x-oss-process=style/scale70)
+
+我们还推出了“Watchers.pro 推荐计划”计划，完成任务，赢得免费 Watchers Pro 会员，并且享受 20% 的现金奖励!！
+
+在我们的 Notion👉 [<https://www.notion.so/0xScope-Presents-Watchers-pro-Referral-Program-7e0addb4479e482197b4421250af97c0](>) 中找到程序的详细信息和用户指南
+
+加入我们，传播 0xScope 的传奇，并从您的推荐中赚取现金回报!
+
+![](https://img.foresightnews.pro/202303/983886e32ffd5b207c44ee5cd74bacd7.png?x-oss-process=style/scale70)
+

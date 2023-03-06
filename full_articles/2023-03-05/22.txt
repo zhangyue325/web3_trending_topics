@@ -1,0 +1,182 @@
+文中数据均截至 2023/3/4。
+
+01  项目简述
+--------
+
+Aura Finance 是围绕 Balancer 生态 veBAL 打造的收益提升和元治理平台，由 Sushiswap 前 CEO 0xMaki 建立。Aura 之于 Balancer，相当于 Convex 之于 Curve，Aura 的核心功能和 Convex 类似，但当前的资本效率远高于 Convex，已与多个 LSD 协议达成合作。
+
+02  产品背景：Balancer & Aura
+------------------------
+
+### 2.1 veBAL
+
+2022 年第一季度，Balancer 参考 Curve 的 veCRV 上线了 veBAL 代币经济模型，是针对原生代币 BAL 的治理效用 / 价值捕获的升级，主要逻辑和 veCRV 类似，如下：
+
+锁仓 BPT 获得 veBAL：用户锁定 80BAL/20WETH BPT 可获得 veBAL（即锁定 Balancer 上 80%BAL/20%WETH 池的 LP 代币，为和其他池 LP 区分，下文该池 LP 均称为 BPT）。锁定时间从一周到一年不等，锁定越久获得 veBAL 越多，锁定一年可以 1:1 获得 veBAL。veBAL 不可转让或交易。
+
+投票治理：持有 veBAL 即拥有对协议的治理权。Balancer 每周将增发 BAL 以奖励给平台上各个流动性池的 LP，持有 veBAL 可以投票决定每个池获得 BAL 分配的权重。
+
+协议收入分配：Balancer 协议收入的大部分将分配给 veBAL 持有人，初始分配比例为 75%，2023 年 1 月底 BIP-161 之后降低为 65%。协议收入来源于全平台交易费用的 50%。
+
+LP 挖矿加成：对于平台上的 LP 而言，持有 veBAL 可以获得挖矿加成，获得更多的 BAL 代币奖励，最高为 2.5 倍加成。
+
+综上可以看出，veBAL 和 veCRV 相比，主要改进在于两点：
+
+* veCRV 仅锁仓 CRV 代币，veBAL 锁的是 BPT，可以在大部分 BAL 被锁仓的情况下还能保证池子的流动性和深度。
+* veBAL 最多锁一年，相比 veCRV 的四年，提升了部分灵活性。
+### 2.2 贿赂
+
+从 Curve War 的历史可以得知，veBAL 这套模型也是在走选举大战的路子。对于在 Balancer 上建池的项目方而言，想要项目长期保持活力，就需要自己的池子里保持足够的流动性。流动性都是趋向高收益的，吸引流动性的最佳方式就是提升池子的 BAL 奖励分配权重，唯一的途径就是投票，要么对 veBAL 持有人贿选，要么自己购买 BAL 锁仓去投票。
+
+对于在 Balancer 建池的 LSD 项目而言，例如 Rocket Pool 的 rETH，在 Balancer 上对应的池子 rETH/WETH，该池的 BAL 奖励分配权重越高，就会吸引越多的人在 Rocket Pool 质押 ETH 获得 rETH，然后到 Balancer 提供流动性进行挖矿，使 Rocket Pool 在 LSD 赛道的市占率上升。同时，池子的流动性越高，rETH 的脱锚风险也就越小。
+
+按照传统的流动性奖励模式，吸引流动性往往要用到项目方的原生代币，例如直接给 rETH/WETH 的 LP 额外提供原生代币 RPL 的奖励。而在 veBAL 模型下，可以通过贿赂选民（veBAL 的持有者），例如提供一些 RPL 代币空投，让该池获得更高的 BAL 奖励分配权重，以达到提升池子收益、吸引流动性的目的。
+
+这样的做法资本效率更高，也许提供价值 \(10000 的 RPL 空投贿赂，就能为池子争取到价值 \)20000 的 BAL 分配。如此一来，veBAL 持有人获得空投，LP 获得更高的 BAL 挖矿收益，项目方小钱办大事，对于 Balancer 而言，也不必担心 BAL 每周的奖励释放带来过多通胀，因为用户会不断锁仓 BAL，以换取投票权和最高 2.5 倍的 LP 挖矿加成。
+
+### 2.3 Aura
+
+在 Curve 生态，Convex 对 veCRV 的模型进行了补充和升级，将 veCRV 的收益和治理分离，用户可以锁定 Convex 的原生代币 CVX 对 Curve 进行元治理，而在 Balancer 生态承担这一角色的便是 Aura Finance。
+
+03  产品设计
+--------
+
+### 3.1 auraBAL
+
+在 Aura 平台锁定 80BAL/20WETH BPT，可以获得 auraBAL，和 veBAL 相比，特点如下：
+
+* 永久锁仓：auraBAL 不能解锁为 BPT，相当于永久锁仓 BPT，或者说是将 BPT 永久交给了 Aura 换回了 auraBAL。
+* 收益与治理分离：auraBAL 仅具备收益属性，不具备治理属性。相当于用户把 BPT 都交给了 Aura，Aura 去 Balancer 以最长时间锁仓获得 veBAL，锁仓收益发给 auraBAL 质押者，而治理权则由 Aura 通过其他方式分配，下文详述。
+* 可随时退出：auraBAL 可以转让和交易，auraBAL 持有者可以在二级市场卖出换成 BPT（在 Balancer 有 auraBAL/[80BAL/20WETH BPT] 池），相当于随时可以解放流动性。想要锁仓 BPT 换取 auraBAL 的用户，也可以直接在二级市场购买 auraBAL。
+* 提升收益：除了获得与 veBAL 相同的收益外，质押 auraBAL 还会获得额外的 AURA（Aura 原生代币）奖励，以及全平台 LP 挖矿加成奖励的 20.5%（下文详述）。
+### 3.2 LP 挖矿加成奖励
+
+用户在 Balancer 提供流动性后，可以将 LP 质押到 Aura，除了可以获得额外的 AURA 奖励外，还可以在不持有 veBAL 的前提下获得挖矿奖励加成。
+
+前文提到，直接在 Balancer 进行 LP 挖矿，可以通过锁仓 80BAL/20WETH BPT（持有 veBAL）获得最高 2.5 倍的挖矿加成。在 Aura，用户锁仓 BPT 只换回了 auraBAL，没有 veBAL，所以用户个人在 Aura 锁了多少 BAL 和 LP 挖矿加成没有任何关系，而是由 Aura 拿着用户的 BPT 到 Balancer 统一锁仓，再统一给所有质押在 Aura 的 LP 进行加成。
+
+Aura 全平台所有的 LP 挖矿收益（BAL 收益）中，会拿出最高 25% 作为平台费用，分配给以下几方：
+
+* 20.5%：分配给 auraBAL 质押者（Aura 平台上 LP 挖矿的加成幅度与 BPT 的锁仓量相关，该项激励利于提升锁仓量），以 BAL 代币形式分配。
+* 4%：分配给 AURA 锁仓者，即 vlAURA 持有者（下文详述），以 auraBAL 代币形式分配。
+* 0.5%：分配给 Harvest caller 用于覆盖协议操作的 Gas 费用，以 BAL 代币形式分配。
+### 3.3 auraBAL/BPT LP 奖励
+
+使用 auraBAL 为 Balancer 上的 auraBAL/[80BAL/20WETH BPT] 池添加流动性，并将 LP 质押到 Aura，可以获得 AURA 代币奖励，享受独立的奖励池。
+
+### 3.4 vlAURA
+
+在 Aura 锁仓原生代币 AURA 16 周可获得 vlAURA，可以获得上述的平台费用，还将获得治理权，除了对 Aura 平台事务的治理权外，还有 Aura 平台所持 veBAL 的治理权，可以对 Balancer 进行元治理。
+
+Aura 整个平台的治理逻辑如下：
+
+* 用户永久锁仓 BPT 到 Aura，获得 auraBAL；
+* Convex 拿着用户锁的 BPT 到 Balancer 锁仓获得 veBAL；
+* veBAL 产生的收益交给用户，治理权则交给 AURA 锁仓者（vlAURA）；
+* 如果有足够多的 BPT 通过 Aura 锁仓，以至于大部分投票权（veBAL）都由 vlAURA 控制，那么 vlAURA 将能够控制底层协议 Balancer（主要是 Balancer 上各池的 BAL 奖励分配权重）。
+### 3.5 贿赂
+
+数据显示，目前 veBAL 已铸造总量约为 1044.49 万，其中 Aura 是排名第一的持有者，持有约 276.95 万 veBAL，占比约 26.53%。
+
+![](https://img.foresightnews.pro/202303/3803607630d16dffe15c045aa0773390.png?x-oss-process=style/scale70)
+
+由此也意味着 Aura 平台整体占据了 Balancer 约 26.53% 的治理权，贿赂 vlAURA 的持有者也成为了项目方们的一个重要选择。目前可以在 Hidden Hand 平台为 BAL 奖励分配权重的选举进行贿赂，吸引 vlAURA 的持有者投票给对应的池子。
+
+![](https://img.foresightnews.pro/202303/5372615b36db80674590cd021666f9ab.png?x-oss-process=style/scale70)
+
+### 3.5 业务数据
+
+根据 DefiLlama 的数据，当前 Aura 的 TVL 为 6.25 亿。
+
+![](https://img.foresightnews.pro/202303/648f7b8301ea532e7d5baaa4914bc911.png?x-oss-process=style/scale70)
+
+根据 Llama Airforce 的数据，自 2022/6/28 第一轮投票以来，Aura 平台的贿赂累计价值约为 619 万美元，平均每 1 美元的贿赂可以为池子争取到价值 1.59 美元的 BAL+AURA 代币分配（高于 1 美元即代表：贿赂相比使用传统的流动性奖励有更高的资本效率），Curve 生态的 Convex 该值为 1.08。
+
+![](https://img.foresightnews.pro/202303/7d940307c1cfb20958048b5267bbd127.png?x-oss-process=style/scale70)
+
+04  经济模型
+--------
+
+### 4.1 代币分配
+
+AURA 代币供应上限为 1 亿，公平启动无 VC，初始设定的分配如下：
+
+* 50%：奖励给质押在 Aura 的 LP，根据 LP 获得的 BAL 数量按比例分配，下文详述
+* 10%：奖励给 auraBAL/BPT LP 的质押者，释放期 4 年
+* 2%：Balancer LBP
+* 3%：在 Balancer 80AURA/20ETH 池添加初始流动性
+* 17.5%：国库，释放期 4 年
+* 2.5%：空投给 Balancer、Convex Finance 和 LobsterDAO 社区
+* 1%：未来的空投
+* 2%：BAL 国库，释放期 2 年
+* 2%：veBAL 引导奖励
+* 10%：贡献者，释放期 2 年
+在代币发行初期，由于 LBP 没有被完全认领，以及调整初始流动性、空投等问题，有 282 万 AURA 流入了国库。
+
+### 4.2 代币释放
+
+50% 的 AURA 释放给在 Aura 质押的 LP（铸造新币），这部分的释放规则参照下方公式：
+
+AURA 释放量 = (((500 - (totalSupply() - 50000000) / 100000) \* 2.5 + 700) / 500) \* BAL 奖励数量
+
+简单来说，LP 每挖到 1 个 BAL，就会按比例铸造出若干 AURA 奖励给 LP。在第一天，挖到 1 个 BAL 将奖励 3.9 AURA，随着 AURA 的总发行量的增加，该数值将慢慢减少，最终变为 1.4 AURA。
+
+总体的代币释放趋势如下图所示，TGE 时间为 2022 年 6 月。
+
+![](https://img.foresightnews.pro/202303/38b8296888e49644abf7bd27c931e3a4.png?x-oss-process=style/scale70)
+
+根据官方 Dune 统计的数据，近期每周新铸造 AURA（用于平台奖励）的数量为 15 万 -30 万左右，2023 年 2 月（以四周粗略计）新铸造量约为 106.58 万 AURA；同时，每月还有约 41.67 万 AURA 释放给贡献者（团队），所以当前每月释放量约在 150 万左右。初始国库的 1750 万 AURA 虽已释放约 328 万但至今未动，不计算在内。
+
+![](https://img.foresightnews.pro/202303/9f7e6bbb5a70e6b89e58a10a14495978.png?x-oss-process=style/scale70)
+
+### 4.3 市值信息
+
+根据区块浏览器及 CoinGecko 的数据，目前 AURA 代币已发行约 5811 万，减去国库 / 奖励等各项未流通的部分，目前流通量为 2251 万 AURA，AURA 代币价格为 3.16 美元，流通市值约为 7129 万美元，FDV 约为 3.16 亿美元。
+
+### 4.4 锁仓信息
+
+目前流通的 AURA 代币中，包含约 1344 万锁仓 16 周的 AURA，锁仓占流通量的比例约为 59.26%。数据显示，AURA 锁仓量处于持续稳定上涨状态。
+
+![](https://img.foresightnews.pro/202303/9e5521f6019372662a917676f46e534e.png?x-oss-process=style/scale70)
+
+对比近三个月 AURA 代币的新增锁仓量和新增释放量，数据如下：
+
+* 2023 年 2 月：新增约 71 万锁仓 / 新增约 148 万流通，锁仓比约 48%
+* 2023 年 1 月：新增约 154 万锁仓 / 新增约 136 万流通，锁仓比约 113%
+* 2022 年 12 月：新增约 57 万锁仓 / 新增约 94 万流通，锁仓比约 61%
+### 4.5 治理价值
+
+根据 Aura 平台持有的 veBAL 总量和锁仓的 AURA 数量（即 vlAURA 数量），每个 vlAURA 相当于控制着约 0.21 个 veBAL，每个 vlAURA 的实际治理价值约 3.43 美元，与当前 AURA 代币 3.16 美元的价格接近。
+
+05  合作伙伴
+--------
+
+LSD 是今年的主要叙事之一，LSD 相关资产在 Balancer 上有着庞大的 TVL。目前 Balancer 流动性最大的前三个池子分别为 wstETH/WETH、BAL/WETH、rETH/WETH，第二名是与 veBAL 相关，另外两个池均为 LSD 相关（Lido 和 Rocket Pool）。
+
+![](https://img.foresightnews.pro/202303/5a935af335eed35ee9a4e481e14cbd9e.png?x-oss-process=style/scale70)
+
+Aura 作为 Balancer 生态的龙头，已经与一系列 LSD 协议建立了合作关系，包含 Lido、Rocketpool、Frax、Swell、Stakewise、Stader、Ankr 和 StaFi 等。
+
+此外，进入 2023 年以来，Aura 增加了很多合作伙伴和投资者 / 拥护者，下面列举部分。
+
+* OlympusDAO 卖掉了 CVX 转投 AURA，购买了 20 万美元的 AURA 代币，并准备在接下来 4 个月内再购买 80 万美元。
+* 加密资管公司 Arca 在 2 月初陆续购入了近 30 万 ARUA。
+* Alchemix 将其代币 ALCX 的流动性从 Sushiswap 迁移到了 Balancer，并购买 AURA 以锁定并参与治理，激励其流动池。
+* Synapse 通过投票，决定将 SYN 代币的流动性从 Sushiswap 转移到 Balancer，并向 vlAURA 行贿以实现对 LP 的激励。
+近期具体合作情况可参考这篇文章： [https://www.theblockbeats.info/news/34981](https://www.theblockbeats.info/news/34981?search=1)
+
+06  项目小结
+--------
+
+Aura 作为 Balancer 生态的龙头，和 Balancer 的发展是相辅相成的，目前包含大量 LSD 协议在内的项目方涌入 Aura，本质原因在于其资本效率优于传统的流动性奖励模式，也优于同赛道的 Convex。从当前每 1 美元所得的贿赂价值计算，Aura 的资本效率（1.59）比 Convex 的资本效率（1.08）高 47%。
+
+AURA 代币的内在价值主要来源于 vlAURA 对于 Balancer 的元治理，前文提到，目前每个 vlAURA 等同于 0.21 个 veBAL 的投票权，那么单个 vlAURA 的治理价值可折算为 3.43 美元，当前币价相比治理价值低 8%，和 Convex 相比，CVX 币价比其治理价值高约 22%，仅按照该单一指标计算，AURA 有一定的上涨空间。但 AURA 相比 CVX，流通比例和 TVL 更低，虽然流通市值部分仅占 CVX 的 1/6，但 FDV 已超过 CVX 的 1/2，而 TVL 仅为 Convex 的 1/7。
+
+对于该类项目而言，行贿的项目方需要更高的资本效率，也就意味着平台存入 BPT（铸造 auraBAL）的速度要高于 AURA 代币释放的速度；受贿者和持币者需要更高的治理价值，也就意味着需要更多行贿方的涌入，提供更多价值的贿赂；同时也要尽可能吸引更多的 LP，带来更多的 BAL 奖励（会部分分配给 auraBAL 持有者），吸引更多 BPT 的存入，当然，LP 的增加也会使 AURA 新增流通量增多。
+
+综上，Aura 环环相扣，关注点较多，auraBAL 铸造量、AURA 代币新增流通量、贿赂总价值、TVL 等均需关注，这些数据的变动会影响到核心点：资本效率和单个 vlAURA 的治理价值。
+
+-————————
+
+关注币萌官方推特 [@TokenMore](https://twitter.com/TokenMore) [@ETH28888](https://twitter.com/ETH28888) ，捕获更多价值。
+
