@@ -1,0 +1,222 @@
+ 
+
+Arweave 2.6 版本将在区块高度为 1,132,210 分叉[激活](https://twitter.com/fwdresearch/status/1624109863155679232)，时间大约为北京时间 3 月 6 日 22:00。Arweave 2.6 将使 Arweave 挖矿更加节能，激励矿工存储更多数据，并产生更有效地存储市场。Arweave Mining 利用 SPoRA 随机访问简洁证明，矿工在比赛中证明其可以访问随机的历史数据块，以更大更便宜的驱动实现更高效的激励。该版本对矿工每秒可计算的哈希值数量引入密码学速度限制，确保矿工获得主要的竞争优势是存储更多的 Arweave 数据集。
+
+ 
+
+a16z crypto 运行的为期十二周的加速器 CSS 于 3 月 6 日至 5 月 26 日在加利福尼亚州洛杉矶[举行](https://a16zcrypto.com/crypto-startup-school-relaunched/)，CSS 计划中除了教育和指导部分，参与者将获得 50 万美元的种子资金来建立他们的公司。该加速器的目标是帮助开发者开始新的 Web3 项目，2020 年 2 月启动的 CSS 已帮助 Phantom、Goldfinch 等应用筹集了超过 3 亿美元资金。
+
+ 
+
+模块化区块链网络 Celestia [推出](https://blog.celestia.org/the-blockspace-race/)激励测试网计划 Blockspace 竞赛，分为五个阶段，为期九周，第一阶段从 3 月 7 日开始。该竞赛将选择 1000 名参与者，包括验证者、桥接节点、全存储节点和轻节点。在每个阶段，参与者将收到与其角色相关的分配任务，通过完成任务来争夺积分。此外，该测试网的新功能还包括：IBC 传输、更高效的同步以及用于与 Celestia 数据可用性节点交互改进的 API。
+
+ 
+
+万向区块链实验室、HashKey Group 联合主办，数码港作为支持单位的「Web3.0 应用展示日（Demo Day）」分会场活动将于 4 月 14-15 日香港 Web3 嘉年华活动期间在香港会议展览中心举行。Web3.0 Demo Day 将聚焦 Web3 应用生态，在全球范围内招募 50 支优秀团队进行项目演示，有意参与的团队可在 3 月 12 日 23:59 前[报名](https://mp.weixin.qq.com/s/3bEzliH-aqEJOa9qcE78aw)。
+
+ 
+
+[**点此**](https://api.foresightnews.pro/v1/calendar.ics)**订阅 Foresight News 区块链日历**
+
+ 
+
+3 月 6 日
+-------
+
+ 
+
+### 项目进展
+
+ 
+
+* Yuga Labs 比特币 NFT 系列「TwelveFold」将于北京时间 3 月 6 日 7:00 开始[拍卖](https://news.yuga.com/twelvefold-auction-details)
+* Iron Bank 要求 Alpha Homora 于北京时间 3 月 6 日 7:00 前[偿还](https://foresightnews.pro/news/detail/18773)贷款
+* 证券型代币平台 tZERO 将于 3 月 6 日停止[运营](https://twitter.com/tZERO/status/1621490058971811840?t=8K51ikPYUrh_XBKh80AiNg&s=19)，用户提前提取资金
+* 区块链网络 Horizen 将对 Yuma 测试网进行压力[测试](https://blog.horizen.io/scheduled-stress-testing-planned-for-the-week-of-march-6th/)，或将出现网络停机
+* Cosmos 生态支付和交易项目 e-Money 将在 2023 年 3 月 6 日之前支持[赎回](https://medium.com/e-money-com/eeur-stablecoin-unwind-cf945820fb3f)其发行的欧元支持的稳定币 EEUR
+* Arweave 2.6 版本已推出，将于大约北京时间 3 月 6 日 22:00 [激活](https://twitter.com/fwdresearch/status/1624109863155679232)
+ 
+
+### 重要事件
+
+ 
+
+* 韩国监管当局将于 3 月 6 日对加密交易所 GDAC 进行[现场检查](https://www.etoday.co.kr/news/view/2226908)
+ 
+
+### 活动预告
+
+ 
+
+* a16z crypto 运行的为期十二周的加速器 CSS 于 3 月 6 日至 5 月 26 日在加利福尼亚州洛杉矶[举行](https://az.swoogo.com/a16zcryptostartupschool)
+* Astar Network 与索尼旗下 Sony Network Communications 合作[启动](https://medium.com/astar-network/web3-incubation-program-by-sony-network-communications-and-astar-4d5766ba3ea6) Web3 孵化计划，报名截止日期为 3 月 6 日
+* Doodles CN Giveaways 于 2023 年 3 月 6 日 20:00 [举办](https://twitter.com/i/spaces/1vOxwMvBjAgGB)主题为「Doobro X AEB」的 Twitter Space 活动。
+* Bitizen Web3 Wallet 于 2023 年 3 月 6 日 20:00 [举办](https://twitter.com/i/spaces/1BdxYyvNdvgxX)主题为「聊聊 GameFi | 资本家的期许 vs 创业者的倔强」的 Twitter Space 活动
+* TYPE V DAO 于 2023 年 3 月 6 日 21:00 [举办](https://twitter.com/i/spaces/1ynJOajvdvrKR)主题为「GameFi 之夜：1000 亿美金的 Crypto Game 什么时候到来？」的 Twitter Space 活动
+ 
+
+3 月 7 日
+-------
+
+ 
+
+### 重要事件
+
+* 法院将「Grayscale 质疑美 SEC 拒绝 GBTC 转为比特币 ETF 的决定」的口头辩论日期[确认](https://twitter.com/Grayscale/status/1617917199749943296)为 3 月 7 日
+* CoinFLEX 要求 Blockchain.com 在 3 月 7 日之前确认[偿还](https://decrypt.co/122202/coinflex-claims-blockchain-com-owes-over-4-3m-in-flex) FLEX 代币，并于 3 月 21 日前完成汇款
+ 
+
+### 项目进展
+
+ 
+
+* Optimism 第二轮追溯性公共产品募资于 2 月 21 日至 3 月 7 日对被提名项目进行[投票](https://community.optimism.io/docs/governance/retropgf-2/#)
+* FTX 加密衍生品平台 LedgerX 将于 3 月 7 日举行[拍卖](https://www.bloomberg.com/news/articles/2023-02-28/ftx-crypto-derivatives-unit-ledgerx-to-use-signature-not-silvergate)
+* 嘉楠耘智计划于 3 月 7 日[公布](https://www.prnewswire.com/news-releases/canaan-inc-to-report-fourth-quarter-and-full-year-2022-financial-results-on-march-7-2023-301754049.html) 2022 年第四季度和全年财务业绩
+* Illuvium 将于 3 月 7 日 [推出](https://twitter.com/illuviumio/status/1632335572164386819) Illuvium:Beyond
+* Celestia [推出](https://blog.celestia.org/the-blockspace-race/)激励测试网计划 Blockspace 竞赛，第一阶段从 3 月 7 日开始
+  
+
+3 月 8 日
+-------
+
+ 
+
+### 项目进展
+
+ 
+
+* 韩国游戏公司 Wemade 旗下链游平台 WEMIX [回购销毁](https://medium.com/wemix-communication/wemix-buyback-burn-to-deflationary-tokenomics-c8b310e6123e)活动于 2023 年 3 月 8 日截止
+ 
+
+### 重要事件
+
+ 
+
+* Celsius 债权人官方委员会提议起诉 Celsius 联创 Alex Mashinsky 和其他高，拟议投诉的听证会将于 2023 年 3 月 8 日[举行](https://twitter.com/CelsiusUcc/status/1625619053015343113)
+ 
+
+### 提案投票
+
+ 
+
+* Lido 关于 V2 版本升级的提案[投票截止](https://snapshot.org/#/lido-snapshot.eth/proposal/0x629b547c688dea536a4a5c5b42274894ac068df0b0278d173b4d7a68c8c4281d)时间为 3 月 8 日
+ 
+
+### 代币解锁
+
+ 
+
+* Tornado Cash 代币 TORN 于 3 月 8 日 11:29:50 解锁 175,000 枚（约 137 万美元），占总供应量的 1.75%。
+* Cere Network 代币 CERE 将于 3 月 8 日 20:00:00 解锁 78,400,000 枚（约 57 万美元），占总供应量的 0.784%
+* PRIMAL 代币 PRIMAL 将于 3 月 8 日 20:00:00 解锁 122,350,000 枚（约 114 万美元），占总供应量的 2.447%
+ 
+
+### 活动预告
+
+ 
+
+* Avalanche 于 2023 年 3 月 8 日 06:00 [举办](https://twitter.com/i/spaces/1lPKqByWobdGb)主题为「Dynamic NFTs with the OOPA Team」的 Twitter Space 活动。
+* TYPE V DAO 于 2023 年 3 月 8 日 21:00 [举办](https://twitter.com/i/spaces/1jMKgLozpVWGL)主题为「VC Talk：Web3 项目的分析框架」的 Twitter Space 活动。
+ 
+
+3 月 9 日
+-------
+
+  
+
+### 重要事件
+
+ 
+
+* 美国众议院金融服务委员数字资产小组委员会将于 3 月 9 日召开首场[听证会](https://www.dlnews.com/articles/regulation/new-congress-body-to-hold-first-ever-hearing-on-regulatory-attack-on-crypto/)
+ 
+
+### 代币解锁
+
+ 
+
+* Galxe 代币 GAL 将于 3 月 9 日 20:00:00 解锁 192,307.69 枚（约 32 万美元），占总供应量的 0.096%
+ 
+
+### 活动预告
+
+ 
+
+* Fantom 基金会 2023 年第一季度黑客松提交[截止时间](https://fantom.foundation/blog/fantom-hackathon-q1-2023/)为 3 月 9 日 06:00
+* SushiSwap 将于 3 月 9 日[启动](https://sushiswap.notion.site/The-DeFi-Kitchen-A-virtual-DeFi-Summit-Hackathon-3006773265c844d58a5a581cc7b5df67) DeFi Kitchen 虚拟活动和黑客松
+  
+
+### NFT 铸造
+
+ 
+
+* Web3 射击游戏 Lowlife Forms 计划于 3 月 9 日在 Magic Eden [推出](https://venturebeat.com/games/vitalxp-raises-3m-for-web3-shooter-lowlife-forms/)首批可玩角色 NFT
+ 
+
+3 月 10 日
+--------
+
+ 
+
+### 项目进展
+
+ 
+
+* Bybit 暂停通过银行转账的美元存款，敦促用户在 3 月 10 日之前[提取美元](https://announcements.bybit.com/en-US/article/notice-on-suspension-of-usd-payment-with-bank-transfer-blt8fe1124f4dc5c6a1/)
+* Mt. Gox 债权人登记截止日期从 1 月 10 日[推迟](https://www.mtgox.com/img/pdf/20230106_announcement_en.pdf)至 3 月 10 日（日本时间）
+ 
+
+### 活动预告
+
+ 
+
+* ETHGlobal 将于 3 月 10 日至 29 日[举行](https://ethglobal.medium.com/announcing-the-2023-ethglobal-season-3cc1960de7b4) Scaling Ethereum 黑客松
+* Fantom 基金会 2023 年第一季度黑客马拉松[评审](https://fantom.foundation/blog/fantom-hackathon-q1-2023/)时间为北京时间 3 月 10 日 23:00 至 3 月 20 日 06:00
+ 
+
+3 月 11 日
+--------
+
+ 
+
+### 代币解锁
+
+ 
+
+* Moonbeam 代币 GLMR 将于 3 月 11 日 08:00:00 解锁 9,682,879.74 枚（约 400 万美元），占总供应量的 0.968%
+ 
+
+### NFT 铸造
+
+ 
+
+* 项目名称: [OS Crias by RIO-X](https://opensea.io/collection/os-crias), 发行总量: 5500, 铸造价格: 0.055
+* 项目名称: [WinniesNFT](https://winniesnft.io/), 发行总量: 3333, 铸造价格: 0.01 ETH
+* 项目名称: [JOKERS PARTY,](https://www.jokersparty.com/) 发行总量: 7777, 铸造价格: 0.07 ETH
+3 月 12 日
+--------
+
+ 
+
+### 活动预告
+
+ 
+
+* PlatON 与阿里云和 HashKey 联合[举办](https://bit.ly/3GfbFVL)的 Web3 全球创业大赛「HAPathon 2023」新加坡站报名截止日期为 3 月 12 日
+* 「Web3.0 应用展示日」将于 4 月 14-15 日在香港[举行](https://mp.weixin.qq.com/s/3bEzliH-aqEJOa9qcE78aw)，有意参与的团队可在 3 月 12 日 23:59 前报名
+ 
+
+### 代币解锁
+
+ 
+
+* Aptos 代币 APT 将于 3 月 12 日 08:00:00 解锁 4,543,477.94 枚（约 5070 万美元），占总供应量的 0.454%
+ 
+
+### NFT 铸造
+
+ 
+
+* 项目名称: [Nightwalkers](https://twitter.com/nightwalkersxyz), 发行总量: 2222, 铸造价格: 0.05
+* 项目名称: [Fitness Fiends](https://www.fitnessfiends.com/), 发行总量: 6,666, 铸造价格: 0.06

@@ -1,0 +1,95 @@
+**🌶 一周热点****马斯克：过去对加密货币感兴趣，现在对人工智能感兴趣**  
+3 月 4 日，马斯克发推称，“过去对加密货币感兴趣，但现在对人工智能感兴趣。”  
+![](https://img.foresightnews.pro/202303/632caee42ab81c438f6297cb46c3fc7f.png?x-oss-process=style/scale70)  
+情报员评论：Why not both?情报员 009：胡博士情报来源：https://twitter.com/elonmusk/status/1631720134636367872  
+
+
+---
+
+  
+**Coinbase L2 网络 Base 测试网已上线 Chainlink 喂价功能**  
+Coinbase L2 网络 Base 测试网已上线 Chainlink 喂价功能，通过这种集成，基于 Base 的开发人员可以访问行业标准的 Chainlink 数据源和其他 web3 服务。Base 还将参与 Chainlink SCALE 计划，旨在以更低的成本向开发人员提供 Chainlink 数据和服务。  
+![](https://img.foresightnews.pro/202303/d40a3715035f641b64b22f33c5482cd4.png?x-oss-process=style/scale70)  
+情报员评论：但是你又不能发币情报员 033：iguana情报来源：https://www.prnewswire.com/news-releases/chainlink-price-feeds-go-live-on-base-testnet-new-ethereum-l2-incubated-by-coinbase-301761789.html  
+
+
+---
+
+  
+**德国联邦财政法院确认比特币持有 1 年后可免税**  
+据 Bitcoin News 称，德国联邦财政法院确认比特币持有 1 年后可免税。  
+![](https://img.foresightnews.pro/202303/72a2254efc6df39d2a6629c5e99e058d.png?x-oss-process=style/scale70)  
+情报员评论：德国联邦财政法院喊你 HODL！情报员 009：胡博士 情报来源：https://twitter.com/BitcoinNewsCom/status/1630924974645968897  
+
+
+---
+
+**🌶 以太嬉皮论****CZ：福布斯故意曲解事实，将用户提款称为“转移抵押品”**  
+ CZ 回应福布斯的报道表示，福布斯许多指责性的问题，带有负面色彩，故意曲解事实。他们提到了我们客户完成的一些旧区块链交易。他们似乎不了解交易所运作的基础知识。我们的用户可以随时自由提取资产。他们的提款变成了“收到数亿转移的抵押品”。我们的用户还必须先存入 Binance 才能提款，这在区块链上也很容易追踪。这篇文章方便地忽略了存款交易。文章力图将 Binance 和 FTX 归为一类，包括文章标题的选择。  
+ Binance 不一样，Binance 经受住了时间的考验，用户在 12 月安全地提取了数十亿美元。我们使用新的零知识 (ZK) 方法（由 Vitalik 建议）实施了储备证明，以保护我们用户的安全和隐私。Binance 始终以 1:1 的比例持有用户资金。福布斯继续撰写毫无根据的文章，失去了自己的信誉。  
+![](https://img.foresightnews.pro/202303/635a93f434fc9b9e4100901094b62aaf.png?x-oss-process=style/scale70)情报员评论：在数字货币领域，有色眼镜和双标依然存在。情报员 008：Ganppns#1589情报来源：https://twitter.com/cz\_binance/status/1630466329848233984  
+
+
+---
+
+  
+**以太坊账户抽象提案 EIP-4337 核心合约已通过审计，将在 EVM 兼容网络上提供**  
+ 以太坊账户抽象提案 EIP-4337 共同作者 yoav.eth 宣布，新的以太坊账户抽象提案 ERC-4337 的核心合约已经通过 Open Zeppelin 的审计，并将在每个以太坊虚拟机（EVM）兼容网络上提供，包括 Polygon、Optimism、Arbitrum、BNB Chain、Avalanche 和 Gnosis Chain。 据悉，账户抽象（Account Abstraction）旨在通过省略以太坊账户体系中不必要细节，来减少复杂性并提高有效性，消除对 EOA 的需求和对智能合约钱包的特殊处理。它还允许使用双重身份验证、使用指纹或面部扫描在手机上签署交易、设置账户的每月支出限额等。  
+![](https://img.foresightnews.pro/202303/e6ab322b17f1f96bcc4dc76e1a0dca51.png?x-oss-process=style/scale70)情报员评论：账户抽象？貌似以后除了助记词，指纹、面部等，都可以生成账户。情报员 008：Ganppns#1589情报来源：https://cointelegraph.com/news/ethereum-erc-4337-smart-accounts-launch-at-walletcon-account-abstraction-is-here  
+
+
+---
+
+  
+**币安 AI 产品 Bicasso Beta 版本发布后 2.5 小时达到铸造上限**  
+ CZ 发推称，Bicasso 的首个试点已完成，在 2.5 小时内已铸造 1 万枚 NFT（达到铸造上限）。官方数据显示，Bicasso AI 试点藏品目前持有者有 9907 人。这些图像是试点的一部分，因此不可转售。据币安官方推特，错过 1 万枚 NFT 测试配额的用户仍然可以注册完整版的候补名单。（Cointelegraph）。据此前报道，3 月 1 日晚间，CZ 宣布币安 AI 产品 Bicasso Beta 版本已上线。据悉，Bicasso 可利用 AI 技术将用户的创想生成 NFT。  
+![](https://img.foresightnews.pro/202303/6684d0e2b78f6b65dc8bcb29f89bf5dd.png?x-oss-process=style/scale70)情报员评论：AI 热潮，持续高烧不退。情报员 008：Ganppns#1589情报来源：https://twitter.com/cz\_binance/status/1630920357380071425  
+
+
+---
+
+  
+**||🌶NFT****Yuga Labs 将推出比特币 NFT 系列 TwelveFold**  
+ Yuga Labs 宣布将基于 Ordinal Theory 协议在比特币区块链上推出 NFT 系列 TwelveFold。该系列将包含 300 件限量版生成艺术作品，每件都刻在比特币区块链上。每件 NFT 作品都是 12x12 网格，结合 3D 图形和手绘特征，由 Yuga Labs 内部艺术团队设计和创作。该公司表示，TwelveFold 与其任何一个以太坊链上 IP 均无关联，未来也不会有任何交互。 Yuga Labs 表示将在本周晚些时候公布拍卖细节，并且会在实际拍卖前 24 小时提供信息。  
+![](https://img.foresightnews.pro/202303/db637938d709ddb992d0b40128af85ad.png?x-oss-process=style/scale70)情报员评论：NFT 数量不多，小散就不用参与了，看看就好了。情报员 008：Ganppns#1589情报来源：https://twitter.com/yugalabs  
+
+
+---
+
+  
+**电竞选手 Mongraal 以 1000 WETH 的价格出售“吉米钥匙”** 电竞选手及主播 Mongraal 今日发推称，自己已经同意以 1000 ETH（约 160 万美元）的价格将 Dookey Dash 游戏 NFT“吉米钥匙”卖给 Upstate Shredding 首席执行官 Adam Weitsman。 Opensea 数据显示，“吉米钥匙”Sewer Pass #21915 以 1000 WETH 的价格售出，买家为 Adam Weitsman。  
+![](https://img.foresightnews.pro/202303/a551236c9577b3206cc61df43d4a17af.png?x-oss-process=style/scale70)  
+情报员评论：1000 个 WETH！不可思议的疯狂的行为。情报员 008：Ganppns#1589情报来源：https://opensea.io/assets/ethereum/0x764aeebcf425d56800ef2c84f2578689415a2daa/21915  
+
+
+---
+
+  
+**||👿 其他****Silvergate 推迟公布年报，或面临美司法部、银行监管机构等调查**  
+ 3 月 2 日，加密友好银行 Silvergate Bank 控股公司 Silvergate Capital Corporation 宣布推迟向美国证券交易委员会 (SEC) 提交年度 10-K 报告，同时声称可能面临资本不足的问题且正在重新进行业务评估。Silvergate 声称会计师事务所和独立审计师要求其提供更多信息，以应对潜在的美国国会质询、以及后续司法部和银行监管机构调查。  
+ 消息传出后，整个数字资产行业纷纷表态，希望与 Silvergate 保持距离，而 Silvergate 股票也如瀑布版下跌，3 月 2 日收盘时已降至 5.72 美元，跌幅达到 57.69% ，相较于 2021 年 11 月上一波加密牛市时创造的 222 美元历史高点缩水超 93% 。  
+![](https://img.foresightnews.pro/202303/67c9d864cf0101a11f699a1e1b0621dc.png?x-oss-process=style/scale70)情报员评论：墙倒众人推，加密行业从来就不缺“雷”。情报员 008：Ganppns#1589（0x7eB9B4d28f2fe8492175c2664808677312f848Fa）情报来源：https://www.coindesk.com/policy/2023/03/01/silvergate-stock-plunges-as-bank-says-it-may-face-doj-congressional-and-bank-regulator-inquiries/  
+
+
+---
+
+  
+**Block 成立专注于改善比特币闪电网络的公司“c=”**Twitter 联合创始人 Jack Dorsey 旗下支付公司 Block 成立专注于改善比特币闪电网络流动性和路由的公司 c=。据悉，c=通过将比特币提交给闪电网络以及开发基础设施来提高网络可靠性并解决因低流动性和路由效率低下导致的交易失败问题。  
+![](https://img.foresightnews.pro/202303/40c305e10d8a8e4614656e13b9649263.png?x-oss-process=style/scale70)  
+情报员评论：只要故事一直在讲，就不会结束情报员 033：iguana情报来源：https://www.coindesk.com/tech/2023/03/02/block-launches-new-service-provider-to-make-lightning-more-reliable/  
+
+
+---
+
+  
+**🌶 社区分享精选**https://www.bitpush.news/articles/3745100https://www.galaxy.com/research/whitepapers/bitcoin-ordinals-inscriptions-5-billion-nft-market/https://drive.google.com/drive/u/0/folders/1xKt0el1ifiiTl6M-bve-W7aW0BrDCkPY  
+
+
+---
+
+### 
+
+### **关于 DAOSquare 加密情报**
+
+  
+DAOSquare  加密情报是由 Typto 策划，DAOSquare 出品的一份专注于加密世界的周报。我们希望将加密世界那些有趣的东西  ( 而非千篇一律的热点新闻 )  呈现给大家。同时，我们也希望帮助更多还未进入甚至还不知道加密世界的人了解这个新兴的，正在成为主流，并且充满机遇的世界。欢迎加入 DAOSquare 社区，让我们一起提前进入未来！DAOSquare 起源于西方著名以太坊社区 MetaCartel，DAOSquare 的使命是构建属于 Web3 时代的孵化器，从而更好地帮助这个时代的创新者从 0 到 1 并走向成功，正如互联网时代的 Y·Combinator 一样。Website: [https://daosquare.io]Twitter: [https://twitter.com/DAOSquare]Discord: [https://discord.gg/daosquare]Forum: [https://forum.daosquare.io]Media: [https://dao2.muse.lol]

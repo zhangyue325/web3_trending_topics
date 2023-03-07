@@ -1,0 +1,42 @@
+![](https://img.foresightnews.pro/202303/cf98f6195a39d6a74307192336d812f4.png?x-oss-process=style/scale70)BitKeep is thrilled to present you with the ultimate guide that can help you maximize your chances of getting Arbitrum airdrop.
+
+在经历了充满挑战的 2022 年之后，加密世界终于逐步稳定下来，加密爱好者也迎来了一些不错的机会。最近有很多空投活动，比如 [OP](https://bitkeep.com/zh/swap/optimism/0x4200000000000000000000000000000000000042)，[BLUR](https://bitkeep.com/zh/swap/eth/0x5283d291dbcf85356a21ba090e6db59121208b44) 和 [SUDO](https://bitkeep.com/zh/swap/eth/0x3446dd70b2d52a6bf4a5a192d9b0a161295ab7f9)，引起了很多人的关注和兴趣。
+
+现在，每个人都在迫不及待地探寻下一波大行情，希望能在下一次机会到来之前，获得一些空投代币。最近备受欢迎的是 L2 主网，比如 [Arbitrum](https://study.bitkeep.com/zh/learn/learn-about-the-arbitrum-ecosystem)，[zkSync](https://study.bitkeep.com/zh/learn/%e6%8e%a2%e7%a7%98zksync%ef%bc%9a%e5%b8%a6%e4%bd%a0%e8%b5%b0%e8%bf%9brollups%e5%92%8clayer-2s) 和 [Starknet](https://starkware.co/starknet/)。参照 BitKeep 提供的此份指南，可以提高获得空投的机会。时间紧迫，快点行动！
+
+### 介绍
+
+[Arbitrum One](https://arbitrum.io/) 和 [Arbitrum Nova](https://nova.arbitrum.io/) 是两个 Arbitrum 主网，它们各自都有独特用途。Arbitrum One 是 DeFi 和 NFT 项目的首选，而 Nova 针对游戏和社交应用。我们的目标是与尽可能多的 DeFi 项目交互，因此本文将主要介绍 Arbitrum One。
+
+参考以往像 [Optimism](https://www.optimism.io/) 这样成功的空投项目，不难发现，链上交易是增加获得空投代币机会的关键一步。Optimism 将原生代币 (OP) 空投给在链上交易、桥接、捐赠和投票的早期用户。尽管 Arbitrum 空投的要求尚未明确获悉，效仿过去成功的空投操作也是一个不错的主意。因此，要增加获取空投的概率，应该积极在 Arbitrum 上交易。
+
+在 Arbitrum 上交易前，必须在 Arbitrum 主网上有以太币 (ETH)。所以你需要做的第一件事，是将资金桥接到 Arbitrum One，有多种方法可以做到这一点。我们会逐步指导你完成整个过程。让我们开始领取空投吧！
+
+### 从以太坊主网桥接 ETH 到 Arbitrum One
+
+根据个人喜好，你可以通过以下几种不同的方式将现有资金桥接至 Arbitrum。
+
+如果你已经安装了 BitKeep 钱包，通过 Chrome 扩展程序和手机，都可以轻松将资金桥接到 Arbitrum。BitKeep Swap 有一个很棒的功能，可以帮你以最优惠的价格轻松完成跨链。
+
+1. [Arbitrum 官方跨链桥](https://bridge.arbitrum.io/?l2ChainId=42161)
+
+![](https://img.foresightnews.pro/202303/50e6dbdd42f526d2498ef068636722e7.png?x-oss-process=style/scale70)2. [BitKeep Swap](https://bitkeep.com/zh/swap/arbitrum/bitkeep)
+
+![](https://img.foresightnews.pro/202303/baa4bc0a9ea6631c1a5ec4ae2b1c9955.png?x-oss-process=style/scale70)[BitKeep Chrome 扩展程序](https://chrome.google.com/webstore/detail/bitkeep-crypto-nft-wallet/jiidiaalihmmhddjgbnbgdfflelocpak) 截图。3. [其他跨链桥](https://bitkeep.com/en/dapp/All/Bridge) (DApps)
+
+推荐跨链桥：
+
+![](https://img.foresightnews.pro/202303/28ec89b14c28bbe5aab8b814feb74c3f.png?x-oss-process=style/scale70)[Multichain](https://app.multichain.org/#/router?utm_source=bitkeep)![](https://img.foresightnews.pro/202303/1b468da472869a0315d23cea70e2c0ba.png?x-oss-process=style/scale70)[SWFT Bridge](https://defi.swft.pro/?sourceFlag=bitkeep&utm_source=bitkeep#/)![](https://img.foresightnews.pro/202303/7e3bd044389dd20f45f3b9e3a2bd2264.png?x-oss-process=style/scale70)[Synapse Protocol](https://synapseprotocol.com/?utm_source=bitkeep)### 从其他主网到 Arbitrum One 的代币跨链
+
+[BitKeep Swap](https://bitkeep.com/en/swap/arbitrum/bitkeep)
+
+![](https://img.foresightnews.pro/202303/1b642db63cc779314fa5fef979ae7d35.png?x-oss-process=style/scale70)[BitKeep Wallet app](https://bitkeep.com/zh/download?type=0) 的屏幕截图。### 从以太坊主网桥接 ETH 到 Arbitrum Nova（可选）
+
+[Arbitrum 官方跨链桥](https://bridge.arbitrum.io/?l2ChainId=42170)
+
+![](https://img.foresightnews.pro/202303/bbf2bdb060f6dfe40327bbcd9f20850c.png?x-oss-process=style/scale70)### 更多关于 Arbitrum 空投的指南：
+
+[Arbitrum 空投指南——如何获取 Discord 身份](https://blog.bitkeep.com/en/?p=3196)
+
+敬请期待！
+

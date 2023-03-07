@@ -1,0 +1,87 @@
+LSD 战争正在迅速升温。如果你正在寻找下一个隐藏的宝石💎，我为你准备了年度最大的 Alpha。Stader 可能会成为质押游戏规则的改变者。
+
+在这篇推文中，我将介绍：
+
+* Liquid Staking 的挑战
+* ETHx 设计
+* SD 代币经济学
+Liquid Staking 的挑战
+------------------
+
+Liquid Staking 一直是以太坊生态的一个重要领域，但它面临着一些重大挑战：中心化🔴和可扩展性↔️。
+
+### 中心化
+
+Lido、Coinbase 和 Kraken 控制着超过 50% 的 ETH 质押量，其中 90% 委托给了获许可的运营商。
+
+### 可扩展性
+
+由于以太坊抵押质押门槛高 ，具有无许可节点的 LSD 服务难以满足普通用户需求。
+
+![](https://img.foresightnews.pro/202303/5-1678098309774.jpeg?x-oss-process=style/scale70)
+
+为解决这些问题，多链流动性质押协议 Stader 引入了「ETHx」，它大大降低了无许可节点运营商的门槛，仅仅只需要 4 ETH。
+
+它是如何做到的呢？答案是：多池架构和分布式验证器技术（DVT）。
+
+### ETHx 设计
+
+### 多池架构
+
+每当用户存入 ETH 时，Stader Pools Manager 将铸造 ETHx 作为回报，并将存入的 ETH 部署到以下质押池之一：
+
+* 无许可质押池🆓
+* DVT 质押池🚚
+* 许可型质押池🔒
+![](https://img.foresightnews.pro/202303/5-1678098332524.jpeg?x-oss-process=style/scale70)
+
+无许可模型意味着不需要白名单就可以运行节点。在这个池中，Stader 允许节点以同行竞争者中最低的保证金要求（4 ETH）运行。但这怎么可能呢？
+
+通过与 SSV 合作， Stader 模拟极端运行条件并得出结论，4 ETH 足以覆盖所有关键的尾部风险，包括
+
+* 验证器性能差
+* 闲置泄漏
+* 相关削减
+DVT 在这些情况中扮演着重要作用。
+
+![](https://img.foresightnews.pro/202303/5-1678098368014.jpeg?x-oss-process=style/scale70)
+
+DVT 允许验证器的职责分散在多个节点之间。因此，即使其中一台机器离线或出现故障，验证器也可以继续运行而不会中断。
+
+![](https://img.foresightnews.pro/202303/5-1678098378367.jpeg?x-oss-process=style/scale70)
+
+通过利用 DVT 的高容错率，减少罚没的可能性，Stader 将无许可节点所需的保证金降低到 4 ETH。（了解 DVT，请[参阅](https://blog.pantherprotocol.io/understanding-distributed-validator-technology-dvt/#what-is-distributed-validator-technology-dvt)。）
+
+DVT 的实施可以增强 LSD 的去中心化和可扩展性。归功于较低的进入门槛，更多的验证者可以安全地加入网络。
+
+但是，目前尚不清楚串通攻击的后果以及实际发生削减的情况。
+
+为了防止早期无许可节点引起的可扩展性问题，Stader 为 ETHx 补充了社区认可的许可运营商。这有助于确保 ETHx 在早期的稳定表现。
+
+代币经济学
+-----
+
+ETHx 代币经济模型分两个阶段。
+
+### 第一阶段
+
+要为 Stader 运行一个节点，每个验证者必须存入 4 ETH 和价值 0.4 ETH 的 SD 代币作为抵押品。
+
+额外质押的 SD 在削减发生的情况下充当保护机制，类似于@Rocket\_Pool。
+
+为了激励节点运营商，Stader 将在第一年为验证者发放价值约 100-200 万美元的 SD 代币。
+
+SD 激励数量取决于节点运营商每月质押的 SD 比例（每个验证者最多质押价值 8 ETH 的 SD 代币）。
+
+![](https://img.foresightnews.pro/202303/5-1678098435156.jpeg?x-oss-process=style/scale70)
+
+除了 SD 质押激励之外，用户还可以从其他用户质押的 28 ETH 产生的质押奖励中获得 5% 的佣金。
+
+与其他 LSD 方案相比，ETHx 为质押者提供了更高的收益率，只需要更少的资金。（了解更多[信息](https://twitter.com/staderlabs_eth/status/1628055791864528896)）
+
+### 第二阶段
+
+节点运营商可以无抵押借入 SD 用于质押。借出 SD 的人可以获得 10% 的节点佣金，并获得额外的 SD 激励。（[了解更多](https://www.staderlabs.com/blog/ethx-sd-staders-node-operator-centric-tokenomics/#:~:text=Stader's%20ETHx%20tokenomics%20have%20been%20designed%20to%20ensure%20node%20operators,%25%2B%20yield%20on%20SD%20bond)）
+
+ETHx 质押将推动对 SD 代币的需求，因为它是运行节点的要求之一。正如@NagatoDharma [指出](https://twitter.com/NagatoDharma/status/1620040421404708867)的那样，SD 价格仍比其 ICO 的 3.3 美元低 65%。在当前 TVL 为 115M 的情况下， SD 代币可能被低估了。
+

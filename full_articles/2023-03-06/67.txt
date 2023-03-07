@@ -1,0 +1,249 @@
+**关注****章鱼网络，开启 Web3 浪潮**  
+
+
+
+
+---
+
+全长 2266 字，预计阅读 10 分钟  
+作者：MiX微信交流：MixMetaverse  
+
+
+**章鱼网络大事摘要**
+============
+
+  
+1、Octopus2.0 = Octopus 1.0 + (Eigenlayer+Lido) for NEAR + Cosmos SDK Appchain + 基于 IBC 的跨链交互。整体而言 Octopus 2.0 架构初具雏形，但是仍需打磨细节。
+
+  
+
+
+2、Fusotao 正在积极向 2.0 前进，通过添加 Proof of Order Relay 和 Delegated Market Maker 的核心机制，使 Fusotao 协议簇成为一个 Open Trading Network。
+
+  
+
+
+3、核心团队正在调研并设计章鱼网络的 NEAR Restaking 方案。
+
+  
+
+
+![](https://img.foresightnews.pro/202303/f66eee91f36ae6ad25e767788b483ac2.png?x-oss-process=style/scale70)**技术研发进展**
+==========
+
+  
+**章鱼网络 & Apps****https://mainnet.oct.network**  
+
+
+1、完成主网应用链 Debio，Myriad，Fusotao 的升级
+
+2、优化应用链的区块链浏览器，目前有些应用链的数据仍在同步中
+
+3、更新和优化 Apps 跨链桥相关的功能
+
+  
+
+
+**章鱼网络 NEAR Restaking**
+
+调研并设计章鱼网络的 NEAR Restaking 方案
+
+  
+
+
+**章鱼网络合约**  
+Anchor 合约为应用链提供安全和跨链的相关功能  
+Registry 合约主要是对应用链全生命周期进行管理
+
+  
+
+
+Anchor 合约发布 v2.5.0，支持跨链转账时支付 Relayer 手续费的功能  
+
+
+  
+
+
+  
+
+
+**章鱼网络 IBC 模块**  
+
+
+NEAR IBC 模块：在 NEAR 上实现 IBC 的核心组件  
+https://github.com/octopus-network/near-ibc 
+
+Substrate IBC：实现 Octopus Appchain 和 Cosmos、Polkadot 的全面互联互通  
+https://github.com/octopus-network/substrate-ibc
+
+  
+
+
+1、Substrate IBC，进行 Gaia，Hermes 的集成测试  
+2、NEAR IBC，集成测试 IBC/TAO 相关的 Relayer 与 NEAR 智能合约接口
+
+  
+**章鱼网络跨链桥**https://mainnet.oct.network/bridge1、应用链跨链转账到 NEAR 网络时，增加支付 Relayer 手续费的功能  
+2、为降低 Relayer 的成本和提高其运行环境的安全性，调研并测试将 Relayer 部署到 ICP Canister  
+
+
+  
+
+
+**生态应用链发展**
+===========
+
+  
+章鱼网络运行中的应用链有 5个，分别是：Fusotao、Myriad Social、Atocha、DeBio 和 Discovol**；**候选应用链项 8 个，分别是：Uniqueone、PortalVerse、Attarius、Create Protocol、TrustRecruit、Yogain、Plats Network 和 Horizonland。近期项目关键进展如下：  
+**Fusotao Protocol****订单簿 DEX 的撮合验证协议**  
+Fusotao 正在积极向 2.0 前进，通过添加 Proof of Order Relay 和 Delegated Market Maker 的核心机制，使 Fusotao 协议簇成为一个 Open Trading Network。
+
+Fusotao 创始人发布文章《The Road to An Open Trading Network》，这是解读 Fusotao 2023 年路线图系列文章的第一篇。
+
+内容详情：
+
+https://t.co/nryFnozxyF  
+
+
+![](https://img.foresightnews.pro/202303/b95c793524b62c3f3d1e9a071a235456.jpeg?x-oss-process=style/scale70)  
+**Myriad.Social****Web3 社交媒体平台**  
+The Myriad PWA 现在可以在 Ubuntu 上使用，PWA 是一个在多平台上部署 APP 的绝妙方法。Twitter 详情：  
+https://twitter.com/myriad\_social/status/1628001046411845633  
+  
+
+
+![](https://img.foresightnews.pro/202303/c64e6514d821393928ac6882c8cc3567.jpeg?x-oss-process=style/scale70)  
+**Portalverse Network****去中心化云游戏协议**  
+
+
+目前已经可以在普通设备上，通过 Portalverse 运行高质量的云游戏，比如《Hogwarts Legacy》《Cyberpunk 2077》等Twitter 详情：
+
+https://twitter.com/Portalverse\_Net/status/1629456282343342083  
+![](https://img.foresightnews.pro/202303/9c5e7a6a6df6b36afbbe1db45d76efab.png?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/73f956033b153c13eea571fa0012a0fd.png?x-oss-process=style/scale70)**章鱼网络社区治理**
+============
+
+  
+**章鱼网络生态数据：**  
+截至 2 月 28 日 23:59 UTC1、$OCT 质押总量：8,597,1662、协议年度收益总额：$169,2523、验证人总数：624、平均质押年化收益率：9.3%  
+![](https://img.foresightnews.pro/202303/188c7d2c813e102829753226a75a623c.jpeg?x-oss-process=style/scale70)  
+**章鱼网络 Community Call #7****Octopus 2.0 初具雏形**![](https://img.foresightnews.pro/202303/788991258034903b09db59833c57ea69.jpeg?x-oss-process=style/scale70)
+
+点击查看文章⬇️[Octopus2.0 = Octopus 1.0 + (Eigenlayer+Lido) for NEAR + Cosmos SDK Appchain + 基于 IBC 的跨链交互。整体而言 Octopus 2.0 架构初具雏形，但是仍需打磨细节。](http://mp.weixin.qq.com/s?__biz=MzkyMTI3MTc2NA==&mid=2247485796&idx=1&sn=315735e02f477fb84a5b33baf1870f54&chksm=c18765dff6f0ecc96383b41f080e4db21e7874a3dd6572d0faa66981a8cac0bfb811feddce3f&scene=21#wechat_redirect) [章鱼网络已经成功地构建了安全性租赁的双边市场，任何通过社区投票被认可的应用链项目都基于 LPoS 机制启动。](http://mp.weixin.qq.com/s?__biz=MzkyMTI3MTc2NA==&mid=2247485796&idx=1&sn=315735e02f477fb84a5b33baf1870f54&chksm=c18765dff6f0ecc96383b41f080e4db21e7874a3dd6572d0faa66981a8cac0bfb811feddce3f&scene=21#wechat_redirect)  
+[**对于安全性的提供方，**我们计划推出一种新的 $NEAR 质押衍生品，我们可能会称之为 $reNEAR，意思是可再抵押的 $NEAR，将取代 $OCT 成为章鱼网络安全性租赁的专属抵押资产。基于此，我们可以将安全质押资产的持有人从 $OCT Holder 扩展到 $NEAR Holder。我们的经济体系将与整个 NEAR 生态紧密相连，我们预计将获得更多 NEAR 基金会的支持。此外，新方案将显著降低应用链的质押资产的期权成本。](http://mp.weixin.qq.com/s?__biz=MzkyMTI3MTc2NA==&mid=2247485796&idx=1&sn=315735e02f477fb84a5b33baf1870f54&chksm=c18765dff6f0ecc96383b41f080e4db21e7874a3dd6572d0faa66981a8cac0bfb811feddce3f&scene=21#wechat_redirect)[对于安全性的需求方，章鱼网络计划将我们的服务扩展到基于 Cosmos SDK 开发的应用链。](http://mp.weixin.qq.com/s?__biz=MzkyMTI3MTc2NA==&mid=2247485796&idx=1&sn=315735e02f477fb84a5b33baf1870f54&chksm=c18765dff6f0ecc96383b41f080e4db21e7874a3dd6572d0faa66981a8cac0bfb811feddce3f&scene=21#wechat_redirect)  
+**章鱼全球影响力**
+===========
+
+  
+
+
+**峰会｜区块链互联网 IBC 无处不在**  
+
+
+北京时间 2 月 23日，章鱼网络创始人 Louis 受邀参加 IBCL x Token DAO 联合主办的 Cosmos 跨链生态峰会，围绕 IBC 对区块链互联网的贡献以及长期价值等话题进行深度探讨。
+------------------------------------------------------------------------------------------------------
+
+  
+
+
+内容详情：https://www.bilibili.com/video/BV1xT411i7rE![](https://img.foresightnews.pro/202303/9187797c065037c461ab9ec212550e2f.jpeg?x-oss-process=style/scale70)**Vivi 参加 ETH Denver 讨论应用链共享安全**
+
+ETH Denver 盛况空前堪称全球最大的开发者聚会。Vivi 与 NEAR 生态创始人 Illia、Sweatcoin 创始人 Oleg、Humanguild 创始人 Sasha，NEAR 元老 Amos 、NEAR Social 创始人及 NEAR Virtual Machine 主要开发者 - 全球编程冠军的科学家尤金，NEAR 教育的 Sasha、猴子基金 Christina、蜜糖以及香港 KOL 投资人 Sky、Leon 等深入交流，为 Web3 大规模应用到来努力，**也为章鱼 2.0 战略推出做前期铺垫。**
+
+![](https://img.foresightnews.pro/202303/0320f050c5e19461da140b1c97b77ff5.jpeg?x-oss-process=style/scale70)  
+
+
+**闭门会｜通证经济学的新叙事**  
+
+
+[北京时间 2 月 10日，章鱼网络创始人 Louis 受邀参加链茶馆主办的「通证经济学的新叙事」线下闭门交流会，现场 20 多位 Crypto 创业者和投资人从不同维度展开讨论，现场碰撞非常精彩。](http://mp.weixin.qq.com/s?__biz=MzkyMTI3MTc2NA==&mid=2247485796&idx=3&sn=57f0e9e0cda16fe3ffd428259537b985&chksm=c18765dff6f0ecc9a8bd2675e9043f475dc7e4131defa53b0ccfb7272290a3d4f49fe12ffa9e&scene=21#wechat_redirect)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[Louis 认为 Web3 和通证化是两个相关但是维度不同的概念，并且基于通证的价值场景提出多个关键问题进行探讨，极具启发性。](http://mp.weixin.qq.com/s?__biz=MzkyMTI3MTc2NA==&mid=2247485796&idx=3&sn=57f0e9e0cda16fe3ffd428259537b985&chksm=c18765dff6f0ecc9a8bd2675e9043f475dc7e4131defa53b0ccfb7272290a3d4f49fe12ffa9e&scene=21#wechat_redirect)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![](https://img.foresightnews.pro/202303/7c4c236f502565ceba1e1fb554eec72e.jpeg?x-oss-process=style/scale70)  
+ **沙龙｜全链跨链之争谁是王者**  
+
+
+北京时间 2 月 17日，章鱼网络创始人 Louis 受邀参加 Waterdrip Capital 主办的沙龙活动，围绕跨链的问题、趋势等话题进行探讨。
+----------------------------------------------------------------------------
+
+  
+
+
+Twitter 详情：https://twitter.com/waterdripfund/status/1626099723622031360  
+![](https://img.foresightnews.pro/202303/5ea72d0d4307fd714d551490b2cd160e.jpeg?x-oss-process=style/scale70)  
+
+
+**Accelerator Appchain Showcase#1 ft Frac.io**
+----------------------------------------------
+
+北京时间 2 月 3 日，章鱼加速器为章鱼未来之星项目 Frac.io 举办一场 Showcase#1 Twitter Space ，全面介绍 Frac.io 如何将现实资产带入加密世界。
+----------------------------------------------------------------------------------------------
+
+Twitter 详情：https://twitter.com/oct\_network/status/1621492475872382977![](https://img.foresightnews.pro/202303/af8df28b0e2be6b299134a4513d864fa.png?x-oss-process=style/scale70)
+
+  
+
+
+**Pittsburgh HODLr 邀请 Sheldon 专访**
+
+北京时间 2 月 24 日，章鱼网络 Sheldon 受邀与 Pittsburgh HODLr 讨论跨链、章鱼网络通证经济体系、NEAR、Cosmos 和 LPoS 共享安全等话题。
+
+  
+
+
+内容详情：https://www.youtube.com/watch?v=XuXFEK7WrUw  
+![](https://img.foresightnews.pro/202303/6b1f8be062114b756346fe1e297b9750.png?x-oss-process=style/scale70)  
+  
+
+
+**免责声明：本文仅供参考，不得被用作法律、税务、投资、理财或任何其他建议。**
+
+  
+  
+**| 往期精选 |**
+
+  
+
+
+[Louis 谈通证经济的核心问题](http://mp.weixin.qq.com/s?__biz=MzkyMTI3MTc2NA==&mid=2247485796&idx=3&sn=57f0e9e0cda16fe3ffd428259537b985&chksm=c18765dff6f0ecc9a8bd2675e9043f475dc7e4131defa53b0ccfb7272290a3d4f49fe12ffa9e&scene=21#wechat_redirect)
+
+[Web3 游戏的主流化之路](http://mp.weixin.qq.com/s?__biz=MzkyMTI3MTc2NA==&mid=2247485752&idx=2&sn=6fabcddd46a9881251972c171074c559&chksm=c1876583f6f0ec9577ac10bbae9bb758e3cef8ee8747fd4eaff818ebf3cef47508b6fe5fa53a&scene=21#wechat_redirect)
+
+[Louis 谈 Web3 的商业价值](http://mp.weixin.qq.com/s?__biz=MzkyMTI3MTc2NA==&mid=2247484897&idx=1&sn=8a441f32f2a059e906539c5db9f49238&chksm=c187695af6f0e04c9b535f99991b7e94b74b4014d8c8aed122986218095827d5e61161309567&scene=21#wechat_redirect)
+
+[通过 Substrate-IBC 实现 Substrate 资产跨链](http://mp.weixin.qq.com/s?__biz=MzkyMTI3MTc2NA==&mid=2247484782&idx=2&sn=6ab79e0b368d53b56eb05b2bddd5d914&chksm=c18769d5f6f0e0c3735069b3925a919398a06ca5042115967f00666450d0d6aa8014d7ca39ca&scene=21#wechat_redirect)  
+[Louis 谈 dYdX “叛逃”以太坊](http://mp.weixin.qq.com/s?__biz=MzkyMTI3MTc2NA==&mid=2247484618&idx=1&sn=ac16472df09304ad840a6758accc62e3&chksm=c1876871f6f0e167c9d32bdbf37090a3580bab97a33df0516d16a5d91836502baa1f07e2e879&scene=21#wechat_redirect)  
+[专用预言机 -- Substrate 应用链独有设计模式](http://mp.weixin.qq.com/s?__biz=MzkyMTI3MTc2NA==&mid=2247484415&idx=1&sn=5ad967bf834fc85388a81c686d7ab574&chksm=c1876f44f6f0e65234feedf02873d983745c5458786b9f46761db6f0d2425e752adcbb210a95&scene=21#wechat_redirect)
+
+[GameFi 做应用链已经逐渐成为共识](http://mp.weixin.qq.com/s?__biz=MzkyMTI3MTc2NA==&mid=2247484405&idx=2&sn=12d7b5f89e45c6746224d524abd4be43&chksm=c1876f4ef6f0e6588f19eb5149f64967655dba16f4d7dabca5a40447374aaa1333b7f8526ae9&scene=21#wechat_redirect)
+
+[Web3 创业如何用好「可组合性」？](http://mp.weixin.qq.com/s?__biz=MzkyMTI3MTc2NA==&mid=2247484293&idx=1&sn=f508205de9b8489b5ec9567d6759acb2&chksm=c1876f3ef6f0e628508fade0ee60caa0d37138d0cb2c8709686b5539e76301618ad465b2801e&scene=21#wechat_redirect)
+
+[当游戏遇到区块链｜链游经济系统思考](http://mp.weixin.qq.com/s?__biz=MzkyMTI3MTc2NA==&mid=2247484219&idx=1&sn=b46b26cf3be24088355709b725bc64ff&chksm=c1876f80f6f0e696ddd8e9be6e684d696f775b3115321a617ec04b88bbf321ef813b91bda23f&scene=21#wechat_redirect)
+
+[Web3.0 应用通证工程导论](http://mp.weixin.qq.com/s?__biz=MzkyMTI3MTc2NA==&mid=2247484099&idx=2&sn=63f25d95351c2a3dea530eea09da99d6&chksm=c1876e78f6f0e76e9c07adac38c4f0632d0d8abe091dd10ee81dd191301f2663ae261a06e9b5&scene=21#wechat_redirect)
+
+[胖枢纽：为什么我们不是枢纽极简主义者](http://mp.weixin.qq.com/s?__biz=MzkyMTI3MTc2NA==&mid=2247483959&idx=1&sn=7833ea426eaacbc5028cba8de3da170b&chksm=c1876e8cf6f0e79a4ac89a28dea08e5d60b68aeba8618be9ce20a660edda258a2e0bb2c195e5&scene=21#wechat_redirect)
+
+[Web3.0 应用如何借助 DeFi 起飞](http://mp.weixin.qq.com/s?__biz=MzkyMTI3MTc2NA==&mid=2247483993&idx=1&sn=86a8113961520263145ae9a2192e1a27&chksm=c1876ee2f6f0e7f4597796edeef73b5b6c82fa8e10775da589f9f165bfd00f88669166977da4&scene=21#wechat_redirect)
+
+[章鱼加速器，加速 Web3.0 革命](http://mp.weixin.qq.com/s?__biz=MzkyMTI3MTc2NA==&mid=2247483925&idx=1&sn=294842ee6e383deffb9eb3fb4b1e0884&chksm=c1876eaef6f0e7b82b91ffcf2d54ffa062e041ededcd7ec5f79212e0adfffd2fbd85ae6f4c90&scene=21#wechat_redirect)
+
+[章鱼网络主网正式上线](http://mp.weixin.qq.com/s?__biz=MzkyMTI3MTc2NA==&mid=2247483899&idx=1&sn=93d413b1ffdfd4e0d6f464e5b7518800&chksm=c1876d40f6f0e456e8aad59b97f0b1025d4d88d22a8dbfee48a26a4ea76af98b567821b6486e&scene=21#wechat_redirect)
+
+[章鱼网络构建未来 Web3.0 弹性之网](http://mp.weixin.qq.com/s?__biz=MzkyMTI3MTc2NA==&mid=2247483859&idx=2&sn=5dc2c0003f8241fefc24cf53bde3a3ed&chksm=c1876d68f6f0e47eb1bbd1182eb919ad968e613d821f0e6905a8f5da2e3b5e29361aaba917ba&scene=21#wechat_redirect)
+
+[IBC 是跨链协议的黄金标准](http://mp.weixin.qq.com/s?__biz=MzkyMTI3MTc2NA==&mid=2247483833&idx=1&sn=4ca80138fdcd78e2931f8da5eadc0dfa&chksm=c1876d02f6f0e414d2e8623e8fb711bb8a650f1890e893a8ae63859dadf39d5e3e401b133e9d&scene=21#wechat_redirect)
+
+[多链网络在区块链世界的位置](http://mp.weixin.qq.com/s?__biz=MzkyMTI3MTc2NA==&mid=2247483833&idx=2&sn=ff53820f3825c611bcbef4ad75d0fa04&chksm=c1876d02f6f0e414c3bd29c48874b53a53b11f96571d10fad60f579545fe56fe9566650b1ab9&scene=21#wechat_redirect)
+
+[章鱼网络：赋能应用链，开启 WEB3.0](http://mp.weixin.qq.com/s?__biz=MzkyMTI3MTc2NA==&mid=2247483810&idx=1&sn=012b66ab3a2321935c5f6977645a1316&chksm=c1876d19f6f0e40f566272274e31834a3b9883a63a944effe6e2fe7112d04174851f44856f2b&scene=21#wechat_redirect)
+
+  
+---※---  
+  
+**官网:**https://oct.network**文档:**https://docs.oct.network**Github:**https://github.com/octopus-network**Email:**hi@oct.network**Twitter:**@oct\_network**Telegram:**https://t.me/octopusnetwork  
+**Telegram 中文:**https://t.me/octchinese**Medium:**https://medium.com/oct-network**Discord:**https://discord.gg/6GTJBkZA9Q  
+点**「在看」**为 Web3.0 加速

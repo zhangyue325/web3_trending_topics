@@ -1,0 +1,207 @@
+Unity 最近将 Web3 领域的顶级公司纳入其验证解决方案合作伙伴（VSP）计划，是去中心化游戏的一个重要里程碑。  
+
+
+**Unity VSP 计划**
+
+VSP 计划是由 Unity Technologies 创建的一个计划。  
+
+
+该计划是一个由可信的第三方 SDK、插件和编辑器应用程序组成的生态系统，它们与 Unity 合作，以确保技术上的一致性，并不断验证最新的 Unity 版本的稳定性、生产力、性能和可用性。
+
+最近，Web3 领域的顶级公司被纳入 Unity 的 VSP 计划，这代表了对去中心化游戏的长期增长前景的认可，以及对 Web3 对行业的颠覆性影响的认可。  
+
+
+![](https://img.foresightnews.pro/202303/93c915c134a7495e551dd51eecbb9bd8.jpeg?x-oss-process=style/scale70)
+
+**探索去中心化的游戏技术**
+
+3 月 1 日，Unity 资产商店中推出了一个新的“去中心化”类别页面，其中包含经过审核的解决方案，以支持对实现游戏去中心化技术感兴趣的开发者。  
+
+
+在视频游戏开发的语境下，去中心化通常指的是游戏中的所有权模式。在实践中，这意味着启用游戏机制，允许玩家创造、赚取或获得可以出售或交易的游戏内资源。
+
+在游戏中实现去中心化的技术的一些例子是智能合约、虚拟钱包、不可伪造的代币（NFTs）和加密货币。  
+
+
+![](https://img.foresightnews.pro/202303/97eb8fb9d7259d076047c4fa8063b0a5.png?x-oss-process=style/scale70)
+
+**经过验证的 Web3 游戏解决方案**
+
+目前，共有 13 个经过 Unity 验证的 Web3 游戏解决方案：  
+
+
+* AIKON ORE ID - AIKON 的 ORE ID 是一个单点登录平台，允许开发者在首次登录时创建一个区块链账户。
+* Algorand - Algorand SDK 为开发者提供工具，使其能够利用 Algorand 区块链轻松地将数字资产和原素整合到他们的游戏中。
+* Altura - Altura 的 API 和 SDK 允许开发者在游戏中创建、更新和转移 NFTs。
+* Aptos Labs - Aptos Labs 创建了一个软件开发工具包，使游戏开发者能够在 Aptos 上开始构建。
+* Dapper Labs - Flow SDK for Unity 允许 Unity 开发者将他们的游戏和应用程序与 Flow 区块链集成。
+* Immutable X - 一个领先的开发者平台，用于在以太坊上构建和扩展主流的 Web3 游戏（Web3 地图注：更准确的说法是“在以太坊生态的 Layer2 上”）。
+* Infura (ConsenSys) - Infura 的基础设施和工具套件帮助开发者构建和连接到任何 EVM 兼容的区块链。
+* Metamask (ConsenSys) - 这个 SDK 是一个库，开发者可以安装到他们的项目中，它可以帮助用户轻松连接到任何在 Unity 上开发的游戏的 MetaMask 钱包客户端。
+* Nefta - 这个 SDK 让开发者获得数字资产、多链钱包、代币、自定义市场、白标服务等的无缝整合。
+* Pocketful of Quarters - Quarters SDK 是一个为开发者提供的即插即用的货币化工具，使他们能够专注于创建社交和互操作的游戏。
+* Solana - Unity 的 Solana SDK 让游戏开发者可以轻松地在他们的 Unity 游戏中整合基于 Solana 的 NFTs、代币和链上程序。
+* Tezos - Tezos SDK 具有广泛的功能，包括跨游戏链接玩家账户、游戏内物品和货币的铸造和交易等。
+* Truffle (ConsenSys) - Truffle 是 Ethereum 的智能合约开发框架。
+  
+
+
+**ImmutableX**  
+
+
+ImmutableX 是以太坊的第二层扩展解决方案之一，为 dApps 实现快速和安全的交易，同时大幅降低 Gas 费用。  
+
+
+IMX 是专门为游戏和 NFT 市场设计的，使其成为希望在以太坊上构建的开发者的热门选择。  
+
+
+Immutable Unity SDK 为您提供了将 Web3 技术融入您的游戏所需的一切，并有经过验证的安全性、全球规模和无摩擦的用户体验作为支撑。  
+
+
+![](https://img.foresightnews.pro/202303/aa92230ab78edd8ca3941291b8d0f984.png?x-oss-process=style/scale70)
+
+Immutable 工作室开发了 Gods Unchained 和 Guild of Guardian 等多款 Web3 游戏。  
+
+
+**ORE ID**
+
+@TeamAIKON 的核心服务围绕着为多个区块链提供身份基础设施。  
+
+
+其独特的功能提供，去中心化的单点登录身份，以及钱包解决方案，帮助 Web 2.0 用户转移到公共区块链。  
+
+
+AIKON 的 ORE ID 是一个单点登录平台，供开发者在首次登录时创建区块链账户。游戏者的私钥是加密的，可以通过他们的社交登录访问。  
+
+
+![](https://img.foresightnews.pro/202303/384f8c5f37ceacf9ffbc1b422b6af3e8.png?x-oss-process=style/scale70)
+
+**Altura SDK**
+
+Altura 使得在 Unity 中建立、扩大和盈利 Web3 游戏变得容易。  
+
+
+Altura 的 Unity SDK 允许你在游戏中创建、更新和转让 NFT，而不需要复杂的技术或昂贵的投资。  
+
+
+![](https://img.foresightnews.pro/202303/ac3fec6352ed1d090a9fab7e2e4ff8a4.png?x-oss-process=style/scale70)
+
+在Altura的市场解决方案的帮助下，你可以灵活地在我们繁荣的市场上销售你的 NFT，或者用我们的白标解决方案创建你自己的定制品牌店面。  
+
+
+Altura 使 Web3 游戏开发变得简单。  
+
+
+**Aptos SDK**
+
+🔸@AptosLabs 是一家专注于开发 Aptos 区块链的技术公司，Aptos 区块链是第一层区块链，旨在为开发者提供普遍和集中的去中心化资产访问。  
+
+
+Aptos SDK 简化了区块链开发，因此您可以专注于建设。不费吹灰之力就能创建具有集成数字收藏品和账户管理的可操作和透明的游戏。  
+
+
+![](https://img.foresightnews.pro/202303/bbf909e8ee95bfb697e9dc0e722de184.png?x-oss-process=style/scale70)
+
+**Flow SDK**
+
+🔸@DapperLabs 是一家技术公司，专门开发基于区块链的收藏品和 NFT 平台，以及为游戏和娱乐行业的粉丝提供新形式的数字参与。  
+
+
+Flow SDK for Unity 允许 Unity 开发者将他们的游戏和应用程序与 Flow 区块链集成。  
+
+
+![](https://img.foresightnews.pro/202303/53f6776f13e06a9b0e729905477ef513.png?x-oss-process=style/scale70)
+
+**Infura**
+
+自 2016 年以来，Infura 被来自 Web3 领域最成功项目的 40 多万名开发者使用。  
+
+
+Infura 是一个节点运营商，它提供的工具和基础设施允许开发人员轻松地将他们的区块链应用程序从测试到规模化部署。简单、可靠地访问以太坊和其他网络，包括 Polygon、Avalanche 或 IPFS。  
+
+
+Infura 通过对区块链协议和 NFT 的 API 支持，抽象出协议的复杂性，并最大限度地减少摩擦，通过标准 RPC 调用获得交易统计数据，如 NFT 所有权、NFT 供应和 NFT 元数据。  
+
+
+它向游戏开发者提供区块链后端信息，使他们更快地从游戏概念转向代码完成。Infura 现在为游戏开发者提供特定的 NFT API，快速帮助他们在游戏中设计 NFT 功能。  
+
+
+![](https://img.foresightnews.pro/202303/722e87e1ffc6af15b849cb0963d83e09.png?x-oss-process=style/scale70)
+
+**MetaMask**
+
+MetaMask 是世界领先的 Web3 钱包，受到全球数百万开发者和用户的信赖。  
+
+
+🎯访问、分发和使用代币，如 NFT 作为游戏中的资产；  
+
+
+🎯签署跨越以太坊网络、BNB 链（以前的 Binance 智能链）、Polygon 和 Avalanche 区块链的交易，其他区块链支持即将到来。  
+
+
+![](https://img.foresightnews.pro/202303/43f1d66d5c3dbbe0a28053a2f3a0aecf.png?x-oss-process=style/scale70)
+
+现在就下载 MetaMask SDK for Unity!  
+
+
+**Nefta SDK**
+
+该 SDK 使开发者能够访问 Nefta 的工具箱，并以一种新的方式来吸引、留住玩家并使其盈利。  
+
+
+它可以实现数字资产、钱包、代币和市场的无缝整合。  
+
+
+![](https://img.foresightnews.pro/202303/7102677a95c51becf1eee639bdc53a00.png?x-oss-process=style/scale70)
+
+**Quarters**
+
+利用可互操作的代币 Quarters 使你的游戏货币化并得到发展!  
+
+
+创造你自己的经济，跨游戏和跨平台分享代币，消除付费墙，并实时触发游戏内交易。  
+
+
+![](https://img.foresightnews.pro/202303/84b38fbca72524f800c0f843e53c5aa7.png?x-oss-process=style/scale70)
+
+**Tezos SDK for Unity**
+
+这个完整的 Web3 SDK 让你为你的游戏带来任何区块链功能。  
+
+
+连接到加密货币钱包，生成 NFT，验证用户等等，所有这些都是在节能的 Tezos 区块链上。  
+
+
+![](https://img.foresightnews.pro/202303/d9618ad7d4787a057d14916c7e4d0360.png?x-oss-process=style/scale70)
+
+**Truffle**
+
+Truffle 是以太坊最全面的智能合约开发框架，有 480 万次下载。  
+
+
+当在你的游戏中建立一个 NFT 功能时，Truffle 可以用来。  
+
+
+👾编写一个智能合约，为你的游戏玩家启用 NFT 租赁：轻松地从 OpenZeppelin 导入一个基本的 NFT 合约，定制一些变量，然后部署你自己的合约。  
+
+
+👾通过主网分叉将现有的 NFT 市场整合到你的游戏中。Ganache 可以作为一个有分叉的实时网络，因此来自该网络的交易和状态可以无缝工作，并且不使用真实的 ETH。  
+
+
+![](https://img.foresightnews.pro/202303/5ed3f0c255564e1036ec6f8fbdfb2998.png?x-oss-process=style/scale70)
+
+**未来已来，分布不均**
+
+作为创建互动、实时 3D 内容的最大平台，Unity 对基于区块链的游戏的认可以及对其对行业的颠覆性影响的承认，标志着去中心化游戏的分水岭。
+
+
+
+---
+
+  
+
+
+如果你觉得这篇文章有帮助，请考虑：
+
+* 关注 “Web3 地图”，阅读更多 Web3 内容。
+* 将文章分享给更多对 Web3 有兴趣的同学。

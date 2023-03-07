@@ -1,0 +1,72 @@
+在本月关注到 #StarkWareSessions2023 特拉维夫会议、#Starknet 的证明器开源迎来更优化、Cairo 1.0-Alpha.3 版本发布新功能等重要事件。此外，「StarkNet 中文」不断开拓全新系列：「StarkNet 真知灼见」、「StarkNet 动态」和项目教程视频 🌈
+
+![](https://img.foresightnews.pro/202303/a6e6e94a4049c675adf480195d425057.jfif?x-oss-process=style/scale70)
+
+### 「StarkNet 中文」本月关注 💡
+
+* [#StarkNet 去中心化协议之使用检查点实现快速最终性](https://twitter.com/StarkNet_ZH/status/1622461387871223808)
+* [@LootRealms 的 Bibliotheca DAO 社区募资结束，完成超额认购](https://twitter.com/StarkNet_ZH/status/1621005507204087808)
+* [@myBraavos 发布「帐户抽象安全金字塔」，新增了多重签名器 (3FA)](https://www.notion.so/StarkNet-228-ce7fe71f304c4f6fa328905c907e4a92)
+* [StarkWare 联创兼总裁 @EliBenSasson 被评为 @Cointelegraph 加密领域最具影响力的百人第九名](https://www.notion.so/StarkNet-240-091ceca8f957447380346c1e9b085d2e)
+* [@myBraavos 多签功能现已上线测试网](https://twitter.com/StarkNet_ZH/status/1628963545219231745)
+* [@influenceth 使用 #StarkNet 帐户抽象功能](https://twitter.com/StarkNet_ZH/status/1619897236070219777)
+* [StarkWare 加入 @chainlink SCALE 计划，加速 #StarkNet 发展](https://www.notion.so/StarkNet-227-5043e6b835d149a99fd27150be8fade7)
+* [#Starknet 的证明器开源，标志着整个 Starknet 堆栈完成开源](https://twitter.com/StarkNet_ZH/status/1622441206058983430)
+* [Cairo 1.0-Alpha.3 版已发布](https://twitter.com/StarkNet_ZH/status/1628958016241537025)
+* [Cairo 1.0 引入了一个新的系统调用](https://twitter.com/StarkNet_ZH/status/1623536949456961536)
+* [#Starknet 核心合约介绍](https://twitter.com/StarkNet_ZH/status/1621730283279237120)
+* [@myBraavos 钱包的帐户合约现在已开放源代码啦](https://twitter.com/StarkNet_ZH/status/1622435540888064001)
+* [#CairoLang 和 #StarkNet 合约的形式化验证工具](https://twitter.com/StarkNet_ZH/status/1623890758066667520)
+* [献给 #CairoLang 开发者：速览 Cairo 1.0 优势](https://twitter.com/StarkNet_ZH/status/1626427944632737792)
+
+
+---
+
+### 「StarkNet 中文」文章资源 📚
+
+📝 **社区原创：**
+
+🔍「StarkNet 中文」教育系列之[「StarkNet 真知灼见」第二期：借贷协议 Nostra Finance](https://twitter.com/StarkNet_ZH/status/1627571267699363841)
+
+🔍「Starknet 中文」教育系列之[「StarkNet 真知灼见」第三期：ReFi 碳中和协议 @Carbonable\_io](https://twitter.com/StarkNet_ZH/status/1630470886934421504)
+
+📃 **翻译校对：**
+
+<https://mirror.xyz/starknet-zh.eth/YNnxrgC0mXegfD3jQsoOweShsYmXtG-jR6z_xYi-VxU>
+
+<https://mirror.xyz/starknet-zh.eth/hZCVwmQGIEgcu27h5LgnOaK2PdYAvbuG-WfIDNSEjnc>
+
+🔍 **社区资源：**
+
+「Starknet 中文」社区自制的 [@influenceth 交互教程视频](https://twitter.com/StarkNet_ZH/status/1620712637167439873)，使用 @cartridge\_gg 和 @myBraavos 两种方式登录体验游戏
+
+「Starknet 中文」社区制作了 [Starknet 动态视频系类第一期](https://twitter.com/StarkNet_ZH/status/1628675430252425216)，总结生态技术及动向
+
+
+
+---
+
+### 「StarkNet 中文」活动回顾 📆
+
+* [注册了解 #STARKDenver](https://twitter.com/StarkNet_ZH/status/1628593236968353793)
+* [项目团队和成员所拍摄的 #StarkWareSessions2023 特拉维夫现场剪影](https://www.notion.so/Tel-Aviv-68706f17152e4861954d74b853857270)
+* [回顾 #StarkWareSessions2023 特拉维夫精彩演讲](https://twitter.com/StarkNet_ZH/status/1624966791859679233)
+* [@briqNFT x @DucksEverywher2 合作系列之 #beiQuack「鸭鸭 NFT」](https://twitter.com/StarkNet_ZH/status/1623518645912764416)
+关注[「StarkNet 中文」社区 Notion 主页](https://www.notion.so/ca5af6495c3642e6b48424202fbec3d1)活动看板，查看更多活动细节以及会议回顾
+
+![](https://img.foresightnews.pro/202303/681c50c5ef25320ee886d83fa04dbd20.png?x-oss-process=style/scale70)
+
+
+
+---
+
+❤️ 感谢阅读 Thanks for reading
+
+✨ Twitter: [@StarkNet\_ZH](https://twitter.com/StarkNet_ZH)
+
+🌞 欢迎关注[「StarkNet 中文」资料库](https://github.com/StarkNet-ZH/Awesome-StarkNet-Chinese)
+
+🌟 博客：[StarkNet 中文 (mirror.xyz)](https://mirror.xyz/starknet-zh.eth)
+
+💧 有任何建议，欢迎[加入群组](https://t.me/starknet_zh)
+

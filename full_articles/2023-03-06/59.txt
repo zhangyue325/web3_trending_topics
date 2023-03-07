@@ -1,0 +1,43 @@
+![](https://img.foresightnews.pro/202303/0e8a8a7c082c8d2592d7d7c92831f7e2.png?x-oss-process=style/scale70)### TL; DR
+
+Today, we’re thrilled to announce two new products, Pipeline and Datasets, together they offer an unparalleled customer experience for web3 development. Pipeline offers the ability to customize data flow and build APIs. Datasets unlock the full potential of the public-by-default data in web3.
+
+### Pipeline — Power your app with real-time data
+
+With Pipeline, our data transformation tool, you can pull and transform blockchain data in real-time. By streaming the results into an API or integrating directly into your stack, you can quickly build applications with up-to-date blockchain data.
+
+Here’s how it works…
+
+![](https://img.foresightnews.pro/202303/e993d3702ab787cd877cde0d3427baa8.gif?x-oss-process=style/scale70)Your job is only half done when you have finished data processing in the pipeline. Chainbase gives you much more flexibility in accessing and integrating with the transformed data.
+
+With a single GraphQL interface, you can create customized APIs that meet the specific needs of your project. And with Webhooks, you can receive real-time updates on these data. For example, you can use Pipeline to identify fraudulent activities by applying real-time transaction filters and alerts.
+
+Additionally, we offer pre-engineered integrations that make it easier to integrate data into existing systems and workflows. For example, you can pull data into your own environments, and maintain a snapshot of the data in your app’s backend.
+
+### Why use Chainbase Pipeline?
+
+[The Graph](https://thegraph.com/en/) solves the critical challenge of accessing blockchain data. Hosted subgraphs make accessing and querying the blockchain data easy, without working directly with the raw blockchain data, which is very complex. A subgraph specifies which data is relevant and how it is organized, however, it makes assumptions about how developers can query it.
+
+Sometimes the application developers need more diverse ways to utilize on-chain data for specialized use cases. In latency-sensitive scenarios, the push model is more suitable than the pull model. Another typical scenario is that if a customer needs to synchronize parsed on-chain data for an analytical use case, pulling it through an API is inefficient and expensive.
+
+However, it’s hard to get it right when it comes to getting reliable, accurate, and real-time data. For example, application developers need to spend extra time dealing with the reorg issue and some edge cases.
+
+At Chainbase, we believe that you don’t have to hire a Spark/Flink team to handle web3 data. With Pipeline, we’re bringing real-time streaming computing to application developers and making it easier for them to query and transform blockchain data, even in the reorg event situation.
+
+[Chainbase](https://www.chainbase.com/) also makes it easy to integrate data into your applications without needing to worry about the bottom-layer infrastructure. Chainbase fully manages the underlying operations of Pipeline, providing developers with an enterprise-grade Platform as a Service (PaaS) infrastructure that supports mission-critical applications and workloads alongside a simple, easy-to-use development environment.
+
+### Datasets — Chainbase interpretation layer
+
+In the past few months, Chainbase has already developed several valuable web3 APIs, including DeFi API, NFT API, Token API, etc. While creating these data APIs, we have found that having a reliable data interpretation layer that sits on top of raw data is of value to many clients.
+
+We believe that you don’t have to educate yourself on how to parse on-chain data. A comprehensive layer will make it easy for you to understand what has happened on-chain.
+
+We organize our interpretation layer into individual datasets and let you access them in Pipeline. Every transaction you get is categorized as an event, such as swap, lend, or bridge, and is enriched with contextual data. You can use these data without having to understand the underlying data structures.
+
+Here is what a dataset looks like:
+
+![](https://img.foresightnews.pro/202303/f79fc314928f8c966bcc77b5794ba002.png?x-oss-process=style/scale70)### Try it now
+
+We believe that you will be as excited as we are about the new tools! Feel free to try these new features, learn how to [create a pipeline](https://docs.chainbase.com/docs/pipeline-overview), browse our [supported datasets](https://chainbase.com/datasets), and join our conversations on [Discord](https://discord.gg/kYrpZuwv6e). We look forward to hearing your feedback and seeing more innovative use cases of the on-chain data!
+
+![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=a8996e5a322c)

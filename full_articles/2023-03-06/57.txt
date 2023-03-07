@@ -1,0 +1,145 @@
+空投作为 Web3 的一种激励用户参与和贡献的方式，在过去的几年里，我们已经见证了一些成功的 Web3 项目空投，如 Uniswap、1inch、Aptos 等，它们给用户带来了巨大的收益和惊喜。随着加密市场逐渐回暖，2023 年将成为空投的重要一年。
+
+那么，在 2023 年，还有哪些项目值得我们关注和参与呢？本文 veDAO 研究院将盘点 4 个潜力巨大的项目，以及具体的参与方式。
+
+LayerZero
+---------
+
+![](https://img.foresightnews.pro/202303/7ff6f99499c2e3803c2ccbdfd4f4d714.png?x-oss-process=style/scale70)
+
+Omnichain 的开发者 LayerZero Labs，已经不是 veDAO 研究院第一次介绍了，更多关于 LayerZero 的信息可以参看研究院之前的文章（<https://mirror.xyz/0x901eA9e4c3D637C73a368B2bCD0E708992baE49C/N2NdowIYxx4rbfVHjyl3SkUmyS270QZcUQDcmestwaw）。>
+
+在这里着重关注 LayerZero Labs 的融资情况：在 B 轮融资中，LayerZero Labs 从 PayPal Ventures、Uniswap Labs、FTX Ventures、Coinbase Ventures、Sequoia Capital 等公司筹集了 1.35 亿美元。其中值得留意的是 LayerZero 作为 PayPal 投资的第一个 Web3 项目。这一点使得 LayerZero 有望成为今年最大的空投之一。
+
+### 空投情况
+
+目前，LayerZero 还没有发行代币。但是查看 LayerZero 的信息代码会发现其中包含带有“ZRO”字符的代币名称。这一点基本证实 LayerZero 会推出代币的计划；虽然官方并未发出公告，但 LayerZero 的社区也预计代币会在不久的将来推出。 
+
+![](https://img.foresightnews.pro/202303/eea6d0823175ad1dafa94b9be7f5b718.png?x-oss-process=style/scale70)
+
+  
+
+
+### 如何领取空投
+
+LayerZero 目前尚未开启空投，除了随时关注其官方动态，还可以参与进 LayerZero 上的项目参与治理，以便在空投来临时获得更多的权益或资格。其中包括在 LayerZero 主网上使用所有可用的 LayerZero 协议（例如 Stargate Finance、Pontem Liquidswap、Aptos Bridge 等）。还有一个更重要的方式是成为 Stargate Finance 的 DAO 成员。
+
+Stargate Finance 作为 LayerZero 上的第一个项目，成为 Stargate Finance 的 DAO 成员，有望获得 LeyerZero 空投的资格：
+
+1. 从 Uniswap 或任何平台购买 STG（Stargate Finance Token）
+
+2. 购买完成后，前往 Stargate Finance 官网，打开 Stake 页面（<https://stargate.finance/stake）>
+
+3. 在 Stake 页面连接钱包后即可质押 STG 代币，质押成功后，你将获得投票权
+
+4. 访问 Stargate DAO 界面（https ://snapshot.org/#/stgdao.eth），加入后定期对 Stargate DAO 的治理提案进行投票。
+
+通过在 Stargate DAO 定期投票，就可以成为 Stargate Finance 的 DAO 成员；而这将帮助你获得 LayerZero 的空投资格。
+
+Arbitrum
+--------
+
+![](https://img.foresightnews.pro/202303/004369b0b838def4cd28e16f69edf6be.png?x-oss-process=style/scale70)
+
+### 简介
+
+Arbitrum 是由 Offchain Labs 开发的名为 Optimistic rollup 的技术，该技术可以使以太坊通过智能合约和 Layer2 之间发送消息来扩展，从而让以太坊的智能合约运行得更快、更便宜，同时保持去中心化的安全性。用户可以使用以太坊上的代币和合约与 Arbitrum 互动，只需要通过一个桥接合约将资产存入或取出 Arbitrum。过去一年来，Arbitrum 展现出非常强的运营和生态能力，技术不断升级，启动双链 Arbitrum Nova 和 Arbitrum One，推出了新编程环境 Stylus；Arbitrum 的生态系统已经非常丰富，包含有钱包、工具、交易所、借贷平台等多种 DApp。
+
+### 空投情况
+
+目前 Arbitrum 还没有公布自己的代币计划，但社区传言说 Arbitrum 可能会向早期用户空投代币。
+
+除此之外，3 月 1 日，多链钱包 BitKeep 推出 Arbitrum Futures Token（ARBK）空投，作为 Arbitrum 官方 Token 兑换凭证。持有 ARBK 并完成相应任务，可获得未来 100% 兑换 Arbitrum 官方 Token 的资格。同时，BitKeep NFT 市场已在 Arbitrum 链上启动 0 手续费及挂单交易奖励活动，奖池包括 50,000 USDT、NFT 盲盒以及 BKB 空投；挂单交易奖励活动持续 2 周，交易免手续费持续 6 个月。
+
+![](https://img.foresightnews.pro/202303/d14655404ba9fec7f5ef9d88352f4097.png?x-oss-process=style/scale70)
+
+  
+
+
+### 如何领取空投
+
+Arbitrum 目前尚未发币，如果想成为早期用户以待领取将来的空投，可以参与 Arbitrum Odyssey，在 Arbitrum 网络上完成一些任务来获得其 Discord 社区角色，成为早期用户。目前 Arbitrum Odyssey 已开启第三期（[https://galxe.com/arbitrum/campaign/GCCNzUtQiW/）。](https://galxe.com/arbitrum/campaign/GCCNzUtQiW/%EF%BC%89%E3%80%82)
+
+此外，获得近期推出的 Arbitrum Futures Token（ARBK）也是领取 Arbitrum 未来代币的一种不错的方式。
+
+BitKeep 推出为期一个月的 ARBK 空投，作为 Arbitrum 官方代币兑换凭证。持有 ARBK 并完成相应任务，可获得未来 100% 兑换 Arbitrum 官方代币的资格。获取方式主要有两种：
+
+活动期间，BitKeep 将在官方推特、社群、BitKeep 联合的 Arbitrum 热门项目、Web3 Influencers 社交媒体进行新用户专享的 ARBK 红包空投。每个 BitKeep 新注册用户可领取一次 ARBK 红包空投，单个金额约为 5 ARBK。通过红包获得 ARBK 的用户，须通过在 BitKeep 上创建的钱包地址，完成一笔 Token Swap 或 NFT 交易后，可获得未来兑换 Arbitrum 官方代币资格。
+
+还可以通过在 BitKeep Swap 或 BitKeep NFT 市场完成交易任务，获得额外 ARBK 空投领取资格：达到 100 USD 可额外获取 1 个 ARBK 空投，达到 500 USD 可额外获取 5 个 ARBK 空投，达到 1,000 USD 可额外获取 10 个 ARBK 空投。通过交易奖励获得 ARBK 的用户，须通过在 BitKeep 上创建的钱包地址完成相应的 Swap 或者 NFT 交易，方可获得相应的 ARBK 空投奖励，以及未来兑换 Arbitrum Token 的资格。
+
+Shardeum
+--------
+
+![](https://img.foresightnews.pro/202303/5811caaad69f251ba822f1d872e8cec5.png?x-oss-process=style/scale70)
+
+  
+
+
+### 简介
+
+Shardeum 是一个基于 EVM 的智能合约平台，它通过动态状态分片技术，实现了线性可扩展性、低 Gas 费、保持真正的去中心化和强大的安全性。Shardeum 支持跨分片的合约互操作性，使用 EIP-2930 accessList 来自动路由不同分片上的合约。Shardeum 目前处于测试阶段，可以加入其社区成为早期成员，还可以参与一些活动来获得未来的空投资格；官方表示拿出 2540 万 SHM 用于生态系统和空投。
+
+### 空投情况
+
+Shardeum 的代币为 SHM，目前还没有正式发行。Shardeum 计划在 2023 年第二季度进行代币的发行；同时，根据 Shardeum 的代币经济学和路线图可知，SHM 总供应量的 5% 已确认用于空投。空投对象包括社区成员和在测试网上进行过交易的用户，有可能有资格获得空投。
+
+### 如何领取空投
+
+想要领取 Shardeum 空投，最好的方式是通过完成 Shardeum 测试网的任务来获取未来空投的资格。方式如下：
+
+1. **加入测试网和领取测试币：**
+
+首先要在 Metamask 中手动添加 Shardeum Liberty 1.6 和 2.1 网络。完成添加后，转到 Shardeum Liberty 水龙头页面（1.6 水龙头：<https://faucet.liberty10.shardeum.org/；2.1> 水龙头：<https://faucet.liberty20.shardeum.org/）分别获取测试代币；成功后即可在> Metamask 中查看。
+
+2. **完成测试任务：**
+
+测试任务有很多，完成得越多并在社区反馈问题就更容易获得空投资格。
+
+（a）在 DexPad 上创建自己的代币
+
+访问 DexPad 网站（<https://dexpad.io/token-factory），并创建自己的代币，创建完成后进行 Launchpad、Airdrop 等其他功能的测试。>
+
+（b）使用 DotSHM 创建域名
+
+访问 DotSHM 网站（<https://dotshm.me/）注册域名，检查域名是否已经创建成功。>
+
+（c）参与 ShardeumSwap 和 Swapped Finance
+
+打开网站（<https://testnet.swapped.finance/ru/swap），并连接钱包，切换至 Shardeum> 2.1 网络。进行 Swap 操作，通过每周交换 5–10 次以成为活跃用户。
+
+（d）铸造 NFT
+
+可以选择在 Boss NFT（<https://boss.shardeum.us/）和> Spriyo（<https://www.spriyo.xyz/）上进行> NFT 的铸造。
+
+Sui Network
+-----------
+
+![](https://img.foresightnews.pro/202303/fc6bbfe173ffc2e4d590d1ee1f2a7fd1.png?x-oss-process=style/scale70)
+
+  
+
+
+### 简介
+
+Sui Network 是一个由 Mysten Labs 从头设计的 Layer 1 区块链网络，由部分前 Meta（原 Facebook）的员工创建。Sui Network 的目标是提供一个高性能、低成本、易用和安全的智能合约平台，支持 NFT 和 DeFi 应用，可以建立从游戏到金融的丰富和动态的链上资产。Sui Network 使用了一种叫做 Narwhal 的共识算法，以及一种叫做 Tusk 的状态分片技术，来实现线性扩展和高吞吐量。Sui Network 还使用了一种叫做 Sui Move 的虚拟机，来执行智能合约和管理数字资产。Sui 是水平可扩展的，提供即时的最终结果，并且拥有较低的 Gas 费。
+
+### 空投情况
+
+Sui 获得了 Coinbase Ventures、Binance Labs、Apollo、Circle 和其他许多机构的大量资助和支持，在 B 轮融资中筹集了 3 亿美元。Sui Network 在 2022 年 11 月 17 日启动了测试网，并计划在 2023 年第一季度进行主网上线。
+
+Sui 已经发布了其原生代币 SUI 的代币经济学，并且 SUI Token 的发行很可能将与其主网的启动同步。由于网络仍处于测试网阶段并且即将启动，因此与网络交互的早期用户可能有资格获得潜在的空投。
+
+### 如何领取空投
+
+Sui 尚未发币，同样是通过参与测试网活动来获取未来空投的领取资格。
+
+为此，第一步是安装（<https://chrome.google.com/webstore/detail/sui-wallet/opcgpfmipidbgpenhmajoajpbobppdil）并创建一个> SUI 钱包。完成 SUI 钱包的创建后，可以加入官方 Discord（<https://discord.com/invite/sui）领取测试币。>
+
+成功领取测试币之后，即可使用测试网，通过完成 NFT 铸造（<http://sui-wallet-demo.s3-website-us-east-1.amazonaws.com/）、参与游戏（例如> 2 月 15 日结束的 Frenemies）等方式参与测试。通过这种方式参与 Sui 早期生态，即有可能获得空投资格。
+
+写在最后
+----
+
+加密市场一直保持着日新月异的发展，这意味着会有更多的空投出来。比起空投开始才去了解项目，提前加入测试网活动了解项目的同时获得空投资格，是一种更优的参与方式。虽然这可能会花费一些时间和耐心，但从长远来看，这是一个很好的投资。因此无论是新手还是专业人士，都需要随时关注空投领域的动态，以便能快速获得精准项目信息。
+

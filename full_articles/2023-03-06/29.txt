@@ -1,0 +1,47 @@
+![](https://img.foresightnews.pro/202303/65d43bf34a2d17ee8cd27580f4545001.png?x-oss-process=style/scale70)This guide will walk you through the process of getting all the Discord roles in the official Arbitrum community.
+
+阅读本指南前，建议看完第一篇指南 [Arbitrum Airdrop Guide – Cross-Chain Bridge](https://blog.bitkeep.com/zh/?p=2702) 。
+
+本文为 Arbitrum 指南系列的第二篇，手把手教你使用 Discord 和 Arbitrum 官方社区互动。 [Discord](https://discord.com/)，简称“DC”，是一个可以与社区成员联系、获取信息、提问和交流想法的平台。虽然获得所有 DC 身份并不能保证一定会收到 Arbitrum 的空投，但还是值得一试！获得身份会产生相关费用，请三思而后行。建议使用台式或笔记本电脑来完成以下操作。
+
+![](https://img.foresightnews.pro/202303/087e27edf06131ee7004e9c9549b1682.png?x-oss-process=style/scale70)*这是完成本教程后的 Discord 界面！*### 获取 Arbitrum Discord 身份的步骤
+
+1. 访问 <https://guild.xyz/arbitrum>，点击“Join guild to get roles”。
+
+![](https://img.foresightnews.pro/202303/9a2dbc1a8ec5eada9e056c06485b8186.png?x-oss-process=style/scale70)2. 登录 Discord 帐户，如果没有需要注册一个新账户。
+
+![](https://img.foresightnews.pro/202303/1a32cc9c72cb6521eeee3c2c598453a9.png?x-oss-process=style/scale70)3. 连接浏览器钱包。
+
+![](https://img.foresightnews.pro/202303/41244b12313533a413668ec2ad695c6d.png?x-oss-process=style/scale70)4. 连接推特账号并加入公会。
+
+![](https://img.foresightnews.pro/202303/975fe4f61e68fe44c746c79a93ae56f9.png?x-oss-process=style/scale70)5. 加入官方 [Arbitrum Discord](https://discord.com/invite/arbitrum) 频道，单击 Arbitrum 的 logo 验证身份。
+
+![](https://img.foresightnews.pro/202303/228cff999a134897e8782b72d13e5344.png?x-oss-process=style/scale70)6. 前往“Roles”频道，单击“Represent Your Community”。
+
+![](https://img.foresightnews.pro/202303/b2e7537caece1a74e6c1c1b1ccbff80b.png?x-oss-process=style/scale70)7. 大多数身份要求持有少量代币。智能合约可以帮你一次性购买所有代币，无需一个个地 swap。chase all the requested coins in one go.  
+在访问智能合约前，你需要持有 Arbitrum 上的 ETH。 可以根据[第一篇指南](https://blog.bitkeep.com/zh/?p=2702)桥接 ETH 或使用 [BitKeep Swap](https://bitkeep.com/zh/swap/arbitrum/bitkeep)，以最优惠的价格轻松完成跨链操作。
+
+![](https://img.foresightnews.pro/202303/e51d32a4d73c23e8c57818d104b0cb22.png?x-oss-process=style/scale70)8. 在 Arbitrum 上获得 ETH 后，访问[智能合约](https://arbiscan.io/address/0x13c2910c06f6f8648cb01d4f20ad8fa1d3868a17)。点击“Contract”、“Write Contract”和“Connect to Web3”连接钱包。
+
+![](https://img.foresightnews.pro/202303/c60f38417f0e00c8b652dffc58f6241b.png?x-oss-process=style/scale70)9. 输入“0.0025 ETH”，点击“write”。购买代币大概需要花费 4 至 5 美元，其中包含了 gas fee。
+
+![](https://img.foresightnews.pro/202303/5c2b65f860904388400ddfd5f2db07fb.png?x-oss-process=style/scale70)10. 这一步非常简单，而且免费。选中括号及里面的两个爱心，复制后，前往 [Twitter](https://twitter.com/settings/profile) 个人资料页面，将它们粘贴到 Twitter 用户名之后。
+
+![](https://img.foresightnews.pro/202303/f375eb994f1f99c1a7074847b0d8dbba.png?x-oss-process=style/scale70)11. 返回 https://guild.xyz/arbitrum 更新身份。此时，你会发现还有三个身份待激活。
+
+获取“Arbinaut”身份，可在 [BitKeep NFT Market](https://nft.bitkeep.com/zh/collection/arbitrum/0xfae39ec09730ca0f14262a636d2d7c5539353752) 购买所需的 NFT，成本取决于 NFT 底价。为大力支持 Arbitrum 生态的发展，BitKeep 正在进行为期 6 个月的[零手续费交易](https://blog.bitkeep.com/zh/?p=2586)活动。请关注下一个关于在 Arbitrum 主网上购买 NFT 的教程。
+
+![](https://img.foresightnews.pro/202303/8cf61b5832019b64a8c8298008eae30d.png?x-oss-process=style/scale70)另外，“Swapr Fam”和“Swapr Elk”这两个身份，可以通过点击“购买”按钮直接购买代币。成本约为 2 美元，其中包含了 gas fee。
+
+![](https://img.foresightnews.pro/202303/a4e843cccf07a6fb80042401b178ee02.png?x-oss-process=style/scale70)12. 从第六步开始重复，所有身份现在都已更新！
+
+![](https://img.foresightnews.pro/202303/1f005df48c519206808b6466017f5652.png?x-oss-process=style/scale70)### 结语
+
+完成本教程大约需要 15 到 30 分钟，操作简单。再次申明所有 DC 身份都需要投入一定成本，虽然不能确保一定会获得 Arbitrum 空投，但仍然值得一试。祝各位好运，成功收获 Arbitrum 空投！
+
+### **更多 Arbitrum 空投指南：**
+
+[Arbitrum 空投指南 – 跨链桥](https://blog.bitkeep.com/zh/?p=2702)
+
+更多内容，敬请期待！
+

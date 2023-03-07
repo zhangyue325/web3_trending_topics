@@ -1,0 +1,320 @@
+一、行业动态总结
+
+![](https://public.bnbstatic.com/image/pgc/202303/1435140ee14124e8a8338982d05452fa.jpg)
+
+上周加密市场走出了独立行情，前半周表现优于美股，在美股持续阴跌的情况下加密市场有企稳迹象，然而在美股周四周五连续大涨的情况下，加密市场反而在周五出现暴跌，比特币单日跌幅达到了 4.5% 左右，并且在周末时段持续萎靡震荡。截至撰稿比特币收于 22444.39，周内下跌 3.48%，振幅 9.08%；以太坊表现仍由于比特币，收于 1570.92，周内下跌 2.23%，振幅 9.83%。同时中心化交易所交易量方面在本周出现了较大下滑，下降 30% 来到了 20+ Billion USD。本周加密市场的主要黑天鹅时间来源于加密友好银行 Silvergate 的突然崩盘，这起黑天鹅始于彭博的一则消息，称 Silvergate 推迟了其财报披露日期，让外界怀疑其在加密市场损失可能超过之前公布的 10 亿美元，并怀疑其持续经营的能力，这使得其股价在当天出现断崖式下跌，收盘跌幅达到了惊人的 58%。对币圈的影响在于，Silvergate 和加密市场的几个重量级机构都有合作，其中就包括了 USDC 发行方 Circle，Silvergate 是 USDC 的美元抵押物收取渠道，也就是说 USDC 的储备金有一部分存在了 Silvergate，但具体比例不明；还有一点是 USDC 储备金的部分交由国库基金投资，由 BlackRock 管理，而 BlackRock 在一月份还投资了 Silvergate，直接跌掉了 65%，也让人担心其储备金的盈亏，好在 USDC 同时和 8 加银行都有相关合作，因此 Silvergate 不太可能占比过高，当前 USDC 已在合作名单中将 Silvergate 删除并要寻求新的合作方。目前来看本次事件对加密市场影响有限，下跌也可能是空投借机砸盘，对漩涡中心的 USDC 也没产生实质性影响。后续将继续跟进。
+
+![](https://public.bnbstatic.com/image/pgc/202303/a9a2f872ff5551cdaad88994473abebd.jpg)
+
+反观美股，上周初市场延续了前一周的下跌趋势，标普和纳指在周一至周三持续下跌并且标普一路跌倒了 200 日均线的位置并有短暂的击穿，但这仅仅是个假突破，在周四周五大盘强势反弹，连续两根大阳线基本把前两周的跌幅抹平，标普指数重回 4000 点，纳指也是突破了矩形整理上轨，市场展现出了较强的韧性。当前美联储的决策还不是很明朗，市场对短期内加息预判，利率峰值，以及长期的开始降息都没有一个明确的判断。本周二鲍威尔会向参议院做工作报告，星期三还会向众议院报告，讲话内容将会成为股市交易依据。并且 3/8 会有小非农，周五还会有大非农数据出台，因为美联储自己也说不清楚将会加息到什么程度，因此非农就是一个重要参考。上周出台讲话的官员也不多，有一位亚特兰大联储主席同时也是 FOMC 候补委员的 Bostic，出面表态说他倾向于 3 月份加 25 个基点，到夏天停止加息，同时他还表示不要重蹈 70 年代美国通胀的覆辙，那时美国利率可是飙到了 20%，然而他的表态略显中立，没有明确指向性，但市场大多对他的发言还是以鸽派的方向进行解读，看起来更像是主流财经媒体在借题发挥，诱导市场向华尔街想要的方向走。从当前的市场表现来看，市场震荡上行仍是大概率事件。
+
+行业数据
+
+1）稳定币
+
+截止 2023 年 3 月 4 日，前四大稳定币（USDT、USDC、BUSD、DAI）合计供应量约 1293.11 亿，较上周出现小幅下跌，减少约 3.6 亿（-0.28%），币市资金仍在持续流出，但有所放缓。
+
+![](https://public.bnbstatic.com/image/pgc/202303/a3235e8f8a8612d153d28e9618f8d6ec.jpg)
+
+三大法币稳定币中，USDT 和 USDC 的供应量出现预料之中的上涨。USDT 本周大幅增加约 5.39 亿枚（0.6%），上涨趋势延续。USDC 本周供应量大幅增加约 11.7 亿枚（2.76%）。
+
+BUSD 供应量本周持续大幅下跌，再次大幅减少 20.62 亿（-18.47%），BUSD 供应量已跌破 100 亿。由于 Paxos 已被禁止铸造 BUSD，未来一段时间，稳定币市场将保持这一此消彼长的态势。
+
+整体而言，本周 USDT 和 USDC 的增长难以抵消 BUSD 的流出，币市资金依然在净流出趋势中，该趋势已持续两周，若资金流出持续至 BUSD 归零，预计整体资金还将流出 10~15 亿美元。
+
+近期币市冲高失败，震荡回落，也佐证了我们的观点：市场还在等待宏观环境和情绪改善，直至增量资金入场。
+
+2）BTC 矿工余额
+
+BTC 矿工地址余额表明链上被标记为矿工地址的 BTC 持有余额合计，包括 Foundry USA，F2Pool，AntPool，Poolin，Binance 等地址。
+
+该数据通常用于判断对于矿工对于当前 BTC 价格的兴趣，矿工余额升高时，通常说明筹码处于堆积状态；矿工余额降低时，表明矿工正在抛售或抵押其持有的 BTC。
+
+![](https://public.bnbstatic.com/image/pgc/202303/617dc3431e436b7bc018a2be9a1be187.jpg)
+
+根据 OKLink 数据，与上周相比，矿工余额略有减少，虽然绝对值变动幅度不大，但此次单周减少为 2022 年 12 月以来最大幅度，一定程度上反映了市场情绪，可能存在部分底部获利筹码兑现离场。对此我们需要提高警惕，震荡回调可能尚未结束。
+
+3）ETH 通缩数据
+
+截止 3 月 5 日，根据 ultrasound.money 数据，本周 ETH 供应量较上周减少约 6265 枚，自 The Merge 完成后，ETH 供应量已累计减少 4.4 万枚。以近一周数据推算，年化通胀率为 -0.27%，通缩仍在持续，但速度有所放缓。
+
+![](https://public.bnbstatic.com/image/pgc/202303/db38ef2468c707758b23183b485d4df4.jpg)
+
+相比 POW 机制下的 ETH，POS 机制下供应量已累计减少约 195 万枚，以美元计价这部分抛压约 30 亿美元。
+
+二、宏观与技术分析
+
+市场短时间抬升之后，又进入调整期，横盘依旧，短期向上难以突破。
+
+![](https://public.bnbstatic.com/image/pgc/202303/f089c1db63c1ff53eb0cf1182ecd642d.jpg)
+
+![](https://public.bnbstatic.com/image/pgc/202303/7d474e2696188f222ea02a3ae6a30a63.jpg)
+
+两年期美债上扬，后续加息 75bp
+
+![](https://public.bnbstatic.com/image/pgc/202303/817e907059afd466a8ff2e9293a96b74.jpg)
+
+纳斯达克指数反弹当中
+
+![](https://public.bnbstatic.com/image/pgc/202303/fc91781300fb762fe83e9ba476387fd0.jpg)
+
+arh999：1.27
+
+![](https://public.bnbstatic.com/image/pgc/202303/8a7cf38f4f88a4cc685294c5eec175e5.jpg)![](https://public.bnbstatic.com/image/pgc/202303/858606a140d6ce55187303c04fead1ef.jpg)
+
+持币 100 以上地址数反弹
+
+![](https://public.bnbstatic.com/image/pgc/202303/f7c35bc64b4887032bbed1f686272745.jpg)![](https://public.bnbstatic.com/image/pgc/202303/65a54da5418f12f751e4539f0a6a376a.jpg)
+
+持币 100 以上地址数开始下行
+
+![](https://public.bnbstatic.com/image/pgc/202303/d8b8e343a79b059cad4b90dc7a302c15.jpg)
+
+三、投融资情况总结
+
+投融资回顾
+
+2023 年 2 月 27 号至 3 月 5 日，加密 VC 市场披露的投融资事件 24 笔，累计融资金额超过 1.36 亿美元；（https://www.rootdata.com/Fundraising）
+
+报告期内，超过 1,000w 美金融资额的事件一共 6 起：
+
+![](https://public.bnbstatic.com/image/pgc/202303/174cc014e40a0b212880131ec047e2a9.jpg)
+
+机构动态
+
+![](https://public.bnbstatic.com/image/pgc/202303/62de32e33bbc47b705a1263e79212245.jpg)
+
+四、不良资产动态跟踪
+
+FTX 数字不良资产债权市场最新动态：
+
+目前 FTX 还处在破产保护的 120 天内，截止日期是 3/11 日，所以 FTX US 和 FTX International 方面并没有公开披露出任何进展。目前场外市场的债权价格还保持在 15-20% 这个区间, 仍然呈现着缓慢上涨的趋势。
+
+但因为 FTX 当前的 CEO John Ray 给出的最近一份报告看起来并不乐观，里面包含像帐本数据丢失等严重漏洞，这会让股权投资人很难接手，所以以当前市场给出的信号，债权人能收回的资金可能要降低到 30%-40% 的区间甚至更少。
+
+目前市场上最为热议的话题之一就是 FTX 债权散户最多能拿回几成资产, 综合多方数据和访谈结果的分析来看，如果在破产保护期内有大型的股权投资人，去做 FTX 破产收购重组的话，也就是我们说的 Bail out（替债权人解套）之后，散户或者小型债权人就能快速拿回折价资产。这个比值预估在 50% - 70% 。当然这需要被债权人委员会 UCC、破产管理人 Kroll Administration、Delaware 受理法院和执行法官批准并通过。
+
+![](https://public.bnbstatic.com/image/pgc/202303/d8b8e343a79b059cad4b90dc7a302c15.jpg)
+
+2.FTX Japan 开始用户提款
+
+FTX Japan 自 2 月 21 日恢复用户提款以来，该平台用户以及 Liquid Global 用户已提款价值约 66 亿日元（约合 5000 万美元）的加密货币和法定货币，据统计已有 7,026 名账户持有人将资金从 FTX Japan 转移至 Liquid Global，其中涉及加密货币交易为 5,697 笔、法定货币为 1,947 笔。
+
+FTX Japan 停止运营时持有约 196 亿日元现金（超 1.38 亿美元），这表明截至 2 月 22 日，FTX Japan 剩余提款额度约为 9000 万美元。（BlockBeats）
+
+3.新闻动态：
+
+（1）美国监管机构反对币安美国 10 亿美元收购 Voyager 资产的计划
+
+根据上周三的信息和美国证券交易委员会（SEC）的文件显示，针对币安（Binance US）以 10 亿美元收购 Voyager 的交易，纽约州和美国联邦金融监管机构已提出反对意见。去年 12 月，币安同意以 10.22 亿美元的价格，收购美国已经申请破产保护的加密借贷平台 Voyager 的资产。
+
+上个月，SEC 对该交易提出了质疑，称币安所披露的信息不够充分，主要是关币安“如何完成如此规模交易”的能力的详细信息，以及币安美国公司将如何保护并合法的转移客户资产，如何重新平衡其加密货币投资组合等信息。
+
+上周的听证会上，\*\*\*\*Voyager 破产法官未能就重组协议做出最终裁决，\*\*\*\* 因为 SEC 声称这笔交易中的部分条款可能违反了美国法律。因为币安美国目前面临着很多业务风险，这可能会损害其收购 Voyager 资产的计划。对此，币安和 Voyager 尚未发表评论。最终结果还要由法庭举行的听证会来决定。Voyager 预计，此次收购将使客户能够收回 Voyager 申请破产时 51% 左右的存款价值。
+
+![](https://public.bnbstatic.com/image/pgc/202303/ba6d011e87f9a51a6f9ffb8601687934.jpg)
+
+目前场外市场的债权交易价格稳定在保持在 30% 的水平。
+
+(2) Silvergate Bank 延迟递交年度财报 10-K
+
+注册于美国加州的加密友好银行 Silvergate Bank 的控股公司 Silvergate Capital Corporation 宣布将推迟提交 2022 的年度 10-K 财务报告，并且还需要至少两周以上的时间才能完成报告的提交，这一举动也导致其股价在上周三盘后交易中再次暴跌超过 30%，降至 9.10 美元。
+
+![](https://public.bnbstatic.com/image/pgc/202303/17afe082458523c64140222794b9ff87.jpg)
+
+周四盘后交易再度断崖式下跌 57%，股价目前已经跌到了 5.68 美元
+
+![](https://public.bnbstatic.com/image/pgc/202303/47ad138849d2558628f7b8eb4e5f0e4b.jpg)
+
+Silvergate Capital Corporation 在提交给美国 SEC 的文件中表示，公司可能已经发生了严重的 “Less than Well-Capitalized 资本不足”。该公司目前正在接受 sec 调查并回答与公司有关的监管问题。Silvergate 的会计师事务所和独立审计师也要求给 sec 提供更多相关信息。Silvergate 之后很可能会面临与美国司法部 DOJ 和银行监管机构的调查。Silvergate 表示这些事件的发酵可能会严重影响公司“持续经营”的能力。所以公司目前正在利用这段时间重新评估其现有业务的可行性并制定策略的转移，以应对当前面临的种种挑战。
+
+![](https://public.bnbstatic.com/image/pgc/202303/0581f22dd22d6d71e9d4f2ccf0236743.jpg)![](https://public.bnbstatic.com/image/pgc/202303/cee8e178d9ac30f2257d87d8af56beb2.jpg)
+
+财务状况：
+
+Silvergate 目前的状况很大程度是由于其业务线与 FTX， Block-Fi 等交易所的关系紧密所造成的，FTX 的崩盘之后引发的连锁效应摧毁了 Silvergate Bank 的两个最大的客户：Silvergate 总资产有超过 10 亿美元被套在 FTX 里，占比超过 10%；另外加密借贷平台 BlockFi 也是 Silvergate 的客户。根据 chapter11 的破产申请，FTX 及其相关实体子公司在 Silvergate 持有大约 20 个不同的账户。
+
+![](https://public.bnbstatic.com/image/pgc/202303/37119b4688bfc184fb313092c6870576.jpg)
+
+集体做空：
+
+Cathie Wood 木头姐 旗下的 基金 ARK Fintech Innovation ETF 抛售了全部 Silvergate 的股份，做空的一些机构还包括 Billionaire George Soros 的家族办公室。据 MarketWatch 引用纽交所数据称，Silvergate 目前仍然是 wallstreet 上最受做空势力欢迎的股票之一，目前排在第二位，也是处于一个被集体做空的局面。截至 2 月 15 日，约有 71％的流通股被做空。Moody's 信用评级公司也是再度降级了 silvergate 的信用评级。
+
+Coinbase、Circle、Paxos 和 Gemini 等多家公司在上周四公开表示它们在业务上切断了 SI 银行的关系。做市商和场外交易公司 GSR、Wintermute 和 Blockchain.com 也宣布他们放弃使用 Silvergate Exchange Network（SEN 网络）。SEN 网络允许 Silvergate 的客户全天 24 小时进行法币兑换，该网络去年处理了超过 5600 亿美元的交易量，是该 SI 银行增长的关键驱动因素。
+
+总而言之，多方的影响再加上第四季度的存款流失损害了 silvergate 银行的声誉，该股自年初以来一直在下跌，从最高点的 222.13 美元已经缩水超过 90%，目前市值仅仅 1.82 亿美金。
+
+五、加密生态跟踪
+
+各板块数据整理
+
+NFT
+
+蓝筹指数：震荡上行，逐步回到前期高点，币市的回调暂时未在 NFT 蓝筹市场上反应
+
+![](https://public.bnbstatic.com/image/pgc/202303/2a15225df3167a9ae8046c5043a3f8b7.jpg)
+
+市值&成交量：市值同比增加 2%，交易量同比下降 51.6%，主要差异点来自之前闪电贷带来的交易量异常暴涨
+
+![](https://public.bnbstatic.com/image/pgc/202303/f7f2e5f8656e7dbf4f17ac8c5f2bd7f6.jpg)
+
+持有者&交易者：持有者同比增加 3.5%、交易者同比减少 17.6%，blur 引发的交易积极性有所退却
+
+![](https://public.bnbstatic.com/image/pgc/202303/cd3a95aa48f70f20741b90d1172c1bba.jpg)
+
+NFT Top collection
+
+BAYC、Cryptopunks、猴子地位列前三
+
+![](https://public.bnbstatic.com/image/pgc/202303/e705886a7aaa7eac0c111db4ee28313b.jpg)
+
+Metaverse
+
+元宇宙数据盘点
+
+市值小幅上涨，交易量下降超 12%，猴子地、decentraland、sandbox 仍位列前三
+
+![](https://public.bnbstatic.com/image/pgc/202303/a0fc8ac46a5b572066a38218d5c14649.jpg)
+
+元宇宙热度在前两周步入高潮后逐步回冷
+
+![](https://public.bnbstatic.com/image/pgc/202303/10a4acf41c26c6f3e31ca6ec77ca8749.jpg)
+
+Gamefi 链游
+
+整体回顾
+
+总体来看，Gamefi 行业本周主要受大盘影响显著，总体大幅下跌。从 Token 价格来看，前 10 市值链游中 90% 下跌，且大部分跌幅在 10% 以上。本周只有 illuvium 小幅逆势上涨，过去一周上涨 4.26%（即将发布新玩法，在本周前期涨幅较高）。
+
+![](https://public.bnbstatic.com/image/pgc/202303/350bdedc361c9d46f0e27cc833099ee4.jpg)
+
+https://degame.com/zh/ranking/game/ALL\_GAME
+
+按链上合约交互量来看，前十活跃链游中，过去一周交互活跃度 60% 下滑的。其中，Arc8 by GAMEE 玩家数量大增，上涨 521%（一个链游平台，本周因为和头部链游 BenjiBananas 达成合作，交互量大幅上涨）。
+
+![](https://public.bnbstatic.com/image/pgc/202303/8e03e17dfa9025d794fd52f6536b61f9.jpg)
+
+数据来源:https://dappradar.com/rankings/category/games
+
+DeFi &公链赛道数据
+
+截至本周，DeFi TVL 为 48.45B，按 TVL 排名前五的协议分别为：Lido、MakerDao、Curve、AAVE、Convex Finance。Lido 和 Curve 本周分别上涨 3.75% 和 0.35%。
+
+![](https://public.bnbstatic.com/image/pgc/202303/c83efe01841407fdbe76c6f94190d8e0.jpg)
+
+https://defillama.com/
+
+从公链的角度来看，本周 TVL 前三的链分别为：ETH、Tron 和 BSC。Arbitrum 和 Optimism 本周分别增长 -0.29% 和 5.71%，分别排名第四和第六。
+
+![](https://public.bnbstatic.com/image/pgc/202303/dcd8fb8d79183c12084e48a235dc06eb.jpg)
+
+https://defillama.com/chains
+
+本周重点事件&项目
+
+Para Space（NFTFI 赛道异军突起的排名第二）
+
+简介：NFT 借贷协议，用户可以把蓝筹 NFT 质押在平台内，并借贷出来一笔钱，类似 benddao
+
+团队情况：
+
+Para Space 由 Para Labs 孵化，曾经做过波卡生态的 ParallelFi，TVL 至今仍有 287m，有成功项目经验。
+
+![](https://public.bnbstatic.com/image/pgc/202303/f7e0c9ce76d45fd76c048a979e51d593.jpg)
+
+红杉、coinbase、polychain capital 等投资
+
+平台数据
+
+几周时间，排名第二
+
+![](https://public.bnbstatic.com/image/pgc/202303/723c6f7dec1fffb1a4df57733061aa3e.jpg)
+
+红杉、coinbase、polychain capital 等投资
+
+平台数据
+
+几周时间，排名第二
+
+![](https://public.bnbstatic.com/image/pgc/202303/b0b97982a2ce69d2ec3bc93b2ace31d0.jpg)
+
+https://twitter.com/CH\_909/status/1631001669579456512
+
+主要功能
+
+NFT 抵押借贷
+
+$Ape staking
+
+配合 yugalabs 推出了 $ape 的挖矿功能，在不持有 bayc 的时候存入 ape，可获得 140% 的 apr，如果持有 bayc，存入 ape 可获得 237% 的 apr
+
+Buy NFT with Credit
+
+存入蓝筹 NFT，作为抵押品，在 Para 上购买 NFT 可分期付款
+
+Uni v3 的 LP token 的质押
+
+用户在 Uniswap V3 上提供流动性会收到 Lp token，实际上也属于 NFT
+
+清算机制不同，可通过添加 uni 的 lp 来避免清算（benddao 是单个 nft 清算方式，para space 采用系列 nft 打包形式）
+
+roadmap 内的进阶功能：做空机制
+
+主要原理：碎片化 NFT，允许交易员高卖低买，实现做空。
+
+![](https://public.bnbstatic.com/image/pgc/202303/9d40460192d47f3b8b70d1bdd40f33d9.jpg)
+
+总结：
+
+现阶段 NFTFI 赛道天花板低，熊市去杠杆严重，市场教育不成熟（龙头 bendao 用户 10k 不到）
+
+nft 借贷赛道的既有项目有较强先发优势，目前大蓝筹被 bendao 占据，要转移到 paraspace 需要偿还原有债务
+
+NFT 赛道的流动性解决方案逐渐成熟，Blur 逐渐解决了借贷赛道的坏账问题，可以预见未来的 NFT 赛道的繁荣
+
+Xterio
+
+Xterio 是一个高质量游戏开发、发行商，目前准备做一个游戏平台，致力于探索 P2E 模式以及 Web3 游戏，目前 Xterio 在旧金山、洛杉矶、东京、新加坡等地均设有办公室。
+
+\*\* 团队：\*\*Xterio 的成员由全球游戏资深人士组成，团队成员均来自于网易、FunPlus、EA、动视暴雪、Krafton、Zynga、Jam City 等公司，阵容豪华。创始人 Jeremy Horn 曾任 Jam City 的战略副总裁，在开发与运营免费社交游戏上拥有着丰富的经验。FunPlus 的首席战略官董瑞豹以及 FunPlus 的首席技术官管一涛也将加入到 Xterio 团队中。
+
+\*\* 融资：\*\* 超过 6000w 美金，由 FunPlus、FTX Ventures、Makers Fund、XPLA 领投，同时 Hashkey、Foresight Ventures、Headline、Matrix Partners 以及 Animoca Brands 也参与了融资，上一轮估值 3 亿美金。
+
+\*\* 产品：\*\* 根据官网显示，目前 Xterio 似乎已经有三个项目即将对外公布，分别是《Project Jupiter》《Project Mercury》《Prrject Venus》（分别对应为：木星计划、水星计划、金星计划），其中《Project Jupiter》是一款由东京团队打造的 3A RPG 游戏。
+
+平台主要提供的服务：
+
+![](https://public.bnbstatic.com/image/pgc/202303/8dbda245a6a8f971dccd31f2f3e955d0.jpg)
+
+目前开放了一个名为泰坦的组队大作战的活动、参与可以瓜分 3 万美金的奖励。
+
+活动名称：泰坦传奇比赛时间：3 月 1 日—3 月 14 日
+
+比赛内容：
+
+1、团队比赛（根据团队战斗力排名奖励发放）
+
+2、个人参与者比赛（根据自己的战斗力发放奖励）
+
+Ps：其中团队每人获胜可以获得 499usdt 的奖励、个人参与者最多可以获得 100usdt 的奖励。
+
+目前游戏参与的 kol 和社区较多，热度较强。
+
+经济模型：分为平台的治理代币和游戏内的代币；会分配给 Marketing 和社区 15%
+
+![](https://public.bnbstatic.com/image/pgc/202303/33092598c8b27826e8d683d80d86f3fa.jpg)
+
+六. 团队新闻
+
+蒲公英 S2 发行：第一轮发售 400 个，市场认可度较高，均在数分钟内售罄，目前地板价较发行价已上涨超 150%
+
+![](https://public.bnbstatic.com/image/pgc/202303/6bebdaa4bcebe457189691e2a2d969a7.jpg)
+
+JZL Garden 半月谈：3 月 4 日，JZL Garden 邀请了知名辩手⻢薇薇、BitGet MD Gracy Chen、Nail Co-founder Laura、LTP 的 Head of Marketing Monica 一起探讨当代女性职场话题。
+
+关于我们
+
+JZL Capital 是一家注册于海外，专注区块链生态研究与投资的专业机构。创始人从业经验丰富，曾经担任过多家海外上市公司 CEO 和执行董事，并主导参与过 eToro 的全球投资。 团队成员分别来自芝加哥大学、哥伦比亚大学、华盛顿大学、卡耐基梅隆大学、伊利诺伊大学香槟分校和南洋理工大学等顶尖院校，并曾服务于摩根士丹利、巴克莱银行、安永、毕马威、海航集团、美国银行等国际知名企业。
+
+【免责声明】市场有风险，投资需谨慎。本文不构成投资建议，用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。
+
