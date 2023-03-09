@@ -1,0 +1,83 @@
+  
+  
+
+
+**导语**
+
+XCM 是波卡的跨共识消息格式（Cross-Consensus Messaging Fromat）的简称，XCM 不仅支持平行链之间的通信，还支持智能合约、DApp 和 Substrate pallet（模块）之间的通信。为了成为一种在共识系统之间交流思想的语言，**XCM 具有高效性、可扩展性等多种特点**，对远程转移和资产传送起到重要作用。
+
+![](https://img.foresightnews.pro/202303/ce6d7e36d781d55f28cb55de8af6efcf.png?x-oss-process=style/scale70)XCM 自上线以来，已发展成为波卡生态内跨链技术的“明灯”。经过几次版本迭代与协议更新，作为通信语言，**XCM 允许平行链之间以更为便捷的方式交换消息**。2023 年 1 月，Gavin Wood 宣布经过 15 个月开发，波卡 XCM V3 被合并，这次升级也真正助推平行链通过去中心化的方式，进行价值与数据的畅通**“交流”**。
+
+在 2023 年 3 月 4 日下午 14:00 YouTube 直播间举行的 **Substrate Saturday 第 15 期**活动，OneBlock 邀请了 XCM 核心开发者 Parity 工程师 Keith Yeung、Acala Co-founder & CTO Bryan、Moonbeam 开发者关系工程师 Xinxin 与**近 2000 位**网友一同**探索 XCM 的基本概念、聚焦多种 XCM 工具用例、对 XCM V3 协议迭代畅所欲言，展望波卡生态的多链未来**。
+
+![](https://img.foresightnews.pro/202303/3405239ac5bc1a85eb8cab8e104ca261.png?x-oss-process=style/scale70)  
+  
+
+
+**跨链信息入门：XCM 的基本概念**
+
+什么是共识系统（XCM）？一个智能合约、一个区块链都可被称为“共识系统”，但是 XCM 并不等于 XCMP，这两者的关系可类比网络和互联网的关系。Keith Yeung 工程师讲到这两个概念时，指出了入门者可能会对这两组概念存在的认知差异，并作出提醒。在 XCM 表达位置时，通常是以多位置（MultiLocation）来表达相对位置，表示文件系统的相对路径，由接点（Junction）对接各级“目录”。
+
+相比表达位置而言，XCM 更重要的功能是表达资产。多资产（MultiAsset）由实在 ID 和抽象 ID 表达形成，也有可替代和不可替代的区分。值得一提的是，跨链 XCM 的资产传送有两种高效的传输类型：瞬间传送和储备传送。
+
+* **瞬间传送：**在来源地销毁加密资产，并在目的地重铸加密资产。
+* **储备传送：**来源地和目的地都不持有交易加密资产，资产被放置在储备链上。
+**![](https://img.foresightnews.pro/202303/dd8de359215d63afbe83703e6f43934b.png?x-oss-process=style/scale70)**
+
+本次波卡最新版跨链协议 **XCM V3** 上线后，MultiLocation 能够表达波卡链以外的位置，同时用于跨链桥的 ExportMessage 也开辟了新指令功能，**上述两种传送开始支持 NFT 传输并满足远端封锁资产**。  
+
+
+**波卡最新版跨链协议 XCM V3**
+
+全新的跨链功能，值得期待的传送技术……上文提到的波卡最新版跨链协议 XCM V3 的更新内容远不止这些。**“XCM V3 的最新特性在于安全性、桥、编程性三个方面”** ，Bryan 老师概括道。对于开发者而言，XCM V3 的兼容性也是值得关注的。V3 版本移除 V0/V1 消息，只支持 V2/V3，钱包和 DApp 必须检测到 XCM 版本才能构造正确的资产交易环境；平行链也必须至少支持 V2 版本，确保 XCM 的消息格式为 V2/V3。同时，V3 链可以在 V2 消息升级成功后正确执行 V2 消息，并通过版本发现模块可以检测到目标链版本，将 V3 消息降级成 V2 发送。此外，对于开始尝试 XCM V3 协议的开发者，想要存储 XCM 数据时理应考虑是否需要做数据迁移升级到 V3 版本，并对 V2 消息有合理的质量保障。在这方面，Bryan 老师给直播间的观众们推荐了多个 XCM 标准和学习资源网站，手把手向我们展现了 XCM V3 协议的兼容性测试过程，**一键分岔主网、启动中继链 / 平行链、支持 VMP/HRMP、伪造签名、任意链上数据修改、区块回滚**……利用测试工具 Chopsticks 操作多链测试更能保证实验效果。  
+![](https://img.foresightnews.pro/202303/1ce1430ff3df321b802abb06d4824243.png?x-oss-process=style/scale70)
+
+目前 XCM V2 还有 Weight 方面的隐患，因此 Bryan 老师建议大家尽早升级到 XCM V3，完善版本发现协议、优化开发者体验。未来 XCM 还将负责所有系统平行链和中继链的交互，**进一步转移国库以控制其他平行链资产和实现远程治理**，希望大家能够对 XCM 保持期待。
+
+  
+
+
+**Moonbeam 常用的 XCM 工具**
+
+**加密资产传输**
+
+XCM 上加密资产的传输主要通过单方向连接链 A 和链 B（平行链或中继链）实现，以源链上由目标链持有的主权账户进行资产远程传输达成交易过程。这一过程中，资产从 Polkadot（Alice）传输到 Moonbeam（Alith），**铸造相应数量的 xcDOT 存入 holding register，删除 Origin 信息。**
+
+![](https://img.foresightnews.pro/202303/c1f423bfcbdaac249037cb29b13bd4af.png?x-oss-process=style/scale70)
+
+**监视器与消息解码**
+
+在 Moonriver 和 Moonbeam 上各有 **24** 个和 **16** 个监视器，它们都是由 XCM 发动远程传输实现的。持有加密资产数量必须不少于对应目标链 XCM 资产的数量，**如若主权账户余额变少，监视器也会被触发**，目标链用户将不能“赎回”全部余额，警报功能即刻启动。
+
+![](https://img.foresightnews.pro/202303/e853129e1550f3fa9bd4e59382848a73.png?x-oss-process=style/scale70)
+
+如果说监视器是一项保障用户资产的重要举措，那么消息解码工具则是 XCM 另一项重要功能。Acala 中的 **16 位编码**需要得以解除才能更好地执行 XCM 指令消息，而消息解码工具就是我们的好帮手。打印出哈希和 XCM 指令，调试 AssetNotFound 和 Barriers 对多个 XCM 片段一一破译，**监视器让 XCM 执行变得更加高效有力**。
+
+  
+
+
+**结语**
+
+对 XCM 深入了解和讨论后，直播间的观众也跃跃欲试，纷纷向在场嘉宾们提出了一些问题。尤其是对于波卡生态中，XCM 被视为区块链互操作性的领先概念，**那我们普通用户可以使用 XCM 做什么？能否跨链到其他生态，比如以太坊？XCM V3 上线后对开发者而言的优势有哪些？**对此，Keith Yeung 提到 XCM 的使用对象不是普通用户，而是平行链的开发者，**开发者能够通过函数操作赋予用户更多的使用功能**；XCM 跨到别的公链需要跨链桥才能实现，还不能实现直接、无条件地链接到其他生态。**XCM V3 上线后对开发者更多是功能上的完善和场景应用的多元化，更多的优势也亟待开发者们不断探索！**讨论结束后，在本次直播活动中积极参与互动的观众朋友们也获得了精美的礼品，共同度过了一个干货与福利满满的午后。希望所有对 XCM 和波卡生态感兴趣的伙伴们可以持续关注 XCM 的技术进展，**OneBlock 也会继续推出与 XCM 有关的更多深度解析文章！**为了帮助中国开发者了解并学习 Substrate 基础知识 ，更好地运用 Substrate 技术投身 Substrate 生态建设，OneBlock 从 2021 年 8 月开始组织 Substrate Saturday 线上直播栏目。到今天为止已经成功举办了十五期，每期直播都会邀请行业知名专家和技术大咖与大家共同分享 Substrate 技术相关话题与实践心得，欢迎各位行业人士和技术爱好者持续关注。  
+
+
+**About Us**  
+
+
+**关于我们**
+
+OneBlock+ 是全球最大的 Substrate 技术开发者社区，也是 Parity 在亚洲唯一的运营合作伙伴，波卡生态早期项目的创始人、CTO、核心开发者大部分都来自 OneBlock+ 社区。
+> Twitter: https://twitter.com/OneBlock\_
+> 
+> Medium: https://medium.com/@OneBlockplus
+> 
+> Telegram: https://t.me/oneblock\_dev
+> 
+> Discord: https://discord.gg/z2XZZWEcaa
+> 
+> Bilibili: https://space.bilibili.com/1650224419
+> 
+> YouTube: https://www.youtube.com/channel/UCWo2r3wA6brw3ztr-JmzyXA
+> 
+> 
+

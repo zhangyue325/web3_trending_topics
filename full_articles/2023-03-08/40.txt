@@ -1,0 +1,62 @@
+![](https://img.foresightnews.pro/202303/efd35dad195908e4ca78ff14ba35e513.png?x-oss-process=style/scale70)
+
+ 
+
+ETHDenver 活动期间，Aurora 团队参加了多个圆桌和演讲，向大量的加密爱好者传播了自己的主要主张以及发布多个重要公告。随着 ETHDenver 逐渐接近尾声，Aurora 对本次活动期间的一些精彩内容进行了整理，以方便社区用户观看。
+
+ 
+
+![](https://img.foresightnews.pro/202303/0a6ece2f1eee4715639175c0b2ae1435.jpg?x-oss-process=style/scale70)
+
+ 
+
+3 月 2 日，我们的协议主管 Michael Birch 在 NEAR Day 活动期间宣布了发布 Aurora 合约 SDK，开启了 NEAR 和 Aurora 跨生态沟通的新纪元。Aurora 合约 SDK 包含一个方便 NEAR 合约和 Aurora 互动的 Rust 库，一个方便和 NEAR 互动的 Solidity 库以及大量的实例，可以促进那些希望实现跨合约调用的开发者的工作。
+
+ 
+
+![](https://img.foresightnews.pro/202303/1fbcca385192ad48025f363fa8f3d69c.jpg?x-oss-process=style/scale70)
+
+ 
+
+3 月 2 日，Aurora Labs CEO Alex Shevchenko 发布第二个重要声明，即发布 Aurora Cloud，这既是一个平台又是一套产品的集合，可以让现有的 Web2 企业捕获 Web3 的价值。
+
+ 
+
+Aurora Cloud 的三个主要支柱性产品分别为 Borealis Business, Aurora Pass, Aurora Silos。Borealis Business 是一种交易处理和核算引擎，可以让 Web2 企业将区块链能力添加至自己的应用，并且完全从终端用户体验移除成本和其他技术复杂性。Aurora Pass 是一种数字钱包，可加速区块链技术在移动端应用的采用，允许用户使用自己熟悉的生物识别设备，如指纹识别和面部识别等授权交易。
+
+ 
+
+Aurora Silos 是一种消费者特定的专用区块链，基于 Borealis Business 架构运行，可提供无与伦比的功能集合。Aurora Silos 不仅支持以太坊兼容性，还允许消费者设计和实现自己的定制化通证、通证经济学以及交易费机制，支持任何可以想象的区块链商业模型。
+
+ 
+
+[Aurora Cloud](https://auroracloud.dev/)目前处于 beta 版本，已可用于早期集成。
+
+ 
+
+ 
+
+3 月 2 日，Aurora CEO Alex 的最后一个演讲聚焦描述让彩虹桥成为市面上最安全的跨链桥之一的安全层。自部署以来，彩虹桥已成功抵御数次黑客攻击，这一切都要归功于它的安全架构、详细的内部审计和检查、审计、自动化系统以及卓有成效的赏金项目。
+
+ 
+
+![](https://img.foresightnews.pro/202303/c5c3cc1ffad09df5ae04548b7fc0e0e9.jpg?x-oss-process=style/scale70)
+
+ 
+
+3 月 4 日，Alex Shevchenko 分享了 Aurora 对于降低区块链门槛，更加方便 B 端和 C 端用户使用的愿景。他描述了两种关键组件：协议级别的元交易以及账户抽象。Aurora 已通过部署 Aurora Pass 以及 Borealis 实现了上述两种组件。
+
+ 
+
+![](https://img.foresightnews.pro/202303/4a5cdd7495405ba3f89dc427445011e0.jpg?x-oss-process=style/scale70)
+
+ 
+
+同样是在 3 月 4 日，Alex Shevchenko 参加了一个圆桌，和 Polygon Zero 联合主管 Brendan Farmer、Offchain（Arbitrum 上一个兼容 EVM 的 rollup）首席技术官 Harry Kalodner 等分享了他们对扩容的看法，简单描述了不同的扩容方法和各自对未来的愿景。
+
+即便处于熊市阶段，本次大会仍然有大量报名者参加，可见大家对于行业的未来仍然信心不减。随着各项公告的陆续发布，Aurora 和 NEAR 在本次大会收获了大量关注，未来我们期待向大家分享更多精彩内容。
+
+本文仅是对 Aurora 本次 ETHDenver 之行的简单整理，感兴趣的用户可前往[ETHDenver 官方油管账户](http://youtube.com/ethdenver)，查看 Aurora 圆桌和演讲的全部回放。
+
+ 
+

@@ -1,0 +1,30 @@
+![](https://img.foresightnews.pro/202303/46e5f756b72904a66b8b381de3861697?x-oss-process=style/scale70)💡 *Web3 正在加速发展，Arweave 作为基础设施将被更多的开发者采用，创造一个全新的、更加丰富多彩的生态系统。 PermaDAO 正是为此而建立起来的共建者社区。所以参与的人都能在这里找到自己的角色来贡献 Arweave 生态，任何关于 Arweave 的提案与任务都可以发布于此，并得到整个社区的支持与回馈。* [*加入 PermaDAO*](https://www.notion.so/PermaDAO-052d694af9f841f1a07916df7f9d19b7)*，建设 Web3！*
+
+上周 DAO 内进行了多次关于生态以及具体项目的深入讨论交流，DAO 的价值正随着共识浓度的加深而不断提高。如果你也对 Arweave / web3 / DAO / 陌生人协作感兴趣的话，不要犹豫，立刻加入我们吧！
+
+### 工作量一览
+
+上周，PermaDAO：
+
+[翻译组](https://www.notion.so/Translation-2d0b313af6fe425b81535a33cecb98a0)完成了 9 篇文章的翻译任务
+
+[活动组](https://permadao.com/Operational-Activities-700bff8d61044229b486d76f5be05aec)发起了 4 项活动
+
+[投稿中心](https://permadao.com/Submission-64f2fa9175924d7eb95593ca68e8fdf6)通过了 13 篇生态内容文章投稿
+
+[开发组](https://permadao.com/Development-151ef30f13794430aebf15343d314a1e)有 10 项正在进行中的任务
+
+[宣发组](https://permadao.com/Promotion-7a29d29fdc7542bba3d5f695f48db87f)进行了 26 篇文章的宣发
+
+PermaDAO 为努力贡献的自愿者们发放了 **2429.796**U 等值的 $AR 代币，希望自愿者们再接再厉！
+
+### 重要事件
+
+1. PermaDAO 第一次线下 Meetup 已正式确认于 2023 年 4 月 13 日晚在香港举行！目前场地还在确认中，预计将容纳至少 300 人到场。联合主办位已满，合作伙伴位尚有余席，欢迎对本次活动感兴趣的项目方加入一同合作。
+2. PermaDAO 社区参与的 Classical 测试网已发布！目前可在 goerli 测试 mint，从该链接进入：<https://classical.cool/?countdown=2023.03.04> 20:11:00。预计 3 月 8 号晚 8 点在正式网络<https://classical.cool/> 正式开放 mint。欢迎对传统典籍 NFT 感兴趣的朋友关注体验！
+3. PermaDAO 内容公会正式启动！新增多元策划提案通道，任何 Arweave 相关的多媒体内容（播客、视频、漫画……）都有可能展示在内容公会里！欢迎有想法的小伙伴在 DAO 内发起提案，让你的创意通过 PermaDAO 的平台被更多人看见！
+4. 由 PermaDAO 孵化的 ArNostr 已上传存储超过 200,000 条数据！感谢大家的支持，欢迎各方使用 ArNostr 并给予我们真实的反馈。ArNostr 使用教程请参考上期周报内容或 everVision 公众号相关[推文](https://mp.weixin.qq.com/s/y-u5vlgfFjMF1HdZR_4PhA)。
+5. PermaDAO 研发公会正式启动开发者激励计划！欢迎有实力的开发者和正在成长中的项目方进入 PermaDAO 共建，通过审核的开发者 / 项目方将获得来自 PermaDAO 全方位的资源支持。同时，研发公会发布了一项开发者召集任务，为 PermaSwap 数据看板招募开发者，详情请看此[链接](https://www.notion.so/Permaswap-Chart-V1-c69bb27cdc8746539a6f0e10c5d92c72)。
+🔗 **关于 PermaDAO 更多信息：**[**Website**](https://www.notion.so/PermaDAO-OLD-4c0bd73f5a1c4410ad72a32e1718ebb6) **|** [**Twitter**](https://twitter.com/perma_daoCN) **|** [**Telegram**](https://t.me/+UEnIssIHTn0wZDc1) **|** [**Discord**](https://discord.gg/y6CmaAdVD8) **|** [**Medium**](https://medium.com/@permadao) **|**[**Youtube**](https://www.youtube.com/@permadao)
+
+![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=83389c5a878a)

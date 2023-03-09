@@ -1,0 +1,131 @@
+![](https://img.foresightnews.pro/202303/35b2462720f26819466f0efcd56639b0.png?x-oss-process=style/scale70)
+
+  
+
+
+* SEC 周一对加密公司 BKCoin 及其联合创始人采取了紧急行动，指控其涉嫌欺诈计划
+* 该公司被指控运作了一个价值 1 亿美元的庞氏骗局，用于支付其联合创始人的房租和度假费用
+* 这次资产冻结标志着美国监管机构在 FTX 事件后对加密行业的严密打击态度
+  
+
+
+本周一，SEC 宣布已对总部位于迈阿密的投资顾问 BKCoin Management LLC 及其负责人之一 Kevin Kang **提起紧急诉讼，并采取了资产冻结、任命接管人和其他紧急救济**。
+
+  
+
+
+  
+
+
+SEC 指控 BKcoin Management，LLC 和其董事 Kang 自 2018 年 10 月至 2022 年 9 月期间，通过其管理的五个私募基金（BKcoin 资本、BK 离岸基金、BKcoin 多策略主基金及其两个被动基金）以及为某些客户管理的分别管理账户（SMA），从至少 55 名投资者那里筹集了近 1 亿美元的资金。被告方声称这些基金主要用于加密资产交易，并通过特定的投资策略为基金和 SMA 投资者创造回报，但实际上他们忽视了基金的结构，**混淆了投资者的资产**，并使用超过 360 万美元的资金进行类似 Ponzi 的支付。
+
+  
+
+
+  
+
+
+另外，本案的非争议方 Bison Digital LLC 与 BKcoin 和 BKcoin 的另一名管理人员之间没有其他投资者的关系，却在无明显或合法原因的情况下收到了来自 BKcoin 和 BKcoin 基金的 1200 万美元资金。**同时，Kang 将至少 37.1 万美元的投资者资金用于个人用途，用于度假、购买体育比赛门票、在个人账户中交易加密资产以及购买纽约市的公寓**。最后，被告方虚假陈述称，BKcoin 或 Muti-strategy 基金之一获得了美国四大审计公司之一的意见书，这些声明是虚假或具有误导性的。
+
+  
+
+
+  
+
+
+为掩盖被告方未经授权使用资金的行为，Kang 发送了篡改后的银行账户余额文件给多策略基金的第三方基金管理人，该管理员将这些虚假信息纳入发送给投资者的业绩报告中。最终，这些欺诈行为被揭露，BKcoin 停止了对 Kang 的雇佣，并通知投资者暂停从 BKcoin 基金中赎回请求和资本提取。被告方的行为**违反了多项联邦证券法规**，包括 1933 年证券法第 17(a) 条、1934 年证券交易法第 10(b) 条、交易法规则 10b-5 以及 1940 年投资顾问法第 206(1) 和 206(2) 条。
+
+  
+
+
+  
+
+
+SEC 寻求禁止 Kang 参与证券发行或销售，包括加密资产证券，但可进行个人账户交易，以及实施高管禁令。此外，SEC 寻求对非争议方下令返还利润和先期计息。为了保护投资者并防止进一步资产流失，**SEC 还寻求对被告方和非争议方实施资产冻结和其他紧急救济措施**。
+
+  
+
+
+  
+
+
+SEC 迈阿密办公室主任 Eric Bustillo 对此表示。“此举凸显了我们持续**保护投资者、铲除所有证券领域欺诈**的承诺，包括加密资产领域，”的确，在 FTX 的倒闭震惊整个行业后，未来很长一段时间，**加密行业仍将受到监管机构的严密审查**。
+
+  
+
+
+  
+
+
+![](https://img.foresightnews.pro/202303/dadf52eaed1c37c14d723aced296b74b.png?x-oss-process=style/scale70)
+
+责编：Joseph
+
+排版：Sara
+
+  
+
+
+**作者简介：**
+
+Joseph，LegalDAO core buidler
+
+Twitter：@consensusislaw\_
+
+WeChat：lawwyf
+
+  
+
+
+
+
+---
+
+  
+
+
+欢迎加入 LegalDAO👏  
+
+
+你可以在这些地方查看我们更多的信息：
+
+  
+
+
+**官网地址：**https://www.legal-dao.org/
+
+**官方 Twitter：**@Legal\_DAO @LegalDAO\_CN  
+
+
+**TG Groupchat：**https://t.me/+rKIv-xAGpOExNTdh
+
+**Mirror：**https://mirror.xyz/0x4546D37A3274D87f543bAE095A75BaE40820BD89  
+
+
+**Discord：**https://discord.gg/gDujAsuy
+
+**Medium：**https://medium.com/
+
+**Linkedin：** https://www.linkedin.com/company/legaldao/
+
+**ForesightNews：**https://foresightnews.pro/column/detail/467
+
+**Github：**https://github.com/Legal-DAO
+
+  
+
+
+
+
+---
+
+  
+
+
+![](https://img.foresightnews.pro/202303/1085513bc037c86d261d5d2ff9f10f18.png?x-oss-process=style/scale70)
+
+  
+
+
+![](https://img.foresightnews.pro/202303/b983f7672c1c3c226a42958dc563e3b4.png?x-oss-process=style/scale70)
+

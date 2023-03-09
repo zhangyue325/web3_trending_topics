@@ -1,0 +1,75 @@
+zkEVM 被认为是以太坊可扩展性的圣杯。Polygon 是在该领域处于领先地位的探索者之一，其 zkEVM 即将推出。在此之前，你需要了解有关 Polygon zkEVM 技术的一些信息。
+
+![](https://img.foresightnews.pro/202303/5-1678177499545.jpeg?x-oss-process=style/scale70)
+
+Polygon zkEVM 是一种去中心化的可扩展性解决方案，它采用零知识证明（ZKP）提供有效性证明来验证交易并在以太坊上实现最终性，同时它是一种 EVM 兼容的扩展性方案。
+
+在这篇推文中，我们将重点观察 Polygon zkEVM 的这些组件：
+
+* 共识合约
+* zk Node：同步器、排序器、聚合器、RPC
+* zk Prover
+* zk Bridge
+共识合约
+----
+
+此前，Polygon Hermez 1.0 使用 Proof of Donation（PoD）作为共识机制，这是一种协调员创建交易包的去中心化拍卖机制。
+
+![](https://img.foresightnews.pro/202303/5-1678177512555.jpeg?x-oss-process=style/scale70)
+
+如今最新版本合约 PolygonZkEVM.sol 采用 Proof of Efficiency (PoE) ，它借鉴了 PoD 的经验，支持多个协调者以无许可的方式在 L2 上创建交易包。
+
+合约确保去中心化、效率、免受攻击以及验证工作和网络价值之间的平衡。
+
+链上数据可用性采用了混合模式，其中数据存储在链外，仅在链上发布有效性证明。
+
+PolygonZkEVM.sol（部署在 L1 上）用于确保正确的状态转换。智能合约使用 zk-SNARK 电路来验证有效性证明。
+
+要执行上述操作，需要排序器和聚合器的参与。
+
+zk Node
+-------
+
+排序器提议交易包，聚合器验证它们。智能合约调用排序器来接收交易包，并调用聚合器来验证它们。
+
+![](https://img.foresightnews.pro/202303/5-1678177526223.jpeg?x-oss-process=style/scale70)
+
+zk Node 是运行 zkEVM 节点所需的软件，它管理 Polygon zkEVM 网络中参与者的角色。 为了跟踪网络状态，参与者可以是节点，也可以作为排序器或聚合器参与交易包生产。
+
+排序器预处理 L2 交易，向 PoE 智能合约提交交易包，并支付费用。聚合器接收交易信息，将其发送给证明者，接收零知识证明，并将结果发送给智能合约进行验证。
+
+![](https://img.foresightnews.pro/202303/5-1678177534900.jpeg?x-oss-process=style/scale70)
+
+同步器同步交易包及其有效性证明，RPC 则实现与现有工具的集成。
+
+状态实现默克尔树并检查区块级别的完整性和一些与交易相关的信息。
+
+zk Prover
+---------
+
+zk Prover 是 Polygon zkEVM 架构的重要组成部分。它负责生成零知识证明，以验证 zkEVM 执行计算的正确性。
+
+为了生成零知识证明，zk Prover 从聚合器接收输入，聚合器从排序器收集交易信息。然后证明被发送回聚合器，聚合器再将其发送到智能合约进行验证。
+
+鉴于其高效率和可扩展性，zk Prover 可以以最小的延迟处理大量交易。
+
+zk Bridge
+---------
+
+zk Bridge 允许用户在 LX 和 LY 两层之间安全和去中心化地转移资产。
+
+它由两个相同的合约组成，一个部署在以太坊主网上，另一个部署在特定的 Rollup 网络上。
+
+在 L1 合约中，资产可以在 Rollup 之间转移；而在 L2 合约中，资产可以在主网和 Rollup 之间转移。
+
+通过智能合约，zk Bridge 还支持不同 L2 网络之间的本地互操作性。
+
+小结
+--
+
+总之，Polygon 的 zkEVM 是一种很有前途的解决方案，可以改善以太坊网络的可扩展性问题。
+
+通过利用 zk-SNARK 电路实现有效性和混合模式实现数据可用性，它提供去中心化、效率和攻击保护，同时保持 EVM 兼容性。共识合约、zk Node、zk Prover 和 zk Bridge 协同工作，以实现安全和去中心化的交易处理。
+
+随着上线临近，Polygon zkEVM 有望为以太坊的增长和采用做出重大贡献。
+

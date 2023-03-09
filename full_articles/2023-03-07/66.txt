@@ -1,0 +1,28 @@
+2023 年 3 月 3 号，NFTScan 团队正式对外发布了 gnosis.nftscan.com 浏览器，为 Gnosis 生态的 Web3 开发者和用户提供简洁高效的 NFT 数据搜索查询服务。
+
+NFTScan 是一个专业的多链 NFT 数据基础设施服务商，Gnosis 是继 Ethereum、BNBChain、Polygon、Arbitrum、Optimism、Solana、Avalanche、Moonbeam、PlatON、Cronos、Fantom 网络之后，NFTScan 浏览器支持的第 12 条区块链网络。
+
+![](https://img.foresightnews.pro/202303/5303-1678153839800.png?x-oss-process=style/scale70)
+
+根据 Gnosis NFTScan 的数据显示：截止到 2023 年 3 月 3 号，Gnosis 网络上共发行了 8,431,1054 枚 NFT 资产，累计发布了 3,485 个 NFT Collection 项目，共产生了 9,960,141 条链上交互记录，有 1,771,971 个钱包地址持有 NFT 资产。从数据层面来看，与 Ethereum、Polygon、BNBChain 等区块链相比，Gnosis 网络的 NFT 生态主要是以发行 POAP 类 NFT 为主。
+
+![](https://img.foresightnews.pro/202303/5303-1678153851247.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/5303-1678153859897.png?x-oss-process=style/scale70)NFTScan 作为 Gnosis 生态的 NFT 数据基础设施，将持续不断地进行功能开发和产品优化，为 Gnosis 生态内的 Web3 开发者和 NFT 用户提供优质的 NFT API 数据服务和 NFT Explorer 搜索服务。
+
+![](https://img.foresightnews.pro/202303/5303-1678153871307.png?x-oss-process=style/scale70)
+
+同时，NFTScan 开发者平台也同步上线了 Gnosis 网络的 NFT API 数据服务，目前对外提供 40+ API 接口，满足各种业务场景下对 NFT 数据的需求。如果你是 NFT 和 Web3 领域的开发者，欢迎使用 NFTScan 开发者平台提供的 Gnosis 网络的 NFT API 数据服务，低门槛的快速构建自己的 Web3 产品和协议。
+
+关于 NFTScan
+
+NFTScan 是亚洲地区最大的 NFT 数据服务商，目前已支持 Ethereum、Solana、BNBChain、Polygon、Avalanche、Arbitrum、Optimism、Fantom、Moonbeam、PlatON、Cronos、Gnosis 12 条区块链。除了 NFTScan.COM 多链浏览器产品外，NFTScan 旗下设有 Web3 开发者平台，为区块链开发者提供专业的 NFT API 数据服务。NFTScan 目前服务了 100+ Web3 项目，其中包括 Coinmarketcap、Safepal、Mask、imToken、CyberConnect、BitKeep、DefiYield、Kucoin、OneKey、Cobo、Bybit、Enjin 等知名区块链项目。
+
+NFTScan: https://nftscan.com/
+
+Developer: https://developer.nftscan.com/
+
+API Docs: https://docs.nftscan.com/
+
+Twitter: @nftscan\_com
+

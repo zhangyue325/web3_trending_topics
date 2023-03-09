@@ -1,0 +1,61 @@
+### 亮点
+
+* Otherside 2023 年表现稳定，本周市值继续上涨 5.9%；
+* Decentraland 公布了元宇宙电影周的时间表、阵容以及预告片；
+* Unity Game Engine 通过 Web 3 工具拥抱去中心化；
+* Illuvium: Beyond 发布了 Illuvitars;
+* 来自 BIGTIME, Decentraland, NFT Worlds, Otherside & Treeverse 的更新；
+### 1.市场数据与分析
+
+加入我们每周四下午一点讨论，[深入探索每周数据](https://discord.gg/QyPYxAYe?event=1082179819627872326)，并聚焦于一些有趣的亮点*。*
+
+![](https://img.foresightnews.pro/202303/f31fc8a6e77d789686fb2b5a9ec98cc8?x-oss-process=style/scale70)Meta Rankings — Market Cap (7D)OneLand [7 日数据](https://oneland.world/#/main)显示 10 个项目的总市值在本周波动（-0.23%）不大，在 ETH 维度为 927,287；在美元维度为 14.5 亿美元。ETH 价格本周下跌 4.68%，加密货币整体下跌 [3.3%](https://coinmarketcap.com/charts/)，其中 SAND 下跌 13.9%， MANA 下跌 12.1%。
+
+除了[Decentraland](https://oneland.world/#/main/decentraland?selectkey=tradeAnalytics)，本周各个项目的成交额都出现了下滑。
+
+![](https://img.foresightnews.pro/202303/47aea63b058613f9e432caeadaff83ec?x-oss-process=style/scale70)Top Weekly Performer & Metaverse Heat Index (7D)* 尽管[Decentraland](https://oneland.world/#/main/decentraland?selectkey=tradeAnalytics) 本周均价有所上涨，但这是因为本周高额成交了一块土地，其土地市值下跌 12.8%，是六个月以来的最低点。
+* [Somnium Space](https://oneland.world/#/main/somniumspace?selectkey=tradeAnalytics) 本周无成交记录。
+* [Treeverse](https://oneland.world/#/main/treeverse) 本周交易活动下降，销量下滑 78%，均价跌至去年 7 月以来的最低点。
+随着第二次旅行日期的临近，[Otherside](https://oneland.world/#/main/otherside?selectkey=tradeAnalytics) 社区的情绪日益高涨。本周均价上涨了 14.9%。与此同时那些由 Otherside 粉丝（[@NFTea](https://twitter.com/i/spaces/1mrGmkgVmYzxy?s=20), [OtherSpaceFM](https://twitter.com/i/spaces/1ynKOajvLbkJR?s=20) 和 [OtherGuild](https://twitter.com/i/spaces/1mnGeREWWaEJX?s=20)）举办的 Twitter Spaces 也在持续广而告之。
+
+然而更重要的是，在 Yuga Labs 的支持下，元宇宙项目的信念在其他项目中展示了它的力量，例如无尽的跑酷游戏 [Dookey Dash](https://nftplazas.com/gamers-spend-huge-sums-to-cheat-yuga-labs-dookey-dash/)，以及最近推出基于比特币的 Ordinals NFT 系列 [TwelveFold](https://nftplazas.com/yuga-labs-twelvefold/)。
+
+尽管本周销售额 (-33.3%) 和销量 (-41.8%) 与其他项目一样有所下降，但 [Otherside](https://oneland.world/#/main/otherside?selectkey=tradeAnalytics) 的土地市值为 487,403 ETH (+5.8%)，即 7.626 亿美元。
+
+![](https://img.foresightnews.pro/202303/804aebc848d4062c373eeec1b524bf87?x-oss-process=style/scale70)[Market Cap & Volume (YTD) — Otherside](https://oneland.world/#/main/otherside?selectkey=tradeAnalytics)有关数据计算的说明，请查看：[*https://docs.oneland.world*](https://docs.oneland.world)*.*
+
+有关元宇宙的全面数据，请查看：[*oneland.world*](https://oneland.world/#/main)
+
+### 2. 市场新闻
+
+<https://medium.com/media/b5dc5f61c0f2373f3a7c9d761b36106c/href>[Large Japanese firms to develop the](https://www.kitco.com/news/2023-02-27/Large-Japanese-firms-to-develop-the-Japan-Metaverse-Economic-Zone.html?utm_source=substack&utm_medium=email)
+
+[Unity Introduces New Asset Store Category for Decentralized Technologies in Gaming](https://investors.unity.com/news/news-details/2023/Unity-Introduces-New-Asset-Store-Category-for-Decentralized-Technologies-in-Gaming/default.aspx?utm_source=substack&utm_medium=email)
+
+<https://medium.com/media/a86f114576e977fc67d70141e41c6ebc/href><https://medium.com/media/c0009b0bb2c4771609388f61fefe3041/href>### 3. 销售&铸币
+
+[Upland Sale Supports Emergency Earthquake Relief Efforts](https://www.upland.me/events/upland-sale-supports-emergency-earthquake-relief-efforts)
+
+（查看下方活动，了解即将于 3 月 8 日国际妇女节举行的铸币派对。）
+
+[Illuvium](https://illuvium.io/news/the-ultimate-preparation-guide-for-illuvium-beyond-launching-on-march-7th)
+
+请参阅下面的活动了解有关发布派对的信息，其中将展示一系列最新的 Illuvitars 和配件，以及销售里程碑礼物。
+
+### 4. 元宇宙事件
+
+<https://medium.com/media/e105e9821bbe97782c5495bb9e0941f8/href>![](https://img.foresightnews.pro/202303/ba5b4e1357bfe6a0ba57460ec2e6de40?x-oss-process=style/scale70)<https://medium.com/media/bd182952566f110161618a7c97e0518f/href>![](https://img.foresightnews.pro/202303/74dfe78fef4eda3d11cd7f8fca37270d?x-oss-process=style/scale70)### 5. 项目更新
+
+<https://medium.com/media/e18d7d6c6dbd314ad2a19dde0ab54143/href>商城还[更新](https://twitter.com/decentraland/status/1631548849285369858)了一个专门的 MVFW23 选项卡、新的创作者表情，以及可穿戴设备和 LAND 的新过滤器（现在按庄园大小、与道路相邻的 LAND 或广场进行过滤。）
+
+[Monthly Treeverse Update #15](https://endlessclouds.substack.com/p/monthly-treeverse-update-15?utm_source=substack&utm_medium=email)
+
+亮点：Dookey Dash 使 Yuga 的生态系统增长了 40%，游戏是重中之重，第二次旅行即将到来。
+
+### 6. 合作速递
+
+[Medium](https://t.co/FMKXNm1SId)
+
+更多详细信息可以访问[oneland.world.](https://oneland.world/#/main)
+
+![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=8cecf7201029)

@@ -1,0 +1,91 @@
+**原文链接：**https://flow.com/post/growing-the-future-of-flow-together
+
+**翻译：**Flow 技术大使 Caos
+
+![](https://img.foresightnews.pro/202303/da926590cd5451dd35819b3d0f36b2e1.png?x-oss-process=style/scale70)我比以往任何时候都更看好 Flow 的未来。
+
+  
+
+
+虽然 Web3 有高有低，但 2022 年是 Flow 生态系统强劲增长的一年 -- 并且 2023 年只会继续升温。去年，开发者社区增长了 12 倍，Dimenxion X、OnChain Studios 和 Joyride Games 等 12000 多名开发者推出了创新和突破性的新产品。像 Ticketmaster 和 Mattel 这样的大片品牌也从其他区块链加入了我们，我们在新的一年里欢迎 Doodles 2 加入该平台，以此拉开序幕。我们继续创造每日和每周交易用户的新纪录，而且每日交易量达到峰值，远远超过以太坊，Flow 仍然是世界上交易量最大的 NFTs 区块链。
+
+  
+
+
+Flow 经历了整个生态系统的复合增长，从无权限智能合约部署、节点运营、性能改进和关键网络升级。Flow 是去中心化的，绝大部分的 Flow 生态系统储备都保持不变。这意味着宏观经济逆风不会阻碍 Flow 在可预见的未来为促进其增长的各种团队提供资金的能力，也不会改变其使 2023 年成为迄今为止表现最好的一年的轨迹。
+
+  
+
+
+展望未来，我们已经概述了生态系统的优先事项，以便社区能够围绕共同的目标保持协调工作。由于目标是将 10 多亿人聚集在一起，并使 Web3 更容易获得，Flow 的未来仍然以基础设施的成熟度和可扩展性为中心，为建设者和项目的蓬勃发展提供最好的基础。
+
+  
+
+
+如果我们作为一个行业从 2022 年学到了什么，那就是长期的建设是产品保持可持续性的方式，这将最终实现区块链技术的大规模应用。这就是为什么我不断被 Flow 生态系统中正在构思和交付的创新所激励。你们的工作将我们在 Flow 成立之初的愿景变成了现实，而且往往是以我们当时无法想象的方式。
+
+  
+
+
+‍感谢你们选择将 Flow 作为家园 -- 我迫不及待地想看到我们在 2023 年及以后共同取得的成就！‍
+
+  
+
+
+你是一个有其他问题的 Flow 建设者吗？请加入我们的 Discord 社区，了解更多信息。
+
+Discord: https://discord.com/invite/J6fFnh2xx6
+
+**END**
+
+**什么是 Flow 福洛链？**  
+
+
+  
+
+
+Flow 福洛链是一个快速，去中心化，且对开发者友好的区块链，旨在为新一代游戏、娱乐应用程序提供动力的数字资产的基础。Flow 是唯一一个由始至终为消费者提供出色体验的 Layer-1 区块链团队。其团队创造的 dApp 包括：**CryptoKitties**、**Dapper Wallets**、**NBA Top shot**。
+
+  
+
+
+CrytoKitties 于 2017 年推出时便快速成为加密市场最受欢迎的 dApp，因其成功而导致以太坊堵塞。在 Flow 上运营的 NBA Top shot 也已成为增长最快的 dApp，在公开发布后的 6 个月创造了 7 亿美金销量。正因为 Flow 公链的可扩展性和消费者友好的体验，让这一切成为可能。目前有 1000 多个项目正在 Flow 链上筹备中，我们期待看到一个伟大的生态系统蓬勃发展。
+
+  
+
+
+**关于 Dapper Labs**
+
+Dapper Labs 是一家位于加拿大的全球顶尖区块链服务商，在 2017 年年底通过 CryptoKitties 收藏游戏成功进入⽤户视野，并且因为加密猫的爆⽕导致以太坊拥堵，从而推出 Flow 公链以及全新的开发语言—— Cadence，旨在吸引更多的开发者在 Flow 上开发应⽤。   
+
+
+  
+
+
+**Flow 的合作伙伴们：**
+
+![](https://img.foresightnews.pro/202303/95f8fe556f0313fc4a7f2e0fcd0207d3.png?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/c0b49cbacb1653d1202354b3e08f0c5a.png?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/5e17579410a249676d6de8d2d475c219.png?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/a9f6179d0f8936e527ecd4958f073c1a.jpeg?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/246583ee51fe9d44381d89c3d3c9d79b.png?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/9d6f68b298e828cce8ea14abb9457611.png?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/cecd51775a2a6d3e3eb3dab3e4c0be2e.png?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/c91132733c1a3ea74fcb204c5722e465.png?x-oss-process=style/scale70)我们欢迎越来越多的小伙伴加入 Flow 星球，为星球增添色彩！
+
+  
+
+
+**Flow 官网：**https://zh.onflow.org/
+
+**Flow 论坛:**https://forum.onflow.org/
+
+**Flow Discord:**
+
+https://discord.com/invite/flow
+
+**Flow CN Telegram:** https://t.me/flow\_zh
+
+**Flow B 站：**https://space.bilibili.com/1002168058
+
+**Flow 微博：**
+
+https://weibo.com/7610419699
+
+**Flow CSDN:**
+
+https://blog.csdn.net/weixin\_57551966?spm=1010.2135.3001.5343
+

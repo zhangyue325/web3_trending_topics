@@ -1,0 +1,161 @@
+*![](https://img.foresightnews.pro/202303/700ff7d58b3f38f1c9602e5dc057d1d0.gif?x-oss-process=style/scale70)*
+
+摘要：AI（人工智能）显著地降低了绘画的技术门槛，也吸引了大厂的关注。美团、字节、百度等互联网大公司，纷纷推出 AI 绘画产品。部分知识产权界的专家认为版权会阻碍 AI 绘画的发展，但我们认为事实并非如此，行业的发展已经领先于规章制度，经济价值决定 AI 绘图会走得很远，以人们意想不到的速度。（知产力）
+
+  
+
+
+![](https://img.foresightnews.pro/202303/b6503a30d83e084f8c9b202bbc05fb36.png?x-oss-process=style/scale70)
+
+图片来源：由无界 AI 绘画工具生成。
+
+  
+
+
+热点资讯  
+
+
+**云计算巨头赛富时设立 2.5 亿美元全球最大 AIGC 风投基金**
+
+  
+
+
+云计算巨头赛富时的风险投资部门正在启动一项 2.5 亿美元的基金，这是迄今为止规模最大的 AIGC 风投基金。赛富时服务云首席执行官 Clara Shih 表示，该基金将专注于“培育下一代生成人工智能初创公司”。（财联社）
+
+  
+
+
+**七彩虹入局元宇宙，推出首款可免费申领的 NFT PassCard**
+
+  
+
+
+巴比特讯，3 月 8 日，国内知名的 DIY 硬件生产商七彩虹宣布正式推出首款“NFT-Heir of thunder”系列 PassCard，该 NFT 铸造在以太坊链上，执行标准是 ERC-721。该 NFT PassCard 是七彩虹 Web3 及 Metaverse 社区的通行证，持有者可在后续享有七彩虹官方提供的权益。该 NFT PassCard 将向符合条件的参与者免费空投，通过手机号就可以参与申领，开始时间是 3 月 16 日。七彩虹显卡是国内知名的显卡品牌，其披露 NFT 计划意味着七彩虹正式开始探索 Web3 和元宇宙。
+
+  
+
+
+**美团创始人王兴将以个人身份参与“光年之外”的 A 轮投资，并出任董事**
+
+  
+
+
+据界面新闻消息，3 月 8 日下午，美团（03690.HK）创始人王兴在朋友圈中透露，将以个人身份参与王慧文创业公司“光年之外”的 A 轮投资，并出任董事。王兴朋友圈原文称，“AI 大模型让我既兴奋于即将创造出来的巨大生产力，又忧虑它未来对整个世界的冲击。老王和我在创业路上同行近二十年，既然他决心拥抱这次大浪潮，那我必须支持。”
+
+  
+
+
+**AI 艺术家 Claire Silver 将于 3 月 21 日在卢浮宫展示 NFT 系列作品**
+
+  
+
+
+据 CoinDesk 报道，AI 艺术家 Claire Silver 将于 3 月 21 日在巴黎卢浮宫博物馆首次展示她的 NFT 新系列作品“我能告诉你一个秘密吗”，据悉，该系列是一个“用人工智能创造的 100 个摄影后作品的自传系列”。展览将由 Superchief 画廊促成，该画廊是纽约和洛杉矶的实体画廊空间。除了新系列首次亮相外，一件名为“Love in the 4 th Turning”的单件 NFT 艺术品也将在卢浮宫展出。据悉，这幅作品在 OpenSea 上有售，在撰写本文时，最高出价为 44.44 WETH，约合 68677 美元。
+
+  
+
+
+据悉，Silver 还与全球人才机构 William Morris Endeavor（WME）签约，成为其第一位人工智能艺术家。WME 旗下的 NFT 艺术家和开发者还包括 Dapper Labs 和 CryptoKitties 联合创始人 Mack Flavelle、NFT 画廊 Bright Moments、NFT 项目 Non-Fungible Heroes、NFT 创业公司 Boss Beauties 和 NFT 艺术家 Valfré。
+
+  
+
+
+**Citadel 创始人：旗下众多公司正在寻求使用 ChatGPT 工具的企业许可证**
+
+  
+
+
+据彭博社报道，Citadel Securities 创始人兼首席执行官 Ken Griffin 在接受采访时表示，其旗下众多公司正在就使用 OpenAI 的 ChatGPT 工具的企业范围许可进行谈判。Ken Griffin 表示，“这一技术分支对我们的业务产生了真正的影响，ChatGPT 从帮助开发人员编写更好的代码到在不同语言之间翻译软件，再到分析我们在日常业务过程中分析的各种类型的信息，应有尽有。”此前报道，美国银行、摩根大通、花旗集团、德意志银行、高盛集团和富国银行等银行已对 ChatGPT 实施限制。据知情人士透露，美国银行告诉员工，禁止将 ChatGPT 和 OpenAI 用于商业用途。 
+
+  
+
+
+投融资  
+
+
+**Animoca Brands Japan 对全球娱乐公司 Rainshine Global 进行战略投资**
+
+  
+
+
+3 月 8 日，Animoca Brands Japan 宣布对全球娱乐公司 Rainshine Global 进行战略投资，投资金额未披露。据悉，Rainshine Global 是一家总部位于特拉华州的娱乐公司，特别关注 Web3 内容，并在印度、美国、英国、中东和东南亚开展业务。双方将共同把日本知识产权 (IP) 推向全球市场，此外，Rainshine Global 内容库中的原创动漫 IP 将被带到日本。
+
+  
+
+
+**Web3 游戏工作室 Redemption Games 完成 700 万美元融资，Play Ventures 领投**
+
+  
+
+
+据 Venture Beat 报道，Web3 游戏工作室 Redemption Games 宣布完成 700 万美元新一轮融资，Play Ventures 领投，Bitkraft、Merit Circle DAO、Orange DAO、以及一批游戏行业人士参投。Redemption Games 是一家从移动游戏开发巨头 AppLovin 公司剥离出的独立工作室，目前正在利用区块链技术、数字藏品和人工智能解决方案开发能够推向大众市场的游戏，并且将在游戏中加入能在交易所交易的数字资产等 Web3 元素。
+
+  
+
+
+元宇宙荐读  
+
+
+**《谁能阻止 AI 绘画毁灭“视觉中国”们？》**
+
+  
+
+
+AI（人工智能）显著的降低了绘画的技术门槛，也吸引了大厂的关注。美团、字节、百度等互联网大公司，纷纷推出 AI 绘画产品。虽然部分知识产权界的专家，认为版权会阻碍 AI 绘画的发展。但我们认为事实并非如此，行业的发展已经领先于规章制度，经济价值决定 AI 绘图会走得很远，以人们意想不到的速度。对于视觉中国这种以图片版权运营作为主要收入来源的企业来说，如果不适时改变经营策略，AI 绘画诞生将给这些企业的经营带来巨大的冲击。百亿市值，可能毁于一旦。
+
+  
+
+
+https://www.8btc.com/article/6807816
+
+  
+
+
+**《Stability AI 创始人：大模型不应该只属于巨头》**
+
+  
+
+
+模型背后的公司 Stability AI 创始人 Emad Mostaque，一位在英国长大的印度裔，当时可能没有意识到，自己按下了 AI「重启」的加速键。前不久，马斯克批评 Open AI 背离了开源、非盈利的初衷，这也是 Open AI 一直以来的争议。关于如何管理和运作大模型，也是 Stability AI 与 Open AI 的关键区别之一。Emad Mostaque 认为，大模型需要更多监督，而非在大公司内部运作，社区系统的开放性也至关重要。
+
+  
+
+
+https://www.8btc.com/article/6807828
+
+  
+
+
+**《小红书 2 周涨粉五位数，AI 美女竟成新「流量密码」？》**
+
+  
+
+
+最近，小红书上涌现了一批不一般的“美女”。她们长相精致可人，身材窈窕，之所以说“不一般”，是因为她们都是由 AI 绘制而成，并不是真人。
+
+  
+
+
+https://www.8btc.com/article/6807930‌
+
+**巴比特园区开放合作啦！**
+
+  
+
+
+![](https://img.foresightnews.pro/202303/f7dcb8536e4e40e8e4d847bc9529dfe0.png?x-oss-process=style/scale70)
+
+  
+
+
+![](https://img.foresightnews.pro/202303/ef27af54365ff70cc040f4157e2f6e7a.jpeg?x-oss-process=style/scale70)
+
+  
+
+
+![](https://img.foresightnews.pro/202303/8fa93812717d18039e5848d30555ebd2.gif?x-oss-process=style/scale70)  
+
+
+中文推特：https://twitter.com/8BTC\_OFFICIAL
+
+英文推特：https://twitter.com/btcinchinaDiscord 社区：https://discord.gg/defidao电报频道：https://t.me/Mute\_8btc电报社区：https://t.me/news\_8btc![](https://img.foresightnews.pro/202303/8287da5ef763d915fd33d8b7033c23a1.jpeg?x-oss-process=style/scale70)

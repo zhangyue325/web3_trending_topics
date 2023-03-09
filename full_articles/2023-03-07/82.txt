@@ -1,0 +1,339 @@
+如果没有交易所，你会如何购买加密货币？如果你希望加密货币现金交易不受追踪，你会选择什么方式？
+
+前者，你的选择一定是 OTC。如果结合后者，你一定会想到线下现金交易的 OTC。当然，纯现金交易在当代社会已经少之又少了。面对中心化交易所 OTC 交易的冻卡风险，足够安全的方式就是与身边相对信任的熟人进行 P2P 交易。
+
+在加密货币交易史上，点对点的比特币交易平台 LocalBitcoins 不应被忘记，这是世界上最大的比特币场外交易平台，为比特币的全球采用做出了不可磨灭的贡献。LocalBitcoins 天然地忠于比特币点对点的去中心化精神，尽管它并非 DEX，却是一个有别于 Coinbase、Circle、Binance 等中心化交易所的交易平台。
+
+自 2012 年诞生以来，LocalBitcoins 创造了属于它自己的辉煌，但最终为现实所迫，于 2023 年 2 月 9 日宣布[停止服务](https://foresightnews.pro/news/detail/17314)。有鉴于此，本文将回顾 LocalBitcoins 十年发展简史，从文字、数据与图片中重现 LocalBitcoins 的诞生、发展、辉煌与衰落之路。更为重要的是，LocalBitcoins 兴亡史能让我们从不为人知的一面了解 LocalBitcoins 在比特币与加密行业全球普及之路上所作的贡献，并且促使我们进一步思考「我们从哪里来，我们要到哪里去」。
+
+![](https://img.foresightnews.pro/202303/2173-1678176501483.png?x-oss-process=style/scale70)
+
+[LocalBitcoins.com 官网](https://localbitcoins.com/)
+
+一、基于本地的现金交易：LocalBitcoins 的诞生与早期发展
+----------------------------------
+
+LocalBitcoins 是一个位于芬兰赫尔辛基的点对点比特币场外交易平台，由芬兰软件开发者 Jeremias Kangas 于 2012 年 6 月创立，其目标就是让比特币无处不在并推动全球金融普惠。
+
+![](https://img.foresightnews.pro/202303/2173-1678176619339.png?x-oss-process=style/scale70)
+
+LocalBitcoins 创始人 [Jeremias Kangas](https://github.com/kangasbros)
+
+2011 年，Kangas 接触到比特币，他发现由于银行和政府的限制，许多人无法使用传统的交易平台购买比特币。2012 年，Kangas 花了两周的时间创建 LocalBitcoins.com，最初该网站只提供基于交易地点的交易列表，没有用户账户和 URL 标识。在发布当天，比特币卖家便迅速涌入列出其交易地点。早期的网站开发基本是由 Kangas 一人完成，至 2013 年末公司才雇佣 9 名员工和世界各地的自由职业者共同开发。
+
+![](https://img.foresightnews.pro/202303/2173-1678176687920.png?x-oss-process=style/scale70)
+
+[2012 年 6 月 16 日](https://web.archive.org/web/20120616014156/http://localbitcoins.com:80/) LocalBitcoins.com 官网，1 BTC = 6.14 USD
+
+2012 年底，LocalBitcoins 开始实施托管商业模式，2013 年初开始盈利。用户必须拥有 LocalBitcoins 钱包且存入比特币才能使用托管服务。买方 / 卖方需在 LocalBitcoins 上搜索并响应比特币卖方 / 买方发布的广告，广告包括比特币价格、接受的支付方式和限额。在每笔交易中，LocalBitcoins 都会将比特币保存在托管账户中。**如 LocalBitcoins 的「local」所暗示的，它为「本地」而设计，即比特币交易双方需约定线下地点见面完成，卖方确认其收到法币现金后，比特币将从托管服务中释放并发送给买方。**在 LocalBitcoins 上买卖比特币不收取任何费用，如果发布出售比特币的广告，平台则对每笔完成的交易收取 1% 的托管费，LocalBitcoins 充当买卖双方之间的信任方。如下图所示：
+
+![](https://img.foresightnews.pro/202303/2173-1678176778906.png?x-oss-process=style/scale70)
+
+LocalBitcoins [交易方式](https://web.archive.org/web/20140906001802/https://localbitcoins.com/)
+
+2013 年 6 月 14 日，LocalBitcoins 创建一周年时已有 44,000 名用户，遍布 142 个国家、1700 个城市，平均每天新注册用户约 250 个，日交易量约 400-900 BTC。用户可以在 Localbitcoins 上以 XAU（黄金盎司）和 XAG（白银盎司）为 BTC 定价。2014 年 11 月，英国比特币交易所 Netagio CEO Simon Hamblin 表示，英国交易所在英镑与比特币市场上的交易量落后于 LocalBitcoins 等场外交易平台。
+
+### （一）穿越非洲：「摩托之旅」
+
+2013 年 10 月 8 日，Kangas 在 BitcoinTalk 上发布[穿越非洲的「摩托之旅」](https://bitcointalk.org/index.php?topic=307653.msg)活动，赞助 Borja 与 Elvis 夫妇骑行摩托车穿越摩洛哥、西撒哈拉、毛里塔尼亚、塞内加尔、马里、布基纳法索、多哥、贝宁、喀麦隆、尼日利亚、刚果共和国、刚果民主共和国、安哥拉、纳米比亚、博斯瓦那、南非 16 个国家。这场活动顺利开展，Borja 在旅行期间从所经过的每个国家 / 城市找到了愿意以当地货币交换比特币的居民。此举无疑扩大了 LocalBitcoins 的全球采用与比特币的普及，他们证明了比特币的可交易性。
+
+![](https://img.foresightnews.pro/202303/2173-1678177009228.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/2173-1678177062171.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/2173-1678177094522.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/2173-1678177110939.png?x-oss-process=style/scale70)
+
+2013 年 LocalBitcoins 赞助 Borja [穿越非洲「摩托之旅」](https://bitcoinmagazine.com/culture/localbitcoins-motorcycle-trek-africa-benin-angola)活动」
+
+### （二）Mt.Gox 危机与比特币社区的选择
+
+2013 年 7 月，Jeremias Kangas 与 LocalBitcoins.com 被邀请参加 2013 年首届伦敦比特币大会「比特币初创生态系统的后起之秀」小组讨论。可见，LocalBitcoins 在比特币社区的影响已初步建立。2014 年 1 月 18 日，首届 Satoshi Square 活动在伦敦金融城边缘 Bishops Square 举行，允许人们面对面进行比特币交易。这是一场「非正式的社交活动」，重点是让刚接触比特币的人了解这种数字货币。比特币爱好者也在此讨论加密货币、最新的挖矿技术和比特币交易。除此之外，用户也可以使用 LocalBitcoins 在现实世界进行比特币线下交易。
+
+早期 LocalBitcoins 的受众增长还得益于 Mt.Gox，2013 年 6 月 25 日至 2014 年，Mt.Gox 危机也促进了 LocalBitcoins 市场份额迅速扩张。譬如，2013 年 12 月 10 日，Mt.Gox 与 AstroPay 合作为拉丁美洲（阿根廷、巴西、智利、哥伦比亚、墨西哥、秘鲁、乌拉圭）用户提供美元与比特币存提款。但几天后阿根廷的银行选项消失了，不再适用于阿根廷的比特币社区。「在阿根廷，比特币用户已经习惯于使用 Conectabitcoin、LatinCoin、LocalBitcoins 甚至 Facebook 群组等网站在本地买卖比特币。」
+
+至 2013 年底，台湾唯一的比特币交易所是 LocalBitcoins，LocalBitcoins 也是埃及、日本、阿尔巴尼亚、印度尼西亚比特币爱好者的热门选择。2014 年 3 月 31 日，[委内瑞拉](https://www.coindesk.com/markets/2014/03/31/micky-malka-on-how-bitcoin-can-help-the-worlds-unbanked/)恶性通货膨胀与银行倒闭后，LocalBitcoins、Bitcoin Venezuela 在全国各地都有非正式的聚会、会议和交流。
+
+2015 年 5 月 2 日，一位在 LocalBitcoins 上进行线下交易的比特币买家表示，「在纽约、伦敦、洛杉矶和东京等城市，几乎一天中的任何时候，你都可以在街上、在他们的公寓里，或者就我而言，在灯火通明、繁忙的星巴克遇到某人，然后给他们一些现金以换取数字货币。」
+
+### （三）资金流通需求
+
+2013 年 11 月，乌克兰反政府暴力抗议活动后，乌克兰抗议者们通过比特币筹集资金，由于需要兑换成乌克兰格里夫纳（hryvnia）才能在乌克兰使用，而唯一可用的比特币交易所只有 BTC-e，因此，LocalBitcoins 之类的 P2P 交易平台就成为乌克兰抗议者的最佳选择。
+
+同样地，由于无法访问功能齐全的在线交易所，LocalBitcoins 与比特币在拉丁美洲开始被视为资金流动管道。12 月 19 日，比特币汇款初创公司 Coincove 使用 LocalBitcoins 平台，允许其客户亲自将法币带到当地的比特币经销商处。Coincove 提供的服务是将他们的加密货币兑换成美元，以便客户可以将钱转移到世界各地的不同国家。Coincove 将比特币作为资金流动的管道。最初选择四个国家开展业务：阿根廷、墨西哥、西班牙和智利，后三个国家拥有重要的阿根廷社区，需要在经济上与其祖国建立联系。
+
+![](https://img.foresightnews.pro/202303/2173-1678177266226.png?x-oss-process=style/scale70)
+
+2013 年，[乌克兰抗议者们通过比特币筹集资金](https://www.coindesk.com/markets/2014/02/27/ukraine-protestors-turn-to-bitcoin-to-ease-cash-crisis/)
+
+### （四）功能与服务：ATM、Invoice 与在线支付
+
+LocalBitcoins 自身功能与服务的更新也促进了早期的发展。
+
+#### （1）LocalBitcoins ATM
+
+由于更多的人和企业使用比特币，因此轻松便捷的兑换服务成为一种日益高涨的需求。为了弥补与客户之间更直接联系的不足，LocalBitcoins 决定推出 ATM 以实现比特币交易业务的自动化。比特币 ATM 机最初是由 bitcoinkiosk.com 开发的，LocalBitcoins.com 于 2013 年 12 月收购了整套产品。2014 年 2 月 17 日，LocalBitcoins 宣布生产 LocalBitcoins ATM，用户可以通过 ATM 买卖 BTC。它采用了一项新技术，使 ATM 可以在没有互联网连接的情况下工作，而交易发生在 LocalBitcoins 网站上。
+
+![](https://img.foresightnews.pro/202303/2173-1678177397666.png?x-oss-process=style/scale70)
+
+在赫尔辛基比特币会议上，[使用比特币 ATM 购买啤酒](https://web.archive.org/web/20141012162359/http://localbitcoins.blogspot.fi/2014/02/introducing-localbitcoins-atm.html)
+
+![](https://img.foresightnews.pro/202303/2173-1678177496560.png?x-oss-process=style/scale70)
+
+[第一款比特币 ATM](https://web.archive.org/web/20141012162359/http://localbitcoins.blogspot.fi/2014/02/introducing-localbitcoins-atm.html)，可以在地铁上携带
+
+2014 年 3 月 31 日，LocalBitcoins ATM 运营商 Cointter 发推称在芬兰赫尔辛基的 24 小时售货亭 Delish 中推出第一台测试版 LocalBitcoins ATM。这是北欧第一台双向比特币 ATM，可以买卖比特币兑换现金，溢价率为 5-8%，足以供运营商赚取差价。4 月 18 日，Cointter 在 Kynsilaukan 餐厅推出第二台 ATM，引起媒体关注。2014 年 8 月 11 日，LocalBitcoins.com 宣布将 LocalBitcoins ATM:s 集成到 LocalBitcoins 网站，比特币交易发生在 LocalBitcoins.com 上，ATM 只处理法币交易。
+
+![](https://img.foresightnews.pro/202303/2173-1678177636756.png?x-oss-process=style/scale70)
+
+[24 小时售货亭 Delish 的 LocalBitcoins ATM](https://mobile.twitter.com/cointter/status/450541108376776704)
+
+![](https://img.foresightnews.pro/202303/2173-1678177703938.png?x-oss-process=style/scale70)
+
+[Aamulehti News 前往 Kynsilaukan 餐厅参观第二台 ATM](https://mobile.twitter.com/cointter/status/458492502073282560)
+
+![](https://img.foresightnews.pro/202303/2173-1678177783758.png?x-oss-process=style/scale70)
+
+[LocalBitcoins ATM:s](https://web.archive.org/web/20141012231037/http://localbitcoins.blogspot.ca/2014/08/localbitcoins-atms-comes-out-of-oven.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+Localbitcoinscom+(LocalBitcoins.com))
+
+#### （2）Invoice
+
+2014 年 9 月 8 日，LocalBitcoins 在其网站上推出比特币付费功能，用户可以发送和管理 invoice（类似于收款码），允许客户以比特币进行付款。该产品标志着点对点平台的第一个商家特定产品，起初是为公司的比特币 ATM 产品开发的，后推广到所有用户。Invoice 支付金额可以任何货币计价，收款人打开 Invoice 后则按当前汇率转换为 BTC。
+
+![](https://img.foresightnews.pro/202303/2173-1678177883606.png?x-oss-process=style/scale70)
+
+[2014 年 9 月 10 日](https://web.archive.org/web/20140910143356/https://localbitcoins.com/) LocalBitcoins 官网主页
+
+![](https://img.foresightnews.pro/202303/2173-1678177941811.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/2173-1678177957785.png?x-oss-process=style/scale70)
+
+2014 年 9 月 8 日，LocalBitcoins 推出第一个商家工具 [Invoice](https://web.archive.org/web/20141012231119/http://localbitcoins.blogspot.ca/2014/09/accept-bitcoin-send-invoices-get-paid.html?)
+
+#### （3）在线支付
+
+如前文所言，LocalBitcoins 本身是为「本地」现金交易而创建的场外交易平台，在 2012 年 6 月至 2013 年 1 月 15 日，LocalBitcoins 官网仍通过发布具体地理位置进行交易。但是，从 Internet Archive 对 2013 年 2 月 15 日快照中可以发现，LocalBitcoins 已新增「在线支付」功能，包括 PNC 银行在线转账、OKPay、Paypal 等。此后，又增加多种在线支付方式。这一功能的添加为更多分隔异地的用户通过 LocalBitcoins 进行比特币现金交易提供可能。2013 年 6 月，Kangas 曾表示：「起初，我们只是一家本地现金交易所，但后来人们想在线交易。」因此，他引入了对其他支付机制的支持，其中包括 PayPal 或公认的银行系统，将 LocalBitcoins.com 转变成一个基于物理世界或互联网的 P2P 交易机制。
+
+![](https://img.foresightnews.pro/202303/2173-1678178230305.png?x-oss-process=style/scale70)
+
+[2013 年 1 月 15 日](http://web.archive.org/web/20130115155450/https://localbitcoins.com/)，LocalBitcoins.com 上的「Cash」交易广告列表
+
+![](https://img.foresightnews.pro/202303/2173-1678178319464.png?x-oss-process=style/scale70)
+
+[2013 年 2 月 15 日](http://web.archive.org/web/20130215224434/https://localbitcoins.com/)，LocalBitcoins.com 上新增「Online」交易广告列表
+
+![](https://img.foresightnews.pro/202303/2173-1678178885910.png?x-oss-process=style/scale70)
+
+2016 年 2 月 29 日官网支持的[支付方式](https://web.archive.org/web/20160229110255/https://localbitcoins.com/)
+
+二、在监管与抗审查之间：LocalBitcoins 的「黄金时代」
+---------------------------------
+
+早在 2013 年，监管问题就已经出现在人们的脑海里，「比特币会被不友好的监管机构或政府关闭吗？」「古巴或朝鲜政府怎么能够阻止我买卖比特币？」「你担心审查制度吗？」Jeremias Kangas 给出了答案，「比特币不会被关闭」，但是「像 LocalBitcoins.com 这样的服务会被关闭」。同年 7 月在伦敦举行的首届比特币大会上，「[监管与法律挑战](https://www.coindesk.com/markets/2013/06/26/what-to-expect-at-bitcoin-london-2013/)」已经成为比特币发展的重要话题。
+
+譬如，2013 年 8 月泰国比特币交易所 Bitcoin Co LTD 因监管原因关停，Facebook 泰国比特币群组代表 [Frankie Bishop](https://www.coindesk.com/markets/2014/02/17/thai-bitcoin-exchange-reopens-but-legal-standing-still-unclear/) 表示，在该交易所关停期间，「当地社区使用 OKPAY 和 LocalBitcoins.com 等进行比特币交易」，尽管泰国政府有时会采取严厉的互联网控制措施，但 LocalBitcoins 等交易平台「从未被封」。2014 年 12 月，LocalBitcoins 创始人 Kangas 称，德国金融监管机构 BaFin（Bundesanstalt für Finanzdienstleistungsaufsicht）联系 LocalBitcoins，需要某种许可才能在该国运营。但 LocalBitcoins 当时还没有该许可，遂决定暂停在德国的业务。Kangas 指出，LocalBitcoins 在德国为 8000 名活跃用户提供服务，「这项服务实际上有一部分起源于德国，所以我们不能再在那里提供这项服务有点讽刺和悲伤」。
+
+多年来，LocalBitcoins 一直面临政治压力，部分原因在于其宽松的身份识别程序。买卖双方也无需使用真实姓名，线下 P2P 交易方式不会留下任何交易记录，并且只要保持较小的交易规模，LocalBitcoins 也就成为增量洗钱的自然选择。正因如此，丝绸之路的暗网交易在通过 LocalBitcoins 实现了利润的井喷。由于暗网中非法行动的猖獗，美国特勤局特工在该交易所卧底，并相继逮捕多起通过 LocalBitcoins 洗钱的用户。2015 年，LocalBitcoins 因未能获得纽约州的 BitLicense 而撤出纽约。
+
+### （一）美国卧底特工与 P2P 交易的法律风险
+
+由于不会留下任何数字交易记录，发生在美国的点对点比特币交易在 2014 年开始逐渐被定为一种犯罪。2014 年至 2022 年间，无论是单纯地进行比特币现金交易，还是参与从事犯罪活动，有多起使用 LocalBitcoins 的美国人因经营无牌汇款服务（MSB）和洗钱等相关犯罪被逮捕。
+
+#### （1）2014 年
+
+2014 年 2 月 8 日，美国特勤局根据反洗钱法起诉佛罗里达州两名男子 Michell Abner Espinoza 与 Pascal Reid，他们因使用 LocalBitcoins.com 转移大量比特币。
+
+2013 年底，迈阿密警察局和美国特勤局组成一个工作组开始调查该地区的比特币交易活动。侦探 Ricardo Arias 和特工 Gregory Ponzi 通过 LocalBitcoins 联系 Michell Abner Espinoza，并于 2014 年 1 月至 2 月期间安排几次会面。在几次会面期间，卧底特工表示他们打算用数字货币购买被盗的信用卡号码，Espinoza 向特工出售 1500 美元比特币，并在计划出售 3 万美元比特币时被捕。
+
+他们的第二项罪名则是经营无牌汇款服务，法规 560.125 禁止人们在佛罗里达州任何 12 个月内频繁从事超过 300 美元但低于 2 万美元的无牌汇款服务。根据涉案金额，可分为三级、二级或一级重罪。在任何 12 个月内交换超过 100,000 美元的资金被视为一级重罪，可以处以两倍于货币价值的罚款，最高可达 250,000 美元。Espinoza 在 LocalBitcoins.com 上以 MichaelHack 的名义进行交易，在过去六个月中交易了 150 多个比特币。这是各州首次决定对涉及比特币的案件提起洗钱指控。
+
+对此，Jeremias Kangas 表示，LocalBitcoins 依赖用户在进行交易时遵守本国法律，「这是我们的指导方针，但我们很难照顾好每一个人。」但同时，Kangas 也表示，目前，用户在处理面对面交易时需要相互验证，该公司一直致力于中央验证系统，尽管尚未实施：「我们必须有更多的审查和工具来确保我们网站上的一切都是合法的，我们的用户可以遵守他们当地的法律。我们在这方面花费了大量资源，但我们是一家初创公司。」Kangas 也承认，LocalBitcoins.com 不限制交易规模，但这是有可能实施的。
+
+2014 年 4 月 10 日，Espinoza 与 Reid 援引美国国税局（IRS）关于比特币不是货币而是「财产」（property）的[指南](https://www.irs.gov/pub/irs-drop/n-14-21.pdf)申请撤销洗钱指控。2014 年 8 月 2 日，比特币基金会向法庭提交名为「Amicus Curiae」的文件，试图驳回依据佛罗里达州法规 560.125 对 Pascal Reid 经营无牌汇款服务的指控，其核心立场是「州检察官将佛罗里达州监管<货币服务企业>的法规不恰当地用于进行比特币点对点销售的个人」。但是，比特币基金会发言人称，Michell Abner Espinoza 的案件与 Reid 的案件是分开的。2014 年 12 月 13 日，佛罗里达州巡回法院法官裁决，建议根据州法规，个人比特币交易商可以被视为汇款人，Reid 败诉。
+
+2015 年，法官判处 Pascal Reid 服刑 90 天，Reid 承认未经许可的汇款人经营罪，被处以 5 年缓刑，并必须向执法部门和金融实体提供有关比特币和数字货币的信息协助。Reid 需要完成「不少于 20 次关于数字货币和网络犯罪的培训」，并向迈阿密海滩警察局、美国特勤局和迈阿密电子犯罪特别工作组提供帮助。
+
+2016 年，迈阿密法官 Teresa Mary Pooler 指出，Michell Abner Espinoza 不符合检方所称的汇款人资格，但这次裁决并未成为此后类似案件的先例。
+
+#### （2）2017 年
+
+2017 年 5 月 2 日，密苏里州尼克萨市的 LocalBitcoins 用户 Jason R. Klein 在联邦法院认罪，承认未经许可通过比特币兑换现金进行非法汇款业务。Klein 承认，在 2015 年 2 月 6 日至 2016 年 7 月 27 日期间，五次会见两名卧底联邦特工并出售比特币。Klein 总共向代理人出售大约 98 枚 BTC，获得 3 万美元现金，并额外收取 10% 的佣金。Klein 从 2013 开始就在 LocalBitcoins 上出售比特币，大部分交易广告都是 2013 年发布的。
+
+2017 年 5 月 17 日，密歇根州底特律市的 LocalBitcoins 用户 Sal Mansy 在美国地方法院承认违反《美国法典》第 18 章第 1960 节经营无牌货币服务业务。2013 年 8 月至 2015 年 6 月期间，Mansy 在 Coinbase 与 Bitstamp 购买比特币后在 LocalBitcoins 上出售价值约 240 万美元比特币，并将收益存入个人公司 TV TOYZ 的商业银行账户。卧底特工曾在 2014 年 12 月至 2015 年 3 月间与 Mansy 进行两次交易，总金额为 6.32 枚 BTC（当时价格低于 1900 美元）。Coinbase 也因 Mansy 未在美国金融犯罪执法网络（FinCEN）注册为汇款人而关闭其账户。2015 年 6 月，检方搜查他在底特律住所，并没收其三个银行账户，总计约 12 万美元。同时，Mansy 被判以最高 5 年的监禁与 25 万美元罚款。
+
+2017 年 5 月 25 日，LocalBitcoins 交易商、Shreveport 按摩师 Randall Bryan Lord 与他的儿子 Michael Aaron Lord 因通过非法比特币金融计划传输资金而被判刑，父子俩曾于 2016 年 4 月 13 日承认串谋经营无牌货币服务业务。Micheal Lord 还承认共谋贩卖毒品，他通过「暗网」从事毒品交易，并将资金兑换成比特币。他在 LocalBitcoins.com 上的账户名为「Internet151」，自 2012 年以来总计完成 3000 多笔交易。
+
+2017 年 10 月 25 日，密歇根州 Bradley Anthony Stetkiw 以「SaltandPepper」为名在 LocalBitcoins 上从事比特币买卖与经纪交易而被指控经营未经许可的汇款业务。Stetkiw 通常在 Tim Hortons 餐厅与客户见面，从事的比特币交易规模达数十万美元，卧底特工曾 6 次从 Stetkiw 处购买价值超过 5.5 万美元的比特币。
+
+#### （3）2018 -2022 年
+
+2018 年 7 月 9 日，LocalBitcoins 用户「Bitcoin Maven」Theresa Lynn Tetley 承认经营无牌汇款业务与洗钱罪。Tetley 在 LocalBitcoins.com 上做交易商、为全国客户兑换了 6 到 950 万美元。2016 年政府人员对便开始对 Tetley 进行深入调查，缉毒局卧底女特工曾与之见面，随后该女特工将其介绍给她的「男朋友」，他也是一名卧底特工。此后，双方进行的比特币现金交易涉及暗网与毒品走私。
+
+2019 年，美国地区法官以 Jacob Burrell Campos 经营无牌汇款业务而对其判刑。Burrell 在 LocalBitcoins.com 上想 1000 多名客户出售数十万美元比特币，同时收取 5% 的佣金，2016 年底至 2018 年初，几乎每天都有超过 100 万美元的交易。他承认没有反洗钱或了解客户计划，也没有对客户资金来源做尽职调查。Burrell 为其客户提供匿名与隐私，并交换超过 100 万美元未受监管的现金。
+
+2019 年 8 月，Knal Kalra（又名 Scheklemaayne）因拥有并经营一家无牌汇款服务，通过其 LocalBitcoins 账户和比特币 ATM 机交换了近 2500 万美元而对美国联邦刑事指控认罪。
+
+![](https://img.foresightnews.pro/202303/2173-1678179836644.png?x-oss-process=style/scale70)
+
+2020 年，LocalBitcoins 上未注册的美国 MSB 广告
+
+2020 年华盛顿州居民 Kenneth Warren Rhule 被指控无牌经营汇款服务与洗钱超过 14 万美元 BTC，此前国土安全调查局 (HSI) 的特工与 LocalBitcoins 卖家 Rhule 进行了 8 笔现金换加密货币的交易。
+
+2022 年早期比特币先驱和自由主义者 Ian Freeman 及其同伙（统称为「Crypto 6」）帮助骗子和其他犯罪分子通过比特币 AMM 网络以及 P2P 和虚拟现金洗钱超过 1000 万美元 BTC，面临与逃税和经营无照汇款服务有关的联邦指控。
+
+### （二）抗审查：大牛市、监管与政治
+
+至 2017 年，LocalBitcoins.com 已为 248 个国家、超过 1.4 万个城市的用户提供购买比特币的服务。与此同时，2017 年末迎来了比特币历史上的一次大牛市，而 LocalBitcoins 也在同一年达到十年发展历程中的「黄金时代」。从 Coin Dance 数据来看，大多数国家的 LocalBitcoins 的交易量均在 2017 年末至 2018 年初达到顶峰。由于较发达地区的中心化交易所较为完善，而 P2P 交易平台的现货价格远高于交易所。因此，发展中国家成为 LocalBitcoins 增长的主力军。
+
+除了大牛市的带动，政府监管、地缘政治、经济动荡、交易所基础设施不完善、银行账户未普及等等因素则是黄金时代的主要推动力。考虑上述因素，本节将挑选几个有代表性的国家和地区分类介绍。
+
+![](https://img.foresightnews.pro/202303/2173-1678179988986.png?x-oss-process=style/scale70)
+
+[Coin Dance](https://coin.dance/volume/localbitcoins/ALL)：2013 年 3 月 16 日至 2023 年 2 月 18 日 LocalBitcoins BTC 交易量
+
+#### （1）中国、印度、哥伦比亚等国的政府监管
+
+与美国特勤局卧底特工对 LocalBitcoins 交易商的监管不同，中国、印度、哥伦比亚三国政府是出于防范金融风险而对加密货币交易所进行监管，合法交易渠道的丧失促使当地加密货币投资者转向 LocalBitcoins。
+
+早在 2013 年 12 月 5 日，《人民银行等五部委发布关于防范比特币风险的通知》就已明确了比特币监管的官方态度，即「比特币交易作为一种互联网上的商品买卖行为，普通民众在自担风险的前提下拥有参与的自由」。至 2017 年 1 月起，中国人民银行开始约谈三大比特币交易所负责人，并入驻三大交易所展开现场检查，三大交易所随后停止融资融币。2 月 9 日，多家交易所宣布升级反洗钱系统，暂停比特币提币服务。监管之下，中国加密货币交易者大量涌入 LocalBitcoins，其交易量在一个月内（2 月 4 日 至 3 月 4 日）激增 3742%。9 月 4 日《关于对代币发行融资开展清理整顿工作的通知》监管铁锤落地，正逢 2017 年 12 月大牛市，中国用户在 LocalBitcoins 上的每周交易量在 2018 年 1 月 13 日当周达到历史最高点，约 1.69 亿人民币（约 2500 万美元）。与此同时，LocalBitcoins 全球一周总交易量也在 2017 年 12 月达到巅峰，约 1.29 亿美元。
+
+![](https://img.foresightnews.pro/202303/2173-1678180148801.png?x-oss-process=style/scale70)
+
+Coin Dance：LocalBitcoins [中国](https://coin.dance/volume/localbitcoins/CNY) BTC 交易量
+
+2018 年 4 月，印度储备银行（RBI）禁止金融机构向加密相关企业提供服务，7 月印度最高法院决定延续 4 月的禁令。此举致使印度加密社区产生灾难性影响，个人银行账户若被发现进行加密货币交易则会被关闭。但另一方面，禁令也促进了点对点交易，LocalBitcoins 在印度的每周交易量自 8 月以来至少三次达到近 150 万美元。
+
+![](https://img.foresightnews.pro/202303/2173-1678180222002.png?x-oss-process=style/scale70)
+
+Coin Dance：LocalBitcoins [印度](https://coin.dance/volume/localbitcoins/INR) BTC 交易量
+
+2017 年，哥伦比亚中央银行 Banco de la República 颁布法令，加密货币不代表法定货币，而 Superintendencia Financiera (SF) 表示，金融机构无权投资、经纪或管理虚拟货币。但是，LocalBitcoins 数据显示，2017 年以哥伦比亚比索进行的交易激增了 1200%。
+
+![](https://img.foresightnews.pro/202303/2173-1678180293027.png?x-oss-process=style/scale70)
+
+Coin Dance：LocalBitcoins [哥伦比亚](https://coin.dance/volume/localbitcoins/COP) BTC 交易量
+
+#### （2）政治经济动荡中的阿根廷与香港
+
+阿根廷使用 LocalBitcoins 根植于本国政治经济不稳定，尤其是 2002 年阿根廷政府冻结数百万银行账户，阿根廷人对本国法币阿根廷比索（Peso）的极其不信任，持续 100 多年的高通胀率等等均是其大规模采用 LocalBitcoins 的因素。阿根廷的 LocalBitcoins 交易量从 2017 年开始平稳增长，至 2020 年迎来高峰，2021 年 4 月 10 日当周交易量达 1.8 亿阿根廷比索（当时价值约 200 万美元）。尽管大多数国家在近两年已经较少使用 LocalBitcoins，但阿根廷人的交易量未见明显降低。
+
+![](https://img.foresightnews.pro/202303/2173-1678180400050.png?x-oss-process=style/scale70)
+
+Coin Dance：LocalBitcoins [阿根廷](https://coin.dance/volume/localbitcoins/ARS) BTC 交易量
+
+与几年前的乌克兰类似，2019 年 3 月起，香港社会因《逃犯条例修订草案》爆发大规模抗议运动。 8 月底，恰逢中华人民共和国解放军驻香港部队第 22 次轮换，LocalBitcoins 香港的比特币交易活动在 2019 年 9 月 28 日当周创下历史最高的每周交易量，约 1230 万港元（约 156 万美元）。
+
+![](https://img.foresightnews.pro/202303/2173-1678180466578.png?x-oss-process=style/scale70)
+
+Coin Dance：LocalBitcoins [香港](https://coin.dance/volume/localbitcoins/HKD) BTC 交易量
+
+#### （3）美国制裁下的委内瑞拉、伊朗与俄罗斯
+
+委内瑞拉是 LocalBitcoins 交易量的主力军。Dash 商务发展主管兼 Caracas 区块链峰会的联合创始人 Ernesto Contreras 曾表示，「在被美国政府制裁后，LocalBitcoins 是 2017-2019 年间委内瑞拉大量使用比特币的主要原因」。
+
+2017 年以来，美国对委内瑞拉进行石油制裁，并对亲马杜罗的人员和公司进行制裁，导致个人难以从国外向委内瑞拉汇款，国际银行无法与委内瑞拉银行开展正常业务。MoneyGram 和 Transferwise 等企业停止为该国提供服务。由于受监管的中心化交易所也禁止为委内瑞拉提供服务，而当地的加密平台数量有限、基础设施差且不可靠，因此，LocalBitcoins 对面临经济不稳定、政治制裁和金融孤立的委内瑞拉人极具吸引力，他们也试图将比特币作为对抗通胀的工具。
+
+委内瑞拉加密货币倡导者 Aníbal Garrido 表示：「在研究之后，由于第三方的参考，我开始使用 LocalBitocoins」，「像任何初学者一样，我开始有些紧张，但它直观的界面很容易上手使用。」除了资金转账，LocalBitcoins 还帮助委内瑞拉人使用 BTC 作为现金，他们购买 BTC 作为美元替代品，并在需要法币时出售。该平台还允许他们进一步使用 BTC 通过礼品卡和加密友好商店购买国际产品。委内瑞拉在 2018 年进行的点对点比特币交易比加拿大、印度和澳大利亚的总和还多，贸易额超过 2.35 亿美元，而美国只有 3.73 亿美元。
+
+![](https://img.foresightnews.pro/202303/2173-1678180557312.png?x-oss-process=style/scale70)
+
+Coin Dance：LocalBitcoins [委内瑞拉](https://coin.dance/volume/localbitcoins/VED) BTC 交易量
+
+在伊朗方面，由于美国的经济制裁和当地审查制度的影响，加密货币投资者往往也会转向面对面交易和 LocalBitcoins。2017 年 11 月开始，伊朗的 LocalBitcoins 交易量爆发式增长，在 2018 年伊朗政府将加密货币挖矿视为合法活动后，这一趋势一直持续到 2019 年 LocalBitcoins 宣布关闭对伊朗用户的服务。
+
+![](https://img.foresightnews.pro/202303/2173-1678180695614.png?x-oss-process=style/scale70)
+
+Coin Dance：LocalBitcoins [伊朗](https://coin.dance/volume/localbitcoins/IRR) BTC 交易量
+
+俄罗斯同样如此，其乌克兰政策受到金融制裁推动了俄罗斯 LocalBitcoins 交易的大幅增长。该国在比特币方面的监管不确定性也使 LocalBitcoins 成为当地加密社区进行比特币现金交易的最佳选择之一。据 2020 年第三、四季度与 2021 年第一季度财报显示，在 2020 年前后 LocalBitcoins 季度总交易量中，俄罗斯的交易量始终占据第一。此外，2020 年，俄罗斯、委内瑞拉和哥伦比亚占 2020 年 LocalBitcoins 交易量的 41%。
+
+![](https://img.foresightnews.pro/202303/2173-1678180774398.png?x-oss-process=style/scale70)
+
+Coin Dance：LocalBitcoins [俄罗斯](https://coin.dance/volume/localbitcoins) BTC 交易量
+
+事实上，忠于比特币的点对点本质，LocalBitcoins 在很大程度上满足了个体 / 国家的不受监管与抗审查的需求，还为更多欠发达地区无法使用银行账户的资金流通需求创造了新的可能，他们可以使用现金交易或其他电子方式，如礼品卡。这为 LocalBitcoins 带来了爆发式的增长，2018 年高峰期每周有大约 2400 枚 BTC 交易量，而 LocalBitcoins 也在芬兰专业出版物 Kauppalehti 发布的 2018 年芬兰最佳财务表现公司中名列前茅。据 LocalBitcoins 2019 年财报显示，2018 年收入为 2390 万欧元，2019 年收入增长 10% 至 2620 万欧元；2018 年营业收入达 2880 万欧元，2019 年为 1760 万欧元。同时，LocalBitcoins 公司人数从 2018 年的 26 人扩充至 2019 年的 43 人。2019 年全年平台交易价值为 24.8 亿欧元。
+
+![](https://img.foresightnews.pro/202303/2173-1678180832618.png?x-oss-process=style/scale70)
+
+LocalBitcoins [2019 年财报](https://localbitcoins.com/blog/localbitcoins-reports-2019-result/)
+
+### （三）合规之路：KYC 与现金交易的取消
+
+2018 年 7 月，欧盟委员会实施第 5 条反洗钱指令（欧盟指令 2018/843，也称为 5AMLD），该指令首次将虚拟货币纳入考虑范围，包括虚拟货币兑换服务和托管钱包提供商。尽管该指令至 2020 年 1 月才实行，但芬兰议会于 2019 年 3 月 13 日投票通过关于虚拟货币服务提供商的新法案提案，以及根据 5AMLD 对反洗钱法的修正案。LocalBitcoins 是一家芬兰公司，主动宣称自己是「适应加密货币行业新合规标准的先驱」，「通过成为合规标准，旨在促进比特币生态系统的信任、合法性和成熟度，同时为其成为更可行、更广泛的货币铺平道路，并打击对比特币及其网络的犯罪使用」。3 月 18 日，LocalBitcoins 推出新的账户注册流程，用户可以在注册时验证基本信息，增加合适广告商的客户数量，禁止创建非法账户。
+
+2019 年 1 月 26 日的钓鱼攻击也推动了 LocalBitcoins 快速采取合规措施。LocalBitcoins 于当日 18 点在 Reddit 上宣布存在一个安全漏洞，攻击时间持续 5 个小时，此后 LocalBitcoins 进行干预并阻止攻击。在此期间，用户在访问 LocalBitcoins 时会被重定向至一个模仿 LocalBitcoins 的登录页面，黑客在收集用户的登录凭证后，试图登录用户账户。如果账户有双重身份验证（2FA）保护，黑客则要求提供 2FA 的一次性代码。随后，LocalBitcoins 关闭论坛，并暂时禁用其平台上的交易来阻止攻击。LocalBitcoins 表示，截至发稿前，只能确定 6 个受攻击账户，黑客从用户的 LocalBitcoins 账户中窃取价值 28,200 美元的比特币。同一天，LocalBitcoins 分享「LocalBitcoins 账户可以安全使用」，并强调双重身份验证的重要性。
+
+2019 年 6 月 18 日，LocalBitcoins 宣布推出新的身份验证系统，构建 T0、T1、T2、T3 四个帐户等级结构，不同等级的账户有不同的验证要求与交易量，并且引入渐进式验证系统，用户随着平台活动增加逐渐验证其账户。
+
+![](https://img.foresightnews.pro/202303/2173-1678180918704.png?x-oss-process=style/scale70)
+
+2019 年 6 月 18 日，[新身份验证系统](https://localbitcoins.com/blog/id-verification-update/)
+
+2019 年 11 月，CipherTrace 发布的报告称，「LocalBitcoins 连续第三年成为直接犯罪资金的首选」。其中，「芬兰」交易所收到犯罪 BTC 的比例最高，收到犯罪资金的 99% 以上。同月，芬兰《虚拟货币服务提供商法》发布后，芬兰金融监管局（FIN-FSA）将 LocalBitcoins 注册为官方虚拟货币提供商，「确定 LocalBitcoins 有适当的程序来防止洗钱和恐怖主义融资，客户资产也得到了充分保障」。
+
+2020 年 7 月，LocalBitcoins 宣布正在使用 Elliptic 的 Navigator 风险分析工具和 Lens 钱包筛选器来打击非法加密货币。Elliptic 首席科学家 Tom Robinson 表示，LocalBitcoins 的政策转向将导致 2020 年暗网加密货币流入量下降 50%。
+
+值得注意的是，从 Internet Archive 网页快照显示，2019 年 6 月 2 日开始，LocalBitcoins 已不再支持现金支付。
+
+![](https://img.foresightnews.pro/202303/2173-1678180998549.png?x-oss-process=style/scale70)
+
+[2019 年 6 月 2 日](https://web.archive.org/web/20190602001058/https://localbitcoins.com/) LocalBitcoins 官网快照
+
+一个基于「本地」现金交易而创建的比特币交易平台最终取消了现金兑换，听起来多少有点讽刺！正是现金的不易追溯性，LocalBitoins 才拥有了匿名、点对点、去中心化、隐私等加密原生的精神内核。也正是早期现金支付的诸多国际行动，LocalBitcoins 才成为加密货币交易的一方巨头。[Reddit](https://www.reddit.com/r/Bitcoin/comments/bvkn0e/localbitcoins_has_removed_cash_trades/) 上的 LocalBitcoins 用户表示：
+
+「这有点违背了名称中的『本地』的目的」
+
+「Localbitcoins 以前用起来还不错，但现在为了遵守洗钱法，大量的要求和验证使其体验变得很垃圾。在我完全停止使用他们的服务之前，我被禁止了两次。此外，隐私和服务条款每个月都在变化」
+
+「老大哥在看着你。——乔治·奥威尔」。
+
+在采取合规措施之前，LocalBitcoins 是人们增强隐私、抵抗中心化权力审查的工具，它的存在与全球范围内的大规模采用促进了原生的比特币经济，用户可以依托比特币的架构建立相互信任，在匿名状态下进行互动。正如中本聪设计比特币时所指出的：「我们需要的是一种基于密码学原理而非信任的电子支付系统，该系统允许任何有交易意愿的双方能直接交易而不需要一个可信任的第三方。」然而，从这一刻开始，LocalBitcoins 有别于中心化交易所的点对点差异化特征与理想状态彻底湮没。缺失了去中心化与抗审查的内核，LocalBitcoins 只不过是在享受盛世最后的虚荣。全球监管之力造就了 LocalBitcoins 的黄金时代，却从一开始就注定成为 LocalBitcoins 的掘墓人。
+
+三、谁杀死了 LocalBitcoins：商业的失败与加密经济的延续
+----------------------------------
+
+LocalBitcoins 的公告显示，「交易量下降」与「漫长的加密寒冬」是其关闭的原因。然而，交易量为何下降？事实上，杀死 LocalBitcoins 的还有诸多因素，譬如「仅限比特币现金交易」、「过时的界面」、「现货价格过高」、「P2P 平台的扩张」、「中心化交易所 P2P 服务的扩张」等。
+
+### （一）最后一舞：2020-2021
+
+2019 年 6 月，LocalBitcoins 推出 KYC 并取消现金支付，但这似乎并没有对 LocalBitcoins 交易量产生影响。从 Coin Dance 的 LocalBitcoins 周交易量数据可见，自 2019 年 6 月至 2020 年 5 月，周交易量下跌约 32.5%。与此同时，OKEx 和 Coinbase 的交易量自 2019 年 6 月至 2020 年 5 月也分别降低 30% 与 45%。而 2020 年 1 月以来，LocalBitcoins 半年增长约 40%，而 OKEx 与 Coinbase 也分别增长 2500% 和 800%。或许正如 LocalBitcoins 发言人所言：「现金交易过去只占所有交易的不到 0.5%」，「取消它对我们的贸易量没有影响」。
+
+2020 年 6 月至 2021 年 5 月是 LocalBitcoins 的最后一舞，此时正值比特币 2020 年牛市的第一波高潮，比特币最高涨至 64,918 美元。据 LocalBitcoins 季度财报显示，2020 年第三季度 LocalBitcoins 总交易量为 5.8 亿美元，第四季度总交易量为 6.12 亿美元，2021 年第一季度总交易量为 5.96 亿美元。这一时期，LocalBitcoins 的主要市场包括俄罗斯、委内瑞拉、哥伦比亚、英国、美国、尼日利亚、中国、南非、印度、西班牙、阿根廷、秘鲁、智利等。拉丁美洲的交易量在很大程度上推动了这一时期的总交易量。
+
+2021 年 5 月以后，LocalBitcoins 周交易量随着比特币的暴跌大幅下滑，此后周交易量未能突破 2000 万美元，LocalBitcoins 官方博客也未再更新 2021 年一季度之后的财报。前文述及，2018 年每周有 2400 枚 BTC 成交量，但到 2021 年，这一数据下降到 1000 枚以下。2023 年 2 月初，只交易了 283 枚 BTC。
+
+### （二）青出于蓝：LocalBitcoins 替代品的扩张
+
+LocalBitcoins 的替代品有两类，一是 P2P 比特币场外交易平台，二是中心化交易所的 P2P 服务，它们在 2018 年以后开始发展，逐步蚕食 LocalBitcoins 的市场份额。
+
+#### （1）P2P 场外交易平台
+
+与 LocalBitcoins 一样的 P2P 比特币场外交易平台还有 Hodl Hodl、Pawful、Bsiq 与 LocalCoinSwap 等。
+
+Hodl Hodl 是一个于 2018 年 2 月推出的 P2P 比特币场外交易平台，没有 KYC，交易手续费最高 0.6%，采用多重签名智能合约托管资金，而非像 LocalBitcoins 将资金托管在平台上。2019 年 5 月，LocalBitcoins 暂停伊朗服务，Hodl Hodl 成为伊朗用户的替代选择。同时，Hodl Hodl 还发文邀请伊朗社区前往 hodlhodl.com 交易。
+
+由于俄罗斯是 LocalBitcoins 的最大收入市场，2019 年春，比特币场外交易平台 Paxful 开始进军俄罗斯，试图蚕食 LocalBitcoins 在俄罗斯的市场份额。Paxful 俄罗斯经理 Anton Kozlov 表示，Paxful 通过增加支持人员、与当地 KOL 合作以及建立一个 10 人的专家团队共同努力挑战 LocalBitcoins 在俄罗斯的主导地位。至 2020 年春，Paxful 俄罗斯网站的使用量增长 350%，新用户数量激增 364%，月交易量平均约为 400 万美元。Kozlov 表示，Paxful 的俄罗斯用户群正在上升，而 LocalBitcoins 在 2019 年推出 KYC 后则停滞不前。尽管 LocalBitcoins 每月卢布交易量约为 3000 万美元，但 Kozlov 表示 Paxful 将继续蚕食。
+
+#### （2）中心化交易所的胜利
+
+在 LocalBitcoins 黄金时代，美国并非其增长的主要力量的原因之一在于，美国的 Coinbase 等交易所提供的比特币现货价格较 LocalBitcoins 的场外价格低，并且 LocalBitcoins 的平台托管需收取服务费，因此用户在更便捷的选择之间无需通过场外交易。此后，多家交易所相继推出 P2P 场外交易，以币安为代表，开始抢占全球 P2P 市场。
+
+2019 年 12 月，火币印尼分部决定建立法定网关，允许用户将印尼盾（IDR）换成 USDT，可以在交易所进行交易。此前，LocalBitcoins 是经常在印尼被使用的途径。火币希望借此占据印尼加密交易市场的主导地位。
+
+在交易所 P2P 服务方面，最得心应手的应是币安。2019 年，币安 P2P 正式推出，在全球所有地区均有增长，但在传统加密货币交易所难以运营等地区增长最快，比如中国、印度与东南亚等国。币安 P2P 实行零交易费、零托管费与零广告发布费，「无论买卖双方商定什么价格，他们都可以直接进行交易」。同时，币安也推出广告贴、现金交易、交易评论等 LocalBitcoins 上的功能。此举堪称是对 LocalBitcoins 的重击，它宣告了 LocalBitcoins 的商业死亡。在迎合监管、实行 KYC、取消现金支付后，LocalBitcoins 在匿名、隐私、抗审查方面的全部优势丧失殆尽。在同等条件下，用户自然会选择更便宜的渠道进行加密货币与法币交易。而币安有足够的底气实行这一模式，因为与专门从事 P2P 的平台不同，币安有着强大的交易所盈利能力来支持其 P2P 业务。
+
+截止 2021 年 9 月 30 日，Binance P2P 支持通过全球 150 多个支付渠道使用 55 种当地法币买卖 BTC、ETH、BNB、BUSD、DAI 和 USDT 六种加密货币。与 LocalBitcoins 的「仅限比特币」相比，支持多种加密货币显然更有优势。2020 年，Binance P2P 通过 380 万笔订单处理价值 70 亿美元的交易，日交易量高达 5400 万美元。与 2019 年相比，币安 P2P 用户增长了 7 倍。
+
+作为 LocalBitcoins 主要交易量国家，委内瑞拉也早已接纳了币安。当 LocalBitcoins 宣布关闭时，委内瑞拉加密货币倡导者 Aníbal Garrido 表示「不会对委内瑞拉生态系统产生太大影响」，因为 LocalBitcoins 自 2018 年达到顶峰以来已大幅下滑。Ernesto Contreras 也认为，「今天，它的关闭不会对委内瑞拉市场产生太大影响，因为目前很少有人在使用 LocalBitcoins」。部分原因是「过时且不直观的界面」以及「2023 年的需求与 2012 年不同」。委内瑞拉人近些年使用最多的 P2P 平台是币安，Hodl Hodl 与 Bisq 采用率均很低。
+
+可见，LocalBitcoins 的功能，币安 P2P 基本都具备，而且做得更好。
+
+#### （三）比特币 OTC 之王：为加密经济酿造全球市场
+
+LocalBitcoins 因本地现金交易而生，天然具备比特币原生去中心化特质，致力于让比特币成为全球普惠金融与个人经济自主。令人唏嘘的是，LocalBitcoins 迎合了监管，实行 KYC，取消现金交易，市场上又遭受同类 P2P 平台与中心化交易所的围攻，以致缺乏交易量而关闭。看上去，LocalBitcoins 的起源和终点发生了巨大的偏差。
+
+然而，LocalBitcoins 真的做错了吗？它曾为全球普惠金融做过巨大贡献，推动亚非拉地区国家的比特币采用。它反洗钱做错了吗？如果非法活动滥用比特币，受伤害的是自己的用户，也会更加污名化加密货币。它取消现金交易做错了吗？现金交易本就很少，是用户自己主动选择了线上交易。它「仅限比特币」做错了吗？它的目标就是让比特币成为全球普惠金融，完全符合比特币精神，其他加密货币与目标并不一致。
+
+LocalBitcoins 的关闭是全球加密经济的自然选择，市场与用户永远倾向低成本、高效率、美观简捷、安全实用的渠道，很难去区分孰对孰错。遗憾的是，诸如隐私、抗审查等加密原生内核又一次折戟于现代民族国家、资本与市场。或许，它本身只适合在边缘的「他者」中夹缝生存。但是，作为物理世界与加密世界的桥梁，刚需的 P2P 交易依然为中心化交易所与其他场外平台所延续。比特币是当今加密经济的基石，而 LocalBitcoins 通过比特币为加密经济酿造了广泛的全球市场。
+

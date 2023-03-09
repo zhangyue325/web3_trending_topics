@@ -1,0 +1,52 @@
+### REI Network is Live on Coinhub Wallet, in Partnership with SolidProof, Metapace, and Diviner Protocol
+
+Progress Report Feb 28-March 6
+
+![](https://img.foresightnews.pro/202303/8882e43abf6d873d03e786eaedd982af.png?x-oss-process=style/scale70)### Key points:
+
+* REI Network is live on Coinhub Wallet
+* Strategic partnership with SolidProof, Metapace, and Diviner Protocol
+### A. Product Development Progress
+
+REI-CORE
+
+- BLS module introduces Hardfork test @100%
+
+- System contract call performance test @100%
+
+- Block performance test after the introduction of the BLS module @in progress
+
+REI-DAO
+
+- UnJail accuracy issue fixed @100%
+
+- Account History data acquisition optimization @100%
+
+### B. Operational Progress
+
+Excited to have REI Network live on Coinhub Wallet, Coinhub is a multi-chain decentralized wallet serving the DeFi ecosystem and the gateway to Web3 Find REI Network on Coinhub APP Now: [https://coinhub.org/download](https://t.co/McwvPDbNOf).
+
+### C. Ecosystem
+
+We are happy to announce our strategic partnership with SolidProof, an auditing firm from Germany that focused on blockchain security and smart contract audits. SolidProof will support REI Network with security services. <https://twitter.com/solidproof_news/status/1630548388230905858>
+
+We’re super excited to partner up with Diviner Protocol, the next-gen builders of the Metaverse. Diviner Protocol aims to build up a metaverse “Diviner Harbour City” that offers users a diversified & gamified Play-to-Earn Ecosystem. Glad to have them on board with us! <https://twitter.com/GXChainGlobal/status/1630814776841609216>
+
+Thrilled to announce our partnership with Metapace-aiming to onboard the next 100 million gamers to Web3 with one-stop solutions. Stay tuned for our further collaboration! <https://twitter.com/GXChainGlobal/status/1631136693377183745>
+
+### Join the REI Network Community
+
+REI Network is an EVM-compatible public blockchain. As an Ethereum para chain, it owns the features of lightweight, free and dev-friendly. REI Network is to effectively solve the current high-cost and low-efficiency problems of public chains. Therefore, GXChain can achieve free, low-cost development, and rapid migration of applications, and can be shared and symbiotic with the EVM ecosystem, also supporting the development of Defi, GameFi, and NFT.
+
+*Users can access the REI token on:*
+
+[Binance](https://www.binance.com/en/trade/GXS_USDT) | [Upbit](https://upbit.com/exchange?code=CRIX.UPBIT.BTC-GXC) | [Bithumb](https://www.bithumb.pro/en-us/spot/trade?q=GXC-USDT) | [Huobi Global](https://www.huobi.com/en-us/exchange/gxc_usdt?invite_code=d8c53)
+
+If you are interested in participating in our community and receiving timely updates from the following official channels:
+
+![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=ae9dd89966b6)
+
+---
+
+[REI Network is Live on Coinhub Wallet, in Partnership with SolidProof, Metapace, and Diviner…](https://medium.com/gxchain-project/rei-network-is-live-on-coinhub-wallet-in-partnership-with-solidproof-metapace-and-diviner-ae9dd89966b6) was originally published in [REI Network Project](https://medium.com/gxchain-project) on Medium, where people are continuing the conversation by highlighting and responding to this story.
+

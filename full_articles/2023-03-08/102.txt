@@ -1,0 +1,53 @@
+微信不支持外部链接，可以点击文章底部的***阅读原文*** ，方便阅读文中的链接，也可通过 ***https://daily.rebase.network/*** 浏览每期日报内容。
+-------------------------------------------------------------------------------------------
+
+
+> **Time boost: a new transaction ordering policy for Arbitrum**
+> 
+> https://offchain.medium.com/time-boost-a-new-transaction-ordering-policy-for-arbitrum-5b3066382d62   
+> 
+> 
+> **QiZhou**: Arbitrum 提出了一个通过 Bid 来加速交易处理的排序方案
+> 
+> 
+
+
+> **Road to Mainnet for Distributed Validators**
+> 
+> https://blog.obol.tech/road-to-mainnet-and-beyond-for-distributed-validators/   
+> 
+> 
+> **Zhemin**: Obol Network 是以太坊分布式节点技术平台 (DVT)，近期公布了上线主网的 Roadmap。
+> 
+> 
+
+
+> **万字长文，探讨关于 ChatGPT 的五个最核心问题**
+> 
+> https://mp.weixin.qq.com/s/8U\_mUn\_dRDrB99OppK7oNA   
+> 
+> 
+> **北美开吻**: 本文从 5 个问题探讨陈述 ChatGPT 的本质，未来发展趋势，用户参与方式以及对社会的影响。
+> 
+> 
+
+
+
+---
+
+  
+
+
+**Web3 极客日报是为 Web3 时代的极客们准备的日常读物，由一群极客协作完成，每天更新，每期包含三个推荐内容，都来自极客们各自关注的领域。每晚由 Rebase 志愿者整理发出。若有意参与内容贡献，请添加微信 ljyxxzj 并注明日报贡献。**
+
+
+
+---
+
+****网站:****https://rebase.network****
+
+****公众号:****rebase\_network****
+
+**![](https://img.foresightnews.pro/202303/ad193951832a510fc76b55b6ad7aa334.png?x-oss-process=style/scale70)**
+
+       

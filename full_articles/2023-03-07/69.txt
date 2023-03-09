@@ -1,0 +1,61 @@
+近期，Iron Bank 和 Alpha Homora 之间就逾 3000 万美元的坏账「闹僵」一事在 DeFi 圈内引发了广泛讨论。
+
+Iron Bank 是的前身是 Cream v2，这是由 Cream Finance 和 Yearn Finance 联合推出的一个支持部分抵押（甚至无抵押）的借贷市场，而 Alpha Homora 则是一家旨在提供收益耕作效率的杠杆协议。2021 年初，Alpha Homora 推出 v2 版本，开始利用 Cream v2 的流动性为用户提供杠杆服务。
+
+简而言之，双方的关系就是：Cream v2 作为底层借贷市场为 Alpha Homora v2 的用户提供杠杆操作所需的流动性，Alpha Homora v2 作为上层应用基于自己的前端为用户提供了接触 Cream v2 的窗口，并通过放大借款需求提高了 Cream v2 存款用户的利率收益。
+
+ 
+
+![](https://img.foresightnews.pro/202303/842-1678169910295.jpeg?x-oss-process=style/scale70)
+
+  
+
+
+二者之间的矛盾可以追溯至 2021 年初的一起黑客事件。当时，黑客利用 Alpha Homora 的代码漏洞从 Cream v2 借入资金进行了闪电贷攻击，最终造成了 3750 万美元的损失。（详情可参看《[Cream Finance 被盗 3750 万美元，糙快猛的 DeFi 开发方式弊端初显](https://www.odaily.news/post/5164124)》）
+
+事后，双方约束将损失中未能追回的一部分计为 Alpha Homora 对 Cream v2 的债务，Alpha Homora 未来需要按月支付协议收入的 20% 用以还款，同时需要提供足额抵押资产来保证还款 —— 具体做法是将 50 00 万 ALPHA （当时约 6000 万美元）锁定在一个由 Cream v2 控制的托管合约内。（详情可参看《[Cream 被盗后续：Alpha Finance 按月用储备金还款，并以 5000 万代币抵押托管](https://www.odaily.news/post/5164456)》）
+
+根据现已更名的 Iron Bank 近期的披露，被盗之时 Alpha Homora 对 Iron Bank 的债务细节为 11245 ETH + 4263139 DAI + 4032014 USDC + 5647242 USDT，合计 3242.9 万美元；截至 2023 年 3 月 2 日，债务细节则为 11422 ETH + 3106549 DAI + 3851025 USDC + 6212087 USDT，合计 3194.7 万美元。
+
+ 
+
+![](https://img.foresightnews.pro/202303/842-1678169946573.jpeg?x-oss-process=style/scale70)
+
+如果一切顺利，Alpha Homora 或许能够逐渐还清对 Iron Bank 的债务，但由于市场走熊，Alpha Homora 的业务数据出现了严重下滑，ALPHA 代币本身也已大幅下跌。如今的情况是，Alpha Homora 每月仅可通过协议收入还款 5000 美元，而原先价值 6000 万美元的 ALPHA 抵押资产也已跌至近 600 万美元。
+
+还款进度的放缓以及抵押品的缺口引发了 Iron Bank 对于该笔债务能否顺利追偿的担忧。3 月 2 日，Iron Bank 向 Alpha Homora 发布了一封公开信，称该协议曾在 2 月 14 日要求 Alpha Homora 补充抵押资产，Alpha Homora 也同样在三天之内提出解决方案，但事情过去了两周仍然未见任何动作。为了保证自身以及其它相关协议的安全，Iron Bank 于 3 月 1 日暂停了 Alpha Homora 相关账户的借贷功能，—— 前文提过 Alpha Homora 利用自己的前端为用户提供了接触 Cream v2 的窗口，此举导致这部分用户暂时已无法取出存入 Iron Bank 的资金。
+
+ 
+
+![](https://img.foresightnews.pro/202303/842-1678169962219.jpeg?x-oss-process=style/scale70)
+
+Iron Bank 同时在推文中强调，如果 Alpha Homora 在 3 月 5 日仍不补充抵押资金，将保留利用该部分账户内的资金来抵消债务的权利。
+
+在 Iron Bank 祭出「杀手锏」之后，用户资金面临危机的 Alpha Homora 终于坐不住了。自 3 月 2 日，Alpha Homora 团队向 Iron Bank 连发了三封公开信，就该事件进行了回应。
+
+* 第一封公开信：https://blog.alphaventuredao.io/an-open-letter-to-iron-bank/
+* 第二封公开信：https://blog.alphaventuredao.io/second-open-letter-to-iron-bank/
+* 第三封公开信：https://blog.alphaventuredao.io/third-open-letter-to-iron-bank/
+在第一封公开信中，Alpha Homora 解释了自己并非坐视不理，而是提交解决方法需要更多的时间，Alpha Homora 团队曾向 Iron Bank 提出过会议讨论请求，但遭到了对方的无视。同时，Alpha Homora 强调无论 Iron Bank 有何顾虑都无权冻结用户资金，并呼吁 Iron Bank 立即释放用户资金，回归到正常的讨论之中。
+
+在第二封公开信中，Alpha Homora 再次要求 Iron Bank 释放用户资金，并称如果 Iron Bank 不这么做，将不会再履行 2021 年约定的还款义务，且不会再补充抵押资金。此外，Alpha Homora 还「威胁」称直到 Iron Bank 匿名团队中某人的真实身份，考虑采取法律措施。Alpha Homora 还提到了如果发生极端情况，将承担用户的资金损失。
+
+在第三封公开信中，Alpha Homora 再次要求 Iron Bank 释放用户资金，并指责 Iron Bank 就是一个肆意更改协议规则的中心化平台。而这次，Alpha Homora 终于提出了一个初步建议，具体如下：
+
+1. Iron Bank 需退回除以太坊外其他链上的客户资金；
+2. 以太坊链上的约 4100 万美元中，Iron Bank 需退回 1100 万 美元；
+3. 至于剩余的约 3000 万美元，Alpha Homora 将在 Iron Bank 同意上述解决方案后的一周内向社区分享如何处理的详细信息。
+简而言之，该初步建议就是「你把多的先退回来，剩下的咱们再聊该咋办」。
+
+截至发文，Iron Bank 尚未在官方渠道就 Alpha Homora 的建议作出回应，但迟迟未能解开的局面已对双方造成了不利影响。
+
+在社交媒体上，Iron Bank 冻结用户资金的做法遭到了大量抨击，许多推特用户指责此举无异于犯罪；而在 Alpha Homora 这一边，有推特用户发现，或许是资金平衡受到了影响，平台之内一些本该清算的仓位未能得到有效清算，或对协议安全造成威胁。
+
+ 
+
+![](https://img.foresightnews.pro/202303/842-1678169992682.jpeg?x-oss-process=style/scale70)
+
+今日早间，Alpha Homora 发推称：「我们一直在与 Iron Bank 协商，促使其释放用户的资金。讨论已接近解决方案了，细节正在制定中，请用户保持耐心，Alpha Homora 绝不会允许 Iron Bank 拿走用户资金。」
+
+截至当前，该故事的来龙去脉就是这些了。至于后续究竟会如何发展，Odaily 星球日报将继续跟踪报道，也请大家保持关注。
+

@@ -1,0 +1,337 @@
+加入 PolkaWorld 社区，共建 Web 3.0！
+
+![](https://img.foresightnews.pro/202303/06278daab46d62108d02efe3144763aa.jpeg?x-oss-process=style/scale70)过去一段时间感觉身边每天都充斥着以太坊 Layer2 的信息和新闻。Layer2 概念早就存在，但因为第一个 rollup 代币 OP 上线，并且涨幅高达 227%，Layer2 再次受到关注。特别是在 Coinbase 宣布基于 OP Stack 推出 Base 测试网，并与 Optimism 合作之后，几乎市场的所有热情全部倾注在 Layer2 上。
+
+  
+
+
+市场的热情往往也体现在资金上，据不完全统计，我们看到 ZkSync 大概融资 5 亿美金，是 Layer2 里面融资最多的，竞争对手 StarkNet 也融资了 3～4 亿美金，Optimism 融资 1.78 亿美金，Arbitrum 融资 1.43 亿美金（以上数据可能存在不准确）。
+
+  
+
+
+我们在 L2BEAT 网站上看到，现在主网上线的 Layer2 就已经有 21 个，排在前面的是 Arbitrum 的 TVL 达到 3.38 亿美金，Optimism 的 TVL 达到 1.86 亿美金，所有的 Layer2 的总锁仓量有 6.2 亿美金。
+
+  
+
+
+![](https://img.foresightnews.pro/202303/ae5a80855df51ed57db5fe4578c52364.png?x-oss-process=style/scale70)  
+
+
+![](https://img.foresightnews.pro/202303/997d349dcf51d3174373ea07c05049ce.png?x-oss-process=style/scale70)  
+
+
+而以太坊整个生态目前的锁仓量大概有 47.96 亿美金（defillama 数据），Layer2 大概占比**约 13%**。看起来这是一个充满希望的领域，并且随着 Rollup 技术的成熟，可能各大交易所也会推出自己的 Layer2。前段时间，我们也在一些 KOL 的朋友圈看到 Consensys、metamask 这样的机构可能也会推出自己的 Layer2，这又会推动新一轮的叙事！看起来，**Layer2 现在已经非常卷了****！**未来头部的几个 Layer2 可能就藏在上面提到的几个项目中，这已经不是随便一个小团队就可以入场的领域了，因为起码你需要先拿到 1 亿美金的融资的门票。Layer2 究竟是资本游戏还是真的解决了某些**可持续性**的需求呢？
+
+  
+
+
+回看 Polkadot，融资约 2.5 亿美金，在 2021 年 12 月上线白皮书所描述的所有功能，正式开始多链时代！截止目前已经有 39 条平行链加入了 Polkadot，另外还有 43 条平行链在 Polkadot 的金丝雀网络 Kusama 上，整个 Polkadot 生态系统共有 82 条平行链。但也是随着平行链的上线，市场环境的下行，同时又有新公链的崛起，到现在的卷王 Layer2，市场对 Polkadot 呈现出一种观望和持疑的态度。
+
+  
+
+
+但是，尽管在这样的市场环境和一些批判的声音下，PolkaWorld 专访了很多开发者，大家依然觉得**波卡的技术架构是优于 L2 架构的**。很多开发者依然对波卡保持着积极的态度，其实这一点从 [Messari 的报告](http://mp.weixin.qq.com/s?__biz=MzI3MzYxNzQ0Ng==&mid=2247495657&idx=1&sn=2987591c092063e4640d5ffba71a5893&chksm=eb2228a0dc55a1b6f7cbfe1beac6939fd7d2b5b485e41b7f2f6b4d4bd7f257683f0085171f70&scene=21#wechat_redirect)也能证实，Polkadot 开发者社区是除以太坊之外最大的开发者社区，并且 Polkadot 生态开发活跃度依然处于遥遥领先的位置。
+
+  
+
+
+2022 年是市场最糟糕的一年，这一年 Polkadot 在优化自己的性能、推出跨链信息格式 [XCM](http://mp.weixin.qq.com/s?__biz=MzI3MzYxNzQ0Ng==&mid=2247495924&idx=1&sn=4416d2b67c52ac3a81412ce796600894&chksm=eb2237bddc55beab5e5c95234b005602089a5fd292ef67bafaf4f2dba987f3b30b5d8a582541&scene=21#wechat_redirect)、平行链在开发各种上线的功能。到 2023 年，我们也看到 [XCMv3](http://mp.weixin.qq.com/s?__biz=MzI3MzYxNzQ0Ng==&mid=2247497658&idx=1&sn=4439680766f9f211f08f95a01f7b1ca6&chksm=eb2230f3dc55b9e5638bc12f6e2309c2b6bc240a887e4327d44bbb9344ad7473429074749c0c&scene=21#wechat_redirect)、[异步支持](http://mp.weixin.qq.com/s?__biz=MzI3MzYxNzQ0Ng==&mid=2247498200&idx=1&sn=c6789c2517dae56de1e0c81212edaa2a&chksm=eb223e91dc55b7871e9c1de9b8f2be3683994648c738da8262d03ea57cd41a1f96977f404638&scene=21#wechat_redirect)等技术的重要进展，随着 Polkadot 生态内基础设施的愈加完善，随着市场大环境的逐步回暖，在新公链和 Layer2 的热点叙事下，2023 Polkadot 将会带来哪些趋势，以及存在怎么样的变局？
+
+  
+
+
+4 月 11 日，PolkaWorld 将与波卡生态众多团队一起在香港举办波卡线下活动 - **Polkadot 2023 趋势与变局**，一起聊聊当前市场格局、行业趋势，以及 Polkadot 如何在卷到飞起的加密世界获得更多的用户与增长！如果你感兴趣，请点击下方立即报名！
+
+  
+
+
+  
+
+
+  
+
+
+**活动信息**
+
+  
+
+
+**活动时间**：4 月 11 日下午 13：00 - 17：00
+
+**活动地址**：香港湾仔骆克道 93 号利临大厦 4 楼 Garage Society（4/F, Beverly House, 93 Lockhart Road, Wan Chai）
+
+  
+
+
+  
+
+
+活动主题
+
+  
+
+
+Gavin Wood：Polkadot 2023（待定，正在邀请中）
+
+  
+
+
+**圆桌对话 1**
+
+**加密市场如何选择跨链协议：LayerZero、IBC 还是 XCM？**
+
+  
+
+
+主持人：KIKO @PolkaWorld
+
+嘉宾：
+
+LYZ @Acala
+
+Mingshi @Astar
+
+Yuki @Moonbeam
+
+Lurpis @Bifrost
+
+Guotao @Zenlink
+
+  
+
+
+**圆桌对话 2**
+
+**Web3 基础设施升级：新公链、Layer2、平行链，谁能真正推动应用落地？**
+
+  
+
+
+主持人：Kristen @PolkaWorld
+
+嘉宾
+
+Bova @Crust
+
+Jennifer @Manta
+
+Ruby @Phala
+
+Ryan @PNS
+
+Frozen @Gear
+
+  
+
+
+**圆桌对话 3**
+
+**2023 Web3 行业趋势：香港、监管、东方神秘资本？**
+
+  
+
+
+主持人：Kristen @PolkaWorld
+
+拟邀嘉宾
+
+  
+
+
+Jacob @HashKey
+
+丁浩 @Web3Go
+
+向阳 @PAKA
+
+常语嫣 @Subwallet
+
+  
+
+
+更多嘉宾持续邀请中...
+
+  
+
+
+如果你对这些话题感兴趣，那就赶紧报名我们的活动吧！报名免费、名额有限！
+
+  
+
+
+  
+
+
+  
+
+
+**活动礼品**
+
+  
+
+
+为了感谢大家一直对波卡的支持，PolkaWorld 将送出 50 套 Polkadot 2023 周边，每套包含一个很酷的杜邦纸袋和一件新款的 Polkadot tshirt。
+
+  
+
+
+![](https://img.foresightnews.pro/202303/9ef8301eb1b87c6482b4d784c09fd23b.png?x-oss-process=style/scale70)
+
+  
+
+
+![](https://img.foresightnews.pro/202303/301f1659ad725bc7a70c8a9260bfa731.png?x-oss-process=style/scale70)
+
+  
+
+
+![](https://img.foresightnews.pro/202303/a44aa2c6838a62a08d255ec7c1ee7363.png?x-oss-process=style/scale70)
+
+  
+
+
+![](https://img.foresightnews.pro/202303/c94dfd29c68f5e9bf0a3f7ac5400a9f0.jpeg?x-oss-process=style/scale70)
+
+  
+
+
+除此之外，所有报名参会者，还将空投 Astar 生态项目 Bluez 设计的 **POAP NFT！**
+
+  
+
+
+  
+
+
+**常见问题**
+
+  
+
+
+**1. 活动几点开始？**
+
+  
+
+
+我们的活动是 2023 年 4 月 11 号下午 13：00 正式开始。请大家务必准时到达活动场地！
+
+  
+
+
+**2. 找不到地址怎么办？**
+
+  
+
+
+百度、高德地图可以搜索「香港湾仔骆克道 93 号利临大厦 4 楼 Garage Society」谷歌地图可以搜索「4/F, Beverly House, 93 Lockhart Road, Wan Chai」。
+
+  
+
+
+**3. 可以带没有报名的朋友过来吗？**
+
+  
+
+
+可以带，但现场座位有限，可能会没有座位站着参加！
+
+  
+
+
+**4. 如何领取奖品？**
+
+  
+
+
+所有奖品仅限报名且到现场的朋友，Polkadot 2023 周边在签到处领取，只有限量 50 套，早到早得哦！POAP 将会在活动结束后，通过**报名时填写的邮箱**进行联系和通知！
+
+  
+
+
+**5. 活动有直播吗？**
+
+  
+
+
+我们会通过 PolkaWorld 视频号进行现场直播！关注 PolkaWorld 视频号，提前预约直播！
+
+  
+
+
+  
+
+
+**6. 参加活动有什么费用支出？**
+
+  
+
+
+本场活动无门票价格，**免费报名**参加！大家可自行承担出行和住宿费用。活动现场会提供适量点心和酒水。
+
+  
+
+
+**7. 是否还能参加其他周边活动？**
+
+  
+
+
+可以。点击这里查看所有周边活动！https://foresightnews.pro/article/h5Detail/27222
+
+  
+
+
+
+
+---
+
+  
+
+
+**直播预告**  
+
+
+  
+
+
+3 月 9 日，本周四晚 19：00，PolkaWorld 将推出全新系列内容 —— Polkadot & Kusama 提案分享，将涵盖网络正在进行的重要变化和国库申请的提案。PolkaWorld 主编 KIKO 将在本周开始第一期的分享！如果你对这个内容感兴趣，欢迎预约直播！
+
+  
+
+
+  
+
+
+* **PolkaWorld Telegram 群：**
+
+t.me/polkaworld
+* **PolkaWorld Youtube 频道：**
+
+https://www.youtube.com/c/PolkaWorld
+* **PolkaWorld Twitter：**
+
+@polkaworld\_org
+![](https://img.foresightnews.pro/202303/a8f10b59139a7d343010ec83324551c0.gif?x-oss-process=style/scale70)**更多内容**
+
+  
+
+
+[Web3 基金会任命新的 CFO 来加强执行管理！](http://mp.weixin.qq.com/s?__biz=MzI3MzYxNzQ0Ng==&mid=2247498232&idx=1&sn=de51606dbfc0899276c643711f922499&chksm=eb223eb1dc55b7a709376cf5fa09dca1ad3cd8207f6adc5a47471e2d2ccf7d72f51cc7afaa6e&scene=21#wechat_redirect)
+
+[波卡联合创始人 Rob：波卡重新定义了区块空间，就像云架构重新定义了服务器空间](http://mp.weixin.qq.com/s?__biz=MzI3MzYxNzQ0Ng==&mid=2247498225&idx=1&sn=bb8ada2ee887fdcc73a8a5db914f17a9&chksm=eb223eb8dc55b7aeb7032df01b10031fa65003c47c9f925982d55f2bddf7c0ec597d066ce23f&scene=21#wechat_redirect)
+
+[波卡生态常用工具合辑（2）：钱包、治理、质押工具、NFT 市场、数据分析...](http://mp.weixin.qq.com/s?__biz=MzI3MzYxNzQ0Ng==&mid=2247498172&idx=1&sn=d03bab9975e761f08b2ee7401e4e8322&chksm=eb223ef5dc55b7e302d55f27b3b6fac619100a8dcc32ea96074b9842c35beff43452acc32483&scene=21#wechat_redirect)
+
+  
+
+
+![](https://img.foresightnews.pro/202303/b2c59d601e52ff269db62e55d33c4ba1.jpeg?x-oss-process=style/scale70)关注 PolkaWorld
+
+发现 Web 3.0 时代新机遇
+
+  
+
+
+点个 “在看” 再走吧！
+

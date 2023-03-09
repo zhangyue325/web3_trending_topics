@@ -1,0 +1,108 @@
+欢迎阅读 DeGate 2023 年 2 月的项目月报！
+
+DeGate 让你“Trade easy, Sleep easy”。DeGate 协议让你使用 DEX 所有的优点进行现货限价单交易。ZK Rollup 和高效 Gas 优化技术使得在 DeGate DEX 协议上交易变得高速和高效。
+
+DeGate 协议提供无需许可代币上架功能，这意味着任何人都可以通过添加智能合约地址来添加代币。期望有一个稳定的代币交易和流动性挖掘计划。
+
+DeGate 建立在“无需许可、无需信任和去中心化”的指导原则上。DeGate Dex 让你在交易时享受和中心化交易所一样的流畅体验，同时你仍旧完全掌握着自己的资金。
+
+产品技术方面
+------
+
+在 2 月份，DeGate 的技术团队继续致力于优化产品，使其更加高效和用户友好。在 DeGate DEX 上进行了 30 多项用户体验改进。用户现在可以查看充值、提款和转账的历史记录，包括使用 ZK Rollup 完成的状态。此外，Ledger 钱包连接现已支持 Firefox 浏览器。
+
+DeGate 非常注重安全并高度重视所有安全功能。上个月，确保智能合约 / 电路安全性的外部审计过程已经完成。技术团队还实现了前端安全隔离解决方案，并提高了系统可用性。
+
+DeGate 1.0 大部分的研究工作已完成。目前，DeGate 研究团队正致力于提高 DeGate 2.0 的 gas 效率。DeGate 2.0 的设计将在很大程度上取决于 EIP 4844，因此团队正在密切关注其发展。
+
+### DeGate 无需信任
+
+无需信任是 DeGate 去中心化交易协议的一个重要特征。DeGate 的无需信任让你“Trade easy, Sleep easy”。
+
+无需信任意味着什么？它意味着：
+
+* 你的资金是安全的。没有人能够偷走它。
+* 你的账户余额是正确的。系统不会篡改它。
+* 你可以随时提取你的资金。
+请在此处阅读有关 DeGate 如何实现无需信任的[文章](https://medium.com/degate/how-does-degate-achieve-trustlessness-df0621a49116)或[Twitter 帖子](https://twitter.com/DeGateDex/status/1621458497866010624?s=20)。
+
+为了让社区了解 DeGate 无需信任的特性，DeGate 与[Taskon](https://taskon.xyz/campaign/detail/2073) 和 [Quest3](https://app.quest3.xyz/quest/739760147639459892) 一起举办了有关活动和抽奖。感谢所有参与的人！
+
+![](https://lh4.googleusercontent.com/lwZfKsBpGMZ_fPbRI1oJyh0clpaz0X-RDTFe8fMplCZ_O7eDSKZV49XB02BZaISuOxn_ePFnCuSVvVSLjvbNE9OIHRrnrBe_hXekw61Uxqow7LyJ_ff4hvJuliLf8Ov-wkw5GC1QPbSO9p2C35u29Tg)
+
+### DeGate 漏洞赏金计划和 ZK 可信设置仪式
+
+DeGate 团队很高兴进入新阶段，离发布越来越近了！
+
+外部审计已经完成，DeGate 很快将会宣布漏洞赏金计划。请持续关注 DeGate 社交媒体上的公告！
+
+在准备部署 DeGate 主网测试版的过程中，将开始更进一步的步骤。由于 DeGate 是一个 ZK-rollup 系统，因此需要进行 ZK-Proof 信任仪式。
+
+我们已在 DeGate Twitter 上正式宣布了 DeGate ZKP 可信设置仪式的开始，这是部署 ZK-rollup 系统的重要步骤。
+
+可以在这里找到有关[DeGate ZK 可信设置仪式的更多信息](https://github.com/degatedev/trusted_setup/blob/master/Coordinator.md#2announce--retrieve-future-bitcoin-hash-for-the-execution-of-beacon-contribution)。
+
+社区方面
+----
+
+### DeGate 内容竞赛
+
+DeGate 在 2022 年 12 月的年终 AMA 中宣布了 DeGate 内容竞赛。该竞赛邀请参与者在 Twitter 上发布有关 DeGate 的文字评价、Twitter 帖子或 YouTube 视频。总共收到了 15 个内容提交，其中包括 3 个 YouTube 视频、11 篇 Medium / Mirror 文章和 2 个 Twitter 帖子。这里向 DeGate 内容比赛的获胜者[Crypto Deni](https://www.youtube.com/@CryptoDeni)致敬！
+
+与此同时，DeGate 还与 [Taskon](https://taskon.xyz/campaign/detail/1750) 和 [Quest3](https://app.quest3.xyz/quest/729182663210995756) 合作进行社区活动。社区成员需要完成一些简单的任何便可参加幸运抽奖并赢得奖品。祝贺所有幸运获奖者，并向所有参与者致以最大的赞扬！
+
+![](https://lh4.googleusercontent.com/4hJ0-NFKRc2aoOxL-0-sUvVg29XJfjtelAhjD8b7nwFSPXC3n4DX-A0VvarpJwB01iVcMPWa4Qc3VmACINSroltu2PhVZK0HsJaoe1YMpDsVD3vc5LZhZ3ex4DVSm31Tr-rPldB3pZ4_djOAR-1y2rk)
+
+### DeGate YouTube 影响者视频竞赛
+
+在二月份，DeGate 宣布了 YouTube 影响者视频竞赛。我们邀请所有在 YouTube 上拥有超过 1,000 关注者的内容创作者和影响者来创建关于 DeGate 的视频。欢迎所有语言的投稿！比赛将持续到 3 月 31 日。
+
+在此阅读更多[关于 DeGate YouTube 影响者视频竞赛的信息](https://medium.com/degate/degate-influencer-youtube-video-contest-b57efac119a)：
+
+![](https://lh3.googleusercontent.com/OvhTEIivDEq_dzVk3zjmbKZ4BwlhwR0rOuPfUfqF3zKjSRliUqEmvH6smNCghaLT8Hs8XYRvzFX2EeJiiKMR-SyUVjAoBZn96NGa1mcGMPRN3bQZQ-cUpimhMQiLVry5Gzsc_innbeDVTp7D5ummzoU)
+
+### ETH Denver
+
+DeGate 的布道者 Andrew 和 Agne 目前正在参加今年最大的加密盛会 ETH Denver。他们渴望与行业同行建立联系，了解最新的行业趋势。此外，DeGate 还通过提供 DeGate 品牌的自制扑克套装作为礼物，为 Denver 的两个扑克活动做出了贡献。关注 DeGate 的社交媒体，以查看照片！
+
+![](https://lh3.googleusercontent.com/pbF4rax862yksm_aVoeRGURjSTJIOdoYP-mMxQg7FftodanpYxGkNdNC4x0qiMz6faydgaAK9jwBCOGtk2fTJx2jA7OPqcFxXRQ7bNsXvUq6CWMA1pLajhqMEYGK7cGEgTix5xe0oEwleV5QU95Doso)
+
+![](https://lh3.googleusercontent.com/Wx9keZzR8eHeDFhNdAPuG7vUXmoPRRS9QNPgKCIFF8s_fJK7YWqgnQwIPbt1flkGPxvgb9v-kM5vnjLhzed55ehZoMGLUyaXcbqMk9MOgjF-O9c8yrctyu0ttwkFdjLFlhIW1ZlCn67G13Nl_tcbSow)
+
+DeGate 正在寻找贡献者！
+---------------
+
+DeGate 正在寻找有才华的贡献者。
+
+申请加入或推荐优秀的候选人成为我们的项目贡献者！
+
+DeGate 推出了两个赏金计划，用来奖励向我们推荐合适候选人的公众，招聘机构或猎头公司。 简单来说，向我们推荐或介绍候选人，便有机会获得高达 10,000 美元的奖励！
+
+* [DeGate 推荐赏金计划](https://degate.breezy.hr/p/d9ff907a36af-referral-bounty-program)
+* [DeGate 招聘机构赏金计划](https://degate.breezy.hr/p/427d0ad20d85-recruitment-agency-bounty-program)
+我们正在寻找以下职位：
+
+* [区块链应用工程师](https://degate.breezy.hr/p/fcf70bf0965c-blockchain-application-engineer)
+* [产品经理](https://degate.breezy.hr/p/afb50ba2312e-product-manager)
+* [区块链 DevOps 工程师](https://degate.breezy.hr/p/37c54823124d-blockchain-devops-engineer)
+* [社区经理](https://degate.breezy.hr/p/03d3e4dc4e67-community-manager-chinese)
+* [高级设计师（UX）](https://degate.breezy.hr/p/9cee3369a017-senior-designer)
+* [ZK 研究员](https://degate.breezy.hr/p/21c51e00f2e5-zk-researcher)
+你还可以定期查看[此链接](https://degate.breezy.hr/)以获取最新的职位列表！
+
+了解更多关于 DeGate:
+--------------
+
+DeGate 是一个基于 Zero-Knowledge 技术构建的以太坊上订单簿 DEX，以 DAO 的形式运行。 DeGate 提供了在 DEX 上使用限价单进行现货交易的可能性。 此外，DeGate 还提供网格交易功能。
+
+DeGate 专注于用户体验，建立在无需信任或“无法作恶”的原则之上，协议没有管理权限。
+
+您可以期待由 DeGate 首创的 Efficient Gas Saving（EGS）技术带来的超低 Gas 费。该项创新可以在确保显著节省 gas 的同时保持去中心化协议。
+
+DeGate 还支持无需许可的上币功能，这意味着任何代币都可以通过开放的上币机制以无需许可的方式进行上架。
+
+链接
+--
+
+[Website](https://degate.com/) | [Twitter](https://twitter.com/DeGateDex) | [Discord](https://discord.com/invite/RFVDKGemJb) | [Telegram](https://t.me/degate_public) | [Forum](https://forum.degate.com/) | [YouTube](https://www.youtube.com/channel/UCRAL9U4dtZHSfUOosHUyafg) | [Join](https://degate.breezy.hr/)
+

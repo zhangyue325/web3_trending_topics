@@ -1,0 +1,86 @@
+PFP（头像类 NFT）是 NFT 最早的用例之一，旨在用作在线身份的个人资料图片。但除了审美吸引力之外，是什么推动了他们的成功？下面是一些案例研究。
+
+在以太坊上的各种 NFT 类别中，PFP 占 NFT 总市值的 70%，生成艺术以 13.5% 位居第二，虚拟土地以 8% 位居第三。
+
+但是，是什么推动了 PFP 的流行？
+
+![](https://img.foresightnews.pro/202303/5-1678237074224.png?x-oss-process=style/scale70)
+
+*图：不同类型 NFT 的市值规模*
+
+仅仅新闻和公告就会激起人们兴奋的情绪，并会导致地板价上涨。这吸引了交易者和收藏家的注意。
+
+早在 2021 年 4 月，BAYC 推出的一波新的 PFP 系列就大获成功，此后就陆陆续续有新项目试图模仿他们的成功。
+
+![](https://img.foresightnews.pro/202303/5-1678237088775.png?x-oss-process=style/scale70)
+
+*图：BAYC NFT 生态*
+
+BAYC 在 PFP 生态中的主导地位引人注目，其市值是与其实力相当的竞争对手总和的四倍多。这一成功可以归因于几个因素，包括其社区建设的实力。
+
+![](https://img.foresightnews.pro/202303/5-1678237108178.png?x-oss-process=style/scale70)
+
+*图：市值排名前五的 PFP 项目生态*
+
+此外，他们能够获得 Justin Bieber（歌手）、Steve Aoki（演员）、Stephen Curry（NBA 球星）等名人的关注，这无疑有助于他们提高普通受众的参与度和了解。
+
+然而，价格的合理性最终必须由投机之外的基本驱动因素来证明。BAYC 认识到了这一点，并积极主动地从竞争中脱颖而出。因此，他们在去年第一季度推出了 $APE 和 Otherside——太棒了！
+
+随后，各种 PFP 项目开始创建独特的生态，希望同样从竞争中脱颖而出。此外，顶尖的 PFP 团队吸引了来自著名 VC（Azuki 除外）的强大资金和支持。
+
+说到 Azuki，他们设法建立了一个以社区为中心的清晰生态，而 Hilumia 的推出很可能将所有这些串联在一起。
+
+![](https://img.foresightnews.pro/202303/5-1678237122351.png?x-oss-process=style/scale70)
+
+*图：Azuki 的 NFT 生态*
+
+在我看来，Hilumia 很可能是一个带有游戏元素的虚拟中心。它还将以高度可视化的方式展示团队正在与社区一起构建的内容。
+
+此外，该团队已经展示了其致力于建立一个具有充满活力的社区的 NFT 生态。
+
+未来很可能是团队继续专注于扩展其 IP 以及如何让他们的社区参与进来，共同创造新内容，以及开启更高层次的视觉叙事的未来。
+
+再到 RTFKT，去年他们专注于多个空投，每次空投都对标完全不同的应用，以此来支撑他们的叙事。
+
+今年的关键可能是 Animus，它将把所有事情联系在一起，并解锁他们传说的下一个阶段。
+
+![](https://img.foresightnews.pro/202303/5-1678237138251.png?x-oss-process=style/scale70)
+
+*图：Clone X 的 NFT 生态*
+
+在概述了他们的元宇宙扩展计划后，分三个阶段推出：The Warning (RTFKT x Rimowa)、The Signal (Eggperience) 和 The Exodus (MNLTH Quest 2)。
+
+很明显，该团队的目标是互动式讲故事，并暗示年底也将举办一场重要的线下活动。
+
+2023 年，我们很可能会看到 RTFKT 团队继续他们扩展 Clone X IP 的计划，而 Animus 是他们今年的王牌。目前没有透露太多，但我对此感到非常兴奋——尽管围绕 Clone X 的存在一些 FUD。
+
+还应该更多地利用 Nike 强大的品牌效应，看看如何与 .SWOOSH ID 结合，因为有人笑称 .SWOOSH 版本是 Nike 许可的数字可穿戴设备，可以在 Clone X 上佩戴。
+
+![](https://img.foresightnews.pro/202303/5-1678237154043.png?x-oss-process=style/scale70)
+
+Doodles 也刚刚发布了他们的 DoodleMap，这清楚地展示了他们成为娱乐和生活方式大品牌的意图，一个超越 Web3 并将渗透到主流意识中的品牌。
+
+![](https://img.foresightnews.pro/202303/5-1678237165241.png?x-oss-process=style/scale70)
+
+*图：Doodles 的 NFT 生态*
+
+@jholguin 担任 CEO，@Pharrell 领导 Doodles Music，并正在收购动画工作室 Golden Wolf，我非常好奇他们将走向何方。
+
+该团队专注于向主流受众扩展，将从 Doodles 2 开始。
+
+Doodles 通过在 Flow 区块链上推出 Doodles 2 可穿戴设备并在 Flow 的 Gaia 市场上解锁可穿戴设备，拉开了这一年的序幕。通过这一举措，Doodles 正式迈向多链。Flow 区块链因其无需 gas 的交易和潜在的可组合能力而被选中。
+
+2023 年可能是 Doodles 继续扩展到各种垂直娱乐领域的一年，包括游戏、音乐、动画等，其目标是创造一种文化热潮，从而带来对 Doodles 2 系列的需求——而 Doodles 2 正是为此而设计的。
+
+线下体验仍然是 Doodles 的优势，因为它既具有包容性又具有排他性，并允许该项目同时建立品牌知名度并为持有者创造价值。
+
+PFP 项目的成功将不仅仅只是空投和其他财务激励。需要通过讲故事和其他独特的价值主张与品牌建立情感联系和参与度。
+
+用户留存很重要，但如何获得新受众和建立新的收入来源也同样重要。
+
+这些项目在 Web3 中建立了强大的社区，并正在为其有趣的未来路线图建立势头，并且肯定会令人兴奋。
+
+2023 年将是关键的一年，因为他们正视图跳出 Web3 圈层，外出冒险。向主流受众扩展确实是一个未知领域。尽管未来充满不确定性，但没有风险就没有回报。希望情况最终对他们有利。
+
+更多深度内容请参阅完整报告《I[nside the Leading PFP Ecosystems](https://members.delphidigital.io/reports/inside-the-leading-pfp-ecosystems#closing-thoughts)》。
+

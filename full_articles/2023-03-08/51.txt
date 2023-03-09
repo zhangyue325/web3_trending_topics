@@ -1,0 +1,156 @@
+近期 Scroll 宣布完成 5000 万美元的新一轮融资，Polychain Capital、Sequoia China（红杉中国）、Bain Capital Crypto、Moore Capital Management、Variant Fund、Newman Capital、IOSG Ventures、Qiming Venture Partners 参投。本轮融资使 Scroll 的融资总额达到 8300 万美元。
+
+本轮融资使 Scroll 的估值达到 18 亿美元。Scroll 此前在两轮融资中筹集了 3300 万美元。可谓不与四大天王并驾齐驱的第五大天王项目。
+
+目前，Scroll zkEVM 已经推出了一个 alpha 测试网。这是一个二层网络，与 EVM（Ethereum 虚拟机）兼容。
+
+下面开始我们的测试：
+
+1) 领水（领取 Goerli ETH）。传送门：[goerlifaucet.com](http://goerlifaucet.com)
+
+其他领取渠道：
+
+<https://alpha.ens.domains/><https://faucet.goerli.mudit.blog/><https://goerlifaucet.com/><https://goerli-faucet.slock.it/><https://faucets.chain.link/goerli><https://app.mycrypto.com/faucet><https://faucet.paradigm.xyz>
+
+![](https://img.foresightnews.pro/202303/92908ec7b5ea5e02fd67ecf673d5fac9.png?x-oss-process=style/scale70)
+
+2) 这里我们用 OKX Wallet 做测试，安装链接：
+
+<https://chrome.google.com/webstore/detail/okx-wallet/mcohilncbfahbmgdjkbpemcciiolgcge>
+
+3) 进入[chainlist.org/](http://chainlist.org/)，连接 Okx Wallet，输入 scroll，√上 Inclde Testnets。在 Scroll Alpha Testnet 点击添加网络。
+
+![](https://img.foresightnews.pro/202303/8744ef17289f37b268ccc80134351d8d.png?x-oss-process=style/scale70)
+
+4）领完水后我们。从 Goerli 桥接 ETH 到 Scroll L2。传送门：[scroll.io/alpha](http://scroll.io/alpha)。
+
+![](https://img.foresightnews.pro/202303/fe01b3f999726c66841bba48e0e1756f.png?x-oss-process=style/scale70)
+
+5）把 GoerliETH 转移到在 Scroll L2 测试网上的地址
+
+![](https://img.foresightnews.pro/202303/8dfff13ad3c456504fcca324fb0a384e.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/d1d46174f83a9fbd4a7fe1a0fb98a076.png?x-oss-process=style/scale70)
+
+6）领取 Scroll Alpha Test USDC Faucet，传送门：[scroll-usdc-faucet.vercel.app](https://scroll-usdc-faucet.vercel.app/)
+
+![](https://img.foresightnews.pro/202303/18b58bc6a526d02287f345b03bb179ad.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/44adef2000d9c53fae5e6649195b182d.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/3d4823b3767cb66fceac5c928b42b87f.png?x-oss-process=style/scale70)
+
+7）以上步骤若领不到 USDC，我们点击下面的 USDC/WETH 交易对，跳转到 UNIV3
+
+![](https://img.foresightnews.pro/202303/563dab66793ee2900c6671168c353ddb.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/110d45906136bc1559812061941508e0.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/728aa85c16ae4ecb4315587d754ad142.png?x-oss-process=style/scale70)
+
+8）用 ETH 兑换 USDC
+
+![](https://img.foresightnews.pro/202303/b42a4ee58c2287ff0398ba583352ece2.png?x-oss-process=style/scale70)
+
+9）添加流动性
+
+![](https://img.foresightnews.pro/202303/3a056bce81481d368bc30a16755f7811.png?x-oss-process=style/scale70)
+
+9.1 选择好数量批准授权
+
+![](https://img.foresightnews.pro/202303/0f7a705dec2e6cba6f2f203be9ab4e69.png?x-oss-process=style/scale70)
+
+9.2OKX Wallet 授权
+
+![](https://img.foresightnews.pro/202303/f4c0ff132fa8dd38b2177807aa094825.png?x-oss-process=style/scale70)
+
+9.3 再次点击预览
+
+![](https://img.foresightnews.pro/202303/c38ecdfbaef417e9f66083fd9affa571.png?x-oss-process=style/scale70)
+
+9.4 点击添加
+
+![](https://img.foresightnews.pro/202303/9f8fbbef87df4c8b9f0255df3e29c3e0.png?x-oss-process=style/scale70)
+
+9.5OKX Wallet 钱包再次确认即可
+
+![](https://img.foresightnews.pro/202303/f0082deecfb2e61185ac59fe7669aeec.png?x-oss-process=style/scale70)
+
+9.6 添加成功
+
+![](https://img.foresightnews.pro/202303/16a42dc6991714a0870623507b17588e.png?x-oss-process=style/scale70)
+
+10）去除流动性
+
+![](https://img.foresightnews.pro/202303/15be152c7ed911fd67aea74c852ea65b.png?x-oss-process=style/scale70)
+
+10.1 选择去除比例
+
+![](https://img.foresightnews.pro/202303/b7d7068944f9bd3de5471096cb49e3e4.png?x-oss-process=style/scale70)
+
+10.2 钱包授权确认即可
+
+![](https://img.foresightnews.pro/202303/7efe4ae60e6105daeb2b0b817641e5d0.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/2a3c66fb8840d417ae08efd5ebb227ac.png?x-oss-process=style/scale70)
+
+11）Bufficorn Battle - 主演 ETHDenver 的吉祥物 Bufficorn 并杀死 Boss。攻击，治疗，让我们一起把他打倒！传送门：[bufficorn-battle.vercel.app](https://bufficorn-battle.vercel.app/)
+
+![](https://img.foresightnews.pro/202303/b242539e691edacf1660fe98a3aa649a.png?x-oss-process=style/scale70)
+
+11.1 链接钱包
+
+![](https://img.foresightnews.pro/202303/922f44075176011e5adbc3ad446a7eb4.png?x-oss-process=style/scale70)
+
+11.2 选择一个牛头，钱包确认即可
+
+![](https://img.foresightnews.pro/202303/446901f1e6ddefc5763bb6127f31127d.png?x-oss-process=style/scale70)
+
+11.3
+
+![](https://img.foresightnews.pro/202303/9219c1933f112b174082c70be30076cd.png?x-oss-process=style/scale70)
+
+12）其他游戏大家可以去体验下。
+
+* 链上多人井字游戏——拉上好朋友，在滚动上玩经典的竞技游戏！
+<https://onchain-tictactoe.vercel.app/>由 gaurangtorvekar 建立
+
+* Scroll Chat - 一个使用 OpenAI 的 API 的聊天机器人，回答关于 Scroll 的文档、博客文章等问题。
+<https://scroll-chat-frontend.vercel.app/>由 eternis\_xyz 建立
+
+* Scroll Kingdoms - 一个角色表演的奇幻赌注游戏
+<https://scroll-237a2.web.app/>由 kyle\_corsola 建立
+
+* 上俄罗斯方块–历史上最经典的游戏，现在在 Scroll 上了之前在我们的 pre-alpha 测试网，但很快就会进入 alpha。
+<https://github.com/gfcenter/tetris>，由@zkdao\_official 游戏团组打造。
+
+13）最后从 Scroll Alpha 跨链到 Goerli 网络
+
+![](https://img.foresightnews.pro/202303/4496d0a543bd42aa76bc884ce2a086b1.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/502eb42cf8f6f03c2d85d6b30068d034.png?x-oss-process=style/scale70)
+
+14）scroll 生态：[ethdenver.scroll.systems](https://ethdenver.scroll.systems/) .有兴趣的可以自行研究下
+
+![](https://img.foresightnews.pro/202303/0a64400c2eab762a569a07b921e95e51.png?x-oss-process=style/scale70)
+
+最后测试完别忘记加入官方公会：[guild.xyz/scrollzkp](https://guild.xyz/scrollzkp)
+
+以上为 Scroll Alpha 测试网测试步骤，更多其他有趣操作，自己可以去研究下。后期有什么好玩的会及时更新分享。
+
+
+
+---
+
+👤 Linker: <https://linktr.ee/ZFlab>
+
+🐦 Twitter: <https://twitter.com/ZF_lab>
+
+🚀 Lenster:<https://lenster.xyz/u/zf_lab>
+
+👾 Discord: <https://discord.gg/Gy5RhbMyCW>
+
+💬 Telegram Group: <https://t.me/cryptozflab>
+
+🪞 Subscribe to us on Mirror & Collet Entry: <https://mirror.xyz/zflab.eth>
+

@@ -1,0 +1,261 @@
+Gear/ **Wiki**
+
+![](https://img.foresightnews.pro/202303/2662308b0307250f81e470078e3ebc7b.jpeg?x-oss-process=style/scale70)
+
+  
+  
+
+
+**导语**
+
+我们在本篇文章中介绍了 20 种节点常见的问题及 5 种运行节点过程中常见的错误，希望能帮助你更好的运行 Gear 节点。
+
+节点常见问题
+
+##### 1. 现在可以运行节点吗？
+
+当然可以，这篇文章中就如何在 MacOS、Linux 和 Windows 系统中设置和运行 Gear 节点进行了说明，你可以根据指示操作。https://wiki.gear-tech.io/zh-cn/node/setting-up
+
+##### 2. Gear 节点对硬件有什么要求？
+
+除了连接到测试网或在开发网模式下运行 Gear 节点的 SSD，没有特殊的硬件要求。对于生产网络中的节点，将会有额外的硬件要求。
+
+##### 3. 运行节点有奖励吗？
+
+在生产网络中运行一个节点将得到相应奖励。在测试网中运行节点没有常规奖励，但参与社区活动会得到部分奖励。请继续关注最新资讯。
+
+##### 4. 现在可以运行 collator/validator 吗？
+
+目前不能。请继续关注最新资讯。
+
+##### 5. 如果节点在节点监控器中显示并同步区块，一切运行正常吗？
+
+是的，节点运行正常。
+
+##### 6. 运行节点后需要做什么？
+
+目前只需运行节点，请关注后续更新。
+
+##### 7. 如何使节点在后台工作？
+
+解决方案是将 Gear 节点配置为一个服务：https://wiki.gear-tech.io/zh-cn/node/node-as-service/
+
+##### 8. 遇到以下问题该如何解决？
+
+`IO error: While lock file <path>: Resource temporarily unavailable`
+
+你似乎正在运行几个 Gear 节点实例。你很可能把节点配置为一个服务，然后从命令行运行了第二个实例。你应该停止配置服务或者停止从命令行运行 Gear 节点。
+
+##### 9. 所使用的云主机供应商称该节点滥用他们的网络。
+
+你可以在运行节点时添加`--no-private-ipv4`参数来解决这一问题。 如果由于某些原因，该参数不能解决你的问题，那么你可以禁止出站流量：
+
+
+```
+10.0.0.0/8  
+172.16.0.0/12  
+192.168.0.0/16  
+100.64.0.0/10  
+169.254.0.0/16  
+
+```
+例如，你可以使用这个手册进行操作：https://community.hetzner.com/tutorials/block-outgoing-traffic-to-private-networks
+
+##### 10. 将节点配置为服务后应该怎样更新节点？
+
+你只需要把节点的可执行文件（`gear`）替换成最新版本，然后重新执行。例如，如果你的 Linux 可执行文件位于`/usr/bin`，你将运行：
+
+
+```
+wget https://get.gear.rs/gear-nightly-linux-x86_64.tar.xz  
+sudo tar -xvf gear-nightly-linux-x86_64.tar.xz -C /usr/bin  
+rm gear-nightly-linux-x86_64.tar.xz  
+sudo systemctl restart gear-node  
+
+```
+##### 11. 节点在某个区块编号后停止增加区块高度。
+
+你需要将节点的二进制文件更新到最新版本。
+
+##### 12. 如果默认的端口号已经被其他软件使用，如何改变端口号？
+
+请在运行节点时使用其支持的 flag。
+
+
+```
+--port <PORT>  
+    Specify p2p protocol TCP port  
+  
+--prometheus-port <PORT>  
+    Specify Prometheus exporter TCP Port  
+  
+--rpc-port <PORT>  
+    Specify HTTP RPC server TCP port  
+  
+--ws-port <PORT>  
+    Specify WebSockets RPC server TCP port  
+
+```
+##### 13. 遇到以下问题该如何解决？
+
+`Verification failed for block <block-id> received from peer <peer-id>`
+
+请将节点二进制文件更新到最新版本。
+
+##### 14. 如何查看 Gear 节点服务日志？
+
+
+```
+sudo journalctl -n 100 -f -u gear-node  
+
+```
+##### 15. "runtime requires function imports which are not present on the host" 遇到以上问题该如何解决？
+
+请将节点二进制文件更新到最新版本。
+
+##### 16. 节点的同步时间是多少？
+
+完整的节点同步时间可以用日志中的信息来计算： `syncing_time (secs) = (target_block - finalized_block) / bps` 例如：
+
+
+```
+Log record -> `Syncing 143.1 bps, target=#3313788 ... finalized #3223552`  
+syncing_time = (3313788 - 3223552) / 143.1 = 630 secs (10.5 mins)  
+
+```
+##### 17. 节点同步时，是否可以在节点监控器中观察到该节点？
+
+是的，你可以在节点监控器中看到该节点 —— https://telemetry.gear-tech.io。在区块高度完成更新前，该节点呈灰色。##### 18. 在启动节点服务时，遇到了该问题 "error: Found argument '' which wasn't expected, or isn't valid in this context" 请问如何解决？
+
+`gear-node.service` 配置文件似乎配置不当。请参考 - https://wiki.gear-tech.io/zh-cn/node/node-as-service/，将节点正确配置为一个服务。
+
+##### 19. 需要将钱包连接节点吗？
+
+目前无需进行该操作。
+
+##### 20. 是否有任何命令用以检查节点的最新更新？
+
+没有这样的命令。
+
+##### `21. Failed to start gear-node.service: Unit gear-node.service is masked.` 遇到以上问题该如何解决？
+
+请查看 —— https://askubuntu.com/questions/1017311/what-is-a-masked-service
+
+  
+
+
+常见错误
+----
+
+这里介绍了常见的错误和解决方案。
+
+##### 1. LOCK 文件不可用
+
+错误： `IO 错误：While lock file /root/.local/share/gear/chains/gear_staging_testnet_v6/db/full/LOCK: Resource temporarily unavailable`
+
+解决方式： 你似乎在运行几个 Gear 节点实例。注意，只允许运行一个节点实例。你很可能把节点配置为一个服务，然后从命令行运行第二个实例。你应该停止该服务，或者不要从命令行运行 Gear 节点。
+
+你可以通过运行命令查看当前的节点进程：
+
+
+```
+ps aux | grep gear  
+
+```
+如果你想停止所有的节点进程，可以运行：
+
+
+```
+pkill -sigint gear  
+
+```
+注意，SystemD 服务不能通过上述命令停止。改为运行：
+
+
+```
+sudo systemctl stop gear-node  
+
+```
+##### 2. 启动节点服务时出现意外参数
+
+错误： `Found argument '\' which wasn't expected, or isn't valid in this context`
+
+解决方式： `gear-node.service` 配置文件似乎有错误。某些版本的 SystemD 不接受反斜线字符 (`\`) 作为分行符。因此，最好将每个配置项写在一行。
+
+请参考 https://wiki.gear-tech.io/node/node-as-service，将节点正确配置为服务。
+
+不要忘记在修复服务配置后重新启动节点：
+
+
+```
+sudo systemctl daemon-reload  
+sudo systemctl restart gear-node  
+
+```
+##### 3. 损坏的数据库
+
+错误： `Database version cannot be read from existing db_version file`
+
+替代错误： `Invalid argument: Column families not opened: ..., col2, col1, col0`
+
+解决方式： 这个问题的根源是磁盘空间不足。你可以用以下命令检查可用空间。
+
+
+```
+df -h  
+
+```
+此外，你可以检查区块链数据库使用了多少空间。
+
+
+```
+du -h $HOME/.local/share/gear/chains/gear_staging_testnet_v6/db/full  
+
+```
+请参考 系统要求，查看所需的最小磁盘空间。
+
+你需要释放更多的空间，然后裁剪链：
+
+
+```
+sudo systemctl stop gear-node  
+# Provide more free space on the disk  
+gear purge-chain  
+sudo systemctl start gear-node  
+
+```
+##### 4. 节点可执行文件过期
+
+错误： `Verification failed for block <block-id> received from peer <peer-id>`
+
+替代错误： `runtime requires function imports which are not present on the host`
+
+解决方式： 更新 node 到最新版本。
+
+##### 5. 服务被锁定
+
+错误： `Failed to start gear-node.service: Unit gear-node.service is masked.`
+
+解决方式： 请检查此链接：https://askubuntu.com/questions/1017311/what-is-a-masked-service
+
+**历史文章**  
+
+
+[Gear 合约大揭秘](http://mp.weixin.qq.com/s?__biz=Mzg2MTcxNzMwOA==&mid=2247484062&idx=1&sn=f12cd17729f5b02839098f12d1680cef&chksm=ce1394cdf9641ddb6fbdefd762cf81732233a6e88c8d475ec1faf4e4c877d3e92e383483e8b8&scene=21#wechat_redirect)
+
+[如何使用 gear-js SDK](http://mp.weixin.qq.com/s?__biz=Mzg2MTcxNzMwOA==&mid=2247484049&idx=1&sn=452c5cc28840d04ac7d6aa489933e306&chksm=ce1394c2f9641dd444fc26829d146d56e71ea011f638a4dc503cc6fa0cf31a613252433d4a26&scene=21#wechat_redirect)
+
+[如何部署 Gear 合约？](http://mp.weixin.qq.com/s?__biz=Mzg2MTcxNzMwOA==&mid=2247483944&idx=1&sn=2fcc4ebf3a2a002360f9dc82f11c8ad2&chksm=ce13947bf9641d6d90a141b40caea1bf0e61683222183ff1f22439d4918e6cdd01658454601a&scene=21#wechat_redirect)
+
+[Gear Technologies 完成 1200 万美元融资](http://mp.weixin.qq.com/s?__biz=Mzg2MTcxNzMwOA==&mid=2247483838&idx=1&sn=65eba36f352bedb942003444c085735c&chksm=ce1397edf9641efbc2a7ee157767e6f73171424857db5c055587f872606413b5d09de1a5b55a&scene=21#wechat_redirect)
+
+[Gear 的技术优势](http://mp.weixin.qq.com/s?__biz=Mzg2MTcxNzMwOA==&mid=2247483687&idx=1&sn=c34d21fbaafdcc046fc1b3d12a6026e6&chksm=ce139774f9641e62b52dec5783956b4ca1b6c069accce0ff7841d0df225ec12e37eaadd60265&scene=21#wechat_redirect)
+
+**关于 GearFans**
+
+Gear 是波卡生态的计算组件，GearFans 是 Gear 爱好者社区。
+
+  
+
+
+官网：https://gear-tech.io/Twitter：https://twitter.com/gear\_techs中文 Twitter：https://twitter.com/gear\_fans Vara Twitter：https://twitter.com/VaraNetworkVara Twitter CN：https://twitter.com/VaraNetwork\_CNGitHub：https://github.com/gear-techDiscord：https://discord.com/invite/7BQznC9uD9Telegram 中文群：https://t.me/Gear\_CNVara Telegram CN：https://t.me/varanetwork\_cnQQ 群：67770333

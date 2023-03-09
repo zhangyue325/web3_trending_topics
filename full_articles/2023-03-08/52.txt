@@ -1,0 +1,286 @@
+![](https://img.foresightnews.pro/202303/1472f7a0d95f35e2fcdab220fe98a9e7.png?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/d56a17b99c4e46b3761237f443214f59.png?x-oss-process=style/scale70)**IoTeX 主办的首届 R3AL WORLD 峰会在 ETHDevener 期间举行**
+
+首届 R3AL WORLD 峰会 (R3alworld.com) 在以太坊年度盛会 EthDenver 期间（3 月 3 日）举行。活动由 IoTeX 主办，SamsungNext 等 30 多位投资人和项目创始人出席演讲，是聚焦 DePIN( 去中心化物理设施网络 ) 和 MachienFi 领域的首次项目展示峰会。
+
+  
+
+
+R3AL WORLD 峰会现场展示了 DePIN 最具潜力的赛道和头部项目，是 IoTeX 及其开发的链下计算基础设施 W3bstream 赋能和合作的生态项目的线下首次展示。
+
+  
+
+
+*访问以下网站了解更多活动和报名信息：**https://r3alworld.com*
+
+![](https://img.foresightnews.pro/202303/e19ab59d80bc6df1a911bd729a88667b.jpeg?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/2ef100228b06975eca699a962ea96b11.png?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/c295378d881deb6b32fcb8018b1921f7.png?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/7b676b22b31e72630d18674ed15b35a8.png?x-oss-process=style/scale70)  
+  
+
+
+**I. 炉边对话**
+
+IoTeX 创始人 Raullen 的炉边对话聚焦 DePIN 创新项目、投资者观点、真实世界资产 (RWA) 等话题，吸引了大量互动观众。
+
+![](https://img.foresightnews.pro/202303/ace06f1982fe28cb732fdce87e0e8a6c.png?x-oss-process=style/scale70)  
+
+
+**II. 圆桌讨论：**
+
+**1. 创始人圆桌讨论：DePIN 在真实世界的应用落地**
+
+IoTeX, DIMO, Hivemapper, XNET 的创始人共同讨论 Web3 项目在真实世界的大规模应用落地。
+
+主持人：Cointelegraph 主编 Rudy
+
+![](https://img.foresightnews.pro/202303/f6367a7eae77d6b7d51e7bbd5ff8ce01.png?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/d84ae316d4e51c8fc3ac34870eac93f3.png?x-oss-process=style/scale70)**2. “真实世界资产通证化”圆桌讨论**  
+
+
+来自 Chainlink, BitGo, Centrifuge, IOSG 的专家们共同讨论真实世界资产在 Web3 世界通证化的现状和未来发展趋势。
+
+主持人：IoTeX 商务负责人 Larry Pang
+
+![](https://img.foresightnews.pro/202303/e129917a4ba4b4bc95b733ace52a945a.png?x-oss-process=style/scale70)**3. 投资人圆桌讨论：真实世界 /Web3 相结合**  
+
+
+来自 Coinbase, Samsung Next, Escape Velocity, Jump\_等投资机构的顶级投资人独家讨论真实世界与 Web3 世界相结合的未来与机遇。
+
+![](https://img.foresightnews.pro/202303/1a443e4829335c0655570ada24d1631a.png?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/95ac00c10415fd05e1a4f902eb01bdbf.png?x-oss-process=style/scale70)**4. “DePIN 网络的基础设施、社区和治理模型”圆桌讨论**  
+
+
+来自 FutureMoney Group, Noble Networks, Arkreen Network, Hotspotty 的管理者共同讨论 DePIN 网络的基础设施、社区和治理模型。
+
+主持人：IoTeX 联合创始人 Jing
+
+![](https://img.foresightnews.pro/202303/8fc1e30ac98c2a1bc8d34f7057761406.png?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/1a374bcd344ae343542134aa289a4a09.png?x-oss-process=style/scale70)**IV. DePIN 项目展示（部分介绍）**
+
+**1. DIMO**  
+
+
+DIMO 团队正式发布最新款展示车，演示如何将车辆状态和性能数据通过特定的应用程序连接到 Web3 世界。
+
+DIMO Network 可以将用户汽车产生的数据连接到 Web3 Dapp，用来赚取奖励、节省保养费用等。
+
+![](https://img.foresightnews.pro/202303/35a4345947303e20f782038c77698990.png?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/b6ea72b8b340a7c02f666778ba81e0e3.png?x-oss-process=style/scale70)**2. HealthBlocks**  
+
+
+HealthBlocks 团队正式发布最新版 app，HealthBlocks 的用户可以通过完成基于步数、睡眠、HRV 等方面的健康挑战来获得通证奖励。
+
+HealthBlocks 使用 W3bstream 技术激励用户养成健康的生活习惯。
+
+![](https://img.foresightnews.pro/202303/a4c146b5f1b5d42822e5a53acf956f83.png?x-oss-process=style/scale70)**3. Perkable**  
+
+
+Perkable 使用由 W3bstream 赋能的实时地理位置数据，帮助用户获取所有本地实时优惠和福利。
+
+![](https://img.foresightnews.pro/202303/315beb34363b4ea205d072ca96e1e3f8.png?x-oss-process=style/scale70)**4. SmartPoint.io**  
+
+
+SmartPoint.io 正在城市街头布局与真实世界相连接的智能设备。SmartPoint.io 旗下由区块链赋能的城市广告牌是 R3alWorld 峰会上展示的众多创新之一。
+
+![](https://img.foresightnews.pro/202303/741e233950e411d264ed002ef252beba.png?x-oss-process=style/scale70)  
+**5. Nesten**  
+
+
+Nesten 在峰会上介绍如何通过构建社区赋能的去中心化无线网络，保障数据安全性，并将数据所有权还给用户。Nesten 为行业内大数据安全性提供了一个全新的解决方案。
+
+![](https://img.foresightnews.pro/202303/4ff0016ea33b49353dc359055a33966c.png?x-oss-process=style/scale70)**6. GEONET**  
+
+
+国际地球观测网络 GEODNET 在峰会上展示如何通过全球定位卫星收集高精度实时位置数据，并为 Web3 生态系统提供相应位置证明。
+
+![](https://img.foresightnews.pro/202303/8f5c73d92214eb480671dcbaf62a780c.png?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/4a31f4195f6010aa3d26320b91c67f03.png?x-oss-process=style/scale70)**7. CALDANCE**
+
+CALDANCE 在峰会上展示如何在 Web3 赋能的健身器材上健身并获得通证奖励。
+
+![](https://img.foresightnews.pro/202303/02653af48e2f327e5bc3fcf5ed3d0f0f.png?x-oss-process=style/scale70)**8. WeatherFlow-Tempest°**  
+
+
+Tempest°在峰会上展示如何通过众包数据和由 AI 驱动的数据模型提供精准预判的天气信息，让与会者亲身体验与 Web3 相连的气候监测基础设施。
+
+![](https://img.foresightnews.pro/202303/9c2481669a06de0c94d6b7220f0bb9ff.png?x-oss-process=style/scale70)**9. FOAM**  
+
+
+FOAM 使用基于时间同步的无线电实现位置证明和去中心化位置服务，不依赖于 GPS 等中心化的位置服务。FOAM 在峰会上展示由 Web3 技术赋能的地理定位服务。
+
+![](https://img.foresightnews.pro/202303/811d9135d004e52ae154abec46d3ad15.png?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/bac8f63f23538c4532c5ff15b85c0fa0.jpeg?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/3b49c2f38529048b1864b52ab1a5a2c0.png?x-oss-process=style/scale70)  
+
+
+**主网和项目进展**
+
+**2 月 28 日 IEEE 认证 Xinxin Fan 博士为高级会员**
+
+全球最大专业技术组织电气与电子工程师协会 IEEE 认证 IoTeX 密码学负责人 Xinxin Fan 博士为 IEEE 高级会员。
+
+  
+
+
+范博士与 Bosch, Philips, Lenovo 等跨国企业一起领导、制定了 IEEE“事物身份”P2958 去中心化身份标准。
+
+  
+
+
+详情请点击：*https://bit.ly/3IYTZQT*
+
+![](https://img.foresightnews.pro/202303/31a8b5d24879d3e74dc21e77cd32c8b9.png?x-oss-process=style/scale70)
+
+**2 月 18 日 W3bstream 第一个稳定版本 v1.0.0 正式上线**  
+
+
+W3bstream 第一个稳定版本 v1.0.0 正式上线。W3bstream 通过 WASM 虚拟机和可定制程序来实现将真实世界数据引入流计算。跨多个 L1 链 （如 IoTeX 网络）的 dApp 可以无缝调用由此产生的证明。开发者测试版本即将上线。
+
+  
+
+
+W3bstream 是 MachineFi 的核心基础设施，是一个连接线下智能设备和线上智能合约的去中心化开源协议，致力于将智能设备中的真实数据转换为可验证的、适用于 dApp 的可信证明。
+
+![](https://img.foresightnews.pro/202303/14d718af743098968f763b0a1651ceb9.png?x-oss-process=style/scale70)
+
+**链上生态项目和合作伙伴进展**
+
+  
+
+
+**2 月 28 日 IoTeX 链上实时激活设备数达 17999 台**
+
+截至今日，IoTeX 链上实时激活设备数达 17999 台，分布全球 71 个国家，共销毁 2.84 亿个 IOTX，空投 7937 万个 IOTX 给社区长期支持者 ( 开启自动质押超过 91 天 )。
+
+  
+
+
+IoTeX 于 2020 年 11 月 3 日上线”Burndrop 烧投计划”，每台由 IoTeX 区块链赋能的智能设备都将触发销毁和空投 IOTX，总共将销毁 9 亿和空投 1 亿 IOTX 给社区长期支持者。
+
+  
+
+
+IoTeX 链上实时数据检测：*iott.network*
+
+![](https://img.foresightnews.pro/202303/79dc63cd05ff9e5d74b28ac1e16d856e.png?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/d56a17b99c4e46b3761237f443214f59.png?x-oss-process=style/scale70)  
+
+
+**2 月 24 日 最新社区提案提议赋予质押中的 IOTX 质押桶 NFT 属性**
+
+最新社区提案 IIP-13 提议赋能质押中的 IOTX 质押桶 NFT 属性。该提案可以加速流动性质押和其他 DeFi 创新，同时提高网络质押率和安全性。
+
+  
+
+
+*最新社区提案讨论：**http://bit.ly/3SpCrjU*
+
+![](https://img.foresightnews.pro/202303/abe8668b2efafdd5d16754a6035433cd.png?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/d56a17b99c4e46b3761237f443214f59.png?x-oss-process=style/scale70)  
+
+
+**2 月 16 日 Perkable 通过 W3bstream 为品牌提升用户忠诚度，开启早期使用测试**  
+
+
+Web3 初创公司 Perkable 通过由 IoTeX 赋能的 Web3 技术提升 Web2 品牌的用户忠诚度。Perkable 使用 W3bstream 鼓励用户标记、上传真实世界地理位置，以获得来自自己喜爱品牌的通证奖励。
+
+  
+
+
+现项目处于早期使用测试阶段，注册账号参与测试即可领取所在大陆的限量 NFT。
+
+  
+
+
+*测试攻略如下：*
+
+*https://community.iotex.io/t/perkable-x-iotex-claim-your-geo-location-based-continent-nft/10215?u=clairebiasco*
+
+![](https://img.foresightnews.pro/202303/a01ad231c5583e8c88bc3e9403d0433a.png?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/d56a17b99c4e46b3761237f443214f59.png?x-oss-process=style/scale70)  
+
+
+**市场活动和媒体报道**
+
+**2 月 27 日 Jing 受邀参加 ETHDenver2023 Buildhub 圆桌讨论**
+
+IoTeX 联合创始人 Jing 在 ETHDenver2023 上受邀参加 Buidlhub 圆桌讨论，探讨如何无缝连接 Web2 和 Web3 世界。
+
+  
+
+
+*活动详情：**http://bit.ly/3ITRlvH*
+
+![](https://img.foresightnews.pro/202303/beb8f19a3ae5b9766749a743ce4edf5c.png?x-oss-process=style/scale70)  
+
+
+**IoTeX 链上实时数据**
+
+  
+
+
+IoTeX 网络节点数量：88 个
+
+公链交易数量：59,054,125 txn
+
+IOTX 流通总量：9,449,468,389 IOTX
+
+IOTX 质押总量：3,210,813,700 IOTX
+
+IOTX 烧投质押量：1,240,262,704 IOTX（自动质押超过 91 天）
+
+烧投质押桶数量：19167 个
+
+总质押率：33.98%
+
+上链设备数量：17999 个
+
+分布国家：71 个
+
+销毁 IOTX 数量：284,685,938 IOTX
+
+链上交易数据：*https://iotexscan.io*  
+
+
+链上设备实时数据：*https://iott.network/*
+
+烧投实时数据：*https://burndrop.iotex.io/*
+
+IoTeX 生态网页：*https://ecosystem.iotex.io/projects*
+
+  
+
+
+  
+
+
+**关于 IoTeX**
+
+IoTeX 作为硅谷开源项目成立于 2017 年，以链接现实世界和数字世界为愿景，是新一代与以太坊全兼容的高性能公有区块链。IoTeX 致力于将区块链、可信硬件与物理世界数据预言机结合起来，为分布式应用和数字资产提供开放、可信、高效、自治的基础设施，创造全新的机器金融和数据信息市场。
+
+  
+
+
+**联系 IoTeX**
+
+了解更多关于 IoTeX 的信息，或进行项目技术方面的探讨，欢迎随时通过以下渠道与 IoTeX 团队取得联系！
+
+* 官网: https://iotex.io
+* MachineFi 官网：https://machinefi.com/
+* W3bstream 官网：https://w3bstream.com/
+* 链上生态：https://ecosystem.iotex.io/
+* 质押门户网站：https://stake.iotex.io/
+* 开发者门户网站：https://developers.iotex.io/
+* 多链钱包 ioPay：https://iopay.me/
+* 超级跨链桥 ioTube：https://iotube.org/
+* 微信公众号：IoTeX 社区
+* 微博：IoTeX 社区
+* 中文电报群：https://t.me/IoTeXGroupCN
+* 中文推特：https://twitter.com/iotex\_cn
+* Twitter：https://twitter.com/iotex\_io
+* Blog：https://iotex.io/blog
+* Youtube：https://www.youtube.com/channel/UCdj3xY3LCktuamvuFusWOZw
+* Reddit：https://www.reddit.com/r/IoTeX/
+  
+
+
+**推荐阅读**
+
+[***R3AL WORLD 的全新理念：Right Here. Right Now. 此时此刻，就在这里!***](http://mp.weixin.qq.com/s?__biz=MzU0MzY5NjI4OQ==&mid=2247496055&idx=1&sn=d23c79d009bb223182ad2dd886e628fc&chksm=fb05c5b9cc724caf789688a8e598a37f9dd2d4fec1ece911c8e739cc8560472abcf03bdcf6d5&scene=21#wechat_redirect)  
+[***工业元宇宙，最具潜力创造数万亿美元价值的机器经济用例方向***](http://mp.weixin.qq.com/s?__biz=MzU0MzY5NjI4OQ==&mid=2247495919&idx=1&sn=f9b3d33a96a82634e29be780b630c2ff&chksm=fb05c421cc724d375ec28fd452e37182f59ce04048c02cb33dcf3b3b44540367a125397592bc&scene=21#wechat_redirect)  
+
+
+[***W3bstream 白皮书：连接现实世界和 Web3 世界的桥梁***](http://mp.weixin.qq.com/s?__biz=MzU0MzY5NjI4OQ==&mid=2247496056&idx=1&sn=47c996192b5b4a80bf1770a2bc0c661b&chksm=fb05c5b6cc724ca04d01506717f30bef2329e49cb46c2e57d546b0670955e664920ef64a7bbd&scene=21#wechat_redirect)  
+
+
+![](https://img.foresightnews.pro/202303/86ffae73b57a861b3e5d860367002d21.png?x-oss-process=style/scale70)**喜欢 IoTeX，就点个“在看”**
+
+![](https://img.foresightnews.pro/202303/12d974c71dcd26ec6e05697b73564f58.png?x-oss-process=style/scale70)

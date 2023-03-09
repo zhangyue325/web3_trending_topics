@@ -1,0 +1,286 @@
+**摘要**
+
+成功运营一个 DAO 需要 BUIDLers 的智慧和勇气。了解 DAO 的去中心化结构，实现产品的 MPF，评估社区的健康度等。同时，还需应对 DAO 组织的混乱和失控。
+
+  
+
+
+* Yakers 策展核心点：与有趣的 DAO 社区 BUIDLers 一起探索构建 DAO 的路径。
+* 策展人：DAO 爱好者、 BUIDLers
+* 策展集阅读：
+
+https://daorayaki.org/topic/63fe44b11de27dcc77e67d72
+
+  
+
+
+![](https://img.foresightnews.pro/202303/b942396201a354c7c8b419a3919703f6.png?x-oss-process=style/scale70)  
+
+
+DAOrayaki 策展是 DAOrayaki 社区专注于讨论和策展创意的地方。我们鼓励所有社区成员在这里分享自己的想法、观点及探讨社区中出色的作品和策展历程。
+
+  
+
+
+* 加入新平台开始阅读创作📝：www.daorayaki.org（PC 端）
+* 加入 Discord 开始讨论分享🗣️：https://discord.gg/BFeRN57XGE
+
+  
+
+
+任何问题欢迎微信，discord 垂询
+
+  
+
+
+**精彩观点：**
+
+  
+
+
+**01**
+
+已经确定了三个角色，它们代表了谁将构建下一批 10000 个 DAO? 以及我们为谁构建 DAO?
+
+  
+
+
+——《[谁将构建下一批 10,000 个 DAO？](http://mp.weixin.qq.com/s?__biz=MzkyNDIxMTM4Ng==&mid=2247492201&idx=2&sn=eb794d65a06f191d12d71244b7093f95&chksm=c1dbe3bcf6ac6aaa6c2e4f86104189f4acf8c5b88f3d10e0f63b5ae08900fec7a7d892d897cf&scene=21#wechat_redirect)》
+
+  
+
+
+https://daorayaki.org/post/63e31b783dda0e75d27e5596 
+
+**02**
+
+我们编译了渐进式去中心化的加密目录—涵盖核心概念和关键构建块、围绕去中心化的法律理论、所有代币设计以及渐进式去中心化的实践示例。
+
+  
+
+
+——《[渐进式去中心化的三年：从理论到实践的加密目录](http://mp.weixin.qq.com/s?__biz=MzkyNDIxMTM4Ng==&mid=2247499440&idx=1&sn=70a364529c23a70cbd331d69f5a989e5&chksm=c1dbff65f6ac7673149b1e82625be117de6f510e4af46ad5ab18a582aefe547dc9910f894388&scene=21#wechat_redirect)》
+
+  
+
+
+https://daorayaki.org/post/63ee607a6285b6bdf963db30 
+
+**03**
+
+有两种类型的 DAO 似乎越来越受欢迎：金融快闪族和超结构。每种类型的 DAO 都具有独特的品质。它们代表链上协调的不同极端：快而热，或慢而长。
+
+  
+
+
+在这两种情况下，它们最终都代表了模因可以与区块链合并以创建紧急协调结构的方式。当结合起来时，可以引导我们构建一个丰富的未来的公共产品基础设施。
+
+  
+
+
+——《[生产模因：作为金融快闪族和超结构的 DAO](http://mp.weixin.qq.com/s?__biz=MzkyNDIxMTM4Ng==&mid=2247499662&idx=1&sn=fa3d6ef34cdd4c3720d8ec6c04fa3ec4&chksm=c1dbfe5bf6ac774d1b08fee88776cb3b69f2bb9ffaa021c07adf244a4b7b86dff4a01c7a36c9&scene=21#wechat_redirect)》
+
+  
+
+
+https://www.daorayaki.org/post/640770d8862d7758762bb402
+
+**04**
+
+本文深入探讨了 DAO 的操作系统。作者认为所有的组织都需要操作系统，DAO 也不例外。
+
+  
+
+
+——《[更新 DAO 的操作系统](http://mp.weixin.qq.com/s?__biz=MzkyNDIxMTM4Ng==&mid=2247493512&idx=1&sn=b6541c2967cf5b9883c1e11cd3b662a8&chksm=c1dbe65df6ac6f4b12aa1ff91f0f5bfffef97a42d15ab03ab94be79251a11f0049845619cdc6&scene=21#wechat_redirect)》
+
+  
+
+
+https://www.daorayaki.org/post/63db883a35fcbf44e2ce6108
+
+**05**
+
+本文基于 CoinMarketCap 数据，以活跃度和市值对 DAO ，选取前十项目，讨论其成员如何达成共识并形成可操作的决策。
+
+  
+
+
+——《[深入了解排名前十的 DAO 的运作方式](http://mp.weixin.qq.com/s?__biz=MzkyNDIxMTM4Ng==&mid=2247486763&idx=1&sn=99464425fc36b2c96a992ab07f1b5a47&chksm=c1d80cfef6af85e8679d9c35d30d23ea383b2d09d742286780e5b58b1b7e3d919637abe19778&scene=21#wechat_redirect)》
+
+  
+
+
+https://www.daorayaki.org/post/640722f4862d7758762ba2ab
+
+**06**
+
+DAO 时代才刚刚开始，了解当前 DAO 治理进展的一个方法也许可以通过分析头部 DAO 的路径来获得一些思路即：如何管理财库，正在提出和通过什么样的提案，社区的活跃程度等等。
+
+  
+
+
+——《[Top10 DAOs 财库管理和社区治理路径](http://mp.weixin.qq.com/s?__biz=MzkyNDIxMTM4Ng==&mid=2247499342&idx=1&sn=9d3f673707da4281412442ab6f50c28b&chksm=c1dbff9bf6ac768d93bef902ac94ab77570b60720173a4367b5f45420b898895c08c00eaab0d&scene=21#wechat_redirect)》
+
+  
+
+
+https://www.daorayaki.org/post/63d76fdbd513e57cac0360e8 
+
+**07**
+
+DAO 社区健康的主题非常广泛，从系统的角度类比医学概念，提出衡量 DAO 社区健康程度的指标。
+
+  
+
+
+——《[如何衡量 DAO 社区是否健康？](http://mp.weixin.qq.com/s?__biz=MzkyNDIxMTM4Ng==&mid=2247496781&idx=1&sn=a58ecb7591e389e442d021433d8f1fa6&chksm=c1dbf598f6ac7c8e318d9484476f6de284537d124407814edacdf8b858ef77416a7e8f97bf80&scene=21#wechat_redirect)》
+
+  
+
+
+https://daorayaki.org/post/63fd979f020511e96cf1e720
+
+**08**
+
+慎重、深思熟虑的增长创造了培养亲密关系的空间，并决定了哪些社区叙事会随着时间的推移而持续存在。
+
+  
+
+
+——《[亲密文化：重新认识 DAO 社区的规模化增长](http://mp.weixin.qq.com/s?__biz=MzkyNDIxMTM4Ng==&mid=2247498236&idx=1&sn=ceb5199de7819491ee74ed94c91a2464&chksm=c1dbf829f6ac713fd02e6dbffbe2028bb9045b1a7f39885ab5aab5a4ae3eef9d1c79982bf6a8&scene=21#wechat_redirect)》
+
+  
+
+
+https://www.daorayaki.org/post/63e8c72ee16a89f3dbd993c1
+
+**09**
+
+本文以 TalentDAO 样本数据为例，探索声誉研究的典型用例、投票行为、较高声誉者投票网络
+
+  
+
+
+——《[分析声誉网络以优化 DAO 治理和融资资助：TalentDAO 为例](http://mp.weixin.qq.com/s?__biz=MzkyNDIxMTM4Ng==&mid=2247499404&idx=1&sn=535342b2aa61fa4f01037520029d6e39&chksm=c1dbff59f6ac764f1c9ec98c993d59e2ca054aea51e3cb8a5787dc5945129db60bd9b056eee4&scene=21#wechat_redirect)》
+
+  
+
+
+https://www.daorayaki.org/post/63ee45556285b6bdf963b2ed
+
+**10**  
+
+
+我们相信，在提案的创建、审议和投票过程中，真正的匿名性可以解决大多数的影响力攻击。
+
+  
+
+
+——《[通过匿名和声誉解决 DAO 中的群体思维和偏见](http://mp.weixin.qq.com/s?__biz=MzkyNDIxMTM4Ng==&mid=2247499316&idx=1&sn=347cc40c0b7f36f0c09bd7d2d9b9edbf&chksm=c1dbffe1f6ac76f737a12a36425b304a86916f6d7f89e2238234a69564c07d8d19f54d1265e1&scene=21#wechat_redirect)》
+
+  
+
+
+https://www.daorayaki.org/post/63ee4c576285b6bdf963c66f
+
+**11**
+
+我们观察了人类和自动进化之间的紧张关系，以揭示维持区块链公地的关键问题，以社区的目的而不是项目或协议的持久性为目标。这些发现对于更好地理解去中心化技术在促进参与性数字社区方面的机会和局限性具有重要应用。
+
+  
+
+
+——《[公地弹性：去中心化技术社区治理中的“弹性”](http://mp.weixin.qq.com/s?__biz=MzkyNDIxMTM4Ng==&mid=2247485360&idx=1&sn=b7c31add895df96dfa7fd30902535264&chksm=c1d80665f6af8f73da88659b8d646886ad76b50d807336bd66639e9a5b80449523f52799c0ec&scene=21#wechat_redirect)》
+
+  
+
+
+https://www.daorayaki.org/post/63e318c53dda0e75d27e54dc
+
+**12**
+
+DAO 治理的公平性，一直为大家所关注。本文将介绍 3 个指标，从数据科学的视角，探讨如何量化 DAO 治理的公平性。
+
+  
+
+
+——《[基于数据视角评价 DAO 治理的“公平性”](http://mp.weixin.qq.com/s?__biz=MzkyNDIxMTM4Ng==&mid=2247493009&idx=1&sn=3a7265e7792f9b895d6927505e520783&chksm=c1dbe444f6ac6d5277b3f3c3cb6a0267c673fc41b7382a08f698137eb510ecdcffd960ecb581&scene=21#wechat_redirect)》
+
+  
+
+
+https://www.daorayaki.org/post/63ee2034b20cb778625d228a 
+
+**13**
+
+去中心化自治组织（Decentralized autonomous organizations，DAO）已成为一种有趣的软件应用程序新类别。本文基于现有的法律 / 金融负债概念，为 DAO 制定了一种拟议的自治措施。
+
+  
+
+
+——《[衡量 DAO 自治性：来自其他自治系统的经验教训](http://mp.weixin.qq.com/s?__biz=MzkyNDIxMTM4Ng==&mid=2247486983&idx=1&sn=cc7e7bbb89deab189a0331c3731d6d5a&chksm=c1d80fd2f6af86c456709ece7128226f7fe076524cd3cbbec524d966283734792eb80144249a&scene=21#wechat_redirect)》
+
+  
+
+
+https://www.daorayaki.org/post/63f4794f950f95cf0fe812e9
+
+  
+
+
+**欢迎加入 DAOrayaki 策展**
+
+  
+
+
+无论你是读者、创作者、策展人或者投资者，欢迎加入 DAOrayaki 策展，让我们一起打造一个「充满创意、永续存在、社区拥有」的 dMedia！
+
+  
+
+
+1. 成为话题策展人，获得策展资助
+
+2. 成为策展话题的创作者，获得创作资助
+
+3. 资助感兴趣的策展话题
+
+4. 加入设计和运营策展话题
+
+5. 分享创意和观点
+
+  
+
+
+* 加入新平台开始阅读创作：www.daorayaki.org
+* 加入 Discord 开始讨论分享：https://discord.gg/fvEmFK4Ujs
+
+  
+
+
+PC 端等着你，移动端稍后就来！
+
+  
+
+
+  
+DAOrayaki 是一个代表社区意志的去中心化媒体平台。通过构建基础且关键的去中心化媒体组件，链接社区内资助者、创作者、策展者和读者，使其自由的策展、研究、创作、出版和报道各类话题。欢迎通过以下方式提交星际移民、量子计算、DAO、Web3 等的相关策展、研究并提案获得资助！
+
+  
+
+
+官方网站：daorayaki.org  
+
+
+Discord server: https://discord.gg/wNUPmsGsa4
+
+Medium: https://medium.com/@daorayaki
+
+Email: daorayaki@dorafactory.org
+
+微信助手：DAOrayaki-Media
+
+Twitter: @daorayaki\_
+
+小宇宙：DAOrayaki
+

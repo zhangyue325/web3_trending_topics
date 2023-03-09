@@ -1,0 +1,52 @@
+3 月 8 日凌晨，去中心化捐赠平台 Gitcoin 于官推正式公布了其与指数协议 Index Coop 联合推出的流动性质押指数代币 Gitcoin Staked ETH Index（gtcETH）的详细信息，并在附带的官网文章中公开了 Index Coop 上的 gtcETH 交易及铸造[前端](https://app.indexcoop.com/gtceth)。
+
+![](https://img.foresightnews.pro/202303/842-1678258264154.jpeg?x-oss-process=style/scale70)
+
+然而，截至发文的综合数据来看，市场对于 gtcETH 所主打的「公益」叙事似乎并不太买账。截至发文，gtcETH 的流通供应仅为 61 枚，流通总市值尚不足 10 万美元。
+
+![](https://img.foresightnews.pro/202303/842-1678258296311.jpeg?x-oss-process=style/scale70)
+
+最「政治正确」的 LSD 产品
+---------------
+
+gtcETH 是由 Gitcoin 和 Index Coop 联合推出的一款 LSD 指数代币，双方发行该代币的主要目的是为了探索一种全新的、行之有效的、具备可持续性的公共物品（public goods）捐赠机制。
+
+作为一个 ERC-20 标准的代币，gtcETH 与我们所熟知的 stETH、rETH 等 LSD 代币有着诸多共同点，比如：
+
+* 持有 gtcETH 意味着拥有对相应数量 ETH 的赎回权益；
+* gtcETH 的流通不受限制，可以解锁质押状态下 ETH 的流动性；
+* 持有 gtcETH 也可获得参与 PoS 的质押收益。
+然而，gtcETH 与此类代币也有一定的区别，比如：
+
+* Gitcoin 和 Index Coop 本身并不直接提供质押服务，gtcETH 的价值将由 stETH 等一揽子由去中心化流动性质押项目发行的 LSD 代币组合所支撑；
+* gtcETH 会自动从质押收益中剥离一部分，用于公共物品捐赠。这一点正是 gtcETH 与所有 LSD 代币最大的不同点。
+在 gtcETH 的设计中，究竟该剥离出多少收益，取决于 streaming fee 这一参数。当前，streaming fee 参数为 2% （收益百分比基础上直接做减法），具体由流向 Gitcoin Grants 的 1.75% 以及流向 Index Coop 的 0.25% 组成。
+
+![](https://img.foresightnews.pro/202303/842-1678258334039.jpeg?x-oss-process=style/scale70)
+
+Gitcoin 官方举了个例子，假设 ETH 稳定在 1700 美元，质押收益稳定在 5% 左右，那么一年下来 1 单位的 ETH 将可获得 0.05 ETH 的质押收益。如果用户选择持有 gtcETH，那么 0.05 ETH 中的 0.03 ETH 将归用户所有，剩余 0.02% 将被剥离，其中 0.0175 将流向 Gitcoin Grants 用于捐增，剩余 0.0025 则将作为费用流向 Index Coop。
+
+在该条件下（ETH 1700 美元），gtcETH 内每 100 万美元的 TVL 每年将为 Gitcoin Grants 贡献约 17500 美元的资金，从而改善公共物品捐赠渠道较少、开发资金不足的问题。
+
+反市场而行的路，能走通吗？
+
+从 gtcETH 的设计中不难看出，由于需要剥离一小半的质押收益，持有 gtcETH 的被动收益率将永远低于普通的 LSD 代币，更别提其他添加了额外激励措施的衍生代币了。
+
+根据 Index Coop 所给的资料，gtcETH 初期的支撑资产将由 wstETH（Lido）、rETH（Rocket Pool）、sETH 2 （StakeWise）等三种 LSD 代币组成，三者的比例分别约为 30%、44%、26% 。
+
+![](https://img.foresightnews.pro/202303/842-1678258360722.jpeg?x-oss-process=style/scale70)
+
+在将三种代币的实时收益率、费用情况以及组合比例加权计算后，gtcETH 的实时收益率在扣除了 2% 的 streaming fee 后将仅有约 2.53% ，该收益水平在当前「卷到飞起」的 LSD 赛道实在有些不够看。逐利是资金的天性，因此就不难理解为什么 gtcETH 的供应数据会如此「惨淡」了。
+
+*Odaily 星球日报注：关于 LSD 赛道的收益率大战，可以参考阅读《*[*LSD 暗藏七重收益，APR-War 终局为 TVL 1 0X 增长？*](https://www.odaily.news/post/5185438)*》。*
+
+不过，反市场而行的 gtcETH 也并非没有自己的独特优势。
+
+由于 gtcETH 天然的「政治正确」性，对于品牌、形象有着宣传需求的个人、项目和机构或许会考虑舍弃部分收益，利用 gtcETH 来支持公共物品的开发工作，从而换取一定社区声誉。
+
+此外多少有些脑补的另一种可能是，gtcETH 的属性决定了其持有者会持续不断地为公共事业作出贡献（收益被剥离），因此在推特上也有部分用户认为 gtcETH 有潜力成为行业未来的一项空投标准。这条路子虽然投机色彩过浓，但如果能够刺激 gtcETH 的供应，从而扩大对公共事业的捐赠力度，也未尝不是一件好事。
+
+综合来看，延续了 Gitcoin 基因的 gtcETH 在定位上就与常规 LSD 代币完全不同，将其强行列入 LSD 大战之内其实也不太合理。随着上海升级的临近，LSD 正逐渐成为整个加密货币行业的主流叙事，在其他项目想方设法地抬高激励、抢占市场之余，我们很高兴能够看到 gtcETH 围绕着 LSD 做出方向截然不同的创新，甚至期望看到更多的项目走上类似的道路。
+
+它或许不会带来什么财富效应，但却有望毗益整个行业。
+

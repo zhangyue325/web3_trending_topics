@@ -1,0 +1,50 @@
+### 【1】Litra Finance
+
+金额：未披露
+
+轮数：战略融资
+
+时间：3 月 03 日
+
+投资机构：TokenPocket
+
+项目类型：NFT、NFTFi
+
+项目介绍：Litra 正在使用先进的联合曲线和 veToken 模型创造深度 NFT 流动性，以提供 NFT 流动性即服务并赋予 NFT 定价能力。为了解决 NFT 市场流动性低的问题，Litra 协议将 NFT 变成一种标准资产，通过将 NFT 锁定在协议中并铸造相应的 wrapped NFT（ERC-20）来提高其价格精度。凭借自动集中流动性和自定义联合曲线的特点，不仅减少了流动性提供者的无常损失，而且交易者也从极低的滑点中受益
+
+官网地址：<https://litra.finance/>
+
+推特：<https://twitter.com/litra_finance>
+
+### 【2】Scroll
+
+金额：5000 万美元
+
+轮数：未披露
+
+时间：3 月 06 日
+
+投资机构：Polychain 、红杉中国 、Bain Capital Crypto 、Variant Fund 、Newman Capital 、IOSG Ventures 、启明创投 、Moore Capital Management
+
+项目类型：Layer2、zk
+
+项目介绍：Scroll 是以太坊的原生 zkEVM 第 2 层解决方案。可实现对现有以太坊应用程序和工具的原生兼容。Scroll 处理链下交易，并在链上发布简洁的正确性证明。与以太坊基础层相比，这导致更高的吞吐量和更低的成本
+
+其他补充：2022 年 4 月 21 号 A 轮融资 3000 万美元；2021 年 10 月种子轮融资 300 万美元
+
+官网地址：<https://scroll.io/>
+
+推特：<https://twitter.com/Scroll_ZKP>
+
+### 关于 veDAO
+
+veDAO 是致力于发掘早期潜力项目的投融资社区。通过集结大众智慧和专业意见，为社区参与者、投资人、项目方提供公平、透明、民主的项目评价及投融资流程，让所有参与者共享项目发展红利。
+
+Website: <https://app.vedao.com/>
+
+Twitter: <https://twitter.com/vedao_official>
+
+Telegram：[t.me/veDAO\_zh](http://http/)
+
+Discord：<https://discord.gg/NEmEyrWfjV>
+

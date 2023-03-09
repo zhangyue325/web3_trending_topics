@@ -1,0 +1,409 @@
+以太坊或将在一个月内完成其转向权益证明的最终阶段。在即将到来的「Shapella」升级后（一个由「Shanghai」and 「Capella」组成的混成词），超过 1600 万枚质押在信标链上的 ETH 将能够被提款。仅仅这个数字就引起了用户、投资者和交易者的焦虑，他们对 ETH 和其他相关代币供需可能受到的影响感到担忧。
+
+ 
+
+在本报告中，我们将剖析 Shapella 升级的细节，提供升级前需要注意的事项，并给出升级可能会对 ETH、流动质押衍生品和其他应用程序产生影响的最佳估计。
+
+ 
+
+要点速览
+----
+
+ 
+
+Shapella 升级将允许用户部分或全部提取质押在信标链（Beacon Chain）上的 ETH ，预计将于 3 月底至 4 月初进行。
+
+ 
+
+信标链上已累计超 100 万 ETH 奖励，这些奖励将自动提取，并在大约 5 至 7 天时间内转变为流动性资产。鉴于质押池提供商之间的竞争动态，我们预计这些奖励中约一半会重新质押在信标链上。
+
+ 
+
+信标链上质押了超过 1600 万 ETH 本金。我们预计其中约 280 万 ETH 将被提出，但这只是保守估计，最终结果可能与预估有很大出入。我们预计提取的 ETH 中约 50％ 将通过流动性质押服务商重新转回信标链上。主要受益者包括 Lido Finance，Frax Finance 和 Coinbase。
+
+ 
+
+从长期来看，由于质押 ETH 将变得更加安全，以太坊的质押参与率应该会超过 40％，成为以太坊生态系统中真正的基准利率。
+
+ 
+
+Shapella 还将对 DeFi 应用程序产生连带影响，包括：流动质押提供商、去中心化交易所、借贷协议、元治理项目和重新质押基础设施。Shapella 还可能对 ETH 的供应弹性产生影响，影响其作为交易工具的波动性。
+
+ 
+
+上海 /Capella 升级的基础知识
+-------------------
+
+信标链是以太坊 PoS（权益证明）共识的支柱，允许用户通过质押他们的 ETH 来参与区块验证并获得奖励。该链于 2020 年 11 月开始接受存款，并[于 2020 年 12 月 1 日正式启动](https://beaconscan.com/slot/0?utm_source=substack&utm_medium=email)。用户需要质押至少 32 个 ETH 来执行共识工作以获得发行奖励。在合并之前，共识工作仅包括就活跃的验证者及其余额达成共识。合并（Bellatrix 升级）之后，验证者需要负责保障网络安全，如区块提议、区块认证和同步委员会参与等。
+
+ 
+
+但自启动以来，质押的 ETH 和奖励一直被锁定在信标链上。因此，超过 1600 万个质押 ETH 和 100 万个 ETH 累计奖励已经被锁定在信标链上两年多。
+
+ 
+
+下个月，以太坊将完成一个名为 Shanghai / Capella 的升级。[共识层的升级以星星命名（Altair, Bellatrix, Capella）,执行层的升级以城市命名。]
+
+ 
+
+即将到来的 Shanghai / Capella 升级中最明显的特点是验证者可以选择提取他们累计的奖励或整个验证者余额。因此，ETH 将从信标链转移到执行层，在执行层中 ETH 是自由流动的，并可用于交易。
+
+ 
+
+请注意，来自优先费用和 MEV 支付的奖励会直接累积到执行层（即以太坊用户当前交易的链）。因此，到 Shapella 升级之前，唯一被锁定的奖励就是共识层的发行奖励。
+
+ 
+
+所有迹象都表明，Shapella 升级将在 3 月底至 4 月初左右进行。目前为止，升级的测试结果是积极的。开发人员在 2 月 28 日成功在 Sepolia 测试网上启动了 Shapella，[结果显示只有轻微问题](https://twitter.com/terencechain/status/1630426604802555953?utm_source=substack&utm_medium=email)。他们已经完成了在 Zhejiang 公共测试网和主网上的影子分叉的测试。
+
+### Sepolia 测试网成功升级为 Shapella
+
+![](https://miro.medium.com/v2/resize:fit:700/0*bFI2bkcA_8vmgcJt.png)
+
+*来源：*[*@terencechain*](https://twitter.com/terencechain/status/1630426604802555953)
+
+  
+
+
+下一个重要里程碑是在 3 月中旬之前先在 Goerli 上推出 Shapella 升级，然后再在主网上进行升级。
+
+ 
+
+**提款说明：**
+---------
+
+ 
+
+在 Shapella 升级后，将会有两种提款类型：
+
+ 
+
+ 
+
+以太坊对每个 epoch（1 个 epoch 包含 32 个区块，大约 6.4 分钟）可以提款的验证者人数设有一个流失限制系数。这个限制会随着信标链上验证者数量的增加而增加。目前，这个流失限制系数是 7。但是随着升级的进行，这个限制可能会变为 8。因此，当升级发生时，每天可以有 1,800 个验证人全额提款，这相当于每天超过 57,600 个 ETH。
+
+ 
+
+部分提款功能会在升级后自动进行，并平均每周进行一次清扫。**每个 slot 将自动进行 16 次部分提款**，从信标链的[0 个索引](https://beaconcha.in/validator/933ad9491b62059dd065b560d256d8957a8c402cc6e8d8ee7290ae11e8f7329267a8811c397529dac52ae1342ba58c95?utm_source=substack&utm_medium=email)开始，即每天大约有 147000 个验证者可以进行部分提现。
+
+我该质押还是退出？
+---------
+
+ 
+
+升级可能会产生潜在的大规模供应冲击。在升级后的一周内，由于清算部分提款，超过 100 万枚 ETH 将会自动进入流通。这占 ETH 总供应约 0.8%，按今天的价格计算价值约为 16 亿美元。此外，理论上有 1680 万枚 ETH 也可能被提取。
+
+ 
+
+这些数据引起了一些恐慌情绪。有一种说法正在酝酿，认为市场可能会看到大规模的倾销，因为超两年不能流动的 ETH 被允许提款。
+
+ 
+
+但是这些担忧可能有些夸大其词。在下面，我们将介绍部分提款和全额提款的动态，以更好地说明 Shapella 升级后提款的运作方式，并说明 ETH 的供应冲击可能并不像上方数据所暗示的那样极端。
+
+ 
+
+请注意，我们的估计是粗略的数字，我们的估计受到很多不确定性因素的影响。我们的分析涉及到许多假设，但文中估计的具体数字肯定不准确。尽管如此，我们希望这份报告能够为大家的思考提供素材，我们鼓励大家进一步参与讨论和分析。
+
+部分提款：重新质押缓解了供应冲击
+----------------
+
+ 
+
+总体来说，超过 100 万枚累计 ETH 奖励将自动变为流动性资产。由于每个区块有 16 个部分提款的验证者队列，部分提款的提款人必须先变换其提款凭据，然后才能收到这些累计奖励，因此需要五到七天时间，才能使所有部分提款在执行层变为流动性资产。
+
+ 
+
+但即使假设大多数验证者都保守并希望在执行层上持有流动性 ETH，也有一些结构动态促使他们将这些奖励重新质押到信标链上。
+
+ 
+
+53% 的累计奖励来自提供流动质押代币（「LSTs」）的质押池。主要的 LSTs 由相对分散的质押提供者（如 Lido 和 Rocket Pool）或中心化的托管人（如 Coinbase 和 Binance）提供。LSTs 的公平市场价格因提供者而异，Rocket Pool 的 rETH 溢价为 +1.3%，而 Ankr 的 ankrETH 折扣为 -3.0%。大多数 LSTs 的价格在 -0.1% 到 -2.0% 的折扣范围内波动，中心化托管人的 LSTs 通常折价更大。
+
+### 
+
+### 以太坊流动性质押代币现状
+
+![](https://img.foresightnews.pro/202303/9974-1678266895998.png?x-oss-process=style/scale70)
+
+*来源: Project website, Defillama, CoinGecko, 2023.02.24*
+
+我们认为，LST 的存在降低了用户提现后可能带来的潜在供应 / 销售，因为通过这些提供者质押的用户已经可以选择以名义折扣的方式转换其质押的 ETH。
+
+ 
+
+此外，竞争动态激励重新质押。在所有质押池中占据领先市场份额的[Lido 最近确认了其「APR 最大化」的政策](https://hackmd.io/@lido/SyaJQsZoj?utm_source=substack&utm_medium=email)，试图尽可能地重新质押尽可能多的 ETH。由于其 stETH 代币交易的折扣仅为 -0.1%，我们估计 stETH 的赎回需求将很小。因此，Lido 可能会重新质押其累计奖励的所有 224000 枚 ETH（约 3.7 亿美元），相当于总累计奖励的 20% 以上。其他质押提供者也会被迫尽可能质押更多的 ETH，以避免在与 Lido 的竞争中因 APR 不高而失去市场份额。
+
+ 
+
+我们在下表中分享了关于基准情况假设的观点，即估计部分奖励被重新质押的比例。对于具有 LST 的质押池，我们假设更高的折扣将面临更大的赎回压力，以将代币恢复到标准价格。
+
+ 
+
+我们承认，对于没有 LST 的中心化运营商，我们的假设相对不够严谨，并且实际情况可能与我们的理解有所不同。例如，[在最近的 SEC 发起指控并关闭向美国客户提供质押服务协议的情况下](https://www.sec.gov/news/press-release/2023-25?utm_source=substack&utm_medium=email)，Kraken 不太可能重新质押。Celsius 也可能更喜欢流动性较高的 ETH。
+
+ 
+
+尽管如此，我们通过与 RockX 等机构节点运营商的交流发现，大多数机构节点运营商都希望重新质押他们的大部分奖励以将收益最大化。因此，我们预计以机构为重点的节点运营者，如 RockX 和 Figment，将重新质押他们的大部分奖励。对于具有更多散户用户的节点运营商，例如 Stakefish 和大多数中心化交易所，我们认为只有 20% 的部分奖励会被重新质押，其余代币将会用于满足赎回请求。
+
+### **验证者实体分布**
+
+![](https://miro.medium.com/v2/resize:fit:700/0*KMHDz2MnT5aEacvt.png)
+
+### **部分取款的假设**
+
+![](https://miro.medium.com/v2/resize:fit:700/0*Rw6OqiY1gjX88E3L.png)
+
+*来源: Beaconcha.in, Rated Network, Dune, project websites, Amber estimates, 2023.02.24*
+
+  
+
+
+因此，我们的基本假设是，部分提款的总供应中大约 52% 的 ETH 将重新质押回到信标链，从而大大缩小了潜在的供应冲击和抛售狂潮。
+
+ 
+
+对于部分提款模型的深度分析，我们建议阅读 [Data Always](https://dataalways.substack.com/p/partial-withdrawals-after-the-shanghai?utm_source=substack&utm_medium=email) 的这篇文章。作者得出的结论是，「由于不打算抛售的验证者堵塞了提款队列，自动进行部分提款的决定可能会受到影响，进而缩减初期抛售狂潮的规模。」
+
+全额提款：以 ETH 转换 LST 为基本假设案例
+-------------------------
+
+ 
+
+我们预测，前 20 名验证者实体的全额提款将占总验证者提款数量的约 75%。然后对其余 25% 进行一般化假设：
+
+ 
+
+* 拥有 LST 的质押池运营商不会从任何验证者处全额提款。从上文可以看出，超过一半的验证者提供 LST - 我们认为他们都可以仅通过部分提款将其 LST 拉回与 ETH 同价。事实上，由于重新质押 ETH 的奖励，大多数质押池运营商可能会部署新的验证者。
+* Kraken 将撤回大部分质押的 ETH，因为它不再允许向美国客户提供质押服务。尽管它可以以其他方式提供质押，但其面向美国的客户群的态度和监管的不确定性，都可能会引发 Kraken 质押产品的资金外流。同样，我们预计 Celsius 将完全撤回其所有验证者，以期最大限度地提高短期流动性。
+* 对于其他中心化交易所和节点运营商，我们根据对其目标客户（机构和散户）和运营模式（汇集 / 独立、托管 / 非托管）的理解，做出 10-25% 的不同假设。根据我们与各种质押参与者的交流，我们假设机构客户的提款需求低于散户。那些采用汇集 / 托管模式的运营商面临的全额提款压力相对较低，因为他们可以通过流入资金来平衡外流资金。
+ 
+
+然而，与部分提款类似，我们预计会有部分 ETH 被重新质押。具体而言，**许多提款的质押者会将他们的 ETH 转回给 LST 的流动质押提供商。**这是因为与独立质押相比，持有 LST 的供应商有以下几个优势：
+
+ 
+
+* 通过链上池获得即时流动性的潜力
+* 将 LST 用作在 DeFi 上的质押品，允许用户借出稳定币、加杠杆质押 ETH 等
+* 提供方便的重新质押机制，如 Eigenlayer。
+ 
+
+### **全额取款的假设**
+
+![](https://img.foresightnews.pro/202303/9974-1678267330894.png?x-oss-process=style/scale70)
+
+*来源: Beaconcha.in, Rated Network, Dune, project websites, Amber estimates, 2023.02.24*
+
+  
+
+
+用户重新质押 ETH 可能将全额提款对总供应冲击的影响降低约 50%。
+
+ 
+
+一系列链上指标支持我们对于提款压力走向柔和的预测：
+
+ 
+
+* 在 Terra / 3AC 崩溃后，14 天内新验证者的平均数量继续上升。
+![](https://miro.medium.com/v2/resize:fit:464/0*hYBgQ_DiJEkMDHoh.png)
+
+*来源: Glassnode*
+
+  
+
+
+* 主要质押池的 LST 代币以微不足道的折扣交易，非托管的流动性质押提供商的折扣最小（RPL 的 LST 甚至有溢价）。这支持了我们的观点，即质押的 ETH 将从托管性向非托管性的流动性质押转移。
+![](https://miro.medium.com/v2/resize:fit:506/0*g65PqOXgk1dIybk3.png)
+
+*来源: Company websites, Coingecko*
+
+* 自从开始质押以来，39% 的质押者的美元账面是有盈利的。但更高的赢利百分比也意味着更高的提款压力。
+![](https://miro.medium.com/v2/resize:fit:490/0*DbjX9NgNQlePIVG9.png)
+
+*来源：Dune (@hildobby)*
+
+  
+
+
+* 低水平的验证者自愿退出，这是为了预防即将到来的升级。如果验证者预计升级后将出现堵塞的退出队列，一些人可能会尝试提前退出以避免排队。然而，现在可能还为时过早，这是一个需要继续关注的关键指标。
+![](https://miro.medium.com/v2/resize:fit:498/0*eubnxwr1gpt0ny0f.png)
+
+*Source: Glassnode*
+
+### 总结
+
+ 
+
+1136 个验证人退出信标链，意味着有约 39000 个 ETH 进入流通市场。
+
+ 
+
+总体而言，减去可能会被重新质押的 ETH 后，我们的基础预测是会有大约 180 万个 ETH 通过提款的方式转变为流动性资产。这占 ETH 总供应量的 1.5％和信标链上 ETH 总供应量的 10.5％。我们认为这个预测是保守的，实际数字很有可能比这个低。
+
+![](https://img.foresightnews.pro/202303/9974-1678267654612.png?x-oss-process=style/scale70)
+
+我们不希望所有这些 ETH 都被出售。数据表明，以太坊的总供应量越来越多地留在链上，而不是被发送到中心化交易所。我们认为这种趋势将持续存在，并预计从 Shapella 中解锁的相当数量的 ETH 将留在链上。
+
+![](https://miro.medium.com/v2/resize:fit:472/0*HkpSb2t0zMT4zwCP.png)
+
+*来源: Glassnode*
+
+  
+
+
+预测 Shapella 升级后的抛售流模型超出了这份报告的范围，有兴趣的读者可以尝试自己建立模型。然而，需要注意的是，由于信标链的退出队列，任何全额提款带来的潜在抛售流都可能发生在数周后，而不是在几天之内。
+
+ 
+
+公式的另一面
+------
+
+ 
+
+随着提款的不确定性最终消除，我们预计会有净新需求涌入质押市场。质押 ETH 将逐渐被视为以太坊生态系统内的事实上的基准利率，类似于美国经济中的联邦基金利率。所有质押收益率应至少与 DeFi 蓝筹股协议，如 Aave、Compound 和 Euler 等看齐。
+
+![](https://miro.medium.com/v2/resize:fit:516/0*fVWwnXwUQ4logmHZ.png)
+
+*排除代币奖励之后的收益率，来源: Project websites, Defillama, 2023.02.24*
+
+  
+
+
+从长期看，我们预计 40% 以上的 ETH 将被质押。在 40% 的参与率下，假设 MEV 和优先费用保持在 30 天内的平均水平，验证者的全部 APR 为 2.95% 左右。
+
+ 
+
+![](https://miro.medium.com/v2/resize:fit:498/0*Uc0XoKqbXqUAdq0_.png)
+
+*来源: Staking Rewards*
+
+对流动性质押提供商的影响
+------------
+
+ 
+
+Shapella 在多个方面都将惠及流动性质押提供商。如上所述，与 ETH 相比，LST 可以说是更好的质押品。例如，如果可以使用 stETH 代替 ETH 来借贷稳定币，那么以 ETH 为抵押的借贷资本效率就会变低。并且，提款可以增强 LST 对 ETH 的锚定，进而提高其作为抵押品的吸引力。因此，我们预计流动性质押提供商将赢得市场份额。
+
+ 
+
+相关的是，这些项目维持它们的 LST 和 ETH 之间锚定的成本将变得更低。Shapella 升级之后，LST 的即时链上流动性变得不那么重要。例如，假设 Lido 减半其代币发行量以激励 Uniswap 等去中心化交易所上的流动性。即使锁定的总价值大幅缩小，stETH 仍将与 ETH 紧密锚定在一起。这是因为如果 stETH 真的以远低于锚定的价格进行交易，第三方套利者就会介入。在大多数情况下，提款只需要 4 到 5 天即可完成，所以我们认为，即使与锚定价格相差 10-30 个基点，套利者也会出手介入。( 在 30 个基点时，套利者的年化收益率有望达到 25%)。因此，像 Aave 和 Compound 这样的 DeFi 项目仍然可以自信地将 stETH 用作抵押资产，因为清算人和套利者随时准备购买任何脱离锚定价格的 stETH 。
+
+ 
+
+总之，流动质押池很可能面临两种结果：LST 的广泛采用将增加其收入，代币发行量减少将减少其成本。一个反驳的观点是，这些 LST 协议仍需要激励流动性，以便在 DeFi 生态系统中得到很好的融合，并允许借贷协议进行即时清算。但是，[Euler 将 cbETH 作为抵押品进行整合的先例表明](https://substack.com/redirect/daf17f9e-d16e-41d3-9977-2c3bb90b4934?j=eyJ1Ijoia2gxcngifQ.5G0UaoYy8SHZ706v5SbPwzRvv5t8Muz9ml31E6kCo3M)，团队意识到即时链上流动性并不能完全反映代币抵押品的质量。
+
+ 
+
+我们认为最大的受益者将是 Lido Finance。因为 stETH 被广泛应用于不同的 DeFi 应用程序中，所以它在 LST 中提供了最大的效用。Lido 的管理验证人组合允许其适应大量的质押需求 ([最近一天就注册了超过 15 万个 ETH](https://twitter.com/LidoFinance/status/1629435773920374785?utm_source=substack&utm_medium=email) )。Frax Finance 和 Coinbase 也将受益，原因类似，尽管它们的 LST 的广泛性较低。Coinbase 也以 25% 的回报率提供更高的利润率。
+
+![](https://miro.medium.com/v2/resize:fit:438/0*l_jE2kB7LJReYvIK.png)
+
+Rocket Pool 可能会受益少一些。虽然我们喜欢它的去中心化设计和理念，但由于 ETH/RPL 抵押品要求，它面临着可扩展性挑战。而且，为了吸引节点运营商，它更高的利润率也是增长的障碍。尽管如此，要注意其 Atlas 升级仍是一个重要的催化剂。Atlas 允许节点运营商将其抵押品要求从 16 个 ETH 减半到 8 个 ETH ，这将使每个运营商的容量增加三倍——在一个验证器中质押的 16 个 ETH 现在可以分散到两个验证器中，因此其他用户的容量从 16 个 ETH 增加到 48 个 ETH。
+
+二阶效应
+----
+
+ 
+
+Shapella 不仅影响 ETH 和质押提供商，还在许多行业产生了连带影响，例如：
+
+ 
+
+以 ETH 作为质押品的稳定币。值得注意的是，两种以 ETH 作为质押品的稳定币 Liquity（LUSD）和 Reflexer（RAI）在 Shapella 之后面临阻力。随着被质押的 ETH 降低风险，用户可能会更愿意使用流动性质押的 ETH 作为质押品，而不是直接使用 ETH。而且，由于 Liquity 和 Reflexer 是特别设置为最小化治理的，它们无法将质押品基础切换到流动性质押的 ETH 。也许这是件好事，LST 仍然存在风险。但这些稳定币已经有极小的流通供应量了（LUSD: $2.30 亿，RAI: $700 万），很可能它们在 Shapella 之后将看到较低的市场份额。
+
+ 
+
+Curve/Convex 和其他去中心化交易所。Lido 已经[花费了近 8600 万自己的治理代币（今天的价格约 2.3 亿美元）在去中心化交易所上激励流动性](https://dune.com/LidoAnalytical/LDO-incentives?utm_source=substack&utm_medium=email)，主要是针对 Curve Finance。这主要是通过创建更深的流动性来使 stETH 成为更有吸引力的资产，让两种资产之间的交易具有低滑点。LDO 发行数量通常至少占提供 stETH/ETH 交易对流动性的 APR 的一半。如果 Lido 减少这些奖励，我们可能会在 Curve 和其他去中心化交易所上看到较低的 stETH/ETH TVL，可能会导致它们的估值重新评估。为了更好理解，在 Curve 上，stETH/ETH 交易对占总锁定价值的约 32%。
+
+ 
+
+像 Convex 和 Aura 这样的元治理项目将集中投票权并从 Lido 等项目获得奖励，在这种情况下也将看到较低的奖励。
+
+ 
+
+另一方面，Shapella 升级还可能催生一批新的流动质押代币。Frax Finance 仅几个月前推出了其 LST，并利用其对 CVX/CRV 的控制来赢得市场份额。Yearn Finance [即将推出一篮子 LST](https://twitter.com/iearnfinance/status/1628104719003418632?utm_source=substack&utm_medium=email)，将遵循类似的策略来获得流动性。在 Shapella 升级后，我们可能会看到一场突如其来的 LST 战争。
+
+![](https://miro.medium.com/v2/resize:fit:444/0*tr65Wrcc0WkcOB6T.png)
+
+ 
+
+ 
+
+结论
+--
+
+ 
+
+我们不为恐慌买单。虽然任何事情在短期内都可能发生，但 Shapella 升级基本上是积极事件。除此之外，它还引发了更高的质押率参与，增强了质押 ETH 作为理想抵押品的地位，提高了以太坊的安全性，并降低了以太坊作为资产的风险。
+
+ 
+
+ 
+
+最重要的是，Shapella 最终将结束以太坊向权益证明的转变进程。开发人员将最终能够完全专注于以太坊路线图上的其他更紧急的议程。在 Shapella 之后，请注意 EIP-4844，它通过 danksharding 分片降低了以太坊 L2 Rollup 的成本，为以太坊的扩展路径铺平了道路。
+
+ 
+
+参考资料
+----
+
+ 
+
+[ETH 提现常见问题解答](https://notes.ethereum.org/@launchpad/withdrawals-faq) 
+
+[Beaconcha.in - Beacon Chain 区块链浏览器和统计信息](https://beaconcha.in/) 
+
+[Beaconscan - Etherscan 的信标链区块链浏览器](https://beaconscan.com/) 
+
+[Rated Network - 以太坊验证节点的评级和指标](https://www.rated.network/?network=mainnet&view=pool&timeWindow=30d&page=1) 
+
+[Lido Ethereum 验证者和节点指标](https://app.hex.tech/8dedcd99-17f4-49d8-944e-4857a355b90a/app/3f7d6967-3ef6-4e69-8f7b-d02d903f045b/latest) 
+
+[质押计算器 - Beacon Chain](https://beaconcha.in/calculator?stake=32&currency=USD&priceChangePerMonth=0&initialCosts=0&monthlyCosts=0&stakingFee=0&reinvest=false&networkStake=16691421.467355&networkOnlineProbability=95&totalStakeMonthlyChange=0)
+
+[Lido Dashboard Catalog（Dune）](https://dune.com/lido/lido-dashboards-catalogue)
+
+[Hildobby 的 Ethereum 质押仪表板（Dune）]( https://dune.com/hildobby/eth2-staking   )
+
+附录：Lido Finance 的提取设计
+---------------------
+
+ 
+
+Lido 的提取设计用于管理从 Beacon Chain 提现，它澄清了大多数 LSTs 整体结构。 stETH 持有者需要通过三个步骤来提取：
+
+ 
+
+1.请求：要提取 stETH，用户可以向 Lido 发送提取请求，锁定要提取的 stETH 数量。
+
+ 
+
+2.履行：之后，用户进入队列，Lido 协议按照先进先出的顺序处理请求。如果有来自新存款或部分提取的缓冲区中的 ETH，可以用来满足提取。如果缓冲区里的 ETH 不足，Lido 将请求必要数量的验证者退出。请注意，这个队列是在 Lido 协议内部的，并与以太坊的提取队列分开。
+
+ 
+
+3.索赔：用户可以要求索赔其 ETH 份额。
+
+![](https://miro.medium.com/v2/resize:fit:700/0*PC0aKBDukRE2zpE9)
+
+*来源: Lido*
+
+设计中一个有趣的选择是，提取的请求无法被取消，但是可以被转让。这将可能形成一个二级市场，前面排队的请求提取 Lido 的用户可以将其位置出售给那些更急需流动性的用户。
+
+ 
+
+Lido 的提现将采用两种模式。在正常情况下，Lido 的提现将以极速模式运行。用户通常可以在约 3-4 天内将 stETH 转换为 ETH，如果缓冲区中有足够的 ETH，则可能缩短至仅需 1-24 小时。
+
+ 
+
+然而，如果发生「大规模惩罚事件」，Lido 将进入掩体模式。当超过 600 个 Lido 验证者同时受处罚时，这种情况可能会发生。到目前为止，还没有任何一个 Lido 验证者遭到过惩罚。在这种模式下，所有提取请求都将被推迟，直到所有用户之间的损失得到社会化。这是为了防止精明的用户获得优势，因为惩罚和罚款都是异步发生的。如果没有掩体模式，精明的参与者预测到大规模惩罚将会发生，因此会将 stETH 提取成 ETH 以避免遭受损失，后续再将 ETH 转换回 stETH。
+
+ 
+
+Lido 的架构优先考虑质押者，以最大化年化收益率为原则。 Lido 不会为了促进更快的提现而将更多的 ETH 留在缓冲区，而是会确保 ETH 在缓冲区中停留的时间尽可能短。
+
+ 
+
+这种动态的 ETH 供应从 Shapella 「下沉 」到信标链上。它还迫使竞争者采取相同的措施，否则他们的 APR 将降低，并逐渐丢失市场份额。
+

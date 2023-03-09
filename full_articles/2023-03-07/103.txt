@@ -1,0 +1,31 @@
+![](https://img.foresightnews.pro/202303/5c8988513798f664a62a581c1b6aa743.png?x-oss-process=style/scale70)
+
+新加坡， 2023 年 3 月 6 日, Web3 安全公司 Numen Cyber 宣布与全球值得信赖的数字资产托管平台 Cobo 达成业务合作，提供 MPC 托管私钥灾备服务，并共同探索在 MPC 业务、Web3 安全服务、链上追踪分析研究等多个层面的合作。 
+
+Numen Cyber 和 Cobo的合作旨在推进 MPC 托管的安全性和加速其发展，为客户提供更强大的数字资产保护。Numen Cyber 还将利用其在 Web3 安全服务和链上追踪分析研究方面的专业知识，开发新的解决方案，进一步提高 Cobo 的 MPC 业务的安全性。通过此合作，Cobo 将能够为其客户提供更加强化的数字资产安全保障。  
+
+Cobo 联合创始人兼 CTO 蒋长浩博士说: "作为数字资产托管的领导者，Cobo 致力于为我们的客户提供最好的行业安全解决方案。Numen Cyber 是亚太地区业界领先的综合性网络安全解决方案供应商，通过此项合作我们能够为客户提供更广泛的灾难恢复选择，为客户提供更多一层保障，进一步加强对客户数字资产的保护。"
+
+Numen Cyber 是一家领先的 Web3 安全公司，致力于保护 Web3 的未来。其专家团队由来自全球的顶级安全专家组成，具有广泛的经验，发现过很多知名 Web3 生态及项目、微软、谷歌、苹果产品的高危漏洞，例如 Aptos、Move 等。Numen Cyber 的全面 Web3 安全解决方案已经被越来越多的全球客户采用，包括个人用户和大型企业。 
+
+Numen Cyber 的核心优势之一在于其能够检测各种 Web3 生态系统中的高风险漏洞，包括 Aptos、Sui、EOS、Ripple 和 TRON 等。Numen Cyber 通过对智能合约、公链、钱包、交易平台安全审计，链上合约威胁检测和响应、Web3 安全态势感知、数字货币追踪和 Web3 威胁情报等服务和产品增强 Web 3 项目在整个开发周期各个阶段的安全能力，保障项目方和用户的数字资产安全。 
+
+Cobo 的 MPC 协管托管方案采用了先进的多方计算阈值签名技术（MPC-TSS）。运用 MPC-TSS 技术，多方各自管理一个私钥分片（MPC Key Share），通过分布式计算的方式完成私钥的创建、签名和恢复等动作。在分布式计算的过程中，任何一方的私钥分片都不会因为协同交互而泄漏，并且完整私钥也不会以任何形式存在于任何地方。  
+
+Numen Cyber 和 Cobo的合作还将向扩展到网络攻击、智能合约审计和其他网络安全问题方面的合作，为用户提供最新的 Web3 安全技术和数字资产托管服务。双方期待通过此次合作，可以加速 Web3 生态系统的发展，向用户提供更加安全可靠的数字资产管理解决方案，一起携手推动 Web3 更快、更安全的持续发展。  
+
+Numen Cyber 的 CTO Chris Zheng 表示："与Cobo的战略合作是 Numen Cyber 的重要里程碑。它体现了我们与行业最佳服务商合作的承诺，以及我们致力于提供最先进和安全的网络安全解决方案的承诺。我们与 Cobo 一起共同构建更安全、更强大的 Web3 生态系统！" 
+
+Numen Cyber 致力于提供尖端的网络安全解决方案和推进 Web3 的发展，这是其创建更安全去中心化网络使命的一部分。同时，希望通过与 Cobo等行业领导者们的合作，共同塑造 Web3 安全的未来。 
+
+**关于 Numen Cyber**
+
+Numen Cyber 是一家总部位于新加坡的 Web3 安全及网络威胁检测和响应的解决方案提供商。Numen Cyber Labs 由来自全球的顶级安全专家组成，技术团队发现过很多知名 Web3 生态 (Aptos, Sui, EoS, Ripple, Tron 等 ) 及项目、微软、谷歌、苹果产品的高危漏洞，并提供业界领先的 Web3 安全解决方案，可满足各种 Web3 应用场景的网络安全需求。  Numen Cyber 通过对智能合约、公链、钱包、交易平台安全审计，链上合约威胁检测和响应、Web3 安全态势感知、数字货币追踪和 Web3 威胁情报等服务和产品增强 Web 3 项目在整个开发周期各个阶段的安全能力，保障项目方和用户的数字资产安全。更多信息，请访问：https://www.numencyber.com/ 
+
+**关于 Cobo**
+
+Cobo 是全球领先的数字资产托管解决方案提供商。Cobo 成立于 2017 年，总部位于新加坡，是全球最大的数字资产托管机构之一，用户遍布亚洲、欧洲、中东、北美和南美等地区，服务超过 500 家机构客户，托管资产达数十亿美元。Cobo 在美国、香港和立陶宛持有相应牌照，在迪拜获得虚拟资产牌照（原则性批准），同时已获得 SOC 2 Type I 认证。Cobo 获得了包括 DST Global、A&T Capital、IMO Ventures 和 DHVC Capital 等世界顶级投资机构的支持，2021 年 9 月完成 B 轮 4000 万美元融资。了解更多信息，请访问 Cobo 官网 https://www.cobo.com/
+
+![](https://img.foresightnews.pro/202303/e0a992d856aca4dff6bd65ad3e7653c3.png?x-oss-process=style/scale70)
+
+**Numen 官网**https://numencyber.com/ **GitHub**https://github.com/NumenCyber**Twitter**https://twitter.com/@numencyber**Medium**https://medium.com/@numencyberlabs**LinkedIn**https://www.linkedin.com/company/numencyber/

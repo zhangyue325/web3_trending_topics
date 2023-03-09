@@ -1,0 +1,104 @@
+DODO #Megascope 本周主要内容：
+
+1. LSD 赛道潜力项目解读
+2. Rollkit 支持 BTC 作为模块化的 DA 层
+3. AAVE 稳定币 GHO 具体参数设想披露
+4. Data Check：BTC 二层 NFT
+👀 Weekly Digest
+---------------
+
+### DeFi
+
+### LSD 赛道相关项目解读
+
+以太坊 LSD 赛道持续火热，由于以太坊质押率很低，有巨大的预期增长空间，本周我们分析 LSD 赛道的三个潜力项目。
+
+* Pendle Finance 是为生息资产设计的一个多链 DeFi 协议，近期将部署至 Arbitrum。
+* Pendle 用 PT 和 YT 两种 Token 来抽象表示生息资产，PT 代表基础代币，YT 代表利息收入，用户可以通过交易 YT 实现未来收益的折现。
+* 用户通过锁定底层资产至某个期限，可以获得对应的 PT 和 YT，PT 和 YT 均可以交易，实现了收益的折现。LSD 做为生息资产非常符合 Pendle 的设计，LSD 的质押收益稳定，且本身和 ETH 锚定，是优质标的。
+* Pendle 使得 LSD 加杠杆的范围进一步扩大，是 LSD 乐高中的重要工具，用户可以通过折现未来收益进一步加杠杆。
+* Pendle 原生代币经济模型是类似于 Curve 的 ve 机制，鼓励用户质押锁仓。用户通过质押原生代币，投票等获得收益激励。
+* Stader 是多链流动性质押协议，最近参与到以太坊 LSD 赛道的竞争，其 LSD 为 $ETHx。
+* Stader 降低了节点运营商的运营门槛，只需 4.4 ETH，相比之下，Lido 是 32 ETH，Rocket Pool 是 16 ETH。
+* Stader 的原生代币 $SD 参与协议分红，捕获 LSD 抽成收益，且 LSD 的 holder 也会分得抽成收益，这使得 Stader 的 ETHx 收益率要高于市场均值。
+* Stader 自身抽取 5% 的手续费，节点运营商不抽成，而是分配给 SD 的持有者，节点运营商通过额外的 SD 分配获得激励。独特的代币模型给 Stader 提供了较高的收益，这一点可能会成为 Stader 独特的市场竞争力。
+* Liquid Staking Derivatives 是一个 LSD 收益聚合协议，目前未上线，根据公开文档，其主要提供两种服务。
+* Liquid Staking Derivatives 本身提供质押服务，用户质押 ETH 后得到 lsETH，而 Liquid Staking Derivatives 会将 ETH 投入到其他 LSD 协议中。
+* 用户可以将其他协议的 LSD 质押到 Liquid Staking Derivatives 中，获得 veLSD，veLSD 具有治理权，也可以为 lsETH 的 APR 提供增幅。Liquid Staking Derivatives 会根据 DAO 的决定，将 LSD 放入其他 DeFi 协议中获取收益。
+* Liquid Staking Derivatives 提供了 LSD 聚合服务，并通过 ve 机制增加锁仓，吸收 LSD，而 LSD 乐高趋势明显，Liquid Staking Derivatives 可以将收集到的 LSD 放到其他 DeFi 协议获取额外收益。
+### Rollkit 支持 BTC 作为模块化的 DA 层
+
+BTC 二层叙事持续火热，基于 BTC 铭刻（类似于以太坊的 Mint 铸造）的 NFT 持续增长。Rollkit 是模块化区块链项目，开发人员可以基于 Rollkit 自定义区块链各层，更方便快捷的搭建 Rollup。其最近宣布支持将 BTC 作为 DA 层，这对 BCT 二层路线提供了另一种可行的路径。
+
+* Rollkit 提供了一个数据读写接口 Taproot，开发者可以通过该数据接口向 BTC 上写入和读取数据，从而 BTC 可以作为 DA 层存在，开发者可以基于 BTC 的数据以及安全性搭建 Rollup。
+* 根据其开发人员的测试，通过 Rollkit 接口向 BTC 写入数据的成本与以太坊相比便宜 7 倍。
+* 开发人员可以使用 Rollkit 提供的模块化框架，使用 BTC 作为 DA 层搭建 Rollup，方便简易。与之前 Stacks 提出的方案相比，模块化方案更具成本优势，对开发者也更为友好。
+### AAVE 稳定币 GHO 具体参数设想披露
+
+[AAVE 开发团队将 GHO 具体参数的设想披露给社区讨论](https://governance.aave.com/t/arfc-gho-genesis-parameters/12151)。
+
+* 对于其原生代币 AAVE，折现率设为 25%，AAVE 作为抵押物，其占全部抵押物的比例最高不能超过 25%。与现有协议相比，折现率偏高，且原生代币占比偏高。
+* 借贷利率为 2%-2.5%，接近于 AAVE 稳定币池子的借贷利率，略高于其他协议的利率。
+* 初始铸造上限为 50M 与 AAVE V3 借贷总额 25% 二者的最小值。
+* 预计初始添加的流动性是 15M 美金。
+* 总得来看，GHO 在这个参数设置上，其原生代币抵押比例上限为 25%，占比较高，应当关注其抵押资产中 AAVE 的占比，以及抵押时的价值。
+### Datacheck
+
+Ordinals 协议的发展，使得 Bitcoin NFTs 取得市场极大关注。 Ordinals 是一种简单而优雅的协议，允许用户在不使用智能合约的情况下在比特币区块链上“写入”最多 3.9 MB 的数据。与此同时，Yuga Labs 的 NFT 项目 - [TwelveFold](https://twelvefold.io/) 在 3 月 7 号 结束了 Bitcoin 上的 288 NFT 竞拍活动， 总计收入 735 BTC / $16,500,000。Bitcoin NFTs 的火热，也间接带动了 Bitcoin Layer2 的新一轮叙事，本周 Datacheck 将会看看 Bitcoin NFTs 以及 Bitcoin Layer2 的数据表现。
+
+1/ 铸造的 NFT 数量
+
+* 进入二月份，逐步起量，其中在 2 月中旬与 3 月上旬铸造最为活跃
+* 2 月 9 号与 3 月 1 号当天 mint 数超过 2 万，分别为 21,814 与 24,825
+* 截止 3 月 7 号 0 点，总 mint 数超过 33 万
+![source: https://dune.com/dgtl_assets/bitcoin-ordinals-analysis](https://img.foresightnews.pro/202303/78562d74de82f4f1ab61701d5c8f34c0.png?x-oss-process=style/scale70)
+
+2/ NFT 的数据类型
+
+* 几乎由 text 与 image 两种类型构成
+* 进入 3 月份，text 类型的 NFT 铸造量明显增多，按天统计已经持续超过 image 类型的 NFT
+![source: https://dune.com/dgtl_assets/bitcoin-ordinals-analysis](https://img.foresightnews.pro/202303/ba826a2479d423b040e0ae33637e9374.png?x-oss-process=style/scale70)
+
+3/ 铸造 NFT 的手续费支出
+
+* 累积铸造的网络手续费收入达到 68 BTC
+* 2 月 15 日当天 支付的网络手续费最多，达到 7.55 BTC
+* 2 月 15 日之后，手续费显著降低，但 NFT 的铸造数量并没有降低，说明技术层面对铸造交易做了优化
+![source: https://dune.com/dgtl_assets/bitcoin-ordinals-analysis](https://img.foresightnews.pro/202303/dd0ae99ca4ee4b69dc2123f622cb0d4b.png?x-oss-process=style/scale70)
+
+4/ 关于 Bitcoin NFTs 的交易市场
+
+* Volume: 2 月 28 号迎来明显峰值，达到 175 万美金，后续交易额下降明显（与 BTC 价格下跌存在一定关系）
+* Txs: 3 月 2 号迎来峰值，日交易笔数达到 2,500
+* Ordinals Market 在交易量上占据优势，而 Ordinals wallet 在交易笔数上存在优势
+![](https://img.foresightnews.pro/202303/ba50371035f060fed8997c86cee7710d.png?x-oss-process=style/scale70)
+
+![source: https://dune.com/domo/ordinals-marketplaces](https://img.foresightnews.pro/202303/44cc63c030a2c185092a9a6aa45c6bbc.png?x-oss-process=style/scale70)
+
+5/ 最近围绕 Bitcoin NFTs 的炒作导致了比特币 Layer2 叙事兴起，尤其是 Stacks (STX)。
+
+*注：Stacks 是比特币区块链上的二层网络，允许开发人员构建以太坊风格的智能合约*
+
+* STX 价格从 2 月 15 号的 0.3 美元，上升至 3 月 1 号的 1 美元，当前币价相较 0.3 美元仍有 近 140% 涨幅
+![source: https://www.coingecko.com/en/coins/stacks](https://img.foresightnews.pro/202303/268237ae3a1dbf287f9f9855b18e6670.png?x-oss-process=style/scale70)
+
+6/ 关于 Stacks 网络生态
+
+* 锁仓量从 2 月 18 号起，明显上升，从 8.7M 上升至 24.89M，增长接近 3 倍
+* Stacks 上协议相对较少，并且主要由 ALEX，去中心化交易所贡献了近 90% 锁仓量
+![](https://img.foresightnews.pro/202303/f60e795926efef8f2e86b20db73272f9.png?x-oss-process=style/scale70)
+
+![source: https://defillama.com/chain/Stacks](https://img.foresightnews.pro/202303/50d3c26ce1eeffd2351dd1cc41bef317.png?x-oss-process=style/scale70)
+
+7/ Bitcoin NFTs (Ordinals NFTs) 提供了一种完全链上，不需要智能合约，直接基于 Bitcoin Layer1 的 NFT 资产标准格式，同时 基于 Bitcoin 的 Layer2 智能合约生态，也为 BTC 带来了 Defi 应用的可能性。随着越来越多的工具与产品的发布，相信围绕 Bitcoin 的生态会迎来一波新的创新，有机会释放沉淀在 Bitcoin 链上的 BTC 价值。
+
+🚄 Bullet News
+-------------
+
+### Infrastructure
+
+* Scroll 在新一轮融资中筹集了 5000 万美元。投资者包括 Polychain Capital、红杉中国、Bain Capital Crypto、Moore Capital Management、Variant Fund、Newman Capital、IOSG Ventures 和 Qiming Venture Partners。Scoll 是采用 zk Rollup 技术路线的以太坊 Layer2 解决方案。
+### Market
+
+* Mt.Gox 进入赔付阶段，提供多种还款方式和时间选择，据知情人士透露，其中一次性还款的赔付方式的赔付比例是 71% 的加密货币加 29% 的现金。Mt.Gox 会通过一次性还款的赔付方式向债权人支付大量的 BTC，其最大的两大债权人已经选择一次性还款方式。赔付后市场会不会出现大量的抛售将取决于债权人的选择。
+* Silvergate 披露其资产不足，面临倒闭风险，这一消息在本周引起了市场的震动，其股价也暴跌 95% 以上。Silvergate 将大部分新资金投入了较长期的债券中，仅有 11% 的流动性资产是现金，其余部分是证券。而这些债券中仅有 11% 是美国国债，流动性较差，短期大量抛售会大幅折价。

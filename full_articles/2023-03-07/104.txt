@@ -1,0 +1,129 @@
+![](https://img.foresightnews.pro/202303/62aeafe7dadf9797a3e20d9c1f9171b4.png?x-oss-process=style/scale70)
+
+**事件梗概**
+
+  
+
+
+本月 3 日，SEC 提起诉讼，指控出售加密挖矿设备并为设备提供托管服务构成了 Howey 测试下的“**投资合同”**。该案已提交犹他州联邦法院。
+
+  
+
+
+本案由 SEC 针对 Green United, LLC、Wright W. Thurston 和 Kristoffer A. Krohn 以及 True North United Investments, LLC 和 Block Brothers, LLC。诉状称，被告通过以”Green Boxes” 和 “Green Nodes”的形式**销售加密资产挖矿产品，参与了欺诈性证券发行**，
+
+  
+
+
+被告是在名为”Green Blockchain”的区块链上开采一种名为 GREEN 的加密资产。被告谎称 Green United 将有效地运营投资者的 Green Boxes 和 Green Nodes，并向每个投资者分发通过采矿作业赚取的 GREEN 代币。他们还宣传 Green United 打算开发绿色区块链以创建“全球去中心化电网”，并且 GREEN 代币的价值将因此增加。
+
+  
+
+
+然而，SEC 发现 Green Boxes 和 Green Nodes 并没有开采 GREEN，**因为 GREEN 代币不是一种可开采（mineable）的加密资产**，Green Blockchain 并不存在。被告通过定期向投资者的钱包分发 GREEN 代币来制造成功挖矿操作的假象，这不是挖矿的结果，而仅仅是在被告指示下进行的分发，GREEN 代币没有可实现的价值，因为它不在二级市场上交易。
+
+  
+
+
+被告将很大一部分从投资者那里筹集的资金用于资助公司的运营和促销活动。Thurston 招募并向 Krohn 支付报酬，Krohn 作为未注册的证券经纪人推广和销售 Green Boxes，就 GREEN 代币的现值和可预期的投资回报**向投资者做出多次虚假陈述**。SEC 认为，投资者合理预期会从被告的创业和管理努力中获利，因此，Green Boxes 和 Green Nodes 的**要约和销售符合联邦法律规定的投资合同，属于证券。**
+
+  
+
+
+SEC 寻求永久禁令，禁止被告参与涉嫌的交易和业务过程，并禁止 Krohn 和 Thurston 参与任何未注册的证券发行，包括任何加密资产证券发行，并没收非法所得。
+
+  
+
+
+  
+
+
+**LegalDAO 快评**
+
+  
+
+
+在本案中，**SEC 的指控引起了市场的担忧**，因为之前并没有明确的指南表明出售挖矿设备可能构成未注册的证券发行。事实上，在美国开展业务的许多上市公司都销售挖矿设备并提供托管服务，它们从事这项业务已有多年，却没有受到 SEC 的明显指控。因此，这次指控的出现引起了市场对 SEC 监管过度扩张的担忧。
+
+  
+
+
+在此背景下，关于何种行为构成证券发行的问题亦将愈发复杂。SEC 所引用的 Howey 测试是判断某项交易是否构成证券发行的标准之一，然而，**在加密资产和区块链领域的应用中，如何应用 Howey 测试仍然存在争议****。**由于加密资产和区块链技术的本质和特点，一些交易可能不符合传统的证券相关概念，但**仍然可能需要遵守证券法规**。
+
+  
+
+
+实际上，市场对 SEC 监管动作质疑和忧虑的声音从未停止。的确，**零星监管无益于行业整体健康生态的形成**，例如上月的 SEC 与 Kraken 和解案也曾引发热议。如 a16z 总法律顾问 Miles Jennings 就直言“作为 Web3 的重要投资者和正在建设下一代互联网的企业，我们感到失望的是，Gensler 主席再次证明，他只会通过零散的执法行动来实施对行业的监管。”“距离美国 SEC 上一次发布与加密货币有关监管指导意见以来已经过去四年了。SEC 主席关注的仍旧是加密行业的头条新闻，而不是按照 SEC 的核心使命保护投资者的合法努力。”“**现在是 SEC 主席优先考虑监管规则的时候了**，这将使市场更加清晰，公众也能更好的得到保护。”
+
+![](https://img.foresightnews.pro/202303/9348ecab60732dcf19034d90a1f2406a.jpeg?x-oss-process=style/scale70)
+
+责编：Joseph
+
+排版：Sara
+
+  
+
+
+**作者简介：**
+
+Joseph，LegalDAO core buidler
+
+Twitter：@consensusislaw\_
+
+WeChat：lawwyf
+
+  
+
+
+
+
+---
+
+  
+
+
+欢迎加入 LegalDAO👏  
+
+
+你可以在这些地方查看我们更多的信息：
+
+  
+
+
+**官网地址：**https://www.legal-dao.org/
+
+**官方 Twitter：**@Legal\_DAO @LegalDAO\_CN  
+
+
+**TG Groupchat：**https://t.me/+rKIv-xAGpOExNTdh
+
+**Mirror：**https://mirror.xyz/0x4546D37A3274D87f543bAE095A75BaE40820BD89  
+
+
+**Discord：**https://discord.gg/gDujAsuy
+
+**Medium：**https://medium.com/
+
+**Linkedin：** https://www.linkedin.com/company/legaldao/
+
+**ForesightNews：**https://foresightnews.pro/column/detail/467
+
+**Github：**https://github.com/Legal-DAO
+
+  
+
+
+
+
+---
+
+  
+
+
+![](https://img.foresightnews.pro/202303/1085513bc037c86d261d5d2ff9f10f18.png?x-oss-process=style/scale70)
+
+  
+
+
+![](https://img.foresightnews.pro/202303/b983f7672c1c3c226a42958dc563e3b4.png?x-oss-process=style/scale70)
+
