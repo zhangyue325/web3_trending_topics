@@ -1,0 +1,39 @@
+关于 EtherScore：EtherScore 是一个根据用户的链上操作创建 NFT 徽章的综合系统。它们是不可磨灭的，可用于证明用户体验、提供成就证明或向特定类别的用户分配奖励。简而言之就是一个链上的身份认证系统，类似 BrightID。现在对于项目方测试空投，甄别用户多用白名单单一变量来解决，当考虑单个因素时，它们可能有意义，但每个新变量都会使列表更难组装且难以使用，尤其是在规模上。白名单缺乏加密社区所重视的透明度和可审核性。![](https://img.foresightnews.pro/202303/736c98a73494cd23850515bacb89acbe.png?x-oss-process=style/scale70)
+
+EtherScore 解决了区块链组织的一个基本问题：如何随着时间的推移发现、识别和奖励用户。它提供了一个分散的信誉系统，可以完全根据开发人员的需求进行定制，EtherScore 的可组合性和 NFT 徽章的持久性将允许出现一类新的基于声誉的区块链 DApp。关于融资：目前可查的是去年进行了种子轮融资，但具体金额未披露![](https://img.foresightnews.pro/202303/883033f12132f78ea1f2f971b43f6bd7.png?x-oss-process=style/scale70)
+
+该项目以当下项目空投分配机制痛点为切入点，且明确对社区有空投，推特关注人数不多，现在还属于早期，不卷，可以测试。**教程：****（撸猫安全第一，尽量用 0 资产钱包参与）**1 小狐狸钱包切换至 ploygon 测试网 Mumbai Testnet，参数如下：网路名称：Mumbai TestnetRPC：https://rpc.ankr.com/polygon\_mumbaiID:80001符号：MATIC2 前往测试网水龙头https://faucet.polygon.technology/ 输入地址，获取测试 token![](https://mmbiz.qpic.cn/mmbiz_png/jYVBVSfEuH76EMUbXXl9La5EEPMHVLkZeVxcD3xE5PzJXSBQzT9TY0GP8ay4SLy5HxlmNGW5fZJ6Qszz3mLt6g/640?wx_fmt=png)
+
+3 前往官网首页
+
+ https://alpha.etherscore.network/badges 链接钱包
+
+![](https://img.foresightnews.pro/202303/7da45bddb64c05fb28ee3496a9f777ad.png?x-oss-process=style/scale70)
+
+4 找到徽章标签，找到符合 claim 条件的徽章，点击 claim，成功后 claim 变更为 mint 按钮，点击 mint 钱包二次确认，成功后变为 owned
+
+![](https://img.foresightnews.pro/202303/849661be28733ab813ea47e514391afe.png?x-oss-process=style/scale70)
+
+5 想要了解激活徽章的条件可点击对应徽章的 details，进行查看
+
+![](https://img.foresightnews.pro/202303/aa675a609f788b4fe69c0e4c28bf38c6.png?x-oss-process=style/scale70)
+
+6 加入 DC，进入 collabland-join 频道，点击 connect wallet，链接钱包进行认证，成功后如图获得 DAOmember
+
+![](https://img.foresightnews.pro/202303/435916660776027f3756650a235e688c.png?x-oss-process=style/scale70)
+
+7 在 dao-chat 频道随意发言，可以看到名字变红，点击头像身份如下
+
+![](https://img.foresightnews.pro/202303/d050ac2acf9907cdba3b43db85bacdcc.png?x-oss-process=style/scale70)
+
+8 享受徽章持有者的好处* 加入相关项目 DC
+* 可以加入 EtherScore 的 snapshot 投票社群
+* 向 EtherScore 提议 DAO
+  
+
+
+以上即为全部教程，零撸永赚。  
+
+
+![](https://img.foresightnews.pro/202303/f5108a98998a54e0f6b5b174083d8470.gif?x-oss-process=style/scale70)
+

@@ -1,0 +1,115 @@
+![](https://img.foresightnews.pro/202303/79d126c398a2f8a8491f502b7c71130f.png?x-oss-process=style/scale70)
+
+  
+
+
+近日，**IoTeX 对 Meta-Pebble 完成了重大升级，推出了 Trusted Location 可信位置，提供基于 W3bstream 将现实世界地理位置接入区块链网络智能合约的地理位置数据服务**。作为 IoTeX 网络上又一个重要基础设施，可信位置能够为开发者和投资人带来巨大的商业机遇。  
+
+
+  
+
+
+与 Meta-Pebble 不同，基于 W3bstream 的可信位置不需要购买 NFT，用户可以直接使用这一服务。
+
+  
+
+
+IoTeX 联合创始人兼 CEO Raullen 表示：“**可信位置不仅是一款产品，而是一个全功能的基础设施，可以为开发人员和投资者创造新的机会，孵化出海量商业用例。**我们相信，IoTeX 的社区投资人会从中发掘出更多价值。”
+
+Raullen 提到：“可信位置是 Meta-Pebble 概念的升级，是一个更宏大、更具发展潜力的项目。他与 Meta-Pebble 不同的是，用户不需要购买 NFT 就可以直接使用。我们认为，可信位置或将成为 Web3 大规模推广和应用的关键。”
+
+  
+
+
+一年多前，IoTeX 团队发布了 Meta-Pebble。在经过详尽的商业逻辑审查和调研之后，团队认为 Meta-Pebble 需要成为一个任何人都可以轻松上手、免费使用的应用程序，为 Web3 大规模应用提供强力支持。  
+
+
+  
+
+
+Raullen 认为：“可信位置有望改变加密行业的游戏规则，所有使用者都可以更加轻松便捷地创建自己的 NFT 或 dApp 产品。”
+
+  
+
+
+Raullen 解释道，与其研发单一的产品，IoTeX 团队的 50 多名顶级工程师选择将 Meta-Pebble 升级为可信位置。在 W3bstream 的技术赋能下，可信位置可以支持数百个由社区构建的项目及产品。
+
+  
+
+
+可信位置将彻底改变基于地理位置的 NFT 铸造方式，通过使用者的手机以可验证、防篡改的方式将数据连接到 IoTeX 区块链网络和智能合约上。
+
+  
+
+
+无论是来自可穿戴设备的健身数据或健康相关数据，还是骑行或移动等与旅行相关的数据，或者是能证明参观博物馆或体育赛事的位置数据，可信位置首次为用户提供了通过现实世界活动赚取数字资产的新方式。
+
+  
+
+
+Perkable 将成为第一个使用可信位置基础设施的项目。Perkable 是一款基于 W3bstream 的创新型地理位置 dApp，目前正在 IoTeX 社区进行测试。Perkable 通过可信位置提供位置证明和 DID 解决方案，将用户和设备 IMEI 绑定起来，以确保每位用户的真实性。
+
+  
+
+
+每个用户只能在一台智能设备上创建一个账户。这一功能使很多用例变得更可信、公平、安全。比如，通过 Perkable 政府可以透明、公正地向难民、灾难受害者、全国民众发放救助金或基本收入保障资金。
+
+  
+
+
+可信位置的发布将成为 IoTeX 发展历程中又一个重要里程碑，IoTeX 离实现“将现实世界智能设备接入 Web3 世界的机器经济”愿景更近了一步！
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+**关于 IoTeX**
+
+IoTeX 作为硅谷开源项目成立于 2017 年，以链接现实世界和数字世界为愿景，是新一代与以太坊全兼容的高性能公有区块链。IoTeX 致力于将区块链、可信硬件与物理世界数据预言机结合起来，为分布式应用和数字资产提供开放、可信、高效、自治的基础设施，创造全新的机器金融和数据信息市场。
+
+  
+
+
+**联系 IoTeX**
+
+了解更多关于 IoTeX 的信息，或进行项目技术方面的探讨，欢迎随时通过以下渠道与 IoTeX 团队取得联系！
+
+* 官网: https://iotex.io
+* MachineFi 官网：https://machinefi.com/
+* W3bstream 官网：https://w3bstream.com/
+* 链上生态：https://ecosystem.iotex.io/
+* 质押门户网站：https://stake.iotex.io/
+* 开发者门户网站：https://developers.iotex.io/
+* 多链钱包 ioPay：https://iopay.me/
+* 超级跨链桥 ioTube：https://iotube.org/
+* 微信公众号：IoTeX 社区
+* 微博：IoTeX 社区
+* 中文电报群：https://t.me/IoTeXGroupCN
+* 中文推特：https://twitter.com/iotex\_cn
+* Twitter：https://twitter.com/iotex\_io
+* Blog：https://iotex.io/blog
+* Youtube：https://www.youtube.com/channel/UCdj3xY3LCktuamvuFusWOZw
+* Reddit：https://www.reddit.com/r/IoTeX/
+  
+
+
+**推荐阅读**
+
+[***R3AL WORLD 的全新理念：Right Here. Right Now. 此时此刻，就在这里!***](http://mp.weixin.qq.com/s?__biz=MzU0MzY5NjI4OQ==&mid=2247496055&idx=1&sn=d23c79d009bb223182ad2dd886e628fc&chksm=fb05c5b9cc724caf789688a8e598a37f9dd2d4fec1ece911c8e739cc8560472abcf03bdcf6d5&scene=21#wechat_redirect)  
+[***工业元宇宙，最具潜力创造数万亿美元价值的机器经济用例方向***](http://mp.weixin.qq.com/s?__biz=MzU0MzY5NjI4OQ==&mid=2247495919&idx=1&sn=f9b3d33a96a82634e29be780b630c2ff&chksm=fb05c421cc724d375ec28fd452e37182f59ce04048c02cb33dcf3b3b44540367a125397592bc&scene=21#wechat_redirect)  
+
+
+[***W3bstream Reddit AMA 回顾：链接现实世界和 Web3 世界的桥梁***](http://mp.weixin.qq.com/s?__biz=MzU0MzY5NjI4OQ==&mid=2247495841&idx=1&sn=8b85e37e09d729be5056f758e6c3ef0f&chksm=fb05c46fcc724d792f4f7d211d9cefbb9272d1fe0e77cbb5db3a5ac9b63dd3b51cca466cf6f5&scene=21#wechat_redirect)  
+
+
+![](https://img.foresightnews.pro/202303/86ffae73b57a861b3e5d860367002d21.png?x-oss-process=style/scale70)**喜欢 IoTeX，就点个“在看”**
+
+![](https://img.foresightnews.pro/202303/12d974c71dcd26ec6e05697b73564f58.png?x-oss-process=style/scale70)

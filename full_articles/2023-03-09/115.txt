@@ -1,0 +1,204 @@
+![](https://img.foresightnews.pro/202303/a84a08aa64db026931eb29462ccab585.png?x-oss-process=style/scale70)**作者:北辰**  
+
+
+熟悉链茶馆的朋友一定知道我们长期关注 DeFi 领域，尤其是在两年前就笃定 DeFi 衍生品赛道一定会爆发。
+
+  
+
+
+但尴尬的是，DeFi衍生品赛道直到半年前才开始真正繁荣，并且跑出来的项目都在我们的关注视野之外……尤其是我们认为它们就DeFi衍生品而言，要么不够DeFi，要么不够衍生品。
+
+  
+
+
+这个过程中，我们也在不断反思，未来的 DeFi 衍生品黑马会是什么？
+
+  
+
+
+除了作为 DeFi 衍生品交易所的外部观察者，我们也与躬身入局的行动者对话，一起复盘过去两年的经历，你可以当作从市场和产品的逻辑出发的反思。
+
+  
+
+
+我相信这些由大量时间、精力、热情和智力凝结而成的经验与教训，可以作为一种认知上的杠杆，来撬动你对 DeFi 衍生品的理解。
+
+  
+
+
+**以市场逻辑为出发点**
+
+  
+
+
+2021 年 2 月份，DeFi Summer 已经过去了大半年，借贷、交易这种最基本的金融业务已经饱和，头矿趋冷，让热钱开始关注金融的深水区——衍生品。
+
+  
+
+
+当时的市场逻辑是金融基础模块已经完全可以满足投资者的需求了，所以飞速迭代进化的 DeFi，一定会继续生长，去触碰衍生品这个「金融皇冠上的明珠」。
+
+  
+
+
+链茶馆沿着这个逻辑，认为衍生品比较复杂，它的 DeFi 解决方案一定是由更懂金融的团队提供的，然后我们接触了 Deri Protocol 团队，从此经常就 DeFi 衍生品展开对话并持续至今。
+
+  
+
+
+可在之后的两年里，市场并没有按照我们当初推导的逻辑来发展，那么问题出在了哪里？
+
+  
+
+
+现在回过头来看，基本逻辑没问题，问题是我们忽视了命题成立所需要的复杂条件，或者我们反过来看也许更清晰——**2021 年 2 月份链上衍生品交易为什么没有立即爆发？**
+
+  
+
+
+**首先是交易用户的基数不够。**
+
+  
+
+
+虽然 Yield Farming 给链上带来了前所未有的新用户，但他们主要是冲着 APY 而来的理财用户，真实的交易用户其实不多（即使是 Uniswap 的月活也仅 35 万），更不用说在链上交易复杂的衍生品了。
+
+  
+
+
+**其次是对流动性提供者而言吸引力不大。**
+
+  
+
+
+当时以释放平台币为核心的 Yield Farming 模式已经开始失效，但链上衍生品交易所才开始陆续上线，流动性提供者已经开始免疫，具有旁氏因子但 APY 超高的算法稳定币此时显然更有吸引力。
+
+  
+
+
+我们现在即使带着后见之明，去重新回到当时受到以上两方面夹击的情境当中，也依然找不到链上衍生品交易所的突破点。
+
+  
+
+
+事实上**后来链上衍生品交易所起飞，很大程度上是外部因素导致的。**
+
+  
+
+
+中心化交易所的陆续暴雷，许多原本只在链上理财的用户也开始把交易行为转到链上。而以释放真实收益为核心的 Real Yield 模式这时候也逐渐跑出来，对流动性提供者而言非常有吸引力。
+
+  
+
+
+于是较早采用这一模式的 GMX 起飞也就在情理之中。可以说 GMX 的成功很大程度上不是 DeFi 衍生品的成功，就像德云社火了不意味着相声火了。
+
+  
+
+
+而链上衍生品交易所在外部因素满足之前，唯一需要做的就是「活下去」——产品上不断迭代以尝试新的方向，社区里不断互动以维护好既有的用户规模及活跃度，然后就是**等待风口的到来。**
+
+  
+
+
+至于在此期间产品迭代的逻辑，Deri Protocol 团队当初的思考也非常有参考价值。
+
+  
+
+
+**以产品逻辑为出发点**
+
+  
+
+
+2021 年 DeFi 衍生品赛道的头部还是 dYdX、Perpetual 等，但它们只能说是链上的期货交易所，而不是像 Uniswap 那样核心交易逻辑全部在智能合约里进行。
+
+  
+
+
+在当时的 Deri Protocol 团队看来，DeFi 衍生品交易所首先应该是 DeFi，其次才是关于衍生品，而 DeFi 是金融在交易范式和资产转化效率上的进化，Uniswap 就是最典型的案例。
+
+  
+
+
+**基于 AMM 的交易范式**
+
+  
+
+
+在古典金融的交易所里，流动性提供者是指定做市商，他们相比普通交易者拥有费用优势（手续费返佣，最终导致平均交易成本为负）、信息优势（能看到更深度的订单簿）以及技术优势（拥有更快的接入速度）。
+
+  
+
+
+而 Uniswap 则直接抛弃了基于订单簿的交易范式，采用基于流动性池的 AMM 交易范式，做市商变成了 LP，没有任何门槛。而且 AMM 模式还聚集了碎片化的流动性，极大提升了资本效率。
+
+  
+
+
+**以 token 实现资产转换**
+
+  
+
+
+在 DeFi 诞生之前，不同资产之间转换几乎全部以现金类资产（M1）作为中介。比如把房产转换成股票，就需要先将房产出售换成现金，再用现金买股票，这个过程中的转换摩擦非常大，然后为了提高资本效率去加杠杆，又很容易招致流动性金融危机。
+
+  
+
+
+但是进入了 DeFi 时代，链上的资产之间（即使是 FT 与 NFT）可以直接在 swap 转换，无需中介的存在。
+
+  
+
+
+所以 Deri Protocol 的产品逻辑可以说是 Uniswap 风格的 BitMEX。
+
+  
+
+
+后来他们的版本迭代**要么是沿着 DeFi 的基本逻辑推出共享流动性池、外部流动性池等机制，要么是沿着衍生品的逻辑推出永续合约、永续期权、Power、Gamma 等不同的永续衍生品类型**，尤其是永续期权及之后的衍生品类型都是第一个在金融世界里实现的。
+
+  
+
+
+然而现实是在过去 DeFi 衍生品赛道狂飙突进的半年里，沿着 DeFi 和衍生品逻辑不断迭代的 Deri Protocol 并没有占据多少市场份额或者市值排名靠前……
+
+  
+
+
+很大程度上是因为**现有的链上衍生品市场的功能还比较单一，主要是赌涨跌的投机需求，还没有催生出多少对冲的需求。**
+
+  
+
+
+而基于衍生品去服务更多场景则需要提供一系列专业工具，否则只有非常专业的用户才能直接通过衍生品交易来做对冲，所以未来的衍生品交易所应该会推出一系列衍生品工具包（例如做了衍生品对冲之后的各种理财产品）。
+
+  
+
+
+**总结**
+
+  
+
+
+经过两年的发展，链上衍生品交易已经培育了不少交易者，并且由于衍生品交易的手续费高于现货，对流动性提供者而言也非常有吸引力，相信链上衍生品交易 2023 年会继续发展（也包括非 DeFi 的链上衍生品交易）。
+
+  
+
+
+至于**DeFi 衍生品，会从单一的交易需求进化到更加多元的对冲、理财等需求**，就像传统金融的衍生品市场是由庞大的实体行业的对冲需求支撑起来的那样。
+
+  
+
+
+所以在两年后的今天，我们依旧看好 DeFi 衍生品赛道，尤其是基于基本的衍生品交易建构相对复杂的理财需求的衍生品交易所。
+
+  
+
+
+**热门赛道专题**
+
+ [DeFi](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUxNDkxOTc4MA==&action=getalbum&album_id=2635260946592038912#wechat_redirect) ｜ [GameFi](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUxNDkxOTc4MA==&action=getalbum&album_id=2635277667805691906#wechat_redirect)｜[NFT](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUxNDkxOTc4MA==&action=getalbum&album_id=1783721960858796035&token=108254220&lang=zh_CN#wechat_redirect) ｜ [DAO](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUxNDkxOTc4MA==&action=getalbum&album_id=2635483580114141185#wechat_redirect) [｜](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUxNDkxOTc4MA==&action=getalbum&album_id=2635344486105088002#wechat_redirect) [SocialFi](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUxNDkxOTc4MA==&action=getalbum&album_id=2635344486105088002#wechat_redirect)
+
+[以太坊](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUxNDkxOTc4MA==&action=getalbum&album_id=2635348925943644161#wechat_redirect) ｜ [元宇宙](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUxNDkxOTc4MA==&action=getalbum&album_id=2635491315937443840#wechat_redirect) ｜ [跨链](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUxNDkxOTc4MA==&action=getalbum&album_id=2635334314750115841#wechat_redirect)[｜](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUxNDkxOTc4MA==&action=getalbum&album_id=2635344486105088002#wechat_redirect)[公链](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUxNDkxOTc4MA==&action=getalbum&album_id=2635226650506428417#wechat_redirect) 
+

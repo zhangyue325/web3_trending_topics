@@ -1,0 +1,250 @@
+  
+
+
+![](https://img.foresightnews.pro/202303/8f1f82bee0b4c4c891959d61e1046265.png?x-oss-process=style/scale70)  
+
+
+**Safeheron** 近期上线了 Web3 产品套件，在 MPC 和 TEE 技术的保护下，客户可以安全地通过 Safeheron 浏览器插件 与 dApp 交互，解决客户多人安全管理资产的需求。由于 dApp 种类繁多，在安全层面的设计各有不同，因此 Safeheron 安全团队定期审查用户交互的 dApp，以排除用户使用过程中的潜在安全问题。  
+
+
+  
+
+
+在近期的安全审查中，Safeheron 安全团队发现一些 dApp 的授权设计，在特定的场景下存在潜在的安全问题：
+
+  
+
+
+1. dApp 授权连接时可以绕过硬件钱包（冷钱包）对私钥的安全防护，理论上无需在硬件钱包中完成授权，即可获取 dApp 的核心操作权限。
+2. 使用 MPC 构建的自托管钱包平台，原则上无法控制用户资产，仅在用户授权同意参与 MPC 计算时才可以转移用户资产。但是使用 MPC 钱包连接特定的 dApp 时，可以打破自托管钱包平台无法控制用户资产的原则，平台方可以未经用户授权，掌握用户 dApp 中资金的控制权限；而且对于客户而言，可能会绕过预设交易策略，或者员工离开该组织后依然有权限操作 dApp。
+
+  
+
+
+Safeheron 安全团队发现问题后，第一时间联合慢雾安全团队共同验证和协商解决方案， SharkTeam 也参与到问题验证中，并向可能受到影响的各方进行披露。经验证，该问题不影响 MPC 钱包进行资金管理的安全性，仅在和特定 dApp 交互时才存在潜在安全问题。
+
+  
+
+
+Safeheron 把类似机制造成的问题称为**基于签名派生密钥风险（Signature-derived Key Risk）**，本文以 dYdX 为例，分析此类 dApp 在特定场景下的潜在安全问题。
+
+  
+
+
+**背景知识**
+
+**ECDSA 中使用确定性随机算法**  
+
+
+ECDSA 中存在临时密钥 k，临时密钥的取值方式不仅决定签名算法的安全性，而且还影响使用「相同的私钥」针对「相同的待签署数据」签名时「签名结果」是否确定。
+
+  
+
+
+如果在签名过程中临时密钥 k 使用随机数生成器生成，那么使用私钥 sk1，对 hash1 第一次签名得到 sig1，第二次签名得到 sig2，此时 sig1 不等于 sig2。
+
+  
+
+
+如果根据 RFC6979 协议中的确定性随机算法实现签名算法，在签名过程中使用确定性临时密钥 k，那么使用私钥 sk1，对 hash1 第一次签名得到 sig1，第二次签名得到 sig2，此时 sig1 等于 sig2。
+
+  
+
+
+常见的 HD 软件 / 硬件钱包中通常采用 RFC6979 协议实现 ECDSA 算法。dYdX 等 dApp 正是基于 RFC6979 协议特性，用户每次授权对固定内容进行签名总可以得到相同的签名，使用此签名作为密钥派生的源头，可设计出一种基于 L1 钱包派生可恢复的 L2 密钥机制。
+
+  
+
+
+**ECDSA 签名算法 MPC 协议中的分布式签名协议**
+
+  
+
+
+在 MPC 的场景下，分布式签名协议有两个重要的不同于单私钥签名算法的特性：
+
+  
+
+
+1. 基于安全性考虑，签名协议中使用的临时密钥 k 使用随机数生成器生成，因此使用相同的私钥分片对同一个 hash 进行多次签名，每次得到的签名结果不同
+2. GG18、GG20、MPC-CMP 等常见的 t/n 签名协议中，参与签名协议的 t 方均可以得到签名结果。
+  
+
+
+**dYdX 的 STARK Key 和 API Key 派生逻辑**
+
+**dYdX 中的认证方式**
+
+dYdX 中的私有 API 存在 3 种认证方式：
+
+  
+
+
+1. Ethereum Key Authentication：可用于注册用户，注册 STARK Key，管理 API Key，强制交易或者强制取款等。
+2. STARK Key Authentication：L2 系统中的独立密钥对，可用于下单，转账，取款等敏感操作。采用 ECDSA 算法，使用 STARK curve，与 SECP256K1 curve 不同。
+3. API Key Authentication：与 dYdX 交互的 API Key，所有私有操作都需要该认证方式。
+
+  
+
+
+从以上 3 种认证方式可知，下单或者转移 dYdX 中的资产等敏感操作，只需 STARK Key Authentication 和 API Key Authentication，无需 Ethereum Key Authentication。
+
+  
+
+
+**dYdX 中的密钥派生方式**
+
+dYdX 官方网站 UI 和 TypeScript SDK、Python SDK 中设计了一种依赖 EVM L1 钱包生态的密钥管理方式，核心目的在于防止 STARK Key 和 API Key 丢失。只要 L1 钱包私钥不丢失，按照固定的派生算法就可以重复派生出相同的 STARK Key 和 API Key。
+
+![](https://img.foresightnews.pro/202303/27ce1fa9b1082826112c0eecfce29e8f.png?x-oss-process=style/scale70)**dYdX 中的密钥派生流程**
+
+  
+
+
+如图所示，dYdX 中 STARK Key 与 API Key 的核心派生逻辑如下：
+
+  
+
+
+1. 使用 L1 ECDSA Signer 的 eth\_signTypedData\_v4 签名方式对消息 dYdX STARK Key 签名得到 *stark\_key\_signature*。本步骤需要用户在使用的钱包中进行签名授权。
+2. 使用 L1 ECDSA Signer 的 eth\_signTypedData\_v4 签名方式对消息 dYdX Onboarding 签名得到 *api\_key\_signature*。本步骤需要用户在使用的钱包中进行签名授权。
+3. 通过 *stark\_key\_signature* 派生得到 STARK Key 公私钥对。本步骤在本地计算，因为大部分钱包采用 RFC6979 协议实现签名算法，因此每次签名得到的 *stark\_key\_signature* 固定，所以 STARK Key 公私钥固定。
+4. 通过 *api\_key\_signature* 派生得到 API Key 密钥信息。本步骤在本地计算，因为大部分钱包采用 RFC6979 协议实现签名算法，因此每次签名得到的 *api\_key\_signature* 固定，所以 API Key 密钥公私钥固定。
+5. 如果用户首次使用 dYdX，调用接口 /v3/onboarding 进行注册，注册时提交 STARK Key 公钥信息、*api\_key\_signature*、用户 L1 address 等信息。
+
+  
+
+
+如果用户按照官方网站 UI 或者 SDK 方式使用 dYdX 注册后，后续通过 1～4 步骤经过钱包授权后，便可恢复 STARK Key 和 API Key ，即可获得 dYdX 的操作权限。
+
+  
+
+
+**POC**  
+  
+
+
+由于上文流程中步骤 1 和 2 每次签名后得到的签名固定，因此获得某次授权后的 *stark\_key\_signature* 和 *api\_key\_signature* 即可进行步骤 3 和 4 得到 STARK Key 和 API Key。
+
+  
+
+
+慢雾安全团队已经验证，如果获得某钱包账户授权的 *stark\_key\_signature* 与 *api\_key\_signature* 两个签名，便可以操作该钱包账户在 dYdX 资产，如下单、L2 转账等。攻击者可以将 dYdX 中资产首先通过 L2 转移到攻击者账户，然后提取到攻击者账户的 L1 钱包账中。
+
+  
+
+
+**潜在的安全问题**
+
+**绕过硬件（冷）钱包的私钥管理机制**
+
+一般对于区块链钱包而言，签名后的签名结果并非敏感信息，因为每笔区块链交易中均包含该交易的签名，且该签名是公开信息。因此钱包软件 / 硬件无法针对签名结果增加更加针对性的安全管理措施。
+
+  
+
+
+由于 STARK Key 与 API Key 使用 stark\_key\_signature 与 api\_key\_signature 派生得到，经过首次连接 dYdX 后， stark\_key\_signature 与 api\_key\_signature 已经脱离钱包应用的密钥管理范围。如使用硬件钱包场景，一旦使用硬件钱包操作过 dYdX，stark\_key\_signature 与 api\_key\_signature 便不再受硬件钱包安全管理。因此，攻击者一旦掌握了 stark\_key\_signature 与 api\_key\_signature 后，后续与 dYdX 操作完全可绕过硬件钱包授权。其他使用类似机制的 dApp 存在同样的问题。
+
+  
+
+
+**打破 MPC 钱包自托管原则**
+
+  
+
+
+基于 MPC 技术构建的自托管钱包平台一般通过去中心化管理私钥分片的形式实现自托管，即钱包平台无法未经用户授权的情况下独自掌握用户资产的控制权。基于 MPC 的自托管钱包平台一般使用 GG18、GG20、MPC-CMP 等协议。而 GG18、GG20、MPC-CMP 等 t/n 协议中，参与签名协议的 t 方均可以得到授权之后的签名结果。
+
+  
+
+
+针对基于 MPC 的自托管钱包平台而言，一旦用户使用过 dYdX 等类似 dApp，MPC 钱包平台方作为私钥分片管理的参与方，自然也可以获取 stark\_key\_signature 与 api\_key\_signature。此时 MPC 钱包平台方有能力在不经过用户授权的情况下控制用户 dYdX 中的资产。
+
+  
+
+
+因此使用 MPC 钱包与 dYdX 或者类似使用签名结果派生密钥的 dApp 交互，对于 MPC 钱包平台而言，打破了自托管原则，平台方可绕过用户授权、绕过 MPC 计算控制用户在此类 dApp 中的资产。针对客户而言，可能会绕过预设交易策略，或者员工离开该组织后依然有权限操作 dApp。
+
+  
+
+
+**使用随机临时密钥 k 钱包的用户潜在丢失资产问题**
+
+  
+
+
+现在有很多浏览器钱包插件通过覆盖 MetaMask 相关接口的方式提供钱包接口，或者通过 WalletConnect 方式连接 dApp。dYdX 官方网站 UI 在使用 MetaMask 或者 WalletConnect 连接用户钱包时，默认接入的钱包均符合 RFC6979 规范，对钱包未进行检测。如果用户使用的钱包采用随机临时密钥 k ，可能造成用户关闭浏览器或者更换浏览器后，使用相同 L1 钱包，无权限操作 dYdX 从而造成资产丢失。虽然可以通过 Ethereum Key Authentication 方式强制赎回资产，但是赎回方式复杂，普通用户几乎没有能力完成此操作。
+
+  
+
+
+**解决方案**
+
+**dYdX 类 dApp 优化密钥管理机制，与社区共建钱包接口规范**  
+
+
+  
+
+
+在 dYdX 的场景下，由于 dYdX 基于 StarkEx 构建，StarkEx 基于 STARK proof 机制构建，因此需要在使用的过程中派生 STARK Key 以及使用基于 STARK curve 的签名算法。为了兼容现有的 EVM 钱包生态，dYdX 采用了基于签名派生密钥的方式，而这种方式导致密钥管理的范围脱离了钱包保护私钥的范围。
+
+  
+
+
+如果想要更好地保护 STARK Key，则需要 STARK Key 的派生过程和使用过程在安全的环境中进行，且每次签名均需要用户授权，例如：派生过程和签名过程均在钱包应用中完成。目前更好的方式是与钱包社区共建基于 STARK Key 的私钥管理接口规范，钱包层面支持 STARK curve 的 ECDSA 签名算法，可以在 StarkEx 场景下更好的保护私钥。
+
+  
+
+
+原生支持硬件钱包的 dApp 用户依然可以使用硬件钱包以更好保护资产，而对于 dYdX 和其他尚未原生支持硬件钱包的 dApp 来说，Safeheron 安全团队建议此类 dApp 用户保证自己的操作环境安全，如准备专有的 MacBook 操作 dYdX，并及时更新浏览器，电脑中不安装其他无关的软件，浏览器中不安装插件，保证操作环境安全。
+
+  
+
+
+Safeheron 也在积极地联系 StarkWare 和社区以共同构建一个安全模型以满足与 dYdX 类 dApp 安全交互的需求。在 Safeheron 通知的 MPC 解决方案中，一些解决方案如 ZenGo、Fireblocks、Fordefi 等也正在构建他们的安全模型以解决这个问题。
+
+  
+
+
+**MPC 自托管钱包平台屏蔽 dYdX 类的 dApp**
+
+针对自托管钱包平台，因为现有 dYdX 官方网站 UI 下打破了自托管原则，所以临时的解决方案可以屏蔽 dYdX 类 dApp，并给客户进行明显提示。dApp 在连接钱包时提示客户，使用 MPC 钱包时可能存在的潜在风险。已经使用 MPC 自托管平台管理 dYdX 的客户可以使用其他新的账户重新连接 dYdX，并将老账户中资金转移到该新账户，以确保资产安全。
+
+  
+
+
+**通过支持 STARK curve 的 MPC ECDSA 协议安全管理 STARK Key**
+
+  
+
+
+如果客户有多人共同管理在 dYdX 中资产的需求，那么可以针对 StarkEx 所使用的 ECDSA 设计出对应的 MPC 协议，在私钥管理层面实现多人共管。目前 Safeheron 也在积极与社区沟通解决方案，并且启动 MPC-ECDSA 支持 STARK curve 协议的实现和开源，后续 Safeheron 客户可以通过该 MPC 协议安全地多人管理 dYdX 中的资产，社区可以基于该开源协议定制不同的解决方案。
+
+  
+
+
+**dYdX 类应用检查钱包是否符合 RFC6979 规范**
+
+  
+
+
+因为使用随机临时密钥 k 钱包的用户潜在丢失资产问题，所以 dYdX 类应用应该在连接钱包时检查是否符合 RFC6979 规范，如果不符合该规范，应提示用户，并拒绝该钱包连接；优化 Ethereum Key Authentication 方式强制赎回资产方式和操作体验，便于用户快速找回资产。
+
+  
+
+
+**总结**
+
+  
+
+
+Safeheron 本着最高安全行业准则和对用户负责的态度，立即启动披露程序，所涉各方均已采取有效措施。dYdX 已经禁止 L2 交易以降低风险；Safeheron 计划开源支持 STARK curve 的 MPC-ECDSA 协议，同时计划在产品层面增加对 StarkEx 和 StarkNet 的原生支持，以更好地协助用户安全地管理资产。
+
+  
+
+
+在 Web3 迅速发展的今天，资金暴雷事件频发，用户资金安全不容忽视，Safeheron 与社区、协议方和其他安全公司通力合作，提出问题并解决问题，共同维护加密世界的安全。
+
+  
+
+

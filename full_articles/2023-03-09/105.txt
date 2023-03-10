@@ -1,0 +1,106 @@
+今年的政府工作报告提出，大力发展数字经济，提升常态化监管水平，支持平台经济发展。此前，中共中央、国务院印发了《数字中国建设整体布局规划》，提出全面提升数字中国建设的整体性、系统性、协同性，促进数字经济和实体经济深度融合。  
+
+
+近期，一些代表、委员们就此提出意见建议，一个个数字经济热词，聚焦新经济、助推创新潮。
+
+**热词一：数字中国**
+
+**全国政协委员、京东集团技术委员会主席、京东云事业部总裁曹鹏：**
+
+“新型实体企业在赋能供应链上下游数字化转型、助推产业链降本增效、助力数实融合和高质量发展中发挥了重要作用，培育和发展新型实体企业具有重要意义。建议鼓励新型实体企业助力中小企业‘上云用数赋智’。”
+
+**全国人大代表、辽宁大学党委副书记、校长余淼杰：**
+
+“要加大对供应链基础设施建设和数字化、智能化转型的支持力度，充分发挥市场在资源配置中的作用，以产业发展为载体，鼓励各市场主体参与，形成高效先进的数智化社会供应链，建设高效顺畅的流通体系，助力实体经济高质量发展。”
+
+中央财经大学数字经济融合创新发展中心主任陈端对《证券日报》记者分析，在国际政治经济形势变幻莫测并对经贸往来产生多重影响下，向内挖潜，以数字经济带动产业升级和国内资源再整合并培育壮大新动能，是我国的一个现实选择。数字中国建设具有很强的通盘考量、顶层设计色彩，也是新型举国体制在中国式现代化目标引领之下的一次创新实践。
+
+**热词二：未来科技**
+
+“踢足球都是盘带、射门，但是要做到梅西那么好也不容易。从这一点看，ChatGPT 在技术进步上，特别是保证算法的实时性与算法质量的有效性上，非常难。”在十四届全国人大一次会议第一场“部长通道”上，科技部部长王志刚对 ChatGPT 做出十分接地气的评价。
+
+这也是近期王志刚第二次提及 ChatGPT。今年的两会建议、提案中，ChatGPT、人形机器人等关乎未来科技发展的词汇也高频出现。
+
+**全国政协委员、360 集团创始人周鸿祎：**
+
+“建议从两方面着手发展人工智能大模型技术，一是建立大型科技企业 + 重点科研机构的产研协同创新模式，打造中国的‘微软 +OpenAI’组合，引领大模型技术攻关；二是设立多个国家级人工智能大模型的长期开源项目，打造开源众包的开放创新生态。”
+
+**全国人大代表、小米集团创始人、董事长兼 CEO 雷军：**
+
+“仿生人形机器人是刚柔耦合的复杂动力学系统，与自动驾驶等新兴技术领域紧密关联，其发展与突破将成为社会经济发展和国际科技竞争的战略制高点。”
+
+**全国政协委员、高锋集团董事局主席吴杰庄：**
+
+“充分重视元宇宙发展与治理问题，积极推动支撑元宇宙发展的技术进步和基础设施建设，同时关注元宇宙前瞻治理问题。”
+
+中国移动通信联合会区块链专业委员会主任委员、首席数字经济学家陈晓华对《证券日报》记者表示，科技部已经提出把人工智能作为战略性新兴产业，不仅国内资本将会加强对于人工智能企业投资，政府相关产业项目也将增加，国内人工智能企业发展将迎来新的机遇。  
+
+
+**热词三：5G 应用与 6G 研发**近期 5G、6G 话题频繁出现在工业和信息化部会议上，在全国两会首场“部长通道”上，工业和信息化部部长金壮龙介绍，工业和信息化部正在总结推广 5G 经验，发挥超大规模市场优势和产业体系完备优势，产学研用集中发力，加强国际合作，加快 6G 研发。在近期召开的“权威部门话开局”系列主题新闻发布会上，金壮龙也表示全面推进 6G 技术研发。
+
+**全国人大代表、中国铁塔党委书记、董事长张志勇：**
+
+“5G 建设以来，各地已基本将 5G 站址纳入通信专项规划，但在同步纳入国土空间规划中还有差距。建议在新建项目和修编控制性规划时落实地块内的通信基础设施，将通信站址纳入国土空间规划‘一张图’实施管控，提升站址稳定性，确保网络覆盖质量。”
+
+**全国政协委员、依迅北斗董事长付诚：**
+
+“在湖北筹建国家北斗产品质检中心是促进北斗产业高质量发展的迫切要求，可更好的促进湖北北斗产业和 5G、大数据、卫星互联网等新一代信息技术深度融合，为全国北斗产业高质量发展提供坚实的计量、检测、认证基础。”
+
+近几年，中国 5G 基础设施建设处于高速发展期，根据工业和信息化部数据显示，我国 5G 用户超过 5.75 亿，今年 5G 基站总数将有望突破 290 万个，5G 标准专利居全球第一。
+
+中泰资本投资管理有限公司董事长王冬伟告诉《证券日报》记者，5G 目前正处于 B 端应用落地阶段，但这并不妨碍 6G 技术的研发，甚至 5G 的应用拓展，会进一步带动对 6G 的需求。6G 网络高密度连接和更大的网络容量会为工业互联网、车联网、卫星互联网等复杂的数字应用场景提供更好的通信技术支持。
+
+**热词四：工业互联网**
+
+自 2017 年 11 月份国务院出台《关于深化“互联网 + 先进制造业”发展工业互联网的指导意见》以来，我国持续推进工业互联网发展，今年政府工作报告提出“支持工业互联网发展。”
+
+**全国政协委员、尚品宅配集团董事长李连柱：**
+
+“集中一个城市，开展央地合作，推动工业互联网平台赋能走深向实，抢占新一轮工业变革制高点；可选择应用场景丰富的制造强市佛山作为示范城市打造；除此之外，培养数字化人才，打造数字实践基地。”
+
+**全国人大代表、海尔集团董事局主席、首席执行官周云杰：**
+
+“聚焦数字经济发展，支持申建上合工业互联网国际化特色先导区，推动中国工业互联网在平台、网络、安全等基础共性标准建设和国际接轨力度，形成国际认可的中国工业互联网方案和标准。”
+
+《证券日报》记者发现，从 2017 年起，周云杰就开始为工业互联网提出相关建议，如“建设中国特色工业互联网体系”“形成我国工业互联网新优势”，他的建议既反映了制造业企业对于发展工业互联网的思考，更是工业互联网在企业端应用的变迁。
+
+北京社科院研究员、中国人民大学智能社会治理研究中心研究员王鹏对记者表示，无论是 5G 还是工业互联网，都是数字经济与实体产业结合重要的工具，是与高端制造业融合发展的重要抓手。
+
+“制造业上市公司积极投身工业互联网建设，不仅仅因为他们代表了中国制造业领先水平，更因为他们最直观地感受到工业互联网对于提升企业能效的作用，因此在工业互联网的核心算法、工业软件、数据安全方面有迫切的需求。”王鹏说。
+
+**热词五：虚拟财产立法**
+
+NFT 数字藏品、数字货币、游戏账号……这些新兴的网络虚拟财产在吸引大量关注的同时，还可能引发新类型纠纷。**近年来，网络虚拟财产保护的话题引起人们关注，因为资产数字化是发展数字经济的必然选择，今年代表委员们也积极关注数据的安全与虚拟财产立法。**
+
+**全国政协委员、360 集团创始人周鸿祎：**
+
+“把城市数字安全服务中心建设作为扩内需、稳增长的重点内容，列入省、市、县及产业园区的发展规划，组织城市数字安全服务中心优秀案例评选，推动城市数字安全建设模式的持续优化和完善。”
+
+**全国政协委员、陕西省高级人民法院副院长巩富文：**
+
+“司法作为定纷止争的途径，最为擅长在尚未定型的利益冲突之中寻求平衡，确定适合一时一地的裁判规则，以司法规则创新促进数字经济产业在法律原则的指引下健康均衡发展，为数字经济发展提供法治之力。”
+
+目前虚拟网络资产除了存在个人信息泄露方面的风险，还存在虚拟财产被侵害现象。王鹏对记者表示，对于网络虚拟财产的保护，我国已有相关法律文件进行了相应规定，但在解决具体争议时，对虚拟财产认定和保护，还需要具体法律依据。
+
+**热词六：国家数据局**
+
+**如何有效利用数据，让数据资源变成数据资产，也成为代表委员们的关注方向。**
+
+3 月 7 日，根据国务院关于提请审议国务院机构改革方案的议案，将组建国家数据局。负责协调推进数据基础制度建设，统筹数据资源整合共享和开发利用，统筹推进数字中国、数字经济、数字社会规划和建设等，由国家发展和改革委员会管理。
+
+“组建国家数据局代表着国家大力推进数据要素发展的决心，也反映出相关产业发展前景广阔，有望进一步加大对数字中国战略的支持力度，推进数据行业规范健康发展。”深圳市信息服务业区块链协会会长郑定向对《证券日报》记者表示。
+
+**全国政协委员、中国社会科学院当代中国研究所研究员钟瑛：**
+
+“在产业层面，应构建引导数据要素跨区域流通融合的有效机制。包括鼓励产业界探索完善跨区域数据中心运行增值服务和产业培育机制，大力促进东西部地区加强国内数据中心市场合作，注重东西部算力供需精准对接。”
+
+**全国政协委员、上海数据交易所董事长张琦：**
+
+“建构全国统一的数据资产市场，应当明确数据资产登记确权和数据资产凭证管理为国家数据交易所的法定职能，探索数据资产入表新模式，拓展数据资产作价入股、抵押融资、资产证券化等广阔的资产应用。”
+
+“国家重视数据资源价值，数据网络安全法律法规和标准体系的完善将为数据与网络安全产业提供更强的政策保障和市场需求，数据开放共享、交易流通等领域成为重点发展方向，数据交易平台、数据服务商和信创产业将受益于政策支持。”无锡数字经济研究院执行院长吴琦说。
+
+  
+《[香港将拨款 5000 万元推动 Web3 生态圈发展并成立虚拟资产发展专责小组](http://mp.weixin.qq.com/s?__biz=MzI1NzM3ODEwOA==&mid=2247497210&idx=1&sn=df016e2027300338370ea5f5857bb4f0&chksm=ea1ae7a9dd6d6ebfba3e16b4ccc972d1d5e9fab7d5184c9346209fcfe66717ffedea04827289&scene=21#wechat_redirect)》包括举办大型国际研讨会，让行业和企业紧跟前沿发展，促进跨界商业合作，举办更多青年创业访谈，我们定为参与伙伴们铺好路，就等您来。伴随着将于 4 月中旬在香港即将展开的【[2023 香港 Web3 嘉年华](http://mp.weixin.qq.com/s?__biz=MzI1NzM3ODEwOA==&mid=2247497224&idx=1&sn=4a0c53928a99ee38e9def8574e33645e&chksm=ea1ae45bdd6d6d4dc1843a33b647c975f44b9b20a10879ca2881f84f30cf49e6f70b9560d1f4&scene=21#wechat_redirect)】，嘉年华期间我们会有更精一步的勾兑私享会和 after party 等，欢迎 Web3 行业的企业创业者及投资者一起参与（合作联系阿布：CF\_Blockchain）。另：**Web3 香港落地考察团首期于本月初成团赴港考察圆满结束**，效果俱佳，反馈很好，已经有企业朋友们都在咨询二期报名了，我们计划 4 月中旬旬与嘉年华链接开启第二期Web3 香港落地考察团，有需求的企业请及时沟通报名确定名额（合作联系阿布：CF\_Blockchain），我们会将Web3 香港落地考察团持续跟进办下去，后期也会举办各种高端私享会及线下沙龙等为大家搭起与香港交流落地的桥梁，为考察团成员做好Web3 香港落地相关服务，欢迎更多Web3 企业加入。注：文章来源于证券日报，本号分享或转载的所有文章旨在传递行业信息，不构成任何投资建议或暗示，投资有风险，入市需谨慎。欢迎关注察访区块链及时获取更多价值信息。  
+**往期热文**[重磅｜香港虚拟资产发展政策宣言（全文）](http://mp.weixin.qq.com/s?__biz=MzI1NzM3ODEwOA==&mid=2247495476&idx=1&sn=255466ee4486dd0a23e47559f63c9bb2&chksm=ea1afd67dd6d747168c7ea54c8e5fc1caf974032c4d179a7d2e213c1c8a41b9bad565c273111&scene=21#wechat_redirect)[Web3 香港考察团首期成团赴港开启香港 Web3 链接之旅](http://mp.weixin.qq.com/s?__biz=MzI1NzM3ODEwOA==&mid=2247497345&idx=1&sn=2065a5d6f9dbabe01f206da591fa3895&chksm=ea1ae4d2dd6d6dc4dfeb1e42184de3a3b02c41cf6cdb59c0a2067dd86cb1a17d58d2c4da5f30&scene=21#wechat_redirect)[数字货币得到央行授权，与人民币同样的法律身份](http://mp.weixin.qq.com/s?__biz=MzI1NzM3ODEwOA==&mid=2247484709&idx=1&sn=54dec7a379ae39943bfa4e75cebc1006&chksm=ea191776dd6e9e60e28150a62e49e2c5eb5217d3256615d7ff88a3f9a8f04039f29f2cf2579e&scene=21#wechat_redirect) 5.7w [中央纪委国家监委：元宇宙如何改写人类社会生活](http://mp.weixin.qq.com/s?__biz=MzI1NzM3ODEwOA==&mid=2247493004&idx=1&sn=e6d54839c7e3e3b8e4bc3fd3c46be212&chksm=ea1af7dfdd6d7ec91ec1cbaa07e6ed470b4ca7fdc6d3afdd6263c0a65f14606d1e65442009ce&scene=21#wechat_redirect)[（阅](http://mp.weixin.qq.com/s?__biz=MzI1NzM3ODEwOA==&mid=2247484709&idx=1&sn=54dec7a379ae39943bfa4e75cebc1006&chksm=ea191776dd6e9e60e28150a62e49e2c5eb5217d3256615d7ff88a3f9a8f04039f29f2cf2579e&scene=21#wechat_redirect)[1.](http://mp.weixin.qq.com/s?__biz=MzI1NzM3ODEwOA==&mid=2247484709&idx=1&sn=54dec7a379ae39943bfa4e75cebc1006&chksm=ea191776dd6e9e60e28150a62e49e2c5eb5217d3256615d7ff88a3f9a8f04039f29f2cf2579e&scene=21#wechat_redirect)9w[清华大学：2021 元宇宙研究报告！](http://mp.weixin.qq.com/s?__biz=MzI1NzM3ODEwOA==&mid=2247491750&idx=1&sn=5d00a0da6432903cdd5cc60fdb526745&chksm=ea1af2f5dd6d7be3faea30375296fee9042c9051cf3762c571c772ebff0987a55483284845d3&scene=21#wechat_redirect)[（](http://mp.weixin.qq.com/s?__biz=MzI1NzM3ODEwOA==&mid=2247484709&idx=1&sn=54dec7a379ae39943bfa4e75cebc1006&chksm=ea191776dd6e9e60e28150a62e49e2c5eb5217d3256615d7ff88a3f9a8f04039f29f2cf2579e&scene=21#wechat_redirect)[阅 1w+）](http://mp.weixin.qq.com/s?__biz=MzI1NzM3ODEwOA==&mid=2247484709&idx=1&sn=54dec7a379ae39943bfa4e75cebc1006&chksm=ea191776dd6e9e60e28150a62e49e2c5eb5217d3256615d7ff88a3f9a8f04039f29f2cf2579e&scene=21#wechat_redirect)[姚前：比特币引发的全球“新型货币战争”刚刚开始](http://mp.weixin.qq.com/s?__biz=MzI1NzM3ODEwOA==&mid=2247491486&idx=3&sn=1431c50494f8ce323a5bb046794a494c&chksm=ea190dcddd6e84db5e427281eb129d2b1589d6e963cffdc16e0a54c94105908839f2e8f4d737&scene=21#wechat_redirect)[“中国数字资产交易平台”于 2023 年 1 月 1 日在北京启动，开放机构合作申请（附申请链接）](http://mp.weixin.qq.com/s?__biz=MzI1NzM3ODEwOA==&mid=2247496403&idx=1&sn=429be26f2b29458d36e635f510f2fdcc&chksm=ea1ae080dd6d699620f326bb31eaa74a84c711feb02fa2852e51c6cda8e90bcf8a77601192db&scene=21#wechat_redirect)[元宇宙首次写入“十四五”规划：加强元宇宙底层核心技术研发](http://mp.weixin.qq.com/s?__biz=MzI1NzM3ODEwOA==&mid=2247493204&idx=2&sn=7d5b08629e82e0c8e21278f42ca4984a&chksm=ea1af407dd6d7d1173337b8ad74fc4f887ad4aec7d3a188c1b7d955638dafeddab7a288f846c&scene=21#wechat_redirect)[币安赵长鹏以身价 900 亿美金登顶 2021 华人首富榜首](http://mp.weixin.qq.com/s?__biz=MzI1NzM3ODEwOA==&mid=2247492718&idx=1&sn=6c205078c0ba5ba0db61518d3676996c&chksm=ea1af63ddd6d7f2b97188338932949fc9aae503335d2f99b0b8613f368fb197c636a83704370&scene=21#wechat_redirect)（[2.3](http://mp.weixin.qq.com/s?__biz=MzI1NzM3ODEwOA==&mid=2247484709&idx=1&sn=54dec7a379ae39943bfa4e75cebc1006&chksm=ea191776dd6e9e60e28150a62e49e2c5eb5217d3256615d7ff88a3f9a8f04039f29f2cf2579e&scene=21#wechat_redirect)w[美国首只比特币期货 ETF 上市交易首日成交额超过 10 亿美元](http://mp.weixin.qq.com/s?__biz=MzI1NzM3ODEwOA==&mid=2247491494&idx=1&sn=d782001c2e7c5d830f4101f45e063418&chksm=ea190df5dd6e84e30f5442f856a3094e3e2607550f23309e833cc60d42a5f5e9d7fc2a63b6c2&scene=21#wechat_redirect)[人民日报: 区块链将是第四次工业革命的关键技术](http://mp.weixin.qq.com/s?__biz=MzI1NzM3ODEwOA==&mid=2247484679&idx=1&sn=69f3d85d3d2ed6c171faa015ac9a9e5c&chksm=ea191754dd6e9e427f559a3699b6d30dde683f62e7df1e4e6fd1a28dfcd1b6f74e3cde77a614&scene=21#wechat_redirect)[（阅 3](http://mp.weixin.qq.com/s?__biz=MzI1NzM3ODEwOA==&mid=2247484709&idx=1&sn=54dec7a379ae39943bfa4e75cebc1006&chksm=ea191776dd6e9e60e28150a62e49e2c5eb5217d3256615d7ff88a3f9a8f04039f29f2cf2579e&scene=21#wechat_redirect).9w[首部比特币纪录片《Bitcoin-Shape the future》](http://mp.weixin.qq.com/s?__biz=MzI1NzM3ODEwOA==&mid=2247484936&idx=1&sn=6d8beccab8c55e8913c72ab279703c9a&chksm=ea19145bdd6e9d4d70c9567cd0c5d0d058716015ebecd16b3592264b3ffda7f63aa8197c9818&scene=21#wechat_redirect)[（1](http://mp.weixin.qq.com/s?__biz=MzI1NzM3ODEwOA==&mid=2247484709&idx=1&sn=54dec7a379ae39943bfa4e75cebc1006&chksm=ea191776dd6e9e60e28150a62e49e2c5eb5217d3256615d7ff88a3f9a8f04039f29f2cf2579e&scene=21#wechat_redirect).7w[全面清理关停并严禁新建虚拟货币“挖矿”项目](http://mp.weixin.qq.com/s?__biz=MzI1NzM3ODEwOA==&mid=2247489495&idx=2&sn=fe59f3a164d11c28ae27780cfd5acd7d&chksm=ea190584dd6e8c92243b7a0f04944ca74a6967c6ecaa641bbe493d01951c097029657a8712ad&scene=21#wechat_redirect)[（阅 1.8](http://mp.weixin.qq.com/s?__biz=MzI1NzM3ODEwOA==&mid=2247484709&idx=1&sn=54dec7a379ae39943bfa4e75cebc1006&chksm=ea191776dd6e9e60e28150a62e49e2c5eb5217d3256615d7ff88a3f9a8f04039f29f2cf2579e&scene=21#wechat_redirect)w[央视：NFT 是数字资产真实性与所有权的可靠证明](http://mp.weixin.qq.com/s?__biz=MzI1NzM3ODEwOA==&mid=2247489500&idx=2&sn=34e87d4ea5ea0cbd5d8c5d2b738f4949&chksm=ea19058fdd6e8c997b5f33aa7af29daff6aa595157294ea79b95978f7672f092e064c7a2f8c5&scene=21#wechat_redirect)[（阅](http://mp.weixin.qq.com/s?__biz=MzI1NzM3ODEwOA==&mid=2247484709&idx=1&sn=54dec7a379ae39943bfa4e75cebc1006&chksm=ea191776dd6e9e60e28150a62e49e2c5eb5217d3256615d7ff88a3f9a8f04039f29f2cf2579e&scene=21#wechat_redirect)[1](http://mp.weixin.qq.com/s?__biz=MzI1NzM3ODEwOA==&mid=2247484709&idx=1&sn=54dec7a379ae39943bfa4e75cebc1006&chksm=ea191776dd6e9e60e28150a62e49e2c5eb5217d3256615d7ff88a3f9a8f04039f29f2cf2579e&scene=21#wechat_redirect).4w[央视：人民币大升级来了！数字人民币在 28 地试点](http://mp.weixin.qq.com/s?__biz=MzI1NzM3ODEwOA==&mid=2247487229&idx=1&sn=341fc919b40a637bd846f4ac1e6c6990&chksm=ea191caedd6e95b800bf946f962f9cd305a1dc53142c0f783479bf965df8181ccb00b596c981&scene=21#wechat_redirect)[（阅 9500](http://mp.weixin.qq.com/s?__biz=MzI1NzM3ODEwOA==&mid=2247484709&idx=1&sn=54dec7a379ae39943bfa4e75cebc1006&chksm=ea191776dd6e9e60e28150a62e49e2c5eb5217d3256615d7ff88a3f9a8f04039f29f2cf2579e&scene=21#wechat_redirect)[央视网：谁掌握了区块链，谁就掌握了财富！](http://mp.weixin.qq.com/s?__biz=MzI1NzM3ODEwOA==&mid=2247485627&idx=1&sn=018958a9cbbfd9804bc045a6bd420818&chksm=ea191ae8dd6e93fe4701e01db34e100d93829a742977d04ca022a4974bc16a91b56acd651e79&scene=21#wechat_redirect)[（阅 7800+](http://mp.weixin.qq.com/s?__biz=MzI1NzM3ODEwOA==&mid=2247484709&idx=1&sn=54dec7a379ae39943bfa4e75cebc1006&chksm=ea191776dd6e9e60e28150a62e49e2c5eb5217d3256615d7ff88a3f9a8f04039f29f2cf2579e&scene=21#wechat_redirect)[国家发改委发文：](http://mp.weixin.qq.com/s?__biz=MzI1NzM3ODEwOA==&mid=2247487039&idx=1&sn=9460b464f44534cda5cd5518fb9a0ec0&chksm=ea191c6cdd6e957a0ccf99caf29c896b4c723201c32d4afd867866038efe00115cb035d28a60&scene=21#wechat_redirect)[探索运用区块链完善多元价值传递](http://mp.weixin.qq.com/s?__biz=MzI1NzM3ODEwOA==&mid=2247487039&idx=1&sn=9460b464f44534cda5cd5518fb9a0ec0&chksm=ea191c6cdd6e957a0ccf99caf29c896b4c723201c32d4afd867866038efe00115cb035d28a60&scene=21#wechat_redirect)[（5000](http://mp.weixin.qq.com/s?__biz=MzI1NzM3ODEwOA==&mid=2247484709&idx=1&sn=54dec7a379ae39943bfa4e75cebc1006&chksm=ea191776dd6e9e60e28150a62e49e2c5eb5217d3256615d7ff88a3f9a8f04039f29f2cf2579e&scene=21#wechat_redirect)[北大才女张泉灵演讲：](http://mp.weixin.qq.com/s?__biz=MzI1NzM3ODEwOA==&mid=2247485674&idx=1&sn=2bd1dfd2317f73d3fe4fab196fc22b27&chksm=ea191ab9dd6e93af735d0debd3fbee3767d71f098c28ffe778db06a2ae60b1d92910375a53f5&scene=21#wechat_redirect)[区块链一天，互联网十年](http://mp.weixin.qq.com/s?__biz=MzI1NzM3ODEwOA==&mid=2247485674&idx=1&sn=2bd1dfd2317f73d3fe4fab196fc22b27&chksm=ea191ab9dd6e93af735d0debd3fbee3767d71f098c28ffe778db06a2ae60b1d92910375a53f5&scene=21#wechat_redirect)[（阅 7400+）](http://mp.weixin.qq.com/s?__biz=MzI1NzM3ODEwOA==&mid=2247484709&idx=1&sn=54dec7a379ae39943bfa4e75cebc1006&chksm=ea191776dd6e9e60e28150a62e49e2c5eb5217d3256615d7ff88a3f9a8f04039f29f2cf2579e&scene=21#wechat_redirect)[一张图读懂区块链：史上最全面区块链思维导图笔记](http://mp.weixin.qq.com/s?__biz=MzI1NzM3ODEwOA==&mid=2247485575&idx=1&sn=83846946e37ed125c48ba03c060233e3&chksm=ea191ad4dd6e93c2658d1afc4d07ea83469d9a9a8e1194c81fc3478c4e57c52576ebe4ac475d&scene=21#wechat_redirect)5300[人民日报官方科普区块链（全文）（阅 4700+）](http://mp.weixin.qq.com/s?__biz=MzI1NzM3ODEwOA==&mid=2247485594&idx=1&sn=b9f2bec94674a72aab7fa12d3ae13b01&chksm=ea191ac9dd6e93df334e7ecdc4edc7c1d64c64bd9a51b5ec578f1adacb7f25e95fdd0dbee614&scene=21#wechat_redirect)[人民日报发文：区块链让数据“谁拥有，谁受益”（阅 4700+](http://mp.weixin.qq.com/s?__biz=MzI1NzM3ODEwOA==&mid=2247484815&idx=1&sn=46ab2278068a6698e3fb2cd356583d8e&chksm=ea1917dcdd6e9ecaf65fe675297d7dafcf97bf6948a82ad11d1d2d5217c8945dad5aa79e580c&scene=21#wechat_redirect)[刘慈欣：元宇宙将是整个人类文明的一次内卷（英文演讲视频](http://mp.weixin.qq.com/s?__biz=MzI1NzM3ODEwOA==&mid=2247492402&idx=1&sn=0477a4a6ab93abfd018ddff1793c74a8&chksm=ea1af161dd6d7877c92de277fe43b5cc892f814d97f68674d5627bd4d8aee1431155e0b3fb47&scene=21#wechat_redirect)[央行行长易纲：](http://mp.weixin.qq.com/s?__biz=MzI1NzM3ODEwOA==&mid=2247485488&idx=1&sn=f402e696ad011b893afb2b14f180438d&chksm=ea191a63dd6e937502629bc978aaeadbabf726b099c2624a8cbf961a5872de2e5c1eef294ebb&scene=21#wechat_redirect)[央行的数字货币将替代部分现金](http://mp.weixin.qq.com/s?__biz=MzI1NzM3ODEwOA==&mid=2247485488&idx=1&sn=f402e696ad011b893afb2b14f180438d&chksm=ea191a63dd6e937502629bc978aaeadbabf726b099c2624a8cbf961a5872de2e5c1eef294ebb&scene=21#wechat_redirect)[（阅 3600+）](http://mp.weixin.qq.com/s?__biz=MzI1NzM3ODEwOA==&mid=2247484815&idx=1&sn=46ab2278068a6698e3fb2cd356583d8e&chksm=ea1917dcdd6e9ecaf65fe675297d7dafcf97bf6948a82ad11d1d2d5217c8945dad5aa79e580c&scene=21#wechat_redirect)[国家发改委：美国超越中国成第一大比特币挖矿国](http://mp.weixin.qq.com/s?__biz=MzI1NzM3ODEwOA==&mid=2247491516&idx=1&sn=ee397537b519ebd1510db7e267f6cca5&chksm=ea190defdd6e84f91f071e9dca8e05795f7d811f2d339d60d13c2bcb81b364a49d3a26efca96&scene=21#wechat_redirect)[全国首套元宇宙书籍《元宇宙》《元宇宙通证》上市](http://mp.weixin.qq.com/s?__biz=MzI1NzM3ODEwOA==&mid=2247491152&idx=1&sn=7719c30edddb75d12f719087f9384b76&chksm=ea190c03dd6e85152da722e033447c440b76a6e909a2dbbebb75e3a8728af000a52239aa654e&scene=21#wechat_redirect)[商务部支持区块链应用于商品交易平台](http://mp.weixin.qq.com/s?__biz=MzI1NzM3ODEwOA==&mid=2247484773&idx=1&sn=37129dde905f8fc97413161746257423&chksm=ea191736dd6e9e207fd7dd68071465da60a8d2d9bb278cec8620b9049bd8599d631cc7b06dfd&scene=21#wechat_redirect)[（阅 360](http://mp.weixin.qq.com/s?__biz=MzI1NzM3ODEwOA==&mid=2247484815&idx=1&sn=46ab2278068a6698e3fb2cd356583d8e&chksm=ea1917dcdd6e9ecaf65fe675297d7dafcf97bf6948a82ad11d1d2d5217c8945dad5aa79e580c&scene=21#wechat_redirect)![](https://img.foresightnews.pro/202303/5f14f7685a17bba029c1d2271bfb0f37.jpeg?x-oss-process=style/scale70)
+

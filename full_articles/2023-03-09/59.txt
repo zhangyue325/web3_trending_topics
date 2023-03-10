@@ -1,0 +1,49 @@
+当 OP Stack 这个方案被提出时，市场对于这项技术反响平平。归根结底，一来是当时正处于 FTX 崩溃的余波中，市场信心不足；二则是在 Rollup 竞争中，Arbitrum 始终占据着上风，OP Stack 的推出更像是 Optimism 的自救方案，或者用更直接的话语来讲，OP Stack 更像是 Optimism PUA 市场的手段。
+
+这一观感一直维持到 2 月 23 日 Coinbase 宣布即将推出建立在 OP Stack 上的 Layer2 网络 Base 之时。
+
+空中楼阁好像有了地基，也有了更多的可能。
+
+OP Stack 是对模块化区块链的一次探索。
+
+简单来讲，我们可以粗浅地将区块链分为共识层、结算层和执行层。而共识层又分为数据可用性（DA）层和推导（Derivation）层。开发者在构建区块链时，需要经历代码从 0 到 1 的构建过程。而 OP Stack 的功能便是将这些功能层解构和重新组合，并用 API 软件堆栈的形式为其他开发者提供服务。也就是说，开发者在享受 OP Stack 现成的代码库的同时，还能拥有区块链在各层中的侧重灵活性，比如将本来负责 DA 层的以太坊替换为 Celestia。
+
+出于更高的灵活性，基于 OP Stack 构建的各类 Layer2 也将拥有其独特的个性。比如，Coinbase 的 Layer2 Base 可能会采取交易监控和反洗钱措施——这一措施将通过更加中心化的排序器实现。或许，未来链上行为还将受到美国政府的监管。
+
+而在 Optimism Bedrock 升级后，还将引入一个「Superchain」的概念。Superchain 的引入旨在解决链间互操作的问题，就像 Cosmos 那样。Superchain 很有可能会充当一个 Hub 的角色，Layer2 与 Layer2 的链间消息传递将通过这个中枢完成传递，不过它的安全性是通过以太坊实现的。也就是，一座桥上的无限链。
+
+另外，值得一提的事，OP Stack 的 Superchain 将采用一个去中心化排序器来解决链间 MEV 的事项。
+
+从整体架构思路来看，OP Stack 与 Cosmos SDK 类似，都是通过一个中枢的形式，进行多链扩展。但是 OP Stack 的优势在于更高的可定制化和无需吸引验证者质押来维护区块链的共识，这也是 Base 无需新发代币的原因。而 Cosmos 子链需要引入新的验证者来维护区块链的共识——尽管 Cosmos 正在试图引入 Interchain Security 链间安全来解决这个问题。
+
+从理论来看，Cosmos 的市场份额将受到 OP Stack 的挑战，事实会是如此吗？
+
+开发者生态对比
+-------
+
+Cosmos 拥有先发优势，此前已经积累了一定数量的开发者。且一些类似 dYdX 这样的超级应用已经开始着手迁移至 Cosmos 生态。据 tokenterminal 数据统计，Cosmos 的每日活跃开发者在过去的一年中仍然保持着稳定的数量。
+
+![](https://img.foresightnews.pro/202303/842-1678342287033.jpeg?x-oss-process=style/scale70)
+
+而 OP Stack 生态刚刚开始拓展，Base 是 OP Stack 的第一条链。
+
+不过，虽然 OP Stack 才刚刚开始发展，但其背后的 EVM 开发者生态是不容忽视的。OP Stack 的优势在于 EVM 的市场份额占比和市场接受度，而庞大的市场份额和市场接受度意味着 EVM 拥有着丰富的开发者生态。基于 OP Stack 构建的 Layer2 和其他 Layer2 一样，诞生于以太坊，依赖于以太坊，EVM 开发者们也就更愿意采用更便捷和更灵活的 OP Stack 框架。
+
+就像深潮 TechFlow 在 2021 年 7 月的那篇文章中所提到的，「以太坊拥有其他公链无法大肆宣扬的东西——对去中心化意识形态的坚定承诺。真正的信仰者不会为了追求快速、低成本，而在去中心化方面进行退让和容忍，这种对意识形态的毫不妥协的信念正在推动大量的创新。」相较于其他 Layer1，能够建设 Layer2，尤其以一种更加便捷的方式建设 Layer2，是对于拥有去中心化信仰的开发者的更好选择。
+
+Cosmos 的进展
+----------
+
+Cosmos 正在致力于解决处于其生态的问题，比如推出 Interchain Security（链间安全）、Interchain Scheduler（链间调度器）、Interchain Allocator（链间分配器）等功能。这也促使 Cosmos 社区对 OP Stack 解决方案产生了不满——OP Stack 似乎更像一个摘桃的人，它吸取了 Cosmos 在发展过程中所遇到的问题，并推出了一个更加完善的解决方案。
+
+Alt Layer1 vs 以太坊 Layer2
+------------------------
+
+本质上，OP Stack 还是 Rollup 的扩展。这意味着，基于 OP Stack 建立的区块链依然是 Layer2——Layer2 在链下执行计算和存储，将大量交易压缩为单一交易，然后记录在底层公链即以太坊上。最终安全性由以太坊负责。这样构建的 Layer2 将失去一些自主性，并削弱其代币发行的需求，就像 Base 不会发行代币那样。$OP 也无法从 OP Stack 的增长中获得价值增长，$ETH 将会成为受益者。
+
+而 Cosmos 的 Appchains-as-a-Service 服务本质上是允许开发者构建一个真正意义上的 Layer1。尽管 OP Stack 将区块链的构建流程做了简化，但其构建思路依旧围绕以太坊展开，后续也将会受到以太坊进一步升级的影响。Cosmos SDK 则允许开发者重写这些默认架构，设计出具备自定义共识机制、代币标准和智能合约平台的区块链。由 Cosmos SDK 构建的 Layer1 拥有更高的自主性。
+
+不过，本质而言，OP Stack 的推出象征着以太坊生态和 Cosmos 生态在未来模块化公链方向的竞争。对 OP Stack Layer2 更高的期待在于以太坊后续推出 EIP-4844、Proto-Danksharding 和 Danksharding 中获得更高的可扩展性和更低的费用。
+
+而 OP Stack 的推出和 Cosmos 的发展也印证了「Rollup as a Service」和「Appchains-as-a-Service」的可行性。同时我们也不能忽视这个赛道其他的挑战者，比如 Avalanche，Avalanche 的子网服务同样拥有更高的可定制性。再比如 Celestia，Celestia 通过推出模块化区块链代码库 Rollkit 来实现区块链的快速部署。而 Cosmos 生态子链也可以使用 Celestia 作为共识层。这意味着，除了 OP Stack，Celestia 也将会成为 Cosmos 的竞争对手之一。
+

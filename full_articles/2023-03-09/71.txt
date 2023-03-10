@@ -1,0 +1,222 @@
+
+> **示例代码见：** https://github.com/NonceGeek/Web3-dApp-Camp/tree/main/move-dapp/sui/sui-data-fetch
+> 
+> 
+
+0x01 通过 ID / address 直接查询
+-------------------------
+
+
+> **Related Link:**
+> 
+> https://docs.sui.io/sui-jsonrpc#sui\_getObject
+> 
+> 
+
+在 sui 中查询数据最直接的方式就是通过 Object Id 获取 object 信息。
+
+
+```
+import { JsonPrcProvider } from '@mysten/sui.js'  
+const provider = new JsonRpcProvider();  
+// 查询单个对象数据  
+const objectId = '0xd7d27a9a68c11b9035be08428feceea9bf374510';  
+provider.getObject(objectId);  
+  
+// 查询多个对象数据  
+const objectIds = [  
+  '0x9177ffd1ab19b7dfe6323f2674fb58c29c75bf7a',  
+  '0xa46d8caa8ac4d39791a0542ae99de1f8ffb9a18d'  
+];  
+provider.getObjectBatch(objectIds);  
+  
+// 通过对象 ID 查询其包含的其他对象  
+provider.getObjectsOwnedByObject(objectId)  
+  
+// 查询某个地址下拥有的对象  
+const address = '0x81b9154bf2135207168ee73ac47a45af20af6431';  
+provider.getObjectsOwnedByAddress(address)  
+
+```
+0x02 利用 devInspectTransaction 查询数据
+----------------------------------
+
+
+> **Related Links：**
+> 
+> https://docs.sui.io/sui-jsonrpc#sui\_devInspectTransaction
+> 
+> https://github.com/MystenLabs/sui/pull/6538
+> 
+> 
+
+devInspectTransaction 原理是：利用实时的链上数据模拟方法调用，解析调用结果来获取需要的数据。
+
+它的优势在于：
+
+* 模拟调用，无需 gas
+* 可以直接调用非 entry 的 public 方法，并获取返回结果
+* 自定义查询逻辑，支持各类复杂的查询需求
+
+
+```
+module test_query::test_query {  
+    
+  use std::vector;  
+  use std::type_name::{TypeName, get};  
+  use sui::object::{Self, UID};  
+  use sui::table::{Self, Table};  
+  use sui::tx_context::TxContext;  
+  use sui::transfer;  
+    
+  struct A has drop {}  
+  struct B has drop {}  
+    
+  struct BalanceSheet has copy, store, drop {  
+    cash: u64,  
+    debt: u64  
+  }  
+    
+  struct BalanceSheets has key {  
+    id: UID,  
+    table: Table<TypeName, BalanceSheet>  
+  }  
+    
+  struct QueryResult has copy, drop {  
+    typeName: TypeName,  
+    balanceSheet: BalanceSheet,  
+  }  
+    
+  fun init(ctx: &mut TxContext) {  
+    let balanceSheets = BalanceSheets {  
+      id: object::new(ctx),  
+      table: table::new(ctx)  
+    };  
+    table::add(&mut balanceSheets.table, get<A>(), BalanceSheet { cash: 100, debt: 20 });  
+    table::add(&mut balanceSheets.table, get<B>(), BalanceSheet { cash: 80, debt: 10 });  
+    transfer::share_object(balanceSheets)  
+  }  
+    
+  public fun query(balanceSheets: &BalanceSheets): vector<QueryResult> {  
+    let res = vector::empty<QueryResult>();  
+    let typeA = get<A>();  
+    let balanceSheetA = table::borrow(&balanceSheets.table, typeA);  
+    let queryResultA = QueryResult { typeName: typeA, balanceSheet: *balanceSheetA };  
+      
+    let typeB = get<B>();  
+    let balanceSheetB = table::borrow(&balanceSheets.table, typeB);  
+    let queryResultB = QueryResult { typeName: typeB, balanceSheet: *balanceSheetB };  
+      
+    vector::push_back(&mut res, queryResultA);  
+    vector::push_back(&mut res, queryResultB);  
+    res  
+  }  
+}  
+
+```
+上面这个合约中 query 就是返回对`BalanceSheets`下 table 数据的一个查询结果。
+
+`query`方法自定了一套查询逻辑，并将结果包装成`QueryResult`列表返回出来。下面看看如何调用这个方法获取查询数据。
+
+
+```
+import { JsonPrcProvider, bcs } from '@mysten/sui.js'  
+const provider = new JsonRpcProvider();  
+  
+/\*\*\*\*\*\*\* 第一步: 需要构造解析返回结果的 bcs 解析器 \*\*\*\*\*\*\*/  
+  
+// 解析类型根据 合约中定义的 struct 对于填写，例如下面的 BalanceSheet  
+/\*\*\*\*  
+  struct BalanceSheet has copy, store, drop {  
+    cash: u64,  
+    debt: u64  
+  }  
+\*\*\*\*\*/  
+bcs.registerStructType('BalanceSheet', {  
+  cash: 'u64',  
+  debt: 'u64',  
+})  
+  
+  
+bcs.registerStructType('TypeName', {  
+  name: 'string'  
+})  
+  
+bcs.registerStructType('QueryResult', {  
+  typeName: 'TypeName',  
+  balanceSheet: 'BalanceSheet',  
+})  
+  
+function des(data: Uint8Array) {  
+  return bcs.de('vector<QueryResult>', data)  
+}  
+  
+/\*\*\*\*\*\*\* 第二步: 通过 devInspectMoveCall 模拟调用 query 方法 \*\*\*\*\*\*\*/  
+  
+(async () => {  
+  const balanceSheetsId = '0x92a403ee9467f3753a28a8725a053eda6f64cca4';  
+  const testPkgId = '0xd7d27a9a68c11b9035be08428feceea9bf374510';  
+  const sender = '7738ccc64bd64bb7b3524296db285042f7876281'; // 地址可以任意使用  
+  const res = await provider.devInspectTransaction(sender, {  
+    kind: 'moveCall',  
+    data: {  
+      packageObjectId: testPkgId,  
+      module: 'test\_query',  
+      function: 'query',  
+      typeArguments: [],  
+      arguments: [balanceSheetsId]   
+    }  
+  })  
+  // 下面这段解析逻辑是精华，返回的数据结构很复杂，并且需要 bcs 反序列化  
+  if ('Ok' in res.results) {  
+    const returnValues = res.results.Ok[0][1].returnValues;  
+    if (returnValues) {  
+      const returnData = returnValues[0][0];  
+      const d = Uint8Array.from(returnData);  
+      let decoded = des(d) // 在这里用到了第一步的 bcs 解析器  
+      console.log(decoded)  
+    }  
+  }  
+})()  
+
+```
+成功的话会打印出结果：
+
+
+```
+[  
+  {  
+    typeName: { name: 'd7d27a9a68c11b9035be08428feceea9bf374510::test\_dev::A' },  
+    balanceSheet: { cash: 100n, debt: 20n }  
+  },  
+  {  
+    typeName: { name: 'd7d27a9a68c11b9035be08428feceea9bf374510::test\_dev::B' },  
+    balanceSheet: { cash: 80n, debt: 10n }  
+  }  
+]  
+
+```
+0x03 总结
+-------
+
+* 对于大多数简单查询，直接通过 address，Id 进行对象数据查询即可。
+* devInSpectMoveCall 可以做到查询任意数据，实现复杂的组合查询。代价就是需要自己写链上查询函数，以及链下的 bcs 解析逻辑。
+
+  
+
+
+  
+  
+
+
+
+
+---
+
+**前文链接：**[SUI 合约测试攻略 | Move dApp 极速入门（拾陆）](http://mp.weixin.qq.com/s?__biz=MzI0NTM0MzE5Mw==&mid=2247487712&idx=1&sn=afe45b007dd252898bb24749237dbde9&chksm=e94ea656de392f4029b96e4097d45f77cde49b1f8a869f9f79495aecff657f45815d5d705ab5&scene=21#wechat_redirect)[Sui 数据类型详解 | Move dApp 极速入门（十五）](http://mp.weixin.qq.com/s?__biz=MzI0NTM0MzE5Mw==&mid=2247487689&idx=1&sn=d23f1f2e248ca0dff008525cf18880e4&chksm=e94ea67fde392f69a6e935fe90e3e1e5400d78fe57743609f1926f6db30361da0f22336be9d5&scene=21#wechat_redirect)[Airdropper Contract in Aptos | Move dApp 极速入门（拾肆）](http://mp.weixin.qq.com/s?__biz=MzI0NTM0MzE5Mw==&mid=2247487649&idx=1&sn=ea0b26ca4c31524b926ae4e705731a01&chksm=e94ea617de392f0166f383898a6db08bc2897b458b57fc0be76125435aa10fdf3a7d221d14ab&scene=21#wechat_redirect)[Sandwich 合约案例实践 | Move dApp 极速入门（拾叁）](http://mp.weixin.qq.com/s?__biz=MzI0NTM0MzE5Mw==&mid=2247487594&idx=1&sn=13a5ca5723251a9e2c978770e7f27cfe&chksm=e94ea6dcde392fcafba3c7c135f477cbdd407b21d8576c5538f67b69ac51f0eb9bc6acf31c44&scene=21#wechat_redirect)[Sui 极速上手 | Move dApp 极速入门（拾贰）](http://mp.weixin.qq.com/s?__biz=MzI0NTM0MzE5Mw==&mid=2247487563&idx=1&sn=3cfaa8159789ae81c91d97a13768ba20&chksm=e94ea6fdde392feb7bdb955e4b4ef343f128a662961fe2f921cb07ca9c764367843b14c12ea7&scene=21#wechat_redirect)[Move 高阶语法 | 共学课优秀笔记](http://mp.weixin.qq.com/s?__biz=MzI0NTM0MzE5Mw==&mid=2247487514&idx=1&sn=be445be4a82cbb0d27fbf283aeb5a11f&chksm=e94ea6acde392fba0d76565d2d925a8d78daed7aac2f0c1ff87919563a2a15ddda3a2a43d840&scene=21#wechat_redirect)  
+[Move 基础语法 | 共学课优秀学习笔记](http://mp.weixin.qq.com/s?__biz=MzI0NTM0MzE5Mw==&mid=2247487327&idx=1&sn=515a260561832078f6198a00f44131e8&chksm=e94eb9e9de3930ff35790953ff06a8d69095d6cfef9177b3373fe41a837fa343ae7ebefae704&scene=21#wechat_redirect)[scaffold-aptos 脚手架 | Move dApp 极速入门（拾壹）](http://mp.weixin.qq.com/s?__biz=MzI0NTM0MzE5Mw==&mid=2247487393&idx=1&sn=6b9308171d2f691037c0ed20dcc80f68&chksm=e94eb917de3930018e4278d3e4cdd13f1c0f391c85af10eb2dd7e9805ffb8b5c28b0dec011c4&scene=21#wechat_redirect)[Aptos NFT 发行指南 | Move dApp 极速入门（十）](http://mp.weixin.qq.com/s?__biz=MzI0NTM0MzE5Mw==&mid=2247487193&idx=1&sn=f5f281c56a483dbd2c4bf43ed1c84f49&chksm=e94eb86fde393179a6b6f7d1d04c04dcc1afac49372febe679d3caf036eaf5d613061525cb62&scene=21#wechat_redirect)[对 DID Document 的思考 | Move dApp 极速入门（九）](http://mp.weixin.qq.com/s?__biz=MzI0NTM0MzE5Mw==&mid=2247487140&idx=1&sn=a412db35821f9ed6707067a689ffb7ce&chksm=e94eb812de39310492ebf1d71e56033413d04f9fb14c23944600909739dda738cb0ed1a50e1e&scene=21#wechat_redirect)[DID中地址聚合器的实现 | Move dApp 极速入门（八）](http://mp.weixin.qq.com/s?__biz=MzI0NTM0MzE5Mw==&mid=2247487099&idx=1&sn=347fd50569c8be9153b099d4f967901e&chksm=e94eb8cdde3931db4e57459b1be58e23629ca709679d7b0e983a2fe3ef6e922247c747d3b0a9&scene=21#wechat_redirect)[Aptos 中的智能合约形式化验证 | Move dApp 极速入门（七）](http://mp.weixin.qq.com/s?__biz=MzI0NTM0MzE5Mw==&mid=2247487058&idx=1&sn=a2212286ef4d3614188b252a1e881422&chksm=e94eb8e4de3931f21b27bc2d32b7a6469084800410bff5cb2a7e9a016f5e705c1c519e8e0402&scene=21#wechat_redirect)[Aptos CLI使用指南与REPL设计建议 | Move dApp 极速入门（六）](http://mp.weixin.qq.com/s?__biz=MzI0NTM0MzE5Mw==&mid=2247486957&idx=1&sn=51861dfdb61b20aaaf67a508399c7a77&chksm=e94ebb5bde39324d8909761437e1cd040fde7bb9c0887142f759c52ab5f2683e44990f5e4f6c&scene=21#wechat_redirect)  
+[实现一套 DID 之总体设计 | Move dApp 极速入门（五）](http://mp.weixin.qq.com/s?__biz=MzI0NTM0MzE5Mw==&mid=2247486912&idx=1&sn=9ec91190eeccf379e37ffa1a158800ba&chksm=e94ebb76de3932603256820be8f11906342ed6ed33ffa743ebd93eb8daa06f389b9f306a4033&scene=21#wechat_redirect)  
+[合约数据类型综述 | Move dApp 极速入门（四）](http://mp.weixin.qq.com/s?__biz=MzI0NTM0MzE5Mw==&mid=2247486902&idx=1&sn=3813e179f9111abc78616f70b2a6c8f5&chksm=e94ebb00de393216554da23ccea918ddbed954d3d9685a3ee981030d3f54ce8105abbbbf06b4&scene=21#wechat_redirect)  
+[操作资源 | Move dApp极速入门（三）](http://mp.weixin.qq.com/s?__biz=MzI0NTM0MzE5Mw==&mid=2247486870&idx=1&sn=846d9ea6988a4930a23abffa12825a38&chksm=e94ebb20de3932365b92f38d6e807f45548fb57c9b424ba1959117e4c57cee07c29080cb8620&scene=21#wechat_redirect)  
+[第一个 Move dApp | Move dApp极速入门（二）](http://mp.weixin.qq.com/s?__biz=MzI0NTM0MzE5Mw==&mid=2247486812&idx=1&sn=0914aa58567ffa32542a402473d57c34&chksm=e94ebbeade3932fc41b6bfc697c692ca5f78933fede8a44d1a51ad8602619741e706e5a496a3&scene=21#wechat_redirect)  
+[Hello Move | Move dApp极速入门（一）](http://mp.weixin.qq.com/s?__biz=MzI0NTM0MzE5Mw==&mid=2247486765&idx=1&sn=62aec019bc21f1c3cdda84f273104ffc&chksm=e94ebb9bde39328d756dc92923d4e1137cb33cc52e639719e0f9c9d989066f7983728ecf8302&scene=21#wechat_redirect)

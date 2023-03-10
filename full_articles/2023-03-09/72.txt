@@ -1,0 +1,120 @@
+**导语**
+
+本文是“零知识证明引论”系列的第四部分。前面我们介绍了零知识证明的背景，概念以及一些核心数学工具。本文我们将介绍匹诺曹协议和Groth16。
+
+**匹诺曹协议**
+
+其实，介绍完上述的核心数学工具，一个接近可工程实践版本的非交互性零知识证明协议已经呼之欲出了，这一套完整的过程就是目前一系列 zkSnark 算法的基础——[PGHR13]，俗称**匹诺曹（****Pinocchio****）协议**[7]**。**
+
+这篇匹诺曹协议的论文的理论基础基于[GGPR13][8]，主要偏工程实践，也是首次用C语言实现了一个接近可用的零知识证明库。
+
+![](https://img.foresightnews.pro/202303/32940a334da416b32854d1b5c5a5f650.png?x-oss-process=style/scale70)
+
+**1 引入随机偏移量**
+
+在具体实现上，和上述过程的区别是，为了防止暴力破解的可能（比如在特殊的情况下，系数的数量和取值范围都有限），prover 在构造 p(x) 的过程中，加入一个随机偏移量δ：
+
+令原多项式为：
+
+![](https://img.foresightnews.pro/202303/d1ea84acdeb8c99eafd75765f4bd5701.png?x-oss-process=style/scale70)
+
+加入![](https://img.foresightnews.pro/202303/c878d151c8eccf505fc4ab1a9cc685c1.png?x-oss-process=style/scale70)偏移量后为：
+
+![](https://img.foresightnews.pro/202303/85b7a763d45cf4dc713aff2f316b3a31.png?x-oss-process=style/scale70)
+
+则
+
+![](https://img.foresightnews.pro/202303/af0498df36ec86677f9e40967820d0e8.png?x-oss-process=style/scale70)
+
+令
+
+![](https://img.foresightnews.pro/202303/03e494c5ffbb86dced582b78e92e917f.png?x-oss-process=style/scale70)
+
+那么对于新的验证组合：
+
+![](https://img.foresightnews.pro/202303/2dc967614ddd0f751ab1b91687d6a59b.png?x-oss-process=style/scale70)
+
+仍然可以通过验证，但是不暴露更多系数知识，无法被暴力破解。
+
+**2 协议全流程**
+
+**• Setup**
+
+* 选择生成元 G 和加密配对e
+* 将变量总数为 n 其中输入 / 输出变量数位 m 的函数![](https://img.foresightnews.pro/202303/77db7daecde1f8413d0e86808f8fc19c.png?x-oss-process=style/scale70)，拍平为数字电路并针对每个门电路改写为 R1CS 的形式，再转换为阶数为 d（和门的数量有关） 大小为 n+1 的多项式形式（QAP）    ![](https://img.foresightnews.pro/202303/cfaf14f0d752acd80024bd413ead2a3d.png?x-oss-process=style/scale70)
+* 选择随机数![](https://img.foresightnews.pro/202303/f9af0e2b0752928fda887f6894bbaab3.png?x-oss-process=style/scale70)
+* 设置![](https://img.foresightnews.pro/202303/ff5bffeb5829bf6415f77158f8540961.png?x-oss-process=style/scale70)和操作数生成元![](https://img.foresightnews.pro/202303/aabd8cbf27bc463725dc716b2e3ba420.png?x-oss-process=style/scale70)
+* 设置 proving key:
+![](https://img.foresightnews.pro/202303/6e93cfc5052367a899e508da0b195d60.png?x-oss-process=style/scale70)* 设置 verification key：
+![](https://img.foresightnews.pro/202303/5cbeab63bb6a80a88855a26ce42886a4.png?x-oss-process=style/scale70)* 丢弃随机数![](https://img.foresightnews.pro/202303/c8f939eb32ffabf39dce962307545df2.png?x-oss-process=style/scale70)
+**• Proving**
+
+* 代入输入值 u，执行 f(u)计算获取所有的中间变量值
+
+![](https://img.foresightnews.pro/202303/d2dc703c9c6eeb09855a7564e88d0157.png?x-oss-process=style/scale70)
+* 把所有未加密的变量多项式赋值给
+
+![](https://img.foresightnews.pro/202303/d4c5c19c2a81a2f965501e83b60fd6b4.png?x-oss-process=style/scale70),
+
+并对 R(x) 和 O(x) 做同样的计算
+* ![](https://img.foresightnews.pro/202303/097b6b9336ef80041f5fc34b6bedb68a.png?x-oss-process=style/scale70)
+* 计算
+![](https://img.foresightnews.pro/202303/07b59530d283774cd66bab0b0c974e22.png?x-oss-process=style/scale70)
+
+* 将 prover 的变量值赋值给加密的可变多项式
+![](https://img.foresightnews.pro/202303/4443aaef3fc799345c462b869952c3e9.png?x-oss-process=style/scale70)
+
+* 为其 α对变换赋值
+
+![](https://img.foresightnews.pro/202303/edcd12e977ba0d754b77cf93c607fdee.png?x-oss-process=style/scale70)
+* 为变量值一致性多项式赋值
+
+![](https://img.foresightnews.pro/202303/8d46d551f718d76cda0bdb4554e0aeb5.png?x-oss-process=style/scale70)
+* 计算并提交证明
+
+![](https://img.foresightnews.pro/202303/38703a8ef9006a875d36c044900431f1.png?x-oss-process=style/scale70)
+  
+
+
+**• Verification**
+
+* 解析提供的证明为
+
+![](https://img.foresightnews.pro/202303/ec19b38ea033150884931a2c9b464dba.png?x-oss-process=style/scale70)
+* 将输入 / 输出值赋值给 verifier 的加密多项式:
+
+![](https://img.foresightnews.pro/202303/48c9e46dc2f2b50bdb2dd26c7950764b.png?x-oss-process=style/scale70)
+
+‍
+* 可变多项式约束检查:
+
+![](https://img.foresightnews.pro/202303/48473cce104d42744c27f3716b54c779.png?x-oss-process=style/scale70)
+* 变量值一致性检查:
+
+![](https://img.foresightnews.pro/202303/f9614bd3ff1cb73525fb55c06ac80055.png?x-oss-process=style/scale70)
+* 有效性计算检查:
+
+![](https://img.foresightnews.pro/202303/cd2dcb410caf8596367cb560117c353f.png?x-oss-process=style/scale70)
+**总结成图：**‍![](https://img.foresightnews.pro/202303/6395b32bdc1e123d5779288c8e1f7aab.png?x-oss-process=style/scale70)
+
+**Groth16**
+
+Groth16（filecoin, Tornado.cash, 旧版 Zcash）、PlONK（zkSync, Mina）和 Halo（新版 ZCash）等。其中应用最广泛的算法是 Groth16。
+
+**Groth16 算法**是 Jens Groth 提出的一种匹诺曹协议的改进，相关论文[9]不仅对已有算法进行改进，而且讨论了基于配对的非交互式零知识论证的证明大小问题。Groth16 因其精简的证明大小和高效的验证效率，已经完全具备了工程应用的条件，在早期的 ZCash 等匿名币项目中多有应用，是最经典的零知识证明算法，也是在区块链领域应用最早的算法。
+
+算法的基本框架仍然是匹诺曹协议，分为 setup、prooving、verication 三个部分，其对于匹诺曹协议最大的升级是 setup 和 verification 部分，通过增强了一些双线性映射对的安全假设，缩减了 Proving Key 的大小，将 K1 的 element 数量从 7 个缩减为 2 个，进而减小了验证的数据量和计算量，从需要验证 12 个双线性对缩减为验证 3 个。
+
+本文介绍了零知识证明协议的 zkSnark 族中可实用的最基础的两个协议——**匹诺曹**和**Groth16。**近期在区块链上应用比较火热的 Plonk 和 Sonic 算法，都是基于 Groth16 在可信设置上做的优化和改进。希望读者能够结合之前的数学工具，了解这两个算法的基本原理，为下篇文章的理解奠定基础。下篇文章我们将重点介绍这些改进算法和一些比较典型的非 Snark 算法。 
+
+**参考文献**：
+
+[7] Parno B, Howell J, Gentry C, et al. Pinocchio: Nearly practical verifiable computation[C]//2013 IEEE Symposium on Security and Privacy. IEEE, 2013: 238-252.
+
+[8] R. Gennaro, C. Gentry, B. Parno, and M. Raykova, “Quadratic span programs and succinct NIZKs without PCPs,” in EUROCRYPT, 2013. Originally published as Cryptology ePrint Archive, Report 2012/215.
+
+[9] Groth J. On the size of pairing-based non-interactive arguments[C]//Annual international conference on the theory and applications of cryptographic techniques. Springer, Berlin, Heidelberg, 2016: 305-326.
+
+![](https://img.foresightnews.pro/202303/e0a992d856aca4dff6bd65ad3e7653c3.png?x-oss-process=style/scale70)
+
+**Numen 官网**https://numencyber.com/ **GitHub**https://github.com/NumenCyber**Twitter**https://twitter.com/@numencyber**Medium**https://medium.com/@numencyberlabs**LinkedIn**https://www.linkedin.com/company/numencyber/

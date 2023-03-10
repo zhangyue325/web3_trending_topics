@@ -1,0 +1,51 @@
+![](https://img.foresightnews.pro/202303/59c241fef29cd35ccafed62a5014394e.png?x-oss-process=style/scale70)
+
+ 
+
+ETHDenver 活动逐渐告一段落，为方便社区用户了解 NEAR 在本次活动中的精彩时刻，本文简单整理了 NEAR 演讲和圆桌的相关内容，包括 NEAR 区块链系统在内的大量的重要公告。感兴趣的用户也可访问 ETHDenver 官方油管账户，了解更多细节。
+
+NEAR Day 是一场聚焦 NEAR 生态的迷你峰会，活动期间宣布了大量最新的技术进展和协议进展，其中最引人注目的当属 NEAR 区块链操作系统。
+
+![](https://img.foresightnews.pro/202303/4aeb1e988430f6e4793514544b4688f8.png?x-oss-process=style/scale70)
+
+  
+
+
+Open Forest Protocol CEO Frederic Fournier 以及 Flow Carbon 联创 Phil Fogel 率先登台，发表了再生金融（ReFi）主题的演讲。接着，OnMachina 联创 Polina Aladina 和 Mark Collier 和大家分享了基于 NEAR 构建去中心化存储的主题。作为 NEAR 生态中的重量级项目， OnMachina 对于 Web3 存储的分享令在场的观众激动不已。
+
+刚刚上线 NEAR 的 Keypom 在本次活动中获得了大量曝光。 联创 Ben Kurrek 和 Matt Lockyer 发表《感受 Keypom 的即时加密体验》演讲，带领现场观众体验了 Keypom 的 Web3 引导方案。用户会收到一种特殊类型的访问秘钥，可以用来体验一款加密应用，之后还可转化为钱包。（点击[此处](https://near.org/blog/keypom-brings-frictionless-onboarding-to-near-and-web3/)，了解 Keypom 更多内容。）
+
+上午的活动内容还包括 Calimero Network 联创 Sandi Fatic 讲述了利用私有分片实现保护隐私和扩容的想法；Aurora Labs CEO Alex Shevchenko 讲述了 Aurora 针对区块链推出了云计算方案； Sweat Economy 联创 Oleg Fomenko 讲述了如何高效地将用户由 Web2 引导至 Web3；NEAR 联创 Alex Skidanov 讲述了 AI 未来如何实现去中心化。
+
+![](https://img.foresightnews.pro/202303/4f7a03d8a52cff1f58fe11e36a1ed28d.png?x-oss-process=style/scale70)
+
+下午的活动同样包含大量的演讲，最先开场的是 Pagoda 的 Max Zavershynskyi，他的演讲主题为通过 Near DevGov DAO 创建“高速开发者社区。”NEAR 联创 Illia Polosukhin 发表 NEAR 区块链操作系统主题演讲，将活动氛围推向高潮。Pagoda 的首席产品官 Alex Chiocch 详细阐述了 NEAR 区块链操作系统如何帮助引导上千万用户至 NEAR 生态。Pagoda 协议主管 Bowen Wang 则详细介绍了驱动 NEAR 区块链操作系统的协议创新。
+
+![](https://img.foresightnews.pro/202303/d14ff2b2ae674f3f84af02a2736a9d7f.png?x-oss-process=style/scale70)
+
+ 
+
+NEAR 基金会 CEO Marieke Flament 以及 Dragonfly Capital 管理合伙人 Haseeb Qureshi 向大家解释了为什么即便在加密寒冬期间 Web3 的未来仍然是光明的。来自 Pagoda 的 Pavel Kudinov 和 Josh Ford 分别发表了 NEAR 数据栈和完全去中心化的 Javascript 相关的演讲。其他的演讲主题包括构建基础设施引导 10 亿用户至 NEAR 生态、NFT 基础设施、应对熊市的 DeFi 求生包以及 Web3 监管前景。
+
+此外，Web3 风投基金 MetaWeb Ventures 创始人 Amos 在 ETHDenver 活动期间主持了一场炉边谈话，和 NEAR 联创 Illia、以太坊基金会核心研究员 Ansgar Dietrichs 共同就扩容问题进行了讨论。
+
+ 
+
+ETHDenver 演讲中出现了很多 NEAR 生态代表的身影，其演讲的主题包括区块链操作系统、可持续性、用户体验设计等。
+
+![](https://img.foresightnews.pro/202303/6549ea586c6e32b9b97681a54866efcc.png?x-oss-process=style/scale70)
+
+Aurora Labs CEO Alex Shevchenko 发表 Web3 基础设施和扩容方面的演讲，分享彩虹桥如何多次抵御黑客攻击。此外，Alex 还发表了一个关于下一代用户体验的演讲。NEAR 基金会 CEO Marieke Flament 发表了 Web3 可持续性的 3 根重要支柱的演讲， Proximity Labs 产品主管 Kendall Cole 则带大家探索了 Web3 如何在 DeFi 与应用商店的战斗中获胜。
+
+![](https://img.foresightnews.pro/202303/5aa693a965cb61988db4b62a507bcd5e.png?x-oss-process=style/scale70)
+
+在独立演讲环节， Illia Polosukhin 和 Bowen Wang 向现场观众介绍了 NEAR 区块链操作系统。Bowen 描绘了 NEAR 对于 layer1 基础设施的愿景，Illia 则探索了利用去中心化前端和社交网络重塑 Web3 发展。
+
+ 
+
+虽然 NEAR 区块链操作系统是本次活动的焦点，但除此之外还有很多声明发布。感兴趣的用户可访问该[链接](https://near.org/blog/near-at-ethdenver-highlights/?_gl=1*psni5a*_up*MQ..*_ga*NTY5OTQyMjAxLjE2NzgwMjk4ODA.*_ga_9GWCXQJ62J*MTY3ODAyOTg3OC4xLjAuMTY3ODAyOTg3OC4wLjAuMA..)，查看完整的声明。
+
+另外值得一提的是，NEAR 生态在 ETHVC’s Startup Demo Day 活动中出现两个生态项目赢家，它们分别是 Web3 社交媒体平台 Niche Protocol 以及电影融资平台 Kino。
+
+ 
+

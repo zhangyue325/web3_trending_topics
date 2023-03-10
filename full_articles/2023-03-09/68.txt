@@ -1,0 +1,73 @@
+![](https://cdn-images-1.medium.com/max/1024/0*fg_NnviGDt19sj6P)### Product & Development
+
+#### **TopScore**
+
+a) Score & Rank：Display scores and weekly changes of users in the dimensions of Creation, Campaign, and Engagement
+
+b) Annual publications chart：
+
+* add weekly change of 2023 publications
+* add 2023 total publications for comparison with 2022
+c) Stacked charts: add the line chart of Others to help users understand the overall states of personal publications being participated and collected in the past 4 weeks
+
+a) UI:
+
+* Enhance the display of the data panel
+* Add badges to show identity of premium users (TopScore NFT holders)
+b) UX:
+
+* Improve the user login process
+* Enhance the display of the data panel
+c) Feature:
+
+* optimize the display logic of the stacked charts
+#### **New Product Spoiler**
+
+What’s the trend：AIGC (Artificial Intelligence Generated Content) represents the cutting-edge application and exploration of AI technology. From traditional internet to web3, there are ongoing explorations of ways in which AI can replace humans or collaborate with humans to produce content.
+
+What’s the problem：
+
+1. AI assisted creation can lead to loss of control over the conversation and off-topic ideas.
+2. Lack of creativity and originality: AIGC is good at generating content based on patterns and rules, but it still lacks the creativity and originality that human writers and artists possess.
+3. Limited ability to understand context and emotions: AIGC algorithms can struggle to understand the nuances of language and human emotions, which can result in inaccurate or inappropriate content.
+What do we think:we aim to convey the message while also making the final piece more artistic and playful.
+
+### ***Community & Marketing***
+
+#### **Event**
+
+1）Attending We3 social house hackathon at ETHDenver23
+
+2）“Build some magic into web3 social: a discussion before ETHDenver’’ AMA as a guest held by Web3 Social Club, other guests are Chainbase, Collab.land, GoPlus Security, Mirror World, FireFly, Quest3, Mask Network, and Next.ID.
+
+3）Hosting an online event with Creverse, Anima Protocol, Metaelfland, Unimeta and Chill on the topic of AI-based Web3 ecology.
+
+4）Exclusive online talk with Mind Network in the field of sharing ideas about the participation in The Network State Hackathon
+
+#### **Marketing**
+
+1）TopScore: The Next Step in the Digital Revolution
+
+* bring about a change in the current scenario of data and AI monopoly by large organizations
+* democratize access to advanced algorithms and AI models
+Read More 🚀<https://mirror.xyz/knn3.eth/EoJDIDQh9L5S-u9n0K1E5EEBL1XqX2QrHDEnZDFSyRg>
+
+2）“Building a better decentralized web3 world” AMA recap, exciting panel with dappOS, MarkerDAO, Oi!Network, Perma\_dao, and Map Protocol.
+
+Read More：🚀<https://mirror.xyz/knn3.eth/dqpId4moy1WtXKz3TOQbtj6CGp5hKMa6MOuxc3vaDX0>
+
+#### **Partnership**
+
+1）NFTScan has entered into a partnership with KNN3 to collaborate on the NFT data level and it will provide professional NFT data services for the KNN3 protocols and products.
+
+Read More：🚀<https://nftscan.medium.com/nftscan-and-knn3-into-a-partnership-at-the-nft-data-49dec6c15ae7>
+
+2）KNN3 has integrated new partnerships, including Rivermen, Jacbot, BusyWhale, and Cosmos Chamber.
+
+#### About KNN3 Network
+
+KNN3 Network is a one-stop Web3 User-centric DataFi solution for d/Apps and smart contracts. KNN3 allows d/Apps & smart contracts to interact with cross-platform user-centric data in multiple algo-friendly ways.
+
+[Website](http://www.knn3.xyz/) |[Twitter](https://twitter.com/Knn3Network) |[Discord](https://discord.gg/sQbqDT4hxs) |[Mirror](https://mirror.xyz/knn3.eth) |[Medium](https://medium.com/@KNN3_Network)
+
+![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=8c16c51e4063)

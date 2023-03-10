@@ -1,0 +1,49 @@
+L2 是目前讨论热度最高的赛道之一。
+
+L2 旨在解决以太坊长期存在的、提升吞吐量的迫切需求，今年，其头部生态相继迎来阶段性的技术落地，同时也是今年以太坊主网升级的主要受益板块。
+
+以太坊路线图中，「The Surge」是推动 Rollup 扩容的重要节点，旨在 Rollup 中实现每秒 10 万 + TPS 的关键目标：
+
+![](https://img.foresightnews.pro/202303/8dfb71fb0f26106466b861040d3e8965.png?x-oss-process=style/scale70)
+
+图中，EIP-4844 （Proto-Danksharding 提议）是非常关键的提议，属于完整版分片扩容 Danksharding 的前置方案，整套方案围绕 Rollup 来进行链上扩容。
+
+提案部署与升级，预期能将 L1 交易的成本将降低 10 - 20 倍，进一步将 L2 Rollup 成本降低 10-100 倍。
+
+EIP-4844 的范围涵盖共识与执行，其复杂性介于 EIP-1559 和 The Merge 之间，被定于在上海升级后的坎昆升级中部署，是上海升级之后的坎昆升级的重点。因此，LSD 赛道热度高涨的同时，市场对后续热点的预期已围绕 L2 赛道展开。
+
+该提议原定于今年 5 月 - 6 月落地，但目前看来，随着进度推迟，预期将在今年中期或下半年启动。这为整个 L2 生态提供一个极佳的热度延伸区间，不断带动 L2 板块波动。该板块确定性强，最迟也将在 EIP-4844 升级前成为热点。
+
+L2 版块相对成熟，近期数据向好：
+
+![](https://img.foresightnews.pro/202303/8233aa600848d8c77ab8e33e6913026f.png?x-oss-process=style/scale70)
+
+*（数据来源：l2beat）*
+
+现有 Rollup 技术解决方案以 Optimistic Rollup 和 ZK Rollup 为主。基于 Optimistic Rollup 技术的 Arbitrum 和 Optimism 两大头部生态稳稳占据市场份额，两强格局明显。
+
+Arb 生态和 OP 生态具备先发优势，市场关注度高，资金较为集中。形成了 Arb + GMX、OP +SNX 的生态，竞争将长期存在。
+
+*![](https://img.foresightnews.pro/202303/395f88618eadacfb34b88c8325f7d946.png?x-oss-process=style/scale70)*
+
+*（数据来源：l2beat）*
+
+Arb 技术发展速度更快，最先实现了多轮欺诈证明，生态中的数量、活跃度都更为丰富，其原生项目包括 GMX、MAGIC 生态等；OP 在技术进展上速度稍慢，但于上轮牛市尾部（ 2022 年 6 月）空投了治理 Token OP，这一动作优先于其他任何竞争对手，成为市场在 L2 赛道的对标与参考标的。
+
+  
+
+
+![](https://img.foresightnews.pro/202303/58c36c6fe8e7c83b884a8e1b5bfc3d08.png?x-oss-process=style/scale70)
+
+*（数据来源：https://dune.com/blockworks\_research/l2-comparison-dashboard）*
+
+EIP-4844 提案对两项生态所带来的影响也有细微差别：Arb 上的 GMX 提供着最大的 TVL 占比，但 OP 中的 SNX V3 即将上线，由于其采用的原子交换属于 0 滑点交易，将在 EIP-4844 的降费中更加受益。
+
+此外，L2 应用天然具有迁移需求，两个生态仍在共享许多 DEX、DApp、借贷协议等。
+
+这样胶着的竞争，叠加升级所带来的 L2 Rollup 降费利好，所带来的螺旋效应将是非常激烈的。在升级延迟及升级落地之前的空间，Arb 系与 OP 系的将出现更激烈的 DeFi 项目「内卷」。
+
+这种内卷下，理想的机会在于创新类 DeFi 项目的出现、头部协议的技术进展或利好带动、官方的战略动向与生态扶持（对于这类项目，来自 Arb 与 OP 的官方支持将非常重要）。
+
+L2 中，大多数 DeFi 仍在「平移」以太坊、Polygon、Solana、Fantom 等生态中的 DeFi 经济模型与思路，但无论如何，短期内可以持续关注 Arb 生态和 OP 生态动热点 DeFi，例如：
+

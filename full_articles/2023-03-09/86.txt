@@ -1,0 +1,24 @@
+3 月 9 日，去中心化捐赠平台 Gitcoin 推出的 Gitcoin Presents 纪念系列 NFT 在停止铸造后引发市场抢购，连「麻吉大哥」黄立成也来疯狂扫货，火爆程度可见一斑。
+
+Gitcoin Presents NFT 是于 3 月 1 日通过采用 Open Edition（开放版权）模式以 0.05 ETH 的价格开始铸造，即用户的铸造数量不受限制。截至 3 月 9 日凌晨，该 NFT 以 9221 个 NFT 的数量结束铸造，每个 NFT 附有 2 篇来自 Gitcoin 联合创始人 Kevin Owocki 和 Scott Moore 关于二次方融资的文章。
+
+其中，9209 个 NFT 为普通版本，另外 12 个则为以太坊创始人 Vitalik Buterin（V 神）本人签名的限量版，通过荷兰拍的形式出售。此次 NFT 发售共筹集到 390 ETH（超 78 万美元）。其中，70% 将分配至 Gitcoin，20% 归 Plurality Institute 所有，剩余 10% 则分给 Metalabel。
+
+![](https://cdn-img.panewslab.com/panews/2023/03/09/images/3t3IX0R60u.jpg)
+
+Gitcoin Presents 系列 NFT 是以专辑封面的形式呈现，是由 Gitcoin 和 Metalabel 合作发行，旨在纪念 V 神对创新 Web3 募资、二次方融资概念提出的贡献。而 Gitcoin 是采用二次方融资机制的代表性平台之一，迄今为止已为以太坊生态的开源 Web3 工具和项目资助了超过 7000 万美元，Metalabel 则是由知名众筹网站 Kickstarter 联合创始人 Yancey Strickler、电商网站 Etsy 创始人 Rob Kalin 等创立，旨在帮助创作者利用 Web3 技术将作品代币化。
+
+早在 2018 年，V 神与哈佛学者 Zoe Hitzig、微软的 E.Glen Weyl 发表的论文「自由激进主义：社区中立社会的正式规则」，该论文讨论了如何为去中心化生态系统所需的公共产品提供加密资金，但可避免产生「搭便车」行为的新融资方式。
+
+![](https://cdn-img.panewslab.com/panews/2023/03/09/images/4EJNo8XMd0.jpg)
+
+虽然 V 神并未亲自下场宣传，但 Gitcoin Presents 系列 NFT 在二级市场引发抢购热潮。OpenSea 数据显示，截至发文，Gitcoin Presents 的销售额超 6900 ETH，持币地址数近 3600 个，其中巨鲸和蓝筹持有者数量占比达 10%。而地板价也一度接近 0.6 ETH，虽然目前已经有所回落，但仍较发行价翻了超 8.6 倍。而 Gitcoin Presents 的限量签名版本 NFT 更是在 OpenSea 上以 52 ETH 的高价售出，足以可见 V 神的影响力。
+
+值得注意的是，除了「oxb6c」开头地址曾铸造超总供应量约 8% 的 NFT 外，台湾知名艺人「麻吉大哥」黄立成也曾在几小时内购买逾 800 个 Gitcoin Presents，并随即又在 NFT 交易平台 Blur 上进行出售，或与其刷 Blur 空投积分有着重要关系。
+
+![](https://cdn-img.panewslab.com/panews/2023/03/09/images/NqNh9pppcx.jpg)
+
+*数据来源：Nansen*
+
+「这为公共产品资金筹集了超过 70 万美元的资金，并让人们对使用记录格式的伟大创意作品有了新发现，这对创作者来说是一种令人兴奋的发布和资助作品的新方式。」Metalabel 在接受 Decrypt 时如此表示。
+
