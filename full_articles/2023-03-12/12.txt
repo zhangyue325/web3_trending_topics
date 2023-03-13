@@ -1,0 +1,30 @@
+            
+先说句题外话，过去一段时间小助手微信出了故障，因此我更换了用户社群菜单的微信，并开了读者群，欢迎扫描二维码加群，群内会更新弹性金融的话题和项目动态。  
+![](https://img.foresightnews.pro/202303/acf21198f4e57ff06efbae7da8a18f8b.jpeg?x-oss-process=style/scale70)            
+“去中心化”稳定币暴雷            
+近期的热点大家都有所耳闻，硅谷银行暴雷了。有资金敞口的 USDC 跟着一起脱锚（网传占发行商 Circle 资金的 10% - 25%），连锁效应导致部分以 USDC 作为抵押品的“去中心化”稳定币 DAI 和 FRAX 跟着一起脱锚。            
+具体新闻可以参考以下三则：https://cn.tokeninsight.com/zh/news/silicon-valley-bank-fails-usdc-depegged            
+https://panewslab.com/zh/articledetails/y0elq0l6.html            
+https://www.qklw.com/lives/20230311/292767.html            
+            
+事实证明，套娃稳定币发行的稳定币是一种愚蠢的设计，有很高的内生风险，就像笔者之前在 FRAX 的文章中所述：            
+          ![](https://mmbiz.qpic.cn/mmbiz_png/GK8iapZd04Riaz9TlIJ9BUaCgQoibbZZjuRU2MbILWsgIhwicYh9XTniaMx5MJlE5NdFez8auOWiaCCI7yavcSViajfqQ/640?wx_fmt=png)[圣杯之路 1：FRAX 与弹性金融，成长的烦恼](http://mp.weixin.qq.com/s?__biz=Mzg2NTgyMjE2Mw==&mid=2247483790&idx=1&sn=93a3bc57e616b6884259ee5ef52dfe0f&chksm=ce557532f922fc24889b2f68c14cec57d521c8a1fa7dd200d369de653fe92f77c2c8b05822b3&scene=21#wechat_redirect)  
+            
+当你号称自己是去中心化的稳定币，但却用一种中心化的稳定币来作为你的抵押品，那这个去中心化就可以打引号了。            
+这个风波要持续多久，在笔者看来，除非有外部资金介入填账，补齐陷在硅谷银行的那部分存款，或者硅谷银行奇迹般的在申报破产时快速退回欠 USDC 的存款，否则这种脱锚就会一直持续。            
+换个角度，市场已经很仁慈了，理论上讲，USDC 应该脱锚 10% - 25% 才对，也就是跌至 0.9U - 0.75U，而目前市场价格为 0.96U 附近（3 月 12 日 ok 价格）。            
+![](https://img.foresightnews.pro/202303/4544d8601db94feedccb7e8b785c7b29.png?x-oss-process=style/scale70)            
+3 月 12 日，老韭菜们都应该记得今天在历史上发生过什么，希望未来越来越好，毕竟底部之后就是抬升。            
+为什么 SPOT 不降反升？            
+刚才我们提到“去中心化”稳定币 DAI 和 FRAX 跟着一起脱锚（目前 dai 报价 0.97 U， frax 报价 0.97 U， 数据来自 coingecko），而以太坊和比特币的价格却部分抬升。            
+为何？很多人发现 USDC 不靠谱， 所谓去中心化的 DAI 和 FRAX 也脱锚了，一个中心化的银行暴雷却影响“去中心化”的稳定币，干脆还是买 ETH 和 BTC 吧。            
+其实还有一种选择，SPOT。正是因为 SPOT 跟这些中心化资产都没有任何关系，不需要外部资金纾困，就算归零了也可以正常通胀重启，SPOT 不降反升。            
+SPOT 介绍：[（精翻）SPOT：一种设计合理、抗通胀的价值储存手段](http://mp.weixin.qq.com/s?__biz=Mzg2NTgyMjE2Mw==&mid=2247483865&idx=1&sn=a939ac7acb057adfc816f7ae11758e88&chksm=ce557565f922fc731366135acce3a4d2e3485b17ad91f94b52e719e1a64e7544c9aee05ff113&scene=21#wechat_redirect)  
+            
+当然，目前 SPOT 还是有一些亟待解决的问题，这种上涨也只是短期的情绪波动，并不意味着真正开启扩张模式。            
+SPOT 近期的问题            
+为什么是短期波动？因为 SPOT 还没准备好大规模扩张。            
+目前 SPOT 主要的问题是缺乏合成动力。“为什么要合成 SPOT”、“我持有 SPOT 有什么好处”，这都需要妥善的答案，也正是因为 SPOT 市值原地踏步，上一期有关 SPOT 的观察，暂时还没有结论。            
+在官方宣传中，SPOT 是一种 SOV，stable store of value，即稳定的价值储存手段。愿景很美好，但作为一种价值存储手段，短期内我可以选择 ETH BTC，反观 SPOT 和底层的 AMPL 概念复杂，持有它有什么好处？            
+这就是典型的用户心理，也是为什么 AMPL 和 SPOT 的推广举步维艰的原因之一。其实最直接的方案，就是需要健康又直接的经济奖励。            
+持有 SPOT 就可以在某个 liquidity 池子中存入并获得收益，这种收益既可持续也比较可观。就算用户不明白内在机制，只要了解收益率也愿意了解参与。这就是最直接的扩张模式，毕竟市场是逐利的，用金钱说话，而不是嘴巴。

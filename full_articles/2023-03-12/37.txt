@@ -1,0 +1,317 @@
+![](https://img.foresightnews.pro/202303/ad8ac3898f483531a1a6a9e815792337.jpeg?x-oss-process=style/scale70)  
+
+
+  
+
+
+  
+
+
+**DAOrayaki 策展**
+
+DAOrayaki 策展是 DAOrayaki 社区专注于讨论和策展创意的地方。我们鼓励所有社区成员在这里分享自己的想法、观点及探讨社区中出色的作品和策展历程。在这里，每周我们都会为社区成员带来全新的主题和文章，涵盖了各种不同的主题。
+
+  
+
+
+从周一到周五，每天我们都会发布一个全新的主题，这些主题是由策展人精心挑选和设计的。每个主题都有其独特的内涵和思考方向，旨在带领社区成员们深入探讨相关议题和问题，并发掘出新的想法和见解。同时，我们也会为每个主题收集和整理与之相关的文章和作品，供社区成员们进行更深入的学习和思考。
+
+  
+
+
+除了每日主题的更新，我们还在不断策展新的文章到往期策展主题中。
+
+  
+
+
+  
+
+
+  
+
+
+**本周末加更**
+
+  
+
+
+**1**
+
+  
+
+
+  
+
+
+  
+
+
+EP7—[代币 101：代币经济、代币治理、代币模型](http://mp.weixin.qq.com/s?__biz=MzkyNDIxMTM4Ng==&mid=2247499705&idx=1&sn=1116192882578293802fa3d8ab4f88c4&chksm=c1dbfe6cf6ac777a206318887270adb91fcfbcf62ac3b8d8f3babcb1767fbf3a84aad6ff4654&scene=21#wechat_redirect)
+
+  
+
+
+![](https://img.foresightnews.pro/202303/badb5ee42ec7b5d5a1e8a4934af8089e.png?x-oss-process=style/scale70)话题阅读：
+
+https://daorayaki.org/topic/63f3b962950f95cf0fe7dc85
+
+  
+
+
+**加更观点 15:**
+
+*与 tokenomics 模型设计有关的风险通常不在安全审计范围内。因此一旦这些风险出现，就会造成意想不到的经济损失，正如近期来我们观察到的那些平台一夜间「尘归尘，土归土」事件——都是因设计缺陷或风险管理不足而导致的。*
+
+  
+
+
+——《Web3.0 代币经济学：近 8 亿美元资产蒸发，给我们带来怎样的启示？》
+
+  
+
+
+https://daorayaki.org/post/640c23dd862d7758762cd015
+
+  
+
+
+**2**
+
+  
+
+
+  
+
+
+  
+
+
+EP8—[Web3 与品牌：用户增长策略、协议工具](http://mp.weixin.qq.com/s?__biz=MzkyNDIxMTM4Ng==&mid=2247499750&idx=1&sn=bb8fe4a77240244f17b370a881e83a45&chksm=c1dbfe33f6ac77253c529cd6d5b20934a06eaa8f5eff555a6a97f85c83a5cc9f23700ea5d130&scene=21#wechat_redirect)
+
+  
+
+
+![](https://img.foresightnews.pro/202303/badb5ee42ec7b5d5a1e8a4934af8089e.png?x-oss-process=style/scale70)话题阅读：
+
+https://daorayaki.org/topic/63f51af3950f95cf0fe84891
+
+  
+
+
+**加更观点 15：**
+
+*大部分的产品应用，都基于商业目的而创建，归根结底是需要盈利的。这一点，在 Web3 中也不例外。但 Web3 应用如何才能更好地创造收入，则是一个少有人讨论的话题。*
+
+  
+
+
+——《如何解决用户转化困境，开启 Web3 应用收入之门？》
+
+  
+
+
+https://daorayaki.org/post/640c288b862d7758762cd57f
+
+  
+
+
+**3**
+
+  
+
+
+  
+
+
+  
+
+
+EP10—[解密跨领域融合趋势：NFT 各类新玩法，新机制](http://mp.weixin.qq.com/s?__biz=MzkyNDIxMTM4Ng==&mid=2247499763&idx=1&sn=cdefcbb3af73393f2ac901daba539d64&chksm=c1dbfe26f6ac7730991ab59a2c21c64d247b6f94ec197f892e7fa9c9708f83f32e04196d1ece&scene=21#wechat_redirect)
+
+  
+
+
+![](https://img.foresightnews.pro/202303/badb5ee42ec7b5d5a1e8a4934af8089e.png?x-oss-process=style/scale70)话题阅读：
+
+https://daorayaki.org/topic/63f644f0950f95cf0fe8f5e3
+
+  
+
+
+**加更观点 14:**
+
+*本文对 LooksRare、X2Y2 和 Blur 的空投数据进行了深入研究，了解空投在各自市场上的效果。*
+
+  
+
+
+——《从 Blur 出发，探讨空投对 NFT 市场的实际影响》
+
+  
+
+
+https://daorayaki.org/post/640c2d0a862d7758762cd8da
+
+  
+
+
+  
+
+
+  
+
+
+**除了加更的全新文章，我们的往期内容**
+
+**同样充满精彩和价值：**
+
+  
+
+
+**01**
+
+EP12—[继 GameFi 之后，SocialFi 是如何完成价值发现和捕获？](http://mp.weixin.qq.com/s?__biz=MzkyNDIxMTM4Ng==&mid=2247499862&idx=1&sn=73e48663ba3a218ca4a197f11277fa32&chksm=c1dbc183f6ac4895ddcde9e8ca55e201728bca7b2eb92f99d4ebe5f439845b898b7081c4f1f3&scene=21#wechat_redirect)
+
+  
+
+
+Social Fi & GameFi 是链接 Web2 与 Web3 的重要应用入口。两者自洽的价值捕获机制对于 web3 领域的构建及项目自身的发展至关重要。
+
+  
+
+
+* Yakers 策展要点：分析 Social Fi & GameFi 协议项目中的价值捕获机制
+* 策展集阅读：
+
+https://daorayaki.org/topic/63f7c4adc5ac04b7449f3e59
+
+**02**
+
+EP13—[Web3 中的开源运动：Hacker 运动去中心化](http://mp.weixin.qq.com/s?__biz=MzkyNDIxMTM4Ng==&mid=2247499867&idx=1&sn=e74c14b94f922160722b589b0e31b0be&chksm=c1dbc18ef6ac48987dcd02ad88365de6ab95c68163694b9f4f0f77dab338821a5609c711d63a&scene=21#wechat_redirect)
+
+  
+
+
+Web3 和加密空间可能已经成为黑客运动和开源创新的唯一不需要权限的处女地。然而，如果没有根本性的机制变化，加密货币极客社区在未来十年内可能只是变得像互联网时代一样中心化。为了真正创建一个为极客服务的极客社区，需要将黑客马拉松社区和黑客运动去中心化——创建一个由极客管理、极客拥有、为极客工作的社区。
+
+  
+
+
+* Yakers 策展核心点：持续地探讨“Hacker 运动如何去中心化”。
+* 策展集阅读：
+
+https://www.daorayaki.org/topic/63fba359020511e96cefbb3f
+
+**03**
+
+EP14—[探索构建 DAO 的路径：BUIDLers 的智慧与勇气](http://mp.weixin.qq.com/s?__biz=MzkyNDIxMTM4Ng==&mid=2247499873&idx=1&sn=eeadb8b381ecd6bda1de2fb757e2fd07&chksm=c1dbc1b4f6ac48a227acc5fdffcbf4f3e6cb5a7d17e7d128aba3a17787dbf78d7424d9ec1337&scene=21#wechat_redirect)  
+
+
+  
+
+
+成功运营一个 DAO 需要 BUIDLers 的智慧和勇气。了解 DAO 的去中心化结构，实现产品的 MPF，评估社区的健康度等。同时，还需应对 DAO 组织的混乱和失控。
+
+  
+
+
+* Yakers 策展核心点：与有趣的 DAO 社区 BUIDLers 一起探索构建 DAO 的路径。
+* 策展集阅读：
+
+https://daorayaki.org/topic/63fe44b11de27dcc77e67d72
+
+**04**
+
+EP15—[流动的 DAOers，遗失的认同感和归属感](http://mp.weixin.qq.com/s?__biz=MzkyNDIxMTM4Ng==&mid=2247499879&idx=1&sn=d1b1bb1c8a4d55f7df2f8f14c3c29e92&chksm=c1dbc1b2f6ac48a426fa7ffd98ebebaea7b77516aa30d3e3e9c954b3db59c75fbefa9f60c87a&scene=21#wechat_redirect)
+
+  
+
+
+不可否认 DAO 为贡献者（DAOers）构建了一扇“任意门”，自由的加入、贡献、流动、甚至离开。这种流动性给 DAO 生态带来了新鲜血液和多元化，但也为 DAO 和贡献者造成双向困扰。贡献者贡献难以被有效衡量、信息淹没、无效付出等，而对于生态，贡献者的流动导致的效率低、忠诚度和归属感的缺失。因此，DAO 生态需要不断地探索和实践，以寻找新的方式来建立和维护成员之间的联系和认同感。同时，贡献者也需要更有效的识别与贡献，保持心理健康。
+
+  
+
+
+* Yakers 策展核心点：关注 DAO 和 DAOers 双向的认同感和归属感
+* 策展集阅读：
+
+https://www.daorayaki.org/topic/640627c8862d7758762b515d
+
+**05**
+
+EP16—[DAO 与子 DAO 的价值捕捉路径](http://mp.weixin.qq.com/s?__biz=MzkyNDIxMTM4Ng==&mid=2247499885&idx=1&sn=6af0798cf9fdae08f08e228d3020670c&chksm=c1dbc1b8f6ac48ae6f76440e68584479e49cacb6e5a809378e9de61e40daec132f7dee3509c7&scene=21#wechat_redirect)
+
+  
+
+
+DAO 在发展中已经实现了另一个拐点，在适应新想法、新贡献者和新资金的日益增长的压力时，DAO 需要扩大其协调能力并最大化的捕捉新想法的价值。为了解决 DAO 面临的协调困境，DAO 一直在尝试 SubDAO/ 工作组 / 小队的概念。然而随着 子 DAO 在过去一年的发展，并未如理想中的设定发展，也并不是每个人都相信 子 DAO 好处，甚至出现混乱和问责制缺失。
+
+  
+
+
+* Yakers 策展核心点：关注 SubDAO 如何保持完全自主的方式运作时，又与 SuperDAO 保持一致。包括：自主性、一致性、问责制等。
+* 策展集阅读：
+
+https://daorayaki.org/topic/640789e5862d7758762bbc5b
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+在未来的日子里，我们将继续为社区成员们带来更加精彩、有趣、有价值的策展内容，同时也欢迎大家积极参与到我们的策展中来，分享你们的想法和见解。无论你是读者、创作者、策展人或者投资者，欢迎加入 DAOrayaki 策展，让我们一起打造一个「充满创意、永续存在、社区拥有」的 dMedia！
+
+  
+
+
+1. 成为话题策展人，获得策展资助
+
+2. 成为策展话题的创作者，获得创作资助
+
+3. 资助感兴趣的策展话题
+
+4. 加入设计和运营策展话题
+
+5. 分享创意和观点
+
+  
+
+
+* 加入新平台开始阅读创作：www.daorayaki.org（PC 端）
+* 加入 Discord 开始讨论分享：
+
+https://discord.gg/fvEmFK4Ujs
+
+  
+
+
+任何问题欢迎微信，discord 垂询
+
+  
+DAOrayaki 是一个代表社区意志的去中心化媒体平台。通过构建基础且关键的去中心化媒体组件，链接社区内资助者、创作者、策展者和读者，使其自由的策展、研究、创作、出版和报道各类话题。欢迎通过以下方式提交星际移民、量子计算、DAO、Web3 等的相关策展、研究并提案获得资助！
+
+  
+
+
+官方网站：daorayaki.org  
+
+
+Discord server: https://discord.gg/wNUPmsGsa4
+
+Medium: https://medium.com/@daorayaki
+
+Email: daorayaki@dorafactory.org
+
+微信助手：DAOrayaki-Media
+
+Twitter: @daorayaki\_
+
+小宇宙：DAOrayaki
+

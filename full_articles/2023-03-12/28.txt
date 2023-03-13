@@ -1,0 +1,108 @@
+1. PancakeSwap 将在 BNBChain 推出 PancakeSwap V3
+
+PancakeSwap 将于 2023 年 4 月第一周在 BNBChain 推出 PancakeSwap V3，将提供多个新功能，包括更好的流动性、更优惠的交易费用、交易奖励以及优化收益农场体验，配合活动将提供价值 135,000 美元的 CAKE 空投和 V3 NFT。此外，PancakeSwap V2 版本计划同时在 Aptos 和 Ethereum 上推出更多功能。
+
+2. Lido 本周动态汇总
+
+a. Lido 代币近日因谣言影响一度下跌 10% 
+
+3 月 5 日，有传言称美国证券交易委员会 (SEC) 已发送 Wells Notice 给最大的以太坊质押服务 Lido，随后加密播客 David Hoffman 也表示，听说 Lido 和其他加密项目已收到 Wells Notices。受此消息影响，Lido 代币一度下跌 10%。Lido 发言人拒绝就协议是否收到通知置评。
+
+b. 由于发现影响 stMATIC 取款的错误 Lido 已暂停 Polygon 上的存取款功能 
+
+3 月 7 日，Lido 在推文中表示：由于发现影响 stMATIC 取款的错误，Lido 在 Polygon 上的质押和取款功能已暂时暂停，直至故障排除，所有资金都是安全的，存取款将在接下来的几天内恢复；当恢复正常运营时，将发放追溯奖励。
+
+c. Lido V2 版升级提案已获得通过
+
+3 月 8 日，Lido 关于 V2 版本升级的提案投票现已获得通过，V2 版本升级将包括对以太坊提款的支持以及引入质押路由器（Staking Router）模块化架构。提案内容显示，若提案通过，Lido 计划于 3 月 7 日至 31 日期间在 Goerli 测试网上进行测试。V2 版本在主网上的部署则取决于以太坊 Shapella 升级时间以及审计结束时间。
+
+d. Lido 在 Polygon 上线 Wrapped Staked Ether
+
+3 月 9 日，Lido 在 Polygon 上线 Wrapped Staked Ether (wstETH) 。其用户现在就可以将 Lido 的 wstETH 桥接到 Polygon 网络上。流行的 DeFi 协议 Kyber、Balancer 和 Beefy Finance 将为 Polygon 上的 wstETH 市场提供流动性激励。该消息标志着 Lido 继 2020 年 10 月在 Optimism 和 Arbitrum 上发布后第三次部署以太坊扩展解决方案。
+
+3. Tornado Cash 分叉混币应用 Primacy Pools v0 现已上线 Optimism 
+
+3 月 6 日，Tornado Cash 早期贡献者 @ameensol 发推称， Tornado Cash 分叉混币应用 Primacy Pools v0 现已上线 Optimism，并表示这是尚未经过审计的实验代码，受信任设置上是不受信任的。MolochDAO 正计划为此后的开发提供后续资助。
+
+4. Solana 本周动态汇总
+
+a. Solana 借贷协议 Solend 发布 Solend V2 白皮书
+
+3 月 6 日，Solana 借贷协议 Solend 发布 Solend V2 白皮书，旨在降低风险并改善去中心化。Solend V2 将在未来几个月内发布，将包括：受保护的抵押品、TWAP 预言机、借款比重、流出率限制、抵押限额、隔离层资产、动态清算奖金、三线性利率模型、风险权威、链上元数据、弃用资产处理、链上无需许可的流动性挖矿、账户委托、Loss Socializing 等。
+
+b. Solana NFT 交易市场 Tensor 交易量大幅上涨至 31,446 SOL 创历史新高 
+
+Solana NFT 交易市场 Tensor 宣布融资 300 万美元，并推出了类似于 Blur 的多期空投盲盒激励。3 月 7 日，Tensor 交易量大幅上涨至 31,446 SOL，交易人数超过 3.2k，均创下历史新高。此外，Tensor 还推出用户做市功能，允许在 0–25% 间配置做市费用。
+
+c. 运动员 NFT 平台 Blockasset 离开 Solana 转向 Chiliz Chain 
+
+3 月 7 日，运动员 NFT 平台 Blockasset 今天宣布，它将离开 Solana，转向 Chiliz Chain。超过 40 名运动员通过 Blockasset 提供 NFT。Blockasset 同时将获得 Chiliz 的股权投资，Chiliz 拥有 Socios 粉丝代币和奖励平台。
+
+5. Fantom 发布主网的新版本 go-opera 1.1.2-rc.5 
+
+3 月 7 日，Fantom 发布主网的新版本 go-opera 1.1.2-rc.5。Fantom 自称据其内部测试，此次升级使得区块处理时间缩短约 30%；Genesis 文件处理速度最多快 3 倍（存档 Genesis file 除外）；搜索日志只需此前 1/5 的时间。
+
+6. ENS 计划推出子域名功能 
+
+3 月 8 日，ENS 计划推出子域名功能，具体方式为 ENS 的 Name Wrapper 智能合约会将现有的 ENS 域名转换为 ERC-1155 Token，然后可用于创建子域名，子域名的各类参数受限于父域名。目前该智能合约已在 Goerli 测试网进行测试，并提供漏洞赏金计划。
+
+7. Avalanche 本周动态汇总
+
+a. 基于 Avalanche 的 DeFi 项目 Trader Joe 上线 BNB Chain
+
+3 月 7 日，基于 Avalanche 的 DeFi 项目 Trader Joe 上线 BNB Chain，将集中流动性 AMM“流动性簿”（Liquidity Book）引入 BNB Chain 生态系统。
+
+b. Avalanche 与北美电子竞技战队 TSM 达成合作协议
+
+3 月 8 日，Avalanche 与北美电子竞技战队 TSM 达成合作协议，将作为其独家区块链合作伙伴，并提供一个 Avalanche 自定义子网 Blitz。TSM 此前曾于 FTX 达成 2.1 亿美元的冠名权协议，该交易也是电子竞技历史上最大的一笔交易，但 FTX 爆雷后相关合作已取消。
+
+c. 关于建议在 Avalanche 部署 Uniswap V3 的提案已在链上发布 
+
+3 月 10 日，关于建议在 Avalanche 部署 Uniswap V3 的提案已在链上发布，将于 3 月 12 日开放链上投票，3 月 17 日结束投票。此前，该提案已通过 Temperature Check。
+
+8. Polygon 本周动态汇总
+
+a. Compound III 已经在 Polygon 上得到部署
+
+3 月 8 日，Compound III 已经在 Polygon 上得到部署，可以使用 WETH、WBTC 和 MATIC 作为抵押品借出 USDC。
+
+b. Convex Finance 在 Polygon 上线
+
+3 月 9 日，CRV 质押和流动性挖矿一站式平台 Convex Finance 宣布在 Polygon 上线，在 Convex 上提供流动性和质押的过程与以太坊上相同，用于 Polygon 的初始池包括 TUSD+amDAI+amUSDC+amUSDT 等。
+
+c. Polygon 将推进其生态游戏项目采用 AQUA 的嵌入式市场解决方案 
+
+3 月 9 日，Polygon Labs 宣布与 Web3 市场 AQUA 达成合作，AQUA 最近推出的的嵌入式市场解决方案是合作领域之一，该解决方案允许玩家完全在游戏客户端或 Hub 内进行二级 NFT 销售交易。从本月开始，来自 Polygon 生态的游戏还可以在 AQUA.xyz 市场上获得进一步支持，目标是到年底增加 15 款游戏。
+
+9. 去中心化内容创作平台 Mirror 宣布推出 Subscribe to Mint 功能 
+
+3 月 9 日，去中心化内容创作平台 Mirror 宣布推出 Subscribe to Mint（订阅铸造）功能，已在以太坊、Optimism 和 Polygon 链上部署。Mirror 表示，该功能旨在支持创作者和收藏者之间的互动，创作者可完全获得收藏者在 Mint 其发布 NFT 的收益，但 Mirror 会向收藏者收取少量固定费用。目前该功能处于社区测试阶段，只有 Mirror Genesis NFT 持有者才可访问。
+
+10. NFT 本周动态汇总
+
+a. 电商巨头亚马逊正准备在其网站上销售 NFT
+
+3 月 6 日，电商巨头亚马逊正准备在其网站上销售 NFT，预计于 4 月 24 日上线，此次发布会将推出约 15 个系列。此前报道，亚马逊推出了一家关注区块链游戏和相关 NFT 应用的数字资产企业。
+
+b. OKXNFT 宣布上线首个 Bitcoin Ordinal NFT 保真合集
+
+3 月 6 日，OKXNFT 宣布上线首个 Bitcoin Ordinal NFT 保真合集。使用 ETH 或其它 ERC20 代币，即可自由挂单或交易 BTCNFT。
+
+c. Yuga Labs 的第一个比特币 NFT 系列 TwelveFold 拍卖结束
+
+Yuga Labs 的第一个比特币 NFT 系列 TwelveFold 的拍卖于 3 月 6 日开始。300 枚 NFT 将有 288 个可供出售，12 个 TwelveFold 被保留用于捐助者、捐赠和慈善事业。3 月 7 日，Yuga Labs 宣布 TwelveFold 拍卖结束，最高出价为 7.1159 BTC，约合 159,600 美元；最低为 2.2501，约合 50,400 美元。
+
+d. Animoca Brands 旗下的 NFT 项目 Mocaverse 已开放 Mint
+
+3 月 7 日，Animoca Brands 旗下的 NFT 项目 Mocaverse 已开放 Mint，持续 24 小时，Mint 价格为 0.138 ETH（或同等价值其他 Token，如 APE、USDC、SAND 等）。Mocaverse 总量共 8888 个。
+
+e. Getty Images 将在 Candy Digital 发售稀有图片 NFT
+
+3 月 7 日，视觉媒体公司 Getty Images 与 NFT 平台 Candy Digital 合作，首次以 NFT 形式向个人收藏家提供稀有照片。该系列将于 3 月 21 日在 Candy 的网站上发售，价格从 25 美元到 200 美元不等。Candy Digital 还将在 3 月 7 日至 3 月 15 日期间赠送免费的介绍性 NFT。
+
+f. 星巴克发布第一个付费 NFT 系列 Siren Collection
+
+3 月 10 日，星巴克发布第一个付费 NFT Siren Collection, mint 价格 $100，数量 2k，18 分钟内售罄，地板价一度突破 $600。Siren Collection 是基于其女妖（Siren）标识的艺术画作，购买后会获得 1500 点积分；此外，星巴克策划了喝咖啡体验相关的播客等活动，以此增加与会员的互动。
+
+根据央行等部门发布“关于进一步防范和处置虚拟货币交易炒作风险的通知”，本文内容仅用于信息分享，不对任何经营与投资行为进行推广与背书，请读者严格遵守所在地区法律法规，不参与任何非法金融行为。不为任何虚拟货币、数字藏品相关的发行、交易与融资等提供交易入口、指引、发行渠道引导等。吴说内容未经许可，禁止进行转载、复制等，违者将追究法律责任。
+

@@ -1,0 +1,97 @@
+2023 年 3 月 11 日，美国硅谷银行在股价暴跌后宣布倒闭，加密市场也随之迎来一次动荡与危机。由于 Circle 表示约 400 亿美元的 USDC 储备中有 33 亿美元保存在硅谷银行中，这个冠名以「稳定」的稳定币迅速燃爆市场的恐慌情绪，USDC 一度脱锚至 0.88 美元附近。连带效应下，去中心化稳定币 DAI、FRAX、MIM、USDD 同样严重脱锚。
+
+那么，在这场令人咂舌的加密危机中，机构大户们是如何应对 USDC 脱锚的？他们是恐慌还是贪婪，是抛售还是抄底？今天，我们将通过 19 个机构大户的链上数据分类介绍他们的操作。
+
+一、USDC 兑换美元
+-----------
+
+Jump Trading、Wintermute Trading、Genesis Trading 与 BlockTower Capital 在周末银行休市前通过 Circle 与 Coinbase 将 USDC 兑换成美元现金。
+
+### 1、Jump Trading
+
+Jump Trading 向 Circle 存入 1.6968 亿枚 USDC。
+
+### 2、Wintermute Trading
+
+Wintermute Trading 向 Circle 存入 270 万枚 USDC，向 Coinbase 存入 2500 万枚 USDC。
+
+### 3、Genesis Trading
+
+Genesis Trading 向 Coinbase 存入 2500 万枚 USDC。
+
+### 4、BlockTower Capital
+
+BlockTower Capital 向 Coinbase 存入 996 万枚 USDC。
+
+二、买入 USDC
+---------
+
+Vitalik.eth、worthalter 与 Taureon Capital 在此次危机时买入 USDC。
+
+### 1、vitalik.eth
+
+以太坊联合创始人 Vitalik Buterin 链上地址「vitalik.eth」 将 500 枚 ETH 兑换成 400,359 枚 USDC 与 27,179 枚 DAI；
+
+### 2、worthalter
+
+Poap.xyz 创始人 worthalter 将 893,439 枚 USDT 与 106,766 枚 BUSD 兑换成 1,081,909 枚 USDC；
+
+### 3、Taureon Capital
+
+Taureon Capital 将 2,330,951 枚 USDT 兑换成 2,511,600 枚 USDC。
+
+三、USDC 兑换其他加密资产
+---------------
+
+此外，孙宇晨、Kyber Ventures、LD Capital 等机构大户将 USDC 兑换成 DAI、USDT、USDP、BUSD 与 ETH 。
+
+### 1、Justin SUN
+
+孙宇晨通过三个地址将 1.27 亿枚 USDC 兑换成 1.2696 亿枚 DAI。
+
+### \*2、IOSG Ventures（官方回应信息有误）
+
+IOSG Ventures 将 1.1873 亿枚 USDC 兑换成 1.0567 亿枚 USDT 与 2756 枚 ETH（约 398 万美元）。
+
+### 3、Kyber Ventures
+
+Kyber Ventures 将 1634 万枚 USDC 兑换成 1634 万枚 USDP；
+
+### \*4、Chain Capital（官方回应信息有误）
+
+Chain Capital 将 722 万枚 USDC 兑换成 479 万枚 USDP、 210 万枚 DAI 与 42,696 枚 USDT；
+
+### 5、Hashed
+
+Hashed 将 6,626,384 枚 USDC 兑换成 6,142,480 枚 USDT。
+
+### 6、Spartan Group
+
+Spartan Group 将 250 万枚 USDC 兑换成 2,243,537 枚 USDT。
+
+### 7、Signum Capital
+
+Signum Capital 将 2,729,260 枚 USDC 兑换成 2,531,743 枚 USDT。
+
+### 8、Infinity Ventures Crypto
+
+Infinity Ventures Crypto 将 218 万枚 USDC 兑换成 1277 枚 ETH（约 184 万美元）。
+
+### 9、LD Capital
+
+LD Capital 将 100 万枚 USDC 兑换成 229,956 枚 USDT 和 488 枚 ETH（约 703,162 美元）。
+
+### 10、LedgerPrime
+
+LedgerPrime 将 616,304 枚 USDC 兑换成 591,033 枚 USDP；
+
+### 11、Dokia Capital
+
+DokiaCapital 将 224,821 枚 USDC 兑换成 137.8 枚 ETH（约 198,432 美元）；
+
+### 12、Alpha Citadel Ventures
+
+Alpha Citadel Ventures 将 236,903 枚 USDC 兑换成 231,038 枚 USDT。
+
+![](https://img.foresightnews.pro/202303/2173-1678608886553.png?x-oss-process=style/scale70)
+
