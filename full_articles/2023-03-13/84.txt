@@ -1,0 +1,22 @@
+Game Space, 首个 Casual GameFi Hub 今天正式开启 Player One Tournament 第二赛季， 携手 3A 级链游 The Lost Land, Oath of Peak 与 Bless Global 再次为链游赛道掀起热潮。今年 2 月，Player One Tournament 第一赛季有超过 2 万用户参与，在 Twitter 上的互动量更是超过了 20 万次点击，并为游戏伙伴在 10 天内累计增长了 4.1 万新 Twitter 用户。基于第一赛季的成效，此次巡回赛筹集了 15,000 USDT 的 Listed Token 奖池， 同时也吸引了 50 个合作伙伴，其中包括 KCC Chain、Bybit、Quest3 、 Link3、CyberConnect 以及主流游戏工会和 DAO 等。腾讯云国际作为本次巡回赛的赞助商之一，为此次巡回赛的游戏合作伙伴提供了价值 3 万美元的云币，并将在每一赛季持续投资，以表示对 GameFi 赛道的支持。
+
+![](https://img.foresightnews.pro/202303/4775-1678708960108.png?x-oss-process=style/scale70)
+
+链游作为 Web3 的核心叙事之一，能够聚集更多 Web2 流量，助力行业发展。据 DappRadar 显示，2022 年 GameFi 活跃钱包可达到 80 万，并且 GameFi 的市场规模预计将在 2028 年达到 380 亿美元，充分显示 GameFi 已然在一些 OG、资深 Gamefi 爱好者以及投资人眼中，成为了一个极具潜力的赛道。
+
+ 
+
+Game Space CEO, Michael Cameron 表示：“尽管在熊市带来的偏见下，GameFi 始终表现出强大的潜力和韧性。Game Space 自成立以来一直深耕 GameFi 赛道，最初通过为传统 AAA 游戏提供 GaaS (GameFi as a Service)，将嵌入 SDK 帮助他们在 7 天内在 Web3 部署游戏。在我们不断地努力下，我们把 Game Space 发展成多元化的链游平台，聚集了近 6 万忠实的 Web3 社群用户。日后我们会继续突破界限，持续举行大型的链游巡回赛，让更多 Web2 用户进入 Web3，并为 GameFi 赛道赋予活力。”
+
+ 
+
+在去年熊市的打击下，许多项目也因此受到了影响，然而熊市也可以让开发者们更加专注于项目建设。在此背景下，GameFi 赛道再次悄然兴起，Player One Tournament 这样的囊括多款游戏的巡回赛则为更多优质链游项目提供了一个展示平台。此次加入第二赛季的游戏方背景扎实而强大，包括 Yeeha Games 的 Oath of Peak 是一个融资 5000 万美元的 GameFi 平台；The Lost Land 是 Monster Labs 独立开发的第一个防御类 GameFi 游戏，以及 Longtu Korea 旗下 TigonMobile 开发的业内第一款 3A 级 MMORPG GameFi 游戏 Bless Global。 值得一提的是，Bless Global 使用了 Game Space 的 SDK 引擎进行 Web3 部署。该 SDK 可让游戏快速拥有 NFT 交易市场、MPC 钱包、管理后台和安全保障等区块链能力。近期 Bless Global 也宣布有 200 万玩家参与了 Beta test 预热活动，用户平均在线时间为 218 分钟。
+
+ 
+
+Player One Tournament 第二季巡回赛将为期 12 天，每 3 天专注一款游戏。同时， Game Space 也邀请 Twitch 上主流游戏主播进行直播参赛。参赛者可以通过完成 Quest3 上的任务进行参加：<https://app.quest3.xyz/event/748104043896905973>
+
+ 
+
+对于 Player One Tournament， Game Space 将会持续与更多公链、各类游戏公会、Web3 Infra、Web3 社群等进行合作举办巡回赛，为各类 GameFi 项目吸引关注度，扩大链游玩家的基数，从而更好地推动整个 GameFi 和 NFT 生态繁荣发展。
+

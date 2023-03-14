@@ -1,0 +1,28 @@
+硅谷银行引起的 $USDC 危机时刻让几乎整个稳定币市场血流成河，然而 liquity 协议的去中心化稳定币 LUSD 在保持价值稳定的同时还为 LQTY 持有者带来了丰厚的收益。
+
+3 月 11 日一天，通过将暂时 depeg 的 LUSD 进行 redemption，协议产生了 100 多枚以太的收入，并分配给 LQTY 的质押者。
+
+![](https://img.foresightnews.pro/202303/965febfa83212a0bee3a4f7d2463f059.png?x-oss-process=style/scale70)
+
+LQTY staking APR 一下子升到了 27.5%, LUSD 存入 stability pool 的 APR 也达到了 7.65%。
+
+![](https://img.foresightnews.pro/202303/228b375ec0aac8c5f5397ff8d41c44e0.png?x-oss-process=style/scale70)
+
+LQTY 价格因此开始上涨，最近 30 天的涨幅达到了 3 倍，这可是在最近币圈普遍大跌的背景下取得的，可谓是加密货币领域最为反脆弱的资产。
+
+![](https://img.foresightnews.pro/202303/1e8e035be2f41d811c51f2626fb19269.png?x-oss-process=style/scale70)
+
+liquity 的 redemption 机制让每个 LUSD 的持有者无惧市场恐慌带来的稳定币脱钩，真正做到“山崩于眼前而不动声色”。相反，这还是稳定币持有者的机会，为什么这么说，我来为你讲一讲 liquity 的 redemption 机制。
+
+redemption 机制是给了 LUSD 持有者在任何情况下都可以以 1LUSD= 1USD 的价格来赎回 ETH 的。这有什么好处？好处就在于如果 LUSD 向下脱锚，你仍然可以把 LUSD 当成 1 美元赎回以太坊，转手再卖掉获得套利机会。脱锚价格越大，你的套利空间越大，马上就会有人来蜂拥购买 LUSD 进行套利，从而再次将 LUSD 锚定在 1 美元。
+
+从系统角度来说，redemption 机制通过将系统内抵押率最低的仓位强行部分平仓来销毁 LUSD，从而提升系统整体 CR，保证了 LUSD 的锚定价值。
+
+更详细的解读请参考 liquity 官方技术文档：<https://www.liquity.org/blog/understanding-liquitys-redemption-mechanism>
+
+明白了这些相信你会对 LUSD 的价格锚定更有信心，毕竟经历过 5.19，2021 年 11 月开始的连续暴跌，以及今年的 3.11USDC 脱钩事件，LUSD 都非常出色的保证了价值的稳定。要知道，系统在所有情况下的运行都是自动化，无治理就达成的，这非常惊人。相比而言，makerDAO 最近可是忙的焦头烂额，每年的运营成本达 4000 万，根本不能为 MKR 持币者挣钱。
+
+这里不是投资建议，而是希望大家都能够将 LUSD 使用起来，去中心化思想既是为了自身利益，也对整个 defi 行业健康发展至关重要。
+
+\*\* \*\*
+

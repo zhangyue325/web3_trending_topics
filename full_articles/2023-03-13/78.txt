@@ -1,0 +1,13 @@
+![](https://img.foresightnews.pro/202303/41fee9d0a810a84473b7e3544c35230c.png?x-oss-process=style/scale70)🔘Lido 抵押的 ETH 正式运用于 Polygon，继 Optimism 和 Arbitrum 之后成为第三个可以被使用的 Layer 2 网络。
+
+🔘wstETH 已成为 Optimism 和 Arbitrum 上 Aave V3 的抵押品
+
+🔘Rocket\_Pool 的 rETH 已作为抵押品添加到 Euler 上，使交易者可以使用分散化的抵押衍生品，同时赚取内在的抵押收益率和借款人支付的利息。
+
+🔘Arbitrum 建议使用 Proof of Stakes 时隙时间槽来检测分叉审查 / 区块过滤，以缩短 optimistic rollup 的挑战期。  
+🔘引入多验证器的新概念，可以增加桥接的安全性，但代价是更高的跨链成本。  
+🔘Bedrock 升级将会使 Optimism Mainnet 的协议成本和安全费用降低 47%。
+
+[Ebunker Website](https://ebunker.io/) | [Twitter](https://twitter.com/ebunker_eth) | [Telegram](https://t.me/ebunkerio) | [Discord](https://discord.gg/nuvw6hmvnK)
+
+![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=1a94bfe966b1)

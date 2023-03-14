@@ -1,0 +1,37 @@
+![](https://img.foresightnews.pro/202303/96de3cd6c19f7cd69b8aced26024e688.png?x-oss-process=style/scale70)
+
+1. **KYC/AML：USDC 的用户必须完成实名认证（Know Your Customer）和反洗钱（Anti-Money Laundering）流程，以符合金融监管的要求。**
+2. **审计报告：USDC 的发行公司 Circle 会定期接受第三方审计机构进行审计，以验证其 1:1 锚定美元的现金储备，并保证持续的透明度。**
+3. **金融监管支持：USDC 得到了多个监管机构的支持和认可，例如美国金融监管机构 FinCEN 和纽约州金融服务部门。**
+4. **开放合规框架：Circle 公开了其合规框架，以帮助其他加密货币公司和社区参考和实践。**
+![](https://img.foresightnews.pro/202303/8e96433d4336bbb245788a5fa9639c2a.png?x-oss-process=style/scale70)
+
+\*\* 我们来捋一下各个稳定币 depeg 的逻辑链条：\*\*
+
+1. **USDC 因为硅谷银行的雷，导致部分现金存款可能无法取出，造成恐慌性折价，USDC 脱钩。**
+2. **作为稳定币市场最大的流动性池子，curve 上的 3pool 从来都是承受稳定币风险最直接冲击的池子。原本 USDC 的风险可以由 DAI 和 USDT 共同承担，但由于 DAI 的抵押物中 USDC 占比很大，目前可能超过了 60%，抵押物价值下跌自然会影响 DAI 的稳定性。**
+![](https://images.mirror-media.xyz/publication-images/wwXq1GX6VVTOFX7ALVDzM.png?height=764&width=1384)
+
+* **更糟糕的是，因为 makerDAO 有 PSM 模块（PSM 模块是 DeFi 协议中的一种智能合约，允许用户使用 USDC，GUSD，USDP，向 MakerDAO 系统中的债务池直接购买或赎回具有 1:1 价值的 DAI 代币），巨量的 USDC 通过 PSM 模块兑换称为 DAI 进行出逃，两相结合自然 DAI 也就跟着 USDC 被砸了下去。通过 makerburn 数据可以清楚看到最近 24h 由 USDC 流入创造的 DAI 达到将近 10 亿美元（950M）。**
+<https://makerburn.com/#/rundown>
+
+![](https://img.foresightnews.pro/202303/9e4c9717dfd750fee2e828f00fbd2848.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/0fa6a435440b24d2389b816e86578678.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/ef449ec1eabac3c81f403f9393f6b9a5.png?x-oss-process=style/scale70)
+
+\*\* \*\*
+
+5.TrustToken 发行的 TUSD，有点类似 USDC，也属于受美国金融业监管局（FinCEN）监管，并符合美国 AML 和 KYC 规定，有独立的第三方审计公司的数字资产托管公司，非常难得的也没有受到太大冲击。
+
+![](https://img.foresightnews.pro/202303/9f4b7ec2f4bf4069758c854843fe9110.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/531be96bb34c83a7f736b09912cb2447.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/c27de81f401ee61a30318a302fd5fd8b.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/1422762ad537e6694006e9b6b4cd949e.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/132ad170497de0f4928e9c2cd449efb4.png?x-oss-process=style/scale70)
+

@@ -1,0 +1,180 @@
+![](https://img.foresightnews.pro/202303/c9d380f3ba865b6aacc6e01facef5db6.jpg?x-oss-process=style/scale70)* 上周加密市场整体走势与美股类似，周中受非农数据预期影响震荡下跌，周五受硅谷银行，大非农数据超预期等因素同美股大跌，但交易量仍较为活跃，市场在几个整数位上都表现出较浓的抄底情绪，甚至在周末出现 USDC 脱锚危机后市场并没有展现出恐慌情绪，除 USDC 有脱锚现象外，主流币种并没有明显下跌，反而比特币在 20000 的位置得到了支撑，截止撰稿比特币收于 20308.21，周内下跌 9.28%，振幅 13.67%；以太坊持续表现由于比特币，收于 1463.46，周内下跌 7.21%，振幅 13.78%。上周的主要利空仍来源于传统市场，不管是非农数据、银行破产、还是拜登宣布对美国富豪征收 25% 的最低税都有不同程度的利空效应，但随之带来的应该是美联储 3 月份加息会确定在 25 个基点，否则对市场的多重打击容易造成无法估计的影响。再便是硅谷银行破产对 USDC 与 Circle 带来的影响，作为连续第二家储蓄银行倒闭，我们也不得不质疑一下 circle 在选储上的谨慎程度。另外收到 USDC 影响，USDT 兑 USD 价格飙升，当前 OTC 市场 USDT 约为 7.1 人民币，而 USD 只有 6.91，更多关于稳定币的情况会在下文介绍。
+![](https://img.foresightnews.pro/202303/31d1311b60899ac9c7e701d1947a9ada.jpg?x-oss-process=style/scale70)* 上周市场持续下跌，情况不容乐观，标普已经向下跌破了上升趋势线，从技术走势来看已经结束了去年十月以来的上升趋势，短线看，标普的头肩顶已经形成，右肩向下可以看到 3750 点左右，目前已然接近这个位置。纳指走势偏震荡，本身在过去几个月都一直在宽幅震荡，如今又是掉回了震荡区间，稍微好点的预期就是继续震荡。本来上周是非农行情，非农数据也较大左右了市场走势，上周非农就业 31.1 万大超预期，市场预期虽然从 20 万调高到了 22 万，但也仍然是大超预期，休闲和酒店行业仍然高居榜首，我们看到的科技巨头裁员，而就业却非常火爆便是休闲酒店行业提供的，有 10.5 万个就业机会，占了新增就业的 1/3。当然上周大非农的利空仍然比不过另一个黑天鹅事件，便是美国硅谷银行的倒闭，这也是本周行情是否会急转直下的主要线索，硅谷银行出现重大经营风险之后，投资者开始担忧 2008 年雷曼时刻再次降临，本次事件在未来是否会造成连锁反应，致使大量银行遭遇挤兑，不得不通过抛售资产或债券的形式变现，便成为了未来几周需要密切关注的问题。同时这也是 2008 年以来最大的银行倒闭事件，因此投资者的担心也是正常的，FDIC 虽然宣布接管了硅谷银行，保险范围内的存款人将可以在星期一上午开始提取存款受到保险保护的 25 万美元，FDIC 会通过收集和出售银行资产和债权的收回对超额的部分进行赔偿，但其是否会传染至市场导致系统性风险仍不得而知，本周我们会密切关注事态发展。
+![](https://cdn-images-1.medium.com/max/1024/0*NeUQYki08y8-YQTU.jpg)行业数据
+
+1）稳定币
+
+* 根据 glassnode 数据，截止 2023 年 3 月 11 日，前四大稳定币（USDT、USDC、BUSD、DAI）合计供应量约 1212.76 亿，较上周出现大幅下跌，减少约 80.3 亿（-6.21%），币市资金大幅流出。
+* 备注：glassnode 数据中，DAI 的供应量不准确，与链上数据（DAI 合约地址：0x6B175474E89094C44Da98b954EedeAC495271d0F）不一致。剔除 DAI 的数据扰动，三大法币合计稳定币供应量较上周减少 41 亿（-3.36%）。
+![](https://img.foresightnews.pro/202303/b1e7e80c9b9f0360688bb20f2fc731c5.jpg?x-oss-process=style/scale70)* 三大法币稳定币中，USDT 供应量持续大幅上涨。USDT 本周增加约 13.56 亿枚（1.9%），上涨趋势延续，市占率超过 55%。但本次 USDT 的大幅上涨大概率来源于 USDC 的置换，稳定币市场出现 FUD 情绪时，短期数据波动剧烈，指导意义有限。
+* BUSD 供应量本周持续下跌，但较前两周有所放缓，减少约 7.1 亿（-7.8%）。由于 Paxos 已被禁止铸造 BUSD，未来一段时间，BUSD 还将持续下跌。
+* USDC 本周供应量大幅减少约 48.17 亿枚（-11.03%），主要受硅谷银行破产事件影响，市场担忧 USDC 出现风险敞口，恐慌之下导致 USDC 价格脱锚，最低跌至 0.88 附近，但目前已回升至 0.96 附近。出于避险或套利考虑，机构和大户纷纷选择出金或兑换其他资产，其中有做市商（包括 Jump Trading、Wintermute）、孙宇晨、投资机构 Hashed、Spartan Group 等。值得注意的是，V 神用行动为 USDC 站台，链上数据显示地址 vitalik.eth 将 500 枚 ETH 兑换成 400,359 枚 USDC 与 27,179 枚 DAI，上次 V 神 Twitter“喊单”的币种为 SOL，此后一月内 SOL 涨幅近 200%。
+![](https://cdn-images-1.medium.com/max/1024/0*gRrY3l_YUMzEMouc.jpg)根据 Circle 的披露，USDC 的储备中，有约 111 亿现金，324 亿美元为短期国债（3 月以内到期），其现金储备中有 33 亿美元存放在硅谷银行，约占流通量的 8%。
+
+![](https://img.foresightnews.pro/202303/c16e2b629a3482fc6eeb0b4db678badc.jpg?x-oss-process=style/scale70)* 假定以上披露信息为真，按照极端风险情况（储备银行破产 + 挤兑）假设，则有以下推测：
+* Circle 分散存放在 7 家银行的现金全部由于银行破产而产生损失，回收率假定为 80%，这部分损失为 22 亿美金；
+* 假设发生大规模挤兑（超过其现金储备），Circle 被迫在短期内抛售全部短期国债，受流动性影响损失最大约 10%（短债贴现损失小），这部分损失为 32 亿美元
+* 对应 USDC 的储备余额为 381 亿美元，则 USDC 的价值下限约为 0.87 美元 / 枚。
+* 根据 Circle 公告，其已在上周四发起转账，转移硅谷银行的存款（理论上会在周一被执行）；此外，如果有任何损失，将由 Circle 的公司资源和外部资本进行补足。
+* 根据以上信息，我们初步认为问题并不严重，周末 USDC 价格在 0.877~0.96 区间，市场已基本消化了利空，并重新定价了 USDC 的价格。
+* 整体而言，本周 USDT 的增长难以抵消 USDC 和 BUSD 的流出，币市资金依然在净流出趋势中，该趋势已持续三周，流动性欠佳的情况下，市场行情大概率难有起色。此外，虽然 USDC 的问题并不严重，但其对情绪和监管上的利空是显著的，市场本就流动性不足，这一事件可能会继续减少外部流入资金，导致熊市持续更长，引发更多的黑天鹅事件。
+2）BTC 矿工余额
+
+* BTC 矿工地址余额表明链上被标记为矿工地址的 BTC 持有余额合计，包括 Foundry USA，F2Pool，AntPool，Poolin，Binance 等地址。
+* 该数据通常用于判断对于矿工对于当前 BTC 价格的兴趣，矿工余额升高时，通常说明筹码处于堆积状态；矿工余额降低时，表明矿工正在抛售或抵押其持有的 BTC。
+![](https://img.foresightnews.pro/202303/ef54abee9d4af73b7df2042b407ee925.jpg?x-oss-process=style/scale70)* 根据 OKLink 数据，与上周相比，矿工余额小幅减少，虽然绝对值变动幅度不大，但此次单周增加回补了 2022 年 12 月以来的最大跌幅。作为 Smart Money 的代表之一，矿工在本次下跌前（2 月 28 日）就开始提高警惕，部分兑现获利筹码；而在随后的下跌中保持观望，直到 3 月 8 日开始随着 BTC 的大幅下跌而再次积累筹码，未受市场利空事件影响。
+3）ETH 通缩数据
+
+* 截止 3 月 12 日，根据 ultrasound.money 数据，本周 ETH 供应量较上周减少约 16533 枚，自 The Merge 完成后，ETH 供应量已累计减少 6.08 万枚。以近一周数据推算，年化通胀率为 -0.7%，通缩速度再次增长，主要受 USDC 脱锚事件影响，Uniswap、Curve 等 defi 交易活跃，燃烧了大量 ETH。
+![](https://img.foresightnews.pro/202303/b1f9f086240b75ed15337eddc6fc2bc9.jpg?x-oss-process=style/scale70)* 相比 POW 机制下的 ETH，POS 机制下供应量已累计减少约 201 万枚，以美元计价这部分抛压近 30 亿美元。
+* **二、宏观与技术分析**
+* 市场在出现 silvergate 和 svb 黑天鹅之后，急速下跌，已经跌破支撑位，整体仍需要时间修复
+![](https://img.foresightnews.pro/202303/fcde29d07f3a1395db675badfd4146f9.jpg?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/bc7d0e784797623e95cfe54d24b95a1e.jpg?x-oss-process=style/scale70)两年期美债在市场出现黑天鹅事件之后急速下行
+
+![](https://img.foresightnews.pro/202303/39bf474775fd430ee04c8ab10be21fb6.jpg?x-oss-process=style/scale70)纳斯达克指数也跌穿支撑
+
+![](https://img.foresightnews.pro/202303/ebce61e3b4e36c17fdc54969c08c672b.jpg?x-oss-process=style/scale70)arh999：0.49
+
+![](https://img.foresightnews.pro/202303/8ff2358670920a3b8672b7cd8ab80eea.jpg?x-oss-process=style/scale70)持币地址数基本没有太大变化
+
+![](https://img.foresightnews.pro/202303/85c0215d0920992043adb5c0a13048fe.jpg?x-oss-process=style/scale70)持币地址数跳涨
+
+![](https://img.foresightnews.pro/202303/abb941f431e5ee8a64b780393849bd77.jpg?x-oss-process=style/scale70)* 投融资回顾
+* 2023 年 3 月 6 号至 3 月 13 日，加密 VC 市场披露的投融资事件 20 笔，累计融资金额超过 1.95 亿美元；（https://www.rootdata.com/Fundraising）
+* 报告期内，超过 1,000w 美金融资额的事件一共 6 起：
+![](https://img.foresightnews.pro/202303/75f2efd6dba15fdb0826ed9f102ea13a.jpg?x-oss-process=style/scale70)机构动态
+
+![](https://img.foresightnews.pro/202303/806b31a587c76d49d8dd335cac479cf4.jpg?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/0fcdbd9b1cbc9f32efa10f49cbbc3e3d.jpg?x-oss-process=style/scale70)1. **FTX 数字不良资产债权市场最新动态：**
+* 目前 FTX 还处在破产保护的 120 天内，截止日期是 3/11 日，原本的听证会时间式上周三 3 月 8 日，但是因为 FTX 资产负债表过于混乱的问题，和法院协调后推迟了听证会时间，下一次听证会的时间暂定 4 月 12 日，所以 FTX US 和 FTX International 方面并没有公开披露出任何实质性的进展。
+![](https://img.foresightnews.pro/202303/31ed49cc0fa3fb4fe2c157272923d184.jpg?x-oss-process=style/scale70)目前场外市场的债权价格还保持在 15–20% 这个区间, 仍然呈现着缓慢上涨的趋势。
+
+![](https://img.foresightnews.pro/202303/3a11e89f40faf7622c3593a362959b2d.jpg?x-oss-process=style/scale70)据法庭文件显示，Alameda Research 已达成 4500 万美元的现金交易，将其在红杉资本的股份出售给阿布扎比投资部门“主权财富基金”。
+
+该交易有待特拉华州破产法官批准，\*\*FTX 试图出售其在加密货币和科技企业的早期投资以偿还债权人的资产。该协议最早或将 3 月 31 日完成，但 FTX 的交易将受到严密的司法审查。
+
+FTX 集团于去年 11 月申请破产保护，主法官 Dorsey 于今年 1 月批准 FTX 出售一些比较容易分离的资产。其中包括衍生品部门 LedgerX、股票结算平台 Embed，以及位于日本和欧洲的子公司。但是 FTX 管理层仍然表示，公司的资产负债表仍存在巨大缺口。
+
+Silvergate Capital Corporation （SI）宣布将根据适用的监管程序**结束运营**并**开始着手启动自愿清算** Silvergate Bank。
+
+自愿清算即公司自行对其资产进行清算关闭公司，是指债务人与债权人达成协议，不经过正规破产处理程序（chapter 7)，私下对公司进行的清算。自愿清算能够避免许多破产成本，而且债权人也能获得更高比例的偿还。
+
+![](https://img.foresightnews.pro/202303/53e6665eef38df420de7d90704663942.jpg?x-oss-process=style/scale70)Silvergate Capital Corporation 在公告中表示：鉴于最近的行业和监管发展，Silvergate 认为有序结束银行业务和开始自愿清算程序是目前最好的发展路径。\*\* 银行的清盘和清算计划包括全额偿还所有位于银行的存款。\*\* 公司还在考虑如何最好地解决索赔并保留其资产的剩余价值等。Silvergate 的股价在美股周三盘后交易中下跌超过 28%，周五收盘价为 2.44 美元, 市值已经缩水到仅仅 8000 万美金，SI 目前的状况主要是银行久期的错配导致的。
+
+这也是上周美国接连第二家地区性银行陷入破产危机，此前 Silvergate Capital Corp.宣布自愿清算银行业务，引发银行股抛售及市场的不安情绪的担忧。
+
+硅谷银行流动性危机引发的恐慌情绪在金融界蔓延。硅谷银行的母公司 SVB Financial 周五盘前一度暴跌 68%，并于美东时间周五早 8 点 30 分左右停牌。纳斯达克晚些时候表示，暂停硅谷银行金融集团的股票交易，硅谷银行将一直停牌，直至满足提供更多信息的要求。
+
+所以说硅谷银行的暴雷，很可能会导致其他美国银行业的效仿，纷纷出现抛售证券资产的行为，开始一连串的连锁反应，加速美国金融市场的暴雷。如果通胀问题还不控制，加息还要继续，那么很可能还会有一大轮熊市和黑天鹅事件随后会发生。
+
+Mt. Gox 门头沟事件至今已经过去了 9 年多的时间，根据 2019 年 Mt.Gox 公开的资产负债表显示，交易所当时持有约 14.2 万枚 BTC、 14.3 万枚比特币 bitcoin cash 以及 690 亿日元（约 5.1 亿美元）的现金。此后根据市场透露出的信息，Mt.Gox 资产负债表并没有出现太大变化。截止至 3 月 6 日最新的数据显示，Mt.Gox 持有超 13.7 万枚比特币，价值共 30.8 亿美元。
+
+根据 Mt.Gox 官网的公告可以看到，债权人要想获得赔偿，必须在 2023 年 3 月 10 日前登记并选择相应的还款方式，首批赔付的最后期限为 2023 年 9 月 30 日。如果未能在截止时间内完成登记和注册，这部分债权人将无法获得最早期的一次性还款，且失去部分加密货币索赔、银行汇款、支付等服务的权利。但是上周四根据最新的法院文件显示，索赔申请的截止时间被再度推迟到了 4 月 6 日，还款日期也是推迟到了 10 月 31 日，由于 Mt Gox 的还款时间被一再推迟，法院此次也表明，除非有不可抗拒的因素，此次日期将为最终日期。
+
+![](https://img.foresightnews.pro/202303/0a68b8df2bf3df18e0d88a09c88780cd.jpg?x-oss-process=style/scale70)Mt.Gox 面向债权人提供的偿付方案包括 2 种
+
+1. 基础偿付： 基础偿付部分允许每个债权人索赔的前 20 万日元 (1500 美金左右 ) 将以日元支付
+2. 比例偿付： 比例偿付则为债权人提供了两种选择，
+“早期一次性还款” ：只能让债权人获得部分赔付，即超过 20 万日元的部分可允许债权人选择 BTC、BCH 和日元的混合方式或者以法定货币支付全部金额，目前被债权人所选择的比例大概为 71% 的加密货币和 29% 的现金。
+
+“中期还款和终期还款” ：较前一种方式获得更多的偿还
+
+* **中期**付款可以在 10 月 31 日获得赔付，
+* **终期**付款将在未来几年内支付。而部分债权人要想获得更高比例的偿付，还可继续等待诉讼结果，这意味着他们需要等到更长的时间才能收到付款，这个过程被外界预估可能需要等待额外五至九年的时间
+目前首次赔偿的金额和债权人及具体的比特币数量仍然是未知的，而且 Mt. Gox 完成所有的数据统计预计还需要一定的时间，而且像刚才提到的由于 mtgox 设置了多种不同的赔付路径，这意味着这些比特币的释放量或将不会非常集中，不会造成太大的抛压和市场冲击。
+
+参考：Mt.Gox 最大的两个债权人 Bitcoinica 和 MGIF 就选择了早期一次性支付方案，且选择主要以比特币而非法定货币的形式来获得赔偿，这两大债权人所需的索赔金额约占全部的 20%。
+
+另外一点需要注意的是由于债权人必须采用任意一家交易所代用来接收他们的赔偿，而每家交易所对于它们各自处理付款的速度也是不同的，因此债权人获得赔偿的时间也不同，比如 BitGo 将在 20 天内进行付款、Kraken 的付款程序可能需要 90 天。
+
+* **各板块数据整理**
+* **NFT**
+蓝筹指数：本周 NFT 蓝筹指数震荡下行，大蓝筹 NFT 正在面临着图币双杀
+
+![](https://img.foresightnews.pro/202303/e38a97144ba1b0867d885785e5a82bf9.jpg?x-oss-process=style/scale70)按 ETH 本位看，NFT 总市值基本持平，而交易量受市场影响下降超 20%
+
+![](https://cdn-images-1.medium.com/max/1024/0*DLSJFHnPWnKzHD2H.jpg)持有者情况：持有者同比上涨 0.9%，交易者同比上涨 2.58%，但伴随着市场下跌，能看到交易者数量急剧下降
+
+![](https://img.foresightnews.pro/202303/e089e8d9c8c6964ccf6b68584aa7be14.jpg?x-oss-process=style/scale70)* **Metaverse**
+从地价来看，总市值同比下跌 11%，交易量萎缩严重，holders 基本持平
+
+![](https://img.foresightnews.pro/202303/8e8f03c73134f8b90bc6c80395e78df9.jpg?x-oss-process=style/scale70)* **Gamefi 链游**
+总体来看，Gamefi 行业本周主要受大盘影响显著，总体市值大幅下跌，但玩家数量逆势上升。
+
+从 Token 价格来看，前 10 市值链游 token 全部下跌，且跌幅均在 10% 以上。
+
+![](https://img.foresightnews.pro/202303/91bc111dc0c6e181d61a1dbadc14a73d.jpg?x-oss-process=style/scale70)<https://degame.com/zh/ranking/game/ALL_GAME>
+
+按链上合约交互量来看，前十活跃链游中，过去一周交互活跃度 60% 上涨。其中，Trickshot Bliz 玩家数量大增，上涨 49%（一个台球休闲小游戏，本周因为做了一些宣发，也推出了新玩法，交互量上涨）**。**
+
+![](https://img.foresightnews.pro/202303/a559fdab165d486e0a1d76c4a6f23e03.jpg?x-oss-process=style/scale70)数据来源:https://dappradar.com/rankings/category/games
+
+* **DeFi &公链赛道数据**
+截至撰稿，DeFi TVL 为 44.97B，受本周多个黑天鹅事件影响持续下滑。按 TVL 排名前五的协议分别为：Lido、MakerDao、Curve、AAVE、Convex Finance。Lido 和 Curve 本周分别下跌 7.25% 和 7.04%。
+
+![](https://img.foresightnews.pro/202303/7435fdfbced626e3bcbaa406bcba7cf0.jpg?x-oss-process=style/scale70)<https://defillama.com/>
+
+从公链的角度来看，本周 TVL 前三的链分别为：ETH、BSC 和 Tron。Arbitrum 和 Optimism 本周分别增长 -17.12% 和 -9.14%，分别排名第四和第六。
+
+![](https://img.foresightnews.pro/202303/5ba80bd2a34aae9cc6ea5e0df7ab7495.jpg?x-oss-process=style/scale70)<https://defillama.com/chains>
+
+* Web2 巨头进军 NFT 市场之路
+* 星巴克
+3 月 10 日凌晨 4 点发布第一个付费**NFT Siren Collection**, mint 价格 $100, 数量 2k, 18 分钟内售罄，地板价一度突破 $600
+
+Siren Collection 是基于其女妖（Siren）标识的艺术画作，购买后会获得 1500 点积分
+
+官方描述：每枚邮票上都有你从未见过的星巴克海妖，以及我们过去五十年来的各种艺术作品。每一项设计都通过传说、神话和冒险，用美丽、有层次的艺术品描绘了我们对咖啡的爱，每一件都是独一无二的
+
+权益：和播客策展平台 Hark Audio 联合推出了名为 **The Starbucks Daily 的播客（内置在星巴克 App 中）**。通过每天 2–6 分钟的音频精选，提升用户喝咖啡时的体验，另外 **CMO 称还会为会员提供特别活动，比如新帝国大厦的开幕式**
+
+Lifestyle Brand：围绕一系列内容的打造，包括 Odyssey, Starbucks Daily 和 Event, 星巴克不断增加和会员互动的机会，当会员买完咖啡后，其与星巴克的互动并没有结束：可以收听播客，在 Odyssey 中赚取 NFT，在晚上参加活动 \*\*。在这些场景里可以增加更多的品类，提升其商业空间，升级为生活方式品牌
+
+Amazon 的 NFT 市场即将启动
+
+官方预期落地时间会在**今年的 Q2**
+
+具体落地方式猜测可能通过核心用户启动，可能上线前会通知北美区**1.67 亿存量 Prime 会员**
+
+Prime 是 Amazon 最重要的用户资产，以往很多重要的新业务，如在线视频，本地生鲜也通过给会员叠加权益的方式启动
+
+web2 友好，支持现有账号信用卡购买（非收割 web3 存量用户逻辑），具体是实物销售结合 NFT 还是和 gaming 结合还未披露（曾联系多家游戏公司进行调研）
+
+从投资角度看，Amazon 选择的基础设施会成为极大的利好（参考 ins 选择 ar 后的走势）。具体的公链还未公布，但 1 月份的 AWS 也曾公布与 Ava Labs 的合作，但并未确认发行的链。
+
+* ERC6147 协议
+以太坊改进提议 EIP-6147 已移至最终版本（Final）
+
+简介：该标准是 ERC-721 的扩展，分离了 **NFT 和 SBT 的持有权和转让权**，并定义了一个新的**可设置到期时间的”守卫者”角色 Guard**，可使得 NFT 防盗、借贷、租赁、SBT 等更具灵活
+
+解决问题：在目前的 NFT 借贷中，NFT 所有者需要将 NFT 转移到 NFT 借贷合约中，**NFT 所有者在获得借贷期间不再拥有 NFT 的使用权，这边是产权耦合的问题**，这其实和我们现实中购买房产再房产抵押换取流动性资金时，再非风险条件下是不用被占用房屋使用权的情况很不同。
+
+技术原理：
+
+ERC-6147 定义了一个名为 Guard（守卫者）的角色
+
+![](https://img.foresightnews.pro/202303/b800443aaaa56d4c316302b92cc9efa9.jpg?x-oss-process=style/scale70)对于设置了 Guard 的 NFT 而而言，原持有者将只有持有权，并没有转移权（即使用权），其他 Dapp 依旧可以查询到此 NFT 的所有者是原用户，但原用户无法驱动其进行转移。
+
+![](https://img.foresightnews.pro/202303/1606ef88cbd76ec30f9a342ea52898ef.jpg?x-oss-process=style/scale70)* **Big Time**
+Big Time 是一款多人在线动作角色扮演游戏（Multiplayer Action Role-play Game，Multiplayer ARPG），类似魔兽世界、上古卷轴、原神等大型 IP，玩家可以在这个世界里创建自己的角色、选择种族和技能、探索地图，进行组队、对战、生产、交易等多种社会行为交互。Big Time 将采用虚幻引擎（Unreal），力争为玩家呈现一个绚丽而真实的 Metaverse 世界。
+
+![](https://img.foresightnews.pro/202303/cd1605591cf8e06ff87bbc3fbc2dd0af.jpg?x-oss-process=style/scale70)融资：2021 年 5 月，Big Time Studios 完成 1030 万美元的 A 轮融资，投资者包括 North Island Ventures、数字货币集团、Blockdream Ventures、Alameda Research、Circle 和 Sound Ventures 等公司。
+
+2022 年 5 月中旬，Big Time Studios 宣布融资 2100 万美元，由 FBG Capital 以及 North Island Ventures，Digital Currency Group，OKEx Blockdream Ventures，Alameda Research，Circle Financial 和 Ashton Kutcher’s Sound Ventures 牵头。
+
+产品：类比成 80% 的暗黑破坏神加 20% 的魔兽世界。核心玩法是大家组队刷副本，打怪升级掉皮肤，然后去打更高级的副本。通过杀死怪物和 boss，玩家将有概率获得可穿戴的 NFT 装备和其他具有价值的稀缺资源，如：稀有的时装、武器皮肤、 SPACE NFT 等
+
+主要亮点：
+
+1. 最大的亮点是代币不会向包括开发团队在内的任何人进行首次发行或预售，这意味着代币将 100% 由社区驱动。获得代币的主要方式是玩游戏。
+2. 团队背景扎实：部分团队成员具有传统游戏行业从业经验。创始人 Ari 也是 Decentraland 的创始人，因此在管理 Metaverse 方面颇有经验。
+3. BigTime 官网提供法币 -USDC 交易对。玩家可以使用借记卡和信用卡直接购买代币，无需涉及其他代币。这使得普通玩家更容易进入游戏并吸引更多观众。有可能是一款能够打入传统游戏圈的区块链游戏。
+4. 游戏内置了公会板块，整体上还是挺适合 GameFi 赛道的。知名区块链公会 YGG 也参与了游戏开发。
+风险：
+
+1. 宣传的很给力，可能给大家过高的预期。
+2. 目前在领英上的实际开发团队只有不到 50 人。这个开发人数在目前市场上仅仅够网游的开发门槛，而他们要面临问题要比普通网游要多得多。而且今年所发行的测试版本完成度很低，娱乐性也有限
+JZL Capital 是一家注册于海外，专注区块链生态研究与投资的专业机构。创始人从业经验丰富，曾经担任过多家海外上市公司 CEO 和执行董事，并主导参与过 eToro 的全球投资。 团队成员分别来自芝加哥大学、哥伦比亚大学、华盛顿大学、卡耐基梅隆大学、伊利诺伊大学香槟分校和南洋理工大学等顶尖院校，并曾服务于摩根士丹利、巴克莱银行、安永、毕马威、海航集团、美国银行等国际知名企业。
+
+*【免责声明】市场有风险，投资需谨慎。本文不构成投资建议，用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。*
+
+![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=4c2716ddcd8d)

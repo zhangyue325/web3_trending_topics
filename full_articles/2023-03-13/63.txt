@@ -1,0 +1,228 @@
+ 
+
+美国芝加哥商业交易所（CME Group）[宣布](https://www.prnewswire.com/news-releases/cme-group-to-launch-event-contracts-on-bitcoin-futures-on-march-13-301745906.html)将于 3 月 13 日扩大其事件合约（event contracts）套件，将比特币期货纳入其中。CME Group 股票和外汇产品全球主管 Tim McCourt 表示，「关于比特币期货的新事件合约为投资者提供了一种高度透明且不太复杂的方式来进入加密货币市场，这些合约跟踪我们流动性很强的基准比特币期货的每日价格走势，为投资者提供了一种创新的、低成本的方式来交易他们对比特币价格上涨或下跌的看法。」
+
+ 
+
+Filecoin 虚拟机 FVM 将于 3 月 14 日在主网[上线](https://filecoin.io/blog/posts/filecoin-news-62/)，FVM 将使开发者能够部署自己的智能合约，对 Filecoin 网络中的状态数据执行链上计算。FVM 构建在 WASM 核心之上，参考 SDK 内置于 Rust 中。FVM 可用于创建一类新的 Web3 dApp，其中许多将有可能将网络功能提高 10 倍甚至更高。新的 Filecoin 用例包括标记化数据集和数据 DAO、无需信任的信誉系统、复制工作者、更智能的存储市场等。欧易 Web3 钱包即将在 3 月 14 日首发接入以太坊虚拟机 FEVM。
+
+ 
+
+以太坊 Shapella 网络升级将于区块高度 162304 在 Goerli 网络上[激活](https://blog.ethereum.org/2023/03/08/goerli-shapella-announcement)，计划时间为北京时间 3 月 15 日 06:25:36，预计这将是为以太坊主网安排 Shapella 升级之前的最后一次测试网升级。在此次 Goerli 测试网升级后，主网升级将在此后的 3 至 4 周进行。
+
+ 
+
+[**点此**](https://api.foresightnews.pro/v1/calendar.ics)**订阅 Foresight News 区块链日历**
+
+3 月 13 日
+--------
+
+ 
+
+### 重要事件
+
+ 
+
+* CME Group 将于 3 月 13 日将比特币期货[纳入]( https://www.prnewswire.com/news-releases/cme-group-to-launch-event-contracts-on-bitcoin-futures-on-march-13-301745906.html)其事件合约套件
+* 以太坊 Shapella 社区电话会议[定于](https://blog.ethereum.org/2023/03/08/goerli-shapella-announcement)北京时间 3 月 13 日 23:00
+ 
+
+### 项目进展
+
+ 
+
+* CyberConnect [取消](https://mirror.xyz/cyberlab.eth/E21icrIHYLqtvgSXOqHQO5bMOkl8rl6MXNTdHF2dNrA?x=5) ccProfile 邀请模式至 3 月 13 日，并为 BNB Chain 上不低于 12 个字符的 ccProfile 铸造免除铸币费和 Gas 费
+  
+
+### 活动预告
+
+ 
+
+* 全球知识产权欧盟于 3 月 13 日至 14 日在柏林[举办](https://www.prnewswire.com/news-releases/the-global-ip-eu-is-coming-to-berlin-in-march-2023-301687687.html)交流会
+* EF PSE 和 0xPARC 主办的越南 ZK Spring Residency 研究活动计划于 3 月 13 日至 4 月 7 日[举行](https://0xparc.org/blog/2023-spring-residency)
+* CyberConnect 与 BNB Chain 合作的黑客松「Connected 2023」于 2 月 7 日至 3 月 13 日[举行](https://twitter.com/BNBCHAIN/status/1622967121218088960)
+ 
+
+### 代币解锁
+
+ 
+
+* Sweatcoin 代币 SWEAT 于 3 月 13 日 08:00:00 解锁 129,348,776 枚（约 109 万美元）
+  
+
+3 月 14 日
+--------
+
+ 
+
+### 项目进展
+
+ 
+
+* MakerDAO 社区通过「紧急参数变更」投票，将于 3 月 14 日[执行](https://vote.makerdao.com/executive/template-executive-vote-emergency-parameter-changes-march-11-2023#proposal-detail)
+* Web3 隐私平台 Iron Fish 将于 3 月 14 日[上线](https://twitter.com/ironfishcrypto/status/1630301248695017475)主网，将向测试网用户发放 94 万枚代币空投
+* Filecoin 虚拟机 FEVM 将于 3 月 14 日在主网[上线](https://filecoin.io/blog/posts/filecoin-news-62/)
+* Coinbase 将于 3 月 14 日起暂停 BUSD [交易](https://twitter.com/CoinbaseAssets/status/1630236377622228994)
+* 欧易 Web3 钱包将在 3 月 14 日首发接入 FEVM
+* 基于 StarkNet 的衍生品交易协议 ZKX 将于 3 月 14 日上线测试网，并将开源智能合约
+ 
+
+### 活动预告
+
+ 
+
+* Web3 游戏发行商 Xterio 于 3 月 1 日至 14 日[举](https://medium.com/@XterioGames/legend-of-titans-competition-680d176ae319)办 LOT 比赛
+* Encode x Polkadot 2023 春季教育系列将于 3 月 14 日[开始](https://medium.com/encode-club/announcing-the-encode-x-polkadot-spring-2023-educate-series-and-hackathon-a3a86e2d56f5)
+* Solana Grizzlython 黑客马拉松[持续](https://solana.com/grizzlython)至 3 月 14 日
+* DcoreumCN 于 2023 年 3 月 14 日 20:00 [举办](https://twitter.com/i/spaces/1OdKrzyvrkvKX)主题为「 区块链为什么和我有关系？」的 Twitter Space 活动。
+ 
+
+### 代币解锁
+
+ 
+
+* dYdX 代币 DYDX 将于 3 月 14 日 23:00:00 解锁 6,520,128 枚（约 1239 万美元）
+ 
+
+3 月 15 日
+--------
+
+ 
+
+### 重要事件
+
+ 
+
+* 以色列央行发布稳定币[监管](https://www.coindesk.com/policy/2023/02/22/israels-central-bank-proposes-rules-for-stablecoins-including-100-reserve-requirement/)规则，拟议的规则将在 3 月 15 日之前公开征求公众意见
+* Kraken [不再支持](https://news.bloomberglaw.com/securities-law/crypto-exchange-kraken-ends-key-transactions-with-signature-bank)非企业客户使用 Signature 进行美元存取款，存款将于 3 月 15 日停止
+ 
+
+### 项目进展
+
+ 
+
+* BAYC 将「Summoning」启动时间[推迟](https://twitter.com/BoredApeYC/status/1631716228371820544)一周至 3 月 15 日
+* 跨链流动性协议 Stargate 将于 3 月 15 日重新[发布](https://commonwealth.im/stargatetoken/discussion/9778-stg-reissue) STG 代币，并按 1:1 比例空投给所有 STG 持有者
+* OpenSea Seaport 升级至 v1.4 版本，将于 3 月 15 日正式[弃用](https://twitter.com/opensea/status/1631443501257986053) Seaport v1.1
+* 全链钱包项目 Everywhere Finance 将于 3 月 15 日将[推出](https://twitter.com/EverywhereFi/status/1630436848743972866) Beta 版本
+* 以太坊 Goerli 测试网预计于 3 月 15 日[激活](https://blog.ethereum.org/2023/03/08/goerli-shapella-announcement) Shapella 升级
+ 
+
+###  NFT 铸造
+
+ 
+
+* Moonbirds 母公司 PROOF 与 Pace Verso 合作于 3 月 15 日[发布](https://foresightnews.pro/news/h5Detail/18594)术家 Mika Tajima 的首个个人 NFT 项目「Archive of Feelings」
+ 
+
+### 代币解锁
+
+ 
+
+* BitDAO 代币 BIT 将于 3 月 15 日 08:00:00 解锁 187,500,000.92 枚（约 8876 万美元）
+* Euler 代币 EUL 将于 3 月 15 日 08:53:56 解锁 107,723 枚（约 64 万美元），占总供应量的 0.396%
+* Convergence 代币 CONV 将于 3 月 15 日 20:00:00 解锁 161,666,666.68 枚（约 10 万美元），占总供应量的 1.617%
+ 
+
+### 活动预告
+
+ 
+
+* TYPE V DAO 于 2023 年 3 月 15 日 21:00 [举办](https://twitter.com/i/spaces/1djGXlAjYmkGZ)主题为「VC 权益保护：投前预判＆投后管理」的 Twitter Space 活动。
+ 
+
+3 月 16 日
+--------
+
+### 项目进展
+
+ 
+
+* Crypto.com 将于 3 月 16 日进行系统[维护](https://crypto.com/product-news/system-maintenance-mar-2023)
+* Bakkt 面向个人的应用将于 3 月 16 日[停止服务](https://investors.bakkt.com/news/news-details/2023/Bakkt-to-Enhance-Focus-on-Scalable-Business-to-Business-to-Consumer-Solutions-and-Sunset-Consumer-App/default.aspx)
+* 美参议院希望币安及 Binance.US 提供更多运营信息，要求币安在 3 月 16 日前进行[回应](https://www.theblock.co/post/216608/senators-demand-info-from-binance-and-u-s-arm-cite-eerily-similar-ftx-structure-claims)
+ 
+
+### NFT 铸造
+
+ 
+
+* DIY 硬件厂商七彩虹科技推出首款 NFT 系列，将于 3 月 16 日免费空投
+ 
+
+### 活动预告
+
+ 
+
+* 百度计划于 3 月 16 日[召开](https://mp.weixin.qq.com/s/WE3zwU1XV6ZMBg8Mwcr5lA)新闻发布会，主题围绕文心一言
+* TYPE V DAO 于 2023 年 3 月 16 日 21:00 [举办](https://twitter.com/i/spaces/1DXxyvyBLLdKM)主题为「【NFT 之夜】Web2 品牌如何培育 Web3 生态？」的 Twitter Space 活动。
+* 852dev.xyz 于 2023 年 3 月 16 日 22:00 [举办](https://twitter.com/i/spaces/1YqxoAkpaYEGv)主题为「web3 任我 dev #1」的 Twitter Space 活动。
+ 
+
+### 代币解锁
+
+ 
+
+* Galxe 代币 GAL 将于 3 月 16 日 20:00:00 解锁 192,307.7 枚（约 27 万美元），占总供应量的 0.096%
+ 
+
+3 月 17 日
+--------
+
+ 
+
+### 提案投票
+
+ 
+
+* 关于建议在 Avalanche 部署 Uniswap V3 的提案将于 3 月 17 日结束[投票](https://www.tally.xyz/gov/uniswap/proposal/33)
+ 
+
+### 代币解锁
+
+ 
+
+* ApeCoin 代币 APE 将于 3 月 17 日 08:00:00 解锁 40,601,326 枚（约 1.57 亿美元），占总供应量的 4.06%
+* Stargate Finance 代币 STG 将于 3 月 17 日 08:00:00 起每日线性解锁 549,450.55 枚（约 34 万美元）
+ 
+
+### NFT 铸造
+
+ 
+
+* 元宇宙游戏 Realm Hunter 创世通行证白名单[截止时间](https://twitter.com/realmhunterio/status/1630599458273611776)为 3 月 17 日
+ 
+
+### 活动预告
+
+ 
+
+* 微软召开高级别发布会，[市场普遍预计](https://wallstreetcn.com/charts/41953465)微软将会官宣 ChatGPT 技术嵌入 Office
+* Sharding Capital 主办的中东 Web3 Demo Day「Shard Dubai」将于 3 月 17 日在迪拜[举行](https://lu.ma/a1t2eauu)
+* GameFi 社交互动平台 BEBO LAB NFT Mint 预计将于 3 月 17 日开放公共铸造
+ 
+
+3 月 18 日
+--------
+
+ 
+
+### 项目进展
+
+ 
+
+* Optimism 发布 Bedrock 主网升级提案 v2 版本，将于 3 月 18 日[进行](https://gov.optimism.io/t/draft-upgrade-proposal-bedrock-v2/5548) Regolith 硬分叉
+* OKXChain 将于 3 月 18 日从每个块产出 0.5 OKT [调整](https://twitter.com/okxchinese/status/1629058569063792641)为 0.125 OKT
+ 
+
+### 活动预告
+
+ 
+
+* PlatON 与阿里云和 HashKey 联合举办的 Web3 全球创业大赛「HAPathon 2023」新加坡站于 3 月 18 日至 19 日[进行](www.hapathon.com)
+3 月 19 日
+--------
+
+### 活动预告
+
+* PlatON 与阿里云和 HashKey 联合举办的 Web3 全球创业大赛「HAPathon 2023」曼谷站报名[截止日期](https://survey.aliyun.com/apps/zhiliao/eKb7XOFAJ?utm_source=pr&utm_medium=reglink&utm_campaign=pressrelease)为 3 月 19 日

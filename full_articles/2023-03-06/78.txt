@@ -1,7 +1,0 @@
-### AIGC 已作为重要的 Layer2 工具接入 — — iPollo 菠萝元宇宙公布最新技术进展
-
-![](https://img.foresightnews.pro/202303/49d717604e2748e9ed1d85c34a29d56d.png?x-oss-process=style/scale70)3 月 6 日，iPollo 菠萝元宇宙公布了最新技术进展，AIGC 已作为重要的 Layer2 工具接入 iPollo 菠萝元宇宙。
-
-iPollo 菠萝元宇宙的弹性计算网络现在支持 stable diffusion 机器学习模型的推理，可以通过文字生成图案并直接铸造成 NFT。随着 AIGC 作为重要的 Layer2 工具接入，iPollo 元宇宙基础设施服务商使得开发人员现在可以更好地借助 AIGC 创建元宇宙，为创造独特和创新的元宇宙体验提供了广泛的可能性。无论是开发新的游戏、虚拟世界还是社交媒体平台，AIGC 已成为将元宇宙带入令人兴奋的纬度的新工具。
-
-![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=4a1f25402af8)
