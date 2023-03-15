@@ -1,0 +1,161 @@
+![](https://img.foresightnews.pro/202303/9001fd3516f7b0e5fc68f7c3f9ed4ccf.png?x-oss-process=style/scale70)
+
+  
+
+
+HackerHouse 泰国清迈站！🐘
+-------------------
+
+  
+
+
+即日起，我们正式向全球 hacker 们发出 co-buidling & co-living 邀请啦！
+
+4 月上旬开始（将遇上泼水节~），3 周时间，本期 HakcerHouse 的主题是**未来数字世界的重要组成部分：ZKP 零知识证明。**
+
+未来的 21 天里，我们将在风景宜人、美食遍地的热带季风地带，和兴趣相投的全球区块链开发者、密码学爱好者们，一起 code hard & play hard.
+
+![](https://img.foresightnews.pro/202303/842-1678778774338.png?x-oss-process=style/scale70)
+
+*ZKP AHH in Denver：*[*视频链接*](https://mp.weixin.qq.com/s?__biz=Mzg4Nzg2MjU1Ng==&mid=2247485518&idx=1&sn=ed506602212b164fc0c0db106a13f733&chksm=cf82ac3df8f5252ba08a685abe08cbdc06a6a5a81de54a20c4f7deff49061624573fa36d4295#rd)
+
+**Why ZKP ？**
+-------------
+
+零知识证明正在成为强大的密码学工具，它让两方在不相互透露信息的情况下进行交互，随着未来技术发展，它将在**隐私数据声明、匿名认证 /payment、外包计算等诸多应用中**，具备无可比拟的优势。
+
+现阶段 ZKP 就像早期的比特币，虽然其使用场景仍局限于链上隐私交易和交易验证，从性能和验证效率上看，也还无法满足海量个人隐私自托管的需求，但若此时进入这个领域，无疑是选择成为数据自托管隐私化大航海时期的拓荒者和布道者。
+
+![](https://img.foresightnews.pro/202303/842-1678778797688.png?x-oss-process=style/scale70)
+
+*Move AHH in Dali：*[*视频链接*](https://mp.weixin.qq.com/s?__biz=Mzg4Nzg2MjU1Ng==&mid=2247485518&idx=1&sn=ed506602212b164fc0c0db106a13f733&chksm=cf82ac3df8f5252ba08a685abe08cbdc06a6a5a81de54a20c4f7deff49061624573fa36d4295#rd)
+
+参加 ZKP HackerHouse，可以让你与全球来自不同领域的专家、开发者交流合作，专注思考，高频碰撞，更深入地了解 ZKP 技术和应用场景，探索新赛道的未来价值。
+
+**Join AHH !**
+--------------
+
+**✦****HackerHouse 计划安排**
+
+📅 时间：4 月 8 日 -29 日
+
+⏳ 时长：三周
+
+📍 地点：泰国清迈
+
+🧑‍💻 招募人数：20-30 人，组成 4-5 支小队
+
+🏡 提供**免费住宿**是 HackerHouse 的历来福利，旨在为 hacker 们提供一个共居共创的优质环境和氛围，让大家肆意尽情，只需释放 coding 的热情而无太多顾虑。
+
+**✦****HackerHouse 招募要求**
+
+✦ 我们希望你
+
+1. 有编程能力，参与过 Web3、ZKP 相关开源项目的开发是加分项；
+2. ZKP 工程师或 ZKP 爱好者，最好有扎实的数学背景，发表过 ZKP 相关研究成果;
+3. 英文读、写、沟通能力俱佳，**面试和交流都是全英文环境**。
+✦  主要方向
+
+1. 应用：例如游戏、社交应用、NFT、Defi 和 ZKP 的结合等；
+2. 开发者工具和基础设施：例如 Web IDE，命令行工具等；
+3. 其它 ZKP 相关领域。
+![](https://img.foresightnews.pro/202303/183676fcb1c6fce9cb035c3fa18ab095.png?x-oss-process=style/scale70)
+
+*↑ 扫码入场券，报名参加*
+
+**✦****HackerHouse 活动计划**
+
+活动开始前，为让大家能加深对 ZKP 必要知识的掌握，以及行业进展的理解我们会安排一些 ZKP 学习资料。
+
+活动期间，我们会**安排 ZKP 主题讲座和讨论**，在项目探索的方向上，会设置头脑风暴环节。同时对于项目的 build，无论从技术还是方向上，我们有导师可以协助。
+
+最后，我们还将有 Demo Day 来展示产出成果，邀请 VC 和行业专家一起参加和点评项目。
+
+**✦****ZKP 项目****产出要求**
+
+1. 可以是**开源工具**，比如一个 npm package，让其它开发者直接安装使用；
+2. **POC (Proof of Concept)**，验证你的想法的项目展示；
+3. 也可以是对现有**项目的功能上的改进**，并用代码实现；
+4. 对现有项目的算法上的改进，并用代码实现；
+5. ......
+所有产出都会分享在 Antalpha Labs 各个平台上，后续的 Antalpha HackerHouse 我们也会对项目进行宣传和资源上的支持。
+
+**Buidl in AHH ↓**
+------------------
+
+### 紧张刺激的 Co-Buildin
+
+![](https://img.foresightnews.pro/202303/465c71b8355acbdecafccd12ee5659e8.gif?x-oss-process=style/scale70)
+
+*👆 在活动室里构思项目，敲着键盘写代码*
+
+### 放松愉悦的 Co-Livi
+
+![](https://img.foresightnews.pro/202303/842-1678779021328.gif?x-oss-process=style/scale70)
+
+*👆 居住环境超 nice，coding 好心情*
+
+### 终极大考 DEMO DAY!
+
+*![](https://img.foresightnews.pro/202303/34e1b03ddce69e6c0d32f5531ce3b45d.gif?x-oss-process=style/scale70)*
+
+*👆 为期 3 周的组队开发，是时候秀出产出结果啦~*
+
+### 技术分享一起脑暴 IDEA
+
+![](https://img.foresightnews.pro/202303/ff8d1a1f7572a845323f92ee6a1b0cdc.gif?x-oss-process=style/scale70)
+
+*👆 邀请行业资深人士大家一起讨论交流*
+
+### 一起打卡好好好吃的食物
+
+![](https://img.foresightnews.pro/202303/d3ae35ded47f3f890d696246bd3c1332.gif?x-oss-process=style/scale70)
+
+*👆 在 AHH，美食同代码一样不可辜负*
+
+### 一起打球飞盘骑行爬山
+
+![](https://img.foresightnews.pro/202303/842-1678779169335.gif?x-oss-process=style/scale70)
+
+*👆闲暇之余不忘运动，大家结伴一起 high*
+
+**Apply Now！**
+--------------
+
+扫码填写报名问卷表，预约面试时间
+
+  
+
+
+![](https://img.foresightnews.pro/202303/d20c7c948a3afea5053400849a8a050c.png?x-oss-process=style/scale70)
+
+  
+
+
+根据约定的时间，进行线上面试
+
+等待 AHH 工作人员告知面试结果
+
+**Contact & Donate**
+--------------------
+
+**✦****中国 | 合作 &****联系**
+
+![](https://img.foresightnews.pro/202303/b0c76ed65f3e8d1b694d6520a8be27bb.jpeg?x-oss-process=style/scale70)
+
+**✦****国外 | TG/DC**
+
+https://t.me/AntalphaLabs
+
+**✦****接受****资助多签地址（eth）：**
+
+0x18226b84677a7a59D0A498d428feE9208105D0F7
+
+  
+
+
+  
+
+
+![](https://img.foresightnews.pro/202303/93ec1e51e22489c87aa3a816a5f7ef4f.jpeg?x-oss-process=style/scale70)
+

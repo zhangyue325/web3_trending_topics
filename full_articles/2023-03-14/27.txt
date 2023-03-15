@@ -1,0 +1,179 @@
+*![](https://img.foresightnews.pro/202303/700ff7d58b3f38f1c9602e5dc057d1d0.gif?x-oss-process=style/scale70)*
+
+“AI 大模型让我既兴奋于即将创造出来的巨大生产力，又忧虑它未来对整个世界的冲击。老王和我在创业路上同行近二十年，既然他决心拥抱这次大浪潮，那我必须支持。”——美团创始人 王兴
+
+  
+
+
+![](https://img.foresightnews.pro/202303/e049db4b1df762c0901483b663a8f102.jpeg?x-oss-process=style/scale70)
+
+图片来源：由 Maze AI 生成
+
+  
+
+
+**01****融资**  
+
+
+**AI 技术公司 Humane 完成 1 亿美元 C 轮融资**
+
+  
+
+
+近日，AI 技术公司 Humane 宣布已完成 1 亿美元 C 轮融资。本轮融资由 Kindred Ventures 领投，SK Networks、微软、LG Technology Ventures、沃尔沃汽车科技基金、Top Tier Capital、Qualcomm Ventures、Open AI 创始人 Sam Altman 等参投。
+
+  
+
+
+**Patterns 获得 YC 等的 250 万美元的种子轮融资**
+
+  
+
+
+在 Y Combinator 和天使投资人 Lenny Rachitsky 的支持下，Patterns 最近完成了 250 万美元的种子轮融资。Patterns 平台使用类似于 ChatGPT 的大型语言模型，允许用户从一组模块化组件中使用 AI 构建集成、自动化和工作流。
+
+  
+
+
+**美团创始人王兴将以个人身份参与“光年之外”的 A 轮投资**
+
+  
+
+
+3 月 8 日下午，美团创始人王兴在朋友圈中透露，将以个人身份参与王慧文创业公司“光年之外”的 A 轮投资，并出任董事。王兴朋友圈原文称，“AI 大模型让我既兴奋于即将创造出来的巨大生产力，又忧虑它未来对整个世界的冲击。老王和我在创业路上同行近二十年，既然他决心拥抱这次大浪潮，那我必须支持。”
+
+  
+
+
+**0****2****技术**  
+
+
+**微软德国 CTO：GPT-4 将在下周发布，将提供多模态模型**
+
+  
+
+
+3 月 9 日，微软德国 CTO Andreas Braun 在一场名为“AI in Focus - Digital Kickoff”的活动中表示，GPT-4 将在下周发布，将提供多模态模型。自 3 月初发布 Kosmos-1 以来，微软正在与 OpenAI 微调多模态这一事实应该不再是一个秘密。
+
+  
+
+
+此前《财富》杂志曾报道，OpenAI 在 beta 测试版 GPT-4 中采用了更强大的大语言模型，相较前代，GPT-4 可能不会有参数量上的巨幅提升，而是在其他方向寻求提高，“OpenAI 也确实在开发一款通过文字能生成视频的 AI 模型”。
+
+  
+
+
+**Google AI 升级语音模型 (USM)**
+
+  
+
+
+3 月 7 日，谷歌的通用语音模型 USM 目前已实现升级，支持 100 多个语种内容的自动识别检测。谷歌将其描述为“最先进的通用语音模型”，拥有 20 亿个参数，经过涵盖 1200 万小时的语音、280 亿个句子和 300 多个语种数据集的预训练。
+
+  
+
+
+**03****应用**  
+
+
+**美国云服务巨头 Salesforce 计划推出生成式人工智能工具 Einstein GPT**
+
+  
+
+
+3 月 9 日，美国云服务巨头 Salesforce 计划在其产品平台上推出 Einstein GPT，但没有透露具体的发布日期。Salesforce 将 Einstein GPT 视为改善其所有企业软件应用程序的一个要素，包括 Mulesosft、Tableau 和 Slack 部门的应用程序。Salesforce 表示，Einstein 将是一个开放平台，将自己的 AI 技术与第三方软件结合起来，从 open AI 开始。该公司表示，预计随着时间的推移，还会增加其他大型语言模型的合作伙伴。
+
+  
+
+
+此外，Salesforce 还宣布计划推出一个新的 2.5 亿美元的早期生成式 AI 风险基金，作为该公司风险投资部门 Salesforce Ventures 的一部分。
+
+  
+
+
+**微软将 ChatGPT 整合到更多工具中，不用写代码就能开发应用**
+
+  
+
+
+3 月 7 日，据新浪科技报道，微软公司将 ChatGPT 背后的技术整合到其 Power Platform 平台上，允许用户在几乎不需要编码的情况下，就能开发自己的应用程序。微软表示，其 Power Platform 平台上的一系列商业智能和应用程序开发工具，包括 Power 虚拟代理（Power Virtual Agent）和 AI Builder，均已更新 ChatGPT 功能。Power 虚拟代理是一款供企业构建聊天机器人的工具，如今可以连接到公司内部资源，生成周报和客户查询的摘要。此外，微软还为 AI Builder 和 Dynamic 365 添加了 ChatGPT 技术，前者允许企业自动执行工作流程，后者是一个业务管理平台。
+
+  
+
+
+**Discord 利用 ChatGPT 技术升级聊天机器人**
+
+  
+
+
+Discord 正在使用 OpenAI 的 ChatGPT 技术将其现有的 Clyde 机器人转变为健谈的聊天机器人。Clyde 将在本周进行升级，以回答问题并与用户进行对话，就像 OpenAI 的 ChatGPT 或微软的 Bing 聊天功能一样。这是在 Discord 中更广泛推动 AI 的一部分，其中还包括 AI 生成的对话摘要以及 Discord 管理员利用 AI 技术调节服务器的能力。
+
+  
+
+
+**Forethought 宣布上线 SupportGPT 测试版**
+
+  
+
+
+3 月 8 日，客户支持自动化生成 AI 平台 Forethought 宣布上线 SupportGPT 测试版。这是世界上第一个用于客户支持的生成式 AI 平台，利用了与 OpenAI 的 ChatGPT 相同的大型语言模型技术，并根据客户的对话历史对其进行微调。
+
+  
+
+
+**隐私搜索引擎 DuckDuckGo 推出测试版的人工智能摘要功能**
+
+  
+
+
+3 月 8 日，以隐私为中心的搜索引擎 DuckDuckGo 紧随微软和谷歌等搜索玩家宣布推出测试版的人工智能摘要功能 DuckAssist，可以直接直接回答用户的搜索查询。
+
+  
+
+
+**0****4****其他**  
+
+
+**市场调查机构：英伟达可从 ChatGPT 赚取 3 亿美元**
+
+  
+
+
+3 月 7 日，市场调查机构 TrendForce 集邦咨询公布的最新报告指出，如果以英伟达 A100 显卡的处理能力计算，运行 ChatGPT 将需要使用到 30000 块英伟达 GPU。
+
+  
+
+
+目前英伟达 A100 显卡的售价在 10000-15000 美元之间，该售价取决于 OpenAI 需要多少显卡，以及英伟达是否会为 AI 公司提供订单折扣。TrendForce 预估英伟达可以赚取超过 3 亿美元。
+
+  
+
+
+**证监会科技监管局局长姚前：重点发展基于 AIGC 技术的合成数据产业，构建大模型训练数据的监管体系**
+
+  
+
+
+3 月 7 日，证监会科技监管局局长姚前在《中国金融》撰文称，建议重点发展基于 AIGC 技术的合成数据产业。以更高效率、更低成本、更高质量为数据要素市场“增量扩容”，助力打造面向人工智能未来发展的数据优势。在强化数据要素优质供给方面，应统筹兼顾自立自强和对外开放。可考虑对 Wikipedia、Reddit 等特定数据源建立过滤后的境内镜像站点，供国内数据处理者使用。国家相关部门应对大模型训练数据的处理和使用标准进行统一规范；建立数据托管机制，对数据托管方进行约束，要求数据托管方按照监管机构的规定对数据来源、处理结果以及使用去向等进行监测，从而使得模型的输入、输出结果符合监管要求。
+
+**巴比特园区开放合作啦！**
+
+  
+
+
+![](https://img.foresightnews.pro/202303/f7dcb8536e4e40e8e4d847bc9529dfe0.png?x-oss-process=style/scale70)
+
+  
+
+
+![](https://img.foresightnews.pro/202303/ef27af54365ff70cc040f4157e2f6e7a.jpeg?x-oss-process=style/scale70)
+
+  
+
+
+![](https://img.foresightnews.pro/202303/8fa93812717d18039e5848d30555ebd2.gif?x-oss-process=style/scale70)  
+
+
+中文推特：https://twitter.com/8BTC\_OFFICIAL
+
+英文推特：https://twitter.com/btcinchinaDiscord 社区：https://discord.gg/defidao电报频道：https://t.me/Mute\_8btc电报社区：https://t.me/news\_8btc![](https://img.foresightnews.pro/202303/8287da5ef763d915fd33d8b7033c23a1.jpeg?x-oss-process=style/scale70)

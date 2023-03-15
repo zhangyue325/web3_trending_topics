@@ -1,0 +1,154 @@
+上周的几件大事接连发生，加密友好银行 Silvergate Bank 暴雷、硅谷风投圈著名银行 Sillion Valley Bank （SVB）被接管，想必大家也看到了。
+
+火烧到了加密领域，因为有 33 亿美元存在 SVB ，Circle 的 USDC 也出现了震荡。在周五的时候停止了 USDC 的赎回，因为银行周末不上班，持续到周一。USDC 和 USD 出现了脱钩，引发了一系列连环效应。10 个去中心化交易所中，有 8 个使用 USDC 或 Dai （48% USDC 支持）作为流动性资金池。Aave、Compound、MakerDAO 纷纷宣布暂停 USDC 交易。引发市场怀疑，中心化金融系统对于 DeFi ，到底有多大影响？‍‍‍‍
+
+我们总结了中国时间 3 月 13 日周一的最新进展，以及圈内人怎么评价当前事件。
+
+  
+
+
+![](https://img.foresightnews.pro/202303/e0b8134ff95e297530dfb36523f55dad.jpeg?x-oss-process=style/scale70)
+
+最新进展
+----
+
+联邦储备委员会、财政部、联邦存款保险公司（FDIC）发表声明，从周一开始，储户可支取他们所有的资金，与硅谷银行破产有关的任何损失不会由纳税人承担。
+
+  
+
+
+![](https://img.foresightnews.pro/202303/1ba7cbb7df984ea65d8ad69bbe853c72.jpeg?x-oss-process=style/scale70)
+
+随后，Circle 也发布进展。2023 年 3 月 11 日，Circle 公布了有关 USDC 准备金的详细信息，表示当前 77%（324 亿美元）的准备金是以短期美国国债作为担保物。美国国债是全球最流动的资产，并且是美国政府的直接责任。这些准备金由 BNY Mellon （纽约梅隆银行）托管，而 BlackRock （贝莱德）则负责进行活跃的流动性和资产管理。USDC 准备金的现金部分，23%（97 亿美元），现在主要由 BNY Mellon 持有。
+
+CEO Jeremy Allaire 发推：「我们很高兴看到美国政府和金融监管机构采取了关键措施来减轻从部分银行体系延伸出来的风险。我们存在硅谷银行中 100％ 存款是安全的，并将在明天银行开放时提供。
+
+Circle 的 USDC 合规措施将有助于为数字货币市场带来更多的稳定和信心。我们将继续保持关注和更新。
+
+100% 的 USDC 储备也是安全的，我们将完成将剩余在 SVB 现金转移到 BNY Mellon （纽约梅隆银行）的工作。
+
+正如之前所分享的，USDC 的流动性操作将于明天早上银行开放时恢复。今晚 Signature Bank 关闭通知出来后，我们将无法通过 SigNet 处理 mint 和赎回，取决于与 BNY Mellon 的结算。」
+
+  
+
+
+![](https://img.foresightnews.pro/202303/ced7edc7d208552e771cb3471e088142.png?x-oss-process=style/scale70)
+
+*来源 https://twitter.com/jerallaire/status/1635059024050937856*
+
+  
+
+
+另外，汇丰 （HSBC）收购硅谷银行英国子公司，以 1 英镑的价格。浦发硅谷银行（由 SVB 和上海浦东发展银行合资）表示正常运营中。
+
+市场币价方面，由于美国政府采取措施保护破产的硅谷银行的存款人，并且汇丰银行收购了该银行的英国业务，加密货币市场出现了反弹。比特币上涨近 10％，报 22,560.20 美元，为期 10 天的最高水平。以太坊也上涨约 10%，报 1,614.89 美元。
+
+比较令人担忧的是，由于 SVB 出状况，监管者下令关闭了 Signature Bank。‍‍‍‍‍‍‍‍‍
+
+危机中，听听大佬们怎么说？
+-------------
+
+一周内，三家加密友好银行都崩了，美国 crypto 何去何从？是否意味着美国加密市场监管进展不顺？这是大家都关心的问题。来看一看推特上加密圈大佬们都怎么说：
+
+**- 律师 Jake Chervinsky**
+
+「Silvergate、SVB 和 Signature 的关闭在加密友好银行市场上创造了巨大的空缺。有许多银行可以抓住这个机会，而不必承担与这三家相同的风险。问题是银行监管机构是否会试图阻挡。」
+
+![](https://img.foresightnews.pro/202303/c32be60064e3bbbc8c0fb223641cca0e.png?x-oss-process=style/scale70)
+
+*来源 https://twitter.com/jchervinsky/status/1635062063583363072*
+
+**- Messari 创始人 Ryan Selkis**
+
+*（他本人也一直关注华盛顿方面对于 crypto 的态度和政策）*
+
+「保护美国加密的未来，我们需要做这些重要的事：
+
+1）对受监管的稳定币（USDC）提供法律明确性和政治支持
+
+2）在德克萨斯州和佛罗里达州制定州级示范立法，以提供与纽约州、伊利诺伊州和加利福尼亚州的对立
+
+3）一个组织良好的、多重多年的运动」
+
+![](https://img.foresightnews.pro/202303/817ba50823ea06e55992b8b6c274b96f.png?x-oss-process=style/scale70)
+
+*来源 https://twitter.com/twobitidiot/status/1635057830242979841*
+
+「现在联邦政府已经打压了加密领域最大的三家银行合作伙伴，向其中一家顶尖的稳定币发行者发出了『Wells Notice』，试图压制成千上万的代币，实际上通过过分的保管规则禁止了加密风险投资，并追捕其顶尖的全球交易所。然而市场却上涨了 10%。这个行业不会轻易消亡。对于一个时机已到的理念，它将是困难甚至不可能被击败。话虽如此，没有人说最终的 BOSS （表示监管）会是轻松的战斗。」
+
+![](https://img.foresightnews.pro/202303/ffc8a8f21ea9975e773402444222c7a7.png?x-oss-process=style/scale70)
+
+*来源 https://twitter.com/twobitidiot/status/1635112021862785024*
+
+  
+
+
+![](https://img.foresightnews.pro/202303/6184916b2ce55a3f1b281411f0546dd9.jpeg?x-oss-process=style/scale70)
+
+**- 币安 CZ**
+
+「鉴于稳定币和银行的变化，#Binance 将把剩下的 10 亿美元行业恢复倡议资金从 BUSD 转换为本机加密货币，包括 #BTC、#BNB 和 #ETH。其中部分资金的流动将在链上进行。保持透明。」
+
+*地址：https://etherscan.io/address/0x043a80999cee3711d372fb878768909fbe7f71e6#tokentxns*
+
+  
+
+
+![](https://img.foresightnews.pro/202303/1c648d0768e55b0329913e61c60dd274.png?x-oss-process=style/scale70)
+
+*来源 https://twitter.com/cz\_binance/status/1635131601884700674*
+
+  
+
+
+「是时候币安出手买银行了吗？不确定。文章是去年 11 月的。」
+
+![](https://img.foresightnews.pro/202303/c634a322aebd7e13c51a9e36b5f9373c.png?x-oss-process=style/scale70)
+
+*来源 https://twitter.com/cz\_binance/status/1634437834579800064*
+
+**- 硅谷投资人 Balaji**
+
+「我们不能信任银行。这就是为什么我们需要比特币。」
+
+![](https://img.foresightnews.pro/202303/535214e9fa95054cab8f0b614b1d88e5.png?x-oss-process=style/scale70)
+
+*来源 https://twitter.com/balajis/status/1634251170213662721*
+
+「如果只有一家银行倒闭，那还算是一件小事。但我们刚刚目睹了三家银行的失败——Silvergate、SVB 和 Signature。导致它们破产的原因是监管掐断和债券贬值的结合。这些不是自然死亡。下一步是将人工生命代替自然死亡。美联储印钞和加息造成的巨大损失现在将通过印刷更多钞票来掩盖。」
+
+![](https://img.foresightnews.pro/202303/f65488ec6eba50d08f2e86e284696da1.png?x-oss-process=style/scale70)
+
+**- Bankless 联合创始人 Ryan Sean Adams**
+
+「一大批科技创业者和 builders 刚刚深刻意识到，为什么我们需要 crypto 。我好奇他们下一步会怎么做？」
+
+![](https://img.foresightnews.pro/202303/da03f67ee535a23aec307479a263ccfc.jpeg?x-oss-process=style/scale70)
+
+*来源 https://twitter.com/RyanSAdams/status/1634892046447308800*
+
+  
+
+
+「Silvergate 、 SVB 、Signature，这些都是银行。不要让那些人甩锅 crypto。」
+
+![](https://img.foresightnews.pro/202303/03adea3c9b0db1ad3a9f3036c5ec089b.jpeg?x-oss-process=style/scale70)
+
+*来源 https://twitter.com/RyanSAdams/status/1635058083071410176*
+
+  
+
+
+![](https://img.foresightnews.pro/202303/95a2352833958a164ebc0496edc512e6.jpeg?x-oss-process=style/scale70)
+
+*来源 https://twitter.com/RyanSAdams/status/1635106292628094977*
+
+钱包追踪，USDC 危机期间，「聪明钱」是如何操作的？
+---------------------------
+
+Lookonchain 根据地址分析了一些机构对于该事件的处理。（IOSG 已经联系 Lookonchain 澄清该地址不是他们的）。**‍‍‍**
+
+![](https://img.foresightnews.pro/202303/0942fa95c380020899239a3c3e48fc67.png?x-oss-process=style/scale70)
+
+美国时间周一，银行和各大机构会有进一步的动作。持续关注。‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍
+

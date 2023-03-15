@@ -1,0 +1,109 @@
+经过艰难的一年，加密市场终于在 2022 年底迎来转机，随着整个市场的市值修复已经市场行情的回暖，加密游戏领域在 1 月的数据也呈现出一波小型回升。
+
+令人振奋的是，香港对于元宇宙立法的推动，代表着东方力量的亚洲势力也将再度更多的投入到加密行业当中，对市场是一个积极的信号，并且在市值上也有所反应。
+
+游戏巨头 Unity 和 MetaMask 宣布跨界合作，互通 SDK，相信也会为区块链游戏带来新的未来。
+
+我们预计 2023 年将是 GameFi 领域的一个小爆发期，更多的优秀公链的涌现带来了更利于发展的生态，而很多在之前展露头角的游戏项目也将进入 alpha 和 beta 阶段，开始从 Web2 走向 Web3 集成。市场仍在寻找继 Axie Infinity 和 stepn 之后的下一个热门链游。
+
+本篇文章我们将从 2 月 GameFi 市场表现、融资情况、以及不同公链和热门游戏的发展情况，从宏观层面总结和分析 GameFi 市场 2023 年 2 月的整体动向与后续趋势。此外，本报告所使用的图表数据均由 PlanckX 的深度官方合作伙伴 Footprint Analytics 提供，可在[Footprint Analytics 官网上查看更详细的数据看板](https://www.footprint.network/@0xAlina/GameFi-Report-Feb-2023-PlanckX?channel=planckx)。
+
+关键要点
+----
+
+* 2 月跟随着 BTC 的价格回升，GameFi 的市场市值也有了一些起色，2 月 GameFi 总市值稳定在 63 亿 -72 亿的范围。
+* GameFi 新用户占总用户的比例相比 1 月出现小幅下降，仅达到总量的 27.44%，这也是去年 10 月以来的最低值。
+* Wax 仍然是交易次数最活跃的区块链，2 月份的交易次数遥遥领先其他公链，达到 5.56 亿，是总量的 88%，其次是 Hive 和 Flow，分别有 3680 万和 290 万
+* 在 FTX 暴雷事件影响消退后，Solana 自 1 月开始出现用户爆发增长，2 月新用户数达 209,370，占据整个新增量的 51.07%；主要是因为其链上游戏 LadderCaster 2 月持续保持高增长，2 月新增用户量高达 125,477.
+* 相对前几个月的投资低迷，GameFi 的投资资金总值再度超过一亿美金
+* 2 月共有 14 个项目获得了资助
+整体市场表现
+------
+
+### GameFi 市值表现
+
+![GameFi 市值与加密货币总市值对比图](https://img.foresightnews.pro/202303/5d361b261fe073aef92cf9015879cd11.jpg?x-oss-process=style/scale70)
+
+从图表数据上看，纵观从去年以来的市值表现，GameFi 板块市值同加密货币的总市值涨跌基本保持一致，并且大多数时间该赛道的跌幅都大于加密货币平均值而涨幅却小于平均值。截止 2023 年 2 月 28 日，加密货币总市值是 GameFi 总市值的 173 倍。
+
+![GameFi 市值与 BTC 总市值对比图](https://img.foresightnews.pro/202303/35eb7387550bab512447063b18ca01fd.jpg?x-oss-process=style/scale70)
+
+加密货币领域的山寨代币一向具有市值泡沫大和暴涨暴跌的特点，BTC 市值一向是市场投资的参考基准，也充当着实际大盘的作用。截止 2023 年 2 月 28 日，BTC 总市值近 4465 亿美金，这是 GameFi 总市值的 70 倍。
+
+综上所述，GameFi 整体赛道市值在这段时间依旧没有什么亮眼表现。
+
+### GameFi 融资情况
+
+![GameFi 赛道总体融资金额](https://img.foresightnews.pro/202303/771a11148510a286a365b816da83a5ba.jpg?x-oss-process=style/scale70)
+
+虽然二级市场表现没有波澜，但是在 1 月融资总额触底后，2 月 GameFi 市场的融资情况却异于往常的突破了 1 亿美元，相较于 1 月增长了 395%，这也从一定程度上说明投资方对于 GameFi 赛道前景的认可以及 2023 年整体发展的看好，未来还存在较大的发展空间。
+
+![融资具体项目](https://file-cdn.qianba.com/d/file/custom/203796/image/202303/1678691207471784.jpg)
+
+2 月共有 14 个 GameFi 项目获得了资金，其中前三名分别是 Kratos Studio、Mino Games 、Yield Guild Games，融资总额为 2000 万、1500 万和 1380 万，均为首轮融资。
+
+### GameFi 基本面表现
+
+#### GameFi 游戏数量变化
+
+![链上协议总量](https://img.foresightnews.pro/202303/3f510105dd93132466a60bb5af051db9.jpg?x-oss-process=style/scale70)
+
+2 月的链上游戏为 2390 个，数量基本上与 1 月的 2394 持平，1 月相较于 12 月数量有一个明显的增加，而 2 月反倒出现了少量的下降，这可能与很多项目会在年初公布上线有关，而 2 月进入季度中期，造成增长的停滞。
+
+从链上协议分布来看，BNB Chain 和 ETHereum 依旧与以往一样不分伯仲，紧随其后的是 Ploygon 和 Wax。从去年 3 月以来，BNB Chain 后来者居上,并逐渐与其他公链拉开差距，一直领先保持到现在，不过是否在之后成为新游戏的首选公链，还值得我们后续观察。
+
+#### 链上交易量变化
+
+![](https://img.foresightnews.pro/202303/8016933ea56a511f7b00992ff18549ca.jpg?x-oss-process=style/scale70)
+
+![链上交易量](https://img.foresightnews.pro/202303/c3f79c35ea7df24b396e8fe3f87294a7.jpg?x-oss-process=style/scale70)
+
+![链上交易笔数](https://img.foresightnews.pro/202303/1d2818762445b9408fbf79fed8771874.jpg?x-oss-process=style/scale70)
+
+从链上交易笔数和交易量来看，相较于 1 月交易笔数有所下降，但是总量却相差无几。Ronin2 月依旧保持高交易量，Wax 在交易笔数上依旧占据很大一部分，这证明 Axie Infinity 和 Alien Worlds 上的交易活性还是不错的。
+
+#### 链上用户变化
+
+![月度用户增长](https://file-cdn.qianba.com/d/file/custom/203796/image/202303/1678691299342410.jpg)
+
+![各公链的用户增长](https://img.foresightnews.pro/202303/e82d48220350047ca2d0cb7f2b296434.jpg?x-oss-process=style/scale70)
+
+![用户增长饼状图](https://img.foresightnews.pro/202303/5ea427ac0112d70cb67c6b9aac6d05ec.jpg?x-oss-process=style/scale70)
+
+新增用户数量出现连续下滑，2 月仅新增 410,947，占比仅为总用户数的 27.42%，为一年内的最低值。但是值得注意的是，Solana 的用户增长在近两个月迎来爆发，2 月甚至高达总增长量的 51.06%，这主要是 LadderCaster 带来的用户增量。
+
+![2 月 GameFi 新用户增长](https://img.foresightnews.pro/202303/5289f0b75c1317c526d1d841628582b0.jpg?x-oss-process=style/scale70)
+
+![链上活跃用户总表](https://img.foresightnews.pro/202303/ed66aeb6612366d3d19b025fc1618bf7.jpg?x-oss-process=style/scale70)
+
+![链上活跃用户 2 月公链占比](https://img.foresightnews.pro/202303/1d60cee1d37126e635facb3ceca1f29b.jpg?x-oss-process=style/scale70)
+
+2 月总活跃用户下降为 150 万，主要集中在 Solana，Polygon 和 Hive，这个数据已经从去年十月 250 万的高点出现了 4 个月的连续下降，这也许是因为从去年底以来，链游市场再无出现类似于 StepN 这样的爆款游戏有关，无法带动存量用户的活性。
+
+总结展望
+----
+
+在黑暗中等待黎明，也许是我们对 2 月的最好总结，也会是 2023 年 GameFi 领域的主旋律，市场是否触底回暖暂时没有定论，但是可以看到的是资本的信心未曾消退。
+
+在残酷且低迷的现实背后，一样蕴藏着转机。
+
+2 月资本投资的增加，证明市场的资金再度投向游戏领域，与 DeFi、NFT 等传统公链占据绝大多数市场份额的赛道不同，部分专门的游戏公链在 GameFi 领域大放异彩，且在与传统公链的竞争中不落下风。目前，链上协议的多链部署已成为潮流，或将有更多优秀的协议迁移至游戏公链。而公链作为区块链领域的圣杯与牛熊转换的发动机，部分专门的游戏公链历经多年沉淀后或将在下一轮牛市中成为 GameFi 赛道爆发的动力。
+
+市场低迷无疑会给游戏团队带来压力，毕竟做出在熊市发布游戏的决策需要更为谨慎。需要重申的是，游戏开发通常需要多年时间，而上游融资前景的减弱可能会使未能在牛市中筹集到足够资金的项目面临风险。但对于高质量的 3A 游戏，等待它的开发和打磨是必经之路。
+
+让我们共同期待在沉淀打磨之后的全新绽放。
+
+本文由 PlanckX、Footprint Analytics 联合发布。
+
+PlanckX
+
+PlanckX 是一个 Web3 游戏聚合平台，我们拥有上百款热门链游，支持跨链交易、链游速递和链游游戏社群服务，并为 GameFi 项目提供包括游戏上市、广告和交易支持在内的营销服务。
+
+Footprint Analytics
+
+Footprint Analytics 是一个链接 web2 以及 web3 的结构化数据平台 。我们提供 Crypto 领域首家支持无代码数据分析平台以及统一的数据 API，让用户可以快速检索超过 24 条公链生态的 NFT，GameFi 以及 DeFi 数据。平台推出的 Footprint Growth Analytics 帮助 GameFi 以及其他 Web3 项目进行有效的营销推广。
+
+ABGA
+
+亚洲区块链游戏联盟（ABGA）是由全球区块链行业主流机构以及对区块链游戏、元宇宙、 NFT 充满憧憬与热忱的优秀组织和个人共同成立的生态联盟。通过丰富的线上和线下活动 以及最新行业的资讯分析与探讨，联合联盟成员资源，发现、投资并孵化更多具有潜力的项 目促进行业蓬勃发展。
+

@@ -1,0 +1,25 @@
+The ‘Trading Reward POINT’ of EtherPOAP x HashKey DID incentive campaign rule details are as follows:
+
+- Your Contribution Degree is related to your OG Trade Volume in 7 days, and the number of OG you owned (including ‘Proofing’). For counting the number of OG you owned, the back system would select the end day of every 7 days as the number of OG you owned.
+
+- The maximum total ‘POINT’ release every 7 days is 5,000.
+
+[Total ‘POINT’ output (7 Days) <=5,000]
+
+THUS,
+
+i,) If ‘Total Trade Volume (7 Days)’ is lower than or equal to $ETH500, then,
+
+ii,) If ‘Total Trade Volume (7 Days)’ is higher than $ETH500, then,
+
+1. Own at least 1 EtherPOAP OG in the address (including ‘Proofing’).
+
+2. Trade volume limited to EtherPOAP OG trade volume through Blur Marketplace.
+
+3. ‘POINT’ would be updated every 7 natural days. You could check your ‘POINT’ via <https://www.etherpoap.xyz/point>
+
+4. Own a HashKey DID: \_\_\_.key via <https://www.etherpoap.xyz/>
+
+![](https://img.foresightnews.pro/202303/2873b44f355f5a1f912b0a26a87eb88c.png?x-oss-process=style/scale70)This ‘POINT’ incentive campaign is still ongoing! Let’s go and get it!
+
+![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=bb12eb7161c9)

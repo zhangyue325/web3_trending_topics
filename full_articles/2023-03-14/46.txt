@@ -1,0 +1,173 @@
+CyberConnect 与 BNB Chain 合办的 Web3 社交黑客松「Connected 2023 黑客松」于 2 月 7 日至 3 月 13 日举行，吸引了来自全球的 2000 多个团队的申请，路演日共有 23 个项目从 57 个竞争项目中胜出（共享 5 万美元奖金）。
+
+其中，Web3 超级社交应用 Oasis Origin 获得综合最佳社交 DApp 奖， Phaver 和 Web3 内容聚合器 ReadON 分别获得第二和第三名。获得新星奖的项目还包括在音乐社交、会议、餐馆消费营销等方面探索的项目，例如，面向消费者的餐馆营销协议 Plato、音乐社交平台 Wondera 和 Cyber​​Tune，去中心化会议应用 Huddle01 等。
+
+![](https://img.foresightnews.pro/202303/5-1678762154878.jpeg?x-oss-process=style/scale70)
+
+使用 Cyber​​Connect 和 BNB Chain 构建的综合最佳 Web3 社交 DApp
+--------------------------------------------------
+
+### Oasis Origin（1 万美元）
+
+[Oasis Origin](https://link3.to/oasisorigin) 是一个 Web3 社交超级应用，允许用户在元宇宙中参与各种社交活动，如观看体育比赛和音乐会以及玩棋牌游戏等。
+
+Oasis 将于近期在 BNB Chain 上推出全新链上版本——Oasis Origin，支持 MPC 登录，且有 Spending Wallet 和 On-chain Wallet 两种钱包，允许绑定 CyberConnect ccProfile NFT，支持和 Web2 版本互通。
+
+Oasis Origin 还允许用户在「World」场景里自由语音聊天，也可以一起投屏看电影或直播等，「Club」板块允许用户自定义 Space 主题和内容，同时数以万计的资产和道具可供自由组合。Oasis Origin 还将推出新的场景「Square」，主要服务于发布会、AMA、Community Call 等活动，还将接入 Twitter 等 Web2 账号系统，并在活动过程中支持实时空投、拍卖、领取白名单等活动。
+
+### Phaver（5000 美元）
+
+[Phaver](https://link3.to/phaver) 正在构建通往 Web3 社交的门户，最初基于 Lens 构建，目前已有超 17 万名用户，周活跃用户超过 9 万名。Phaver 将很快与 CyberConnect 集成。
+
+除了传统的社交媒体功能之外，Phaver 还允许创作者、策展人和版主直接在应用内获利，今年夏天或将发布代币。
+
+### ReadON（3000 美元）
+
+[ReadON](https://link3.to/readon) 是一个 Web3 内容聚合器应用，对包括 Youtube、Twitter、Medium 以及 Cointelegraph、Decrypt 等新闻发布平台等的信息进行索引和分析，然后使用机器学习和人工智能为用户提供个性化内容。
+
+ReadON 会为用户构建一个链上证书，以展示用户在不同主题上的专业知识认可。ReadON 计划在下个季度推出创作者计划，来加强用户对创作者的关注并支持订阅付费内容。
+
+ReadON 已经集成了 CyberConnect 协议，还计划整合 CyberConnect 社交关系，并利用 OpenAI/ChatGPT 为用户推荐个性化内容。
+
+16 个新星奖获胜项目（各 1000 美元）
+----------------------
+
+### DegenReborn：加密生活模拟游戏
+
+[DegenReborn](http://link3.to/degenreborn) 是一款基于文本和 AVG 风格的加密生活模拟游戏，内置了比较强的社交元素，游戏玩家可以将自己「重生」为量身定制的生活轨迹中。针对社交元素，DegenReborn 还集成了 CyberConnect ccProfile，用户可以自由选择不同的身份和朋友。
+
+### Atem Network：去中心化内容创建协议
+
+[Atem Network](https://link3.to/atem) 是一个去中心化内容创建协议，旨在帮助创作者将他们的内容货币化并建立 Web3 原生社区。Atem Network 还构建了 Web3 内容共享平台 AtemReview 以及代币门控社区社交平台 AtemChat。
+
+Atem Network 与 ccProfile 的集成使用户能够在 AtemReview 上显示他们的 ccProfile。Atem Network 计划在今年二季度发布 AtemReview 移动版本，并探索应用内内容 NFT 市场，还计划更深入地与 CyberConnect 集成，将所有社交数据上链，三、四季度将探索 NFT 门控内容、NFT 收入分配以及链上凭证系统。
+
+Atem Network 于 2022 年 2 月份还获得 INCE Capital 领投的 300 万美元种子轮融资，GSR Ventures、Mirana Ventures、Foresight Ventures、A&T Capital、Mask Network 等参投。
+
+### Plato Protocol
+
+[Plato](https://link3.to/plato) 是一种奖励在餐馆周围创建和策划视频、照片和评论内容的消费者的协议，奖励由 Plato 上的餐厅营销支出提供支持。餐厅在 Plato 上的营销活动支出的 70% 将直接流向在该餐厅就餐和创建评论内容的消费者。
+
+Plato Eats 应用已经与 CyberConnec 集成，允许用户创建 ccProfile 以及支持关注和点赞功能。
+
+### W3Space
+
+[W3Space](https://link3.to/w3space) 是为 Hyper 社区构建的一款游戏化元宇宙项目。该项目与 ccProfile 集成，用户可进行关注、取消关注等活动。
+
+### Wondera
+
+[Wondera](https://link3.to/wondera) 是一个奖励用户唱歌和创意内容的社交娱乐平台。在 Wondera 中，用户可配备 NFT 麦克风，来获得更好的声音和社交能力，然后可以穿着虚拟服装歌唱或在 3D 舞台上演唱，发布音乐视频后还能赢得平台代币，以及来自赞助品牌的其他加密货币或现实生活中的奖励。 
+
+Wondera 还通过为用户提供高级音频和视觉编辑工具，AI 驱动的歌词和旋律生成器，以及将内容铸造为 NFT 并从原始作品中赚取版税的设施。
+
+Wondera 已经为 Wondera 用户集成了 ccProfile，还在整合创建、收藏、发布、关注、点赞和订阅功能。
+
+Wondera 计划在近期启动封闭测试活动，二季度将迭代为具有完整社交功能的产品，如涵盖抖音风格的视频流、具有生成 AI 集成的创意工具等。
+
+### CyberTune
+
+[Cyber​​Tune](https://link3.to/cybertune) 是一个去中心化的音乐分享和收听平台，并且结合了 Cyber​​Connect 协议社交功能。艺术家上传的歌曲可供粉丝收藏、点赞和分享。
+
+第一阶段 Cyber​​Tune beta 版将在 BNB Chain 上公开发布，艺术家可以创建专辑、发布歌曲和为每首歌曲曲目设置费用，粉丝能够探索、点赞、评论和收藏喜欢的歌曲，还可以创建一个播放列表。第二阶段中，Cyber​​Tune 将与 Notifi 集成，使用户能够订阅艺术家动态，第三阶段将与 Liverpeer 集成启用直播功能。
+
+### Wonderverse
+
+[Wonderverse](http://link3.to/wonderverse) 为社区构建协作和参与功能，帮助 DAO、NFT 项目和 DeFi 协议等在一个平台上管理他们的提案、拨款、任务和贡献者付款等。Wonderverse 表示已经与超 1000 多个 Web3 组织建立了合作关系，例如 Gitcoin、dYdX、Bankless DAO 和 Merit Circle 等。
+
+Wonderverse 让拥有 Link3 Profile 的 Wonderverse 用户可以轻松连接他们的 ccProfile，他们的 Link3 Profile 也将显示在 Wonderverse Profile 中。
+
+### Clasp
+
+[Clasp](https://link3.to/clasp) 是一个 Web3 社交网络，使用户能够从创作价值内容和参与网络发展获得奖励。Clasp 采取的解决方案是，使用 Clasp 积分（CLP）来激励用户分创作者的内容，用户能够用 CLP 来收集创作者的内容 NFT。内容创作者也可以在 Clasp 上为持有其 NFT 的粉丝创作专属内容。
+
+Clasp 计划在短期之内为内容创作者创建一个平台，允许后者利用 CyberConnect 的组件将他们的内容铸造为 BNB Chain 上的 SBT，关注者可以通过分享内容来收集 SBT。Clasp 还计划使用 CyberConnect 系统，将关注、评论和点赞等活动存储在区块链上，使创作者和用户的贡献和声誉更加透明化。
+
+### Huddle01
+
+[Huddle01](https://link3.to/huddle01) 是一个去中心化会议应用，为 NFT 社区、DAO、Web3 创建者和所有 Web3 爱好者提供的 Web3 视频会议解决方案，Huddle01 可通过钱包登录、以 NFT 作为头像、通过 Livepeer 进行去中心化直播、用 IPFS 进行会议记录，并且支持代币门控会议。Huddle01 支持使用 CyberConnect 登陆。
+
+### Rosen Bridge
+
+[Rosen Bridg](https://link3.to/rosen)e 是一款 Influence-to-Earn 元宇宙应用，允许用户通过他们的社交影响力更公平地赚取收益。Rosen 已经集成了 CyberConnect 的 ccProfile 作为用户身份认证，还集成了 Connections 模块允许用户赠送和分享 NFT 给其粉丝或关注列表，甚至允许用户分享他们在 Rosen 获得的收益。
+
+### Timeless Wallet
+
+[Timeless Wallet](https://link3.to/timelessapp) 将推出一款 Web3 社交钱包，允许用户与 Web2 或者 Web3 上的任何信息或资源相关联，包括 ENS 域名、Unstoppable Domains 域名、CyberConnect 和 Lens Profile 等，还支持钱包到钱包间的通信。
+
+### Null World
+
+[Null World](https://link3.to/nullproject) 是一款针对游戏玩家的社交平台，使用 Lit Protocol 为 Web2 用户创建无缝身份验证方式。
+
+Null World 的短期目标是为游戏开发者推出一个 API 或者 SDK，让其能够将游戏连接到 Null World 和社交图谱，同时还可为社区推出自定义成就收集活动。Null World 将以 CyberConnect NFT 的形式实现人工智能支持的收藏成就，之后将仅通过 Google、Twitter 或 Discord 与 Lit Protocol PKP 实现无缝 Web3 身份验证。
+
+长期来看，Null World 将推出 sandbox 功能，允许用户在其中为游戏社区构建跟踪、活动、机器人和功能等内容。
+
+### DeBox
+
+[DeBox](https://link3.to/debox) 是一个多合一 Web3 社交平台，为 ccProfile 持有者提供可视化内容来增强他们的身份认同感。DeBox 还计划与 CyberConnect API 集成，以涵盖订阅和关注等功能。
+
+### Hangout Metaverse
+
+[Hangout Metaverse](https://link3.to/hangout) 是一个多链 Web3 社交平台，为多个协议、项目、社区和加密资产提供了一个可视化的页面，并将其整合到一个集成平台中。
+
+通过聚合可互操作的链上和链下行为，Hangout 正在创建一个 Web3 社交图谱，该图谱可以通过游戏化形式（如 Minecraft 和 Animal Crossing）来形象化去中心化的身份系统。
+
+Hangout 系统也集成了 CCProfile 铸造，其徽章系统还集成了 Essence 注册和收集。未来 Hangout 将重点构建基于 BNB Chain 的身份徽章系统以及衍生的娱乐玩法。
+
+### bFrenz
+
+[bFrenz](https://link3.to/bfrenz) 由 bfrenz App 与 bfrenz DAO 组成，是一个对新人友好的加密社交圈。
+
+bFrenz 的解决方案包括：多链 DID 聚合、量化身份价值的信用体系以及个性化内容推荐引擎等，其中，多链 DID 聚合支持绑定多个钱包地址，通过集成 CyberConnect、Link3、DID、NFT 等信息聚合显示在用户个人主页上；量化身份价值的信用体系方面，允许用户将他们的行为凭证抽象构建为徽章，作为参与 Web3 的证明，每个徽章都有一定的积分；推荐引擎方面，bFrenz ONE DID 通过接入 CyberConnect 的 NFT 推荐协议，会定期分析用户的钱包地址并推荐个性外内容。
+
+bFrenz 将在本月晚些时候发布一个开放平台，供用户体验 BNB Chain 上的 Web3 产品和包括 CyberConnect 等的去中心化社交协议。
+
+Notifi 赏金：用 CyberConnect 和 Notifi 构建的最佳 Web3 社交 DApp
+----------------------------------------------------
+
+### 0xLander（2000 美元）
+
+[0xLander](https://link3.to/0xlander) 旨在帮助用户更好地连接 Web3 朋友，具体而言，0xLander 使用 ccProfile 创建用户画像，通过订阅和关注功能构建社交图谱，基于社交图谱创建聊天群，通过发帖、评论等功能在群内分享内容。
+
+此外，0xLander 使用 XMTP 实现博主与粉丝之间的地址通信，平台收件箱功能以及邀请和直播通知，还利用 Lit Action 实现持币入群功能，并对群聊、发帖和评论等内容进行加密保护。0xLander 也利用 Notifi 实现邀请、加入群组等操作的邮件通知。
+
+Lit Protocol 赏金：用 CyberConnect 和 Lit Protocol 构建的最佳 Web3 社交 DApp
+----------------------------------------------------------------
+
+Null World（2500 美元，项目介绍同上）。
+
+LivePeer 赏金：用户 CyberConnect 和 Livepeer 构建的最佳 Web3 社交 DApp
+---------------------------------------------------------
+
+### Dopamine App（一等奖，2000 美元）
+
+[Dopamine App](https://link3.to/dopamine_app) 为用户提供来自整个加密领域的多种功能，已经发布完全集成 BNB Chain 的 Dopamine 钱包，还计划发布 Web3 移动 DApp 商店，允许 BNB Chain 合作伙伴部署他们自己的 DApp。Dopamine 还将探索利用 Liverpeer 推出加密视频平台。
+
+### 0xLander & Filmedia（二等奖 ，2000 美元 /2)
+
+0xLander（项目介绍同上）。
+
+[Filmedia](https://filmedia-app.vercel.app/) 是一个 Web3 内容共享平台，允许内容创作者与他人分享音乐和其他创意作品。通过 Filmedia，用户可以在一个平台中轻松发现和购买他们喜欢的创作者的音乐或视频。
+
+对于内容创作者，Filmedia 还提供了一套工具来帮助他们与观众或粉丝建立联系，并允许其通过内容赚取收益。Filmedia 为其 Web3 内容共享平台集成了 CyberConnect ccProfile、Liverpeer 流、CyberConnect 点赞等功能。
+
+Filmedia 计划在 2024 年第一季度推出社区驱动的内容管理系统，允许用户发现新兴艺术家和内容穿过这种，二季度将推出移动应用，四季度将推出原生加密货币。
+
+XMTP 赏金：用 CyberConnect 和 XMTP 构建的最佳 Web3 社交 DApp
+------------------------------------------------
+
+Dopamine App (1500 美元，项目介绍同上 )。
+
+0xLander（1000 美元，项目介绍同上）。
+
+### Atticc (500 美元 )
+
+[Atticc](https://link3.to/atticc) 是一个去中心化的社区管理应用，可以帮助社区在 Web3 中启动、发展和解锁额外收入流。
+
+Atticc 通过集成 CyberConnect 社交图谱来存储和显示社交关系，并且与 XMTP 消息传递协议完全集成，允许用户通过 XMTP 向他人发送消息。Atticc 的路线图显示，该项目将构建游戏化社区参与系统、人工智能工具和 NFTFi 协议。
+
+关于 CyberConnect
+---------------
+
+CyberConnect 是全球首个去中心化社交图谱协议，旨在保证身份自主权的同时提供网络效应并促成去中心化社交的大规模采用。用户可以基于该协议建造去中心化身份，自主拥有社交图谱、内容、变现渠道及各种社交数据，并可将这些资产带去不同的去中心社交应用平台中。截止发文时，CyberConnect 协议上有超过 35 万个用户身份，月活超 30 万，链上交互总计超过 280 万次。
+

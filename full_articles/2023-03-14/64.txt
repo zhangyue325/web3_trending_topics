@@ -1,0 +1,58 @@
+Progress Report March 6-March 14
+
+![](https://img.foresightnews.pro/202303/84ca6ce50606039706bd9460a0842846.png?x-oss-process=style/scale70)#### Key points
+
+* Strategic partnership with JungleFi, Mirror World, GGslayer, JoyPlay, and GalaxyFinance
+* NerveNetwork is expanding footprints on REINetwork and providing seamless crosschain & DeFi services to the big REI ecosystem projects and community users
+### A. Product Development Progress
+
+REI-CORE
+
+- Hardfork mainnet data isolation test @100%
+
+- BLS module logic optimization @in progress
+
+- Block performance test after the introduction of the BLS module @in progress
+
+REI-DAO
+
+- Merge new validator information @100%
+
+- Continuous optimization of Tab routing mode @in progress
+
+- REI-DAO’s own database table and synchronization logic design @in progress
+
+### B. Operational Progress
+
+We’re excited to share that NerveNetwork is expanding footprints on REINetwork and providing seamless crosschain & DeFi services to the big REI ecosystem projects and community users. Integration is on process! <https://twitter.com/nerve_network/status/1634433611092078592>
+
+### C. Ecosystem
+
+We are happy to announce our strategic partnership with GalaxyFinance an easy, one-touch, simplified human language App that allows everyone to store — create — invest digital assets. Glad to have them on board with us! <https://twitter.com/galaxyfinance3/status/1631825039430660100>
+
+We’re super excited to partner up with GGslayer gamer community, an entrance to the web3 gaming universe. Let’s build Web3 world together! <https://twitter.com/ggslayer_game/status/1633007309814398977>
+
+We’re thrilled to announce our new partnership with Mirror World. The ightweight, high-performance, and fee-less blockchain framework of REI Network is perfectly aligned with Mirror World’s mission to drive innovation in the crypto industry. <https://twitter.com/joinmirrorworld/status/1634105388445601795>
+
+New strategic partnership with JungleFi, one of the most open derivatives protocols. Welcome to REINetwork ecosystem! <https://twitter.com/GXChainGlobal/status/1633369949560528897>
+
+Welcome JoyPlay, an open Web3 game platform where players can complete game clearance or gain achievements to earn token rewards to be a strategic partner to promote the Metaverse and build web3 ecosystem on REINetwork! <https://twitter.com/joyplaymeta/status/1633762106612019200>
+
+### Join the REI Network Community
+
+REI Network is an EVM-compatible public blockchain. As an Ethereum para chain, it owns the features of lightweight, free and dev-friendly. REI Network is to effectively solve the current high-cost and low-efficiency problems of public chains. Therefore, GXChain can achieve free, low-cost development, and rapid migration of applications, and can be shared and symbiotic with the EVM ecosystem, also supporting the development of Defi, GameFi, and NFT.
+
+*Users can access the REI token on:*
+
+[Binance](https://www.binance.com/en/trade/GXS_USDT) | [Huobi Global](https://www.huobi.com/en-us/exchange/gxc_usdt?invite_code=d8c53)| [Upbit](https://upbit.com/exchange?code=CRIX.UPBIT.BTC-GXC) | [Bithumb](https://www.bithumb.pro/en-us/spot/trade?q=GXC-USDT) | [Bittrex](https://global.bittrex.com/Market/Index?MarketName=USDT-GXC)
+
+If you are interested in participating in our community and receiving timely updates from the following official channels:
+
+[Twitter](https://twitter.com/GXChainGlobal) | [Telegram](https://t.me/GXChain_international) | [Medium](https://medium.com/gxchain-project) |[Github](http://github.com/gxchain/) | [Reddit](http://www.reddit.com/r/GXS/) | [Website](http://www.gxchain.org/en/)| [Discord](https://discord.com/invite/qHWZR5fJQa)
+
+![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=e69713423a05)
+
+---
+
+[NerveNetwork Expands Footprints on REI Network, Partnership with JungleFi, Mirror World, and Galaxy](https://medium.com/gxchain-project/nervenetwork-expands-footprints-on-rei-network-partnership-with-junglefi-mirror-world-and-galaxy-e69713423a05) was originally published in [REI Network Project](https://medium.com/gxchain-project) on Medium, where people are continuing the conversation by highlighting and responding to this story.
+

@@ -1,0 +1,74 @@
+在 3.12 三周年纪念日，加密货币圈并没有给我们一个平静的日子来舔舐三年前的那次伤痛。正所谓幸福的家庭都很相似，不幸的家庭各有各的不幸。每逢这种特别的时刻，我总会关注稳定币市场，看看他们是不是真的能在关键时刻锚定价值，尤其是去中心化稳定币在极端行情下的表现能否让人满意，为我们守住财富。
+
+![](https://img.foresightnews.pro/202303/5-1678754994094.jpeg?x-oss-process=style/scale70)
+
+相比 USDT 的不够透明，USDC 作为由 Circle 公司和 Coinbase 两家公司共同发行和管理的稳定币，合规性得到了广泛的认可和监管机构的支持，大有超越 USDT 市场份额的潜质。我想发生这次脱钩事件之前，很少有人能想到 circle 公司还能被监管极其严格的美国银行坑。
+
+USDC 在合规方面做的很多:
+
+KYC/AML：USDC 的用户必须完成实名认证（Know Your Customer）和反洗钱（Anti-Money Laundering）流程，以符合金融监管的要求。
+
+审计报告：USDC 的发行公司 Circle 会定期接受第三方审计机构进行审计，以验证其 1:1 锚定美元的现金储备，并保证持续的透明度。
+
+金融监管支持：USDC 得到了多个监管机构的支持和认可，例如美国金融监管机构 FinCEN 和纽约州金融服务部门。
+
+开放合规框架：Circle 公开了其合规框架，以帮助其他加密货币公司和社区参考和实践。
+
+然而这一切都没有能避免发生在昨天币圈的恐慌与踩踏事故，发行了 4 年的币圈最合规的稳定币 USDC，竟然沦落到需要靠 USDT 进行出逃的地步。
+
+![](https://img.foresightnews.pro/202303/5-1678755014607.jpeg?x-oss-process=style/scale70)
+
+不可思议的是还发生了 200 万 U 的 [3CRV 兑换了 0.05 U](https://twitter.com/yorkzhong/status/1634599443231297537) 这样匪夷所思而又极其悲惨的的事故，我不认为在平时岁月静好的日子里会发生这种情况，而绝大多数所谓的稳定币都失去了往日的稳定，在这一刻血流成河。但只有这样珍贵的时刻才能提醒我们，我们真正需要的到底是什么样的稳定币。
+
+我们来捋一下各个稳定币 depeg 的逻辑链条：
+
+1. USDC 因为硅谷银行的雷，导致部分现金存款可能无法取出，造成恐慌性折价，USDC 脱钩。
+
+2. 作为稳定币市场最大的流动性池子，curve 上的 3pool 从来都是承受稳定币风险最直接冲击的池子。原本 USDC 的风险可以由 DAI 和 USDT 共同承担，
+
+但由于 DAI 的抵押物中 USDC 占比很大，目前可能超过了 60%，抵押物价值下跌自然会影响 DAI 的稳定性。
+
+![](https://img.foresightnews.pro/202303/5-1678755103925.jpeg?x-oss-process=style/scale70)
+
+更糟糕的是，因为 makerDAO 有 PSM 模块（PSM 允许用户使用 USDC，GUSD 等，向 MakerDAO 系统中的债务池直接购买或赎回具有 1:1 价值的 DAI 代币），巨量的 USDC 通过 PSM 模块兑换称为 DAI 进行出逃，两相结合自然 DAI 也就跟着 USDC 被砸了下去。
+
+通过 makerburn 数据可以清楚看到最近 24h 由 USDC 流入创造的 DAI 达到将近 10 亿美元。
+
+![](https://img.foresightnews.pro/202303/5-1678755120372.jpeg?x-oss-process=style/scale70)
+
+3.仅次于 DAI 的去中心化稳定币 FRAX，因为是以 92% 的 collatral ratio 接受 USDC 作为抵押产生的稳定币，所以，当抵押品价值不足时，作为部分抵押的 FRAX 只会比 DAI 跌得更惨。
+
+![](https://img.foresightnews.pro/202303/5-1678755131917.jpeg?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/5-1678755334954.jpeg?x-oss-process=style/scale70)
+
+4.比较大的中心化稳定币 BUSD，由于币安直接[暂停了 USDC 与 BUSD 的自动转换](https://twitter.com/binance/status/1634361554543030273)，所以隔离了风险，没有出现脱钩。
+
+5.TrustToken 发行的 TUSD，有点类似 USDC，也属于受美国金融业监管局（FinCEN）监管，并符合美国 AML 和 KYC 规定，非常难得的也没有受到太大冲击。
+
+![](https://img.foresightnews.pro/202303/5-1678755248345.jpeg?x-oss-process=style/scale70)
+
+6.还有一些类似的中心化稳定币 USDP，GUSD 等就没那么幸运了，也出现了脱钩。
+
+7.再往下，孙割的 USDD，平时就不怎么稳定，谁用谁傻叉，不说了。
+
+![](https://img.foresightnews.pro/202303/5-1678755264976.jpeg?x-oss-process=style/scale70)
+
+8. S 级去中心化稳定币 LUSD，恐慌开始后短时间跌倒 0.98，但对于 LUSD 持有者来说是个好事，因为这意味着此时市场给你提供了 2 个点的套利机会，今天一看价格果然恢复了，什么叫做最顶级的去中心化稳定币，持有者遇事不慌，还能瞅准机会赚一把，这才是真顶级。
+
+![](https://img.foresightnews.pro/202303/5-1678755272514.jpeg?x-oss-process=style/scale70)
+
+9.再看看另外几个去中心化稳定币的情况，超额抵押型稳定币 ALUSD，MIM，DOLA 都没能扛住这一波，目前仍然 depeg。
+
+10.合成资产 synthetix 的 sUSD 也还没有回锚。
+
+![](https://img.foresightnews.pro/202303/5-1678755288239.jpeg?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/5-1678755306722.jpeg?x-oss-process=style/scale70)
+
+纵观这次 USDC 脱钩事件，对币圈稳定币市场造成了空前的恐慌与危机，大批的中心化稳定币及几乎所有的去中心化稳定币都瞬间脱锚，事情的源头竟然只是一家不算太大的美国银行因为买入美国国债造成的现金流短缺和挤兑。
+
+不得不说，由中本聪建构的区块链技术演进到今天非但没有能够部分取代当今金融体系，反而将这颗定时炸弹深刻的埋入到了 DEFI 之中，这样缺乏韧性与反脆弱性的金融系统我们还能称之为“去中心化金融”吗？
+
+当我们这个世界再次发生如 08 年那种级别的金融危机时，我们能否像中本聪写入比特币创世区块时那样对这个世界充满蔑视与嘲笑，对这个技术能够保卫我们的财富抱有期待呢？
+

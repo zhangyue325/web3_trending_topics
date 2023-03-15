@@ -1,0 +1,465 @@
+  
+![](https://img.foresightnews.pro/202303/73d515d3ea9bc11fa37191e9ac2d21ab.jpeg?x-oss-process=style/scale70)  
+作者：Zubin Pratap ( 英语 )译者：Frank Kong  
+本文是《学习 Solidity——智能合约开发手册》的第二篇文章。[点击此处，了解本系列的第一篇文章。](http://mp.weixin.qq.com/s?__biz=MzU0MTgyMDQwNQ==&mid=2247496474&idx=1&sn=a306b56bca5a810d7c7381613c83b063&chksm=fb26a780cc512e9669bf996e7b43330783aba8e56c0eb87d311d840117eff2b41123198bee5d&scene=21#wechat_redirect)  
+**目录**
+
+  
+* 这本手册是为谁而写的
+* 必要的前置知识
+* 什么是 Solidity
+* 什么是智能合约
+* 怎样在 Solidity 中声明变量和函数
+* 智能合约中的变量作用域
+* 如何使用可见性标识符（visibility specifier）
+* 什么是构造函数
+* 接口和抽象合约
+* 智能合约案例 #2
+* 什么是合约状态
+* 状态可变性关键字（修饰符：modifier）
+* 数据存储类型 – storage/memory/stack
+* **数据类型原理**
+* **Solidity 数据类型**
+* **Solidity 中数组如何声明和初始化数组**
+* **函数修饰符（function modifier）是什么**
+* **Solidity 中的异常处理 - require/assert/revert**
+* Solidity 中的继承
+* 继承与构造函数参数
+* Solidity 中的类型转换
+* Solidity 中如何使用浮点数
+* 哈希、ABI 编码（encoding）和解码（decoding）
+* 如何调用合约并且使用 fallback 函数
+* 如何发送和接收 Ether
+* Solidity 库（library）
+* Solidity 中的事件（events）和日志（logs）
+* Solidity 中的时间逻辑
+* 总结和更多资源
+
+  
+**数据类型原理**
+
+  
+类型是编程中一个非常重要的概念，因为它是我们为数据提供结构的方式。从该结构中，我们可以以安全、一致和可预测的方式对数据运行操作。  
+当一种语言具有严格类型时，这意味着该语言严格定义了每条数据的类型，并且不能为具有类型的变量赋予另一种类型。  
+换句话说，在严格类型语言中：  
+* 
+* 
+* 
+
+
+```
+int a =1 // 这里的 1 是整数类型 string b= "1" // 这里的 1 是字符串类型b=a // 非法! b 是一个字符串，它不能承载整数类型，同理 a 也一样！
+```
+  
+但是在没有类型的 JavaScript 中，b=a 也成立——这使得 JavaScript 成为“动态类型”。  
+同样，在静态类型的语言中，你不能将整数传递给需要字符串的函数。但是在 JavaScript 中，我们可以将任何东西传递给函数，程序仍然可以编译，但在执行程序时可能会抛出错误。  
+例如这个函数：  
+  
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+
+```
+function add(a,b){ return a + b }  
+ add(1, 2) // 输出是 3，整数类型  
+ add(1, "2") // “2” 是一个字符串，而不是整数，所以输出变成了字符串“12” (!?)
+```
+  
+可以想象，这会产生一些很难发现的错误。尽管它会产生意想不到的结果，但是代码编译甚至可以执行都不会失败。  
+但是强类型语言永远不会让你传递字符串“2”，因为函数会坚持它接受的类型。  
+让我们看看这个函数是如何用像 Go 这样的强类型语言编写的。  
+![](https://img.foresightnews.pro/202303/2efc7ef37f5cd8990ada25ee762ae7a1.png?x-oss-process=style/scale70)通过 go 语言来说明数据类型的工作原理  
+如果传递一个 string（即使它代表一个数字），就会阻止程序编译（构建）。你会看到这样的错误：  
+* 
+* 
+* 
+
+
+```
+./prog.go:13:19: cannot use "2" (untyped string constant) as int value in argument to add  
+Go build failed.
+```
+  
+可以亲自尝试一下!  
+所以类型很重要，因为对于人类来说似乎相同的数据可能会被计算机以非常不同的方式获得。这可能会导致一些非常奇怪的错误，程序崩溃，甚至是严重的安全漏洞。  
+类型还使开发人员能够创建自己的自定义类型，然后可以使用自定义属性和操作对其进行编程。  
+有了类型系统，人类便可以通过询问“此数据的类型是什么，它应该能够做什么？”这样的问题来推理数据，并且机器可以完全按照预期进行操作。  
+这是另一个例子，说明在你我看来相同的数据可能如何被处理器以截然不同的方式解释。取二进制数字序列（即数字只能有 0 或 1 的值，这是处理器使用的二进制系统）1100001010100011。  
+对于人类来说，使用十进制系统看起来是一个非常大的数字——也许是 11 gazillion 之类的。  
+但是对于二进制的计算机来说，它不是 11 gazillion 之类的东西。计算机将其视为一个 16 位序列（二进制数字的缩写），在二进制中这可能意味着正数（无符号整数）49,827 或带符号整数 -15,709 或英镑符号 £ 的 UTF-8 表示或其他不同的东西！  
+![](https://img.foresightnews.pro/202303/ae19f009d51752b53350d1bfc1716656.png?x-oss-process=style/scale70)计算机可以将一系列的二进制位解释为很多不同的含义  
+所以所有这些解释都是在说类型很重要，并且类型可以“内置”到一种语言中，**即使**该语言不严格强制类型，如 JavaScript。  
+JavaScript 具有内置类型，如数字 (numbers)、字符串 (strings)、布尔值 (booleans)，对象 (objects) 和数组 (arrays)。但正如我们所看到的，JavaScript 并不像 Go 这样的静态类型语言一样对于数据类型严格。  
+现在回到 Solidity。Solidity 在很大程度上是一种静态类型的语言。声明变量时，还必须声明其类型。更进一步，如果你尝试将字符串传递给需要整数的函数，Solidity 将直接拒绝编译。  
+事实上，Solidity 对类型非常严格。例如，不同类型的整数也可能无法编译，如下例所示，其中函数 add() 需要一个无符号整数（正），并且只会与该数字相加，因此始终返回一个正整数。但是返回类型指定为 int，这意味着它可以是正数或负数！  
+* 
+* 
+* 
+* 
+* 
+
+
+```
+function add(uint256 a) public pure returns (int256){ return a + 10; }// solidity 编译器会报错:// TypeError: Return argument type uint256 is not implicitly convertible to expected type (type of first return variable) int256.r
+```
+  
+因此，尽管输入和输出都是 256 位整数，但函数只接收无符号整数这一事实，就会使编译器抱怨无符号整数类型不能隐式转换为有符号整数类型。  
+以上对类型的控制相当严格！开发人员可以通过将 return 语句重写为 return int256(a + 10) 来强制转换（称为类型转换）。但是这种行动需要考虑一些问题，这超出了我们在这里讨论的范围。  
+现在，请记住 Solidity 是静态类型的，这意味着在代码中声明每个变量时必须明确指定它们的类型。你可以组合类型以形成更复杂的复合类型。接下来，我们讨论一些内置类型。  
+**Solidity 数据类型**
+
+  
+内置于语言中并且可以“开箱即用”的类型通常被称为“原语（primitive）”。它们是语言固有的。你可以组合 primitive 数据类型以形成更复杂的数据结构，这些数据结构成为“自定义（custom）”数据类型。  
+例如，在 JavaScript 中，primitive 不是 JS 对象并且也没有方法或属性的数据。JavaScript 中有 7 种基本数据类型：string、number、bigint、boolean、undefined、symbol 和 null。  
+Solidity 也有自己的 primitive 数据类型。有趣的是，Solidity 没有“undefined”或“null”。相反，当你声明一个变量及其类型，但不为其分配值时，Solidity 将为该类型分配一个默认值。该默认值究竟是什么，取决于数据类型。  
+Solidity 的许多 primitive 数据类型都是相同“基本”类型的变体。例如，int 类型本身具有子类型，而子类型就基于 integer 可以存储的二进制位。  
+如果这让你有点困惑，请不要担心 - 如果你不熟悉位和字节，这并不容易，我将很快介绍整数。  
+在我们探索 Solidity 类型之前，你必须了解另一个非常重要的概念 - 它是编程语言中许多错误和“意外陷阱”的来源。  
+这就是值类型（value type）和引用类型（reference type）之间的区别，以及程序中数据“按值传递（pass by value）”与“按引用传递（pass by reference）”之间的区别。我将在下面进行快速总结，但你还可以在继续之前观看这段简短的视频。  
+**按引用传递 vs 按值传递**
+
+  
+在操作系统级别，当程序运行时，程序在执行期间使用的所有数据都存储在计算机 RAM（内存）中的位置。当你声明一个变量时，操作系统会分配一些内存空间来保存该变量的数据，这些存储空间会分配给或最终分配给该变量的值。  
+还有一种数据，就是常说的“指针”。该指针指向可以找到该变量及其值的内存位置（计算机 RAM 中的“地址”）。因此，指针实际上包含了对计算机内存中数据所在位置的引用。  
+因此，当你在程序中传递数据时（例如，当你将值分配给新变量名称时，或者当你将输入（参数）传递给函数或方法时，语言的编译器可以通过两种方式实现这一点。它可以通过指向计算机内存中数据位置的指针，或者它可以复制数据本身，并传递实际值。  
+第一种方法是“通过引用传递”。第二种方法是“按值传递”。  
+Solidity 的数据类型基元分为两类——它们要么是值类型（value type），要么是引用类型（reference type）。  
+换句话说，在 Solidity 中，当你传递数据时，数据的类型将决定你传递的是值的副本还是对值在计算机内存中位置的引用。  
+![](https://img.foresightnews.pro/202303/f3ee6715cb5bd1feeffc6a96ed94657d.png?x-oss-process=style/scale70)Solidity 中值类型（Value Types）和引用类型（Reference Types）  
+在 Solidity 的“值类型”中，整数分为两类——uint 是无符号的（只有正整数，所以它们没有正负号）和 int 是有符号的（可以是正数也可以是负数，如果你把它们写下来，它们有加号或减号）。  
+整数类型还可以指定它们有多少位长 - 或者有多少位用于表示 integer。  
+uint8 是由 8 个二进制数字（位）表示的整数，最多可以存储 256 个不同的值 (2^8=256)。由于 uint 用于无符号（正）整数，这意味着它可以存储从 0 到 255（不包括 1 到 256）的值。  
+但是，当你使用带符号的整数（如 int8）时，其中一位将用于表示它是正数还是负数。这意味着我们只剩下 7 位，因此我们最多只能表示 2^7 (128) 个不同的值，包括 0。因此 int8 可以表示从 -127 到 +127 的任何值。  
+通过扩展，int256 的长度为 256 位，可以存储 +/- (2^255) 值。  
+位长度是 8 的倍数（因为 8 位构成一个字节），因此你可以使用 int8、int16、int24 等一直到 256（32 字节）。  
+地址指的是以太坊账户类型——智能合约账户或外部拥有账户（又名“EOA”。你的 Metamask 钱包代表一个 EOA）。所以地址也是 Solidity 中的一种类型。  
+地址的默认值（如果你声明一个类型地址的变量但不分配任何值，则将具有的值）为0x00000000000000000000000000000000000000000000000000，这也是此表达式所代表的值：address（0）。  
+布尔值表示真值还是假值。最后，我们有固定大小的字节数组，如 bytes1、bytes2 … bytes32。这些是包含字节的固定长度数组。所有这些类型的值在代码中传递时都会被复制。  
+对于“引用类型”，我们有数组，它们可以在声明时指定固定大小，或者动态大小的数组。虽然它们声明时大小是固定的，但其大小可以“调整”，因为数组中元素的数量会增加。  
+字节是一种底层数据类型，指的是编码为二进制格式的数据。编译器最终将所有数据还原为二进制形式，以便 EVM（或者在传统计算中，处理器）可以使用它。  
+与其他更易读的数据类型相比，存储和使用字节通常更快、更高效。  
+你可能想知道为什么我没有在上图中的任何一种数据类型中引用字符串。那是因为在 Solidity 中，字符串实际上是动态大小的数组，数组存储以 UTF-8 编码格式编码的字节序列（只是二进制数）。  
+它们不是 Solidity 中的原语（primitive）。在 JavaScript 中，它们是原语，但即使在 JavaScript 中，字符串也类似于（但不相同）数组，并且是一系列以 UTF-16 编码的整数值。  
+在智能合约中将 string 存储为 bytes 类型通常更高效，因为 string 和 bytes 之间的转换非常容易。因此，将 string 存储为 bytes 但在函数中将它们作为 string 返回是很有用的。你可以在下面看到一个示例：  
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+
+```
+// SPDX-License-Identifier: MIT  
+ pragma solidity ^0.8.0;  
+ contract StringyBytes { // 传入字符串 “Zubin” 时返回 0x5a7562696e function stringIntoBytes(string memory input) public pure returns (bytes memory ){ return bytes(input); }  
+ // 传入字符串 “0x5a7562696e” 时返回 "Zubin" function bytesIntoString(bytes memory input) public pure returns (string memory ){ return string(input); } }
+```
+  
+除了 Solidity 字符串，bytes 数据类型是一个动态大小的字节数组。此外，与其他固定大小字节数组不同，它是一种引用类型。Solidity 中的 bytes 类型是“array of bytes”的简写，在程序中可以写成 bytes 或 byte[]。  
+如果你对字节和字节数组感到困惑……我表示同情。  
+字符串和字节数组的底层细节与本手册不太相关。现在的重点是一些数据类型通过引用传递，而另一些数据类型通过复制它们的值来传递。  
+可以认为没有指定大小的 Solidity 字符串和字节是引用类型，因为它们都是动态大小的数组。  
+最后，在 Solidity 的原语中，我们有结构体（structure）和映射（mapping）。有时这些被称为“复合”数据类型，因为它们是由其他原语组成的。  
+struct 将一段数据定义为具有一个或多个属性，并指定每个属性的数据类型和名称。结构使你能够定义自己的自定义类型，以便你可以将数据片段组织和收集到一个更大的数据类型中。  
+例如，你可以拥有定义 Person 的结构，如下所示：  
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+
+```
+struct Person { string name; uint age; bool isSolidityDev; Job job // Person 结构体包含一个自定义数据类型 Job   }  
+struct Job { string employer; string department; boolean isRemote;}
+```
+  
+你也可以通过下面的方法初始化 Person 结构体:  
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+
+```
+// Job 结构体是没有初始化的 // 这意味着它的属性都是默认值 Person memory p; P.name = "Zubin" p.age = 41; p.isSolidityDev = true;  
+ // 或者通过调用函数一样的方式来初始化结构体 Person p = Person("Zubin", "41", "true", Job("Chainlink Labs", "DevRel", true));  
+ // 或者通过键值对的方式 Job j = Job({ employer: "Chainlink Labs", "DevRel", true}); p.job = j // this is done in dot notation style.
+```
+  
+映射（mapping）类似于哈希表（hashtable）、字典（dictionary）或 JavaScript 对象（object）和映射（map），但功能少一些。  
+mapping 也是一个键值对，但是键的数据类型有限制，你可以在这里查看。与映射键关联的数据类型可以是任何原语、结构，甚至其他映射。  
+以下是映射的声明、初始化、写入和读取方式——以下示例来自 Chainlink Link Token 智能合约源代码。  
+![](https://img.foresightnews.pro/202303/752a65b5493044b718ea2b060476358f.png?x-oss-process=style/scale70)在 Solidity 中声明和使用映射  
+如果你尝试使用映射中不存在的键访问一个值，它将返回存储在映射中的类型的默认值。  
+在上面的例子中，balances 映射中所有值的类型都是 uint256，它的默认值为 0。所以如果我们调用 balanceOf() 并传入一个没有任何 LINK 通证的地址，我们将会得到 0 值。  
+在这个例子中这一设置是合理的，但是当我们想要找出一个键是否存在于映射中时，它可能有点棘手。  
+目前没有办法枚举映射中存在哪些键（也就是说，没有与 JavaScript 的 Object.keys() 方法等效的方法）。使用键检索只会返回与数据类型关联的默认值，这并不能清楚地告诉我们该键是否实际存在。  
+映射有一个有趣的“陷阱”。与你可以将键值数据结构作为参数传递给函数的其他语言不同，Solidity 不支持将映射作为参数传递给函数，除非函数可见性被标记为 internal。因此，你无法编写接受键值对作为参数的外部或公共可调用函数。  
+**如何在 Solidity 中声明和初始化数组**
+
+  
+Solidity 有两种类型的数组，因此了解声明和初始化它们的不同方式是很有必要的。  
+Solidity 中的两种主要数组类型是固定大小数组和动态大小数组。  
+为了强化你的记忆，请回忆前几节内容。固定大小的数组按值传递（在代码中传递时复制），动态大小的数组按引用传递（指向内存地址的指针在代码中传递）。  
+它们的语法和容量（大小）也不同，这决定了我们何时使用其中一个与另一个。  
+这是固定大小的数组在声明和初始化时的样子。它的固定容量为 6 个元素，一旦声明就不能更改。6 个元素的数组的内存空间已分配且无法更改。  
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+
+```
+string[6] fixedArray; // 最大空间是 6 个元素。  
+fixedArray[0] = ‘a’; // 第 1 个元素设置为 ‘a’fixedArray[4]=‘e’; // 第 5 个元素设置为 ‘e’fixedArray.push(‘f’) // 不能这么做. 固定大小的数组不能使用 push() 函数fixedArray[5]=‘f’; // 第 6 个元素设置为 ‘f’fixedArray[6]=‘g’; // 不能这么做， 超出了固定的大小
+```
+  
+也可以通过使用以下语法声明一个固定大小的数组，声明中包含变量名，数组的大小及其元素的类型：  
+* 
+* 
+* 
+
+
+```
+// datatype arrayName[arraySize];string myStrings[10]; // 大小为 10 的字符串数组myStrings[0] = “chain.link”;
+```
+  
+与其不同，按如下方式声明和初始化的动态大小数组，它的容量是不确定的，这样你就可以使用 push() 方法添加元素：  
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+
+```
+uint[] dynamicArray;  
+// Push：在数组末尾增加一个值// 数组的长度会加 1dynamicArray.push(1); dynamicArray.push(2); dynamicArray.push(3);  
+ // dynamicArray 现在是 [1,2,3]uint[] dynamicArray;// Push：在数组末尾增加一个值// 数组的长度会加 1dynamicArray.push(1); dynamicArray.push(2); dynamicArray.push(3);  
+ // dynamicArray 现在是 [1,2,3]dynamicArray.length; // 3  
+// Pop：删掉最后一个元素// 数组的长度会减 1uint lastNum = dynamicArray.pop() dynamicArray.length; // 2  
+// delete 关键字将指定索引的值重制回默认值delete dynamicArray[1]; // 第二个元素不再是 2，而是 0 了
+```
+  
+你还可以在同一行代码中声明和初始化数组的值。  
+  
+* 
+* 
+* 
+* 
+* 
+
+
+```
+string[3] fixedArray = ["a", "b", "c"]; // 固定大小的字符串数组 fixedArray.push("abc"); // 不会成功，因为是固定长度的数组  
+ String[] dynamicArray =["chainlink", "oracles"]; /// 动态大小的数组 dynamicArray.push("rocks"); // 会成功.
+```
+  
+这些数组是在 storage 中存储的。但是，如果你只需要函数内的临时数组（存储在 memory）怎么办？在这种情况下，有两条规则：只允许使用固定大小的数组，并且必须使用 new 关键字。  
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+
+```
+function inMemArray(string memory firstName, string memory lastName) public pure returns (string[] memory){ // 在 memory 中创建一个长度为 2 的固定大小数组 string[] memory arr = new string[](2); arr[0] = firstName; arr[1] = lastName; return arr; }
+```
+  
+显然，有几种方法可以声明和初始化数组。当你想要对 gas 和计算进行优化时，你需要仔细考虑需要哪种类型的数组、它们的容量是多少，以及它们是否可能在没有上限的情况下增长。  
+这也会影响你的代码设计并受其影响——你是需要数组存储在 storage 还是 memory 中。  
+**函数修饰符（function modifier）**
+
+**是什么**
+
+  
+在编写函数时，我们通常会收到一些输入，我们需要在处理其余“业务”逻辑之前对这些输入进行某种验证、检查或运行其他逻辑。  
+例如，如果你使用纯 JavaScript 编写，你可能想要检查您的函数接收的是整数而不是字符串。如果它在后端，你可能需要检查 POST 请求是否包含正确的身份验证标头和密码。  
+在 Solidity 中，我们可以通过声明一个称为修饰符（modifier）来执行这些类型的验证步骤，修饰符是是一个类似函数的代码块。  
+修饰符是一段代码，可以在运行主函数（即应用了修饰符的函数）之前或之后自动运行。  
+修饰符也可以从父合约继承。它是避免重复代码的一种方法，方法是提取通用功能放入修饰符中，而修饰符可以在整个代码库中重用。  
+修饰符看起来很像函数。观察修饰符的关键是 \_（下划线）出现的位置。该下划线就像一个“占位符”，指示主函数何时运行，可以认为是在当前下划线所在的位置插入了主函数。  
+因此，在下面的修饰符代码中，我们运行条件检查以确保消息发送者是合约的所有者（owner），然后我们运行调用此修饰符的函数的其余部分。请注意，单个修饰符可以由任意数量的函数使用。  
+![](https://img.foresightnews.pro/202303/071e353d8bc7de4e3f2dd95ac5ce1399.png?x-oss-process=style/scale70)函数修饰符怎么写，以及下划线符号的作用  
+在此示例中，require() 语句在下划线(changeOwner())之前运行，通常来说，可以通过这样的方式来确保只有当前所有者（owner）才能更改谁拥有合约。  
+如果你切换修饰符的顺序并且 require() 语句排在第二位，那么 changeOwner() 中的代码将首先运行。在那之后 require() 语句才会运行，那将是一个错误！修饰符也可以接受输入——你只需将输入的数据类型和名称传递给修饰符。  
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+
+```
+modifier validAddress(address addr) { // 地址不应为空（即 address(0)） require(addr != address(0), "Address invalid");  
+ // 继续执行剩下的逻辑 \_; }  
+ function transferTokenTo(address someAddress) public validAddress(someAddress) { // do something.... }
+```
+  
+修饰符是一个很方便的封装逻辑片段的方式，这些逻辑片段可以在你的 dApp 中的各种智能合约中重复使用。重用逻辑会使你的代码更易于阅读、维护和推理——因此遵循 DRY（Don't Repeat Yourself 不要重复自己）原则。  
+**Solidity 中的异常处理**
+
+**- require/assert/revert**
+
+  
+Solidity 中的错误处理可以通过几个不同的关键字和操作来实现。  
+当出现错误时，EVM 将恢复对区块链状态的所有更改。换句话说，当抛出异常并且未在 try-catch 块中捕获时，该异常将在被调用的方法的堆栈中“冒泡”, 并返回给用户。当前调用（及其子调用）中对区块链状态所做的所有更改都将被撤销。  
+在诸如 delegatecall、send、call 等底层函数中有一些例外，其中错误会将布尔值 false 返回给调用者，而不是冒出一个错误。  
+作为开发人员，你可以采用三种方法来处理和抛出错误：require()、assert() 或 revert()。  
+require 语句检查你指定的布尔条件，如果为假，它将抛出带有你提供的字符串或没有说明（如果没有指定）的错误：  
+  
+* 
+* 
+* 
+
+
+```
+function requireExample() public pure { require(msg.value >= 1 ether, "you must pay me at least 1 ether!"); }
+```
+  
+在继续我们的代码逻辑之前，我们使用 require() 来验证输入、验证返回值和检查其他条件。  
+在此示例中，如果函数的调用者未发送至少 1 个 ETH，该函数将恢复并抛出一条错误消息：“你必须至少支付 1 个 ETH！”。  
+你想要返回的错误字符串是 require() 函数的第二个参数，但它是可选的。没有它，你的代码将抛出一个没有数据的错误——如果没有数据的话，就不会很有帮助。  
+require() 的好处是它会返回未使用的 gas，但在 require() 语句之前使用的 gas 将丢失。这就是我们应该尽早使用 require() 的原因。  
+assert() 函数与 require() 非常相似，只是它抛出类型为 Panic(uint256) 而不是 Error(string) 的错误。  
+  
+* 
+* 
+* 
+* 
+* 
+* 
+
+
+```
+contract ThrowMe {  function assertExample() public pure { assert(address(this).balance == 0); // Do something. } }
+```
+  
+assert 也用于略有不同的情况——这些情况下需要不同类型的保护。  
+大多数情况下，你使用 assert 来检查“invariant( 不变 )”的数据片段。在软件开发中，不变量是一个或多个数据，其值在程序执行时永远不会改变。  
+上面的代码示例是一个微型合约，并不是为了接收或存储任何 ETH 而设计的。它的设计旨在确保它的合约余额始终为零，这就是我们使用 assert 测试的不变量。  
+assert() 调用也用在 internal 函数中。他们可以测试本地状态不包含或不可能的值，但由于合约状态变得“脏”，这些值可能已经改变。  
+正如 require()， assert() 也会回退所有更改。但是在 Solidity 的 v0.8 之前，assert() 用于耗尽所有剩余的 gas，这一点与 require() 不同。  
+通常，你可能会更多地使用 require() 而不是 assert()。  
+第三种方法是使用 revert() 调用。这通常用于与 require() 相同的情况，但使用 revert() 的场景中，一般条件逻辑会更复杂。  
+此外，你可以在使用 revert() 时抛出自定义错误。就 gas 消耗而言，使用自定义错误通常可以更便宜，并且从代码和错误可读性的角度来看，自定义错误通常可以提供更多信息。  
+请注意我是如何通过在自定义错误名称前加上合约名称，从而提高其可读性和可追溯性的，通过这种方式我们可以知道是哪个合约引发了错误。  
+  
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+
+```
+contract ThrowMe {  // 自定义错误 error ThrowMe\_BadInput(string errorMsg, uint inputNum);  
+ function revertExample(uint input) public pure { if (input < 1000 ) { revert ThrowMe\_BadInput("Number must be an even number greater than 999", input); }  
+ if (input < 0) { revert("Negative numbers not allowed"); } } }
+```
+  
+在上面的示例中，我们使用了一次 revert 和一个带有两个特定参数的自定义错误，然后我们再次使用 revert 且仅包含一个字符串错误数据。在任何一种情况下，区块链状态都会 revert，未使用的 gas 将返回给调用者。  
+（未完待续...）  
+  
+END  
+  
+‍‍▲获取 Chainlink 官方最新资讯  
+加入 Chainlink 官方渠道▼
+
+![](https://img.foresightnews.pro/202303/3b448bcab9371465762484a634e88fa4.jpeg?x-oss-process=style/scale70)  
+**Chainlink 官方渠道**   
+微博:  https://weibo.com/chainlinkofficial  
+知乎：https://www.zhihu.com/people/chainlink  
+中文 Twitter: https://twitter.com/ChainlinkCN  
+Twitter:  https://twitter.com/chainlink  
+中文爱好者电报群：https://t.me/chainlinkfans  
+Telegram:  https://t.me/chainlinkofficial  
+Discord:   https://discord.gg/aSK4zew  
+GitHub:  https://github.com/smartcontractkit/chainlink  
+SegmentFault：https://segmentfault.com/u/chainlink  
+QQ 群: 6135525  
+合作联系:  china@smartcontract.com  
+  
+![](https://img.foresightnews.pro/202303/acbd2417f9c7a98a99dbd7dd06376440.gif?x-oss-process=style/scale70)点击“阅读原文”，查看更多
+
+  
+
+

@@ -1,0 +1,167 @@
+  
+  
+![](https://img.foresightnews.pro/202303/3390250af6b81fba6748a320700ceec3?x-oss-process=style/scale70)  
+每个 3·12 都值得加密世界纪念。
+
+上周三，Silvergate Capital 宣布结束运营并进行最终清算；上周五，SVB（硅谷银行）在遭受 420 亿美元挤兑后宣布倒闭；而在 3 月 12 日，Signature Bank 被监管部门直接关闭。
+
+受此一连串的暴击，比特币最低跌到 2 万美元以下，而 USDC 遭受短暂“脱锚”波动，在紧急救市措施出台后，目前整体市场已经回暖，但更严峻的考验已经到来。
+
+越来越多的银行会在市场波动和监管趋紧的双重逼迫下远离加密市场，作为出入金的重要通道，目前美国有哪些加密友好型银行？
+
+![](https://img.foresightnews.pro/202303/d0fedeeecf4bbf83c06d4c4e8441f94e?x-oss-process=style/scale70)01或崩于 FTX，或苟过 SVB
+===============
+
+美国曾一度是对加密银行最为宽容的经济体，The Block 曾在 2020 年总结了一份加密友好型银行名单，其中既有摩根大通这样的顶级银行，也有 Silvergate Capital 和 Signature Bank 这种传统意义上的社区零售银行。
+
+![](https://img.foresightnews.pro/202303/b86b5fb5b83a2b5540ce78c5a4bb37b3.png?x-oss-process=style/scale70)
+
+  
+
+
+但是 FTX 的崩溃改变了一切，2023 年 1 月份，美国三个银行业监管部门，美联储、货币监理署（OCC）和联邦存款保险公司（FDIC）联合发表了一份声明，希望银行最好不要参与加密相关业务，并且严格审查各项业务的合规性。
+
+在此背景下，多个跟加密业务，尤其是 FTX 关系密切的银行选择退出加密市场。
+
+![](https://img.foresightnews.pro/202303/d0fedeeecf4bbf83c06d4c4e8441f94e?x-oss-process=style/scale70?wx_fmt=svg?x-oss-process=style/scale70)02将离场的加密友好银行
+==========
+
+* 摩根大通
+
+摩根大通自身推出了 Onyx 系统，该系统允许多银行、多货币资产在许可的分布式账本上进行即时转移和清算。2022 年 2 月，摩根大通上线 Decentraland，成为第一家在元宇宙中设置服务的银行，此外，还专注于提供加密货币支付服务，如加密货币支付处理、区块链技术解决方案等。
+
+然而，在 2023 年 3 月，摩根大通公司宣布断绝与加密货币交易所 Gemini 的关系，其后 Gemini 否认这一说法。而 Coinbase 也表示将继续和摩根大通合作。
+
+* Metropolitan Bank Holding Corp
+
+2023 年 1 月 9 日选择完全退出加密市场，加密业务占营业收入的 1.5%，加密存款占总存款的 6%，在 2023 年将会结束和最后四个加密客户的业务关系。
+
+自 2019 年以来，Metropolitan Bank 宣称没有吸引新的加密货币客户，但希望保留现有加密货币客户的存款，而在监管文件下发后，预期会彻底退出加密市场。
+
+* Moonstone Bank（Farmington State Bank）
+
+截至 2023 年 1 月，该银行大约有几十个加密货币客户，所有的加密账户已经被事实上关闭。
+
+一年前，2022 年 1 月 Moonstone 从 SBF 的 Alameda Research 获得了 1150 万美元的投资。在巴哈马，清算人发现 Moonstone 在两个账户中持有近 5000 万美元的 FTX 存款，目前这些资金的状况不明。根据巴哈马清算人 2022 年 12 月提交的一项动议，Moonstone 的高管拒绝向调查人员提供有关账户的详细信息。
+
+目前，Moonstone 宣布“正在回归其作为社区银行的最初使命，并停止追求创新驱动的商业模式，不再为加密行业提供银行服务。”
+
+* Provident Bank
+
+该银行负责加密业务的主体是 BankProv，其涉及加密领域的业务方向主要是矿业，为加密企业提供使用存款、贷款、电汇和 ACH 转账、实时支付和远程存款等服务。此外，通过初创公司 Treasury Prime 为加密企业提供 API 连接 BankProv。
+
+截止 2022 年末，其加密矿业贷款组合减少至 4120 万美元，或者下降 50%，2022 年 Q3 季度亏损为 2750 万美元，因此 BankProv 将逐步退出加密矿业贷款业务。
+
+* Evolve Bank & Trust
+
+在 FTX 的“牵连”之外，BlockFi 也对 Evolve Bank & Trust 造成了严重伤害。Evolve 之前为 BlockFi 的客户发行信用卡，并且对 FTX 有一定的风险敞口。
+
+Evolve 自述没有向 FTX 或其附属机构提供贷款服务，Evolve 也没有对加密货币进行过投资或交易行为。
+
+在以上四家意志不坚定的银行之外，还依然存在数家和加密行业共进退的真友好银行。
+
+![](https://img.foresightnews.pro/202303/d0fedeeecf4bbf83c06d4c4e8441f94e?x-oss-process=style/scale70?wx_fmt=svg?x-oss-process=style/scale70)03仍在坚持的加密友好银行
+===========
+
+* The Bank of New York Mellon（纽约梅隆银行）
+
+纽约梅隆银行是世界上最大的资产托管机构，目前保管超过 43 万亿传统资产，日清算额在 2 万亿美元以上，并且是美国政府债券的独家结算代理商。
+
+2022 年 3 月，稳定币 USDC 发行商选择纽约梅隆银行作为托管方，在 Signature 关闭后，Circle 将使用纽约梅隆银行进行结算。
+
+* Customers Bank
+
+Customers Bank 使用其自研的 CBIT 代币在客户之间交换美元现金。CBIT 代币可以与 TassatPay 支付平台结合使用，是一种基于区块链技术的 B2B 即时转账系统。
+
+得益于区块链交易的实时性和安全性，银行可以吸收受益于大量低成本存款，提供巨大的流动性和扩大的净息差，以推动积极的贷款增长。该银行在 2021 年第三季度收益报告中宣布了 15 亿美元的存款来自加密货币业务。
+
+在 FTX 事件后，Customers Bank 宣布和 FTX 或任何关联公司均无存款或其他业务往来，也没有向机密行业内的任何客户提供贷款。
+
+在 SVB 和 Sinagture Bank 纷纷倒闭后，USDC 发行方 Circle 依然在 Customers Bank 存放有部分储备金。
+
+* Cross River Bank
+
+2022 年 4 月，Cross River Bank 完成由 a16z 领投的 6.2 亿美元融资。其主要业务模块为 BaaS（Banking as a Service，银行即服务）。BaaS 组件涵盖支付，其中包括刷卡、账户转账和实时支付。可以为活期存款账户、储蓄账户以及信用卡和借记卡提供服务。
+
+Coinbase 和 Circle 均是其客户，Circle 是在 SVB 之后，宣布 2023 年 3 月 13 日开始，Cross River Bank 为客户提供铸造和赎回 USDC 的服务。
+
+* Pathward
+
+跟 Cross River Bank 类似，也是提供 BaaS（银行即服务）的银行，跟 Coinbase 合作较为紧密，也是 Coinbase Card 的合作发行商，为其提供信用卡发行相关服务。
+
+Pathward 也是 FDIC 注册银行，为客户提供 25 万美元以下的存款保险服务。
+
+![](https://img.foresightnews.pro/202303/d0fedeeecf4bbf83c06d4c4e8441f94e?x-oss-process=style/scale70?wx_fmt=svg?x-oss-process=style/scale70)04间接进入加密的友好银行
+===========
+
+在直接为加密企业或客户提供服务的银行外，还存在着一种特殊的银行体系，用间接或者和合作的方式接触加密企业。
+
+* FirstFoundation Bank
+
+First Foundation Bank 与 NYDIG 合作，允许用户通过应用程序进行比特币交易，客户可以购买、出售和持有比特币。但客户并不真正拥有任何特定的、链上的、可识别的比特币，而是反映在个人 NYDIG 比特币账户中的特定数量和权益。
+
+同时，NYDIG 将所有客户比特币销售的资金转给银行，银行比特币销售收益存入您选择的 First Foundation Bank 个人账户，以完成交易。
+
+* Sutton Bank
+
+Sutton 发行支持 CashApp 和预付卡（Prepaid Card），以此来间接支持加密服务。但官方说明，Sutton Bank 只是作为卡发行方，用户可以自行使用 CashApp 来使用卡内资金，但是任何 APP 内资金历史记录都无法通过网银账户查询。
+
+而关于 Robinhood 的借记卡（Debit Card），Sutton 不承担任何客户支持功能，完全由 Rboinhood 自行设置用卡协议。
+
+* Quontic Bank
+
+Quontic Bank 将比特币作为刷卡满额的返利奖励形式，用户最低存款要求为 500 美元，将会把每次进行的消费金额的 1.5% 以美元计价的比特币作为奖励累积。但是 ATM 取款、转账、账单支付、ACH 支付和电汇不会赚取比特币奖励。
+
+![](https://img.foresightnews.pro/202303/d0fedeeecf4bbf83c06d4c4e8441f94e?x-oss-process=style/scale70?wx_fmt=svg?x-oss-process=style/scale70)05结语：暴雷之外
+=======
+
+本次银行暴雷，除了影响美国自身银行体系之外，也对其他地区的银行系统也造成了一定的冲击，受限于监管政策，并非所有的银行都可以涉及美元服务，但是总算留了一线希望，其中主要的是欧洲部分银行，尤其是瑞士银行，比如，SEBA 和 Sygnum 这两个主要的加密友好型银行，以及 Vontobel、Swissquote 等传统大型银行。
+
+还有一众欧洲小国，比如爱沙尼亚的 LHV Pank，斯洛文尼亚的 Gorenjska Banka，列支敦士登的 Bank Frick，拉脱维亚的 BlueOrange Bank。
+
+以及离岛国家，比如瓦努阿图的 PacificPrivate Bank，巴哈马群岛的 DeltecBank 和 Ansbacher。
+
+总体上，美国的银行业将迎来一次较大范围的转向，2020 年 OCC（货币监理署）曾经推出支付特许状，允许 Kraken/Paxos 等加密企业可以进入国家金融体系。
+
+而在 FTX 暴雷以及上周的三家银行倒闭后，监管政策已经抢先介入银行体系，未来是否会有银行再次拥抱加密企业，只能拭目以待。
+
+  
+
+
+
+
+---
+
+#### 
+
+#### **PANews PARTY AWARD 2023 年度评选开启投票！**
+
+经数据初选、公开征集及社区推荐，本届评选已收集了超过 190 条报名信息，有深耕行业巨头，也有惊艳登场的新星。给无视牛熊“Keep Building”的真 Builder 投上宝贵的一票！
+
+#### 
+
+阅读原文，了解详情↓↓↓
+
+  
+
+
+![](https://img.foresightnews.pro/202303/ec79ad4928dcc24adc1695a0d384fda7.jpeg?x-oss-process=style/scale70)
+
+ 
+
+  
+
+
+![](https://img.foresightnews.pro/202303/013a29b8723f6d324f26f7ad1472eea1.png?x-oss-process=style/scale70)
+
+  
+
+
+点个【 在看 】，你最好看
+
+  
+
+
+  
+
+
