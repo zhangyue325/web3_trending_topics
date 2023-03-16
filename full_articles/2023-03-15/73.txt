@@ -1,0 +1,82 @@
+Gridex 是一个技术领先的完全去中心化的订单簿交易协议.空投还算猪脚饭。
+
+下面给大家介绍下操作步骤：
+
+一、如何领取 GDX 空投#1 和空投#2
+
+二、如何获得 GDX Maker Rewards 资格
+
+三、如何在 D5 Exchange 挂 Maker 单
+
+四、如何使用 D5 Exchange 操作 Swap
+
+一、如何领取 GDX 空投#1 和空投#2
+
+1) 确认你的钱包已切换到 Arbitrum One 主网环境
+
+添加 Arbitrum One 网络：
+
+网络名称：Arbitrum One
+
+新的 RPC URL：<https://arb1.arbitrum.io/rpc>
+
+链 ID：42161
+
+货币符号：ETH 或 USDC
+
+区块浏览器 URL：<https://arbiscan.io/>
+
+2）使用 GDX 合约地址，在你的钱包里添加 GDX 代币
+
+0x2F27118E3D2332aFb7d165140Cf1bB127eA6975d
+
+![](https://img.foresightnews.pro/202303/c399ebe1a9f2d3ff47126ccb82082ea7.png?x-oss-process=style/scale70)
+
+3）进入 Gridex 空投界面：<https://airdrop.gdx.org/>
+
+4）点击‘Connect Wallet’连接钱包 注意：请保证领取空投的钱包和你在 D5 Exchange 的钱包地址一致
+
+5）点击‘Claim’领取空投
+
+![](https://img.foresightnews.pro/202303/d6508d2609a1de3687488ef60fd6c63c.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/b2c3585d028d28e26d32d82ce31d919e.png?x-oss-process=style/scale70)
+
+6）完成智能合约交互后，GDX 将立刻显示在钱包中 注意：对于没有在 GDX 空投中获取代币奖励的用户，同样可以参与 Maker Rewards，仅需在钱 包里加入 GDX 代币即可 二、如何获得 GDX Maker Rewards 资格
+
+二、如何获得 GDX Maker Rewards 资格
+
+1）进入‘Maker Rewards’界面，连接钱包 注意：请保证这里的钱包地址和你在 D5 Exchange 的钱包地址一致
+
+2）填写邀请码（**8q61Z2xk**），填写之后立即获得 1.39 倍交易奖励系数 注意：必须使用他人的邀请码，使用自己的邀请码无效 邀请码获取方式： A. 成功获得 GDX 空投#2 的用户，直接获得邀请码 B. 连续 10 天获得 Maker Rewards 奖励 C. 在任意一天进入 Maker Rewards 前 200 名
+
+3）获得奖励系数后，前往[https://trade.d5.xyz/ 进行 GDX/ETH 交易即可](https://trade.d5.xyz/%E8%BF%9B%E8%A1%8CGDX/ETH%E4%BA%A4%E6%98%93%E5%8D%B3%E5%8F%AF)
+
+4）更多 Maker Rewards 攻略，请查看： <https://mirror.xyz/0x9Cb20F3A6E784018dfB30e72356632F3bf34184e/4ol6iKpEBfUY>L4RaMueMxdA8oRSX4v4Pn-Yd0w5d4sc
+
+![](https://img.foresightnews.pro/202303/878c7f3b929e4d28eb6559c3c4e0c11c.png?x-oss-process=style/scale70)
+
+三、如何在 D5 Exchange 挂 Maker 单
+
+1. D5 Exchange 交易网址：<https://trade.d5.xyz/>交易币对前，确保您已通过右上角‘Connect Wallet’按钮完成钱包的连接并切换到 Arbitrum One 主网。
+2. Grid 是什么？注意：本次 Maker Rewards 要求 maker 单选择 0.05% Grid。D5 exchange 向用户提供了 3 种模式的 Grid 以满足不同币种的交易需求：一般稳定币对稳定币的交易对选择更小的 0.01% 的 Grid，波动幅度大且单位价值低的币对选择适中的 0.05% Grid 或更大的 0.3% 的 Grid；Grid 前面的百分比越大，表示用户能接受的成交价格区间越大；费率百分比越大，表示成交后用户基于成交金额获得的挂单奖励越多。
+![](https://img.foresightnews.pro/202303/e1f200b48e8507a26c9e2b12ac066132.png?x-oss-process=style/scale70)
+
+四、如何使用 D5 Exchange 操作 Swap 进行 Maker Rewards 加成？D5 Exchange 不仅有来自 Maker 挂买卖单提供的流动性，用户可通过 Swap 为自己获得最佳汇率的兑换方案。D5 Exchange Swap 两种模式介绍
+
+1. On 聚合模式：通过所有协议的交易对路由，聚合了本地 Maker 流动性以及其他 AMM 平台流动性；
+2. Off 聚合模式：该模式下，用户可选择特定的 Grid，通过指定的交易对路由。注意：本次 Maker Rewards 要求 Swap 必须选择 Off 聚合模式，并选择 0.05% Grid
+![](https://img.foresightnews.pro/202303/bbcb8c88c6e299ba7e042dd59911e4ee.png?x-oss-process=style/scale70)
+
+👤 Linker: <https://linktr.ee/ZFlab>
+
+🐦 Twitter: <https://twitter.com/ZF_lab>
+
+🚀 Lenster:<https://lenster.xyz/u/zf_lab>
+
+👾 Discord: <https://discord.gg/Gy5RhbMyCW>
+
+💬 Telegram Group: <https://t.me/cryptozflab>
+
+🪞 Subscribe to us on Mirror & Collet Entry: <https://mirror.xyz/zflab.eth>
+

@@ -1,0 +1,71 @@
+Getaverse - The World’s First Sustainable Credit Protocol Based on Web3 Ecology!
+--------------------------------------------------------------------------------
+
+最近两周，Getaverse 频频“搞”动作，活动（线上嘉年华、线下海外商演会议、VC 酒会）一场接一场。从官方推特、社区信息透露，Getaverse 1.0 版本近期将上线公测，在为产品 /Token 上线预热，大事发“声”？
+
+让我们来回顾下 Getaverse 近期的活动和资讯：
+
+1. 受邀出席 AFFLUX 日本的 Demo Day 活动
+------------------------------
+
+活动聚集了全球顶级孵化 31 家 Web3 创新项目进行 Demo 演示，48 家 Web3 创投机构（包括 Bing Ventures、OKx Ventures、KuCoin Labs、Cobo Ventures、A&T Capital 等）参会。更有数十家 Web3 孵化实验室参与，给予项目专业点评和孵化扶持。
+
+![](https://img.foresightnews.pro/202303/d63f58ff7adcb3c7ebe19cb105ed70a3.png?x-oss-process=style/scale70)
+
+2. 联合水滴资本、OnePiece 实验室等举办美国丹佛 - Web3 建设者私享会
+-------------------------------------------
+
+官方推文透露 Getaverse DID 产品即将上线！
+
+![](https://img.foresightnews.pro/202303/9ce5d3671d1f83055de9b3744c72cba9.png?x-oss-process=style/scale70)
+
+3. 联合举办美国硅谷 - ChatGPT & AIGC x Web3 线下活动
+----------------------------------------
+
+活动结合当下火热的 OpenAI 和 Web3 热潮，邀请硅谷科技巨头和 Web3 风投机构代表共同探讨。活动受邀嘉宾有 OpenAI、Coinbase、Hashkey 资本、谷歌 AI、KuCoin 实验室、亚马逊 AI 以及 ChainUp 资本等。
+
+Getaverse 团队代表给到场的硅谷科技大厂和 Web3 机构代表进行了展示，介绍了 Getaverse 背景、产品机制和生态愿景等，共同探讨了 Web3 DID 与 AI 的结合。
+
+![](https://img.foresightnews.pro/202303/c6072c4c4562b8199b9135ba372c7ab1.jpg?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/9239306ef9ac06f5e88014f4257f39a5.png?x-oss-process=style/scale70)
+
+4. 入围 PANews Party Award2023 最具创新项目，投票活动 2023/3/23 截止。
+------------------------------------------------------
+
+![投票链接：https://panewslab.com/party/2023/vote](https://img.foresightnews.pro/202303/2bc01696c664659010927d7cefe1b070.png?x-oss-process=style/scale70)
+
+5. 受邀出席 7 O’Clock 资本在香港举办的投资交流酒会
+--------------------------------
+
+![https://twitter.com/getaverseglobal/status/1634150229560774657](https://img.foresightnews.pro/202303/300b9cd7b24d8823d2c7d97c00eff1ec.png?x-oss-process=style/scale70)
+
+6. Getaverse CEO Ryan 出席 BlockLike × XCabin Network 币安直播间，探讨 2023 - Web3 浪潮
+---------------------------------------------------------------------------
+
+![https://binance.com/zh-CN/live/video?roomId=2125680](https://img.foresightnews.pro/202303/68e9359608ffc1de3b7d9bc8311b110a.png?x-oss-process=style/scale70)
+
+7. Getaverse CEO Ryan 出席 BSC Daily 主持的币安直播间
+-------------------------------------------
+
+Getaverse 官推透露 DID 产品上线以及空投“近在咫尺”。
+
+![](https://img.foresightnews.pro/202303/22d05c9a71de53d9e2db21477e5f8ccf.png?x-oss-process=style/scale70)
+
+![https://binance.com/en/live/video?roomId=2126267](https://img.foresightnews.pro/202303/c7ecaa37c033d462137a6d21148728f1.png?x-oss-process=style/scale70)
+
+相信后期 Getaverse 官方将有更多活动发布，敬请期待！
+
+关于 Getaverse
+------------
+
+Getaverse 正在构建基于 Web3 生态的可成长信用协议，实现用户在 Web3 世界中身份去中心化、身份价值确权，强调数字内容产权并确保用户获得价值的去中心化社会。其着重解决当下围绕 Web2 科技巨头和用户关于数据主权及隐私安全、个人信用积累、用户信息价值捕获等痛点。
+
+用户通过 Getaverse 信誉系统实现全网一站式的数字身份主权，能在保护自己隐私的情况下提供其行为证明（数据标记），从而确立 / 证明自己的数字身份及数据主权，拥有完全的数据所有权。并且，Getaverse 协议能够自动帮助用户甄别交易过程中的风险地址，通过 API 开放能够自动阻止风险交易授权，以及针对用户信用系统的风险评估和预警管理等。Web3 项目也根据 Getaverse 筛选真实用户地址排除恶意刷量行为的低价值地址，建立监控地址库观察用户地址质量，以及风控交易监控，增加项目运作过程中的资金安全。
+
+目前，Getaverse 首批合作项目达 50+，涵盖 Web3 基础设施、DeFi、NFT、SocialFi、Dao 等赛道项目。同时已上线 Getaverse 可信验证节点激励测试网，验证节点持有人数达 8800+，测试网验证率达 98%+。随着节点数的不断增加，Getaverse 生态的去中心化和数据隐私程度将不断提升。并且 Getaverse 现在也是 KuCoin Labs 最新孵化计划的孵化项目之一，获得了广泛的指导，包括技术、合作关系发展、代币经济等领域！
+
+Getaverse 随着即将发布的 Geta ID，其在保护用户隐私与匿名需求的同时对用户身份进行验证，从而优化 KYC、KYB 等服务体验。零知识证明，使得用户在身份校验过程中只需证明自己持有合法身份文件，而无需让第三方阅读文件内容本身，从而向第三方或监管机构泄露隐私信息。值得注意的是，即使需要进行 KYC 环节以规避风险，Geta 仍然可以选择在不接触隐私内容的情况下完成验证。
+
+更多详情，请关注 GETAVERSE 官方推特或者社区。 注意：本文仅 Getaverse 志愿者社区成员*个人看法 / 观点，无任何投资建议，DYOR。*
+

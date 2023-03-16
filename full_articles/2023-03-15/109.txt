@@ -1,0 +1,820 @@
+  
+![](https://img.foresightnews.pro/202303/bca7d4126f998ec352743d0043afea28.jpeg?x-oss-process=style/scale70)  
+
+
+Chainlink Functions 是一个用于 Web3 的 serverless 开发者平台，它可以使智能合约能够连接到任意一个 API，并运行的开发者自定义代码以获得结果，并且最终将结果进行去中心化和可验证的共识。
+
+  
+
+
+这个功能是非常强大的，因为在区块链上运行的传统智能合约[无法主动去访问链下数据和系统](http://mp.weixin.qq.com/s?__biz=MzU0MTgyMDQwNQ==&mid=2247492980&idx=1&sn=8a7239acf5c10ffa61b845e6ad59ab69&chksm=fb26b1eecc5138f87a1938b0fda9a02d6eaa4e5c7b5c90376e242ca9490200bb74e08abd35eb&scene=21#wechat_redirect)，而且在链上进行复杂计算非常昂贵，所以合约通常需要通过链下的服务来获取数据或者“外包”计算工作。
+
+  
+
+
+以下是一些示例用例，包括 NFT 赠予，邮件服务，链上保险，音乐流媒体的支付等等。这些用例展示了 Chainlink Functions 如何将去中心化应用（dApp）连接到任何链下的 API。这些带有代码的示例中集成了头部的云和 Web2 平台（例如 Meta、Twilio、AWS 和 Google Cloud）服务，以展示 Chainlink Functions 可以连接的服务的广泛性，也展示智能合约与 Web2 世界结合时的多种可能性。
+
+  
+
+
+所有示例都可以在 Chainlink Labs GitHub 上找到，并且可以立即部署。
+
+  
+
+
+**Meta: 将社交媒体连接到 Web3**
+
+  
+
+
+Instagram 和 Facebook 等社交媒体平台为数十亿用户提供服务，使他们能够与同龄人保持联系，发布和浏览内容。大多数企业都在这些平台上有在线业务，其中许多企业通过这些渠道推动其业务。
+
+  
+
+
+将社交 App 的强大连接性和影响力与 Web3 世界相结合的一个用例是社交媒体促销和活动。全球数百万企业利用 Facebook 和 Instagram 等社交媒体平台的影响力，通过竞赛、活动和赠品来推广新产品，客户可以通过与企业页面共享的内容互动来赢得特别奖品。
+
+  
+
+
+除此之外，数字收藏品于 2022 年被集成到 Instagram 中，让创作者有机会以 NFT 的形式通过他们的网络分享和展示他们的艺术、图像、视频和音乐。这为企业和创作者提供了一条途径，可以利用新工具来赚取收入，并更好地控制他们与粉丝和客户的关系。
+
+  
+
+
+随着 Instagram 对数字藏品的集成以后，这项服务已被数百万人使用，将数字收藏品与社交媒体上的运营活动相结合就是一个很好的 Chainlink Functions 使用案例。通过这个方式，企业可以通过自动化、可扩展和信任最小化的方式，利用数字藏品进行的社交媒体的运营。
+
+  
+
+
+**使用案例: 新品发布附赠的 NFT Giveaway**
+
+  
+
+
+这个用例围绕一个商业广告，一个公司通过其 Facebook 或 Instagram 商业页面发布了新产品或服务，并且为了庆祝这一时刻，它以 NFT 的形式向客户提供数量有限的独特数字收藏品.要获得这些特殊 NFT 之一的资格，客户需要向业务页面发送一条私信，其中包含钱包地址和推广兑换码。
+
+  
+
+
+![](https://img.foresightnews.pro/202303/a2cc4da7b265379d505b675e3d87ed94.jpeg?x-oss-process=style/scale70)通过 Facebook 页面发送商业广告
+
+  
+
+
+![](https://img.foresightnews.pro/202303/15d0a56dccbee9ec6b42b9626b6be4d6.jpeg?x-oss-process=style/scale70)用户给商家发送私信以参与活动
+
+  
+
+
+一旦促销的时间期限到了，企业就会与智能合约进行交互以进行 NFT 铸造。智能合约需要一个地址列表作为输入，一旦它收到符合条件的钱包地址，它就会为每个地址创建一个 NFT。在这个例子中，假设有三个赢家：
+
+  
+
+
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+
+```
+ function fulfillRequest(bytes32 requestId, bytes memory response, bytes memory err) internal override { latestResponse = response; latestError = err; emit OCRResponse(requestId, response, err);  
+ address winner1; address winner2; address winner3;  
+ assembly { winner1 := mload(add(response, 20)) winner2 := mload(add(response, 40)) winner3 := mload(add(response, 60)) }  
+ nft.mint(winner1); nft.mint(winner2); nft.mint(winner3); }
+```
+  
+
+
+![](https://img.foresightnews.pro/202303/6618d08227331df295f1ac6a956b73d9.jpeg?x-oss-process=style/scale70)新品发布时赠送 NFT 的工作流
+
+  
+
+
+该企业使用 Chainlink Functiosn 和智能合约来查找符合条件的客户钱包地址列表。在这种情况下，智能合约发起对 Chainlink Functions 的调用，传入要执行的 JavaScript 代码。这段 JavaScript 代码连接到 Meta Messaging API，提取并过滤出包含相关主题标签的对话，然后确定哪些客户有资格接收 NFT（在本例中，是前三个做出回应的客户）。
+
+  
+
+
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+
+```
+async function getEligibleConversations(isoStartDate) { const conversationsResponse = await Functions.makeHttpRequest({ url: `https://graph.facebook.com/v16.0/${secrets.FACEBOOK\_PAGE\_ID}/conversations?fields=messages.limit(1){message,from},updated\_time&access\_token=${secrets.FACEBOOK\_GRAPH\_API\_KEY}` })  
+ if (conversationsResponse.status === 200) { const conversationsObject = conversationsResponse.data; const conversations = conversationsObject.data;  
+ const eligibleConversations = conversations.filter(conversation => new Date(conversation.updated\_time) > isoStartDate); return eligibleConversations; } else { throw Error(conversationsResponse.statusText); }}  
+async function chooseWinners(eligibleConversations, numberOfWinners) { let winnersArray = []; const length = eligibleConversations.length;  
+ for (let i = 0; i < length;) { // we are getting only the latest received message from the conversation with the user const current = eligibleConversations[i].messages.data[0].message;  
+ if (current.includes("#giveaway")) { const walletAddress = current.substr(current.indexOf("0x"), 42); if (isAddress(walletAddress)) { winnersArray.push({ walletAddress: walletAddress, senderId: eligibleConversations[i].messages.data[0].from.id }); if (winnersArray.length == numberOfWinners) { return winnersArray; } } } ++i; }  
+ throw Error("No eligible addresses");}
+```
+  
+
+
+一旦它创建好了有资格接收 NFT 的地址列表，该函数就会使用 Meta API 向每个选定的用户发送一条消息，通知他们已经成功。在这里，它只是以字节数组的形式将地址列表返回给智能合约。一旦智能合约收到来自 Chainlink Functions 的输出，它将为每个指定的钱包地址铸造一个 NFT。
+
+  
+
+
+![](https://img.foresightnews.pro/202303/a1bca1e8ffb67905cb2b0f3ddc4a5605.jpeg?x-oss-process=style/scale70)用户在被选中赠送 NFT 以后会收到一个通知
+
+  
+
+
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+
+```
+ async function sendNotification(recipientId) { await Functions.makeHttpRequest({ method: 'POST', url: `https://graph.facebook.com/v16.0/${secrets.FACEBOOK\_PAGE\_ID}/messages?recipient={'id':'${recipientId}'}&messaging\_type=MESSAGE\_TAG&message={'text':'Congratulations, you were successful in winning one of our special unique NFTs to celebrate the launch of our new product! Please check your wallet address that you specified in this conversation, you should now be able to see your NFT there, or in the Instagram Digital Collectibles album if you have linked the specified wallet address to your Instagram account.'}&tag=CONFIRMED\_EVENT\_UPDATE&access\_token=${secrets.FACEBOOK\_GRAPH\_API\_KEY}` })}  
+async function main() { const isoStartDate = new Date(args[0]); const numberOfWinners = args[1]; const testerAccounts = JSON.parse(args[2]);  
+ const eligibleConversations = await getEligibleConversations(isoStartDate); if (eligibleConversations === undefined || eligibleConversations.length === 0) { throw Error("No eligible conversations"); }  
+ // conversations are stored based on the latest update: // 1. the newest // 2. old // 3. the oldest //  // we want to find the fastest eligible address to award it with an NFT const sortedEligibleConversations = eligibleConversations.reverse();  
+ const chosenWinners = await chooseWinners(sortedEligibleConversations, numberOfWinners);  
+ const winners = chosenWinners.map(({ walletAddress }) => Buffer.from(walletAddress.slice(2), 'hex'))  
+ chosenWinners.forEach(async ({ senderId }) => { if (testerAccounts.includes(senderId)) { await sendNotification(senderId); } });  
+ return winners;}
+```
+  
+
+
+最后一步是每个赢得奖励的客户都会收到一条私人消息，通知他们成功了。他们将能够在 Instagram 数字收藏品画廊或 OpenSea 上的帐户中看到新铸造的数字收藏品：
+
+  
+
+
+![](https://img.foresightnews.pro/202303/033065039390a9234ab37af5cd6af4e3.jpeg?x-oss-process=style/scale70)在 Instagram 中查看 NFT
+
+  
+
+
+![](https://img.foresightnews.pro/202303/7868a7ae4b5e8063fac9d22b5624e7eb.png?x-oss-process=style/scale70)在 Opensea 中查看 NFT
+
+  
+
+
+请在这个 repo 中获取完整的源代码，以及有关部署和执行此用例的完整说明。
+
+  
+
+
+**Twilio: 基于链上事件产生警告信息**
+
+  
+
+
+Twilio 是一个云通信平台，它提供一组 API 和工具，使开发人员能够将消息、语音和视频功能集成到他们的应用程序中。借助 Twilio，开发人员可以轻松地将实时通信功能添加到他们的 Web 和移动应用程序中，而无需任何复杂的基础设施设置或维护。
+
+  
+
+
+由于去中心化应用程序本身无法访问链下数据和 API，因此它们的功能和与链下服务交互的能力受到限制。借助 Chainlink Functions，dApp 构建者现在可以轻松设置复杂的自定义工作流程，以去中心化地执行任意代码、运行复杂的计算，以及使用 Twilio 的电子邮件、WhatsApp 和 SMS 警报服务等服务。这开辟了许多新功能和用例，从当 DeFi 头寸有被清算的危险时提醒用户，到根据数字协议进行的链上支付发送自动电子邮件发票。
+
+  
+
+
+**使用案例: 音乐艺术家和唱片公司流媒体收入数字协议**
+
+  
+
+
+这个用例的场景是唱片公司和音乐艺术家之间以智能合约形式达成的数字协议。智能合约的设置是根据音乐艺术家在过去一个月收到的 Spotify 音乐流的数量，根据商定的每 Y 流 X 美元的公式支付费用。智能合约有一个功能，当被调用时，执行自定义逻辑来获取最新的流媒体计数并将其与上次获取的计数进行比较，计算所需的付款，然后将所需的金额以以下形式支付到指定艺术家的钱包地址。该智能合约可以作为数字协议及其状态的单一真实来源，数据可以根据需要被其他系统集成和引用。
+
+  
+
+
+智能合约能够联系并找到艺术家的 Spotify 流并向艺术家生成电子邮件提醒的能力不是智能合约自己可以做的。在此示例中，智能合约使用 Chainlink functions 连接到音乐数据 API，就艺术家拥有的 Spotify 流媒体数量达成共识。
+
+  
+
+
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+
+```
+const URL = `https://sandbox.api.soundcharts.com/api/v2/artist/${artistId}/streaming/spotify/listeners`  
+const soundchartsResponse = await Functions.makeHttpRequest({ url: URL, // Get a free sandbox API key from https://doc.api.soundcharts.com/api/v2/doc headers: { "x-app-id": secrets.soundchartAppId, "x-api-key": secrets.soundchartApiKey }, })
+```
+  
+
+
+然后，它进行链下计算以计算支付金额，为艺术家生成一封电子邮件警报，以使用 Twilio 电子邮件 API 通知他们音乐流和支付金额，然后将最新的听众计数返回给智能合约。
+
+  
+
+
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+
+```
+ const emailData = { personalizations: [ { to: [ { email: artistEmail, name: artistName, }, ], subject: "A payout is coming your way!", }, ], content: [ { type: "text/plain", value: `Hey ${artistName}! You've got ${latestListenerCount} listeners which is ${ latestListenerCount - lastListenerCount } more than when we last checked!So you can expect some cool crypto to be sent to your wallet soon!Best,TwiLink Records `, }, ], from: { email: VERIFIED\_SENDER, name: "TwiLink Records", }, reply\_to: { email: "sam.smith+noreply@example.com", name: "Sam Smith", }, }
+```
+  
+
+
+![](https://img.foresightnews.pro/202303/aa3a7a9535f7f1928171be759e305a0e.png?x-oss-process=style/scale70)Twilio email 通知  
+
+
+  
+
+
+一旦智能合约收到听众数量，它就会计算并将所需的 USDC 发送到艺术家的钱包地址，然后将最新的流媒体数量存储在数字协议中，以用于下个月的计算。
+
+  
+
+
+对于这个特定的用例，使用信任最小化智能合约作为数字协议的流程具有多种优势：
+
+* 艺人知道他们一定会获得报酬，并且可以确定唱片公司不能更改协议的条件。
+* 唱片公司向其艺术家付款的流程更加高效，无需手动付款。
+* 该解决方案有很好的可扩展性，并且无论有多少艺术家加入唱片公司，它都是自动化和高效的。
+
+  
+
+
+在此示例中，Twilio 电子邮件用作对艺术家的简单提醒。但它也可以与 Twilio SendGrid 设计编辑器相结合，设计供电子邮件使用的发票，以便向艺术家发送具有专业发票，以配合实时的付款。
+
+  
+
+
+请在这个 repo 中获取完整的源代码，以及有关部署和执行此用例的完整说明。
+
+  
+
+
+**Amazon Web Services (AWS)：将 Web3 与云系统和 API 集成**
+
+  
+
+
+Amazon Web Services (AWS) 等云平台为开发人员提供范围广泛的基于云的计算服务，包括可扩展且可靠的基础设施、存储解决方案、数据库管理、机器学习工具和 serverless 计算。这些服务为当今的大部分数字世界提供支持，这要归功于它们可以以经济高效的方式轻松集成到开发人员的工作流程中。
+
+  
+
+
+将这些云服务集成到 Web3 和智能合约的世界中，会开辟大量潜在用例，我们可以通过 Chainlink Functions 将 Web2 云计算的功能和可扩展性与 Web3 去中心化应用程序的高安全性和信任最小化特性融合在一起。
+
+  
+
+
+**使用案例: 使用 AWS Data API 的通用连接器**
+
+  
+
+
+此用例创建一个 Chainlink Function，它可被用于连接到任何 AWS Data Exchange 数据，使开发人员能够将 AWS 中的第三方数据与智能合约无缝集成。这使得创建更高级 Web3 应用程序成为可能，这些应用程序可以利用 AWS 中可用的大量数据集。
+
+  
+
+
+在这个具体的例子中，Chainlink Functions 将用于连接并从 Rearc Currency Exchange API 获取货币兑换数据，然后将数据返回到链上智能合约。
+
+  
+
+
+![](https://img.foresightnews.pro/202303/3546a6b599884f3800c4882bb9cd8357.jpeg?x-oss-process=style/scale70)AWS 上的 Rearc currency exchange API
+
+  
+
+
+用户可以通过 JavaScript 函数构建一个通用连接器，让它被 Chainlink Functions 去中心化预言机网络 (DON) 中的所有节点执行，然后就 API 调用的结果达成共识。
+
+  
+
+
+用户可以通过自定义代码实现 Functions 执行的 HTTP 请求，从 Rearc 数据集中获取许多环境变量，例如数据集 ID、修订 ID 和资产 ID。
+
+  
+
+
+授权标头是使用 AWS 访问密码和密钥以及签名构建的。请求信息被 SHA-256 算法进行哈希运算，然后写入到请求的标头中，然后由此生成签名信息。有关为授权标头生成签名的更多信息，请参阅 Amazon Simple Storage Service API Reference。
+
+  
+
+
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+
+```
+const signature = buildSignature(method, url, host, secrets.secretKey, secrets.securityToken, date, payload, region, service)  
+const config = { url: `https://${host}${url}`, headers: { 'x-amzn-dataexchange-data-set-id': secrets.dataSetID, 'x-amzn-dataexchange-revision-id': secrets.revisionID, 'x-amzn-dataexchange-asset-id': secrets.assetID, 'X-Amz-Date': date, 'Authorization': `AWS4-HMAC-SHA256 Credential=${secrets.accessKey}/${shortDate(date)}/${region}/${service}/aws4\_request, SignedHeaders=${buildSignedHeaders(secrets.securityToken)}, Signature=${signature}` }}  
+const response = await Functions.makeHttpRequest(config)
+```
+  
+
+
+为了计算签名，AWS 密钥用于派生签名密钥。派生的签名密钥特定于日期、服务和区域。最终签名是待签名的字符串（请求信息中的串联字符串）的 HMAC-SHA256 哈希值，哈希运算中使用的密钥是派生的签名密钥。
+
+  
+
+
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+
+```
+ /\*\* \* To calculate a signature, a special string has to be signed. Canonical request is part of that string. This functions takes various request parts and returns special shaped string that will be hashed later on. Since queries are passed separately we need to remove them from url parameter (if there is any) \* @param {string} method - request method \* @param {string} url - absolute url of the request WITHOUT query parameters \* @param {string} host - host of the request url \* @param {string} securityToken - optional security token when temporary credentials are used \* @param {string} queries - encoded and sorted query parameters \* @param {string} date - current date (ISO 8601) \* @param {string} payload - request body for POST/PUT request, empty string for GET requests \* @returns canonical request string \*/ const buildCanonicalRequest = (method, url, host, securityToken, queries, date, payload) => { url = url.split('?')[0] return method + '\n' + encodeURI(url) + '\n' + queries + '\n' + 'host:' + host + '\n' + 'x-amz-date:' + date + '\n' + (securityToken ? 'x-amz-security-token:' + securityToken + '\n' : '') + '\n' + buildSignedHeaders(securityToken) + '\n' + crypto.createHash('sha256').update(payload).digest('hex') }
+```
+  
+
+
+一旦 Chainlink Functions DON 中的每个节点都执行了 AWS API 调用并且结果达成了共识，它就会被编码为 uint256 并回传到用户的智能合约。可以在 AWS Data Exchange GitHub 存储库中找到此示例的完整源代码。
+
+  
+
+
+此示例仅展示了将智能合约与 AWS 集成的众多方法中的一种。开发人员可以轻松修改通用连接器以适应 AWS 的一些其他功能，让这些功能可以通过 API 访问，例如查询和更新 Amazon 关系数据库服务 (RDS) 上的数据或启用智能合约来执行托管在 AWS 的 Lambda Function。
+
+  
+
+
+**Google: 在去中心化应用中集成 BigQuery 和数据分析**
+
+  
+
+
+Google Analytics 是一种流行的网络分析服务，允许网站所有者跟踪和分析流量和用户行为。它在传统网站中被大量使用，现在它也可以与去中心化应用程序 (dApp) 和智能合约一起使用。
+
+  
+
+
+Google BigQuery 是一个云原生数据仓库，使企业能够实时分析和查询大型数据集。
+
+  
+
+
+将 Google Analytics 和 BigQuery 与智能合约集成的一个具体示例是使用 Chainlink Functions 和 Chainlink Automation 在链上提供有关网站或 dApp 用户统计数据的实时更新。该演示是与 Google 的 Web3 开发者关系工程师 Allen Day 合作创建的。
+
+  
+
+
+**使用案例: 使用 Analytics 的数据来触发链上逻辑**
+
+  
+
+
+此用例展示了开发人员如何使用 Google Analytics 收集的网站数据来驱动和影响链上智能合约中的逻辑。在这个示例中，用户被定向到一个网站，他们可以在该网站上为狗或猫投票，并将他们的选择发送到 Google Analytics。然后，收集的数据会自动上传到 Google Cloud 的 BigQuery 中的数据集。从这里开始，Chainlink Automation 将用于定期调用 Chainlink Functions 以从 Google BigQuery 中提取投票总数，然后将它们返回到链上。智能合约将使用此分析数据来跟踪投票总数。一旦投票期结束，智能合约中的功能将决定谁是获胜者。
+
+  
+
+
+在向 Google BigQuery API 发出请求之前，Chainlink 函数必须请求一个访问令牌：
+
+  
+
+
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+
+```
+const jwtClaimSetObj = { "iss": iss, "scope": "https://www.googleapis.com/auth/cloud-platform.read-only", "aud": "https://oauth2.googleapis.com/token", "exp": currentTimeInSeconds + 3500, "iat": currentTimeInSeconds }  
+ const jwtBase64ClaimSet = Buffer.from(JSON.stringify(jwtClaimSetObj)).toString('base64')  
+ const stringToSign = `${jwtBase64Headers}.${jwtBase64ClaimSet}`  
+ const jwtBase64Signature = crypto.sign('RSA-SHA256', stringToSign, privateKey).toString('base64')  
+ const jwtRequest = { grant\_type: 'urn:ietf:params:oauth:grant-type:jwt-bearer', assertion: `${jwtBase64Headers}.${jwtBase64ClaimSet}.${jwtBase64Signature}` }  
+ const jwtRequestString = querystring.stringify(jwtRequest)  
+ const tokenResponse = await Functions.makeHttpRequest({ url: 'https://oauth2.googleapis.com/token', method: 'post', data: jwtRequestString })
+```
+  
+
+
+一旦获得了这个令牌，就可以使用它构建请求来从 Google BigQuery 中获取数据：
+
+  
+
+
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+
+```
+const getSQLQuery = (propertyId) => { return `SELECT COUNT(DISTINCT user\_pseudo\_id) AS votes FROM \`${secrets.projectId}.analytics\_${propertyId}.events\_intraday\_\*\` WHERE event\_name = 'page\_view' OR event\_name = 'user\_engagement'`}  
+const requestConfig = { method: 'post', url: `https://bigquery.googleapis.com/bigquery/v2/projects/${secrets.projectId}/queries`, headers: { "Authorization": `Bearer ${await getOauthToken(secrets.iss, secrets.key)}`, "Accept": 'application/json', "Content-Type": 'application/json' }, data: { "query": getSQLQuery(secrets.property1), "useLegacySql": false }}  
+const request1 = Functions.makeHttpRequest(requestConfig)  
+requestConfig.data.query = getSQLQuery(secrets.property2)const request2 = Functions.makeHttpRequest(requestConfig)  
+const responses = await Promise.all([ request1, request2 ])The returned results are then combined and sent back on-chain to the consuming smart contract:  
+let item1Votestry { item1Votes = parseInt(responses[0].data.rows[0].f[0].v)} catch { item1Votes = 0}  
+let item2Votestry { item2Votes = parseInt(responses[1].data.rows[0].f[0].v)} catch { item2Votes = 0}  
+console.log(`Item 1 votes: ${item1Votes}\nItem 2 votes: ${item2Votes}`)  
+return Buffer.concat([ Functions.encodeUint256(item1Votes), Functions.encodeUint256(item2Votes) ])
+```
+  
+
+
+一旦投票期限结束，declareWinner 函数会决定哪两个动物是赢家：
+
+  
+
+
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+
+```
+function declareWinner() public onlyOwner { if (charity1Votes == charity2Votes) { winner = 'Charity #1 and #2 tied!'; }  
+ if (charity1Votes > charity2Votes) { winner = 'Charity #1 won!'; }  
+ if (charity1Votes > charity2Votes) { winner = 'Charity #2 won!'; }  
+ emit WinnerDeclared(winner); }
+```
+  
+
+
+可以在 Google BigQuery Demo GitHub 存储库中找到此示例的完整源代码。这个简单的示例仅限于基于两个事件的特定分析数据，但可以作为一种工具来展示将去中心化应用程序与 Google Analytics 和 Google BigQuery 等服务相结合的可能性。
+
+  
+
+
+**去中心化保险: 基于链下天气数据的指数型保险**
+
+  
+
+
+去中心化保险可以使用区块链技术和智能合约来取代传统的保险协议，通过数据驱动的自动化、高度安全、防篡改的智能合约形式的数字协议，为保险公司及其客户提供优质的保险产品，以及即时和自动化的索赔处理。
+
+  
+
+
+将指数型保险世界引入 Web3 的最大问题是高质量、可验证数据的可用性。借助 Chainlink Functions，开发人员可以通过访问和聚合来自多个来源的数据轻松创建自己的链下数据获取机制，然后让 Chainlink Functions 就链下数据聚合的结果达成共识，然后再将数据上链。
+
+  
+
+
+**使用案例: 使用多个数据源的指数型保险合约**
+
+  
+
+
+这个用例展示了开发人员如何从三个不同的数据源中提取天气数据，在链下聚合三个结果，然后让 Chainlink Functions DON 中的每个节点就返回的中值达成共识，然后再将其发布到链上。
+
+  
+
+
+此数据将用于确定是否应向客户支付保险合同。保险合同 ParametricInsurance 将检查给定城市（在本例中为纽约）的温度。如果温度连续三天低于 60 华氏度，合同将向客户支付约定的价值。ParametricInsurance 合约定义了协议条款，例如约定的价值，以及支付合约的参数：
+
+  
+
+
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+
+```
+function fulfillRequest( bytes32 requestId, bytes memory response, bytes memory err) internal override { latestResponse = response; latestError = err; emit OCRResponse(requestId, response, err); // once callback happens, mark the timestamp currentTempDateChecked = block.timestamp; currentTemperature = uint256(bytes32(response));  
+ // if current temperature is under temperature which considered as cold, number of cold days increment if (currentTemperature > coldTemp) { consecutiveColdDays = 0; } else { consecutiveColdDays += 1; }  
+ // pay the client and shut down the contract if(consecutiveColdDays >= COLD\_DAYS\_THRESHOLD) { payoutContract(); } }
+```
+  
+
+
+在 Parametric-insurance-example.js 中，Chainlink Functions 对三个不同的天气数据源执行 API 调用，聚合结果，然后在将天气数据传回 ParametricInsurance 智能合约之前就每个节点的中间结果达成共识。
+
+  
+
+
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+
+```
+const openWeatherRequest = Functions.makeHttpRequest({ url: `http://api.openweathermap.org/data/2.5/weather?lat=${cityLat}&lon=${cityLon}&appid=${secrets.openWeatherApiKey}&units=imperial`,})  
+const worldWeatherRequest = Functions.makeHttpRequest({ url: `http://api.worldweatheronline.com/premium/v1/weather.ashx?key=${secrets.worldWeatherApiKey}&q=${cityName}&format=json`,})  
+const ambeeDataRequest = Functions.makeHttpRequest({ url: `http://api.ambeedata.com/weather/latest/by-lat-lng?lat=${cityLat}&lng=${cityLon}`, headers: { "x-api-key": `${secrets.ambeeWeatherApiKey}` }})  
+// wait data returned by multiple APIsconst [openWeatherResponse, worldWeatherResponse, ambeeDataResponse] = await Promise.all([ openWeatherRequest,  worldWeatherRequest, ambeeDataRequest])
+```
+  
+
+
+可以在 GitHub repo 中找到此示例的完整源代码。这个例子是针对指数型保险的，但这个想法展示了从多个来源消费数据，对其进行聚合等链下计算，然后使用 Chainlink Functions 的 OCR 共识协议进一步验证结果，最后将其交付到链上的案例。
+
+  
+
+
+**总结**
+
+  
+
+
+从社交媒体到云计算和保险协议，Chainlink Functions 使开发人员能够以高度安全和信任最小化的方式轻松安全地访问链下数据和计算，从而开辟了大量的智能合约用例。
+
+  
+
+
+要查看更多用例或提交你自己的用例，我们建议你访问 Use Chainlink Functions，这是一个显示社区提交的 Chainlink 函数用例和示例的网站。
+
+  
+
+
+将世界上所有的数据和 API 引入去中心化应用程序将引发新用例的爆炸式增长，类似于 Chainlink 喂价是 DeFi 增长的催化剂。但 Chainlink Functions 的不同之处在于，Chainlink 不仅仅是一个价格数据预言机 —— 它成为了一个任何数据预言机 —— 使开发人员能够访问链上的任何数据，并在整个 Web3 空间中探索更多的用例。
+
+  
+
+
+欢迎关注 Chainlink 预言机并且私信加入开发者社区，有大量关于智能合约的学习资料以及关于区块链的话题！
+
+  
+  
+END  
+  
+‍‍▲获取 Chainlink 官方最新资讯  
+加入 Chainlink 官方渠道▼
+
+![](https://img.foresightnews.pro/202303/3b448bcab9371465762484a634e88fa4.jpeg?x-oss-process=style/scale70)  
+**Chainlink 官方渠道**   
+微博:  https://weibo.com/chainlinkofficial  
+知乎：https://www.zhihu.com/people/chainlink  
+中文 Twitter: https://twitter.com/ChainlinkCN  
+Twitter:  https://twitter.com/chainlink  
+中文爱好者电报群：https://t.me/chainlinkfans  
+Telegram:  https://t.me/chainlinkofficial  
+Discord:   https://discord.gg/aSK4zew  
+GitHub:  https://github.com/smartcontractkit/chainlink  
+SegmentFault：https://segmentfault.com/u/chainlink  
+QQ 群: 6135525  
+合作联系:  china@smartcontract.com  
+  
+![](https://img.foresightnews.pro/202303/acbd2417f9c7a98a99dbd7dd06376440.gif?x-oss-process=style/scale70)点击“阅读原文”，查看更多
+
+  
+
+

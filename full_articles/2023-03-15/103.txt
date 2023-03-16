@@ -1,0 +1,275 @@
+  
+
+
+**01****DeFi 数据面板**  
+
+
+### 稳定币发行量
+
+  
+
+
+* 截止 3 月 12 日，排名前 5 的稳定币市值为 1308 亿，与上月末的 1307 亿美元基本持平。
+* 受硅谷银行暴雷事件影响波及，USDC 在短时间内发生脱锚，3 月 11 日，价值甚至还不足 90 美分。在美国财政部发表声明后，USDC 价格随之反弹，目前价格已经重回 $0.9961。
+* 由于 BUSD 铸造禁令，币安把 TUSD 作为稳定币替代解决方案之一，并在最近一段时间内大量铸造 TUSD，目前 TUSD 的市值已经超过 20 亿美元，较一个月前，增长超过 100%。
+
+![](https://img.foresightnews.pro/202303/aad3e8d75fb4992b2ef44cc82f5e2367.png?x-oss-process=style/scale70)
+
+### 
+
+### TVL 数据
+
+  
+
+
+* 截至 3 月 12 日全网 TVL 为 712 亿美元，较上一月下降 4.83%。
+* BSC、Polygon 的 TVL 较上个月都有超过 10% 以上幅度的回落（-11.5%，-10.86%）。
+* LSD 赛道 TVL 占比进一步提升，达到 18.2%，质押价值超过 120 亿美元。其中 Lido 占比近 75%。
+* 截止 3 月 13 日，以太坊全网以太质押比例较上月底略有增长，达到 14.71%（Dune@hildobby）。
+
+  
+
+
+![](https://img.foresightnews.pro/202303/2ffb979417412ce1d6766c6ba67be002.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/edc6c47e33b1107c396949f060866373.png?x-oss-process=style/scale70)
+
+### 
+
+### DEX 交易量
+
+  
+
+
+截至 3 月 13 日，DEX 前两周交易量达到 610 亿美元，超过 1 月的全月交易量（602 亿美元）。
+
+3 月 11 日，Uniswap 交易量达 118.4 亿美元，创历史新高，是历史第二高近两倍。
+
+  
+
+
+![](https://img.foresightnews.pro/202303/151bf055f6d84e2d8448e636be94e625.png?x-oss-process=style/scale70)
+
+### 
+
+### 借贷市场
+
+  
+
+
+截至 3 月 6 日数据，主要借贷协议借贷量略有萎缩，回落至 42.18 亿美元。
+
+  
+
+
+![](https://img.foresightnews.pro/202303/8f53ae6471183e11e31abf506410719f.png?x-oss-process=style/scale70)
+
+  
+
+
+  
+
+
+### 
+
+**02****DeFi 信息聚合**### 
+
+### DeFi 要闻
+
+  
+
+
+1. **USDC 受硅谷银行影响短暂脱锚**
+
+  
+
+
+3 月 9 日，硅谷银行 (Silicon Valley Bank) 出售 210 亿美元的可销售证券，遭受了 18 亿美元的亏损，疑似存在流动性问题，股价暴跌超过 60%，市值一日蒸发 94 亿美元。由于用户恐慌情绪引发挤兑，48 小时内 SVB 被监管机构关闭。由于 USDC 发行方 Circle 有 33 亿美元的储备资金在硅谷银行，USDC 受恐慌情绪影响价格出现脱锚、最低跌至 0.86 美元。3 月 11 日，USDC 市值最大跌幅达 16.9%，从 435 亿美元跌至 361 亿美元。3 月 13 日 Circle CEO 确认在 SVB 的存款 100% 安全，USDC 流动性操作将恢复，USDC 重回 0.99 美元附近。截至 3 月 14 日 USDC 市值回到 394 亿美元。
+
+  
+
+
+回顾 USDC 脱锚过程可以发现，Coinbase 停止 USDC-USD 赎回和 Binnance 关闭 BUSD-USDC 兑换加剧了恐慌。根据神鱼分析，链上 MKR 里面有 30 亿的 USDC 抵押铸造 DAI，一旦触发清算将损失惨重，这导致了 DAI 的同步脱锚，此外以 USDC 作为部分抵押的算法稳定币 FRAX 脱锚至 0.95 美元附近。
+
+  
+
+
+不少巨鲸为了避免扩大损失，进行紧急操作损失惨重。一 USDC 用户将所持有的 200 万 USDC 在链上兑换成 USDT 时，因未设置滑点仅收到了 0.05 枚 USDT。
+
+  
+
+
+混乱是少数人的阶梯，这次 USDC 风波中也不乏有人理性呼吁并从中获利。3 月 11 日，对冲基金 North Rock Digital CEO Hal Press 发推分析表示：
+
+  
+
+
+
+> Circle 在 1 到 4 个月的国库券中持有 77% 的储备金，为 USDC 提供了 0.77 的下限；Circle 的总损失预计最多相当于 USDC 的 0.8% 到 1.5%。
+> 
+> 已经选择在 0.88 美金继续买入，此前已在 0.935 美金的价格买入。
+> 
+> 
+
+  
+
+
+一巨鲸地址在 USDC 与美元脱钩时使用 1600 万枚 USDT 购买了 1705 万枚 USDC 来偿还 Aave 上债务，获取了约 105 万美元利润。Vitalik 地址在 3 月 11 日买入 37.8 万枚 USDC 和 5 万枚 DAI。
+
+  
+
+
+在交易所部分关闭 USDC 通道后链上交易变得异常活跃。3 月 11 日，Uniswap 日交易量达到历史最高，是历史第二大交易量的近两倍，Curve 3pool（USDC/USDT/DAI）流动性池单日交易量达 28 亿美元，为该池 TVL（约 3.786 亿美元）的 7.46 倍。
+
+  
+
+
+2. **Euler 事件**
+
+  
+
+
+3 月 13 日，Euler Finance 由于其捐赠和清算的逻辑缺陷，其在以太坊上的一系列交易中被黑客利用，导致项目损失约 1.97 亿美元，包括约 887.75 万枚 DAI、849.14 枚 WBTC、约 3441.4 万枚 USDC、85,818.26 枚 stETH。
+
+  
+
+
+据 0xScope Protocol 监测， Angle Protocol 在 Euler 中有 1760 万美元 USDC；Idle DAO 在 Euler 中有 460 万美元 USDC；SwissBorg 在 Euler 中存入了 6357 枚以太坊和 170 万枚 USDT。
+
+  
+
+
+Balancer 在 Euler Finance 攻击事件中，约 1190 万美元从 bbeUSD 流动性池中被发送给 Euler，涉及 4 个池子。UI 目前不支持现有 LP 退出这些 bbeUSD 池中的头寸，但不存在资金进一步损失的风险。
+
+  
+
+
+Yearn Finance 虽然对 Euler 没有直接的风险敞口，但一些 vaults 间接暴露于黑客攻击。通过使用 Idle 和 Angle 的策略，在 yvUSDT 和 yvUSDC 上的风险敞口总计 138 万美元，由此导致的坏账将由 Yearn Treasury 承担。
+
+  
+
+
+3. **加密银行 Silvergate 破产**
+
+  
+
+
+3 月 9 日加密银行 Silvergate Capital 宣布将关闭运营并自愿清算 Silvergate Bank，彭博社在最新一篇报道中分析了加密银行 Silvergate 关停的原因，包括缺乏多元化、期限错配以及对加密货币的高敞口等。
+
+  
+
+
+### DeFi 观点
+
+  
+
+
+1. **Binance Research: 现实世界资产正在进入 DeFi**
+
+  
+
+
+现实世界资产（“RWAs”）是指存在于链下的资产通过代币化并上链，最终可以用作 DeFi 中的收益来源。RWA 可以代表有形资产，比如房地产、股票、汽车、碳信用额度等任何价值载体。
+
+  
+
+
+通过将 RWA 引入区块链，一方面可以让投资者通过 RWA-DeFi 获得多元化的投资机会和更高的资本效率，而这在传统金融系统中是难以实现的，另一方面也可以让 RWA 的持有人有机会获得更高的资产回报。带来的改变比如有：从传统金融的高中介费变成了 DeFi 的低费用模式（仅需要 gas），从限制性或者较高金额要求的投资门槛变成了无需许可的投资模式，从缓慢结算变成了快速结算，从隐私 / 模糊的订单流变成了透明的订单流。
+
+  
+
+
+高盛、西门子等传统机构和 MakerDAO、AAVE 等加密原生协议都宣布了基于 RWA 的项目，他们正在基础设施和应用层上构建协议，以便将资产无缝上链。到目前为止，市面上已经有基于 RWA 的工具构建的股票、实物资产和固定收益的市场。
+
+  
+
+
+![](https://img.foresightnews.pro/202303/67dd4be4cfb3431454673ddef1a3de52.png?x-oss-process=style/scale70)
+
+目前基于 RWA 的私人信贷市场非常活跃，已经发行了超过 1560 笔由 RWA 支持的私人信贷，总价值超过 40 亿美元。这些贷款的平均利率较高，为 9%-9.75%（传统银行的平均商业贷款利率为 4.9%-9.83%）。
+
+  
+
+
+* Goldfinch 是基于 RWA 构建的私人借贷协议，已经拥有了超过 1 亿美元的活跃贷款，Goldfinch 的借款人主要来自新兴市场，Goldfinch 的贷款能够有效帮助无法获得传统金融机构贷款的借款人。
+* Maple 和 TrueFi 协议正在为借款人取消传统 DeFi 超额抵押的门槛，只要用户是真实存在的，并且能够用 RWA 支持他们的债务。这类协议需要对借款人进行真实信用检查，这模糊了传统金融和 DeFi 的边界。
+
+  
+
+
+总体而言，RWA 所代表的的底层资产有很大的差异，不同的协议会根据不同的底层资产定制其服务。
+
+  
+
+
+![](https://img.foresightnews.pro/202303/dd3f36dc66a0b919bff70c3e8a5a861c.png?x-oss-process=style/scale70)
+
+  
+
+
+迄今为止，最受欢迎的非稳定 RWA 是房地产，RWA 有机会改变房地产行业，通过对于房地产的财产价值进行代币化，可以让小投资者也能参与到这类资产的投资中。
+
+  
+
+
+2. **稳定币的进化**
+
+  
+
+
+赵长鹏在 AMA 中表达关于稳定币的看法，认为法币支持的稳定币不会长久存在，稳定币会不断进化迭代。长期看来，10 到 20 年后，非法币支持的稳定币可能会占主导地位。
+
+  
+
+
+BitMEX 创始人 Arthur Hayes 撰文发表对加密行业稳定币的看法，认为 MakerDAO 等超抵押稳定币和 TerraUSD 等算法稳定币根本没有必要，前者效率低下，后者风险巨大。尽管 USDT、USDC、BUSD 可能会继续存在，但它们的存款基础总体增长幅度是有上限的，不利于加密市场流动性的进一步扩大。Arthur 提出建立以比特币为币基的稳定币 NUSD（The Satoshi Nakamoto Dollar），NUSD 由比特币价值与一份“比特币与美元价值的反向永期互换协议的空单”组成，因此可以通过衍生品市场维持币值的稳定。
+
+  
+
+
+### DeFi 前瞻
+
+  
+
+
+1. DeFi 结构化产品协议 Sector Finance 已上线主网并推出激励计划，参与者可以存入聚合器收益金库或单一策略金库，以赚取以 USDC 或 ETH 支付的实际收益。Sector Finance  有三个核心产品：聚合器 Vault、单一策略 Vault、风险引擎，总 TVL 为 103 万美元。
+2. 3 月 8 日，去中心化交易协议 Maverick Protocol 上线以太坊主网，该项目采用动态自动化做市商模式，流动性提供者可以定制化流动性分配范围，并押注资产的未来价格，而不是标准的流动性分配。该项目曾在 2022 年 2 月完成 800 万美元融资，Pantera Capital 领投。
+3. Gitcoin 发布推文公布 gtcETH（Gitcoin Staked ETH Index）的详细信息。gtcETH 是 Gitcoin 与加密货币指数协议 Index Coop 社区合作创建，通过 ETH 质押奖励为 Gitcoin Grants 提供资金。gtcETH 将基于 Index Protocol 构建，并包含 Rocket Pool、Lido 和 StakeWise 流动性质押代币。
+
+  
+
+
+**03****响指 DeFi 雷达数据**  
+
+
+*radar.snapfingers.com* 是响指旗下的 DeFi 策略信息平台，通过挖掘和展示 DeFi 策略数据，并提供有价值的策略筛选，降低用户操作 DeFi 门槛。目前上线 18 个策略，涵盖生息、衍生品、流动性管理等多种策略类型。
+
+  
+
+
+过去两周主流加密货币在震荡下跌中迎来硅谷银行破产事件导致的暴跌行情，BTC 在 3 月 10 日一度跌破 20000 美金。价格下跌对于部分策略可能产生一些影响，APY 统计 18 个策略中七成以上收益均在 30% 以下，不过本期同样没有出现负收益情况。
+
+  
+
+
+TVL 方面，Diamond 协议 Unibot V2 最高，达到 $19.63 M，Ribbon Finance 的 STETH Coverd Call 策略 TVL 排在第二，为 8,494.19 SETH 。
+
+  
+
+
+Ribbon Finance 的 Covered-Call 策略在熊市表现较好。因为看跌期权价格上涨，在到期日以期权约定价格的价格出售持有资产，从而实现收益。特别是 AAVE 在持续下跌行情中对应策略 APY 达到了 70.68%。Coverd Call-T-AVAX-C 策略 APY 达到了 43.66%。其他如 SAVAX、STETH、RETH 算上抵押收益，他们的 APY 均在 35% 以上。
+
+  
+
+
+牛市策略与市场中性策略表现不佳，Opyn 的 Zen Bull ETH 以及 Toros Finance 的 Yield-USD 策略在过去两周 APY 仅有个位数。
+
+  
+
+
+  
+
+
+**END**  
+**关于 Snapfingers Research**Snapfingers Research 是 Snapfingers 旗下的研究平台，专注于各公链上 DeFi 及 TradeFi 研究。  
+**相关链接**Twitter *@SnapFingersLabs**Mirror.xyz/snapfingersresearch.eth*公众号：响指研究所

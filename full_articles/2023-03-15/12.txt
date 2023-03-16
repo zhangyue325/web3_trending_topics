@@ -1,0 +1,108 @@
+3 月 14 日下午 3 点 14Filecoin 社区成功推出 Filecoin 虚拟机（FVM）。此次发布是 Filecoin 更大路线图中具有里程碑意义的里程碑，该路线图旨在为数据经济的三个关键部门（存储、计算和内容交付）带来开放访问和公共可验证性。
+
+FVM 的推出开启了 Filecoin 总体规划的最后一步，该规划旨在将大规模计算和为全球最大的去中心化存储网络提供支持网络规模应用程序的能力。
+
+此外，FVM 的推出巩固了 Filecoin 作为第 1 层区块链的地位，为开放数据经济提供了独特的动力。许多领先的 web3 项目已经宣布计划使用、支持或集成 FVM 来升级他们的服务。
+
+![](https://img.foresightnews.pro/202303/36d46506571834e0f30486379e761f3d.png?x-oss-process=style/scale70)
+
+其他更多详情：[filecoin.io/blog/posts/fvm-is-live-on-mainnet/](http://filecoin.io/blog/posts/fvm-is-live-on-mainnet/)
+
+目前从 Fil 主网到 Fvm，只有 F4 开头的地址才能直接映射，F1 开头的地址，需要做一个中转。下面讲下具体怎么操作：
+
+1）配置 Fvm 主网[chainlist.org](http://chainlist.org)，链接 OKX Wallet。输入 Filecoin,依次按照下图步骤。
+
+![](https://img.foresightnews.pro/202303/71d9478229bc9ba3bc18366db9ae20f8.png?x-oss-process=style/scale70)
+
+1.2 手动配置
+
+1.2.1 点开 OKX Wallet 左上角小三角
+
+![](https://img.foresightnews.pro/202303/3433492b77f44d39275082361c8afa2b.png?x-oss-process=style/scale70)
+
+1.2.2 选择添加自定义网络
+
+![](https://img.foresightnews.pro/202303/8aaf9ad71ca7a0bc50c0be5e0237f33e.png?x-oss-process=style/scale70)
+
+1.2.3 填写以下配置参数
+
+Filecoin VM Master List:
+
+RPC Info：
+
+[https://api.node.glif.io](https://api.node.glif.io/) <https://rpc.ankr.com/filecoin> Chain ID ：314 Currency ：FIL Or just use Chainlist： (<https://chainlist.org/chain/314)>
+
+![](https://img.foresightnews.pro/202303/3d190ff8aa6d9ff197324c1492b1c891.png?x-oss-process=style/scale70)
+
+2) 添加 Fvm 链之后，登陆[https://glif.io](https://t.co/NOC0cK2yuq)，链接 OKX Wallet 则会生成 0x 对应的 Fil 主网地址，以 F4 开头。
+
+![](https://img.foresightnews.pro/202303/f8035f5ea2f44937f2ffd6b53166c5c8.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/fd5f63f6b619c224ea6d3289459144a6.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/9783b01c350b3188d1e1931b67d25b57.png?x-oss-process=style/scale70)
+
+3) 充值，这里注意找支持 f4 提币的 CEX 交易所。对于目前只能提取 f1,f2,f3 地址的 cex,这里需要通过转换来提到 evm。
+
+3.1 点击[https://glif.io](https://t.co/NOC0cK2yuq)，点右上角链接钱包
+
+![](https://img.foresightnews.pro/202303/e406350b8ca36a1bf62e0eaae461da0d.png?x-oss-process=style/scale70)
+
+3.2 选择 burner wallet
+
+![](https://img.foresightnews.pro/202303/ca2f0a11287e979d95d39760c39e7331.png?x-oss-process=style/scale70)
+
+3.3 创建一个新钱包
+
+![](https://img.foresightnews.pro/202303/b6d78f30dc1fb0b5d5fa31a0430b1f95.png?x-oss-process=style/scale70)
+
+3.4 备份助记词。然后验证
+
+![](https://img.foresightnews.pro/202303/844ad622f77c92e01a5bae6e637d4e84.png?x-oss-process=style/scale70)
+
+3.5 验证完成后生产新的 f1 地址。
+
+![](https://img.foresightnews.pro/202303/5a570abd17e11d1b0d57c6a44d88f721.png?x-oss-process=style/scale70)
+
+4）从 OK 等 CEX 提币到 f1 地址，会到账到 glif 钱包地址。然后选择 Send FIL
+
+![](https://img.foresightnews.pro/202303/896e8bf3ff7cdfdee32369a20b3e72c2.png?x-oss-process=style/scale70)
+
+5) 输入 0x 地址，以及数量，点确认，会直接转到 0x 的地址。
+
+![](https://img.foresightnews.pro/202303/f9d649ccb1dbfba85908408643d217a6.png?x-oss-process=style/scale70)
+
+6) 从 fvm 提回 fil 主网或者 cex 充值地址
+
+6.1 打开[https://glif.io](https://t.co/NOC0cK2yuq)，OKX Wallet 钱包连上，
+
+![](https://img.foresightnews.pro/202303/ef36a675c8ac376f38f481c1156b79e4.png?x-oss-process=style/scale70)
+
+6.2 选择 Forward FIL
+
+![](https://img.foresightnews.pro/202303/034cb9b47a4de561c1d8dc56e9d4df06.png?x-oss-process=style/scale70)
+
+6.3,输入 f1 或 f2 或 f3 地址，把币提回交易所，或者主网。
+
+![](https://img.foresightnews.pro/202303/a0705afd40cee2600012683e718156d7.png?x-oss-process=style/scale70)
+
+以上为 Filecoin 的 Fvm 配置教程。有兴趣的可以自行研究。
+
+7) 下面分享 Filecoin 相关生态:[lenster.xyz/posts/0x1fb9-0xb3](https://lenster.xyz/posts/0x1fb9-0xb3)
+
+
+
+---
+
+👤 Linker: <https://linktr.ee/ZFlab>
+
+🐦 Twitter: <https://twitter.com/ZF_lab>
+
+🚀 Lenster:<https://lenster.xyz/u/zf_lab>
+
+👾 Discord: <https://discord.gg/Gy5RhbMyCW>
+
+💬 Telegram Group: <https://t.me/cryptozflab>
+
+🪞 Subscribe to us on Mirror & Collet Entry: <https://mirror.xyz/zflab.eth>
+

@@ -1,0 +1,145 @@
+原文链接：https://flow.com/post/flow-sdk-for-unity-pushing-the-boundaries-of-web3-gaming
+
+本文由 Flow 大使 Jing 翻译整理。
+
+![](https://img.foresightnews.pro/202303/7895279144edc6709c43b3e76395a3ed.png?x-oss-process=style/scale70)Flow 区块链上的游戏开发迎来全面升级。
+
+  
+
+
+**Unity ( 主流游戏开发引擎 ) 刚刚更新了其资源库，涵盖了一个去中心化游戏的技术类别，并展示了全新的 Flow SDK for Unity**。这些面向游戏开发者的工具集将使 Web3 游戏开发变得更加容易和透明，现在比以往任何时候都更容易在 Unity 游戏中使用 Fungible Tokens、基于 Flow 的数字收藏品和其他链上元素构建 Web3 原生游戏。无论您是已在 Flow 上开发者，还是刚刚开始使用 Web3，我们的 SDK 都将帮助填补去中心化技术和本地游戏开发之间的鸿沟。
+
+  
+
+
+利用 Unity on Flow 的强大功能将为游戏开发者释放无限的可能。它还有助于将我们的网络范围扩展到传统游戏，为 Flow 生态开拓新的机遇。
+
+  
+
+
+  
+
+
+**Web3 游戏开发者面临的问题**
+
+区块链技术在数字游戏领域稳步发展，但是传统游戏开发者常常不知从何开始以实施这些令人兴奋的技术。一些关键问题经常困扰着他们，包括：
+
+* 拥有区块链上的数字资产与传统交易或着可下载内容比有何优势？
+* 我们可以在区块链上做哪些**自定义服务器**或**第三方服务**无法做到的事情？
+
+Flow 提供了一套优秀的学习资源，包括其智能合约语言 Cadence 和一个在线开发环境，以帮助降低学习难度。然而，即使有了这些起点，开发者仍然可以从专门的游戏开发领域中受益。
+
+  
+
+
+与此同时，使用 Unity 游戏引擎的游戏开发者由于缺乏资源和陡峭学习曲线而经常受到限制，当他们试图将区块链和游戏开发世界连接起来时，无法使用他们熟悉的工具开发出优秀的游戏体验。
+
+  
+
+
+  
+
+
+**Unity x Flow：创建强大的去中心化游戏**
+
+然而一切就此改变。
+
+  
+
+
+现在，开发者可以利用 Unity 的强大原生游戏开发工具，同时利用 Flow 的闪电般的交易速度、无限的可组合性和几乎不存在的 Gas 费用。这将在 Flow 上解锁更加沉浸式的 Web3 游戏体验，具有无限的可组合性和无限的扩展潜力。
+
+  
+
+
+Flow SDK 是从游戏开发者的角度在 Unity 中构建的，具有链接、教程和清晰的示例，以更完整的方式简化使用 Flow 强大的功能。传统理解的游戏概念，如排行榜、匹配和透明的仲裁系统，都可以在 Flow 上实现，同时提供游戏端代码和支持它们的智能合约。
+
+  
+
+
+  
+
+
+**打造体验，而不是基础设施**
+
+Flow SDK for Unity 不仅能够在游戏中交易 Web3 代币，更能帮助开发者理解和充分利用区块链工具。这使得他们能够基于真正的所有权构建更丰富的体验，同时通过使用基于链上逻辑的无服务器架构消除大部分基础设施成本。要了解关于游戏中链上逻辑的示例，请查看此教程。
+
+**教程：**https://developers.flow.com/tools/unity-sdk/samples/flow-words-tutorial
+
+  
+
+
+从一开始，Flow 就是为面向主流大众而构建的。通过使用 Flow SDK for Unity，开发者可以简化日常玩家的用户体验。例如，采用**无需钱包的登入流程**为大众用户创造了熟悉的入门体验，帮助他们逐步进入 Web3，最小化前期的学习曲线并减少流失率。
+
+  
+
+
+这只是一个开始。随着开发过程中的反馈和社区的支持，SDK 中将添加更多的示例和教程，并进行开发流程的完善。请定期查看最新更新。
+
+  
+
+
+我们迫不及待地想要看到您使用这些新工具创造的东西，并期待继续与您一起推动 Web3 游戏。请前往 Unity 资产商店查看 **Flow SDK for Unity** （https://github.com/onflow/UnityFlowSDK），或在我们的 GitHub 存储库中查看 2.0 预发布版本。
+
+  
+
+
+有兴趣在 GDC 期间（https://gdconf.com/）与 Flow 团队会面吗？请通过 Discord 与我们联系！
+
+  
+
+
+**关注 Flow**
+
+**什么是 Flow 福洛链？**  
+
+
+  
+
+
+Flow 福洛链是一个快速，去中心化，且对开发者友好的区块链，旨在为新一代游戏、娱乐应用程序提供动力的数字资产的基础。Flow 是唯一一个由始至终为消费者提供出色体验的 Layer-1 区块链团队。其团队创造的 dApp 包括：**CryptoKitties**、**Dapper Wallets**、**NBA Top shot**。
+
+  
+
+
+CrytoKitties 于 2017 年推出时便快速成为加密市场最受欢迎的 dApp，因其成功而导致以太坊堵塞。在 Flow 上运营的 NBA Top shot 也已成为增长最快的 dApp，在公开发布后的 6 个月创造了 7 亿美金销量。正因为 Flow 公链的可扩展性和消费者友好的体验，让这一切成为可能。目前有 1000 多个项目正在 Flow 链上筹备中，我们期待看到一个伟大的生态系统蓬勃发展。
+
+  
+
+
+**关于 Dapper Labs**
+
+Dapper Labs 是一家位于加拿大的全球顶尖区块链服务商，在 2017 年年底通过 CryptoKitties 收藏游戏成功进入⽤户视野，并且因为加密猫的爆⽕导致以太坊拥堵，从而推出 Flow 公链以及全新的开发语言—— Cadence，旨在吸引更多的开发者在 Flow 上开发应⽤。   
+
+
+  
+
+
+**Flow 的合作伙伴们：**
+
+![](https://img.foresightnews.pro/202303/95f8fe556f0313fc4a7f2e0fcd0207d3.png?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/c0b49cbacb1653d1202354b3e08f0c5a.png?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/5e17579410a249676d6de8d2d475c219.png?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/a9f6179d0f8936e527ecd4958f073c1a.jpeg?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/246583ee51fe9d44381d89c3d3c9d79b.png?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/9d6f68b298e828cce8ea14abb9457611.png?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/cecd51775a2a6d3e3eb3dab3e4c0be2e.png?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/c91132733c1a3ea74fcb204c5722e465.png?x-oss-process=style/scale70)我们欢迎越来越多的小伙伴加入 Flow 星球，为星球增添色彩！
+
+  
+
+
+**Flow 官网：**https://zh.onflow.org/
+
+**Flow 论坛:**https://forum.onflow.org/
+
+**Flow Discord:**
+
+https://discord.com/invite/flow
+
+**Flow CN Telegram:** https://t.me/flow\_zh
+
+**Flow B 站：**https://space.bilibili.com/1002168058
+
+**Flow 微博：**
+
+https://weibo.com/7610419699
+
+**Flow CSDN:**
+
+https://blog.csdn.net/weixin\_57551966?spm=1010.2135.3001.5343
+
+  

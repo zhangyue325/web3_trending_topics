@@ -1,0 +1,18 @@
+Oasis 在 130 多个国家拥有 1000 万注册用户，近日活跃用户接近 100 万，用户每天平均花费 110 分钟进行线上运动、直播、音乐会和棋牌等活动。Oasis 提供移动端、VR 和 Web 端版本。最近，Oasis 宣布了重大 Web3 链上升级，并在 BSC 上推出了 Oasis Origin。发稿时，Oasis Origin 在 BNB CHAIN & CyberConnect Connected 2023 Web3 Social Hackathon 中荣获第一名，为创造下一代 Web3 SocialFi 赋能！
+
+![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c3aa03de-8e70-4c33-b836-631665a322ab/%E5%86%A0%E5%86%9B.jfif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230315%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230315T080533Z&X-Amz-Expires=86400&X-Amz-Signature=5304c7cfcb70df566147fbc1128e662e7797ba3030db533416dc7bbe477c45a2&X-Amz-SignedHeaders=host&x-id=GetObject)
+
+### Oasis Origin：BSC 链上新版本
+
+Oasis Origin 已在 BSC 链上正式启动，具有 MPC 登录及三部分特色功能：World、Club 和 Square。 用户可以在“World”功能中组织小型音乐节，进行语音聊天、一起观看电影或直播。 “Club"功允许用户使用成千上万的资产和道具进行创意组合，定制其空间的主题和内容。最新的“Square”场景，支持数千人同时互动。 "Square"将主要服务于产品发布、AMA 和 Community Call 等活动。 Oasis Origin 将在“Square”功能模块下为不同项目方开启独家空间，支持项目团队举办更具沉浸感和互动性的大型社区活动。目前，弹幕、互动游戏、资产空投、资产拍卖和白名单分发等功能正在筹备中，后续还将结合 iPollo 渲染技术实现 web 端的 3D 场景扩容，推出千人互动的活动场景。
+
+![](https://cryptosherry.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F0106eb21-40cf-412c-b5c9-1c70807b28ba%2F%25E5%259C%25BA%25E6%2599%25AF4%25E5%25AE%25AB%25E6%25A0%25BC.png?id=4d4bfb3d-0142-483f-966a-39ccc1aa559f&table=block&spaceId=497de0cf-7396-412d-bf82-15cab3083185&width=2000&userId=&cache=v2)
+
+### 与 CyberConnect ccProfile 无缝集成，实现链上新体验
+
+Oasis Origin 允许用户绑定 CyberConnect ccProfile。用户使用钱包登录 Oasis Origin，在帐户创建过程中直接引导生成 ccProfile NFT。如果用户已经拥有 ccProfile NFT，则 ccProfile ID 将用作其用户 ID，并将其链上好友关系自动集成在 Oasis Origin 中。用户将收到名为“Link3 Space”的空间空投，以连接其 Link3 数据，并在 Oasis 的空间中显示其链上资产和其他 Link3 页面的内容。用户的链上好友可以互访并在空间中交易 token 和 NFT。 Oasis Origin 将进一步集成 CyberConnect 的 API，实现双向社交关系通信。用户可以在 Oasis 的场景中执行多个功能，包括订阅、关注、点赞和发布。
+
+![](https://cryptosherry.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F391b616a-9b50-421d-99fe-d23df8bad5cc%2FCyberspace.png?id=62fcefdf-640f-4d0c-94f3-69c0ae05bc94&table=block&spaceId=497de0cf-7396-412d-bf82-15cab3083185&width=2000&userId=&cache=v2)
+
+新上线的 Oasis Origin 在 BNB CHAIN & CyberConnect Connected 2023 Web3 Social Hackathon 中荣获冠军，证明了 Oasis Origin 在 SocialFi 和 Metaverse 中有着无限的潜力。不久后，我们将详述 Oasis Origin 相对于其他 SocialFi 项目的创新之处——Oasis AI。敬请期待！
+

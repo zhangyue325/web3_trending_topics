@@ -1,0 +1,58 @@
+![](https://img.foresightnews.pro/202303/842-1678869172206.jpeg?x-oss-process=style/scale70)
+
+DeFi 又迎来了收益耕作（yield farming）的好季节。
+
+如果你正在寻找稳定币以及主流资产的高收益机会，请不要错过这篇 thread，我将在接下来分享一些不错的 DeFi farming 方案。
+
+需要特别申明的一点是，在 DeFi 世界中进行 yield farming 不可能完全脱离风险，智能合约漏洞、rug pulls、无常损失……这些潜在的风险会永远存在。 你应该做的是正视风险，并正确地管理风险 —— 分散资金，不要把鸡蛋都放在一个篮子里。
+
+1. Convex Finance，pETH - ETH pool
+---------------------------------
+
+pETH 是一种由 JPEG'd Protocol 发行的 ETH 衍生资产。用户可在 JPEG'd Protocol 上抵押自己的 NFT 并借出 pETH，从而释放其 NFT 价值的流动性。
+
+当前，如果你在 pETH - ETH 池中的存入流动资金，并将相应的 LPs 代币质押在 Convex Finance 上，即可获得 28% 的 APY 奖励。
+
+![](https://img.foresightnews.pro/202303/842-1678869187952.jpeg?x-oss-process=style/scale70)
+
+由于 pETH 的价格锚定 ETH，所以该池基本没有无常损失风险。
+
+该池的主要风险在于，由于 pETH 的价值由用户抵押的 NFT 所支撑，所以当作为抵押品的 NFT 价格大规模崩溃时，JPEG'd Protocol 如果未能有效清算则将产生坏账。这一可能性并不高，但如果发生这种情况，pETH 可能会脱离锚定。
+
+2. Vela，VLP
+-----------
+
+自上个月上线以来，去中心化衍生品交易所 Vela 的交易量已超出了所有人的预期。
+
+VLP 是 Vela 上的流动性凭证代币，可使用 USDC 铸造生成。VLP 铸造者将会基于 Vela 的交易量获得奖励，目前的质押 APY 大于 120% ，其中包括  60% 的平台费用收益和 10% 的资金费率收益。
+
+![](https://img.foresightnews.pro/202303/842-1678869203456.jpeg?x-oss-process=style/scale70)
+
+需要注意的是，由于 Vela 的运行机制本质上是在撮合交易者与流动性提供者（VLP 铸造者）对赌，所以如果交易者总是获胜，VLP 质押者将会蒙受损失。不过，只要平台的交易量保持高位，VLP 都会是一个不错的 USDC 生息机会。 
+
+鉴于 Vela 团队已预告了接下来的一连串动作（交易竞赛、测试阶段空投、正式上线等等），该平台的交易量有望继续增长。
+
+3. StakeDAO，frxETH
+------------------
+
+这是 ETH 的另一个高额收益机会，年化收益率约为 22% 。
+
+frxETH 是由 Frax Finance 推出的的流动性质押衍生代币，其收益主要来源于 Frax Finance 利用手中的巨额 veCRV 投票权，在 Curve 流动性池内争取到的 CRV 激励。
+
+![](https://img.foresightnews.pro/202303/842-1678869217378.jpeg?x-oss-process=style/scale70)
+
+如果你将 frxETH 存入 Stake DAO，该协议会将其存入 Curve gauge,，并通过锁定在 CRV Liquid Locker 中的 CRV 来进一步提高激励。
+
+根据 DeFiLlama 的数据，该池在过去 30 天内平均 APY 为 15% 。
+
+4. Velodrome，LUSD - MAI pool
+----------------------------
+
+过去几天的闹剧证明了一件事情，那就是我们需要真正去中心化的稳定币，而不是依赖于 USDC 等中心化稳定币。LUSD 和 MAI 均属于此类，其中 LUSD 仅可通过抵押 ETH 铸造生成。
+
+![](https://img.foresightnews.pro/202303/842-1678869229664.jpeg?x-oss-process=style/scale70)
+
+当前，该策略的收益率为 17.5% ，过去 7 天的平均 APY 则为 14% 。没有前几个那么高，但至少 LUSD 和 MAI 作为稳定币似乎是「稳定」的。
+
+这便是我近期所整理的，随着时间推移已被证明相对安全的一些高额收益机会。
+

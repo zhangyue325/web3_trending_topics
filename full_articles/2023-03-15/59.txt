@@ -1,0 +1,83 @@
+在 ETHDenver 的 Devtopia 舞台上，Scroll 的联合创始人 Haichen Shen 发表了主题为 Scroll 构建 zkEVM 和 zk Rollup 的挑战的演讲，并同步了最新 Alpha 测试网的情况。
+
+**Scroll 介绍**
+-------------
+
+![](https://img.foresightnews.pro/202303/6ffa02759d25e27220228416c0194d56.png?x-oss-process=style/scale70)
+
+Scroll 是一个 EVM 等效的 zk-Rollup 以太坊扩容方案
+
+![](https://img.foresightnews.pro/202303/8840a19b510965d2dfe54889c676166b.png?x-oss-process=style/scale70)
+
+在演讲最开始，Haichen 强调了 Scroll 一直以来的原则，一是以社区驱动的方式同社区开放构建，二是确保安全性和稳定的版本发布，三是强调证明者和排序器去中心化的重要性
+
+![](https://img.foresightnews.pro/202303/7e3be0c809dde9cb32b67de70e617e02.png?x-oss-process=style/scale70)
+
+以下是 zkEVM 开发的社区贡献者，其中大多数来自于 Scroll 团队和 PSE 团队，还有一些其他的社区成员。
+
+![](https://img.foresightnews.pro/202303/478ce7843d998689f396f3309382a057.png?x-oss-process=style/scale70)
+
+**测试网最新进展**
+-----------
+
+2 月 27 日，Scroll 在 Goerli 上线了 Alpha 测试网。Alpha 测试网目前已经是 EVM 等效的，证明已经可以在 Goerli 测试网上得到验证。
+
+![](https://img.foresightnews.pro/202303/0d1db2c308caecee89df9e3717057235.png?x-oss-process=style/scale70)
+
+而 Alpha 测试网的发布，意味着 Scroll 已经达到了路线图的第三阶段。
+
+![](https://img.foresightnews.pro/202303/0834add86cac84b0453950f6abcedc07.png?x-oss-process=style/scale70)
+
+下一步就是第四阶段：zkEVM 的主网上线。
+
+![](https://img.foresightnews.pro/202303/b3d5cda719b02ef5d04b4ad0bea49efc.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/7a3fb13a9d92ff738a97a6a4240ba9cc.png?x-oss-process=style/scale70)
+
+对于社区关心的距离主网上线的进度，Haichen 公布了目前仍需要完成的任务，首先是要构建完整的 zkEVM 电路，目前还缺少一些不常见的错误约束，也还需要添加一些预编译合约。随后会进行 zkEVM 电路和跨链桥合约的审计，然后进行最后的优化。
+
+![](https://img.foresightnews.pro/202303/30fa1d045ecb1e1acd47bb67e43fbb24.png?x-oss-process=style/scale70)
+
+**构建 zkEVM 和 zkRollup 的挑战**
+---------------------------
+
+演讲的后半部分，Haichen 分享了 Scroll 在构建 zkEVM 和 zkRollup 过程中遇到的挑战。主要从三个方面来说，第一是编写 zk 电路，第二是编写 zkEVM，第三是构建 zk-Rollup。
+
+![](https://img.foresightnews.pro/202303/e9408dc26c2dee1b27d3ba3760835706.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/068ee21dd56a833a4b327199bd657d74.png?x-oss-process=style/scale70)
+
+**编写 zk 电路**
+
+在编写 zk 电路中，主要有两个难点。其一是开发的逻辑，正常程序中根据输入 x，y，函数 foo 得到输出 z，而在 zk 电路中，则是根据输入 x，y，foo(x,y)，输出是否有效的判断，因此在 zk 电路中需要考虑到有效和无效的所有情况，确保电路的约束成立。
+
+![](https://img.foresightnews.pro/202303/82b39849c970157e2719d1e35e181e88.png?x-oss-process=style/scale70)
+
+其二是有限域的操作，有限域是包含有限个元素的域，这些元素通常是素数。在所用的 BN-254 曲线中为 254 位的值，因此要表示 EVM 的 256 位，则需要拆解成两部分处理。
+
+![](https://img.foresightnews.pro/202303/fa382967650288aac69efc18a91155ba.png?x-oss-process=style/scale70)
+
+**编写 zkEVM**
+
+在编写 zkEVM 中，Haichen 拆解了 zk 和 EVM 两个部分。EVM 中有三个组成部分，Executor, Stack, Memory。
+
+![](https://img.foresightnews.pro/202303/9d77d49bb23fb55649d38c7b4f509f75.png?x-oss-process=style/scale70)
+
+zk 部分则需要对 EVM 的执行过程中进行一一的约束。EVM 电路将约束 Executor 正确执行；RAM 电路将约束 Stack，Memory 的读写正确；Bytecode 电路将约束 EVM 读取的 bytecode 的正确性；MPT 电路将约束存储的读写正确；TX 电路将约束交易的有效性；ECDSA 电路将约束交易中签名的正确性；Keccak 电路则将约束 Keccak 哈希函数的正确计算；还有其他的一些约束等等。所有这些约束组合在一起，就组成了 zkEVM。
+
+![](https://img.foresightnews.pro/202303/d5aef298a0ef6f5d0ef4aba578098e6b.png?x-oss-process=style/scale70)
+
+**构建 zk-Rollup**
+
+在构建 zk-Rollup 方面，去中心化证明者网络需要对证明者进行激励。
+
+![](https://img.foresightnews.pro/202303/ea5b00eea166beb059628507a2108465.png?x-oss-process=style/scale70)
+
+当后续去中心化排序器后，情况会变得更复杂，需要协调证明者网络和排序器网络，目前 Scroll 正在进行开放研究，欢迎有想法的开发者加入研究探讨。
+
+![](https://img.foresightnews.pro/202303/a4523459c50fa63dcfefb53c85a15bee.png?x-oss-process=style/scale70)
+
+对于想要体验 Scroll Alpha 测试网，需要寻求帮助的用户，以及想要加入 Scroll 的小伙伴，可以分别扫描下方的 Testnet, Discord, Hiring 二维码。
+
+![](https://img.foresightnews.pro/202303/d729d8947d16269b01b8efc69862b872.png?x-oss-process=style/scale70)
+

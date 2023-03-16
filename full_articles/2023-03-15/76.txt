@@ -1,0 +1,41 @@
+![](https://img.foresightnews.pro/202303/92bd4342749cb41f6479347ff756fcb1?x-oss-process=style/scale70)We are thrilled to announce that Firefly, a Web3 social aggregator, has integrated with KNN3 Network’s TopScore 6-dimensional social scoring system.
+
+Through this partnership, you can explore the Lens protocol’s most active users on Firefly, with a selection of the top 5,000, including over 190 TopScore NFT holders and for those who possess the special “Your 2022 Wrapped on Lens” NFT, eligible profiles will be distinguished with a unique checkmark, providing additional authentication for these users.
+
+Firefly also offers access to a combination of off-chain and on-chain content, allowing for a more comprehensive browsing experience. With the assistance of TopScore, finding compatible and engaged users within the Lens ecosystem on Firefly has never been easier.
+
+This partnership will appeal to a wider user base and help users exploring Web3. We look forward to observing how it will evolve into a mutually rewarding meaningful association.
+
+### **Why choose TopScore?**
+
+Topscore is a revolutionary product that aims to bring changes in the current scenario of data and AI monopoly by large organizations. Our goal is to break this monopoly and democratize access to advanced algorithms and AI models, making it accessible to the general public. We believe that individuals should have the right to their personal data and the freedom to express themselves creatively, and we aim to promote this through our product. By popularizing the use of AI and Web3 technology, we hope to improve people’s efficiency and productivity, and contribute to the development of a creative economy.
+
+TopScore provides a Web3 social score that measures one’s social activity on decentralized platforms. It is a social-graph based metric used to rank users with their influence, appeal and contributions in the community, such as creating and promoting contents or participating in discussions. TopScore can be used by decentralized social networks to incentivize social activities and reward active users.
+
+For Lens users, TopScore gives a measure of social reputation mainly from the following 6 dimensions:
+
+1. Influence (Follow relationship),
+2. Campaign (Topic maker),
+3. Engagement (Social activist),
+4. Creation (Content creator),
+5. Collection (Content collector),
+6. Curation (Referral & Promote).
+### **Future Perspective / Roadmap of Firefly:**
+
+In the future, **Firefly** will:
+
+* Provide and recommend more updated NFT projects
+* Enhance Lens native features including log in, post, mirror, collect, etc
+* Maximize the value of one’s social graph with a portable, blockchain-powered solution.
+* Accelerate user’s mass migration from traditional platforms to Web3
+#### About Topscore
+
+TopScore is a user-friendly tool that enables users to create, build, and earn their social presence. Revolutionize Web3 social strategy with an AI-powered Creator Productivity Tool.
+
+#### About KNN3 Network
+
+KNN3 Network is a one-stop Web3 User-centric DataFi solution for d/Apps and smart contracts. KNN3 allows d/Apps & smart contracts to interact with cross-platform user-centric data in multiple algo-friendly ways.
+
+[Website](http://www.knn3.xyz/) |[Twitter](https://twitter.com/Knn3Network) |[Discord](https://discord.gg/sQbqDT4hxs) |[Mirror](https://mirror.xyz/knn3.eth) |[Medium](https://medium.com/@KNN3_Network)
+
+![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=d33e3e191bc8)
