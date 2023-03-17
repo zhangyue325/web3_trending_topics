@@ -1,0 +1,65 @@
+![](https://img.foresightnews.pro/202303/2f8875b770507b8e98f4f8505b8bf16e.png?x-oss-process=style/scale70)everPay 是 everVision 旗下的基于 Arweave 构建的跨链支付协议，为 Arweave 生态项目和用户提供实时、低手续费的代币支付结算服务。
+
+随着 Arweave 生态的发展与日趋成熟，会有越来越多的用户都参与进来。而用户在使用生态项目所提供的服务与功能时，有可能需要通过充值资产到 everPay 来完成支付。
+
+因此存在一种现状是 — — 用户在使用 everPay 的充值、转账和提现等功能时，可能会因为对功能使用的认识不够充分而导致资产损失。在这种背景下，有必要撰写一篇简易的教学指引来供用户参考，从而保障用户的财产安全和提高用户的产品使用体验。
+
+那么，让我们先通过下面这幅图，来直观地了解下**资产在 everPay 上的流通路径**。
+
+![](https://img.foresightnews.pro/202303/edeb3732a253534cc95faae8e260463b?x-oss-process=style/scale70)💡 **目前，everPay 支持的网络、钱包：**
+
+网络：Ethereum、Arweave、Moonbeam、BSC、Conflux、PlatON。
+
+钱包：Metamask、Wallet Connect、Huobi Wallet、Coinbase Wallet、BitKeep、Safeheron、Math Wallet。
+
+1. [如何把资产从 everPay 放到「钱包」？](https://www.notion.so/14eb3874fdbc4714afb788711000dd83)
+2. [如何把资产从 everPay 放到「中心化交易所」？](https://www.notion.so/14eb3874fdbc4714afb788711000dd83)
+3. [如何把资产从「钱包」放到 everPay？](https://www.notion.so/14eb3874fdbc4714afb788711000dd83)
+4. [如何把资产从「中心化交易所」放到 everPay ？](https://www.notion.so/14eb3874fdbc4714afb788711000dd83)
+5. [如何把资产从 everPay 放到另一个地址上的 everPay？](https://www.notion.so/14eb3874fdbc4714afb788711000dd83)
+如果您还不太了解如何把您的资产移转到 everPay，或者把资产从 everPay 移转出去，希望这篇演示教程可以帮到您。您可以根据您的需求找到下列对应的详细演示步骤：
+
+（若无特别说明，文章的中心化交易所以「币安交易所」为例，资产以「AR 代币」为例。）
+
+### 一、如何把资产从 everPay 放到「钱包」？
+
+1. **点击 Arconnect/Metamask 钱包，复制「钱包地址」。**
+![](https://img.foresightnews.pro/202303/359b9485825bcffaac6779da76866879?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/2f028638cc9bb1c1a7cbb66079469131?x-oss-process=style/scale70)连接 Arconnect/Metamask *钱包，提现 AR 代币可以选择三种网络（Arweave、Ethereum、Moonbeam）。*
+
+![](https://img.foresightnews.pro/202303/c53740b1fef568ef90f18cd3348a48ad?x-oss-process=style/scale70)### 二、如何把资产从 everPay 放到「中心化交易所」？
+
+1. **先在 everPay 中把 AR 代币提现到 Arconnect 钱包，具体步骤参看“**[**如何把资产从 everPay 放到「钱包」**](https://www.notion.so/14eb3874fdbc4714afb788711000dd83)**”。**
+2. **打开币安交易所中 AR 代币的「充值」界面，充值网络选择「Arweave」，接着复制对应的「充值地址」。**
+* *想在币安交易所把充值 AR 代币，只能通过 Arweave 网络。*
+![](https://img.foresightnews.pro/202303/99fb01abc8d5dc4d57b086f141be645f?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/4e874b1960e777b4156a1dae52ee3d20?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/5866d5ea53033e89bcb39709b72e10e5?x-oss-process=style/scale70)💡 若从 everPay 放到「中心化交易所」的资产为 Ethereum \*\*\*\* 网络资产（如 ETH 代币），
+
+则**步骤为**：在 everPay 中提现到 Metamask 钱包→获取币安交易所中资产的 Ethereum \*\*\*\* 网络的充值地址→在 Metamask 钱包中的 Ethereum \*\*\*\* 网络充值到币安交易所→充值成功。
+
+步骤相似，则不再演示。
+
+风险提示：请不要从 everPay 直接提现到中心化交易所账户，这有可能会带来无法挽回的资产损失。
+
+### 三、如何把资产从「钱包」放到 everPay？
+
+![](https://img.foresightnews.pro/202303/3ad3520b60ea40971380e18a6f0bef89?x-oss-process=style/scale70)### 四、如何把资产从「中心化交易所」放到 everPay ？
+
+### 1. 在交易所通过 Arweave 网络提现资产（以 AR 为例）
+
+1.1 **点击 Arconnect 钱包，复制「钱包地址」。**
+
+![](https://img.foresightnews.pro/202303/359b9485825bcffaac6779da76866879?x-oss-process=style/scale70)1.2 **打开币安交易所的「提现」界面，转账网络选择「Arweave」，接着复制对应的「Arconnect 钱包地址」，输入需提现的 AR 代币数量后进行提现。**
+
+* *币安交易所里* *AR 代币的提现只能通过 Arweave 网络。*
+![](https://img.foresightnews.pro/202303/9ef457424131a31a9575c58e79583a7c?x-oss-process=style/scale70)* *目前 Arweave 网络支持的资产包括：AR、Ardrive、VRT。*
+![](https://img.foresightnews.pro/202303/3ad3520b60ea40971380e18a6f0bef89?x-oss-process=style/scale70)### 2. 在交易所通过 Ethereum 网络提现资产（以 ETH 为例）
+
+![](https://img.foresightnews.pro/202303/2f028638cc9bb1c1a7cbb66079469131?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/84cbb117264abda5d50ca531f5d708c6?x-oss-process=style/scale70)* *目前 Ethereum 网络支持的资产包括：ETH、AR（WAR）、WBTC、USDT、USDC、DAI、UNI、SOS、XSGD、FOX、MASK、BANK、T4EVER。*
+![](https://img.foresightnews.pro/202303/f1c03872a3aac3521bdaa0295626d8f9?x-oss-process=style/scale70)### 五、如何把资产从 everPay 放到另一个地址上的 everPay？
+
+* everPay 之间的转账是实时到账，请登录另一个地址的 everPay 查看资产。 至于 everPay 是怎么做到实时到账的，有兴趣您可以阅读此 [文档](https://everpay.zendesk.com/hc/zh-cn/articles/4404205069593-everPay-%E8%BD%AC%E8%B4%A6%E6%98%AF%E5%A6%82%E4%BD%95%E5%81%9A%E5%88%B0%E5%AE%9E%E6%97%B6%E5%88%B0%E8%B4%A6%E7%9A%84-)。
+* 收款账户可以是以太坊地址、Arweave 地址或 ANS 域名。
+![](https://img.foresightnews.pro/202303/c3cdb16bbaa28c3595ae73574f2fefed?x-oss-process=style/scale70)💡 若您想了解 everpay 更多信息与功能使用，请查看 [everPay — 帮助中心](https://everpay.zendesk.com/hc/zh-cn)。
+
+🔗 **关于 PermaDAO 更多信息：**[**Website**](https://www.notion.so/4c0bd73f5a1c4410ad72a32e1718ebb6) **|** [**Twitter**](https://twitter.com/perma_daoCN) **|** [**Telegram**](https://t.me/+UEnIssIHTn0wZDc1) **|** [**Discord**](https://discord.gg/y6CmaAdVD8) **|** [**Medium**](https://medium.com/@permadao) **|**[**Youtube**](https://www.youtube.com/@permadao)
+
+![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=d5d0194699cd)

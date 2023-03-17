@@ -1,0 +1,105 @@
+[「StarkNet 中文」社区](https://linktr.ee/starknet_zh)和 [Nurstar](https://twitter.com/0xNurstar) 推出全新采访系列《对话 Starknet 建设者》，采访 Starknet 生态建设者们，带大家深入了解 Starknet 生态建设的重要进程，从细节中发现 Alpha。本系列涵盖全链游戏、开发团队、 基础设施等多领域，我们一起与 Starknet 项目背后的优秀团队对话。
+
+第三期邀请到 [Starkscan](https://twitter.com/StarkscanCo) 团队的 Sean，通过采访一起探索 Starkscan 的神奇之处吧！与 L1 的 Etherscan 浏览器相比，结合 L2 和加密特质打造的 Starknet 区块浏览器优势更加显著。深入团队技术层面，并展望未来 Starkscan 将整合的服务或新功能。本期内容精彩，不容错过！
+
+采访英文版由 Nurstar 发布，点击查看完整内容 👇
+
+<https://nurstardeepdive.substack.com/p/interview-with-sean-from-the-starkscan>
+
+
+
+---
+
+### 关于 StarkScan
+
+Starkscan 作为 Starknet 新一代的区块浏览器，支持显示不同交易类型、追踪 Starknet 的 ERC20 代币合约及数据、CLI 验证器在短时间内完成 Cairo 合约验证、分别查询测试网和主网数据、允许在本地开发测试网 Devnet 使用浏览器等功能。
+
+![](https://img.foresightnews.pro/202303/1c3294156b53996fe89b4c6e4c19cf6d.png?x-oss-process=style/scale70)
+
+### 精彩对话
+
+* 了解 Sean 的加密领域初体验和第一个实现产品
+* Starkscan 选择构建在 StarkNet 的原因和优势
+* 分享关于 NFT 交易市场 Aspect 的看法见解
+* 深入信息跨链桥的运作和潜在用例
+* 对于 Starknet 新手和开发人员的相关建议
+本文对话经过编辑，以下是翻译后的采访内容
+
+
+
+---
+
+前言
+--
+
+我构建的第一个产品是 [Blockchain Demo](https://www.blockchaindemo.io/)，当时我正在学习比特币区块链的工作原理。这个产品是对比特币白皮书的致敬，它将区块链的工作原理可视化，便于和我一样想要了解区块链的人们来理解和学习。
+
+关于 Starkscan
+------------
+
+
+
+---
+
+然而，我们目前所接触的 NFT 更倾向金融化，没有版税和市场费用。我认为从长期看，NFT 想要吸引更多用户，不能仅仅只成为金融工具。
+
+我认为和以太坊相比，L2 因为 gas 费用更低廉，NFT 在 L2 上拥有更加广阔的设计空间。例如，Arbitrum 的 TreasureDAO、Immutable、Polygon 都提供了远超以太坊的游戏体验感。以太坊上的 NFT 更像是价值存储，而在可扩展的区块链上，NFT 则更具实用性，可以用于游戏、在线体验或实体展示等方面。
+
+
+
+---
+
+例如，我们解码的是 felts 和 Cairo 代码，而在以太坊的 EVM 环境中则是 Solidity。我们还针对 L1 和 L2 之间的消息提供了 Rollup 功能，这在其他仅关注 L1 的区块浏览器中是没有的。最重要且最关键的区别则是帐户抽象。由于 Starknet 原生支持帐户抽象，区块浏览器必须理解帐户合约，而在以太坊外部帐户环境（EOA）中的传统区块浏览器则不需要。
+
+
+
+---
+
+现在，我们致力于主网重置计划，因为 Cairo v.0 版本合约需要迁移到 Cairo 1.0 版本。
+
+在未来计划中，我们将不断改善 Starknet 开发者体验。我们的未来路线图中还有很多可以期待的强大功能，请保持关注！
+
+技术层面
+----
+
+当你在 Starknet（L2）和以太坊（L1）之间桥接资金时，这一点非常重要。
+
+当你从 L1 发送资金到 L2 时，消息会返回 L1 并进行最终确定。你将自动在 L2 上收到资金，因为 L2 理解来自 L1 的消息。
+
+当你从 L2 发送资金到 L1 时，消息将发送到 L1，你需要通过手动在 L1 上接收你的资金。手动取款是必需的，因为 L1 本质上不理解来自 L2 的消息。
+
+这是因为在构建以太坊时，并不知道未来还会有 L2 的存在。然而，当 L2（例如 Starknet）建立时，它是以以太坊为基础的 Rollup 链。
+
+
+
+---
+
+当 L2 稳定成熟时，我们就可以开始考虑 L3。
+
+当 L3 出现时，我们也确实希望支持 L3 的区块浏览器。
+
+未来展望
+----
+
+
+
+---
+
+Starkscan - Sean： \*\* 我的建议是找到你的独特之处，并带入 Starknet 生态系统中来。
+
+例如，我是一名前端开发人员，我一开始在编写 Starknet 的 JS 库，从那时起我就开始涉足 Starknet 开发。
+
+我认为我的前端开发和设计经验真正帮助我们为 Starknet 生态系统做出了贡献。
+
+
+
+---
+
+🎴 关注 Starkscan 推特：<https://twitter.com/StarkscanCo>
+
+🔮 Discord 社区：<https://discord.com/invite/Pdt4Wr6gx7>
+
+💙 前往 Starkscan 网站查询数据：<https://starkscan.co/>
+
+📑 Starkscan Github 代码库：<https://github.com/starkscan/starkscan-verifier>
+

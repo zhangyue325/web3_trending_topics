@@ -1,0 +1,140 @@
+自 22 年 GMX 代币上线币安后，GMX 的各项数据接连创下新高。截至目前，GMX 的平台总交易量已超过 1000 亿美金，AUM 超 10 亿美金，独立地址超过 16 万，分发给用户的费用超过 1 亿美金。
+
+![](https://img.foresightnews.pro/202303/3e956c394151183c050a269e1c9ad94f.png?x-oss-process=style/scale70)
+
+*https://dune.com/gmxtrader/gmx-dashboard-insights*
+
+在正式上线至今近 1 年半的时间里，GMX 一直在质疑的声音下运行，但在真实收益（real yield）叙事下， GLP 的「对赌」模式渐渐被人们所接受。
+
+![](https://img.foresightnews.pro/202303/4acc1a4104823591930075d378064324.png?x-oss-process=style/scale70)
+
+*GMX 机制图解*
+
+  
+
+
+![](https://img.foresightnews.pro/202303/4617892fa972881bc1131c6fe1e1401e.png?x-oss-process=style/scale70)
+
+*GMX 的 forks*
+
+  
+
+
+1. Mummy Finance
+----------------
+
+Mummy Finance 是由 Fantom 基金会支持的 GMX fork。机制上，Mummy Finance 在冷启动代币的分发上新增了使用 NFT 发放 esMMY 并给予了 NFT 持有人 80% 的国库 FTM 分红。在费用分配上将 MLP 的比例由 70% 下调至 60%，其中 5% 分配给开发团队，5% 用于回购并添加 Equalizer（Solidly fork）的 MMY-FTM LP。此外，除了 MLP 中有 FTM 作为一揽子资产外，其余机制与 GMX 相同。
+
+截至目前 （数据均为 3 月 5 日），Mummy finance 的平台交易量已超过 4 亿美金， MLP 已有近 1500 万美金的 TVL，产生了约 78 万美金的费用，数据并不亮眼。
+
+![](https://img.foresightnews.pro/202303/32806e554664e83eb952c06549871862.png?x-oss-process=style/scale70)
+
+*https://app.mummy.finance/#/dashboard*
+
+  
+
+
+2. Vela Exchange
+----------------
+
+Vela Exchange 的前身是 Dexpool，一个 OTC 市场。而严格意义上讲，Vela 也不完全是 GMX fork，其还融合了 Gains Network 的机制。Vela 效仿 Gains 的 gDAI，使用 USDC 铸造 VLP 且可以进一步抵押获取 eVELA。Vela 允许用户交易多品种的资产，并支持用户更多管理头寸的功能，例如当前头寸多次止盈、随时更改仓位中抵押品的数量、随时增加已开仓位的杠杆等等。
+
+![](https://img.foresightnews.pro/202303/579554d8a44755ea77a840e709c7c733.png?x-oss-process=style/scale70)
+
+由于没有波动资产，VLP 持有者只有在交易者获利时才会亏损。协议费用的 50% 以 USDC 形式分配给 VLP 持有人，10% 以 eVELA 形式分配给 VLP 质押者，5% 以 USDC 形式分配给 VELA 质押者，10% 以 eVELA 形式分配给 VELA 质押者，其余 25% 归项目所有。
+
+截至目前，拥有 VC 支持的 Vela 在上线短短几周内拥有近 30 亿美金的交易量，产生了仅 150 万美金的交易费用。配合近期的交易激励活动，Vela 数据仍呈现明显的上升趋势。
+
+![](https://img.foresightnews.pro/202303/1b3b941fcf64ea56b6e44988e7a1d0e3.png?x-oss-process=style/scale70)
+
+*https://dune.com/unionepro/vela-exchange-stats*
+
+3. Mycelium
+-----------
+
+Mycelium 是由前 BitMEX 创始人 Arthur Hayes 支持的协议，由 TracerDAO 合并而来。其 GMX fork 产品名为 Perpetual swap。其中，MLP 的经济模型与 GLP 几乎相同，非稳定币资产的交易费用为 0.4%，稳定币资产为 0.03%。MYC 质押奖励来自 10% 的平台费用，有 14 天提取时间。对于 LP 部分奖励的 esMYC，没有复投的乘数奖励；且选择线性赎回的周期缩短，相比 GMX 变为 6 个月。
+
+此外，与 GMX 最大的不同是 Mycelium 宣称可交易品种更广泛，涉及外汇、商品期货等，但目前除 BTC、ETH 外仅支持 WTI 原油期货。截至目前，Perpetual swap 的 TVL 只有约 600 万美金，但总交易量达到 17 亿美金，产生了超过 160 万美金的协议费用。
+
+![](https://img.foresightnews.pro/202303/dec60164e9c5638f3a9b692947e2c750.png?x-oss-process=style/scale70)
+
+*https://swaps.mycelium.xyz/dashboard*
+
+4. MUX Protocol
+---------------
+
+MUX 的前身是 MCDEX。**在彻底转型做 GMX fork 的过程中，团队在其 V2 版本中做出了一个非常亮眼的改动，即做一个 Perp 聚合器，自建了流动性路由。**允许用户一键开仓将杠杆头寸合理分配至不同衍生品协议。在聚合交易的过程中，因为不同平台支持的最大杠杆差异与清算阈值的不同，MUX 为用户提供了额外的保证金已保护用户蒙受损失。
+
+![](https://img.foresightnews.pro/202303/45511d99948d8e1041232f56dd4aa606.png?x-oss-process=style/scale70)
+
+此外，MUX 还聚合了用户的稳定币与波动资产，利用一部份去做衍生品市场的流动性，其余放到其他生息协议中为用户赚取额外收益。在未来推出的 V3 版本中，MUX 还将支持跨链聚合的功能，统一 Arbitrum、Optimism、BNB Chain、Avalanche 和 Fantom 之间的衍生品流动性。
+
+截至目前，MUX 协议的交易量呈现了相较其他 fork 协议更健康、稳定地增长趋势，7 日交易量超过 6000 万美金，独立地址数也超过 1 万。
+
+![](https://img.foresightnews.pro/202303/85416c062c11080e42470b6d02a18094.png?x-oss-process=style/scale70)
+
+*https://stats.mux.network/public/dashboard/13f401da-31b4-4d35-8529-bb62ca408de8*
+
+5. Level Finance
+----------------
+
+BNBChain 上的 Level Finance 也是一个十分有特色 GMX fork 协议。Level 利用分级基金的思路，为不同的比例的一揽子资产赋予了不同的激励与收入分配，为用户提供了多种配比的 ETF 选择。
+
+![](https://img.foresightnews.pro/202303/31b1dee72781fcbce0697d84e6f975c9.png?x-oss-process=style/scale70)
+
+*https://app.level.finance/*
+
+值得注意的是，Level 采用了双代币模型，LVL 作为激励代币补贴所有 Tranche，LGO 作为纯治理代币参与 50% 协议费用的再分配（另 50% 通过 lyLVL 分配给所有 Tranche）。此外，Level 基本的非稳定币资产的交易费用为 0.2%，稳定币资产为 0.01%，动态范围为 0 - 0.6%。
+
+![](https://img.foresightnews.pro/202303/3a31b6d47c4cc7bb81825e53d1d1c464.png?x-oss-process=style/scale70)
+
+*https://app.level.finance/*
+
+截至目前，交易员为 Level finance 贡献了超过 30 亿的交易量， 数据虽不如 Vela 爆炸，但也稳定运行了近 2 个月，但其双代币的博弈设计还有待考验。
+
+![](https://img.foresightnews.pro/202303/2758ab5b698f25951e7a500fa1f0f9b6.png?x-oss-process=style/scale70)
+
+https://app.level.finance/analytics/overview
+
+6. El Dorado Exchange
+---------------------
+
+在 BNBChain 上，除了 Level finance，还有一个做了微创新的 GMX fork — El Dorado Exchange。**El Dorado 在 Level 的分级概念上又加入了由协议费用支持的稳定币 EUSD，60% 分配给 ELP，40% 分配给 gEDE 持有人。**
+
+由于 EUSD 需要维持锚定，因此还有在抵押品价值波动时候维持锚定的 Stake & Bond 机制：
+
+* 当价格上涨抵押率大于 100% 时，启用 Stake 机制，用户质押 EUSD 获得利息奖励，EUSD 总量增加，抵押率回到 100%；
+* 当价格下跌抵押率低于 100% 时，Bond 机制启动，用户将 EUSD 出售给协议获得相当于打折的 EDE 代币。协议销毁用户出售的 EUSD，并将抵押率逐渐拉回 100%。
+![](https://img.foresightnews.pro/202303/39c49db6cf9148694bde530edb6b1db8.png?x-oss-process=style/scale70)
+
+*https://docs.ede.finance/tokenomics/usdeusd*
+
+数据上，由于与 Level 过于同质化，El Dorado 数据上被压了一头。El Dorado 已在尝试多链运行，即将已扩展至 Arbitrum。
+
+如今的 GMX 仍有不少缺陷：中心化的预言机喂价、没有双边的资金费率、GLP 未平仓合约量的限制、熊市单边下跌可能的踩踏，也曾发生过在 Avalanche 上因 AVAX 深度差预言机价格被操纵，致使 GLP 蒙受损失的情况。而 20 年中的 Uni V2 也饱受诟病：LP 只能靠协议撒币补偿巨大的无常损失、没有足够护城河（Sushiswap Vampire Attack）、资金利用率低等。
+
+可以预见的是，GMX 上述机制的不足也将很快被 X4 的合成资产版本迭代或由新协议做出更灵活的创新。目前，有几个有资本支持且仍未被广泛关注的协议值得跟踪：
+
+1. Lighter，由 a16z 支持的衍生品协议，机制不详。
+2. Vest Exchange，由 Jane Street 支持的类 GMX fork。
+3. Perennial Labs，推出的由合成资产支持的 AMM 衍生品市场，很多机制非常类似 GMX 的 X4 版本，但底层是 Opyn。
+这里面最值得期待的莫过于 Perennial。**具体来讲，Perennial 提供了一个无需许可的建立衍生品市场的工具，而并非是单纯的提供交易市场。**其设置了一套衍生品的交易规则，并允许任何人去设置其中的关键参数来建立自己的市场。
+
+![](https://img.foresightnews.pro/202303/34fe78f4a307b209d6158d1c000869cf.png?x-oss-process=style/scale70)
+
+*https://perennial.finance/*
+
+Perennial 通过点对池的交易模式，让每个公开的市场都包括了市场建设者、流动性提供者和交易者三个角色。文档显示，当前 Long-SQTH 池就是由 Opyn 的多签地址充当运营商。而其他两个市场：以太坊的多头和空头市场，都是由 Perennial 多签地址管理。
+
+首先，作为市场的建设者仅会从衍生品市场费用中收取一部分作为收入，而不会被强制要求提供流动性。对市场建立者而言，其需要设置的参数包括了利用率曲线、费用结构、杠杆和最大流动性。其中费用结构（开仓、平仓）和最大流动性都比较好理解，**关键是利用率曲线和杠杆两个参数。**
+
+利用率曲线，即市场利用率和资金费率之间的函数关系。Perennial 表示这项参数参考了 Aave 与 Compound 关于借贷利用率和利率的关系，在 Perennial 中，交易者需要向流动性提供者支付资金费用，而该费用的高低取决于资金利用率（即交易者开仓的名义价值和流动性提供方开仓的名义价值比例），利用率越高资金费用就越高，但在 80% 前保持较低的增长率，在达到 80% 之后，为了平衡市场两边的流动性，资金费用将大幅升高，而市场仅仅由多空双方 PvP，所有的设计与 GMX X4 的构想不谋而合。
+
+![](https://img.foresightnews.pro/202303/fd0bdea85ce4a97da2c759b6ff626146.png?x-oss-process=style/scale70)
+
+*https://perennial.finance/*
+
+目前，Perennial 还处于初期阶段，如果 GMX X4 出现，二者将成为直接竞争对手。
+
+总的来说，GMX 在上线 1 年半后才全面被社区接受，整个「价值」发现的过程也与 Uniswap 的出现极为相似。或许某些时候，并不是某个赛道跑不起来，而是时候未到。
+

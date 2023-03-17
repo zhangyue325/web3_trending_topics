@@ -1,0 +1,510 @@
+**总结来说**
+--------
+
+### **1.热门币种方面：**
+
+RIO（token）：一个数字和现实世界资产的 Web3 生态系统，测试网已经上线，Alpha 版本还有 14 天上线，代币 24 小时交易量 127 万美金，近期交易额增大，用户交易频繁；
+
+POOLZ（token）：去中心化跨来 IDO 平台 Poolz Finance，昨日协议遭受攻击，代币闪崩 97%，目前在底部震荡，官方暂未公告解决情况和方案，代币 24 小时交易量 247 万美金；
+
+LQTY（token）：近期去中心化稳定币的龙头，币安刚刚上线，受益于去中心化稳定币 USDC 事件及近期币安的布局，昨日代币 LQTY 价格创下新高后有所回调，24 小时交易量 2.2 亿美金，用户关注度非常高；
+
+FET（token）：GPT-4 正式发布引发 AI 板块炒作；过去 24h 交易量 2.5 亿美金，，AI 板块头部项目 FET 价格表现强势，在市场回调时抗跌性强，资金活跃；
+
+BUNNY（token）：BSC 上的早期 dex，项目推特已数个月未更新，昨日突然出现 300% 的 1 小时放量拉升，目前代币价格在高位震荡，活跃度非常高，暂未知晓原因；
+
+GPT（token）：Daomaker 上首发的高热度项目，币价逆势创新高，24h 交易量达 2402 万美金，活跃度非常高，目前 Bitget 已上线 GPT，用户可到 Bitget 进行交易；
+
+GNS（token)：Gains Network 是一个建立在 Arbitrum 和 Polygon 上的衍生品交易平台，为用户提供加密货币和外汇交易选项，并提供杠杆交易。代币上线 Binance 后出于阴跌趋势，近期有筑底突破迹象，过去 24 小时涨幅 20%；
+
+Gridex (GDX)：Arbi 上新的订单簿现货交易所，昨日刚开放空投领取，持币地址已达 144,530 个，24 小时交易量 15 万，价格 24 小时涨幅达 450%，活跃度高；
+
+GMX（token)：衍生品 Dex 龙头，在近日回调行情中价格表现强势，仍在进行突破行情冲击前高，24 小时涨幅 8.6%；据有大的 KOL 传言 Arbitrum 即将进行空投，无法辨别真伪，用户可持续关注；
+
+### **2.热门 NFT 方面：**
+
+Mirror Community NFTs（NFT）：Web3 内容平台 Mirror 推出 NFT 订阅铸造“Subscribe to Mint”功能，目前已在以太坊主网、Optimism 和 Polygon 链上部署，旨在支持创作者和藏家之间的互动。目前铸币已经结束，Mirror Community NFTs 有 94,348 个链上 holders。
+
+NFTNYC（NFT）：在 Opensea 上做 Public Sale 的 NFT 项目，用户持有 NFT 可以参与今年四月份在纽约举办的 NFTNYC 大会，额外其他的活动福利；目前该 NFT 在 Opensea 的起售价格是 0.35 ETH，已经仅售出了 166 个（一共 750），热度一般；
+
+Credit DAO Proof（NFT）:NFT，0x...1809（https://opensea.io/collection/credit-dao-proof-v2），web3 信用协议，在 3 月份进行了 5 次代币销毁，目前其项目 NFT 持有地址达 102,705 个，用户数较多；
+
+Tanasinn（NFT），OWL 的竞品，用字符组成不同图案的 NFT 项目方。今日刚刚完成 Mint，社区有一定的 Fomo 情绪，目前发售 2631 个 NFT，持有地址数 698 个；上线不到 24 小时产生了 139 个 ETH 的交易量，目前地板价为 0.025 个 ETH，交易热度不错；
+
+### **3.热门 DAPP 方面：**
+
+Galxe（Dapp）：Galxe 是一个 Web3 凭证数据网络，通过凭证数据正在构建一个基于 Web3 的去中心化身份系统。 Galxe 为每个钱包用户创建了一个「Galaxy ID」，集成了用户在该平台所获得 NFT、OAT 和链上凭证信息，近期举行 Galxe 社区任务第 2 季，总奖池 15K GAL，为期四周，完成不同任务可获得相应奖励，同时还和 YoMetaverse、1inch 等联合推出了活动，日常运营非常频繁；
+
+Benji bananas（Dapp)：Animoca 旗下的 web2 游戏，可获得 apecoin 奖励和游戏代币 Primate；近日开启 JungleParty 冒险的第 2 部分，完成游戏任务可获得奖励，游戏交互增加明显；
+
+Hunters on chain（Dapp):一款免费的动作角色扮演游戏，Boomland 是资深的游戏开发商，已发布过 200 多款游戏，超过 15 亿次下载；Hunters On-Chain 是手游 Hunt Royale 的 web3 版本，该手游已有 700 万次下载；Web3 版本游戏 Hunters On-Chain 目前已成为 Polygon 上 UAW 第二的游戏；
+
+ReadON archive（Dapp)：去中心化的内容分发平台，通过收集优秀的文章并结合用户画像，为用户推送定制化内容；其弹幕节已经正式结束，将为用户根据排名分配 3.5 万美元及 100 万积分奖励；
+
+Camelot（Dapp)：Arbi 上早期的原生 Dex，近日进行项目 Perpy 打新，xGRAIL 持有人享受 150 万美元的白名单额度，代币 24 小时上涨 20%，交易量 500 万美金，热度较高；
+
+TaskON（Dapp）：定位是一个 Web3 链上任务平台，推特有 9 万人关注，其中 KOL75+ 关注了项目，近期和 Bit.Store、Tugan、MetaLine、Element 等项目方做了活动，官网 Similarweb 月访问量 29.5 万次，主要流量来源是尼日利亚、印度尼西亚、越南、土耳其、乌克兰等，项目关注度很不错；
+
+Wombat Dungeon Master（Dapp）：：NFT 质押冒险游戏，3 月 16 日推出第九季游戏，wax 账号登录、推荐用户可获得免费 NFT，UAW 暴涨 23 倍，Similarweb 月访问量 52.4 万次，主要流量来自德国、俄罗斯、墨西哥、英国、乌克兰等；
+
+### **4.Twitter 热议方面：**
+
+VIX （Token），VIXCO，某个韩国本土项目方，做 DeFi、线下零售等业务。24 小时代币交易量 25 万美金，在韩国交易所 Bithumb 上线，没有在 DEX 上建池子，热度一般可以持续关注；
+
+DQUICK（Token），用户质押 QUICK 获得 dQUICK，dQUICK 用户获得协议产生的 0.04% 的手续费用，近期 Quickswap 和 gains network 合作推出的交易对收益较高，dQUICK 作为奖励来源；代币在 Quickswap 上有交易池子，目前 24 小时交易量有 2 万美金，池子交易深度为 36 万美金，交易热度一般；
+
+Swiss Credit（TradFi），瑞士信贷银行开盘跌近 30%，续创历史新低。另据英国金融时报，瑞信已向瑞士央行请求支援，恳请瑞士央行显示出愿意对其施以援手的姿态。美国财政部则表示，正在密切观察瑞信的状况。瑞士央行、瑞士金融市场监督管理局也发表联合声明，将向瑞信提供流动性支持。
+
+### **5.区域热搜方面：**
+
+CryptoGPT（Token）：近期在 Makerdao 上进行 私募轮 SHO 的项目，募资计划完成不错。项目预期筹集 500K BUSD，实际募集 2.89M BUSD，超募 478%；目前 Bitget 首发上线该项目，用户参与热情不错，昨日随着 AI 板块异动，有一定财富效应；
+
+### **正文**
+
+*数据统计时间： 3 月 16 日 10:30*
+
+*数据来源：Dune、Dapps、Twitter、Google*
+
+*说明：*
+
+*1）新增活跃用户：是指在该公链过去 24 小时新产生，并在链上有交互行为的钱包地址*
+
+*2）存量活跃用户：是指在该公链 24 小时前产生，但过去 24 小时在链上有交互行为的钱包地址*
+
+*3）Dapp 日活 (UAW: unique active wallets)*
+
+*4）TGE (Token Generation Event)*
+
+**1.公链画像 - ETH 公链**
+-------------------
+
+### **1.1 用户画像**
+
+ETH 活跃用户总数：448,939
+
+ETH 新增活跃用户数：73,238 相比昨日增减幅：-5.65%
+
+ETH 存量活跃用户数：375,701 相比昨日增减幅：-1.37%
+
+核心数据：ETH 昨日新增活跃用户数 73,238，相比昨日 -5.65%
+
+热门赛道情况
+
+![](https://img.foresightnews.pro/202303/10214-1678956040651.png?x-oss-process=style/scale70)
+
+热门项目情况
+
+![](https://img.foresightnews.pro/202303/10214-1678956100013.png?x-oss-process=style/scale70)
+
+重点项目：
+
+Mirror Community NFTs（NFT）：Web3 内容平台 Mirror 推出 NFT 订阅铸造“Subscribe to Mint”功能，目前已在以太坊主网、Optimism 和 Polygon 链上部署，旨在支持创作者和藏家之间的互动。目前铸币已经结束，Mirror Community NFTs 有 94,348 个链上 holders。
+
+核心数据：ETH 存量活跃用户 375,701，相比昨日 -1.37%
+
+热门赛道情况
+
+![](https://img.foresightnews.pro/202303/10214-1678956111152.png?x-oss-process=style/scale70)
+
+热门项目情况
+
+![](https://img.foresightnews.pro/202303/10214-1678956140377.png?x-oss-process=style/scale70)
+
+重点项目：
+
+Oriental Mystery（NFT）：东方卡通类角色 NFT（https://opensea.io/collection/orientalmystery）,总共 5555 个，总成交量 2ETH，持有地址 4977 个，推特关注度一般；
+
+### **1.2 热门币对**
+
+![](https://img.foresightnews.pro/202303/10214-1678956148641.png?x-oss-process=style/scale70)
+
+VY（token）：社区类 Dex 的 token（https://www.dextools.io/app/en/ether/pair-explorer/0x54a41c505488f41f700ed30d94a345c2c51c3680），Fork VE（3，3）和 Uniswap，产品无特色，代币流动性池仅 5 万美金，24 小时交易量 130 万美金；
+
+RIO（token）：一个数字和现实世界资产的 Web3 生态系统（https://www.dextools.io/app/en/ether/pair-explorer/0x0b85b3000bef3e26e01428d1b525a532ea7513b8），测试网已经上线，Alpha 版本还有 14 天上线，代币 24 小时交易量 127 万美金，近期交易额增大，用户交易频繁；
+
+POOLZ（token）：去中心化跨来 IDO 平台 Poolz Finance，昨日协议遭受攻击，代币闪崩 97%，目前在底部震荡，官方暂未公告解决情况和方案，代币 24 小时交易量 247 万美金；
+
+![](https://img.foresightnews.pro/202303/10214-1678956159435.png?x-oss-process=style/scale70)
+
+LQTY（token）：近期去中心化稳定币的龙头，币安刚刚上线，受益于去中心化稳定币 USDC 事件及近期币安的布局，昨日代币 LQTY 价格创下新高后有所回调，24 小时交易量 2.2 亿美金，用户关注度非常高；
+
+FET（token）：GPT-4 正式发布引发 AI 板块炒作；过去 24h 交易量 2.5 亿美金，，AI 板块头部项目 FET 价格表现强势，在市场回调时抗跌性强，资金活跃；
+
+**2.公链画像 - BSC 公链**
+-------------------
+
+### **2.1 用户画像**
+
+BSC 活跃用户总数：1,230,965
+
+BSC 新增活跃用户数：169,937 相比昨日增减幅：+18.31%
+
+BSC 存量活跃用户数：1,061,028 相比昨日增减幅：-2.17%
+
+核心数据：BSC 昨日新增活跃用户数 169,937，相比昨日 +18.31%
+
+热门赛道情况
+
+![](https://img.foresightnews.pro/202303/10214-1678956175466.png?x-oss-process=style/scale70)
+
+热门项目情况
+
+![](https://img.foresightnews.pro/202303/10214-1678956183630.png?x-oss-process=style/scale70)
+
+重点项目：
+
+BlessedGiftbox（NFT）：新上线的 NFT，无官网信息，（https://opensea.io/collection/blessedgiftbox）目前总成交额 20BNB，持有地址 8418，建议观察；
+
+People（token）：Peopledao 在 3 月 11 日金库被黑客盗取 12 万美金的 ETH，目前还处于黑客追踪阶段，近期价格走势较弱；
+
+核心数据：BSC 存量活跃用户 1,061,028，相比昨日 -2.17%
+
+热门赛道情况
+
+![](https://img.foresightnews.pro/202303/10214-1678956192086.png?x-oss-process=style/scale70)
+
+热门项目情况
+
+![](https://img.foresightnews.pro/202303/10214-1678956203451.png?x-oss-process=style/scale70)
+
+重点项目：
+
+Galxe（Dapp）：Galxe 是一个 Web3 凭证数据网络，通过凭证数据正在构建一个基于 Web3 的去中心化身份系统。 Galxe 为每个钱包用户创建了一个「Galaxy ID」，集成了用户在该平台所获得 NFT、OAT 和链上凭证信息，近期举行 Galxe 社区任务第 2 季，总奖池 15K GAL，为期四周，完成不同任务可获得相应奖励，同时还和 YoMetaverse、1inch 等联合推出了活动，日常运营非常频繁；
+
+### **2.2 热门币对**
+
+![](https://img.foresightnews.pro/202303/10214-1678956216476.png?x-oss-process=style/scale70)
+
+BUNNY（token）：BSC 上的早期 dex（https://www.dextools.io/app/en/bnb/pair-explorer/0x5afef8567414f29f0f927a0f2787b188624c10e2），项目推特已数个月未更新，昨日突然出现 300% 的 1 小时放量拉升，目前代币价格在高位震荡，活跃度非常高，暂未知晓原因；
+
+GPT（token）：（https://www.dextools.io/app/en/ether/pair-explorer/0xdb02d6827220475ece91893255fdf57bed51aee3）Daomaker 上首发的高热度项目，币价逆势创新高，24h 交易量达 2402 万美金，活跃度非常高，目前 Bitget 已上线 GPT，用户可到 Bitget 进行交易；
+
+**3.公链画像 - Polygon 公链**
+-----------------------
+
+### **3.1 用户画像**
+
+Polygon 活跃用户总数：390,989
+
+Polygon 新增活跃用户数：69,824 相比昨日增减幅：-13.86%
+
+Polygon 存量活跃用户数：321,165 相比昨日增减幅：+1.53%
+
+核心数据：Polygon 昨日新增活跃用户数 69,824，相比昨日 -13.86%
+
+热门赛道情况
+
+![](https://img.foresightnews.pro/202303/10214-1678956241689.png?x-oss-process=style/scale70)
+
+热门项目情况
+
+![](https://img.foresightnews.pro/202303/10214-1678956253270.png?x-oss-process=style/scale70)
+
+重点项目：
+
+Benji bananas（Dapp)：Animoca 旗下的 web2 游戏，可获得 apecoin 奖励和游戏代币 Primate；近日开启 JungleParty 冒险的第 2 部分，完成游戏任务可获得奖励，游戏交互增加明显；
+
+Credit DAO Proof（NFT）:NFT，0x...1809（https://opensea.io/collection/credit-dao-proof-v2），web3 信用协议，在 3 月份进行了 5 次代币销毁，目前其项目 NFT 持有地址达 102,705 个，用户数较多；
+
+核心数据：Polygon 存量活跃用户 321,165，相比昨日 +1.53%
+
+热门赛道情况
+
+![](https://img.foresightnews.pro/202303/10214-1678956327586.png?x-oss-process=style/scale70)
+
+热门项目情况
+
+![](https://img.foresightnews.pro/202303/10214-1678956340500.png?x-oss-process=style/scale70)
+
+重点项目：
+
+Hunters on chain（Dapp):一款免费的动作角色扮演游戏，Boomland 是资深的游戏开发商，已发布过 200 多款游戏，超过 15 亿次下载；Hunters On-Chain 是手游 Hunt Royale 的 web3 版本，该手游已有 700 万次下载；Web3 版本游戏 Hunters On-Chain 目前已成为 Polygon 上 UAW 第二的游戏；
+
+NFTNYC（NFT）：在 Opensea 上做 Public Sale 的 NFT 项目，用户持有 NFT 可以参与今年四月份在纽约举办的 NFTNYC 大会，额外其他的活动福利；目前该 NFT 在 Opensea 的起售价格是 0.35 ETH，已经仅售出了 166 个（一共 750），热度一般；
+
+### **3.2 热门币对**
+
+![](https://img.foresightnews.pro/202303/10214-1678956349159.png?x-oss-process=style/scale70)
+
+GNS（token)：Gains Network 是一个建立在 Arbitrum 和 Polygon 上的衍生品交易平台，为用户提供加密货币和外汇交易选项，并提供杠杆交易。代币上线 Binance 后出于阴跌趋势，近期有筑底突破迹象，过去 24 小时涨幅 20%；
+
+**4.公链画像 - Arbitrum 公链**
+------------------------
+
+### **4.1 用户画像**
+
+Arbitrum 活跃用户总数：127,286
+
+Arbitrum 新增活跃用户数：23,240 相比昨日增减幅：+4.53%
+
+Arbitrum 存量活跃用户数：104,046 相比昨日增减幅：+23.58%
+
+核心数据：Arbitrum 昨日新增活跃用户数 23,240，相比昨日 +4.53%
+
+热门赛道情况
+
+![](https://img.foresightnews.pro/202303/10214-1678956436594.png?x-oss-process=style/scale70)
+
+热门项目情况
+
+![](https://img.foresightnews.pro/202303/10214-1678956448801.png?x-oss-process=style/scale70)
+
+重点项目：
+
+COCO（token)：风险项目（https://www.dextools.io/app/en/arbitrum/pair-explorer/0x53c16d95fddb39927f71ccae6460f5dfbb373d99），代币在 dex 上 6 万流动性，出现 860 万交易量，合约问题较多，投资者需注意风险识别；
+
+Gridex (GDX)：Arbi 上新的订单簿现货交易所（https://coinmarketcap.com/dexscan/arbitrum/0xa6e376c6c2b5739085671a8937eb233ea7f598ce/），昨日刚开放空投领取，持币地址已达 144,530 个，24 小时交易量 15 万，价格 24 小时涨幅达 450%，活跃度高；
+
+核心数据：Arbitrum 存量活跃用户 104,046，相比昨日 +23.58%
+
+热门赛道情况
+
+![](https://img.foresightnews.pro/202303/10214-1678956476694.png?x-oss-process=style/scale70)
+
+热门项目情况
+
+![](https://img.foresightnews.pro/202303/10214-1678956489503.png?x-oss-process=style/scale70)
+
+重点项目：
+
+ReadON archive（Dapp)：去中心化的内容分发平台，通过收集优秀的文章并结合用户画像，为用户推送定制化内容；其弹幕节已经正式结束，将为用户根据排名分配 3.5 万美元及 100 万积分奖励；
+
+Camelot（Dapp)：Arbi 上早期的原生 Dex，近期进行项目 Perpy 打新，xGRAIL 持有人享受 150 万美元的白名单额度，代币 24 小时上涨 20%，交易量 500 万美金，热度较高；
+
+### **4.2 热门币对**
+
+![](https://img.foresightnews.pro/202303/10214-1678956543149.png?x-oss-process=style/scale70)
+
+GMX（token)：衍生品 Dex 龙头，在近日回调行情中价格表现强势，仍在进行突破行情冲击前高，24 小时涨幅 8.6%；据有大的 KOL 传言 Arbitrum 即将进行空投，无法辨别真伪，用户可持续关注；
+
+**5.DAPP 生态 - 所有公链**
+--------------------
+
+![](https://img.foresightnews.pro/202303/10214-1678956558481.png?x-oss-process=style/scale70)
+
+Splinterlands（Dapp）：项目是一款搭建在 Hive 和 Wax 上的卡牌类游戏，玩家可以交易、购买或出售其中的数字资产以获得游戏奖励，项目在 2021 年 7 月 28 日获得 Animoca、Blockchain Founders Fund、Enjin 等投资机构的 360 万美金融资，Similarweb 显示月访问量 150 万次，主要访问国家包括美国、英国、菲律宾、法国、加拿大，游戏活跃度一直保持在各公链中的头部位置，今日宣布开启 Battle Mage Secrets 每周挑战，用户将自己的游戏视频上传，通过投票数来分发奖励；
+
+Yuliverse（Dapp）：一款角色扮演类游戏，目前公开测试版本已上线，谷歌商店下载次数 1000+，Similarweb 月访问量 2.1 万次，其中 64.22% 的用户来自日本，近期活跃度不错；
+
+**6.DAPP 生态 - ETH 公链**
+----------------------
+
+![](https://img.foresightnews.pro/202303/10214-1678956574406.png?x-oss-process=style/scale70)
+
+Blur（Dapp）：Blur3 月 15 日平台一共成交了 2.07 万 E，Opensea 成交 5581E，交易额相较前几周持续下滑，BLUR 近期跟随 BTC 反弹，从底部上涨 50%，目前价格 0.57u，BLUR 短期价格回升能够提振 NFT 用户交易，但长期还需要看 NFT 整体市场的回暖情况以及 BLUR 代币后续的赋能，目前很难走出独立行情；
+
+Foundation（Dapp）：是一个社区主导的数字收藏品平台，于 2021 年 2 月推出，主要针对高质量创意和艺术品相关 NFT，创作者需要邀请码才能在平台铸造 NFT，3 月 9 日，Foundation 邀请 35 个杰出的创作者在同一时刻发布作品，并制作了一个免费可领取的海报 Replica，用户的关注度提升；
+
+**7.DAPP 生态 - BSC 公链**
+----------------------
+
+![](https://img.foresightnews.pro/202303/10214-1678956646645.png?x-oss-process=style/scale70)
+
+Mobox（Dapp）：（https://www.bitget.com/en/spot/MBOXUSDT\_SPBL?type=spot），BNB 链上的头部链游项目，近期的运营活动较多：$MBOX 代币回购计划，与 Trush Wallet 合作活动预热等，代币 $MBOX 回购计划，代币主要跟随 BTC 波动，24 小时交易额达 801 万美金，已在 Bitget 上线交易；
+
+TaskON（Dapp）：定位是一个 Web3 链上任务平台，推特有 9 万人关注，其中 KOL75+ 关注了项目，近期和 Bit.Store、Tugan、MetaLine、Element 等项目方做了活动，官网 Similarweb 月访问量 29.5 万次，主要流量来源是尼日利亚、印度尼西亚、越南、土耳其、乌克兰等，项目关注度很不错；
+
+**8.DAPP 生态 - Polygon 公链**
+--------------------------
+
+![](https://img.foresightnews.pro/202303/10214-1678956658265.png?x-oss-process=style/scale70)
+
+Galxe（Dapp）：Galxe 是一个 Web3 凭证数据网络，通过凭证数据正在构建一个基于 Web3 的去中心化身份系统。 Galxe 为每个钱包用户创建了一个「Galaxy ID」，集成了用户在该平台所获得 NFT、OAT 和链上凭证信息，近期举行 Galxe 社区任务第 2 季，总奖池 15K GAL，为期四周，完成不同任务可获得相应奖励，同时还和 YoMetaverse、1inch 等联合推出了活动，日常运营非常频繁；
+
+Bungee（Dapp）：跨链聚合器，空投预期，项目运营整体热度高，在 2 月 21 日推出了新 Beta 版本的产品，推特 6.26 万粉丝，100+KOL 关注，Similarweb 月访问量 18.8 万次，主要访问国家包括俄罗斯、美国、德国、日本、法国；
+
+**9.DAPP 生态 - WAX 公链**
+----------------------
+
+![](https://img.foresightnews.pro/202303/10214-1678956676886.png?x-oss-process=style/scale70)
+
+Wombat Dungeon Master（Dapp）：：NFT 质押冒险游戏，3 月 16 日推出第九季游戏，wax 账号登录、推荐用户可获得免费 NFT，UAW 暴涨 23 倍，Similarweb 月访问量 52.4 万次，主要流量来自德国、俄罗斯、墨西哥、英国、乌克兰等；
+
+Mining Network（Dapp）：Mining Network 是一款搭建在 WAX 区块链上的 NFT 挖矿游戏。上线后不久，Mining Network 在 DappRadar 排行榜上排名前三，曾经属于头部级别热度项目，现在基本已经停滞，用户流失严重；
+
+**10.DAPP 生态 - Solana 公链**
+--------------------------
+
+![](https://img.foresightnews.pro/202303/10214-1678956704515.png?x-oss-process=style/scale70)
+
+Rarible（Dapp）：Rarible 是一个多链 NFT 交易平台，用户可以创建（「铸币」）、交易数字收藏品，3 月 16 日，推出惰性铸币功能，允许任何 NFT 创造者以 0gas 费创建项目，惰性铸币功能是 NFT 在创建时不铸币，导致 gas 为 0，当有用户购买时铸币，由购买的用户支付创建 gas 费，新的功能为 Rarible 带来一定关注度；
+
+**11.DAPP 生态 - Arbitrum 公链**
+----------------------------
+
+![](https://img.foresightnews.pro/202303/10214-1678956718664.png?x-oss-process=style/scale70)
+
+Vela（Dapp）：Vela Exchange 是 Dexpools($DXP) 品牌重构后的产品，Dexpools 原来是做 Token 与 NFT 点对点 OTC 交易的平台，现在 Vela Exchange 要打造一个类似 GMX 的交易平台，目前链上的 TVL 有 $48.28m；
+
+Odos（Dapp）：DEX 聚合器 ，从社群社媒和访问流量角度看，userbase 都不错，近期流量增长较快，Similarweb 显示月访问量 1.99 万次，12 月访问量近 3 个月巅峰达 7.3 万次，主要访问国家是日本、波兰、瑞士、美国、荷兰等，未来有空投预期，用户关注度不错；
+
+**12.DAPP 生态 - 全公链 GameFi 板块**
+------------------------------
+
+![](https://img.foresightnews.pro/202303/10214-1678956733523.png?x-oss-process=style/scale70)
+
+Spliterlands、Wombat、MOBOX 的异动都在上文各 Dapp 板块中有提及；
+
+**13.Gas 费消耗情况 - ETH 公链**
+-------------------------
+
+![](https://img.foresightnews.pro/202303/10214-1678956744709.png?x-oss-process=style/scale70)
+
+Tanasinn（NFT），OWL 的竞品，用字符组成不同图案的 NFT 项目方。今日刚刚完成 Mint，社区有一定的 Fomo 情绪，目前发售 2631 个 NFT，持有地址数 698 个；上线不到 24 小时产生了 139 个 ETH 的交易量，目前地板价为 0.025 个 ETH，交易热度不错；https://opensea.io/collection/tanasinn-3
+
+ORIENTAL MYSTERY（NFT），刚刚完成 Mint 的 NFT 项目，设计精良，融合 Azuki 和 AR 元素，刚刚完成 Free Mint，社区交易热度较高，地板价只有 0.002ETH，但是总交易量已经达到 2ETH；https://opensea.io/collection/orientalmystery
+
+**14.Gas 费消耗情况 - BSC 公链**
+-------------------------
+
+![](https://img.foresightnews.pro/202303/10214-1678956764277.png?x-oss-process=style/scale70)
+
+0x530...2e9，ConstitutionDao（Token），合约内多发生“Bind”、“Invest”，完成 Invest 交互的用户，可以获得 $People 代币，链上交互较为频繁，该代币是众筹购买第一份美国手写版宪法的 ConstitutionDao 发行的代币，BSC 链上的 People，最近项目方运营频繁，可以持续关注；
+
+0x2c4...C78（Bot），链上交易频率和合约内容可以初步判断该合约是帮助项目方做代币市值管理的做市机器人，具体因合约内容不公开，需更进一步研究确定；
+
+**15.Gas 费消耗情况 - Polygon 公链**
+-----------------------------
+
+![](https://img.foresightnews.pro/202303/10214-1678956775221.png?x-oss-process=style/scale70)
+
+NFTNYC（NFT），在 Opensea 上做 Public Sale 的 NFT 项目，用户持有 NFT 可以参与今年四月份在纽约举办的 NFTNYC 大会，额外其他的活动福利；目前该 NFT 在 Opensea 的起售价格是 0.35 ETH，已经售出了 166 个（一共 750），热度有限；https://opensea.io/collection/nftnyc2023ga/drop
+
+LFISoftware（NFT），从 opensea 的展示界面来看，可能项目方 NFT 图片的存储问题没有很好解决，或者项目方已经跑路，导致无交易量；https://opensea.io/collection/lfisoftwarenft-1
+
+**16.Gas 费消耗情况 - Arbitrum 公链**
+------------------------------
+
+![](https://img.foresightnews.pro/202303/10214-1678956797730.png?x-oss-process=style/scale70)
+
+0xc3..bd7（Dapp），24 小时内刚刚部署，但是发生了较多交易 Reverted 情况，有可能是某个项目方部署合约出现合约漏洞导致的技术事故，该合约已在 3 个小时间停止使用；
+
+**17.Twitter trends token top 20**
+----------------------------------
+
+![](https://img.foresightnews.pro/202303/10214-1678956815268.png?x-oss-process=style/scale70)
+
+从 Twitter 趋势代币热度角度看：
+
+热度上升较高的代币：GNS、DBX、USDC、DAI；
+
+新上榜代币：OSMO、VIX；
+
+VIX （Token），VIXCO，某个韩国本土项目方，做 DeFi、线下零售等业务。24 小时代币交易量 25 万美金，在韩国交易所 Bithumb 上线，没有在 DEX 上建池子，热度一般可以持续关注；
+
+**18.Twitter KOL 提及代币次数**
+-------------------------
+
+![](https://img.foresightnews.pro/202303/10214-1678956823427.png?x-oss-process=style/scale70)
+
+Super Kol 提及较热代币：BTC、ETH、USDC、USDT；
+
+Builder 提及的代币：DBX、USDC、DQUICK、gDAI、BIT；
+
+DQUICK（Token），用户质押 QUICK 获得 dQUICK，dQUICK 用户获得协议产生的 0.04% 的手续费用，近期 Quickswap 和 gains network 合作推出的交易对收益较高，dQUICK 作为奖励来源；代币在 Quickswap 上有交易池子，目前 24 小时交易量有 2 万美金，池子交易深度为 36 万美金，交易热度一般；
+
+https://www.dextools.io/app/en/polygon/pair-explorer/0x194257104fabfd9f48bd01bd71a719637b4bbfa9
+
+**19.Twitter VC 机构提及代币次数**
+--------------------------
+
+![](https://img.foresightnews.pro/202303/10214-1678956833848.png?x-oss-process=style/scale70)
+
+从 VC 机构在 TW 上提及的次数看：USDC、BTC、SIDUS、ZEUM、RUNE、AVAX；
+
+EGLD（Dapp），MutliverseX，做高性能公链的老项目，近期刚刚完成 MultiversX Bridge 的开发，可以提供更多的网络、更新的代币和更好的流动性，目前已兼容了 BNB 链，后面持续开发 Polygon 链的跨链功能；
+
+**20.Google 热搜词云 - 全区域**
+------------------------
+
+![](https://img.foresightnews.pro/202303/10214-1678956881057.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/10214-1678956894216.png?x-oss-process=style/scale70)
+
+Swiss Credit（TradFi），瑞士信贷银行开盘跌近 30%，续创历史新低。另据英国金融时报，瑞信已向瑞士央行请求支援，恳请瑞士央行显示出愿意对其施以援手的姿态。美国财政部则表示，正在密切观察瑞信的状况。瑞士央行、瑞士金融市场监督管理局也发表联合声明，将向瑞信提供流动性支持。
+
+CryptoGPT（Token），：近期在 Makerdao 上进行 私募轮 SHO 的项目，募资计划完成不错。项目预期筹集 500K BUSD，实际募集 2.89M BUSD，超募 478%；目前 Bitget 首发上线该项目，用户参与热情不错，昨日随着 AI 板块异动，有一定财富效应；
+
+HBT（Token），Hebeto，BNB 链上的代币，已经在 Pancakeswap 上有建池子。代币的流动性较差，池子深度只有 1 万美金，24 小时链上交易额有 2.7 万美金，买卖容易引起较大的滑点损失，不建议参与；
+
+Ai Crypto Coins（Sector），昨天 OpenAI 发布 GPT-4，其功能强大引起社区炒作热情：GPT-4 可以使用图像作为输入信息，识别图片中的对象并进行分析等。加密投资者需要找到 AI 相关的投资标的，这时候可以参考 Bitget AI 板块，Bitget AI 板块将目前加密资产中与 AI 相关的代币集合到一个交易区，以便投资者更好发现 AI 板块的交易机会；
+
+LHINU（Token），Love Hate Inu，刚刚在 DEX 建池子的 meme 币，池子深度非常低，买卖滑点较高，不建议参与；
+
+**21.Google 搜索热词飙升 - 东亚、南亚、东南亚、港澳台**
+------------------------------------
+
+![](https://img.foresightnews.pro/202303/10214-1678956922538.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/10214-1678956933240.png?x-oss-process=style/scale70)
+
+「印度」
+
+热搜 Token：LOOM；
+
+热搜词：Why crypto market is down、Elon Musk Twitter、Funding rate；
+
+「巴基斯坦 」
+
+热搜 Token：GPT；
+
+「菲律宾」热搜 Token：GPT；
+
+「越南」热搜词：Slots 777 Free Credit；
+
+「印度尼西亚」热搜 Token：Poocoin；热搜词：Swiss Credit、crypto faucet；
+
+「缅甸」热搜词：Crypto news；
+
+「新加坡」热搜词：Crypto Staking Hebeto；热搜 Token：Luna；
+
+「马来西亚」热搜 Token：XRP；热搜词：Bybit、CMC；
+
+热搜词：CMC、My crypto Heros、Crypto Pard；
+
+热搜 Token：GPT、IVS；
+
+**22.Google 搜索热词飙升 - 英文区、欧洲、CIS 区**
+-----------------------------------
+
+![](https://img.foresightnews.pro/202303/10214-1678956952317.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/10214-1678956959622.png?x-oss-process=style/scale70)
+
+热搜 Token：GPT；
+
+热搜词：Crypto Bubbles、Airdrop Crypto、Kraken、Wallet；
+
+「美国」热搜 Token：Crypto Staking Hebeto；
+
+「加拿大」热搜 Token：CASA、SHIB；热搜词：AI Crypto Coins、CryptoPunk、Fidelity；
+
+「澳大利亚」热搜 Token： HEX、CASPER、GMX、RFOX；热搜词：Credit Suisse；
+
+「英国」热搜 Token：CRV、SHIB、IMX；热搜词：Pancakeswap、DCA、Easy Crypto Hunter；
+
+「西班牙」热搜 Token： FLOKI、KDA、RUNE、CHZ、AGIX；
+
+「土耳其」热搜 Token：Vbet、Selcoin；
+
+「意大利」热搜 Token： GFT、ICP、Magic、Sweat、Trx；热搜词：Credit Suisse；
+
+「法国」热搜 Token： Lido、ETH、Hype；热搜词：Crypto ETF、Love Hate Inu；
+
+「德国」热搜 Token： CFX、Floki、BTC；
+
+「波兰」热搜 Token：Celestia、RDNT、Loop、GPT；
+
+**23.Google 搜索热词飙升 - 中东、拉丁美洲、非洲**
+---------------------------------
+
+![](https://img.foresightnews.pro/202303/10214-1678956990342.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/10214-1678956996388.png?x-oss-process=style/scale70)
+
+「巴西」 热搜 Token：Xen、Bat、AXS、SOL、ETH；
+
+「墨西哥」热搜 Token：BTC、Gala;
+
+「阿根廷」热搜词：Bitfinex、Crypto；
+

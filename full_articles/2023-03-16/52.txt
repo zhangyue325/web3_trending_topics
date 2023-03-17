@@ -1,0 +1,86 @@
+Provide the latest and most complete industry financing news, get first-hand news, please pay attention to veDAO financing daily!
+
+### 【1】CNHC Group
+
+Amount: $10 million
+
+Stages: A1 round
+
+Date: March 15
+
+Investors: Kucoin Ventures, Circle Ventures, IDG Capital
+
+Category: CeFi, Stablecoin issuer
+
+Description: CNHC Group is the analyst of CNHC stablecoin, which is pegged 1:1 to offshore RMB. CNHC stablecoin will be launched in 2021 for scenarios such as money transfer and cross-border trade settlement.
+
+Website: <https://www.cnhc.to/>
+
+Twitter: <https://twitter.com/cnhc.to>
+
+### 【2】Nuqtah
+
+Amount: Undisclosed
+
+Stages: Seed round
+
+Date: March 15
+
+Investors: Animoca Brands , Polygon Ventures
+
+Category: NFT Marketplace
+
+Description: Nuqtah is an NFT marketplace based in Saudi Arabia and the first to be licensed by the country’s Ministry of Communications and Information Technology and Ministry of Investment. Nuqtah aims to empower its creators, businesses and users to unlock the new opportunities that the Web3 space offers to the region. Nuqtah allows individuals and businesses to easily build, deploy and monetize NFT aggregates without No need to use complex blockchain infrastructure.
+
+Website: <https://itsnuqtah.com/>
+
+Twitter: <https://twitter.com/NuqtahNFT>
+
+### 【3】Metalink
+
+Amount: $6 million
+
+Stages: Seed round
+
+Date: March 15
+
+Investors: Gemini Frontier Fund, Dapper Labs, Baller Ventures, Human Ventures, Balaji Srinivasan, Cozomo de Medici, Gmoney, Meltem Demirors, Guy Oseary, Gary Vaynerchuk, Sebastien Borget, Ivan Soto-Wright, Social Capital, Arrington Capital, Sound Ventures. Gary Vaynerchuk, Sebastien Borget, Ivan Soto-Wright, Social Capital, Arrington Capital, Sound Ventures
+
+Category: Social Communication
+
+Description: Metalink is a social application for the NFT community that provides a safe and secure communication channel for collectors and collection owners, protecting the community from spam while providing active and informed communication.
+
+Website: <https://metalink.com/>
+
+Twitter: <https://twitter.com/metalinklabs>
+
+### 【4】Staging Labs
+
+Amount: $1.1 million
+
+Stages: Pre Seed round
+
+Date: March 16
+
+Investors: NGC Ventures, AGBuild, The General Partnership, Flourish Ventures
+
+Category: User Security, Security Solutions
+
+Description: Staging Labs is a cryptographic security company that has launched Saferoot, a product that proactively and automatically scans transactions 24⁄7. In the event of a malicious attack, Saferoot works by automatically moving digital assets from a vulnerable wallet to a backup safe. This is accomplished by intercepting transactions after the user clicks “send” but before the funds pass through.
+
+Website: <https://www.staginglabs.io/>
+
+Twitter: <https://twitter.com/Staging_Labs>
+
+### About veDAO
+
+veDAO is an investment and funding community dedicated to discovering early-stage potential projects. By gathering public wisdom and professional opinions, veDAO provides a fair, transparent and democratic project evaluation and investment and financing process for community participants, investors and project parties, allowing all participants to share the project development dividends.
+
+Website: <https://app.vedao.com/>
+
+Twitter: <https://twitter.com/vedao_official>
+
+Telegram: <https://t.me/veDAO_EN>
+
+Discord: <https://discord.gg/NEmEyrWfjV>
+

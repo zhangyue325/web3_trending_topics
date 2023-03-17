@@ -1,0 +1,119 @@
+  
+![](https://img.foresightnews.pro/202303/e7d45c5b860e3d598eb33cb6c8c02fce.jpeg?x-oss-process=style/scale70)  
+创办一家 Web3 初创企业，可能是一项令人望而生畏的任务。与 Web2 企业相比，Web3 创始人缺乏从已建立行业获取丰富知识和资源的有效途径。但考虑到 Web3 行业的初创性质，创始人们可以抓住巨大的机遇和走在最新创意前沿来取得成功。这就是 Web3 初创企业需要权衡的地方 —— 创办一家成功的 Web3 初创企业，需要创始人去涉足之前未曾探索的领域，这注定只有极少数人能成功。这意味着会有更多的机会和新的探索空间，但相应能提供的指南则会更少。
+
+  
+
+
+然而仍然存在一些 Web3 创业者可以借鉴的资源，以及一些创业前辈们留下来的经验。本文提供了关于如何有效创办 Web3 初创企业、如何扩大规模的最新信息、指导和资源指引。
+
+**产品**
+
+  
+
+
+Web3 产品通常是软件产品，这意味着创始人可以考虑采用与 Web2 技术公司一致的精益创业模式。这个模式的核心可以分解为三个迭代步骤 - 构建、衡量和学习。通过遵循上述步骤，初创公司可以在产品开发上花费最少的时间和精力，来快速找到产品和市场的匹配度。
+
+  
+
+
+通过阅读这篇[博客](http://mp.weixin.qq.com/s?__biz=MzU0MTgyMDQwNQ==&mid=2247493506&idx=1&sn=ffcd2d208c4f67eb21f3d482f4523945&chksm=fb26b318cc513a0eeb7d4e7fe29da9a14eb7d1fe50b648b6fe4112081ebd131057f6c6a67e7c&scene=21#wechat_redirect)，可以了解如何有效地评估需求并推出符合用户实际需求的 Web3 产品。
+
+  
+
+
+![](https://img.foresightnews.pro/202303/1138b82528f77598b510f57116257a9a.png?x-oss-process=style/scale70)**评估产品和市场的匹配度**
+
+  
+
+
+但是实现产品和市场的匹配究竟意味着什么，以及如何去评估它呢？[本文](http://mp.weixin.qq.com/s?__biz=MzU0MTgyMDQwNQ==&mid=2247494596&idx=1&sn=91c207fe6d3a6e0d4b4ccb8f72ca8cff&chksm=fb26bf5ecc513648db86bf32de1be773ac3a1d671b612b8605c5d29b4b384484d73bbca3ba73&scene=21#wechat_redirect)深入探讨了如何寻找产品和市场匹配度的理论，并为 Web3 初创企业提供了经过时间考验的概念框架，用于了解他们所处的市场类型，是否已经实现了产品和市场匹配，如何衡量这个匹配度以及下一步该做什么。
+
+  
+
+
+![](https://img.foresightnews.pro/202303/e2962af42c33a6ee0a045eaf1e58c17b.png?x-oss-process=style/scale70)**市场营销**
+
+  
+
+
+随着 Web3 初创企业不断寻找吸引和提高用户留存的新方法，市场的营销策略也在不断进化。鉴于 Web3 的社区聚焦和去中心化特性，Web3 初创企业常常采用 Web2 同行难以复制的营销策略。然而，创始人必须仔细考虑最适合他们的策略。
+
+  
+
+
+[深入探索](http://mp.weixin.qq.com/s?__biz=MzU0MTgyMDQwNQ==&mid=2247494981&idx=1&sn=ba7f3b7003a14023e15bb8cdd1a6caaa&chksm=fb26b9dfcc5130c9a67e1cb434384b821dccf40b25ae068572d4ef374773ac617fd00cef8ff4&scene=21#wechat_redirect) Web3 市场营销领域并且尝试过许多策略、工具和指标后发现，初创企业必须有一个强大的市场营销体系，以便能够快速适应市场不断变化的情况。
+
+  
+
+
+![](https://img.foresightnews.pro/202303/1edca9dc832964372989b1ed36b954b1.png?x-oss-process=style/scale70)**市场策略和聚焦社区**  
+
+
+  
+
+
+你的初创企业的客户是谁？对于这点而言，市场营销和产品研发密不可分。考虑到 Web3 初创企业在产品上市策略的早期阶段，最重要的是要确定产品成功上市所需的关键要素。这完全取决于初创企业所需的社区。
+
+  
+
+
+[本文](http://mp.weixin.qq.com/s?__biz=MzU0MTgyMDQwNQ==&mid=2247493113&idx=1&sn=bc8606c4de90186633860d94cc74c7bb&chksm=fb26b163cc5138757a9bdbe160089789542f7fab22b73ec22c1e1dccf833033e10ee6869d318&scene=21#wechat_redirect)将 Web3 的机会划分为不同的垂直领域，并分析成功的 Web3 项目的产品上市策略，以便为创始人提供对 Web3 市场营销怎么做、为什么 Web3 市场营销和其他不同有清晰的了解。
+
+  
+
+
+![](https://img.foresightnews.pro/202303/a87ce7eb963d7078d5f01f24fc65af21.png?x-oss-process=style/scale70)**社区**
+
+  
+
+
+建立开发者社区对于取得成功至关重要。他们是整个项目生态系统里的支柱，并且他们可以在你的团队没有时间或者资源的时候，去开发一些额外实用程序或者工具。
+
+  
+
+
+即使你的项目不需要开发者社区，[本博客文章](http://mp.weixin.qq.com/s?__biz=MzU0MTgyMDQwNQ==&mid=2247495672&idx=1&sn=dab026fbe99a402f5a6c0680c45298f0&chksm=fb26bb62cc513274c602ba9f730c773cbf8197c630e4bc0c01c7a8e7e40bae05b2ad61ee6bee&scene=21#wechat_redirect)中提到的策略和理论框架也将对任何想要建立强大社区的 Web3 初创企业有所帮助。
+
+  
+
+
+![](https://img.foresightnews.pro/202303/a03c8d1fff4124da6ec9d2896037df2b.png?x-oss-process=style/scale70)**结论**
+
+  
+
+
+创办一家 Web3 初创企业并不容易，但对于那些推出优秀产品并拥有明确的扩张计划的人来说，它可能会带来巨大的回报。  
+
+
+  
+
+
+不要试图去记住本文中提到的所有框架、策略和战术。相反，选择与你当前挑战最相关的领域，并在需要针对特定主题（如产品研发或融资）寻求指导时回顾本文章。最后，并没有什么万能指南或资源可以为你提供一个无懈可击的成功蓝图。创办一家初创企业更像是一门艺术而不是科学 - 这些资源只是给你一个可以开始绘画的画布。
+
+  
+  
+END  
+  
+‍‍▲获取 Chainlink 官方最新资讯  
+加入 Chainlink 官方渠道▼
+
+![](https://img.foresightnews.pro/202303/3b448bcab9371465762484a634e88fa4.jpeg?x-oss-process=style/scale70)  
+**Chainlink 官方渠道**   
+微博:  https://weibo.com/chainlinkofficial  
+知乎：https://www.zhihu.com/people/chainlink  
+中文 Twitter: https://twitter.com/ChainlinkCN  
+Twitter:  https://twitter.com/chainlink  
+中文爱好者电报群：https://t.me/chainlinkfans  
+Telegram:  https://t.me/chainlinkofficial  
+Discord:   https://discord.gg/aSK4zew  
+GitHub:  https://github.com/smartcontractkit/chainlink  
+SegmentFault：https://segmentfault.com/u/chainlink  
+QQ 群: 6135525  
+合作联系:  china@smartcontract.com  
+  
+![](https://img.foresightnews.pro/202303/acbd2417f9c7a98a99dbd7dd06376440.gif?x-oss-process=style/scale70)点击“阅读原文”，查看更多
+
+  
+
+

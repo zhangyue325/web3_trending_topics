@@ -1,0 +1,7 @@
+![](https://img.foresightnews.pro/202303/f25c655a3509b1b57ff411703fd01648.png?x-oss-process=style/scale70)iPollo 元宇宙公链的开发者工具现已初步完成对 Avatar、配饰、元宇宙空间等运营所需的智能合约系统的支持。此外，我们还在不断完善和扩展智能合约系统，以满足不同客户的需求。
+
+目前，我们已发布了管理类、NFT 类、公链通证类、空间和 Avatar 等五类智能合约，共计 45 个，涵盖了开发者的大部分需求。另外，我们还在开发更多的智能合约，例如社交、游戏、商业等，以满足不同行业及应用场景的需求。
+
+我们致力于为客户提供更多元宇宙开发者工具，以便更好地开发和运营元宇宙相关业务。
+
+![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=dc5490f71a82)
