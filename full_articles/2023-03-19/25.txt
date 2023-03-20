@@ -1,0 +1,13 @@
+![](https://img.foresightnews.pro/202303/f54f6883f940273b6ae2ea24da703cf3.png?x-oss-process=style/scale70)
+
+**详情直通车：**‍‍‍‍‍
+
+* BUGG Finance 遭到攻击，共损失 35,957,000 枚 BUGG
+https://twitter.com/NumenAlert/status/1636360935068794881?s=20
+
+* Poolz 因算数溢出问题遭受攻击，损失约 665K 美元
+https://twitter.com/NumenAlert/status/1635883026378022914?s=20* Euler Finance 项目因为 Etoken 中的 donateToReserves 函数缺少流动性检查而遭到闪电贷攻击：https://twitter.com/NumenAlert/status/1635222702721204225?s=20
+* 推特账号@arbitrum\_store 伪装成 Arbitrum 官方，通过推特私信投送钓鱼信息
+https://twitter.com/NumenAlert/status/1633819116489547776?s=20‍![](https://img.foresightnews.pro/202303/e0a992d856aca4dff6bd65ad3e7653c3.png?x-oss-process=style/scale70)  
+**Numen official website**https://numencyber.com/ **GitHub**https://github.com/NumenCyber**twitter**https://twitter.com/@numencyber**Medium**https://medium.com/@numencyberlabs**LinkedIn**https://www.linkedin.com/company/numencyber/‍
+

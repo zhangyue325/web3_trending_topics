@@ -1,0 +1,58 @@
+<https://mirror.xyz/0xc9f6977cF31F9deCdD2c24DF92aa621e4259469B>
+
+
+
+---
+
+项目简介：
+-----
+
+![ ](https://img.foresightnews.pro/202303/9c3ae01fa259a97a702d200f63d4e0a6.png?x-oss-process=style/scale70)
+
+<https://www.crunchbase.com/organization/shardeum>
+
+教程开始：
+-----
+
+### 一：设置测试网络，领水
+
+<https://chainlist.org/zh?search=Shardeum>
+
+![ ](https://img.foresightnews.pro/202303/ed1cf741893bdf4b0b1cbd8bdce0c659.png?x-oss-process=style/scale70)
+
+<https://discord.com/invite/shardeum>
+
+![  ](https://img.foresightnews.pro/202303/7b568ea66ab5e55678dc5b037ea9c54f.png?x-oss-process=style/scale70)
+
+![ ](https://img.foresightnews.pro/202303/4b415d87eae20ab255179c1bd0a6dc0d.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/79259badbdf4034a3c96224632197848.png?x-oss-process=style/scale70)
+
+
+
+---
+
+### 二：测试网手动部署合约
+
+<https://docs.openzeppelin.com/contracts/4.x/wizard>
+
+![ ](https://img.foresightnews.pro/202303/0840ee643fc4aa1126a29b6105a450e3.png?x-oss-process=style/scale70)
+
+![ ](https://img.foresightnews.pro/202303/239fa72c9683c407d224a229804c606f.png?x-oss-process=style/scale70)
+
+![ ](https://img.foresightnews.pro/202303/8d37229952952f513d0500355ab32c35.png?x-oss-process=style/scale70)
+
+![ ](https://img.foresightnews.pro/202303/40206d08b6e8018e4ce11f24eda93825.png?x-oss-process=style/scale70)
+
+![ ](https://img.foresightnews.pro/202303/6a8cf18bb8e357c27ff456e383e10da2.png?x-oss-process=style/scale70)
+
+### 彩蛋：
+
+<https://mirror.xyz/0xc9f6977cF31F9deCdD2c24DF92aa621e4259469B/AAiaYalbALDLbEUrgnhu6vRtXA824DsfzVhi28vev-Y>
+
+<https://mirror.xyz/0xc9f6977cF31F9deCdD2c24DF92aa621e4259469B/DCCLnBjTRgKn2ptP-hc6DRrwgaernsrmLRIzr0u1pDQ>
+
+
+
+---
+

@@ -1,0 +1,102 @@
+1. Arbitrum 的 Token ARB 将于 3 月 23 日进行空投 
+
+3 月 16 日，Arbitrum 基金会表示，Arbitrum 的 Token ARB 将于 3 月 23 日空投给社区成员。Arbitrum 与 Nansen 合作在 2 月份对用户活动进行了快照，以确定空投资格，交易次数、使用 Dapp 数量、使用时长均为考虑因素。用户可通过访问 https://arbitrum.foundation/ 检查他们是否有资格获得空投。ARB 的总发行量将达到 100 亿，向符合条件用户空投供应总量的 11.5%。
+
+2. ETH 本周动态汇总
+
+a. Lido 预计以太坊主网提款将在 5 月中旬左右生效 
+
+3 月 15 日，ETH 质押协议 Lido 表示，在所有关于链上代码的审计完成之前（预计 4 月底），stETH 提款不会在主网上启动。再增加 2 周作为安全裕度，目前预计主网提款将在 5 月中旬左右生效。早先外界预计以太坊上海升级将在 4 月初完成。
+
+b. Goerli 测试网于 3 月 15 日 6:26 激活 Shapella 升级
+
+以太坊开发者 TimBeiko 表示，Goerli 测试网于 3 月 15 日 6:26 （北京时间）激活 Shapella 升级，正在处理存款 ，但有部分验证节点尚未升级。Shapella 升级的要点是 EIP 4895，旨在使验证者能够在主网上进行质押提款，Goerli 将是开发人员用来测试 Shapella 升级的第三个也是最后一个测试网。以太坊开发人员将于 3 月 16 日 22:00，确定主网上海升级日期。
+
+c. 以太坊主网将在北京时间 4 月 13 日进行上海（Shapella）升级
+
+3 月 16 日，以太坊核心开发者在电话会议中确认于 4 月 13 日 6：27 （北京时间）在以太坊主网进行上海（Shapella）升级，Shapella 升级的要点是 EIP 4895，旨在使验证者能够在主网上进行质押提款。
+
+d. 币安将支持 ETH 2.0 质押提现
+
+3 月 17 日，据币安公告，币安将在以太坊网络 Shapella 升级后的一周内在 ETH 2.0 质押页面支持 ETH 质押提现。已参与 ETH 2.0 质押的用户在功能上线后，可在 ETH 2.0 质押页面以 1:1 比例将 BETH 兑换成 ETH。此外，Shapella 升级后，用户可随时继续参与 ETH 2.0 质押并获得 BETH 奖励。
+
+3. Maker 本周动态汇总
+
+a. Maker 已对 PSM 部署了一组参数更改 
+
+3 月 14 日，Maker 已对 PSM 部署了一组参数更改，目的是限制 Maker 对不稳定的中心化稳定币的敞口并加强与 DAI 的挂钩。将 USDC PSM 每日铸币限额从 9.5 亿 DAI 减少到 2.5 亿 DAI。将 USDP PSM 每日铸币限额从 5000 万 DAI 增加到 2.5 亿 DAI。将 USDP PSM 债务上限从 4.5 亿 DAI 提高到 10 亿 DAI。
+
+b. Maker 社区对 PSM 断路器的设置进行投票 
+
+3 月 15 日，Maker 社区对 PSM 断路器的设置进行投票，如果投票通过，将添加一个债务上限断路器，允许治理通过执行投票将任何已启用的金库类型的债务上限单独设置为 0，同时绕过当前 Governance Pause Delay 暂停延迟（当前为 16 小时）。
+
+c. MakerDAO 通过提案：将美国国债投资上限从 5 亿美元提高至 12.5 亿美元 
+
+3 月 17 日，MakerDAO 通过提案：将美国国债投资上限从 5 亿美元提高至 12.5 亿美元。MakerDAO 将使用锚定稳定模块（PSM）中的 7.5 亿 USDC 购买更多美国国债，从而使支持 DAI 的流动资产更加多样化。
+
+4. Aztec 本周动态汇总
+
+a. Aztec 宣布将关闭 Aztec Connect 
+
+3 月 13 日，以太坊 zk-rollup 隐私解决方案 Aztec 发文宣布将关闭其旗下的隐私基础设施 Aztec Connect，从当日起一周内，zk money 等应用将停止存款功能，用户在一年内，仍能免费将资金提现。2024 年 3 月 21 日后，官方将不再运行排序器，届时如果用户还未提现，将需要自行运行软件才能提现。未来，Aztec 的中长期重点将是 Noir（零知识通用语言）以及下一代隐私区块链。
+
+b. Aztec 回应关闭 Aztec Connect 是商业层面的考虑
+
+Solana NFT 交易市场 Tensor 宣布融资 300 万美元，并推出了类似于 Blur 的多期空投盲盒激励。3 月 7 日，Tensor 交易量大幅上涨至 31,446 SOL，交易人数超过 3.2k，均创下历史新高。此外，Tensor 还推出用户做市功能，允许在 0–25% 间配置做市费用。
+
+5. Uniswap 宣布正式上线 BNB Chain
+
+3 月 16 日，Uniswap 宣布正式上线 BNB Chain。关于将 Uniswap V3 部署到 BNB Chain 的提案投票在 2 月 10 日获得通过，赞成率为 66%。
+
+6. Filecoin 本周动态汇总
+
+a. Filecoin 社区宣布 Filecoin 虚拟机（FVM）成功启动 
+
+3 月 15 日，Filecoin 社区宣布 Filecoin 虚拟机（FVM）成功启动，从 epoch 2,683,348（3 月 14 日 3:14 PM UTC）开始，Filecoin 区块链可以通过 FVM 支持智能合约和用户可编程性，并且兼容使用任何 EVM 开发工具，开发人员可以部署用 Solidity 或 Yul 编写的智能合约并将它们编译为 EVM。
+
+b. Filecoin 虚拟机（FVM）上的质押和借贷协议盘点 
+
+3 月 17 日，Filecoin 官方介绍了 Filecoin 虚拟机（FVM）上的质押和借贷协议：Bifrost 和 Collectif DAO 的非托管流动质押方案；Ezil.Me 的 FVM Filecoin 质押协议；Filet 协议；开源借贷平台 FILL Pool；Filecoin 上的基础架构层 Filmine；支持 Fil+ 生态的 FilPlus Lending；FVM Filecoin 权益质押协议 Glif Genesis Pools；H2O Data 的 psdnFIL；促进 Filecoin SP 借贷的 HashMix；mFIL DAO；NodeDAO；stFIL。
+
+7. dYdX 社区通过一项治理投票，交易奖励减少 45% 
+
+3 月 14 日，dYdX 社区已经通过了一项治理投票，将交易奖励从 2,876,712 DYDX 减少到 1,582,192 DYDX，减少了 45%。减少的交易奖励（1,294,520 DYDX）将被保留在协议奖励金库。
+
+8. 安全公司 Halborn 发现影响狗狗币、莱特币、Zcash 等 280 多个网络的零日漏洞 
+
+3 月 14 日，区块链安全公司 Halborn 发文称，该公司在 2022 年 3 月受聘评估 Dogecoin 开源代码库是否存在影响区块链安全的漏洞。评估期间 Halborn 发现了几个严重且可利用的漏洞，已由 Dogecoin 团队修复。但此后经过更广泛的审查，Halborn 确定同样的漏洞影响了 280 多个其他网络，包括 Litecoin 和 Zcash，使超过 250 亿美元的数字资产面临风险。Halborn 将此漏洞代号为 Rab13s，并为该漏洞开发了一个漏洞利用工具包，以帮助他们修复错误。
+
+9. Helium 本周动态汇总
+
+a. Binance US 宣布将于 2023 年 3 月 21 日下架 Helium (HNT) 
+
+3 月 14 日，Binance US 宣布将于 2023 年 3 月 21 日下架 Helium (HNT) 和 JasmyCoin (JASMY)。Helium Foundation 回应称，对交易所在向 Solana 迁移之前下架感到失望，会继续续向他们宣传该网络的核心计划和发展路线图。
+
+b. Helium 网络迁移到 Solana 的最终迁移日期为 4 月 18 日 
+
+3 月 17 日，Helium 基金会公布 Helium 网络迁移到 Solana 的最新进展，将 4 月 18 日定为最终迁移日期以做好充分准备。Solana 迁移是对 Helium 核心开发人员在 2022 年初在 HIP 70 中建立的网络基础设施的升级。这包括将网络从其自己的主权 layer-1 区块链迁移到 Solana 链，并将链上活动的元素转移到更高效的预言机框架中。
+
+c. 币安宣布于 3 月 24 日下架 Helium (HNT) 
+
+3 月 17 日，币安宣布于 3 月 24 日下架 Helium (HNT)、Tael (WABI)。
+
+10. NFT 本周动态汇总
+
+a. DigiDaigaku 母公司 Limit Break 收购 FreeNFT 
+
+3 月 15 日，DigiDaigaku 母公司 Limit Break CEO Gabriel Leydon 在推文中表示，该公司收购了 FreeNFT。FreeNFT 是一款 FREE-TO-OWN 模式的 NFT 项目，被收购后仍免费供开发人员使用。Gabriel Leydon 表示，除创建内容外还提供智能合约服务、可编程版税解决方案等。
+
+b. Solana 链上 NFT 市场 Formfunction 宣布将于 3 月 29 日关闭 
+
+3 月 16 日，Solana 链上 NFT 市场 Formfunction 宣布将于 3 月 29 日关闭，但未说明具体原因。Formfunction 于 2022 年 2 月推出，并在 3 月份完成了 470 万美元的种子轮融资，OpenSea Ventures、Solana Ventures 等参投。
+
+c. 原 Solana 生态 NFT 项目 DeGods 宣布将在比特币网络推出新系列 NFT 
+
+3 月 16 日，原 Solana 生态 NFT 项目 DeGods 宣布将在比特币网络推出新系列 NFT，共 534 枚，500 枚用于比特币铸造，34 枚用于以 DUST（DeGods 团队发行 Token）的形式进行拍卖 / 抽奖。此前 Yuga Labs 团队在比特币上的 TwelveFold NFT 系列筹集 735.7 BTC（约合 1650 万美元），但也遭部分社区成员批评。
+
+d. Salesforce 已与 Polygon 合作开展基于 NFT 的忠诚度计划
+
+3 月 18 日，Polygon Labs 总裁 Ryan Wyatt 发推表示，客户关系管理 (CRM) 软件公司 Salesforce 已与 Polygon 合作开展基于 NFT 的忠诚度计划。 Salesforce 将通过其管理平台帮助其客户加入 Polygon，以帮助其客户创建基于 Token 的忠诚度计划。
+
+根据央行等部门发布“关于进一步防范和处置虚拟货币交易炒作风险的通知”，本文内容仅用于信息分享，不对任何经营与投资行为进行推广与背书，请读者严格遵守所在地区法律法规，不参与任何非法金融行为。不为任何虚拟货币、数字藏品相关的发行、交易与融资等提供交易入口、指引、发行渠道引导等。吴说内容未经许可，禁止进行转载、复制等，违者将追究法律责任。
+

@@ -1,0 +1,145 @@
+LSDFi 是基于 LSD 的 DeFi 产品，通过 LSD，质押者可以将质押的 ETH 转化为一种可以交易的资产，从而解锁流动性，且 LSD 也降低了用户质押 ETH 的门槛，任意数量即可质押，并能在质押后获得 LSD，同时可利用 LSD 带来多份收益。
+
+![](https://img.foresightnews.pro/202303/7-1679210001149.png?x-oss-process=style/scale70)
+
+LSDFi 背后是 DeFi 乐高，而 DeFi 组合性的背后是收益乐高，新入场者将通过贿赂 / 获取第三方代币或者利用自有代币进行激励，然后激励用户质押 ETH/LSD 到自己的平台，从而吸取市场份额以及 LSD 掌控权。部分 LSDFi 项目利用可变的激励乘数或者动态收益率来激励用户质押在小的去中心化质押平台来获取 LSD，从而达到验证者更加去中心化的目的。
+
+以下是 LSDFi 的五种形式：
+
+1.LP（收益 10%+）
+-------------
+
+上海升级之前，LSD 不能直接兑换成 ETH，所以很多 DeFi 建立相应 LSD-ETH 流动性池，以 stETH 来看，基础收益没有超过 5% 的，基本方法都是用 Token 补贴提高 APY，此刻质押者除了获得质押 ETH 获得的网络奖励，还可以获得 LP 费用奖励。个人认为**由于 LSD 基数增加，上海升级结束后 LP 规模可能不减反增。**
+
+![](https://img.foresightnews.pro/202303/7-1679210256616.png?x-oss-process=style/scale70)
+
+2.循环借贷（收益 10%+）
+---------------
+
+通过 AAVE 和 LIDO 的 STETH 对以太坊合并后的主网激活进行了数十亿的杠杆对赌。
+
+* 在 LIDO 质押 ETH 换取 STETH；
+* 将 STETH 存入 AAVE 并借入 ETH；
+* 循环上述操作；
+清算风险有点高，这个 APR 得看大家循环了几次，理论上借贷协议都可以做，而且会有自动循环借贷产品出现。
+
+![](https://img.foresightnews.pro/202303/7-1679210346101.png?x-oss-process=style/scale70)
+
+3.Yield（10%+）
+-------------
+
+Yearn Finance 在 Curve 做了流动性池，可以将 LSD APY 提高到 5.89%，可选择直接质押 stETH，目前池子价值 1640 万美元，类似的老项目比较多，通过聚合多个平台的收益 + 补贴来增加收益。
+
+Yearn 代表的老牌 DeFi 想要插手 LSD 行业也侧面反映了 LSD 赛道的重要性。
+
+![](https://img.foresightnews.pro/202303/7-1679210400330.png?x-oss-process=style/scale70)
+
+4.EigenLayer（收益未知）
+------------------
+
+EigenLayer 提供多种质押方式，包括类似于 Lido 的流动性质押（Liquid Staking）以及超流动性质押（Superfluid Staking），其中超流动性质押可以允许 LP 对的质押，具体而言：
+
+* LSD 质押，已经质押在 Lido 或 Rocket Pool 的资产再次质押到 EigenLayer 上；
+* LSD LP 质押，比如 Curve 的 stETH-ETH LP Token 再次质押到 EigenLayer 上；
+5.激励性 LSDFi 项目
+--------------
+
+通过杠杆，结构化策略，期权，债券衍生品等提高资本效率，或者利用极高的 APY 吸引储蓄或者达到其他目的。
+
+![](https://img.foresightnews.pro/202303/7-1679210549960.png?x-oss-process=style/scale70)
+
+其流动性池收益目前是在在 Lido 或 Aura 上建立池子，锁定一定时间后会获得经过 Pendle 补贴后的收益。目前收益比较可观，折扣价格（一年左右锁定期）是在 12.5%，而放入 Pool 中的年化收益是在 95.7% 左右，但注意，高 APY 绝大部分是由 PENDLE 代币形式补贴。
+
+* TVL：3844 万美元；
+* 市值：3280 万美元；
+* FDV：7854 万美元；
+![](https://img.foresightnews.pro/202303/7-1679210636066.png?x-oss-process=style/scale70)
+
+项目也将借用 EigenLayer 等进行 LSD 收益聚合，目前还没有披露更多信息。处于早期项目，Twitter 关注数：266，Discord：38。
+
+![](https://img.foresightnews.pro/202303/7-1679210692536.png?x-oss-process=style/scale70)
+
+目前 unshETH 只支持 sfrxETH、rETH、wstETH、cbETH，距离自己的去中化目标还很远：
+
+* TVL：800 万美元；
+* FDV：2000 万美元；
+直接质押需要一定的锁定期限，需要将 LSD/ETH 质押到平台兑换成为 unshETH，质押 unshETH 会获得约 500% 的收益，代币还可进一步质押获得约 70% 的收益，LP Pool 目前深度约 58 万美元，组 LP 的手续费收入是 60%，如果质押在平台，会获得 666%+ APY 激励。但我还没找到代币的更多效用，但我觉得如果他能采取 veToken，将自己的奖励乘数由 USH DAO 决定会更容易实现自己的目标。
+
+![](https://img.foresightnews.pro/202303/7-1679210805518.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/7-1679210953788.png?x-oss-process=style/scale70)
+
+48 小时锁定量 5.5 万枚 ETH，2 天增加了 8000 关注，代币上了 Bitget、MEXC，今天公布由 [Foresight Ventures 投资](https://foresightventures.medium.com/why-do-we-invest-in-lsdx-fa4f476df6e9)，可以看出团队的充足准备。
+
+Market Cap：221 万美元
+
+TVL：1.34 亿美元
+
+目前支持的 LSD 数量也比较少，且功能未全部开发完成，还有很大期待空间，请注意 16 日之后的 14 天将是创世挖矿阶段，奖励将于 4 天后第一次减半：
+
+![](https://img.foresightnews.pro/202303/7-1679210985170.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/7-1679211018559.png?x-oss-process=style/scale70)
+
+直接质押 ETH 得到 LS-ETH 可以获得 6.3% 的 APR。官网显示只有 1.24 ETH 质押，非常早期。LSD 流动性池建在 Uniswap V2 上，价值 40 万美元左右，FDV：568 万美元。
+
+![](https://img.foresightnews.pro/202303/7-1679211052359.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/7-1679211080063.png?x-oss-process=style/scale70)
+
+要运行一个节点，每个验证者必须存入 4 ETH 和价值 0.4 ETH 的 SD 代币作为抵押品（最多质押 8 ETH 的 SD）。为了激励节点运营商，Stader 将在第一年为验证者发放价值约 100-200 万美元的 SD 代币。节点还可以从其他用户奖励中获得 5% 的佣金。
+
+* TVL：1.25 亿美元；
+* FDV：1.817 亿美元；
+![](https://img.foresightnews.pro/202303/7-1679211136949.png?x-oss-process=style/scale70)
+
+• ETH 质押
+
+• MEV 奖励
+
+• HORD 补贴
+
+![](https://img.foresightnews.pro/202303/7-1679211179219.png?x-oss-process=style/scale70)
+
+目前 APY 17.9%，质押数 223.22 ETH，质押者 57 个，FDV 1280 万美元。
+
+![](https://img.foresightnews.pro/202303/7-1679211188141.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/7-1679211212671.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/7-1679211238008.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/7-1679211325009.png?x-oss-process=style/scale70)
+
+代币价格：1296.95 美元，FDV：948 万美元；
+
+TVL：4800 ETH；
+
+ETH 收益（以债券形式）：13.6% 折扣价；
+
+wstETH：11.54%-29.73%；
+
+esACID：3432.36%-10297.10%（非常高）；
+
+![](https://img.foresightnews.pro/202303/7-1679211377358.png?x-oss-process=style/scale70)
+
+* LSD 质押之后获得 LP 或者 LSD of LSDs 是否可以继续与 ETH /LSD 组成 LP 进行质押；
+* Re-staking 杠杆化收益；
+* 自动杠杠化 Re-staking 策略；
+1. dsETH（ Diversified Staked ETH Index）：发布时，dsETH 将由 rETH、wrapped stETH 和 sETH2 组成。dsETH 中的一组多样化的流动性质押代币降低了与单个代币相关的风险，并稳定了整个代币范围内的回报，由系统自动调整 dsETH 中不同资产的比例来保持理想的平衡并优化回报；
+2. icETH 是一个杠杆流动性质押策略产品，主要借助 AAVE v2 提供更高的 ETH 收益；
+dsETH 目前仅有 485 个，收取 0.25% fee， APY：4.59%。icETH 供应约 1 万枚 ETH，收取 0.75% fee，APY：5.26%，仅支持 stETH。
+
+![](https://img.foresightnews.pro/202303/7-1679211463726.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/7-1679211492613.png?x-oss-process=style/scale70)
+
+总结
+--
+
+* 激励性 LSDFi 类型的很多项目都在争一个话语权：**谁能拿到更多的 LSD，这将直接决定他们未来的合作项目数以及搭建在其上的 DeFi 乐高**。与很多 DeFi 细分行业类似，可能最后几个玩家留到最后，同时 Lido 主导者的地位也可能遭到破坏；
+* 策略的稳定性是 LSDFi 项目的矛和盾，而收益目前只能做矛，高收益可能带来可持续性问题，但**高收益可能会是很长一段时间的常态**，未来，100%+ APY 并不是很高；
+* 什么策略更适合，仅从收益上讲，质押在 Top 3 之外的 Liquidity Stkaking Provider ，比如 frxETH，先利用 Frax 的收益补贴拿到 10% 收益，然后寻找利用激励促进验证中心化的项目，比如 unshETH，LSDx 这种 APY 几百 + 的进行挖矿，然后高点直接卖，继续下一个。当然如果你善于利用借贷协议，APY 实际可能提高到 1000%+（但是风险很大，容易搞没自己的的 ETH）；
+* LSDfi 对于验证者的影响还很小，LP + 代币补贴是目前的主流，但 LSD War 后期会实际增加验证的去中心化程度
+* LSDFi 项目之间有很多合作空间，比如 0xACID 与 Pendle 合作，**未来可组合性搭配下，可能会形成各收益层级的产品**：从 4%-500%+ 中划分各个风险与收益等级；
+* **LSD War 已经开始，这场战争可能会持续至以太坊的质押率稳定在 25%+**，为什么是 25%，因为以太坊不同于其他生态，质押对于大部分人性价比不会很高，即便有 LSDFi 激励。以后我们再对这个 25% 数据进行详细介绍；
