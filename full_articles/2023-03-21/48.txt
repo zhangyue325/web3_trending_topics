@@ -1,0 +1,68 @@
+### 【1】Synthetix
+
+金额：2000 万美元
+
+轮数：未披露
+
+时间：3 月 20 日
+
+投资机构：DWF Labs
+
+项目类型：DeFi、合成资产
+
+项目介绍：Synthetix 是一个去中心化的合成资产平台，提供对现实世界货币、商品、股票和指数的链上敞口。这些合成资产 (Synths) 由作为抵押品锁定在智能合约中的 Synthetix 网络代币 SNX 支持。Synths 跟踪各种资产的价格，允许加密原生和无银行账户的用户在 Synthetix 交易所进行 P2C（点对合约）交易而不受流动性限制
+
+其他补充：2021 年 2 月 14 日完成融资 1200 万美元；2018 年 3 月 1 日 ICO 轮完成融资 3000 万美元
+
+官网地址：<https://www.syntheix.io/>
+
+推特：<https://twitter.com/syntheix.io>
+
+### 【2】Metatime
+
+金额：1100 万美元
+
+轮数：种子轮
+
+时间：3 月 20 日
+
+投资机构：Yildiz Tekno
+
+项目类型：CeFi、CEX
+
+项目介绍：Metatime 是一家土耳其数字资产平台，计划推出交易所、钱包、NFT 市场、本地区块链和稳定币等产品
+
+官网地址：<https://metatime.com/en>
+
+推特：<https://twitter.com/metatimecom>
+
+### 【3】Aavegotchi
+
+金额：3000 万美元
+
+轮数：公募轮
+
+时间：3 月 20 日
+
+投资机构：未披露
+
+项目类型：游戏
+
+项目介绍：Aavegotchi 是由 Pixelcraft Studios 开发的支持 DeFi 的加密收藏品游戏，允许玩家用可产生兴趣的代币质押不可替代代币 (NFT) 化身，并与 Aavegotchi 元宇宙互动。为了升级他们的 Aavegotchis，玩家可以参加各种活动，包括迷你游戏、治理和聚会
+
+官网地址：<https://aavegotchi.com/>
+
+推特：<https://twitter.com/aavegotchi>
+
+### 关于 veDAO
+
+veDAO 是致力于发掘早期潜力项目的投融资社区。通过集结大众智慧和专业意见，为社区参与者、投资人、项目方提供公平、透明、民主的项目评价及投融资流程，让所有参与者共享项目发展红利。
+
+Website: <https://app.vedao.com/>
+
+Twitter: <https://twitter.com/vedao_official>
+
+Telegram：[t.me/veDAO\_zh](http://http/)
+
+Discord：<https://discord.gg/NEmEyrWfjV>
+

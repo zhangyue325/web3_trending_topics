@@ -1,0 +1,153 @@
+*![](https://img.foresightnews.pro/202303/700ff7d58b3f38f1c9602e5dc057d1d0.gif?x-oss-process=style/scale70)*
+
+摘要：据机器之心报道，昨天，OpenAI 研究人员提交的一篇报告引发了人们热烈的讨论，研究人员估计 ChatGPT 和使用该程序构建的未来应用可能影响美国大约 19% 的工作岗位，和他们至少 50% 的工作任务。与此同时，80% 的美国劳动力至少有 10% 的工作任务在某种程度上将受到 ChatGPT 的影响。此外，工资较高的工作 —— 可能需要执行许多基于软件的任务 —— 会面临更多来自人工智能聊天机器人的潜在影响。在职业影响方面，受影响最大的职业包括翻译工作者、作家、记者、数学家、财务工作者、区块链工程师等。
+
+  
+
+
+![](https://img.foresightnews.pro/202303/1e277907031ede2d685a52fdbe0cd4bf.png?x-oss-process=style/scale70)
+
+图片来源：由无界 AI 绘画工具生成
+
+  
+
+
+  
+
+
+  
+  
+  
+热点资讯  
+  
+  
+
+
+  
+
+
+**权志龙明日将于 OpenSea 平台发行 NFT 系列 Archive of PEACEMINUSONE**
+
+  
+
+
+3 月 21 日，据官方公告，K-pop 顶流歌手权志龙名下品牌 PEACEMINUSONE 将于 3 月 22 日公开发售“Archive of PEACEMINUSONE”系列 NFT。据悉，该系列 NFT 灵感来自权志龙原创作品《|ARCHIVE 2016'|》，白名单发售将于北京时间 3 月 22 日 9 时启动，当日 11 时启动公开发售，售价为 0.27 BNB。
+
+  
+
+
+**消息称谷歌已开始邀请部分 Pixel 用户测试聊天机器人 Bard**
+
+  
+
+
+金十数据 3 月 21 日讯，谷歌在推出聊天机器人 Bard 之后，已要求员工加大测试力度，且公司已在日前向 Pixel Superfan 社区成员发出邮件，邀请部分 Pixel 用户测试 Bard。此前谷歌表示，将通过 Trusted Tester 项目来测试 Bard。
+
+  
+
+
+**消息称苹果将推迟发布首款带屏幕 HomePod 可将预算分配给 MR 头显等项目**
+
+  
+
+
+知名苹果爆料记者 Mark Gurman 指出，苹果首款带屏幕的 HomePod 音箱项目已被推迟到明年或更晚，这是该公司为了降低成本和提高效率而采取的一系列措施之一。推迟发布这款 HomePod 之后，苹果可以将其研发预算分配给更紧迫的项目，如混合现实头戴设备等。
+
+  
+
+
+  
+
+
+  
+  
+  
+投融资  
+  
+  
+
+
+**元宇宙游戏 Aavegotchi 开发商 Pixelcraft Studios 完成 3000 万美元代币融资**
+
+  
+
+
+3 月 21 日，元宇宙游戏 Aavegotchi 的开发商 Pixelcraft Studios 宣布成功完成为期多年的长期代币销售，共筹集 3000 万美元。Aavegotchi 代币 GHST 通过 DAICO（去中心化自治 ICO）从 2020 年 9 月 14 日开始至今已历时两年多。由于 DAI 稳定币的稳定性存在不确定性，AavegotchiDAO 投票决定终止销售。没有风投或天使投资人直接参与此次融资。据悉，资金将在社区参与者之间分配，Aavegotchi 的主要开发者 Pixelcraft Studios 获得 25%，即 750 万美元，DAO 金库获得剩余的 2250 万美元。所有资金将专门用于开发、营销、提供流动性或协议奖励。
+
+  
+
+
+  
+
+
+  
+  
+  
+元宇宙荐读  
+  
+  
+
+
+**《OpenAI 重磅研究：ChatGPT 可能影响 80% 工作岗位，收入越高影响越大》**
+
+  
+
+
+ChatGPT 来了，失业还会远吗？上星期在 GPT-4 发布时，ChatGPT 第一时间上线了新版本，OpenAI 首席执行官 Sam Altman 表示他对自家这种技术「有点害怕」。和很多专家一样，Altman 担心人工智能技术的强大能力会制造过多虚假信息，另一方面，新技术也将改变经济、劳动力和教育环境。
+
+  
+
+
+https://www.8btc.com/article/6810274
+
+  
+
+
+**《一句话拍大片，导演末日来了？Runway 发布文字生成视频模型 Gen-2，科幻日系二次元统统拿捏》**
+
+  
+
+
+昨天，Midjourney 生成的完美情侣刷爆网络，大家纷纷在留言区里畅想，下一步，就是演员被淘汰，人人都能升级大导，一键生成大电影了。今天，会做视频的 AI 模型就来了。刚刚，仿佛一声惊雷炸响，Runway 发布了文字生成视频模型 Gen-2。宣传词也是非常炸裂——「say it，see it」，只要你说得出来，它就能给你做出来。科幻小说里的超能力成真了！可以说，有了 Runway Gen-2，你就能用任意的图像、视频或文本，生成一段酷炫大片，想要啥风格，就有啥风格。
+
+  
+
+
+https://www.8btc.com/article/6810288
+
+  
+
+
+**《音乐 APP 如何用 AIGC 提升用户体验？以 QQ 音乐为例》**
+
+  
+
+
+在音乐领域，除了辅助音乐创作，AIGC 技术也开始被用于创新用户体验。比如，在国外，Spotify 最近推出 DJ 模式，让 AI 改善推荐歌曲体验；在国内，QQ 音乐等音乐平台在利用 AIGC 技术方面做了不少的尝试。本文将以 QQ 音乐的 AI 功能应用为例，看看音乐与 AIGC 结合的想象空间有多大。
+
+  
+
+
+https://www.8btc.com/article/6810252‌
+
+**巴比特园区开放合作啦！**
+
+  
+
+
+![](https://img.foresightnews.pro/202303/f7dcb8536e4e40e8e4d847bc9529dfe0.png?x-oss-process=style/scale70)
+
+  
+
+
+![](https://img.foresightnews.pro/202303/ef27af54365ff70cc040f4157e2f6e7a.jpeg?x-oss-process=style/scale70)
+
+  
+
+
+![](https://img.foresightnews.pro/202303/8fa93812717d18039e5848d30555ebd2.gif?x-oss-process=style/scale70)  
+
+
+中文推特：https://twitter.com/8BTC\_OFFICIAL
+
+英文推特：https://twitter.com/btcinchinaDiscord 社区：https://discord.gg/defidao电报频道：https://t.me/Mute\_8btc电报社区：https://t.me/news\_8btc![](https://img.foresightnews.pro/202303/8287da5ef763d915fd33d8b7033c23a1.jpeg?x-oss-process=style/scale70)

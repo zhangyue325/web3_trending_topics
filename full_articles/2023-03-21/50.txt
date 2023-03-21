@@ -1,0 +1,70 @@
+Provide the latest and most complete industry financing news, get first-hand news, please pay attention to veDAO financing daily!
+
+### 【1】Synthetix
+
+Amount: $20 million
+
+Stages: Undisclosed
+
+Date: March 20
+
+Investors: DWF Labs
+
+Category: DeFi, Synthetix
+
+Description: Synthetix is a decentralized synthetic asset platform that provides on-chain exposure to real-world currencies, commodities, stocks and indices. These synthetic assets (Synths) are backed by the Synthetix network token SNX locked as collateral in a smart contract. Synths tracks the price of various assets and allows crypto-native and unbanked users to trade P2C (peer-to-contract) on the Synthetix exchange without liquidity constraints.
+
+Additions: \(12 million in funding completed on February 14, 2021; \)30 million in funding completed in ICO round on March 1, 2018
+
+Website: <https://www.syntheix.io/>
+
+Twitter: <https://twitter.com/syntheix_io>
+
+### 【2】Metatime
+
+Amount: $11 million
+
+Stages: Seed round
+
+Date: March 20
+
+Investors: Yildiz Tekno
+
+Category: CeFi, CEX
+
+Description: Metatime is a Turkish digital asset platform that plans to launch an exchange, wallet, NFT marketplace, local blockchain and stablecoin products
+
+Website: <https://metatime.com/en>
+
+Twitter: <https://twitter.com/metatimecom>
+
+### 【3】Aavegotchi
+
+Amount: $30 million
+
+Stages: Public offering round
+
+Date: March 20
+
+Investors: Undisclosed
+
+Category: Game
+
+Description: Aavegotchi is a DeFi-enabled crypto collectibles game developed by Pixelcraft Studios that allows players to pledge irreplaceable tokens (NFT) avatars with interest-generating tokens and interact with the Aavegotchi metaverse. To upgrade their Aavegotchis, players can participate in various activities, including minigames, governance and parties.
+
+Website: <https://aavegotchi.com/>
+
+Twitter: <https://twitter.com/aavegotchi>
+
+### About veDAO
+
+veDAO is an investment and funding community dedicated to discovering early-stage potential projects. By gathering public wisdom and professional opinions, veDAO provides a fair, transparent and democratic project evaluation and investment and financing process for community participants, investors and project parties, allowing all participants to share the project development dividends.
+
+Website: <https://app.vedao.com/>
+
+Twitter: <https://twitter.com/vedao_official>
+
+Telegram: <https://t.me/veDAO_EN>
+
+Discord: <https://discord.gg/NEmEyrWfjV>
+

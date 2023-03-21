@@ -1,0 +1,63 @@
+<https://coal-sauce-0d3.notion.site/eea756c5039c4b4ebe917d9b961c7a08?v=945152e45fcd4a1aa881090ebf93ea01>
+
+
+
+---
+
+### 项目简介：
+
+![ ](https://img.foresightnews.pro/202303/ece77b9c93cdf4f3649fa0072277569f.png?x-oss-process=style/scale70)
+
+融资查询：<https://crypto-fundraising.info/projects/pontem-network/>
+
+官方推特：<https://twitter.com/PontemNetwork>
+
+
+
+---
+
+教程开始：
+-----
+
+### 一：前提条件准备
+
+<https://chrome.google.com/webstore/detail/pontem-aptos-wallet/phkbamefinggmakgklpkljjmgibohnba>
+
+### 二：Pontem 跨链接桥交互（这一步同时交互了 L0）
+
+![ ](https://img.foresightnews.pro/202303/40742e2107d81c02dcd4d065de24c382.png?x-oss-process=style/scale70)
+
+<https://bridge.liquidswap.com/>
+
+![ ](https://img.foresightnews.pro/202303/315004d51647fbe1a9dc3362904e2477.png?x-oss-process=style/scale70)
+
+![ ](https://img.foresightnews.pro/202303/e81ec2556cc3dc77c47129e97d78e708.png?x-oss-process=style/scale70)
+
+![ ](https://img.foresightnews.pro/202303/8ba72b17ec14fe3e5a1aaf4522eea5a9.png?x-oss-process=style/scale70)
+
+![ ](https://img.foresightnews.pro/202303/5ec5703f6306bb35de76131e8d754b11.png?x-oss-process=style/scale70)
+
+![ ](https://img.foresightnews.pro/202303/6be5c045b87ce26535c820bbe06017fa.png?x-oss-process=style/scale70)
+
+![ ](https://img.foresightnews.pro/202303/69d454c88c567305bcc5ff41393135b7.png?x-oss-process=style/scale70)
+
+![ ](https://img.foresightnews.pro/202303/4eb40680ac0cbd8466cd86b97a4ec58b.png?x-oss-process=style/scale70)
+
+
+
+---
+
+### 二：体验 Pontem 本身的 swap 和流动池
+
+![ ](https://img.foresightnews.pro/202303/eea8a05ce963bd747549bd707d3ce548.png?x-oss-process=style/scale70)
+
+![ ](https://img.foresightnews.pro/202303/c9b1989290b98d5d0ebdd424b3b13224.png?x-oss-process=style/scale70)
+
+![ ](https://img.foresightnews.pro/202303/979121dd632d3a0f1439cc1644a08263.png?x-oss-process=style/scale70)
+
+![ ](https://img.foresightnews.pro/202303/1ce2fafb4473befacc07eb1365f9968b.png?x-oss-process=style/scale70)
+
+
+
+---
+

@@ -1,0 +1,247 @@
+![](https://img.foresightnews.pro/202303/50f2f75513eb5ef17313a5db9d836d00.jpeg?x-oss-process=style/scale70)  
+
+
+受更全面的[Web3](http://mp.weixin.qq.com/s?__biz=MzU0MTgyMDQwNQ==&mid=2247492084&idx=1&sn=a8fe30bdd60524aa430267cd592db833&chksm=fb26b56ecc513c78d65bf14ab3898bd0bbc28b0524e54365088f27cdcb866d239ee17459da43&scene=21#wechat_redirect)用户体验需求的驱动，[跨链桥](http://mp.weixin.qq.com/s?__biz=MzU0MTgyMDQwNQ==&mid=2247495443&idx=1&sn=3e9564dc081c7d372dd12845e8dc6163&chksm=fb26bb89cc51329fcadcf0df913b180651829026ee29693b9d1a2f12e9f769a33b4e132c42ec&scene=21#wechat_redirect)用于以包装通证 ( 来自另一个区块链的一对一的通证数字表示 ) 的方式将数字资产从一个区块链网络转移到另一个区块链网络。之所以需要它们，是因为默认情况下不同的[区块链通常是不可互操作](http://mp.weixin.qq.com/s?__biz=MzU0MTgyMDQwNQ==&mid=2247495375&idx=1&sn=2ae8539c1fd24ecea21abe35ec1a5ccb&chksm=fb26ba55cc51334382d522e92621aec1218e8c13d8412ba039a7b15bc4887d7ec3295ceebb5a&scene=21#wechat_redirect)的。包装通证解锁了跨链流动性，但与单条区块链的原生资产相比，它们通常需要更多的信任假设。
+
+  
+
+
+![](https://img.foresightnews.pro/202303/83dda60fa9af5b8e9293990475b0e383.jpeg?x-oss-process=style/scale70)跨链通证桥如何运作
+
+  
+
+
+**跨链桥安全的复杂性**
+
+  
+
+
+跨链通证桥面临一系列的安全挑战，从保护私钥到确保智能合约代码的严密性。开发人员必须采取全面的防御策略来设计跨链桥梁架构，从技术到社交层面的每一步都要有独立的安全层。
+
+  
+
+
+![](https://img.foresightnews.pro/202303/b8c4e54529085ff15e85c87838fd8b70.jpeg?x-oss-process=style/scale70)尽管跨链桥是 Web3 不可分割的一部分，但它们一直也是作恶者的目标  
+
+
+  
+
+
+跨链桥的安全机制不应该只是被动反应，而应主动考虑遭受到一次攻击或漏洞利用的可能性，并针对可能出现的后果进行防范。关键问题是：当一个精心制定的安全计划出错时，您该怎么办?
+
+  
+
+
+**漏洞利用和攻击风险**
+
+  
+
+
+不管一条跨链桥是如何被攻击的，跨链桥攻击和漏洞利用通常会带来两个直接风险。
+
+  
+
+
+**1.源链上的抵押品在没有正确所有权的情况下被取走**
+
+  
+
+
+源区块链上的用户资金被盗，相应的包装通证不再完全得到支持。由于包装资产仅因其跨链支持而具有价值，因此源区块链上的锁定资产的被盗使得相应的包装资产变得毫无价值。  
+
+
+  
+
+
+![](https://img.foresightnews.pro/202303/ec2c2dae3eac65f61324195687bf6ea6.jpeg?x-oss-process=style/scale70)锁定在源区块链上的数字资产被盗  
+
+
+  
+
+
+**2.目标链上的跨链通证在没有足够抵押品的情况下被铸造出来**
+
+  
+
+
+这被称为“无限铸造”漏洞，当没有足够储备金的包装通证被铸造出来时，就意味着它们不再有足够的抵押品。无限铸造漏洞会导致一些恶意利用储备金不足的行为，作恶者可以利用这一点通过去中心化的交易所将包装通证资产出售或把包装通证在借贷市场上抵押出去。  
+
+
+  
+
+
+![](https://img.foresightnews.pro/202303/1071083d4f7d7fc5abdc4be5e720fd51.jpeg?x-oss-process=style/scale70)黑客的无限铸造是如何工作的
+
+  
+
+
+**生态系统风险**
+
+  
+
+
+一旦跨链通证桥遭到入侵，不仅会给使用跨链桥的用户带来直接的风险，还会给所有直接整合和支持包装通证的项目带来风险。包装通证通常在 DeFi 协议中使用，而一次漏洞利用或黑客攻击就会对运营产生重大影响，有时甚至会导致协议破产。
+
+  
+
+
+例如，在池化 DeFi 借贷市场中使用包装通证作为抵押品可能会使用户面临风险，即使他们只是借出或借入本地网络资产。如果被用作抵押品的包装通证遭到攻击，可能会导致出借人 ( 或协议 ) 资金的损失，甚至破产。这不仅会影响用户，还会在更广泛的生态系统中引起连锁反应。
+
+  
+
+
+![](https://img.foresightnews.pro/202303/bf0ed6ba75cc8983cf967d05bea347b6.jpeg?x-oss-process=style/scale70)作恶者如何使用“无限铸造”来攻击池化 DeFi 借贷市场
+
+  
+
+
+随着跨链通证桥及其包装通证的普及，如果一个跨链桥的安全性受到损害，其生态系统的风险也会增加。
+
+  
+
+
+**如何使用 Chainlink 储备金证明 (PoR) 提高包装通证的透明度和安全性**
+
+  
+
+
+Chainlink 储备金证明 (PoR) 为智能合约提供了所需的信息，用以计算支持包装通证的任何跨链储备金的真实抵押率。Chainlink 储备金证明 (PoR) 由去中心化的预言机网络运作，验证跨链抵押品——即充当包装通证桥的数据层。
+
+  
+
+
+![](https://img.foresightnews.pro/202303/7f29f4af04ded87890131ca62aadf34c.jpeg?x-oss-process=style/scale70)Chainlink 储备金证明 (PoR) 是跨链桥的数据层，使得任何用户都可以独立验证目标链上的抵押品余额
+
+  
+
+
+注意：Chainlink PoR 提高了支持包装通证的储备金的透明度，并可用于提供额外的保障功能，但不能防止跨链桥由于受到攻击而被耗尽。准确地讲，跨链桥和 dApp 可以使用 PoR 来帮助减轻此类事件的影响。
+
+  
+
+
+使用 Chainlink 储备金证明 (PoR) 来支持包装通证有 3 个主要好处。
+
+  
+
+
+**1. 保障智能合约功能**
+
+  
+
+
+一个强大和去中心化的储备金数据源为跨链桥开发人员提供了构建自动故障防范措施的工具，这些措施可以暂停包装通证的铸造、赎回和销毁。例如，防止无限铸造攻击的一种方法是使用 Chainlink 储备金证明 (PoR) 数据源来检查是否有相等或更多的储备金来支持包装通证。如果没有，则额外铸造的包装通证将被撤销。
+
+  
+
+
+由于 Chainlink 储备金证明 (PoR) 的链上储备金数据可以在跨链桥遭到黑客攻击或漏洞利用的情况下作为关键的安全保障，因此，即使在异常情况下，数据源也必须是安全、可靠和准确的。
+
+  
+
+
+通过利用由经过验证的节点运营商运行的去中心化、抗女巫攻击的网络，Chainlink 储备金证明 (PoR) 提供了一流的跨链储备金验证服务。无论市场或网络状况如何，都能可靠地在链上发布更新。
+
+  
+
+
+![](https://img.foresightnews.pro/202303/3ed436d365959e048e183322162d5986.jpeg?x-oss-process=style/scale70)
+
+通过将 Chainlink 储备金证明 (PoR) 直接集成到包装通证智能合约中，包装资产的发行者可以在遭受黑客攻击或漏洞利用的情况下构建应急措施
+
+  
+
+
+**2. 启用自动 DeFi 响应**
+
+  
+
+
+通过 Chainlink PoR 对包装通证提供的强大的链上储备金证明，使 DeFi 开发人员能够针对潜在的跨链桥攻击或漏洞利用构建保护措施，这有助于减轻 DeFi 发生危机时的传染风险。随着越来越多的 DeFi 协议实施这些故障安全措施，生态系统的弹性和抗反射性将会增强。
+
+  
+
+
+例如，DeFi 借贷协议可以添加熔断保护机制，通过读取 Chainlink PoR 数据源中的数据，自动暂停使用包装资产作为抵押品的借贷池。如果发现在源区块链上没有锁定足够的储备金，那么 DeFi 借贷协议可以自动停止操作，以减轻事件的严重程度。
+
+  
+
+
+一个优秀的包装通证资产储备金证明解决方案，可以使得 DeFi 开发人员更轻松地利用数据来应对这种情况。为了降低操作的门槛，储备金数据源应该易于实施，使用标准化的解决方案，并在本地链上发布。
+
+  
+
+
+作为行业标准的 DeFi 协议预言机解决方案，Chainlink 储备金证明 (PoR) 已经向区块链交付了超过 50 亿数据点，使得 DeFi 开发人员只需三步就能轻松地将储备金数据集成到他们的 dApp 中。
+
+  
+
+
+![](https://img.foresightnews.pro/202303/e55bce0baa6664cca0ec4c521106759a.jpeg?x-oss-process=style/scale70)集成包装通证的 DeFi 协议可以使用储备金证明来帮助防止协议级别的跨链桥攻击或漏洞利用
+
+  
+
+
+**3.为用户提供跨链抵押品的透明度**
+
+  
+
+
+跨链储备金的自动化数据交付使用户能够无缝验证支持包装通证的抵押品，并在异常事件期间快速做出明智的决策——这会是包装资产发行者们的关键竞争优势，他们都希望更多的用户使用包装资产。如果没有储备金证明，用户很难在链上验证包装资产是否与源区块链上的资产一一对应。
+
+  
+
+
+一个关键的考虑是，漏洞利用或黑客攻击可能随时发生。储备金数据源应被设计成近乎实时地在链上更新，以便在最需要的时候为用户最大限度地提供跨链桥的透明度。
+
+  
+
+
+这就是为什么 Chainlink 储备金证明 (PoR) 会定期检查链下的通证储备金，并在达到偏差阈值或触动触发器时更新链上的储备金数据，以帮助确保在意外事件发生期间能实时更新数据，同时在储备金保持稳定时节省 gas 费。
+
+  
+
+
+![](https://img.foresightnews.pro/202303/968c1e2a2f8d3ed594a65195e5aa62fb.jpeg?x-oss-process=style/scale70)Chainlink 储备金证明 (PoR) 通过可靠地在目标链上传递储备金数据来简化储备金验证过程
+
+  
+
+
+**结论**
+
+  
+
+
+将储备金数据引入区块链，为跨链通证桥提供了至关重要的保护。它可以使任何人能够独立地验证包装通证的抵押品，使项目在遭受黑客攻击或漏洞利用时集成自动防范措施。
+
+  
+
+
+要了解更多关于如何使用 Chainlink 来帮助确保包装通证资产或 DeFi 协议的安全性，请联系我们的专家。
+
+  
+  
+END  
+  
+‍‍▲获取 Chainlink 官方最新资讯  
+加入 Chainlink 官方渠道▼
+
+![](https://img.foresightnews.pro/202303/3b448bcab9371465762484a634e88fa4.jpeg?x-oss-process=style/scale70)  
+**Chainlink 官方渠道**   
+微博:  https://weibo.com/chainlinkofficial  
+知乎：https://www.zhihu.com/people/chainlink  
+中文 Twitter: https://twitter.com/ChainlinkCN  
+Twitter:  https://twitter.com/chainlink  
+中文爱好者电报群：https://t.me/chainlinkfans  
+Telegram:  https://t.me/chainlinkofficial  
+Discord:   https://discord.gg/aSK4zew  
+GitHub:  https://github.com/smartcontractkit/chainlink  
+SegmentFault：https://segmentfault.com/u/chainlink  
+QQ 群: 6135525  
+合作联系:  china@smartcontract.com  
+  
+![](https://img.foresightnews.pro/202303/acbd2417f9c7a98a99dbd7dd06376440.gif?x-oss-process=style/scale70)点击“阅读原文”，查看更多
+
+  
+
+

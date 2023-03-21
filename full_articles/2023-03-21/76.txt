@@ -1,0 +1,338 @@
+**转载请注明来自「Biteye」社区**
+
+  
+
+
+**作者：Airdropverse**
+
+**编译：****Biteye 核心贡献者 Crush****\* 全文约 1700 字，预计阅读时间为 5 分钟。**
+
+
+
+---
+
+  
+
+
+错过了 Arbitrum，不要错过这次 ZkSync 的机会 ( 主网 + 测试网 )！
+
+**0**1******简要介绍**相信你已经足够了解 ZkSync，它是一个建立在 Zk Rollup 上的 Layer 2 以太坊扩展解决方案。简而言之，它有助于节省用户链上 Gas 费用，并且比 Layer 1 更快。
+
+该项目已经筹集了 4.58 亿美元，由一些最大的风险资本领投，如 Blockchain Captital 和 A16z 等。
+
+![](https://img.foresightnews.pro/202303/d5b9bbef69f2fc718e4090b3655e32c2.png?x-oss-process=style/scale70)  
+
+
+这意味着 ZkSync 的空投可能很值钱，并且他们会很快进行，因为加密市场状况日益好转，这是发布他们的代币的好时机。
+
+**0**2******如何获得 ZkSync 空投资格？**所有这些标准只是我们的猜测，可能 ZkSync 已经快照完成，所以在投资之前要进行自己的研究。
+
+**主网任务*** 使用官方桥跨链
+* 在交易所进行交易
+* 铸造 NFT
+* 浏览所有可用的 dApp
+* Gitcoin 捐款
+**测试网任务**领取测试币并交互该网络中可用的 APP，感受这些 APP 产品与体验上的特性
+
+**加入 Crew3**完成 Crew3 中的所有任务
+
+**开始前请先设置好钱包**1. 访问此处: 
+
+https://chainlist.org/
+
+2. 连接您的钱包
+
+3. 勾选包括测试网
+
+4. 搜索 “ZkSync” ，点击 “Add to Metamask” 添加这两个网络。
+
+![](https://img.foresightnews.pro/202303/9175c400617612431596e4de338d8653.png?x-oss-process=style/scale70)  
+
+
+**0**3******ZkSync 主网任务**Arbitrum 最近通过在 Arbitrum 主网上的交易和交易量来分配代币，向几乎所有的用户进行了空投。
+
+Zksync 主网已经上线，他们也可以采用同样的方法，那么让我们看看我们可以在主网上做什么。
+
+**使用官方桥跨链**1. 访问此处：
+
+https://lite.zksync.io/account/
+
+2. 连接钱包并点击 “Top up” 充值
+
+![](https://img.foresightnews.pro/202303/0ef8aded3650d6f3343d61377fce4e9e.png?x-oss-process=style/scale70)  
+
+
+3. 滚动到底部并选择 “ZkSync”
+
+![](https://img.foresightnews.pro/202303/2aa1b427e28e7d1d84e572bf5eae6ce1.png?x-oss-process=style/scale70)  
+
+
+4. 从以太坊主网跨链一些 ETH 到 Zksync 主网
+
+![](https://img.foresightnews.pro/202303/6d98e1c755ea7baf7087e09b77980e2f.png?x-oss-process=style/scale70)  
+
+
+**注意：因为是在主网上操作，因此这需要花费大约 2-3 美元的 Gas fee。**
+
+**铸造 NFT**1. 访问此处：
+
+https://nft.storage
+
+2. 用您的 GitHub 帐户登录
+
+3. 点击 “upload” 并选择任何图像
+
+4. 点击 “upload” 上传它
+
+5. 复制您的文件 CID ( 查看下面的截图 )
+
+![](https://img.foresightnews.pro/202303/8919cb1bcb2dd9acba48574098a2f17c.png?x-oss-process=style/scale70)  
+
+
+6. 访问此处：
+
+https://lite.zksync.io/account/nft
+
+7. 连接钱包
+
+8. 点击 “Mint NFT” ，之后点击 “Sign Account Activation”
+
+![](https://img.foresightnews.pro/202303/84226b63b5282bc792144dc3a1d2d576.png?x-oss-process=style/scale70)  
+
+
+9. 在内容地址框中粘贴您复制的 CID 号码
+
+10. 点击 “Mint NFT”
+
+![](https://img.foresightnews.pro/202303/8d98bfc1c16d8604aa57d53ade5ae5fb.png?x-oss-process=style/scale70)  
+
+
+11. 点击 “Procced to Mint” 继续铸造，然后在 Metamask 确认
+
+![](https://img.foresightnews.pro/202303/5aafc638dc5ba057fe39abd2b79a1d62.png?x-oss-process=style/scale70)  
+
+
+12. 等待几分钟以完成交易
+
+**0**4******浏览主网 DApps**目前仅有少量的 dApp 可用，使用它们可以增加您获得空投的机会。
+
+**Orbiter Finance**1. 访问链接：
+
+https://www.orbiter.finance/?source=Ethereum&dest=ZKSync
+
+2. 在以太坊主网和 Zksync 主网之间进行 ETH 跨链
+
+3. 从 ZkSync 再次跨链到以太坊
+
+**注意：Orbiter 支持多链，但大多数情况下请使用以太坊主网。**
+
+**（译者注：ZkSync 中的 ETH 可以不跨链回主网，同时请注意，除了单独交互 Orbiter，其它情况下，请使用官方桥进行跨链。）**
+
+![](https://img.foresightnews.pro/202303/d288ba9d310eeb6ddf3a1ec70e00e0b8.png?x-oss-process=style/scale70)  
+
+
+**在 ZigZag 上交易**Zigzag 最近向社区进行了空投，祝贺符合条件的所有用户。不要停止在 Zigzag 上交易，这将有助于 ZkSync 的空投。
+
+1. 访问链接：
+
+https://trade.zigzag.exchange/?market=ETH-USDC&network=zksync
+
+2. 连接钱包
+
+3. 在 ZkSync 主网上进行一些交易
+
+![](https://img.foresightnews.pro/202303/df6356bf141b6c5ecd9355f5c85092c0.png?x-oss-process=style/scale70)  
+
+
+**注意：您可以通过在每周进行一些交易来增加 Zksync 主网的交易量，这将有所帮助。**
+
+**0**5******Gitcoin 捐款**我们中的很多人之前已经尝试过使用 Zksync 主网捐款给 Gitcoin，但是现在新的一期暂未开放，如果未来有新的募捐活动，则我们可以再通过 Zksync 捐赠一些资金。
+
+**（译者注：如果你从来没有通过 ZkSync 和 Gitcoin 交互过，即使没有募捐活动，也可以用 ZkSync 在 Gitcoin 捐款。****欢迎大家支持我们公益项目 Chaineye：****https://bounties.gitcoin.co/grants/4655/chaineye）**
+
+**0**6******测试网任务**我们从一开始就在关注他们的测试网任务，他们的 Zkync Era Georli 测试网现在已经上线了。让我们使用它，并希望他们也将为测试网用户提供一些空投代币。
+
+**领取测试代币**1. 访问链接：
+
+https://goerli.portal.zksync.io/faucet
+
+2. 连接钱包
+
+3. 点击 “Request Faucets” 并发推特以领取测试代币
+
+**注意：如果 ZkSync Era Georli 测试币无法领取，可以使用下面这个地址领取。**
+
+![](https://img.foresightnews.pro/202303/20ae82972f5e3dae9723bac4a98a61c5.png?x-oss-process=style/scale70)  
+
+
+1. 访问链接：
+
+https://goerlifaucet.com/
+
+2. 通过粘贴您的钱包地址领取以太坊 Georli 测试网代币
+
+**使用该页面中所有重要的功能**1. 访问链接： 
+
+https://goerli.portal.zksync.io/bridge
+
+2. 从以太坊 Geroli 测试网跨链一些 ETH 到 ZkSync Era 测试网
+
+![](https://img.foresightnews.pro/202303/fd43cca68a1327b259cfe39856f4c132.png?x-oss-process=style/scale70)  
+
+
+**注意：跨链需要一些时间，因此请耐心等待。**
+
+3. 跨链完成后，点击 “wallet”
+
+4. 将一些资金转移到任何其他钱包中
+
+5. 从任何其他钱包中接收一些资金
+
+![](https://img.foresightnews.pro/202303/24169186de5fa39171509d5dbc0c9f1d.png?x-oss-process=style/scale70)  
+
+
+**0**7******探索 Era Georli 测试网中的 DApps**ZkSync Era 测试网中有许多 DEX，但我会建议您使用没有自己代币的某些 DEX。因此，我们也可以有资格获得他们自己的空投。
+
+**Travaera**我们之前分享过这个项目，我认为我们大多数用户已经在主网上拥有了 Travaera 1.0 公民身份。您可以使用此 ID 在主网上玩游戏并获取 Karma Points。
+
+Travaera 2.0 在 ZkSync 测试网上启动了，您仍然可以在测试网上铸造公民身份和守护者 NFT，并玩游戏以获得测试网的 Karma Points。
+
+我们直接开始操作！
+
+1. 访问链接：
+
+https://testnet.tevaera.com/
+
+2. 连接钱包
+
+3. 铸造公民身份和守护者 NFT
+
+**注意：您需要在 ZkSync Geroli 测试网上拥有 ETH 以铸造公民身份，并在以太坊 Georli 测试网上铸造守护者 NFT。**
+
+![](https://img.foresightnews.pro/202303/a9dd9ebba5646f045a8bdd40cbc7093b.png?x-oss-process=style/scale70)  
+
+
+4. 铸造完成后，点击 “PLAY GAME”
+
+![](https://img.foresightnews.pro/202303/d87d3e23d980f8fe0203ce882dc088ff.png?x-oss-process=style/scale70)  
+
+
+5. 这个游戏非常简单有趣，您玩得越好，获得的 Karma Points 越多。
+
+6. 可能未来可以将这些 Karma Points 转换为主网代币
+
+**SyncSwap**1. 访问此网址：
+
+https://syncswap.xyz/
+
+2. 领取 Synswap 的测试币
+
+3. 然后，使用所有可用功能，例如：
+
+* 交换代币
+* 在流动性池中选择交易对
+* 添加和移除流动性
+![](https://img.foresightnews.pro/202303/b7c41a14d0968dd4b11b9b4bbe5e318d.png?x-oss-process=style/scale70)  
+4. 访问此页面： 
+
+https://guild.xyz/syncswap
+
+5. 加入 Discord： 
+
+discord.com/invite/syncswap
+
+6. 领取公会角色
+
+**Mute.io**1. 访问此网址： 
+
+https://app.mute.io/
+
+2. 使用 ZkSync Era Georli 钱包连接
+
+3. 使用所有可用功能
+
+* 将 ETH 转换为 Mute 通证和其他通证
+* 对所有可能的货币对提供 / 删除流动性
+![](https://img.foresightnews.pro/202303/2333c66fd84557ff515f37d305588734.png?x-oss-process=style/scale70)  
+**SpaceFi**1. 访问此网址：
+
+https://app.spacefi.io/#/home
+
+2. 使用所有可用功能
+
+* 交换代币
+* 跨链代币
+* 使用 Farm 并提供流动性
+* 铸造 NFT 等
+![](https://img.foresightnews.pro/202303/3a715125b34ba05afc1d2b73244845f4.png?x-oss-process=style/scale70)  
+3. 加入 Crew3：
+
+https://crew3.xyz/c/spacefisoulnetwork-1831/invite/MrAWSjAQTMHwnJf7MeT7K
+
+4. 完成 Crew3 上所有可用任务
+
+**0**8******加入 ZkSync Crew3**1. 访问此网址：
+
+https://crew3.xyz/c/zksync/invite/ooMrwRyr3ORS3oNhfoE6A
+
+2. 加入 Discord：
+
+https://discord.gg/px2ar7w
+
+3. 关注 Twitter：
+
+https://twitter.com/zksync
+
+4. 完成 Crew3 上所有可用和即将推出的任务
+
+**重要提示：每周或最少两周在主网络和测试网络上保持活跃状态。**
+
+
+
+---
+
+**译者补充**  
+本文很好地总结了 ZkSync 中大部分值得交互的项目，包括了主网与测试网的项目，但是在交互过程中，为了防止女巫攻击，大家可以记住以下交互要点：
+
+1）高频且以月为单位连续交互；
+
+2）多协议交互；  
+
+3）保证交易次数（交易记录可在 https://zkscan.io/ 中查询）    
+
+ 4）安全起见，不要在交互的账号中放太多的资产，以及交互完后可以适当地保留小额资产；
+
+同时除了文章中提到的项目以外，Biteye 为大家准备了一份详细的交互清单。
+
+**详情可点击下图查看：**
+
+![](https://img.foresightnews.pro/202303/6c2ebb025736e13cad4939022519acec.png?x-oss-process=style/scale70)
+
+**具体网址可参见推特：**
+
+https://twitter.com/BiteyeCN/status/1638086643751211008
+
+//  
+  
+**END**  
+  
+
+
+**关于我们****Biteye 是一个海外的 Web3 学习研究型社区，以社区驱动的方式来产生内容和工具，并通过 DAO 的方式来治理和激励！**
+
+  
+
+
+**微信群：添加**小助手** @Biteye01 入群**
+
+**Twitter：@BiteyeCN**
+
+**Discord：discord.gg/Biteye**
+
+  
+
+
+**\* 声明：本文分享内容仅作学习交流，不构成任何投资建议，且不代表 Biteye 立场。****喜欢我们的文章，就点击下方的名片关注我们吧！**
+
+![](https://img.foresightnews.pro/202303/81a5eea894f60342787fdcdc82926c68.png?x-oss-process=style/scale70)
+

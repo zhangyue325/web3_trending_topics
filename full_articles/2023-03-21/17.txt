@@ -1,0 +1,111 @@
+加密货币市场一直在不断发展和变化，新的项目和技术层出不穷。然而，往往投资者会因为跟进某种趋势过晚而错失巨大的收益。
+
+本文将介绍有关 Layer Zero（全链协议）叙事的项目，包括 StargateFinance、AltitudeDeFi、Pendle、Tapioca 等。这些项目都有着独特的优势和特点，可能会成为未来的潜力股。
+
+![](https://assets.techflowpost.com/20230207/04cc53cfe36a49f6a0e1eeb5714c169b.png)
+
+LayerZero 是什么？
+--------------
+
+Layer Zero 是一种全链协议，可以使区块链之间无缝通信。这意味着：
+
+• 无限的流动性；
+
+• 单一代币面额；
+
+• 安全性保持不变。
+
+Stargate Finance $STG
+---------------------
+
+简单来说，$STG 是 LayerZero 内的蓝筹跨链桥。
+
+$STG 代币向持有者支付以 $USDC 计算的 0.01% 的所有转账费用，随着越来越多的链加入，这个收益将会增长。
+
+一个被低估的催化剂是即将解锁的 $STG 代币。
+
+虽然这可能会导致一些抛售压力，但它将摆脱 VC（风险投资）寻求退出的状态，并允许长期持有者累积。
+
+![](https://assets.techflowpost.com/20230207/cd3a96b14d094984b4e08578538b8046.png)
+
+Altitude DeFi $ALTD
+-------------------
+
+Altitude 在跨链桥梁方面的方法是独特的。与其仅转移稳定币流动性不同，Altitude 专注于桥接蓝筹资产。
+
+这消除了围绕稳定币流动性的中心化，使跨链转移变得更加容易。
+
+![](https://assets.techflowpost.com/20230207/437040e2e360411099f74f87f2e859d9.png)
+
+作为 LayerZero 之上的首批应用程序之一，Altitude 可以巩固自身作为主要桥梁的地位。它将最初支持 8 个链，其中费用将分配给 $gALTD 持有者。
+
+Pendle $PENDLE
+--------------
+
+Pendle 使用户能够对收益率资产进行代币化和交易，例如 $ETH，创建一个动态市场，您可以在其中：
+
+• 以折扣价买入资产；
+
+• 实现低风险、稳定增长的固定收益；
+
+• 长期收益；
+
+• 定制收益策略。
+
+预计与 LayerZero 的集成将加速跨链增长，增加对 $PENDLE 衍生品的需求。用户将能够在任何链上访问和使用这些资产。
+
+Tapioca $TAP
+------------
+
+Tapioca 旨在成为全链货币市场。其 $USDO 稳定币未来可能会被更多人采用。
+
+它是由各种流动性抵押衍生品（LSD）抵押的，使得 $TAP 持有者可以受益，因为他们可以收取 50% 的费用。
+
+RDNTCapital $RDNT
+-----------------
+
+Radiant 旨在成为一站式 DeFi 市场，用户可以在多个链上无缝地存款和借贷。刚刚的 V2 揭示了：
+
+• $RDNT 代币经济学改进；
+
+• 跨链借贷；
+
+• LayerZero OFT 实施；
+
+• 费用模型改进。
+
+Trader joe $JOE
+---------------
+
+最大的 DEX 在 Avalanche 上最近利用了全链技术。这意味着 $JOE 不再局限于一个 DEX，并可以在 $ARB 和 $BNB 生态系统中找到。
+
+这将导致更多的流动性、交易量，最终会有更多的费用。对于 Traderjoe 来说，LayerZero 的好处是：
+
+$JOE 持有者可以通过 Stargate 自由漫游，可以在顶级生态系统（如 Arbitrum 和 BNBCHAIN）中增加他们的代币流动性。
+
+Mugen Finance $MGN
+------------------
+
+Mugen 是一个收益聚合器，可以在跨链上解锁收益。它建立在最大的生态系统之上，使得更多的生态系统可以使用。
+
+目前部署在 $ARB 上，但很快将扩展到更多的生态系统。
+
+目前，MugenFinance 收取 10% 的费用，用于提供收益聚合，并用于资助开发和团队。通过将资金存入国库中创建 $MGN，没有庞氏经济学风险。
+
+![](https://assets.techflowpost.com/20230207/b2a491a35caf43839590fa17335c86a6.png)
+
+Rage trade $RAGE
+----------------
+
+全链 Perpdex 通过将其他协议中的流动性重复利用到 $RAGE 中，提高了资本效率。
+
+这种回收利用的流动性使得 Rage 可以在所有与 LayerZero 兼容的链上重复使用 ETH-USD 流动性。
+
+![](https://assets.techflowpost.com/20230207/13c9e359adbb468980d3cbc8495a8e71.png)
+
+Rage Trade 允许您跨多条链提供流动性，LayerZero 支持的链越多，链生态系统越多，保险库的可选性就越大。
+
+目前的 80-20 vault 收益率为 15%。
+
+![](https://assets.techflowpost.com/20230207/1194ad92b5ad4a859a6b883bafc50d93.png)
+

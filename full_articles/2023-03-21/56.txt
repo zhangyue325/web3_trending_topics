@@ -1,0 +1,237 @@
+
+> 此文是关于账户抽象知识的普及，如果你也对 AA 感兴趣，想要一起讨论请附上问题 / 观点发邮件至 hello.labs@antalpha.com。
+> 
+> 
+
+什么是区块链账户
+--------
+
+### 谁是账户的主人？（非对称加密；Not your key, Not your coin)
+
+用公钥加密只能用私钥解密，用私钥加密只能用公钥解密
+
+
+```
+1/ 公钥公开  
+2/ 公钥加密，只有用私钥解开  
+3/ 私钥签名，可以用公钥验证
+```
+**总结**：加密账户是用密码学来证明账户所有权的；
+
+### 账户下拥有什么信息？
+
+#### UTXO (Unspent Transaction Output) a.k.a Bitcoin
+
+
+```
+1/ input=output  
+2/ 账本是在维护 output 的余额记录，而不是追踪余额的状态；  
+3/ 在验证交易的时候，需要对应看 input 是否存在在 UTXO 集合中  
+4/ UTXO 是无状态的，可以并发处理交易，但不易于执行可编程性
+```
+#### Account 模型 a.k.a 以太坊
+
+1/ 类似于银行账户，追踪余额的状态；
+
+![](https://img.foresightnews.pro/202303/fd58825971c6f0f67b0db78c70080e2f.png?x-oss-process=style/scale70)
+
+2/ 需要用不同于 UTXO 的方式来解决双花问题（replay attack)
+
+Nonce: 对于每次交易的有序记录，执行完成一笔交易则 ++
+
+* • 在 mempool 里面按照顺序打包交易
+* • 解决重放攻击：同一 nonce 只能被执行一次
+**e.g**
+
+
+```
+如果 mempool 里有一个交易该账户下 nonce 已存在  
+* 不合理交易，丢弃；
+
+  
+`如果 mempool 里有两个交易来同一账户同一 nonce 都还未执行`
+
+* `创建 gas fee 高的那个交易并丢弃另一个交易`
+
+  
+`如果 mempool 里有一个交易来同一账户 A 交易 nonce 为 6， B 交易 nonce 为 7`
+
+* `按照 nonce 顺序创建`
+
+```
+以太坊的两种账户
+--------
+
+### EOA 账户（Externally Owned Account)
+
+![](https://img.foresightnews.pro/202303/a29e2ad1d86c348ec94806a4e29ec0f6.png?x-oss-process=style/scale70)
+
+### 以太坊钱包 EOA 账户的结构和流程
+
+**首先**创建一个账户就用 `ECDSA`生成一对公私钥， 然后将公钥通过`Keccak-256` 计算得到一个哈希，然后把哈希值的最后 `20Bytes` 取出转成一个十六进制的字符串，字符串加上一个 `0x` 就生成了我们常见的以太坊地址。
+
+当我们要调用以太坊地址的时候，比如我要转资产，首先我要发起和授权交易，用私钥对交易进行签名，然后得到的签名和交易一起提交到区块链并发送给节点，这些节点就需要用密码学（ecrecover) 去把公钥从签名中还原出来，然后通过和再次生成的区块链地址的比对，如果是一样的话就去执行交易更新状态，如果不对的话就 reject action;
+
+
+```
+1/ Balance: ETH denominated in wei  
+2/ nonce
+```
+### Contract Account ( 合约账户）
+
+利用智能合约来控制的账户，可以用代码来控制和实现更加灵活的转账逻辑和账户权限；
+
+![](https://img.foresightnews.pro/202303/26be0626825fc00cb14434d1fac1379e.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/910b08d5208e2ac9a2c32760b61553d1.png?x-oss-process=style/scale70)
+
+合约账户项下包含余额，nonce, 代码和合约数据；
+
+
+```
+1/ Balance: ETH denominated in wei  
+2/ nonce  
+3/ Code hash: storage contents of the smart contract account;  
+4/ Storage hash: hash of the smart contract’s data;
+```
+如何创建合约账户
+--------
+
+### 方法一：用 CREATE 创建一个合约
+
+![](https://img.foresightnews.pro/202303/3545fb70dbbaa760942c9f61b31c04e2.png?x-oss-process=style/scale70)
+
+EOA 地址 +Nonce—> rlp.encode()—> sha3()—> smart contract address
+
+适用于 EOA 地址部署一个智能合约，或者一个主合约部署子合约。新合约的地址都以创建者的地址和 Non 的哈希来进行计算，其中 Nonce 是一个随时间变化而变化的变量，所以用 CREATE 创建的合约地址无法预测。
+
+创建了之后，我们得到了一个智能合约，如果要拿他当账户使，有以下特性：
+
+* • 没有私钥，Verification scheme 可编程化；
+* • 创建要花钱，记得前面说的需要有 Strorage hash 和 Code hash;
+* • 创建的时候需要主合约或 EOA 地址；
+* • 无法主动发起交易，只能被外部账户调用并执行；
+* • 在外部账户调用时执行逻辑高度可编程化；
+### 方法二：CREATE2 by EIP-1014
+
+new\_address =hash(0xFF, sender, salt, bytecode)
+
+* • 0xFF 十六进制的常数；
+* • sender 发送者账户（合约或 EOA );
+* • Salt, 自定义的 32 字节的随机 salt 值；
+* • bytecode, 合约初始化代码以及参数：
+### 和 CREATE 的区别在哪里？
+
+1/ `CREATE` 是你创建了之后才能确定地址，但 `CREATE2` 能让你在创建之前生成一个预先确定的地址，并且减少因为外部因素的改变而导致生成地址发生变化的情况。
+
+2/ 让创建者在不依赖 nonce 的情况下控制账户的生成方式（一会说说 wintermute)
+
+这个设计理念是主要是为了降低新用户使用账户时的门槛，一个新用户可以提前确认自己的钱包地址并且让 Gas Station Relayer 代其创建钱包并支付 gas 费用，脱离合约账户对于 EOA 的依赖。在这里可以说说 Wintermute，可以说倒霉孩子在账号上踩遍了坑。
+
+#### 1/OP 盗币事件
+
+Optimism 在给自己的做市商 Wintermute 发做市用的币的时候，Wintermute 提供了主网的地址，理论上来说 EOA 地址所有 EVM 应该是兼容的，但是 Wintermute 是一个 Gnosis Safe 的合约多签地址，Op 打了币之后, Wintermute 用 explorer 确认到账了，但最后发现自己居然没有 Op 链上地址的所有权。
+
+首先，最大的锅应该给 Gnosis Safe
+
+在 Gnosis Safe 的旧部署 factory 没有兼容 EIP155 的标准，没有包含对于 ChainID 的哈希, 这意味着在另外一条链上有 Replay 的可能；
+
+另外这个旧的版本里创建合约地址是用的 CREATE, 完全基于创建者地址 + Nonce。因此攻击者能够获取原始交易并且部署旧 factory 合约初始化这些多重签名，从而使它们归攻击者所有。
+
+**目的**：要将 L1 的 Gnosis Safe Proxy Factory 部署在 L2 上
+
+**怎么做？** 粗糙解释是在 L2 部署时保证在 L1 创建原地址的的 nonce（8444）值等同，就可以在 L2 创建相同地址；
+
+攻击者就可以将合约地址权限代理，并将 20M $OP 据为己有。（不太算是 CREATE 机制的锅，只是 know your code, know your risk)
+
+#### 2/ 靓号事件
+
+（小伙伴写了很周全的文章啦，这个大家自己看就行，文章链接：https://antalphaventures.notion.site/wintermute-1-9b5afb7ff36f474581c19c155140d986）
+
+总结：为啥要有账户抽象
+-----------
+
+说了一下被盗的事件，似乎又把立场拉扯了一下，好像 EOA 也不赖，只要私钥严防死守还是能保证账户的安全的，况且现在也有 MPC 和 TSS 等技术。**那么合约账户是必经之路么？**个人认为这个较量并不在 EOA 和合约账户之间，而是一场由特殊性通往普遍性的过程。账户抽象是重要的，是要改变现有账户体系的单一和生硬，让账户具有普遍性和一般性，从而让开发者和用户有更多空间去去定制化选择，也给生态带来更多的产品和用户。但在这个过程中大家的想法不必被局限于形式和实现方法，所有能让账户拥有普遍性的方法应该被接纳和讨论。
+
+![](https://img.foresightnews.pro/202303/b67476cddac29a35076abcfa2d59af20.png?x-oss-process=style/scale70)
+
+对于账户体系来说，目前广泛讨论的抽象具体表现在哪个方面？
+
+![](https://img.foresightnews.pro/202303/69b3c48ed9e4353afddb50886702129d.png?x-oss-process=style/scale70)
+
+从应用层面来说目前对于交易验证抽象的使用场景主要体现在安全机制抽象，比如 Gnosis Safe 的多签 (USD stored Value $39B)， 以及 Argent 的 Guardian recovery 等 (USD stored Value $47M)。其中 Gnosis Safe 对于安全机制的升级极大地迎合了机构用户的需求，Gnosis Safe 也推出了模块凸显智能合约可组合性和可编程的优势，但在机构客户需求方面，MPC 的方案显然在多链和签名权限上有更灵活的方案，瓜分了部分的市场。账户抽象的的验证机制可编程化在**降低了安全假设的前提**下，能捕捉到市场的需求，但 Chain-agnostic 同样是未来亟待解决的挑战和难点。
+
+**对于 Gas 抽象上目前也有诸多应用层面的尝试**：
+
+Ethereum Gas Station Network: 用 relay 来验证用户签名并确保用户能还上手续费；并由 relay 来提用户在主网方发起交易。
+
+Biconomy: Relayer, J.P.Morgon 发起的 Onyx 就使用了 Biconomy 的底层基础设施来实现 gasless/ batch transactions 以及 social login。
+
+OKX Wallet : Swap for gas 可以让用户用任何代币支付 Gas 费用而不是特定的主网代币。
+
+但综合看下 Gas 抽象并不是无法实现，而是以太坊社区尝试定制一个 Protocol Level 的实现方法去指定一个统一的标准，同时这个标准可以更加的理想以及去中心化，规避了 Relayer 的中心化以及未来对于大规模账户抽象交易的风险。但是在现阶段，从应用层面上来讲，Relayer 的体系并不可怕, 毕竟现在 MEV 的主要架构还是依靠 Relayer 来进行交易的传送呢。个人认为问题并不是出在实现方法，而是 Gas 抽象并不是现有的市场的主要需求，其现在代表的是一种性能的优化，或是面对新的 Web2 用户「可能会有」的市场需求。这种需求的成熟度需要依赖整个生态和产品持续的破圈, 而非我做了 UX 堪比 Web2 的 Web3 钱包，用户就应该自然而然的使用我的工具。
+
+另外，账户抽象设定的是框架，其中「抽象什么」和「如何抽象」的具体事项是由开发者自定义的，这个议题同样要在迎合用户的需求前提下去细致的规划产品，而不是什么都可以做。
+
+例如，在目前的产品阶段中，**我看好的项目有**：
+
+1> Starknet 生态上的 MatchBox, 有针对性地对 On-chain game 的玩家开发Session keys ;
+
+2> ImmutableX 的 Immutable Passport；
+
+3> Visa 要实现的 Auto Payment, 同样在 Starknet 上；
+
+4> BLS Wallet by PSE, 签名算法抽象 BLS 12-381 呼声极高;
+
+5> Thunder on Fuel, 发力在 bulk transaction 上;
+
+列出来才发现居然都不是做钱包的，但喜欢他们的点非常的明确：
+
+* • 建在了好的基础设施上，比如 Starknet, Zksync, Fuel etc.,;
+* • 不是从一个钱包的角度去做，而是从游戏生态、NFT 生态和支付生态来切入；
+* • 底层很抽象，但是开发产品的角度非常的具象；
+自 2015 年来，具有普遍性的账户体系一直是以太坊社区在谈论的话题，而以太坊社区谈论的方向是从一个链的角度出发做一个可以延展出功能性的底层结构，讨论的**方向大致有两类**，一类是做独立的智能合约钱包底层结构，另外一类是让已有的 EOA 升级并实现智能合约可以操作的事项。当前以太坊的 Unique wallet address(EOA) 达到 2.23 亿个，而合约钱包的数量的对比几乎微不足道 (Safe 创建数量 127,876，Agent 17,202), 从用户数量上来说，似乎从 EOA 的角度来撬动用户似乎是非常顺势而为的，更何况 EOA 在跨链的性能上天然的优越于合约账户。对于 AA 的调研将会囊括对两个方向的探索和梳理。
+
+![](https://img.foresightnews.pro/202303/c2dfb4618c9765514e7eac2bb047c35c.png?x-oss-process=style/scale70)
+
+接下来的软文大致会梳理：
+
+
+```
+1/ 账户抽象的 EIPs；  
+2/ EIP 4337 的机制，原理以及基础设施；  
+3/ 账户抽象的基础设施；
+```
+顺便列一下我平时打标签的和 AA 有关的阅读资料：
+
+https://www.notion.so/cf383d34a6ae4b169000914f685c8401
+
+工具：
+
+https://www.notion.so/57cd788804a7468681e8038150e3591b
+
+整理的项目：
+
+https://www.notion.so/7370014eddf643d78329bd637feded3d
+
+
+
+---
+
+### 推荐阅读
+
+* • [Optimism Liquidity Mining Program Analysis](http://mp.weixin.qq.com/s?__biz=Mzg4Nzg2MjU1Ng==&mid=2247484140&idx=1&sn=1047e8ca840640d9d30debba169b1a92&chksm=cf82a69ff8f52f892f31cee051f09f0bb4a0b26b2d1feb9c22b412fb0d188c6587fb4ed2a64a&scene=21#wechat_redirect)
+* • [User Behavior Analysis on Uniswap V3 Liquidity Positions](http://mp.weixin.qq.com/s?__biz=Mzg4Nzg2MjU1Ng==&mid=2247484110&idx=1&sn=954a868f3411efb2da292ae43d7b5515&chksm=cf82a6bdf8f52fab5ba2cd0f2bcd7ad43d6da3854a7814a95c491aa9a0fea5f34c5906a18071&scene=21#wechat_redirect)
+* • [2022 Annual Fund Review of Uniswap V3-Part 1](http://mp.weixin.qq.com/s?__biz=Mzg4Nzg2MjU1Ng==&mid=2247484781&idx=1&sn=ffc8c8505c708c106bbaba75e4fae9e3&chksm=cf82a11ef8f5280860ffd8900f9cae22e5e0728ec22a61f13975122909d1700270913a0db485&scene=21#wechat_redirect)
+* • [2022 Annual Fund Review Part 2](http://mp.weixin.qq.com/s?__biz=Mzg4Nzg2MjU1Ng==&mid=2247484795&idx=1&sn=120609504ce69c36b31d2a4946aaae39&chksm=cf82a108f8f5281ebb0b3f011cf066483c55fdb0dd513b0c240fc0fa67659446b89bbd3dc1b0&scene=21#wechat_redirect)
+* • [Optimism LM phrase 2 analysis](http://mp.weixin.qq.com/s?__biz=Mzg4Nzg2MjU1Ng==&mid=2247485456&idx=1&sn=ad5a71448ee50f86fbb17beebd4847df&chksm=cf82ac63f8f52575115c74047505247e809fc94c2ee270f8502c681a2c6f8cb753baca99989f&scene=21#wechat_redirect)
+**Antalpha Labs** 是一个非盈利的 Web3 开发者社区，致力于通过发起和支持开源软件推动 Web3 技术的创新和应用。
+
+**官网：**https://labs.antalpha.com
+
+**Twitter：**https://twitter.com/Antalpha\_Labs
+
+**Youtube：**https://www.youtube.com/channel/UCNFowsoGM9OI2NcEP2EFgrw
+
+**联系我们：**hello.labs@antalpha.com
+
