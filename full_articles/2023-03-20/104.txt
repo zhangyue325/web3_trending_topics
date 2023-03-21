@@ -1,0 +1,494 @@
+**前言**  
+
+
+  
+
+
+近期 ChatGPT 爆火，其对传统文字工作的效率提高及总结能力让使用者惊艳。紧随其后 CodeGPT 这样基于 GPT 的插件出现，也充分体现了其对代码编写效率的提高。而最新 GPT-4 的发布，是否可以应用到对区块链 、Solidity 智能合约的审计中呢？
+
+  
+
+
+基于这样的疑问，我们进行了多种可行性测试。
+
+  
+
+
+**测试环境及测试方法**
+-------------
+
+  
+
+
+测试使用的对比模型对象：GPT-3.5(Web), GPT-3.5-turbo-0301, GPT-4(Web)。
+
+  
+
+
+![](https://img.foresightnews.pro/202303/9380a22dadee4e041ca4770cc10611e0.png?x-oss-process=style/scale70)
+
+  
+
+
+代码片段使用 Prompt：Help me discover vulnerabilities in this Solidity smart contract.
+
+  
+
+
+**漏洞代码片段的检测对比**
+
+  
+
+
+在此部分，我们分三次测试，使用历史上常见的漏洞代码作为测试一和测试二的用例，来验证其对基础漏洞的检测能力，测试三中使用中等难度的漏洞代码作为测试用例。
+
+  
+
+
+* **测试一**
+  
+
+
+用例：[《智能合约安全审计入门篇 —— Phishing with tx.origin》](http://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247496742&idx=1&sn=ce5f542b5bd108483592250598b0daff&chksm=fdde8aa1caa903b73640f8464542eed5d6b809a4815cb11332de1872a8b00c96e4327b3d1c63&scene=21#wechat_redirect)
+
+  
+
+
+漏洞代码：
+
+  
+
+
+![](https://img.foresightnews.pro/202303/34b69c5dcead1d29c2dde63c81300902.png?x-oss-process=style/scale70)
+
+  
+
+
+（1）对 GPT 进行提问：
+
+  
+
+
+![](https://img.foresightnews.pro/202303/a7bd87c0615fc35150ed5262a870b304.png?x-oss-process=style/scale70)
+
+  
+
+
+（2）GPT-3.5(Web) answer
+
+  
+
+
+![](https://img.foresightnews.pro/202303/b05321c317ada892d2684bf89cb5e6cc.png?x-oss-process=style/scale70)
+
+  
+
+
+（3）GPT-3.5-turbo-0301 answer
+
+  
+
+
+![](https://img.foresightnews.pro/202303/b94abc96fec7661e9af218fe80f7b455.png?x-oss-process=style/scale70)
+
+  
+
+
+（4）GPT-4(Web) answer
+
+  
+
+
+![](https://img.foresightnews.pro/202303/62d27a66777c07652fff61e6540ff1f8.png?x-oss-process=style/scale70)
+
+  
+
+
+![](https://img.foresightnews.pro/202303/15699b76d4139e3f131bad8e587ca006.png?x-oss-process=style/scale70)
+
+  
+
+
+![](https://img.foresightnews.pro/202303/43d9e81dd85568391def3ea14e1b8e3a.png?x-oss-process=style/scale70)
+
+  
+
+
+可以看到结果：3 个测试版本都发现了关键的 tx.origin 相关问题。
+
+  
+
+
+* **测试二**
+  
+
+
+用例：[《智能合约安全审计入门篇 —— 溢出漏洞》](http://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247494336&idx=1&sn=0bda7ddd7d7c70a8d616af28916635ab&chksm=fdde9447caa91d513706a541019ab1bd9f04bb56e72c4b1efcc343c59afc98e75a03e47cfa01&scene=21#wechat_redirect)
+
+  
+
+
+漏洞代码：
+
+  
+
+
+![](https://img.foresightnews.pro/202303/cc2fc91f7b51b5a7ac8ff43925af3f61.png?x-oss-process=style/scale70)
+
+  
+
+
+（1）对 GPT 进行提问：
+
+  
+
+
+![](https://img.foresightnews.pro/202303/e395cde8fcf357169a6492fbc45a7a38.png?x-oss-process=style/scale70)
+
+  
+
+
+（2）GPT-3.5(Web) answer
+
+  
+
+
+![](https://img.foresightnews.pro/202303/f888a1efa44bc7e66dd555b1483db472.png?x-oss-process=style/scale70)
+
+  
+
+
+（3）GPT-3.5-turbo-0301 answer
+
+  
+
+
+![](https://img.foresightnews.pro/202303/24d012d807a7c65366fc2d558a1e46ed.png?x-oss-process=style/scale70)
+
+  
+
+
+（4）GPT-4(Web) answer
+
+  
+
+
+![](https://img.foresightnews.pro/202303/b2d9c4b3168beee9911492c53accb86f.png?x-oss-process=style/scale70)
+
+  
+
+
+![](https://img.foresightnews.pro/202303/dc989ab07e8a02ef2b4b2c4b6ae33f33.png?x-oss-process=style/scale70)
+
+  
+
+
+可以看到 GPT-3.5(Web)、GPT-3.5-turbo-0301 都发现了关键的 Overflow 漏洞，出乎意料的是 GPT-4(Web) 居然没有相关提示。
+
+  
+
+
+* **测试三**
+  
+
+
+用例：[《空手套白狼 —— Popsicle 被黑分析》](http://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247491262&idx=1&sn=9e334e40fb3851b85268c0a143ae198e&chksm=fddd6039caaae92f78076d9bd8551cd38021f4df3693f1243478cce8cff9f568da5da07387c0&scene=21#wechat_redirect)
+
+  
+
+
+漏洞代码：
+
+  
+
+
+![](https://img.foresightnews.pro/202303/84e0843c11f5532d3b365cdbfd7f72f3.png?x-oss-process=style/scale70)
+
+  
+
+
+（1）对 GPT 进行提问：
+
+  
+
+
+![](https://img.foresightnews.pro/202303/cf00ca2cba693641c60187719861122a.png?x-oss-process=style/scale70)
+
+  
+
+
+（2）GPT-3.5(Web) answer
+
+  
+
+
+![](https://img.foresightnews.pro/202303/1270aef3707eef992e4f560482bd880e.png?x-oss-process=style/scale70)
+
+  
+
+
+（3）GPT-3.5-turbo-0301 answer
+
+  
+
+
+![](https://img.foresightnews.pro/202303/a00706974cdee37c939658015b5e59c8.png?x-oss-process=style/scale70)
+
+  
+
+
+（4）GPT-4(Web) answer
+
+  
+
+
+![](https://img.foresightnews.pro/202303/6615677dd14f777c892f0b5b5c90cab0.png?x-oss-process=style/scale70)
+
+  
+
+
+对比结果，我们可以看到 3 个版本都未发现关键的漏洞点。
+
+  
+
+
+* **代码片段的检测总结**
+  
+
+
+可以看到 GPT 模型对简单的漏洞代码块的检测能力还是不错的，但是对稍微复杂一点的漏洞代码暂时还无法检测，并且在测试中可以看到 GPT-4(Web) 的整体上下文可读性很高，输出格式清晰、舒服，但是其对代码的审计能力暂时没有远超 GPT-3.5(Web)、GPT-3.5-turbo-0301，甚至在部分测试中由于 Transformer 输出存在一定的不确定性反而导致 GPT-4(Web) 遗漏了一些关键问题。
+
+  
+
+
+**对比已知漏洞的全量合约检测**
+-----------------
+
+  
+
+
+为了更加契合普通项目方在合约审计中的简单操作需求，这里我们提高些难度，针对代码量大的合约进行全量导入上下文，让 GPT-4 模型进行审计（GPT-3 对上下文的字符总数限制更小这里就不做测试）。
+
+  
+
+
+用例：[《千万美元被盗 —— DeFi 平台 MonoX Finance 被黑分析》](http://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247494158&idx=1&sn=f93d83854f074e7621ed207574efd461&chksm=fdde9489caa91d9f62af5a8ffa61b2c80f98caa60ab8559a7ee007854194a1f9534826652915&scene=21#wechat_redirect)
+
+  
+
+
+* **整份合约分批输入，在对话最后提出检测漏洞请求**
+  
+
+
+这里使用 Prompt：
+
+  
+
+
+Here is a solidity smart contract 
+
+Contract code
+
+The above is the complete code,help me discover vulnerabilities in this smart contract.
+
+  
+
+
+![](https://img.foresightnews.pro/202303/cc4e3b48312a5aeaedeb2a0f43c4699f.png?x-oss-process=style/scale70)
+
+  
+
+
+可以看到，GPT-4 虽然在 OpenAI 公布的信息中其单次输入字符总数已经是当前最高，但还是会由于文本超长导致在最后提问时 GPT 会上下文缺失而只识别到部分内容，所以这样对大型合约而言就无法进行完整的上下文审计。
+
+  
+
+
+* **拆封整份合约，分批输入分批检测**
+  
+
+
+这里使用 Prompt：
+
+  
+
+
+对话 1：
+
+Help me discover vulnerabilities in this solidity smart contract.
+
+分段内容 1
+
+  
+
+
+对话 2：
+
+Help me discover vulnerabilities in this solidity smart contract.
+
+分段内容 2
+
+  
+
+
+对话 3：
+
+Help me discover vulnerabilities in this solidity smart contract.
+
+分段内容 3
+
+  
+
+
+![](https://img.foresightnews.pro/202303/94ba4e08b9b3f795b2cb94eef9d7604e.png?x-oss-process=style/scale70)
+
+  
+
+
+![](https://img.foresightnews.pro/202303/9f2a8b7cca81553d6dc11d7aaa385be0.png?x-oss-process=style/scale70)
+
+  
+
+
+![](https://img.foresightnews.pro/202303/cc09951428ed9e48642d7112b1989a70.png?x-oss-process=style/scale70)
+
+  
+
+
+**总结**
+------
+
+  
+
+
+* **GPT 当前是否适合合约分析**
+------------------
+  
+
+
+（1）优点
+
+  
+
+
+GPT 对合约代码中基础的简单的漏洞具备部分检测能力，并且在检测出漏洞后会以很高的可读性来解释漏洞问题，这样的特性比较适合为初级合约审计工作者前期训练提供快速指导和简单答疑。
+
+  
+
+
+（2）存在的问题
+
+  
+
+
+a. 每次生成内容波动
+
+GPT 对每次对话的输出存在一定的波动，可以通过 API 接口参数进行调整，但是依旧不是恒定的输出，虽然这样的波动性对语言对话来说是好的方式，大大提高了对话给人的真实感。但是这对代码分析类的工作来说是一个不好的问题。因为为了覆盖 AI 可能告知我的多种漏洞回答，我需要多次请求同一问题并进行对比筛选，这无形中又提高了工作量，违背了 AI 辅助人类提高效率的基准目标。
+
+  
+
+
+例如这里再次运行 "漏洞代码片段的检测对比测试二（其中简单改变函数名后再次生成）：
+
+  
+
+
+![](https://img.foresightnews.pro/202303/7e5d7b9a02c5603e55c322efc6fa02b2.png?x-oss-process=style/scale70)
+
+  
+
+
+![](https://img.foresightnews.pro/202303/7dcfe0ca00fe93411aab7540b2806b21.png?x-oss-process=style/scale70)
+
+  
+
+
+可以看到其输出结果比之前测试又多了一些额外内容。
+
+  
+
+
+b. 漏洞分析能力依旧有很大的提高空间
+
+对稍微复杂的漏洞进行检测即会发现当前的（2024.3.16）训练模型不能正确的分析并找到相关关键漏洞点。
+
+  
+
+
+* **GPT 辅助合约审计的可行性和潜力分析**
+  
+
+
+虽然当前来看 GPT 对合约漏洞的分析及挖掘能力还处于相对较弱的状态，但它对普通漏洞小代码块的分析并生成报告文本的能力依旧让使用者兴奋，在可预见的未来几年伴随这 GPT 及其他 AI 模型的训练开发，相信对大型复杂合约的更快速，更智能，更全面的辅助审计一定会实现。当科技发展可指数级提高人工的效率时就会发生质变，我们非常期待 AI 对区块链安全的助力，我们会持续关注新 AI 产品对区块链安全的影响。最后可见的将来我们必将与 AI 在一定程度上进行融合，愿 AI 和区块链与你同在。
+
+  
+
+
+**往期回顾**
+
+[慢雾 (SlowMist) 与 HashKey Group 达成战略合作，打造前沿、安全的数字资产服务](http://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247497146&idx=1&sn=cbd9ea95f7838de348625e165e10a16b&chksm=fdde8b3dcaa9022b36602cbc5fe22dd7832e90db22e45166f15a142f6bd6873950e89a002043&scene=21#wechat_redirect)
+
+[奇妙的化学反应：Euler Finance 被黑分析](http://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247497145&idx=1&sn=d1286caa8e0013713976683385e4c328&chksm=fdde8b3ecaa90228c676e1353d78366e8172aee92034dc91bbfc28715bad5dd2171f0af22f55&scene=21#wechat_redirect)  
+
+
+[ZKP 系列之 Groth16 证明延展性攻击原理及实现](http://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247497116&idx=1&sn=9122e84ffd7d66b96695e20c3940ce7a&chksm=fdde8b1bcaa9020d95404c2f302e90afb42398b6512fa054ca22954664f163e3979e6c04644b&scene=21#wechat_redirect)
+
+[引介｜EVM 深入探讨 Part 5](http://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247497104&idx=1&sn=85f08352d0abb5730fed8f6857b4e75e&chksm=fdde8b17caa902012781c59751443160c13bd75e88f54c6ddeb5f2ae3b4d22aadc3534ba6e74&scene=21#wechat_redirect)  
+
+
+[最流行的以太坊客户端 —— Prysm 已通过慢雾安全审计](http://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247497093&idx=1&sn=c96c09970099c484242a758938b57bd7&chksm=fdde8b02caa90214a34aa116c0f7bd3c1116dbadce29636882a0caebc24559c91903ba253876&scene=21#wechat_redirect)
+
+![](https://img.foresightnews.pro/202303/024ef08be68313ab3b4adbd5847b80d7.png?x-oss-process=style/scale70)
+
+**慢雾导航**
+
+  
+
+
+**慢雾科技官网**
+
+*https://www.slowmist.com/*
+
+  
+
+
+**慢雾区官网**
+
+*https://slowmist.io/*
+
+  
+
+
+**慢雾 GitHub**
+
+*https://github.com/slowmist*
+
+  
+
+
+**Telegram**
+
+*https://t.me/slowmistteam*
+
+  
+
+
+**Twitter**
+
+*https://twitter.com/@slowmist\_team*
+
+  
+
+
+**Medium**
+
+*https://medium.com/@slowmist*
+
+  
+
+
+**知识星球**
+
+*https://t.zsxq.com/Q3zNvvF*
+

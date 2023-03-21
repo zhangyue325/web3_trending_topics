@@ -1,0 +1,282 @@
+**撰文：Korpi**
+
+**编译 ：白泽研究院**
+
+Arbitrum 最近火了！
+
+凭借着价值 >10 亿美元的 $ARB 空投，大量资金将涌入其生态系统项目，使得流动性「水涨船高」。
+
+本文将盘点 30 个基于 Arbitrum 的创新项目。
+
+**GMX（$GMX）**
+-------------
+
+![](https://img.foresightnews.pro/202303/d2abcf1717ab7fdbba94450a441f159c.png?x-oss-process=style/scale70)
+
+GMX 是一个去中心化的永续合约交易平台，允许用户以高达 50 倍的杠杆交易 BTC、ETH 和其他加密货币，并且没有价格影响。GMX 的采用令人难以置信，总交易量已超过 1100 亿美元，总手续费用约为 1.7 亿美元。
+
+当前市值：6.96 亿美元
+
+**Gains Network Analysis（$GNS）**
+--------------------------------
+
+![](https://img.foresightnews.pro/202303/dc1539aa3c439699b4962d9697fc0849.jpeg?x-oss-process=style/scale70)
+
+Gains Network 是一个去中心化的永续合约交易平台，提供加密货币、外汇、股票、商品和指数的杠杆交易。凭借 320 亿美元的总交易量和 2300 万美元的总手续费用，它已被证明是一款适合市场的产品。
+
+当前市值：2.84 亿美元
+
+**TreasureDAO（$Magic）**
+-----------------------
+
+![](https://img.foresightnews.pro/202303/b44a835ca69b6b6ca0c71e442cd64724.png?x-oss-process=style/scale70)
+
+TreasureDAO 是一个旨在连接游戏和玩家的去中心化游戏生态系统。通过引导社区和流动性，它在为 GameFi 项目提供互操作性方面做的相当成功。
+
+当前市值：3.73 亿美元
+
+**Dopex（$DPX）**
+---------------
+
+![](https://img.foresightnews.pro/202303/6fdf77203f980d6aaf2032e054e07807.jpeg?x-oss-process=style/scale70)
+
+Dopex 是一个去中心化的期权协议，通过「期权金库」的概念，提供期权交易。旨在通过提供公平的价格、深度的流动性和将期权卖方的损失最小化来争夺期权市场份额。
+
+当前市值：8600 万美元
+
+**Radiant Capital（$RDNT）**
+--------------------------
+
+![](https://img.foresightnews.pro/202303/07955f40ed0977ee4374f83052589c73.png?x-oss-process=style/scale70)
+
+Radiant Capital 是一个具有全链流动性的借贷协议。这意味着你可以在一条链上存入资产，同时在另一条链上借贷。随着跨链的扩展、引入新资产和对代币经济学的改进，该协议的 V2 版本即将推出。
+
+当前市值：9000 万美元
+
+**Premia Finance（$PREMIA）**
+---------------------------
+
+![](https://img.foresightnews.pro/202303/75fac094adfc31ed6c9011b82dabad3c.png?x-oss-process=style/scale70)
+
+Premia Finance 是一个去中心化的期权平台，通过 AMM 以市场为导向定价。它已上线多条链，并通过提供美式期权（期权可随时行使）与竞争对手区分开来。
+
+当前市值：6500 万美元
+
+**Lyra Finance（$LYRA）**
+-----------------------
+
+![](https://img.foresightnews.pro/202303/0141f558f7be7e3fdda7f07cd0362985.png?x-oss-process=style/scale70)
+
+Lyra Finance 是基于 AMM 模型的去中心化期权协议。期权交易者根据流动性提供者（LP）提供的流动性资金池买卖期权，交易者产生的手续费用被支付给 LPs 作为提供流动性的奖励。LPs 还可通过自动对冲来免受无偿损失的风险。
+
+当前市值：4900 万美元
+
+**Vela Exchange（$VELA）**
+------------------------
+
+![](https://img.foresightnews.pro/202303/d2f44d8975507ac8c1cfcd02f2729236.jpeg?x-oss-process=style/scale70)
+
+Vela Exchange 是一个去中心化交易平台（DEX），旨在为交易者提供与中心化交易平台（CEX）相媲美的体验。它越来越受欢迎，并且最近达到了令人印象深刻的总交易量，这主要是由于即将到来的空投。
+
+当前市值：4400 万美元
+
+**CamelotDEX（$GRAIL）**
+----------------------
+
+![](https://img.foresightnews.pro/202303/944513d3b3dfdc9e6632eec83e29670f.png?x-oss-process=style/scale70)
+
+CamelotDEX 是 Arbitrum 的原生 Dex，具有一些奇特的功能和代币经济学。它已经建立了许多合作伙伴关系，并已成为 Arbitrum 上新项目的主要启动平台。
+
+当前市值：4200 万美元
+
+**Mux Protocol（$MUX）**
+----------------------
+
+![](https://img.foresightnews.pro/202303/bee96cbadfbad5551baf8405b3519684.jpeg?x-oss-process=style/scale70)
+
+Mux Protocol 是一个 DEX，具有零价格影响和聚合流动性。该协议统一了跨多个链的流动性，并允许在其中任何一条链上进行相同深度的交易。
+
+当前市值：3500 万美元
+
+**Pendle Finance（$PENDLE）**
+---------------------------
+
+![](https://img.foresightnews.pro/202303/070403a9ab56afeddae7b5d8a463f8c0.png?x-oss-process=style/scale70)
+
+Pendle Finance 是一个将收益资产分成本金代币和收益代币的协议。它创造了一种全新的收益交易原语——固定波动的收益或以折扣价购买资产。
+
+当前市值：3700 万美元
+
+**OATH（$OATH）**
+---------------
+
+![](https://img.foresightnews.pro/202303/c91745db811c0c0a649c77835e8afccf.png?x-oss-process=style/scale70)
+
+OATH 是由 DeFi 明星开发团队 ByteMasons 构建的一套产品生态系统，包括货币市场、金库、稳定币、借贷等。所有元素都为质押者和协议用户产生回报，同时产生更多对协议和 $OATH 的需求。
+
+当前市值：3200 万美元
+
+**CapDot Finance（$CAP）**
+------------------------
+
+![](https://img.foresightnews.pro/202303/71bbcf7991f616c3da7d7f4082b1a15d.jpeg?x-oss-process=style/scale70)
+
+CapDot Finance 是一个去中心化的永续交易平台，杠杆率高达 100 倍。它支持加密货币、外汇、指数、金属交易，并允许交易者设置高级订单类型。
+
+当前市值：3200 万美元
+
+**Hegic Options（$HEGIC）**
+-------------------------
+
+![](https://img.foresightnews.pro/202303/7e568306bdb589dd8dadd2a456f4b9cb.png?x-oss-process=style/scale70)
+
+Hegic Options 是一个去中心化的期权协议，使期权交易变得极其简单。凭借其一键式交易功能，为用户提供了最大程度的简化，并且可以轻松地根据他们的交易需求进行调整。
+
+当前市值：2300 万美元
+
+**JonesDAO Options（$JONES）**
+----------------------------
+
+![](https://img.foresightnews.pro/202303/6ac38329db4fa4888f61a632f53e8aa1.jpeg?x-oss-process=style/scale70)
+
+JonesDAO Options 是一个旨在使复杂的 DeFi 收益策略变得简单的协议。他们的金库和收益代币可以释放流动性，并为用户提高资本效率。
+
+当前市值：1400 万美元
+
+**Arcadeum（$ARC）**
+------------------
+
+![](https://img.foresightnews.pro/202303/2ce9007bcc1bad422062935b006a4e4a.jpeg?x-oss-process=style/scale70)
+
+Arcadeum 是一个 GambleFi（把赌博和金融投机结合）协议，一个去中心化赌场，提供透明的赔率，因此玩家不必担心被黑。该协议使用流动资金池，让 LPs 成为庄家，并从赢钱中获利。
+
+当前市值：1400 万美元
+
+**Umami Finance（$UMAMI）**
+-------------------------
+
+![](https://img.foresightnews.pro/202303/ea1939f9d0d36f44a84957d269b4c428.jpeg?x-oss-process=style/scale70)
+
+Umami Finance 是一个旨在通过提供为机构投资者量身定制的 DeFi 收益产品来弥合 DeFi 和 TradFi 之间差距的协议。上个月创始人发生了一些戏剧性事件（创始人抛售 $UMAMI，24 小时跌幅高达 52.79%），但开发团队仍在致力于该项目。
+
+当前市值：1100 万美元
+
+**Buffer Finance（$BFR）**
+------------------------
+
+![](https://img.foresightnews.pro/202303/e2014593d1dbef91e2021b40da746e6f.png?x-oss-process=style/scale70)
+
+Buffer Finance 是一个去中心化的二元期权交易平台。二元期权不同于永续期权，因为交易者只押注价格上涨或下跌。交易者要么获得固定回报，要么一无所获。
+
+当前市值：1100 万美元
+
+**SperaxUSD（$SPA）**
+-------------------
+
+![](https://img.foresightnews.pro/202303/aee33b46a5c784b7e45bca420f249886.png?x-oss-process=style/scale70)
+
+SperaxUSD 是一个用于铸造稳定币 $USDs 的去中心化协议，由符合条件的抵押品 100% 抵押铸造（包括 $USDC、$DAI 等）。由于 $USDs 的自动收益功能，用户无需抵押也可以获得收益。
+
+收益从何而来？当 $USDs 被铸造时，抵押品被存入经审计的收益聚合器以产生收益。收益策略由 $veSPA 持有者决定，所产生收益的 50% 每周分配给 $USDs 持有者，剩下的 50% 用于回购 $SPA，一半销毁，一半分配给 $veSPA 持有者。
+
+此外，SperaxUSD 还发布了 DEX 流动性管理器协议 (Demeter Protocol)，DAO 可以使用它在 Uniswap v3 上启动流动性池。
+
+当前市值：1000 万美元
+
+**TridentDAO（$PSI）**
+--------------------
+
+![](https://img.foresightnews.pro/202303/73ff9becf115995777c47f5d8fb91101.jpeg?x-oss-process=style/scale70)
+
+TridentDAO 是一家旨在改变加密游戏行业的 Web3 游戏企业。他们用 Risk-to-Earn 取代了 Play-to-Earn 的概念，玩家在游戏中观看比赛时可以下注代币以获得奖励。
+
+当前市值：1000 万美元
+
+**Y2K Finance（$Y2K）**
+---------------------
+
+![](https://img.foresightnews.pro/202303/4eaa71588a92c339356d7d31d3bcd105.jpeg?x-oss-process=style/scale70)
+
+Y2K Finance 是围绕「稳定」资产的挂钩而构建衍生产品的协议。他们的主要产品允许用户对冲稳定币的脱钩，比如最近的 USDC 事件。更多产品即将推出。
+
+当前市值：900 万美元
+
+**Crypto Volatility Index（$GOVI）**
+----------------------------------
+
+![](https://img.foresightnews.pro/202303/1f944c37092e6d1768fa3dc0c2a3e8ec.png?x-oss-process=style/scale70)
+
+Crypto Volatility Index 是一个构建加密货币波动率的指数协议，或者说是一个用于加密货币的去中心化市场恐惧指数。CVI 允许用户在不选择涨跌方向的情况下押注市场波动。
+
+当前市值：800 万美元
+
+**FactorDAO（$FCTR）**
+--------------------
+
+![](https://img.foresightnews.pro/202303/edfc4a73ee00b055dc0c85e7527e10fc.jpeg?x-oss-process=style/scale70)
+
+FactorDAO 是一个允许用户创建多种资产的代币投资篮子的协议，也可以复制其他投资组合、市场中性策略等。
+
+当前市值：800 万美元
+
+**PlutusDAO（$PLS）**
+-------------------
+
+![](https://img.foresightnews.pro/202303/50dc3a917ab6db88f6b779ae6866c5b5.jpeg?x-oss-process=style/scale70)
+
+PlutusDAO 是 Arbitrum 上的 veTokens 治理聚合器协议。
+
+当前市值：700 万美元
+
+**Ipro Protocol（$IPRO）**
+
+![](https://img.foresightnews.pro/202303/11ffa18cd6ea558a48b5bcfd4003d253.jpeg?x-oss-process=style/scale70)
+
+Ipro Protocol 是一个允许用户对 DeFi 利率进行投机和对冲、赚取稳定币收益并获得追溯奖励的协议。
+
+当前市值：700 万美元
+
+**Vesta Finance（$VSTA）**
+
+![](https://img.foresightnews.pro/202303/f534b5852e122de9401dbf01b710257d.png?x-oss-process=style/scale70)
+
+Vesta Finance 是一个借贷协议，现在也推出了自己的稳定币 $VST。用户可以用 ETH、gOHM、GMX、GLP 或 DPX 借出 $VST。
+
+当前市值：600 万美元
+
+**Kromatika DEX（$KROM）**
+------------------------
+
+![](https://img.foresightnews.pro/202303/dafe5f15dcd9c045d0d56e993d2f2659.jpeg?x-oss-process=style/scale70)
+
+Kromatika DEX 是一个 DEX 聚合器，没有价格滑点，没有抢先运行的机器人，拥有无 Gas 费用模式。它还提供高达 100 倍杠杆的永续合约交易，有 70 多个加密货币对，且交易费用低。
+
+当前市值：600 万美元
+
+**WINR Protocol（$WINR）**
+------------------------
+
+![](https://img.foresightnews.pro/202303/53787cdf906ea286cc179e9ae4109809.jpeg?x-oss-process=style/scale70)
+
+WINR 是一个用于构建 GameFi、P2E 游戏的基础设施，其核心是流动资金池（WLP）。
+
+当前市值：600 万美元
+
+**GMD Protocol（$GMD）**
+----------------------
+
+![](https://img.foresightnews.pro/202303/eb33920bfeef4362dcbe037a16da95fe.jpeg?x-oss-process=style/scale70)
+
+GMD 提供建立在 $GMX 和 $BFR 之上的 Delta-Neutrail 单一资产保险库，允许 LPs 从集成协议产生的费用中获利，同时对冲其他风险。
+
+当前市值：500 万美元
+
+**BetSwirl（$BETS）**
+-------------------
+
+![](https://img.foresightnews.pro/202303/b00450bbe3fcea6c4ef30d48bd3d4f9b.png?x-oss-process=style/scale70)
+
+BetSwirl 是一个 GambleFi 协议，通过 Chainlink 的随机性为其用户提供公平的赔率。它目前已上线 Avalanche、Polygon、BSC，很快就会在 Arbitrum 上部署。上周该协议的投注量超过 100 万美元，显然受到了更多关注。
+
+当前市值：400 万美元
+

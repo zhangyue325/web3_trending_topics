@@ -1,0 +1,105 @@
+![](https://img.foresightnews.pro/202303/9ecffc73e39a6aca94fbaee9317636db.gif?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/4c4210cf95e53bc6cd11a7fe18b449eb.png?x-oss-process=style/scale70)
+
+3 月 16 日，以太坊 Layer2 项目 Arbitrum 正式推出 Arbitrum DAO，并公布了治理代币奖励空投计划。
+
+用户已经可以查看自己地址能够获得的代币空投数量：https://arbitrum.foundation，但直到 3 月 23 日才能领取代币。
+
+  
+
+
+![](https://img.foresightnews.pro/202303/7884719bb6d12f911e1561f165085b16.png?x-oss-process=style/scale70)
+
+  
+
+
+Arbitrum DAO 介绍
+---------------
+
+Arbitrum DAO（去中心化自治组织）是一个新实体，对 Arbitrum One 和 Arbitrum Nova 链及其底层协议具有决策权。该 DAO 受 Arbitrum DAO 章程管辖，这是一套描述 DAO 将如何运作的规则。宪法载于许多社会契约中，Arbitrum DAO 使用这些契约来管理自身及其技术。
+
+  
+
+
+**ARB 代币用途**
+------------
+
+Arbitrum 团队表示，$ARB 治理代币的分发将进一步实现 Arbitrum One 和 Arbitrum Nova 及其底层协议治理的去中心化。$ARB 代币可用于对 Arbitrum DAO 治理提案进行投票，从而使 $ARB 持有者能够共同塑造 Arbitrum 协议和链的未来。代币持有者也可以将他们的投票权委托给代表。从这一点来看，ARB 代币与以往的协议治理代币在功能上并未有太大不同。
+
+  
+
+
+**ARB 代币总量多少？如何分配？**
+--------------------
+
+$ARB 是 Arbitrum One Rollup 链原生的 ERC-20 治理代币。
+
+在启动时：
+
+* 初始供应量：100 亿枚
+* 通胀：每年最多 2%
+* 发行链：Arbitrum One
+* 快照时间：2023 年 2 月 6 日（Arbitrum One 区块高度 58642080）
+
+初始代币分配和空投分配：* Arbitrum DAO 财库：42.78 亿枚，占初始供应 42.78%
+* Offchain Labs 团队及未来团队和顾问：26.94 亿枚，占初始供应 26.94%
+* Offchain Labs 投资人：17.53 亿枚，占初始供应 17.53%
+* Arbitrum 平台用户（即空投部分）：11.62 枚，占初始供应 11.62 %
+* 在 Arbitrum 上构建应用程序的 DAO （通过空投到 DAO 财库地址）：1.13 亿枚，占初始供应 1.13%
+
+**哪些用户拥有 ARB 空投资格？**
+--------------------
+
+Arbitrum 团队根据用户与 Arbitrum One 和 Arbitrum Nova 的交互程度进行划分，每符合一个交互条件将获得对应积分，然后根据交互地址的最终积分数再转化为可获得的 ARB 代币数量。与 Arbitrum One 交互的用户需满足以下 14 个条件之一才能获得积分：1. 将资金通过跨链桥跨到 Arbitrum One
+2. 在两个不同的月份进行过交易
+3. 在不同的六个月内进行交易
+4. 在九个月内进行的交易
+5. 进行了超过四笔交易或与超过四种不同的 Arbitrum One 生态智能合约进行了交互
+6. 进行了十余笔交易或与十余个不同的智能合约交互
+7. 进行超过 25 笔交易或与超过 25 种不同的智能合约进行交互
+8. 进行了超过 100 笔交易或与超过 100 种不同的智能合约进行交互
+9. 进行的交易总额超过 10,000 美元
+10. 进行的交易总价值超过 50,000 美元
+11. 进行的交易总价值超过 250,000 美元
+12. 向 Arbitrum 存入超过 10,000 美元的流动资金
+13. 向 Arbitrum 存入超过 50,000 美元的流动资金
+14. 向 Arbitrum 存入超过 250,000 美元的流动资金
+
+与 Arbitrum Nova 交互的用户需满足以下 4 个条件之一才能获得空投：1. 将资金桥接到 Arbitrum Nova
+2. 进行了三笔以上的交易
+3. 进行了五笔以上的交易
+4. 进行了十笔以上的交易
+
+  
+**根据获得的积分多少，单个地址最高可获得 10200 枚 ARB 代币奖励。**  
+当然，为了防止女巫攻击（撸羊毛），团队采取了一些措施，包括：1.空投接收者的钱包交易发生的时间不能全都集中在 48 小时内，否则将减少空投奖励。2.如果空投接收者的钱包余额少于 0.005 ETH，并且钱包没有与超过一个智能合约交互，则减少奖励。3.如果空投接收者的钱包地址在 Hop 协议赏金计划期间被识别为 Sybil 地址，则该接收者将被取消资格。**第 3 层开发人员工具 Arbitrum Orbit 启动**
+---------------------------------
+
+除了空投公告外，Arbitrum 还为那些有兴趣在 Arbitrum 之上构建第 3 层解决方案的人发布了一个开发工具包：Arbitrum Orbit，将允许任何人在 Arbitrum 代码库之上启动他们自己的 L3。
+
+Arbitrum 使用 optimistic rollups 将交易批处理到第 1 层以太坊区块链上。建立在 Arbitrum 上的第 3 层网络将使用类似的 rollup 将交易批量发送到 Arbitrum，然后将其 rollup 到以太坊中，它将允许以相对较低的成本增加交易处理量。
+
+构建此类第 3 层网络的开发人员被授予永久许可，可以随意使用和更改 Arbitrum 源代码，开发人员可以在 Arbitrum 之上创建特定于应用程序的链或通用链。
+
+这与竞争对手 Layer 2 Optimism 的方法有点不同，Optimism 没有专注于第 3 层网络，而是鼓励基于其代码堆栈创建许多可以相互链接的第 2 层网络，Coinbase 的 Base 就是其首批支持者之一。也就是说，Arbitrum 对使用其代码支持第 2 层网络持开放态度。Arbitrum DAO 将能够投票决定是否支持使用 Arbitrum 结算到以太坊的其他第 2 层链。如果这些链选择接受 Arbitrum 的章程，它们将被称为「治理」链。
+
+一个突出的特点是，ARB 代币将不会用于支付 Arbitrum 链上的任何费用，链上费用仍将通过 ETH 支付。
+
+Offchain Labs 首席执行官 Steven Goldfeder 表示，Layer 3 公告并不是对 Optimism 与 Coinbase 合作的反应：「我们已经计划第 3 层战略很长时间了」。
+
+  
+**Arbitrum、Zksync、Optimism、StarkNet 经常被称为以太坊四大 Layer2。**如今 Arbitrum 成为 Optimism 之后第二个进行代币空投的，接下来只剩下 **zkSync** 和 **StarkNet**，尤其是 zkSync 依旧“深藏不露”，虽然确定将会有代币，但 zkSync 代币一直处于幕后，或许在这之后，zkSync 代币已经不远了。![](https://img.foresightnews.pro/202303/4c4210cf95e53bc6cd11a7fe18b449eb.png?x-oss-process=style/scale70)  
+
+
+本文链接：https://www.defidaonews.com/article/6809616  
+转载请注明文章出处![](https://img.foresightnews.pro/202303/4c4210cf95e53bc6cd11a7fe18b449eb.png?x-oss-process=style/scale70)
+
+  
+![](https://img.foresightnews.pro/202303/bb3c2ecd20b6844afa5e1ab1aeddc858.jpeg?x-oss-process=style/scale70)
+
+声明：请读者严格遵守所在地法律法规。以上内容不构成任何投资建议。  
+
+
+---
+
+  
+内容筛选及编辑：秋老师  

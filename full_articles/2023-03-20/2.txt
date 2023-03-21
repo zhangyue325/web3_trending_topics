@@ -1,0 +1,233 @@
+去中心化域名协议 SPACE ID 的治理代币 ID 将于 3 月 22 日[开放](https://blog.space.id/space-id-early-adopter-airdrop-voyage-season-2-6865b372d684)空投领取，申领开放至 4 月 22 日，本次空投领取将在 BNB Chain 上进行，ID 将有质押、支付、治理功能，代币总供应量为 20 亿枚，所有早期采用者和生态系统贡献者将有资格申领 4200 万枚，占社区空投池的 21%（占总供应量的 2.1%），空投对象为快照时拥有 .bnb 或 .arb 域名的约 294,000 个地址，快照已于北京时间 3 月 14 日 22:00 完成。
+
+ 
+
+Arbitrum 代币 ARB 将于 3 月 23 日[空投](https://foresightnews.pro/article/detail/28297)给社区成员。ARB 的初始总供应量是 100 亿枚，每年最多通货膨胀 2%，Arbitrum 社区占总量的 56%，此次空投将向符合条件的用户发放总供应量的 11.5%，另外 44% 将流向 Arbitrum 的开发公司 Offchain Labs 的投资者和员工。此外，Arbitrum 与加密分析公司 Nansen 合作，在 2 月份对用户活动进行快照，以确定谁应该有资格获得 ARB 代币。
+
+ 
+
+本周起香港陆续开始 Web3 相关预热活动，活动包括：
+
+ 
+
+* Blockbusters Lab 主办的 FOMO Asia 于 3 月 20 日至 3 月 23 日香港君悦酒店及会展中心举行
+* Aspen Digital 主办的 Web 3 创新峰会 于 3 月 20 日在香港君悦酒店举行
+* IKA BLOCK、Alibaba Cloud、Avalanche 主办的 IKA BLOCK Hong Kong WEB3 Demo Day 于 3 月 21 日举行
+* Outland、8DAO、OKX 主办的 𝗢𝗨𝗧𝗟𝗔𝗡𝗗 𝗧𝗔𝗞𝗘𝗦 𝗔𝗦𝗜𝗔 于 3 月 22 日 15:30 - 21:00 举行
+* 第 2 届世界 Web3 峰会于 3 月 26 日 - 28 日在香港会展中心举行
+[**点此**](https://api.foresightnews.pro/v1/calendar.ics)**订阅 Foresight News 区块链日历**
+
+3 月 20 日
+--------
+
+ 
+
+### 重要事件
+
+ 
+
+* Binance.US 以 10 亿美元收购 Voyager 的交易已[延长](https://www.coindesk.com/policy/2023/03/16/voyager-binanceus-pause-denied-by-bankruptcy-judge/)至 3 月 20 日
+ 
+
+### 活动预告
+
+ 
+
+* 香港周边活动：Blockbusters Lab 主办的 [FOMO Asia](https://www.fomoasia.co/) 于 3 月 20 日至 3 月 23 日香港君悦酒店及会展中心举行
+* 香港周边活动：Aspen Digital 主办的 [Web 3 创新峰会](https://www.web3investmentsummit.com/zh/sponsors-partners) 于 3 月 20 日在香港君悦酒店举行
+* [GAME DEVELOPERS CONFERENCE](https://gdconf.com/) 于 3 月 20 日至 24 日在加利福尼亚举行
+ 
+
+### 项目进展
+
+ 
+
+* Lido V2 版本预计将于 3 月 20 日[上线](https://twitter.com/LidoFinance/status/1635739571227951117) Goerli 测试网
+* Convex Finance 将于 3 月 20 日[迁移](https://twitter.com/ConvexFinance/status/1633789488584327171)其 Arbitrum 资金池
+* 欧易 OKX 月度 PoR 将在 3 月 20 日左右[发布](https://www.prnewswire.com/news-releases/okx-announces-zero-knowledge-proof-solvency-verification-full-liability-tree-disclosure-upgrades-to-proof-of-reserves-301760663.html)
+ 
+
+### 提案投票
+
+ 
+
+* 稳定币聚合协议 mStable 社区 MIP-30 提案将于 3 月 20 日进行[投票]( https://forum.mstable.org/t/mip-30-mstable-governance-path-resolution/1013)，投票窗口期为 5 天
+ 
+
+3 月 21 日
+--------
+
+ 
+
+### 活动预告
+
+ 
+
+* Aptos 于 2023 年 3 月 21 日 01:00 [举办](https://twitter.com/i/spaces/1YqGoAmwQlaxv)主题为「Women of Web3 on #AptosMoveMonday for Women’s Month | All are welcome!」的 Twitter Space 活动。
+* 香港周边活动：IKA BLOCK、Alibaba Cloud、Avalanche 主办的 [IKA BLOCK Hong Kong WEB3 Demo Day](https://foresightnews.pro/article/detail/27222) 于 3 月 21 日举行
+ 
+
+### 项目进展
+
+ 
+
+* 东南亚交易所 Zipmex 计划在 3 月 21 日前[完成](https://www.coindesk.com/business/2023/02/20/crypto-exchange-zipmex-to-restart-customer-withdrawals-after-closing-takeover-deal/)用户提款
+* FTX 子公司 FTX Japan 的拍卖将于 3 月 21 日[举行](https://www.bloomberg.co.jp/news/articles/2023-01-16/ROK5RCT0AFB401)
+* Binance.US 计划 3 月 21 日[下架](https://heliumfoundation.medium.com/in-response-to-binance-us-dd9406bca74e) HNT/USD 和 HNT/USDT 交易对
+* 链游 Galaxy Blitz 将为 3 月 21 日前注册的玩家[发放](https://twitter.com/galaxyblitzgame/status/1628998156796010497) 10 美元的游戏内资源
+* 图库巨头 Getty Images 将于 3 月 21 日在 Candy Digital 网站上[发售](https://www.theblock.co/post/217216/getty-images-to-release-first-nfts-from-archives-with-candy-digital)稀有图片 NFT
+* Aztec Network 将于 3 月 21 日[关闭](https://medium.com/aztec-protocol/sunsetting-aztec-connect-a786edce5cae)隐私基础设施 Connect
+ 
+
+### 提案投票
+
+ 
+
+* Starknet DAO 将于 3 月 21 日[开启](https://www.theblock.co/post/220101/starknet-governance-to-begin-with-vote-for-new-protocol-upgrade)首次治理投票，以决定 Alpha v0.11.0 升级
+ 
+
+3 月 22 日
+--------
+
+ 
+
+### 重要事件
+
+ 
+
+* 美 CFTC 技术咨询委员会将于 3 月 22 日召开的开幕会议上[讨论](https://www.cftc.gov/PressRoom/PressReleases/8674-23) DeFi 议题，考虑创建新的数字资产和区块链技术小组委员会
+* 美联储将于 3 月 22 日[公布](https://bank.fx678.com/)决议声明、发布会、点阵图、经济预测
+ 
+
+### 活动预告
+
+ 
+
+* AFFLUX 将于 3 月 22 日在韩国[举办](https://foresightnews.pro/article/h5Detail/28423)主题为「NEW FUTURE OF WEB3」的 Demo Day
+* 香港金融管理局将于 3 月 22 至 23 日在香港[举办](https://news.rthk.hk/rthk/ch/component/k2/1691752-20230313.htm)巴塞尔银行监管委员会（BCBS）会议
+* 香港周边活动：Outland、8DAO、OKX 主办的 [𝗢𝗨𝗧𝗟𝗔𝗡𝗗 𝗧𝗔𝗞𝗘𝗦 𝗔𝗦𝗜𝗔](https://twitter.com/outland_art/status/1632836692561346565) 于 3 月 22 日 15:30 - 21:00 举行
+ 
+
+### 项目进展
+
+ 
+
+* 币安将于 3 月 22 日[恢复](https://www.binance.com/zh-CN/support/announcement/%E9%97%9C%E6%96%BCbtc%E9%9B%B6%E6%89%8B%E7%BA%8C%E8%B2%BB%E5%92%8Cbusd%E9%9B%B6%E6%8E%9B%E5%96%AE-maker-%E6%89%8B%E7%BA%8C%E8%B2%BB%E6%B4%BB%E5%8B%95%E7%9A%84%E6%9B%B4%E6%96%B0-be13a645cca643d28eab5b9b34f2dc36)部分 BTC 手续费和 BUSD 挂单手续费
+* 去中心化身份协议 SPACE ID 将于 3 月 22 日开放[空投](https://blog.space.id/space-id-early-adopter-airdrop-voyage-season-2-6865b372d684)领取
+ 
+
+3 月 23 日
+--------
+
+ 
+
+### 活动预告
+
+ 
+
+* 丰田汽车赞助的首个 Astar Web3 黑客松第一轮评审将于 3 月 23 日[举行](https://medium.com/astar-network/announcing-web3-hackathon-on-astar-sponsored-by-toyota-motor-corporation-fb5994428b2f)
+* Fantom 基金会 2023 年第一季度黑客马拉松于 3 月 23 日前后[宣布](https://fantom.foundation/blog/fantom-hackathon-q1-2023/)获奖者
+* Three Arrows Capital 旗下 NFT 将由其清算人 Teneo 于 3 月 23 日之后开始[出售](https://3acliquidation.com/wp-content/uploads/2023/02/230222-Notice-3AC-Asset-Sales-Website.pdf)
+* Foresight Ventures 联合 Everyrealm、Animoca Ventures、Xterio、Shima Capital 在旧金山举办主题为「Gamifying The Future」的线下活动
+ 
+
+### 项目进展
+
+* Arbitrum 将于 3 月 23 日[空投](https://foresightnews.pro/news/detail/19529)治理代币 ARB
+* 火必将于 3 月 23 日[上线](https://www.huobi.com/support/en-us/detail/104933362419376) Arbitrum 代币 ARB
+* Bitget 将于 3 月 23 日起[开启](https://www.bitget.site/zh-CN/support/articles/12560603778071) ARB 充值交易专场
+ 
+
+### 重要事件
+
+ 
+
+* 加拿大证券管理局加强了对加密资产交易平台的监管，未注册加密货币交易平台预计将 3 月 23 日前向其主要监管机构提供增强的[预注册承诺](https://financefeeds.com/canadas-csa-crypto-trading-patforms-have-30-days-to-enhance-pre-registration/)
+ 
+
+### 代币解锁
+
+ 
+
+* Galxe 代币 GAL 将于 3 月 23 日 20:00:00 解锁 192,307.69 枚（约 40 万美元），占总供应量的 0.096%
+* Arbitrum 代币 ARB 将于 3 月 23 日 20:30:00 解锁 5,553,000,000 枚，占总供应量的 55.53%
+ 
+
+### 提案投票
+
+ 
+
+* Aave 关于在以太坊 Layer 2 网络 Metis Andromeda 主网上部署 Aave V3 的[提案投票](https://snapshot.org/#/aave.eth/proposal/0x7e6175c21342dbd88dc5b0dabf2d0a86339e3ef3f199fc7d778a9a6f05ed0df9)截止时间为 3 月 23 日 22:00
+ 
+
+3 月 24 日
+--------
+
+ 
+
+### 代币解锁
+
+ 
+
+* 1inch 代币 1INCH 将于 3 月 24 日 04:00:00 解锁 53,572 枚（约 3 万美元），占总供应量的 0.004%
+* CryptoGPT 代币 GPT 将于 3 月 24 日 20:00:00 解锁 15,000,000 枚（约 190 万美元），占总供应量的 0.5%
+ 
+
+### 活动预告
+
+ 
+
+* 香港金融管理局将于 3 月 24 日与国际结算银行（BIS）于香港合办「[在创新时代下与时并进的银行业监管](https://news.rthk.hk/rthk/ch/component/k2/1691752-20230313.htm)」研讨会
+* Cronos 生态创业加速器 Cronos Labs 加速器计划第二批项目申请[截止日期](https://www.prnewswire.co.uk/news-releases/cronos-labs-launches-second-cohort-of-accelerator-program-to-advance-web3-dapp-development-301734807.html)为 3 月 24 日
+* 苏富比将于 3 月 24 日至 3 月 31 日在纽约举办拍卖会「[Natively Digital: Glitch-ism](https://www.coindesk.com/web3/2023/03/15/sothebys-holding-meme-inspired-nft-auction-featuring-beeple/)」
+* Outlier Ventures 和 FARFETCH 的 Web3 奢侈品商业发展加速器[申请截止](https://outlierventures.io/farfetch-and-outlier-ventures-now-accepting-applications-for-dream-assembly-base-camp-cohort-two/)日期为 3 月 24 日
+ 
+
+### 项目进展
+
+ 
+
+* 币安将于 3 月 24 日[下架](https://www.binance.com/en/support/announcement/binance-will-delist-hnt-wabi-on-2023-03-24-f1a8aa29692b4442a8f18be2076e14a0) Helium（HNT）和 Tael（WABI）
+* Axie Infinity 已启动 Homeland Season 1 并将[持续至](https://axie.substack.com/p/homeland-s1alpha) 3 月 24 日
+ 
+
+### 重要事件
+
+ 
+
+* 消息人士：Vauld 债权人保护期[延长至](https://www.theblock.co/post/215340/vauld-gets-yet-another-creditor-protection-extension-until-march-24) 3 月 24 日
+ 
+
+3 月 25 日
+--------
+
+ 
+
+### 活动预告
+
+ 
+
+* OKX 和谷歌云于 3 月 25 日至 27 日举行[黑客松](https://okx-hackathon-march-2023.devfolio.co/)，奖金达 60 万美元
+* PlatON 与阿里云和 HashKey 联合举办的 Web3 全球创业大赛「HAPathon 2023」曼谷站于 3 月 25 日至 26 日[举行](www.hapathon.com)
+* Property Guru & MetaEstate 于 11:00 在滨海湾金沙会展中心 4 层举办主题为「[Southeast Asia Property Investment Show](https://propertyguru-events.com/event/seapis2023/)」的线下活动
+ 
+
+### 项目进展
+
+* Otherside 暂定于 3 月 25 日[上线](https://news.yuga.com/otherside-2nd-trip#) Otherside Second Trip
+ 
+
+### 代币解锁
+
+ 
+
+* LooksRare 代币 LOOKS 将于 3 月 25 日 12:55:40 解锁 12,500,000 枚（约 199 万美元），占总供应量的 1.25%
+* ImmutableX 代币 IMX 将于 3 月 25 日 18:00:00 解锁 18,075,990.71 枚（约 2675 万美元），占总供应量的 0.904%
+ 
+
+### 活动预告
+
+ 
+
+* PlatON 与阿里云和 HashKey 联合举办的 Web3 全球创业大赛「[HAPathon 2023](https://bit.ly/3GfbFVL)」东京站报名截止日期为 3 月 26 日
+* 香港周边活动：第 2 届世界 Web3 峰会于 3 月 26 日 - 28 日在香港会展中心[举行](https://www.huodongxing.com/event/7614129647700)

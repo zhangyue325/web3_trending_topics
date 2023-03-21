@@ -1,0 +1,237 @@
+  
+
+
+2 月 15 日，zkIgnite Cohort 1 迎来了 600 多名加入 Mina 生态的 builder。zkIgnite 旨在为开发者和企业家提供使用零知识 (ZK) 技术建立事业所需的工具。
+
+  
+
+
+为了在 Mina 上建立项目，Cohort 1 每周举行 workshop 和交流会，并且他们有机会获得 Mina Foundatuon 资助的 500,000 USDC 和 500,000 MINA 的可用赠款。该计划分为两个赛道：zkApp 赛道和 Dev4Dev 赛道。首月已经取得巨大成功：* 500+ builder 进入 zkIgnite Innovation Platform
+* 100+ zkApp 提案
+* 60+ Dev4Dev 提案
+* 还有 30 位来自社区的选举人，将对提案进行投票。
+
+除此以外，在短短四周内，参与者学习了**构思、提案写作、接洽投资者和 zkApp 架构**。让我们聚焦每周的聚会，看看其中的一些杰出工作。  
+
+
+**Week****1：构思**
+
+  
+
+
+300 多名 zkIgnite Cohort 1 成员在一场大型 zkApp 构思会议上一同启动了该计划。
+
+![](https://img.foresightnews.pro/202303/cc6696512f28b608a461ba06e6813b4d.png?x-oss-process=style/scale70)  
+
+
+研究表明，**共同创造比个体创造的创新能力高出 26%**。这项研究是 Week 1 关注重点的基础，其中涉及提交对一系列主题的想法，包括是否包含隐私用例、Mina 生态系统内的工具需求、独特的 zkApp 架构等等。这项活动激发了小组成员的创造力，并诞生了 138 个与zkApp 和工具相关的单独的讨论主题。
+
+观看第一周的会议回放了解有关该计划的更多细节，听取 Mina 基金会首席执行官 Evan Shapiro 是如何讨论关于合作的重要性，以及查看头脑风暴会议的内部情况。
+
+**>****zkIgnite Cohort 1 第一周会议**
+
+  
+
+
+  
+
+
+**Week 2：****提案最佳实践**  
+
+
+  
+
+
+在一周的灵感碰撞之后，参与者提交了用于进行合作的 100 多个见解，并开始寻找他们最喜欢的想法。在 Week 2，他们学习了组成每个提案的部分最佳实践，包括**问题陈述、解决方案、架构、预算、里程碑和依赖关系**。
+
+  
+
+
+![](https://img.foresightnews.pro/202303/20823d727aa57ec6b84db06b74dd02fd.jpeg?x-oss-process=style/scale70)  
+
+
+然后，小组到 Gather.Town 进行冒险，并将范围缩小到讨论他们希望用零知识证明来解决哪些现实世界的问题。以下是其中的一些有趣的讨论，其中许多是来自 Week 1 的见解练习。
+
+  
+
+
+*“**人们并不总是像想象中的那样关心隐私**”**“**注重隐私的忠诚度计划、合作伙伴奖励 & 礼物**”**“**用于验证声明和颁发凭证的社区证明协议**”*  
+你可以到 Mina Youtube 频道观看 Week 2 的 workshop。
+
+**>** **zkIgnite Cohort 1 第二周会议回放**
+
+  
+
+
+**Week 3：从风投角度看创业公司的可投资性**
+
+  
+
+
+当 builder 们开始组建他们的团队时，他们也会见了来自风投公司 Room40 Ventures 的成员，了解他们如何评估项目。内容涵盖：* 从构想到公司的每个阶段发生的关键突破
+* 在产品化阶段，加密货币的具体考虑因素
+* 他们在 zkApp 提案中寻找的 ZK 特定考虑因素
+
+最后，Room40 Ventures 分享了他们用来预测下一个类别定义的初创公司**投资者清单**，该清单着眼于团队、市场、产品、模式和公司秩序。  
+
+
+![](https://img.foresightnews.pro/202303/b80b200fff8355400b97f96bc07656d7.jpeg?x-oss-process=style/scale70)  
+
+
+观看Week 3 的会议记录，了解让风投对 Web 3 项目感兴趣的因素。
+
+**>****zkIgnite Cohort 1 第三周会议回放**
+
+  
+
+
+**Week 4：了解 zkApp 架构**
+
+  
+
+
+在项目提案阶段的最后一周，参与者与 Mina 生态合作伙伴O(1) Labs 一起学习了 zkApp 架构，这将在他们的项目规划中起到关键作用。
+
+  
+
+
+学员们学习了**如何设计一个用于投票的 zkApp 的示例，分为三个级别：简单、中级和高级。**你可以在下方看到简单的设计方法。
+
+  
+
+
+![](https://img.foresightnews.pro/202303/b8f59636b90d40022434312841d16cae.jpeg?x-oss-process=style/scale70)简单设计一个链上投票 zkApp
+
+  
+
+
+正如你所见的，简单的设计带来了一些问题，因为它没有限制谁可以投票，并且每个区块只允许一次投票成功。该小组随后采用了一种中级设计方法来解决这个问题。  
+
+
+  
+
+
+![](https://img.foresightnews.pro/202303/1f3c3f494185424e184c8557ea376ea6.jpeg?x-oss-process=style/scale70)设计一个中级水平的链上投票 zkApp
+
+  
+
+
+在建立了所有先前的要求之后，该小组随后学习了如何通过使用递归证明在链外聚合投票来优化扩展。
+
+  
+
+
+![](https://img.foresightnews.pro/202303/a75172b7ddcb96755f11598767db94b7.jpeg?x-oss-process=style/scale70)设计一个高级水平的链上投票 zkApp
+
+  
+
+
+在整个演练过程中，参与者对 zkApp 有了更深入的了解，最终理解了为什么 zkApp 是以零知识技术建立隐私和可扩展应用的最简单、最强大的方式。
+
+  
+
+
+如果你看到这里，你可能有兴趣看看 zkApp 架构 workshop 的完整回放，在最后，来自 O(1) Labs 的 Gregor 和 Florian 还分享了一些关于如何进一步扩展和实现隐私的技巧！
+
+**>****zkIgnite Cohort 1 第四周会议回放**
+
+  
+
+
+**接下来的 8 个星期**
+
+在我们收到 160 多份提交的提案草案之后，参与者现在进入了项目的反馈阶段，社区成员对彼此的项目进行反馈并修改他们的提案，直到 3 月 21 日提案定稿，选举人开始投票。
+
+  
+
+
+如果你错过了 Cohort 1，zkIgnite Cohort 2 将于今年晚些时候开始。现在是注册Innovation Platform 的好时机，你可以在新的 Cohort 2 开始之前了解它的页面组成。即使你错过了 Cohort 1 的提案提交，你仍然可以对社区项目留下反馈意见，或加入一个团队！目前有一些团队正在寻找各种技术来帮助建立他们的项目，如设计师、联合创始人、开发者等等。
+
+  
+
+
+**如何找到一个团队或对提案草案留下反馈：*** **第 1 步**：创建一个zkIgnite 账户，这是 Cohort 1 提交提案、提供反馈、建立团队、投票等的平台。
+* **第 2 步**：选择一个zkApp 或Dev4Dev 赛道， 然后点击 Participate（参与）标签。
+* **第 3 步**：审查每个赛道的各种提案，确保在讨论区留下你的反馈。你可以在这里或在下一步提出帮助建立提案。
+* **第 4 步**：在 Mina 的 Discord 上认识其他同组成员。在 #zkignite-connections 频道中介绍自己。
+
+  
+
+
+一些团队正在 Twitter 上寻求帮助。接触他们，一起加入零知识技术未来建设运动！
+
+  
+
+
+![](https://img.foresightnews.pro/202303/5baf742a0c0883b507c80dc27d52dc89.png?x-oss-process=style/scale70)  
+
+
+  
+
+
+  
+
+
+![](https://img.foresightnews.pro/202303/8ad00eb87c26124a611431bde01b30c0.png?x-oss-process=style/scale70)**About Mina Protocol**
+
+**#PoweredByParticipants**
+
+  
+
+
+Mina 是全球最轻量区块链，由参与者参与治理。
+
+  
+
+
+凭借其优雅的设计，Mina 是首个实现简易编程性零知识智能合约（[zkApp](http://mp.weixin.qq.com/s?__biz=Mzk0OTIzNzg3Nw==&mid=2247485607&idx=2&sn=e24f32b0fb9c07a341e71231d77e9893&chksm=c35a29bdf42da0aba6e4e58a21fa3f71d63b54a41036a1b16769b866e7a17028ff1a09f3023d&scene=21#wechat_redirect)）的一层网络。Mina 独特的隐私和安全功能及其通过 zkApp 与任何网站链接的能力，使得 Web3 更具安全性和私密性，极大地推动着所有人都应享有的安全民主未来的构建。Mina 由总部位于美国的非营利组织 Mina 基金会管理。
+
+  
+
+
+  
+
+
+![](https://img.foresightnews.pro/202303/8ad00eb87c26124a611431bde01b30c0.png?x-oss-process=style/scale70)Website
+
+![](https://img.foresightnews.pro/202303/25f6d27300aa7a637dda8d8d431dbcd6.png?x-oss-process=style/scale70)Twitter
+
+![](https://img.foresightnews.pro/202303/ac5035c4e361768efbc6a8208d26b1a1.png?x-oss-process=style/scale70)Medium
+
+![](https://img.foresightnews.pro/202303/7759921919ffc27d66bd86b43f381f6e.png?x-oss-process=style/scale70)Weibo
+
+![](https://img.foresightnews.pro/202303/1ee92846c08b30f7874189937b986e79.png?x-oss-process=style/scale70)Discord
+
+![](https://img.foresightnews.pro/202303/bf420670dec2ca347bacc727313585ac.png?x-oss-process=style/scale70)Telegram
+
+![](https://img.foresightnews.pro/202303/9e83f576d1cff43acfe2e5f405ed9a6e.png?x-oss-process=style/scale70)GitHub
+
+  
+
+
+  
+
+
+![](https://img.foresightnews.pro/202303/c71175429cee859cffd07621795a49ea.png?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/77dc10027926c49a8f878ab38abe133f.png?x-oss-process=style/scale70)**全球最轻量区块链 人人皆可参与**
+
+公众号｜Mina Protocol Official
+
+微　博｜Mina\_Protocol
+
+  
+
+
+  
+
+
+![](https://img.foresightnews.pro/202303/5db10ece9608cadeab0d06a41d1e422c.png?x-oss-process=style/scale70)**往期回顾**
+
+[![](https://img.foresightnews.pro/202303/627f477a70d61d9331339d564e139f46.png?x-oss-process=style/scale70)](http://mp.weixin.qq.com/s?__biz=Mzk0OTIzNzg3Nw==&mid=2247494530&idx=1&sn=75d4a02dc0f831b3a032b3fd33fc6586&chksm=c359ca98f42e438e7708d15dfabe1fda4d559d492b72893ada8d4f6b8b9cb9f6df5e2969b46a&scene=21#wechat_redirect)**Mina 生态开发进展月度更新｜2023 年 2 月**  
+
+
+[![](https://img.foresightnews.pro/202303/bea0f158b62d6103caff64cfb15520b7.jpeg?x-oss-process=style/scale70)](http://mp.weixin.qq.com/s?__biz=Mzk0OTIzNzg3Nw==&mid=2247494198&idx=1&sn=fb3384071d6f9f99e62d1aa40e7d66e3&chksm=c359cb2cf42e423a267de726be312373ea0d7813a83c3d0488341a97860dc2ae4c50241f9c6c&scene=21#wechat_redirect)**Mina 社区博客上线｜公开征集 Mina 社区内容创作者**  
+
+
+  
+
+

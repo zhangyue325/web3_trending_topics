@@ -1,0 +1,75 @@
+ 
+
+可能很多读者对区块链的理解还在于比特币区块链网络，环环嵌套的公共账本确实是令人影响深刻，但是如今的区块链网络早已有了不同的样态，通过不同的共识机制、网络结构来达成信任。
+
+22 年 9 月 15 日是令人激动的一天，在这一天以太的信标链（Beacon Chain）和原有主链合并，**标志着以太坊的共识机制（PoW）彻底走向权益证明 (PoS)**。
+
+![](https://img.foresightnews.pro/202303/699f622d397e3fff2ac81b0576a7f65f.jpeg?x-oss-process=style/scale70)
+
+一 时隙（slot）和周期（epoch）
+--------------------
+
+二 验证者（Validators）和证明（Attestations）
+----------------------------------
+
+PoW 机制「矿工」紧紧绑定在一起，而 Ethereum 的验证者是 PoS 机制下的「虚拟矿工」，**验证者节点无需消耗算力和电力便能得到奖励**。之所以说验证者是「虚拟」的，是因为验证器由质押者激活。在 PoW 中，用户购买硬件成为矿工。在以太坊中，用户质押 32ETH 以激活和控制由信标链节点执行的验证者。
+
+在每个周期，一个验证者被随机分配给一个槽。一个证明好比验证者的投票，这个投票的权重由验证者节点的的余额决定。验证者将自己的证明在网络中广播，这些投票最终被记录信标链中（信标链的内容主要是验证器注册的地址、每个验证器的状态和证明）。同时验证者之间相互监督，报告投票冲突的情况或者检举重复参与投票的作恶验证者。 区块提议者（proposer）是 从验证者随机挑选出来的，用于区块构建。
+
+![](https://img.foresightnews.pro/202303/35f8d4e8595c20070b195f3bfdc7336c.jpeg?x-oss-process=style/scale70)
+
+三 委员会（Committees）
+-----------------
+
+ 
+
+![](https://img.foresightnews.pro/202303/04f439ff97a92833831c64a9b0408ca5.png?x-oss-process=style/scale70)
+
+四 信标链检查点（Check Point）
+---------------------
+
+ 
+
+![](https://img.foresightnews.pro/202303/855b44d4ce3fc398e8b660d0098d7cd7.png?x-oss-process=style/scale70)
+
+注意 Slot65 到 Slot128 没有区块。Epoch2 检查点应该是 Slot128 上的区块。由于缺少区块，Epoch2 检查点是仍然是 Slot64 上的区块。Epoch 3 的情况类似，Slot192 是空的，因此前一个块 Slot180 是 Epcoh3 检查点。
+
+当进行 LMD GHOST 投票时，验证者也会投票给当前周期中的检查点，称为 target。此投票称为 Casper FFG 投票，还包括一个先前的检查点，称为 source。在图中，Epoch1 中的验证者投票给创世块的源检查点，以及区块的目标检查点 Slot 64。在 Epoch2 中，同一验证者投票给相同的检查点。只有分配给某个时隙的验证者才会对该时隙进行 LMD GHOST 投票。然而，所有验证者都为每个周期检查点投了 FFG 票。
+
+![](https://img.foresightnews.pro/202303/ac6d1e08e8e55e76a8eb9218297d147d.jpeg?x-oss-process=style/scale70)
+
+五 最终证明（Finality）
+----------------
+
+如果检查点 B 被证明是合理的，并且紧接的下一个周期中的检查点被证明是 justified 的，那么 B 将被最终确定为 Finality。通常，一个检查点会在两个时期内完成，即 12.8 分钟。
+
+ 
+
+![](https://img.foresightnews.pro/202303/36579389d7765bf2eea58cefb9833eae.png?x-oss-process=style/scale70)
+
+在上图中，周期边缘区块（epoch boundary block，即上文提到的检查点）被区块提议者提出，该区块记录了 Slot64 在 Epoch2 中获得了所有验证者超过 2/3 的权重投票，且该区块被委员会通过，即达到了 justified 状态，因此导致了其前一个检查点，Epoch1 的 source 检查点的状态转换，Slot32 上的区块由 justified 转换到了 finalized，因此在 Slot32 之前的所有区块也都被确认了，即彻底的完成了上链的操作。
+
+六 区块链浏览器验证
+----------
+
+在信标链的区块链浏览器（https://beaconcha.in/）中，我们可以验证上述共识机制是否如上所述运行，并且进一步加深我们的理解。
+
+ 
+
+![](https://img.foresightnews.pro/202303/88cbc28f15395ab66f7a30f28e10fff0.png?x-oss-process=style/scale70)
+
+左侧为诞生出的 Epoch，并且标明了是否达到 Final 状态，可以发现有两个 Epoch 中的区块尚未被最终证明。同时右侧标明了最新提案的区块，可以发现出块的时间接近 12s，和理论一致，每个区块都注明了所属的 Epoch、Slot 以及区块的提议者。
+
+![](https://img.foresightnews.pro/202303/14f4dc65472d933dc3aeb99ce61a8a9a.png?x-oss-process=style/scale70)
+
+ 
+
+进入到每个区块页面，可以看到证明的次数，投票的次数以及参与投票的验证者数量（显然在这个区块中存在着不符合规则的验证者，验证者可以检举这些验证者，从而获得奖励）。
+
+写在最后
+----
+
+飒姐团队认为，区块链的本质是信任的达成。随着技术的升级，达成信任的方式愈发多样，每个链都有自己独特的共识机制来防止节点的作恶，这可能才是区块链的生命力以及技术的魅力所在。
+
+认可技术，拥抱技术！
+

@@ -1,0 +1,96 @@
+![](https://img.foresightnews.pro/202303/bfe753d85384bc130466aaa4a4df3ccc.png?x-oss-process=style/scale70)  
+
+
+我们很高兴宣布，Lekker Finance 正式加入 [Chainlink BUILD 计划](http://mp.weixin.qq.com/s?__biz=MzU0MTgyMDQwNQ==&mid=2247495052&idx=2&sn=6fcba7f6803a213a9ec18030f7bb52bd&chksm=fb26b916cc513000c1b43efe0d4d1ea253830f9c40efdae342484f1b2b7386ab1432febe0e47&scene=21#wechat_redirect)。作为 BUILD 的一部分，我们可以更好地访问 Chainlink 行业领先的预言机服务、技术专长和社区支持。这将有助于加速生态系统的发展，和未来 Lekker Finance 去中心化金融协议的采用。与之相对的，作为 Chainlink Economics 2.0 的一部分，Lekker Finance 将向 Chainlink 服务提供商提供网络费用和其他激励措施。
+
+  
+
+
+**使用 Lekker 访问 DeFi 上的各种通证化产品**
+
+  
+
+
+作为 EthLisbon 的获奖者之一，Lekker Finance 旨在通过仓位通证化的形式，简化在 DeFi 上杠杆的流程。
+
+  
+
+
+在 DeFi 上，达到用户想要的杠杆很麻烦，用户经常不得不跨越不同的协议，花费大量时间和交易手续费。Lekker 可以允许用户使用其他 DeFi 协议的流动资产来获得杠杆。
+
+  
+
+
+最终，Lekker 的目标是利用 DeFi 的可组合性，把上杠杆的过程大幅简化，提升用户体验。
+
+  
+
+
+**为什么我们要加入 Chainlink BUILD 计划**
+
+  
+
+
+Lekker Finance 加入 Chainlink BUILD 计划是为了最大程度地利用 Chainlink 预言机基础架构提供的安全性和可靠性。作为 BUILD 计划的一部分，我们将获得新的 Chainlink 产品 alpha 和 beta 版本，以及来自 Chainlink 生态系统的专门技术支持等等。
+
+  
+
+
+ “ 
+
+*“很高兴加入 Chainlink BUILD 计划，这将有助于推动我们杠杆交易协议的采用。Chainlink 服务对于构建 DeFi 协议至关重要，我们很期待与 Chainlink 生态系统继续合作。最终，我们的目标是开发一种协议，使用户能方便地在 DeFi 上杠杆。最重要的是，我们的产品都是可组合的，可以成为风险管理的理想工具。——Peter Prado，Lekker Finance 联合创始人*
+
+  
+
+
+作为我们对 BUILD 计划承诺的一部分，Lekker Finance 会将总通证供应量的 4% 用作经济激励，奖励给 Chainlink 服务提供商（包括质押者）。该经济激励将分批提供给 Chainlink 服务提供商，以帮助 Lekker Finance 最大程度地获取作为 Chainlink 生态系统一份子的好处。
+
+  
+
+
+**关于 Chainlink**
+
+  
+
+
+Chainlink 是一个工业级 Web3 服务平台，目前已经为 DeFi、保险、游戏、NFT 等各大行业保障了数万亿美元资产的交易量。作为领先的去中心化预言机网络，Chainlink 支持多项 Web3 应用服务，能够在任何区块链上无缝接入现实世界的数据和链下计算服务，并为全球企业提供通往所有区块链的通用门户。
+
+  
+
+
+如需了解更多 Chainlink 的信息，请您访问chain.link；或访问docs.chain.link查阅开发者文档。如要讨论集成，请联系我们的专家。
+
+  
+
+
+**关于 Lekker Finance**
+
+  
+
+
+Lekker Finance 是一种创新型 DeFi 协议，允许用户使用 DEX，或者 DeFi 生态系统上的流动资产，通过单笔交易即可轻松操作通证的杠杆。
+
+  
+
+
+如需了解更多关于 Lekker 的信息，请访问lekker.finance或阅读 Lekker Blog。
+
+  
+END  
+  
+‍‍▲获取 Chainlink 官方最新资讯  
+加入 Chainlink 官方渠道▼
+
+![](https://img.foresightnews.pro/202303/3b448bcab9371465762484a634e88fa4.jpeg?x-oss-process=style/scale70)  
+**Chainlink 官方渠道**   
+微博:  https://weibo.com/chainlinkofficial  
+知乎：https://www.zhihu.com/people/chainlink  
+中文 Twitter: https://twitter.com/ChainlinkCN  
+Twitter:  https://twitter.com/chainlink  
+中文爱好者电报群：https://t.me/chainlinkfans  
+Telegram:  https://t.me/chainlinkofficial  
+Discord:   https://discord.gg/aSK4zew  
+GitHub:  https://github.com/smartcontractkit/chainlink  
+SegmentFault：https://segmentfault.com/u/chainlink  
+QQ 群: 6135525  
+合作联系:  china@smartcontract.com**点击“阅读原文” 进入 Chainlink 中文官网**

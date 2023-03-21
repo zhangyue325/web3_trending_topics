@@ -1,0 +1,78 @@
+  
+![](https://img.foresightnews.pro/202303/431dffd4f15c41a1ccc3dca01f37c31e.jpeg?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/26b1f8fcf00a51a202d8f9b923be7bc2.png?x-oss-process=style/scale70)
+
+  
+欢迎阅读 InfinitySwap 的以太坊虚拟机容器或 EVMC 的初学者指南！  
+本文适用于普通读者，不需要事先了解区块链技术，但是，如果您确信自己了解以太坊和互联网计算机的基础知识，请查看我们更详细的介绍，“InfinitySwap 的以太坊虚拟机容器（EVMC）的工作原理及其重要性”。  
+事不宜迟，让我们开始吧！  
+![](https://img.foresightnews.pro/202303/d07dc7ad03e794a94a84c5752b71eab8.gif?x-oss-process=style/scale70)
+
+  
+**智能合约和 Solidity**  
+您之前可能听说过智能合约 —— 它们是在满足特定条件时自动执行的数字协议，EVMC 是一个平台，可让您在互联网计算机（ICP）上运行以一种称为 Solidity 的语言编写的智能合约，这是一种现在与以太坊兼容的区块链。  
+![](https://img.foresightnews.pro/202303/a8b587d4188224483e816c506298b4d7.gif?x-oss-process=style/scale70)
+
+  
+Solidity 是一种计算机语言，用于在区块链平台上编写智能合约，它旨在成为一种安全可靠的语言，因此很难编写可能导致问题或安全问题的代码。  
+用 Solidity 编写的智能合约完全存储在区块链上，使其透明、安全和防篡改。  
+**EVMC 的架构**  
+现在，让我们谈谈 EVMC 的架构，它有四个关键组件：1）EVM API 容器，2）EVM 执行器容器，3）签名验证器容器，以及 4）区块链容器，容器就像计算机代码和代码运行所需数据的捆绑包。  
+EVM API 容器接收来自以太坊客户端和互联网计算机代理的请求，然后将这些请求分批放入待处理的交易池中，EVM 执行器容器处理这些事务，更新全局 EVM 状态，并相应地更新区块链容器。  
+![](https://img.foresightnews.pro/202303/e026b8aed5b91fcebf386478569533fb.jpeg?x-oss-process=style/scale70)
+
+  
+区块链容器是存储以太坊链区块的地方，它保留在互联网计算机的固定容器存储中，稳定的容器存储可确保信息安全，否则当容器的代码被挖出并替换为更新的代码时，这些信息可能会丢失。  
+签名验证器容器用于验证以太坊交易的签名，这是一项在专用容器池中执行的计算量大的任务，以避免在 EVM API 容器中进行过多计算。  
+**是什么让 InfinitySwap 的 EVMC 如此出色**  
+EVMC 比主要的以太坊网络 EVM 实现更快，因为它通过执行签名验证和交易批处理来优化交易吞吐量，EVMC 完全在链上，代码和数据在 Web 程序集中执行，并行计算是通过多容器架构实现的，这使得 EVMC 速度极快。  
+![](https://img.foresightnews.pro/202303/88a804a19fe6f9c0f2c5f04aac0aed0d.gif?x-oss-process=style/scale70)
+
+  
+EVMC 很重要，因为它是以太坊上 EVM 现有最佳功能的革命性发展，而且还有更多！  
+EVMC 经过充分测试，具有跨核心模块的高覆盖率，EVMC 使用现有的库，如 REVM、Retest、canister-SDK（软件开发工具包）和互联网计算机的稳定存储库，以充分利用现有的以太坊库。  
+**结论**  
+总之，InfinitySwap 的 EVMC 是一个创新项目，它创建了一个快速、经济高效的 EVM 实现，它与以太坊智能合约兼容，但运行在互联网计算机上。  
+EVMC 架构由四个组件组成，它们协同工作以处理交易并相应地更新全局 EVM 状态和存储在区块链上的数据，它是以太坊经典 EVM 在快速、安全和透明的新区块链上实现的革命性增强。  
+![](https://img.foresightnews.pro/202303/fb2a8ac837aca2cb78df8bbdbbdb6341.jpeg?x-oss-process=style/scale70)
+
+  
+来源：InfinitySwap翻译：Catherine  
+  
+**-****往****期****推****荐****-**
+
+  
+
+
+[**ckBTC 开启了互联网计算机的新纪元**](http://mp.weixin.qq.com/s?__biz=MzU1ODA4MjE5Ng==&mid=2247495137&idx=1&sn=0b3ffbfb30f0051097382c4fa4932dd4&chksm=fc295c1acb5ed50c681b971c2fd147b6a7ef07ec19089359e6b56032eaf33222d46915161958&scene=21#wechat_redirect)  
+
+
+[**造梦家的冒险之旅**](http://mp.weixin.qq.com/s?__biz=MzU1ODA4MjE5Ng==&mid=2247495117&idx=1&sn=5d263b12488c391d342c7f3fb56e494a&chksm=fc295c36cb5ed52034eed73ef85cc532d152d6efd25394e576167544604a644f3bb7577523ae&scene=21#wechat_redirect)  
+
+
+[**有用工作证明远远优于其他共识机制**](http://mp.weixin.qq.com/s?__biz=MzU1ODA4MjE5Ng==&mid=2247495062&idx=1&sn=74961f82ed96dca55a5f8f70885b3712&chksm=fc295c6dcb5ed57b62b67d8c20ccc44816f05b0362af8c6f58f42e5381d9076391982c31124b&scene=21#wechat_redirect)  
+
+
+  
+
+
+  
+
+
+![](https://img.foresightnews.pro/202303/d8081abc89d2b86e4922eb51e1f23f7c.png?x-oss-process=style/scale70)
+
+  
+  
+**你关心的 IC 内容**技术进展 **|** 项目信息 **|** 全球活动 **![](https://img.foresightnews.pro/202303/152822ec49f5fcfe5fd7f77ae1410a85.png?x-oss-process=style/scale70)**长按关注 IC 微信公众号
+
+掌握最新资讯
+
+  
+
+
+＊添加小助手微信 comiocn 进交流社群
+
+  
+
+

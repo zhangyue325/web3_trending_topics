@@ -1,5 +1,0 @@
-3 月 13 日讯，AIGC Chain 宣布将与 AI Farms 联合推出农业 AI 产品 Ag-GPT。  
-据悉，AIGC Chain 是第一个基于 AI 内容共同训练和生成的公链，任何人都可以用它来训练自己的小 AIGC 模型，并且实现了分布式大模型训练，意在构建全球最大的人工智能共同训练公链系统。  
-AI FARMS 是美国农业部和美国科学基金会资助的设在 UIUC 的研究机构，其合作伙伴为印度最大农业公司。
-
-![](https://img.foresightnews.pro/202303/e0e2bb07ef30bd6f230c6d9eab6819a1.png?x-oss-process=style/scale70)![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=1dbc8b48c5c0)

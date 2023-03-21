@@ -1,0 +1,135 @@
+![](https://img.foresightnews.pro/202303/22e878f052817ae6ad55d022f42afc01.jpeg?x-oss-process=style/scale70)、、March 19th, 2023 | Carol
+
+ERC-721 was created in January 2018, when there was already an influx of NFTs on-chain as experiments. No one could predict that it would lead to an ecosystem of NFT projects and unleashing of potentials in applications of NFTs. PFPs and game NFTs have taken over the main stage in 2021 and 2022, and we are more than ever excited for the next stage of NFT growth. With the broadcasted attention in NFTs, we are seeing more and more innovations and standardizations in the space to further the development of NFTs.
+
+In this article, we will analyze the latest EIPs and propose 9 future directions of NFTs.
+
+### 1.Permission enabled NFTs
+
+We have been following one model for NFTs: each NFT has an owner field in the metadata that represents its one owner. However, the single owner configuration causes inflexibility in using the NFTs. What if the owner wants to lease out the utility of the NFT? What if the issuer wants to cap the amount of total NFTs but still lets its audience broadly have access to its service? This draws us to the permission enabled NFTs.
+
+By permission enabled, we mean the accessible generalization of permissions on an NFT. An NFT can have one owner, but moreover, it can have fields dedicated to potential rights holders, loyalty grantees, etc.. We can essentially fragment the utility of an NFT into specific pieces, and let different players take the most advantage of each of them.
+
+[EIP-4400](https://eips.ethereum.org/EIPS/eip-4400) introduces a consumer role for NFTs by creating permissions for non-owners to enjoy the benefits of a given NFT instance. The main use case comes from the metaverse: the owner of the land can authorize consumers to use their land. It hints on the potential to use the additional role to enable renting marketplace and staker-user relations in NFT-based yield farming.
+
+[EIP-4907](https://eips.ethereum.org/EIPS/eip-4907) proposes the concept of rentable NFTs. It includes a user field and a valid duration field in the ERC-721 contract to enable a fine grained owner-beneficiary relationship within one NFT. With this improvement, one can easily rent out a NFT or grant IP permission to the others. Before this EIP, a NFT holder has to transfer away the NFT to enable the lease and carefully calculate the collaterals needed to protect his or her eventual ownership. This model is not the safest, and causes the NFT rental market to act like an option market: if the NFT’s value increases dramatically, the lenders can simply choose to forfeit the collateral and gain the benefit of the upside of the NFT.
+
+[EIP-5023](https://eips.ethereum.org/EIPS/eip-5023) creates an interface for creating NFTs shared by multiple owners, so-called shareable NFTs. The current reference implementation emits a share event so a new token on the basis of a given token ID may be minted and transferred to a recipient. While the implementation is not close to perfect, it points to a future that ownership of a NFT can be fine grained to each feature or function of the NFT. The owners can share the same portion or varying portions of the rights granted by the NFT. Moreover, it can cope with the current paradox of supply and demand: NFTs need scarcity and limited supply to stabilize the market price, however, NFTs are supposed to be enjoyed and therefore accessible to an unlimited number of people. With shareable NFTs, applications such as music NFT may achieve to both retain the price appreciation, while granting access to all the fans through the sharing feature.
+
+In short, we are looking forward to the extension of the permission enabled NFTs in the rental market, variants of NFTfi, and distribution of fans products through NFTs.
+
+### 2.Relation enabled NFTs
+
+Aside from innovating on multiple owners and users for a NFT, there is also an urgent need to enable bundling multiple NFTs to be owned by one. In games, a collection of assets may have far higher value or output than the individual items. In the metaverse, one might want to teleport among the multiverse and still have access to their assets in the compatible formats. If NFTs may be combo-ed across the ERC-721 contracts, applications and chains, there will be a huge market to unleash the value equilibrium through advanced NFTfi.
+
+[EIP-5606](https://eips.ethereum.org/EIPS/eip-5606) proposes multiverse NFTs to achieve a universal representation of multiple related NFTs as a single asset across various platforms. It enables users to bundle and unbundle any NFTs to support collection needs and utility. It can define the relationship between assets and the nature of their association to enable better interoperability cross-chain and cross-metaverse.
+
+[EIP-6059](https://eips.ethereum.org/EIPS/eip-6059) furthers the concept of bundled NFTs to be parent-governed nestable NFTs, which adds a relationship layer within the bundled NFT. It offers better clarity in the bundle by specifying the EOA controlling the parent NFT and the tree structure of all the child NFTs. It can support bundling, standardized collections, on-chain membership relationships, and delegation to empower NFT collection experience and NFT utility potentials.
+
+[EIP-6150](https://eips.ethereum.org/EIPS/eip-6150) proposes hierarchical NFTs to resemble the file system in the operating system. It offers more accuracy in binning the NFT hierarchies into layers and subfolders. Further it proposes the standardization of setting permissions for each separate bin of each layer to achieve better maneuver of NFT permissions.
+
+[EIP-6220](https://eips.ethereum.org/EIPS/eip-6220) creates composable NFTs with equippable parts with fixed and customizable slots. This will directly enable NFTs to compose into one piece of asset for utility or trading. It can support game applications to have a standardized way to equip the characters, or any dapps to use composed NFTs to create new user experiences or assets.
+
+### 3.NFT as vesting utilities
+
+Tokens have been the media for investors and early supporters to receive a stake and therefore return in the projects. However, there have been more pump-and-dump schemes than support for the healthy growth of the ecosystem. It is hard for projects to use the crypto-native way to formulate a fair way to distribute the stakes, or generally for anyone to easily create a gradual ownership claim in ERC-721. The vesting NFTs can be the solution, which has great potential to expand into a wealth of applications to bring traditional financing on-chain.
+
+[EIP-5725](https://eips.ethereum.org/EIPS/eip-5725) creates an interface for transferable vesting NFTs which releases the underlying tokens over time. This can mean that the NFT is the carrying vehicle of the vesting token, or the NFT can be vested on a predetermined curve to reach its final usage value.
+
+[EIP-5753](https://eips.ethereum.org/EIPS/eip-5753) proposes a lockable extension for NFTs to disable token transfers during the lock-up period. This can enable safer NFT collateralization in Defi lending or yield farming. Instead of depositing the NFT into an external contract, the holders can simply choose to lock the NFT under their own accounts to achieve the same result but far less protocol risk to lose the NFT.
+
+We are looking forward to more financial structures that NFTs can embody and enrich the entire blockchain market.
+
+### 4.NFT as utility tokens
+
+Aside from the potential of vesting vehicles, NFTs have been used as utilities to support gaming applications and club memberships. What are the potentials of NFT’s utilities? We look forward to an unlimited amount of utility values that inherit users’ behaviors and traits from web2. New EIPs are proposed to support utility values of NFTs.
+
+[EIP-5050](https://eips.ethereum.org/EIPS/eip-5050) suggests that NFTs should have defined ways to interact with each other through action messaging and discovery protocols. This can enable the creators to constantly interact with the holders, or for a game to connect to its NFT characters. Moreover, it preludes to the potential of NFTs being the connecting nodes for users to interact with each other and use NFTs as their phones or social media. The token contracts will be discoverable and usable by applications so games and other applications can have a NFT layer to interact with.
+
+[EIP-5643](https://eips.ethereum.org/EIPS/eip-5643) proposes subscription NFTs to embed expiration and recurring payment schemes for an active subscription. It will provide the NFT issuers with a stable stream of income instead of fully relying on the fluctuating loyalty fees in transactions. It means that NFT creators can focus on developing a sustainable business model with the existing holders, instead of focusing on pumping the NFTs and evoking FOMO to earn an income. Moreover, it will also help users to manage their subscriptions easily and be able to earn capital gain in the NFT by supporting a promising project early on.
+
+### 5.NFT as identity tokens
+
+Soul-bound tokens and naming services have been popular vessels of identity representation on-chain. Both rely on NFTs to carry the identity and represent the unique characteristics and possessions of an identity. EIP has been increasing support of SBT and its ecosystem, while we are expecting the tech stack for zkID, privacy preserving on-chain identity, to be ready and in the standardization pipeline of EIP in the near future.
+
+SBT was first proposed in [EIP-4671](https://eips.ethereum.org/EIPS/eip-4671), to create non-tradable tokens as a proof of possession and achievement. It is developed as a certificate delivered by one authority that one cannot revoke or transfer. However, EIP-4671 did not succeed in becoming an Ethereum standard and was left stagnant. It did not kill the fever in SBT, but rather started more direct development and EIPs in the SBT domain.
+
+[EIP-5192](https://eips.ethereum.org/EIPS/eip-5192) proposes the minimal interface for soulbinding NFTs to reach standardization of SBT in wallet implementation and transfer functionality. It presents the simplest possible path towards a canonical interface for SBT. This is the current living standard of SBT on ERC. With standardization, we will see more SBT usage among developers and creations of more SBT-oriented applications and utilities.
+
+### 6.NFT for richer content
+
+NFT currently relies on external storage to hold the PFP or other media. This prevents smooth interoperability as NFTs can be displayed and used in various metaverse and marketplaces, while the linked files may be in different formats or unavailable. We see the future of NFT to by itself hold richer content to be used on any intermediary platforms and multi-verses.
+
+[EIP-4955](https://eips.ethereum.org/EIPS/eip-4955) makes the first step in adopting richer content for NFTs: vendor metadata extension. It simply adds a new field to NFT metadata to let vendors have the freedom to store application specific JSON, so that NFT marketplaces and metaverses can leverage the NFTs by rendering the custom metadata. For example, the metadata can include custom 3D representations or other attributes of the NFT.
+
+[EIP-5489](https://eips.ethereum.org/EIPS/eip-5489) proposes a hyperlink extension to add a clickable feature to all NFTs to route users to designated web pages. If NFT becomes the primary media and information carrier in the web3 world, NFTs need alternative ways to attach even more content than possible on-chain. The hyperlink standard is a great first step to enable any types of information and disseminate them easily.
+
+[EIP-5773](https://eips.ethereum.org/EIPS/eip-5773) specifies an interface for multi-asset tokens with context dependent asset type. Each NFT can be displayed in the corresponding formats based on access patterns, such as e-reader in PDF and 3D model assets in games. Various assets for different contexts are directly embedded into the NFTs and can create a more seamless and fulfilling user experience.
+
+The richer content can completely upgrade the experience of NFTs. It creates a much larger surface area for user experience in NFTs and can bring more innovation and use cases.
+
+### 7.NFT for physical assets
+
+An important step to reach broader blockchain adoption is the ability to connect the real world and the on-chain world. Digi-physical has been a popular term to describe the combination of digital and physical experiences and assets. NFT is a promising carrier of the digital-physical relationship of products and services.
+
+[EIP-4519](https://eips.ethereum.org/EIPS/eip-4519) proposes an interface to represent physical assets through NFTs with the ability to generate or recover the accounts. It ties NFTs to distinct physical assets to realize applications connected to physical sensors and assets. The specification is a great indicator of the strong future of physical assets in NFTs, although there is more work to be done to fully integrate the physical layer to the on-chain cryptographic scheme.
+
+[EIP-5700](https://github.com/ethereum/EIPs/pull/5700) touches on bounding and tracking tokens to unique assets, which can create helpful NFT-bundled physical assets. Examples can include microchipped garments, or digitally registered real-estate assets. The standard also supports composability in NFTs by empowering both ERC-721 and ERC-1155 contracts to be bindable, therefore supporting unique or non-unique physical assets.
+
+### 8.NFTfi with advanced metrics
+
+With the permissions, relations, vesting, utility values in NFTs, NFT valuation and exchange need to be much more sophisticated to embody the market needs to differentiate the values in each portion of the NFT. The advancement and abundance of the EIPs shows a future of evolution of NFTfi with more levels of details and the rougher task to ensure the smoothest UX.
+
+We see the future of NFT requires and fosters the advent of better marketplaces, trading options and yield farming algorithms.
+
+### 9.NFT as an EOA
+
+Limit traces, build IP, hierarchical signatures
+
+Lastly, NFT can be its own entity. It can perform as a wallet, identity, or generally an EOA for the holder. This can limit one’s on-chain traces, build history and reputation for an NFT, and enable further NFT ownership structures.
+
+[EIP-6066](https://eips.ethereum.org/EIPS/eip-6066) standardizes the signature validation methods for NFTs to easily verify signatures from ERC-721 and ERC-1155 contracts. It essentially expands the utility of NFT from an asset to be owned, to an EOA with abilities to interact, pay and approve transactions. NFTs can become managers or characters in the web3 world, enriching the current ownership experience.
+
+We can imagine that as NFTs can be established as a sovereign on-chain entity, anyone may freely build the IP of NFTs. Moreover, using the relation or permission enabled EIP schemes, users can create hierarchical signatures or interact with the bundles of NFTs in completely new ways.
+
+![](https://img.foresightnews.pro/202303/4c5f31b5b016367b9845853773671f9b?x-oss-process=style/scale70)### References:
+
+EIP-4400: <https://eips.ethereum.org/EIPS/eip-4400>
+
+EIP-4519: <https://eips.ethereum.org/EIPS/eip-4519>
+
+EIP-4671: <https://eips.ethereum.org/EIPS/eip-4671>
+
+EIP-4907: <https://eips.ethereum.org/EIPS/eip-4907>
+
+EIP-4955: <https://eips.ethereum.org/EIPS/eip-4955>
+
+EIP-5023: <https://eips.ethereum.org/EIPS/eip-5023>
+
+EIP-5050: <https://eips.ethereum.org/EIPS/eip-5050>
+
+EIP-5192: <https://eips.ethereum.org/EIPS/eip-5192>
+
+EIP-5489: <https://eips.ethereum.org/EIPS/eip-5489>
+
+EIP-5606: <https://eips.ethereum.org/EIPS/eip-5606>
+
+EIP-5643: <https://eips.ethereum.org/EIPS/eip-5643>
+
+EIP-5700: <https://github.com/ethereum/EIPs/pull/5700>
+
+EIP-5725: <https://eips.ethereum.org/EIPS/eip-5725>
+
+EIP-5753: <https://eips.ethereum.org/EIPS/eip-5753>
+
+EIP-5773: <https://eips.ethereum.org/EIPS/eip-5773>
+
+EIP-6059: <https://eips.ethereum.org/EIPS/eip-6059>
+
+EIP-6066: <https://eips.ethereum.org/EIPS/eip-6066>
+
+EIP-6150: <https://eips.ethereum.org/EIPS/eip-6150>
+
+EIP-6220: <https://eips.ethereum.org/EIPS/eip-6220>
+
+![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=648c11f16a4f)

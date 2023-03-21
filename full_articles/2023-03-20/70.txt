@@ -1,0 +1,154 @@
+![](https://img.foresightnews.pro/202303/edaac5195564df0653c0615049572a28.jpg?x-oss-process=style/scale70)本周加密市场表现极其强势，比特币更是在多家传统金融市场暴雷后再次被贴上了数字黄金的标签，中心化交易所交易量飙升至今年最高的 46 billion USD，比特币周内的涨幅也是比特币历史上最好的一周之一（北京时间统计），截至撰稿比特币收于 28021.92，成功触达了 28000 的目标位置，周内上涨 35.34%，振幅 36.49%；以太坊收于 1818.63，周内上涨 23.16%，振幅 26.17%。上周比特币的剧烈涨幅也让 BTC Dominance 这个指数得到了飞升，从 43% 来到了 47% 以上，通常情况这代表两个信号，要么是一个健康的市场处在一个上升通道，因为它表明市场中的泡沫相对较低；要么代表市场处于极度风险，山寨被大幅抛售，这类现象在过去的加密行情中都有发生，当前来看市场更偏向于前者，如果美联储本周给出鸽派言论，市场将会持续增长。
+
+![](https://img.foresightnews.pro/202303/efde82ed71c7e90935dc6e209907a958.jpg?x-oss-process=style/scale70)本周美股市场表现优异，标普以及纳指连续四天收阳，在美国政府给第一共和银行的 300 亿补救之后，在周四瑞士信贷获得了瑞士央行 540 亿美元的借款援助之后，也是安抚住了市场对于本次危机事件的担忧，虽然靠这些短期的流动性安排并不足以从根本上解决瑞士信贷的问题，但是却可以帮助瑞信获得资产重组的时间，市场也因此开始普涨，纳指一根阳线连续上穿多条均线，周五在年线位置有所回调，如果不看本周的银行暴雷事件，本周的走势可以被看做一个 v 型反转；标普也是重新接近了 4000 点大关，但在周五有较深回调。本周市场的重点聚焦在 21 日的美联储议息会议，本次会议的重要性会远远高于以前的几次，美联储的态度决定了本次潜在的”金融危机“是点到为止还是向更严重的方向发展，如果真的暂停加息，那市场将会迎来大暴涨，但更大的可能还是会小幅加息 25 个 bp，并且鲍威尔会释放温和的讲话安抚市场，并提一下联储对银行业危机的救助决心，保证存款人安全之类的话语，而市场则需要从中去嗅出停止加息的解读，一切将会在周三见分晓。
+
+1）稳定币
+
+根据 glassnode 数据，截止 2023 年 3 月 18 日，前四大稳定币（USDT、USDC、BUSD、DAI）合计供应量约 1264.98 亿，较上周变动不大，小幅减少约 3.5 亿（-0.27%），币市资金流出趋于稳定。
+
+备注：本周 glassnode 数据中，DAI 的供应量恢复正常，并已对上周的数据错误进行了重述。
+
+![](https://img.foresightnews.pro/202303/062660cab6e2b9164b76d83e51a04ce9.jpg?x-oss-process=style/scale70)三大法币稳定币中，USDT 供应量延续上涨。USDT 本周大幅增加约 35.35 亿枚（4.85%），上涨趋势加速，市占率已达 58%。近期 USDT 供应量涨幅较大，推测为部分资金通过 USDC 出场后，置换为 USDT 回归。
+
+USDC 本周供应量大幅减少约 31.5 亿枚（-8%），自硅谷银行事件后，USDC 供应量已连续两周大幅下跌。USDC 在短暂脱锚后，目前已回归至 1 美元的锚定。价格虽然恢复，但受损的市场信心和情绪似乎需要更多时间修复。
+
+![](https://img.foresightnews.pro/202303/54c18c79666bcc1a120607660099d07b.jpg?x-oss-process=style/scale70)BUSD 供应量本周下跌速度继续放缓，仅减少约 1.88 亿（-2.24%）。由于 Paxos 已被禁止铸造 BUSD，预计 BUSD 供应量将持续下跌。预计 BUSD 将退出历史舞台，Binance 可能选择 TUSD 作为其替代品。此前 Binance 公告称将用户安全资产基金（SAFU）中持有的 BUSD 兑换成 TUSD 与 USDT；CZ 也发布 Twitter 宣布将启用 BTC-TUSD 的零手续费政策，并废除此前适用于 BUSD 的部分零手续费现货交易对。
+
+TUSD（TrueUSD）是中心化抵押稳定币，由 TrustToken 公司发行，由美元 1:1 抵押产生。根据 TrustExplorer 数据，TUSD 抵押物价值 20.35 亿美元，可以覆盖其 20.29 亿的发行量。受 BUSD、USDC 事件影响，3 月以来 TUSD 供应量获得较大增幅（主要由 Binance 铸造），从月初的约 11 亿增长至目前的 20.29 亿，增幅达 84.45%，目前为第 4 大法币稳定币。
+
+![](https://img.foresightnews.pro/202303/c2f3e94b1139c893827f614c34dd2df5.jpg?x-oss-process=style/scale70)整体而言，币市资金的净流出趋于缓解，但市场情绪依然受到了一定损伤，增量资金有限的情况下，难以期待全面牛市。存量资金博弈之下，预计将出现板块轮动。
+
+2）BTC 矿工余额
+
+BTC 矿工地址余额表明链上被标记为矿工地址的 BTC 持有余额合计，包括 Foundry USA，F2Pool，AntPool，Poolin，Binance 等地址。
+
+该数据通常用于判断对于矿工对于当前 BTC 价格的兴趣，矿工余额升高时，通常说明筹码处于堆积状态；矿工余额降低时，表明矿工正在抛售或抵押其持有的 BTC。
+
+根据 OKLink 数据，截止 3 月 19 日，与上周相比，矿工余额变动幅度不大，BTC 价格出现单周超 20% 的较大程度涨幅后，矿工未见明显出货离场。
+
+作为 Smart Money 的代表之一，矿工在下跌前（2 月 28 日）就开始提高警惕，部分兑现获利筹码；而在随后的下跌中保持观望，直到 3 月 8 日开始随着 BTC 的大幅下跌（BTC 价格约 20000）而再次积累筹码，并维持持有至今（BTC 价格约 27000）。从近 6 个月数据观察，虽然绝对值的变动不大，但时机显著领先市场，若以周为维度进行择时跟随操作，可以抓住 BTC 今年 1 月和 3 月的两段较大幅度上涨。
+
+3）ETH 通缩数据
+
+截止 3 月 19 日，根据 ultrasound.money 数据，本周 ETH 供应量较上周减少约 5620 枚，自 The Merge 完成后，ETH 供应量已累计减少 6.6 万枚。以近一周数据推算，年化通胀率为 -0.24%，较上周的 -0.7% 有所下降，USDC 事件平息后，目前通缩速度回归正常。
+
+上周上涨行情中，BTC 市占率和汇率出现显著提升，相对跑赢 ETH，但该情况不会长期持续。近 2 年以来，ETH/BTC 汇率始终维持在约 0.05~0.08 的宽幅震荡区间，待 BTC 高位横盘后，ETH 可能迎来补涨。
+
+![](https://img.foresightnews.pro/202303/b1f9f086240b75ed15337eddc6fc2bc9.jpg?x-oss-process=style/scale70)相比 POW 机制下的 ETH，POS 机制下供应量已累计减少约 201 万枚，以美元计价这部分抛压近 30 亿美元。
+
+市场受利空影响并没有逼近前期底部位置，反而创下近期新高，我们判断短期站稳 25000u 以上之后，有机会碰触 28000。
+
+![](https://img.foresightnews.pro/202303/cf407e32b87ea59a00fc5864ed4c3af0.jpg?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/81b0c0bc2076b40853fea9a6fdfc31c4.jpg?x-oss-process=style/scale70)两年期美债在市场出现黑天鹅事件之后急速下行，预期年底开始降息
+
+![](https://img.foresightnews.pro/202303/db12808c964de21a18be7b9d664531de.jpg?x-oss-process=style/scale70)纳斯达克指数反弹至 11500 以上，道指没有明显反弹
+
+![](https://img.foresightnews.pro/202303/82bf7d0790a9bf1d9cf75b97870f65ea.jpg?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/39325cac39b644091f3f1ae894b842ba.jpg?x-oss-process=style/scale70)arh999：0.64
+
+![](https://img.foresightnews.pro/202303/fd31b80c150bc8d798e8504d3b3379a5.jpg?x-oss-process=style/scale70)持币地址数 10 以上的稳健上涨
+
+![](https://img.foresightnews.pro/202303/1ef8df54f8154dc4877f9d29b4c761dd.jpg?x-oss-process=style/scale70)持币地址数跳涨之后，本周开始回撤
+
+![](https://img.foresightnews.pro/202303/c59d7e3d13efdb88a39c40569ac2eefb.jpg?x-oss-process=style/scale70)* 投融资回顾
+2023 年 3 月 14 号至 3 月 20 日，加密 VC 市场披露的投融资事件 16 笔，累计融资金额超过 0.678 亿美元；（https://www.rootdata.com/Fundraising）
+
+报告期内，超过 1,000w 美金融资额的事件一共 3 起：
+
+![](https://img.foresightnews.pro/202303/08e65373e93bd7a1d20c9e39b732b3da.jpg?x-oss-process=style/scale70)机构动态
+
+![](https://img.foresightnews.pro/202303/c3239e4322e77656388d1dc9d24e17d8.jpg?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/5589d1a9eb2f53cce6be71b9aad0aeae.jpg?x-oss-process=style/scale70)报告期内，超过 1,000w 美金融资额的事件一共 3 起：
+
+1. **FTX 数字不良资产债权市场最新动态：**
+目前 FTX 事件已经超过了最初第一阶段的 120 天保护期，原本截止日期是 3/11 日，上周 FTX 已经向美国法院申请**将提交破产重组计划的截止日期延长至 9 月 7 日并希望得到获得批准，他们**希望再延长 6 个月的时间以完善并提交一份可实施的计划，并表示公司需要更多的时间来继续理清财务状况，同时他们也宣布将很快公布资产和负债的细节。目前 FTX US 和 FTX International 方面并没有公开披露出任何其他实质性的进展。
+
+![](https://img.foresightnews.pro/202303/c09c0e248d35602fe71482aba0302d67.jpg?x-oss-process=style/scale70)OTC 市场的债权价格还保持在 15–20% 这个区间, 最近两周没有任何变化，同时暂缓了继续上涨的趋势。
+
+![](https://img.foresightnews.pro/202303/3a11e89f40faf7622c3593a362959b2d.jpg?x-oss-process=style/scale70)FTX 及其附属债务人向破产法院提交了财务报表，报表显示，Alameda Research 向 FTX 创始人及高管转账和贷款高达 32 亿美元，包括 Sam Bankman-Fried（约 22 亿美元）、Nishad Singh（约 5.87 亿美元）、Gary Wang（约 2.46 亿美元）、Ryan Salame（约 8700 万美元）、John Samuel Trabucco（约 2500 万美元）、Caroline Ellison（约 600 万美元）。
+
+这些金额不包括用于购买巴哈马豪宅的超 2.4 亿美元、FTX 债务人直接提供的政治和慈善捐款，以及向巴哈马和其他司法管辖区的非债务人子公司的资产转移。
+
+虽然用这些转账资产购买的部分财产已经在 FTX 债务人或与之合作的政府当局的控制下，但目前无法预测最终货币回收的金额和时间。FTX 债务人正在调查针对这些转账的接收者及其受益人的转账原因。
+
+![](https://img.foresightnews.pro/202303/6ceaf54924e705e043e3d932273656ef.jpg?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/f2d9490c421a3cb873d9896979a83a8b.jpg?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/11aabed12179c3d6c4d40cf0cc6027f7.jpg?x-oss-process=style/scale70)上周因为 SVB 倒闭险些受到牵连的美国第一共和银行（First Republic Bank）表示，他们通过从美联储和摩根大通获得了额外的流动性资金，让其财务状况得到进一步增强和多样化。
+
+据报道，一共有 11 家银行在上周相继将资金注入 First Republic Bank。美国银行和摩根大通各出资 50 亿美元，高盛和摩根士丹利各出资 25 亿美元，而美国银行、Truist、PNC、State Street 和纽约银行则各出资 10 亿美元。根据最新的数据，FRB 已经确认会被注资共 300 亿美金，目前已经脱离了困境。
+
+FRB 所有未使用的流动性资金超过 700 亿美元，且可以通过美联储宣布的“银行定期融资计划”获得更多流动性。First Republic Bank 创始人 Jim Herbert 和首席执行官 Mike Roffler 表示，该银行的资本和流动性状况目前非常强劲，其资本仍然远远高于监管门槛。First Republic Bank 上周因为市场震荡幅度过大被停盘了两次，现在已经恢复，周四收盘价格为 34.27 美元，周五收盘价格在注资信息释放后有一个比较大的下跌，目前价格为 23.03 美元。
+
+![](https://img.foresightnews.pro/202303/e8a93c530d2bee644dc1ba22c68dbd7b.jpg?x-oss-process=style/scale70)SVB Financial（SIVB）证实，硅谷银行在上周被美国联邦存款保险公司关闭之前，已将总账面价值为 239.7 亿美元的证券组合出售给高盛（GS）。该组合的出售导致硅谷银行净亏损约 18 亿美元。该组合是以协商价格出售给高盛的。与此同时，阿波罗全球（APO）、黑石集团（BX）和 KKR（KKR）正在考虑购买硅谷银行持有的贷款, 也就是收集 SVB 的不良资产。SVB 截至去年年底持有 736 亿美元的贷款。另外，虽然审计师错过了关于即将出现的财务问题的迹象，但毕马威（KPMG）仍然坚持对 SVB 和 Signature 的审计。分析师认为，大多数大型银行不会面临传染风险。
+
+蓝筹指数：在 13 号当天出现了断崖式下跌，主要下跌来自于 doodles 价格下跌超 30%（创始人社区中提出我们不再是一个“NFT Project”），另外也带动了一系列蓝筹 NFT 同步下跌，NFT 的作用本质上是固定流动性，蓝筹 NFT 的价格上涨需要建立在流动性泛滥的基础上，在目前流动性紧缺的情况下，蓝筹 NFT 价格相对不稳定
+
+![](https://img.foresightnews.pro/202303/2ddc603067c46f3353b33f2ce3b9df9e.jpg?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/1bd58ad958d0e40c613c2aabb882ef10.jpg?x-oss-process=style/scale70)市值&交易额：整体市值萎缩近 3%，交易额萎缩超 24%
+
+![](https://img.foresightnews.pro/202303/fdaf852e4e6f4a375cb4bceeb786d40e.jpg?x-oss-process=style/scale70)交易者：holders 保持不变，traders 萎缩超 20%
+
+![](https://img.foresightnews.pro/202303/9e230f013539eff73d35906b96b9ff56.jpg?x-oss-process=style/scale70)top collections：cryptopunks 和 BAYC 遥遥领先，值得关注的是在 cryptopunks 向 blur 开放后，已经有 20+ 只 punks 在今年首次完成交易
+
+![](https://img.foresightnews.pro/202303/5a6ca76d1a21e4a8263d4454fbb3d006.jpg?x-oss-process=style/scale70)* **Gamefi 链游**
+总体来看，Gamefi 行业本周主要受大盘回暖影响显著，市值上涨。
+
+从 Token 价格来看，前 10 市值链游 token 全部上涨，且大部分涨幅均在 10% 以上。
+
+![](https://img.foresightnews.pro/202303/0b701cdfbf3034d24c9c49a14c94ecd6.jpg?x-oss-process=style/scale70)按链上合约交互量来看，本周有不少亮点。前十活跃链游中，过去一周交互活跃度 70% 上涨。其中，Hunters 玩家数量大增，上涨 890%（新游戏开始测试）。Iskra 上涨 348%（上线新游戏 3KM），Benji Bananas 上涨 228%（赛季结算奖励，同时开启新活动）
+
+![](https://img.foresightnews.pro/202303/2945c5d577fc647da065254ddf6990e8.jpg?x-oss-process=style/scale70)* **DeFi &公链赛道数据**
+截至撰稿，DeFi TVL 为 48.89B，在 13 号完成了触底反弹。在周三按 TVL 排名前五的协议分别为：Lido、MakerDao、AAVE、Curve、Uniswap。Lido 和 Curve 本周分别上升 23.23% 和下跌 4.94%。
+
+![](https://img.foresightnews.pro/202303/5ffbb33699d080885833eb9c752b045d.jpg?x-oss-process=style/scale70)从公链的角度来看，本周 TVL 前三的链分别为：ETH、Tron 和 BSC。Arbitrum 和 Optimism 本周分别增长 2.52% 和 6.08%，分别排名第四和第六。
+
+![](https://img.foresightnews.pro/202303/31ea997bc7b5ea4a324b516b81e9932c.jpg?x-oss-process=style/scale70)* **本周重点事件&项目**
+* **Salesforces 和 Polygon 合作**
+Salesforce 已与 Polygon 合作开展基于 NFT 的忠诚度计划，Salesforce 将通过其管理平台帮助其客户加入 Polygon，创建基于 NFT 的忠诚度计划。Salesforce 表示，「**大多数 Salesforce 客户使用以太坊或 Polygon**」。
+
+Salesforce 推出 Web3 产品套件，包括 NFT 忠诚度计划管理产品、API 产品 Web3 Connect 以及允许公司通过 Salesforce 界面创建和监控其 NFT 系列和区块链数据的平台 NFT Management 等。
+
+* **NFT 借贷协议 Paraspace 受攻击**
+简介：上周，NFT 借贷协议 ParaSpace 突然表示观察到一笔可疑交易，作为安全措施已暂停整个 ParaSpace 协议。目前，ParaSpace 的合约无法进行任何交易，包括取款、存款、清算活动。而后 BlockSec 发推表示其阻止了对 NFT 借贷协议 ParaSpace 的一起攻击，挽救了 2900 ETH 资产，希望 ParaSpace 尽快与其联系。
+
+具体黑客的攻击过程：
+
+NFT 借贷协议 ParaSpace 被攻击的根本原因发生在合约 0xddde38696fbe5d11497d72d8801f651642d62353 的函数 scaledBalanceOf() 上，该函数用于通过 supply() 函数计算用户的抵押品。然而，通过在函数 getPooledApeByShares() 中操纵 APE 代币的数量可以使 scaledBalanceOf() 返回一个大额值。用户可以拥有大量抵押品，并使用它来借更多的资产。
+
+黑客从 Lido.fi 闪贷 47,111.35 枚 WSTETH，创建新合约后以约 6000 枚 WSTETH 为抵押借入 184 万枚 APE
+
+后将 184 万枚 APE 转入原始攻击合约 0xc181，0xc181 合约调用 184 万枚 APE 来铸造 184 万枚衍生代币 cAPE。该步骤重复 8 次，直到 cAPE 被耗尽。
+
+黑客花费 1334 枚 ETH 换出 491,166 枚 APE，调用 withdraw(1.84M) 获得额外的 184 万枚 APE，目前持有约 230 万枚 APE。
+
+在 ParaSpace compound 协议中，黑客将调用 scaledBalanceOf() 在借出资产前检查用户的抵押品。然而，由于价格操纵漏洞，黑客借到了更多的钱。
+
+黑客部署合约试图攻击 ParaSpace，但由于 Gas 费估算错误而失败。此后 BlockSec 发现了该合约，并复制以阻止攻击。黑客认为 BlockSec 也是一个黑客，问 BlockSec 是否可以拿回其 0.71 枚 ETH Gas 费。
+
+* **Mole**
+Mole 为用户提供不同风险等级的安全的投资产品，主要涵盖如下三款产品：
+
+* 储蓄
+储蓄为用户提供最为稳健的投资收益，通过 Mole 的储蓄的智能合约，用户把自己的代币资产存入，获取两种收益。储蓄也许收益率不是最高的产品，但是它是最稳健的。
+
+Mole 协议通过智能合约，把储蓄用户的存款出借给“杠杆收益农场”的用户，给喜欢加杠杆的用户提供杠杆资金，并且向其收取贷款利息，这就构成了储蓄收益的利润来源。
+
+储蓄的利润来源是非常稳健的，Mole 有足够强大的安全机制来保障用户储蓄安全。杠杆收益农场在借走贷款后，不能把此贷款提走另做它用，而是需要在 Mole 智能合约里面专款专用，保障了存款用户的资金安全。此外，Mole 协议有强大的清算功能，足够提供强大的安全保障。
+
+* 杠杆收益农场
+Mole 杠杆收益农场充分利用 Mole 储蓄的资金，加杠杆放大自己的投资效果，在支付一定的贷款利息的同时，获取更大的投资收益。
+
+收益来源：Mole 杠杆收益农场的收益分为：
+
+收益农场奖励：Mole 杠杆收益农场会把用户的代币作为保证金，借储蓄池中的资金作为杠杆资金。然后组成分布式交易所 Dex 所需要的流动性做市交易对，Dex 会给为它的交易所提供流动性做市的资金给予奖励，构成了 Mole 农场的收益农场奖励。
+
+手续费奖励：在 Dex 上面去做流动性做市商，获取收益农场奖励的同时，还能够收获 Dex 发放的手续费奖励带来的增益。交易对池子的交易量越大，给提供流动性做市用户返还的手续费奖励也就越多。
+
+借款利息：用户在向储蓄池中贷款来加杠杆，需要向储蓄池支付一定的借款利息。
+
+Mole 的杠杆收益农场可以使用双稳定币策略、不加杠杆策略、牛市做多策略、熊市做空策略、平衡策略等多种策略。
+
+* 基金
+Mole 目前提供**稳健型双稳定币、中和市场波动风险和一倍敞口，跟随主流币波动的多种类型的多款基金，为不同风险偏好的用户提供较为丰富的选择。**
+
+![](https://img.foresightnews.pro/202303/bda02c70ee5d772fbd793ba9a846abe2.jpg?x-oss-process=style/scale70)上周四，JZL Garden 邀请了 Han Kun 律所合伙人“Aaron Zhou”、Claims Market Director “Bradley Max” 一起探讨关于加密货币交易所 FTX 暴雷后如何为债权人争取更多利益的话题。
+
+JZL Capital 是一家注册于海外，专注区块链生态研究与投资的专业机构。创始人从业经验丰富，曾经担任过多家海外上市公司 CEO 和执行董事，并主导参与过 eToro 的全球投资。 团队成员分别来自芝加哥大学、哥伦比亚大学、华盛顿大学、卡耐基梅隆大学、伊利诺伊大学香槟分校和南洋理工大学等顶尖院校，并曾服务于摩根士丹利、巴克莱银行、安永、毕马威、海航集团、美国银行等国际知名企业。
+
+*【免责声明】市场有风险，投资需谨慎。本文不构成投资建议，用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。*
+
+![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=9479bad02686)

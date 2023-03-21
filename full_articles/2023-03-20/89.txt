@@ -1,0 +1,87 @@
+Web3 市场逐渐升温，最明显的变化是逐渐攀升的资金正不断涌入该领域。据不完全统计，自 2023 年初开始截至 2 月末，已经发生超过 220 起融资，最高金额 7000 万美元；融资金额与次数正波动上升。
+
+![](https://lh5.googleusercontent.com/uCTkoiw8Zd7NyeBSx-A4Tgea61jk7u-uw5okJ22fXz_3UlOPJ95ykSFmuwS1rD2et6nHw5kkSitLpnACR3oafDi5nrjj4WWnD_RtE0zH8cWKgAB9HAGCZtU9XTs3NpBGXhN87_8nsAhvaeb5a_bgDTc)
+
+随着大笔资金连续不断地注入，投资者对整个市场的期望值也正逐渐增高，Web3 公司将不得不全力以赴实现更高增长。在此期间，以下几个问题总是不可避免：
+
+* 如何打出品牌知名度？
+* 如何争取更多用户量？
+* 如何实现降本与增效？
+尽管 Web3 已经发展多年，但当前的市场策略，包括品牌曝光和用户增长，均处于非常早期阶段——整个行业依然更加重视技术研发，而非市场增长。同时，作为新生领域，其商业模式以及市场模式还属于“摸石头过河”阶段。
+
+所谓，殊途同归。不管是 Web2 还是 Web3，品牌的曝光和用户的增长，最终的落脚点还是用户使用产品。因此，或许我们可以从 Web2 的市场营销策略中探寻一些值得借鉴的策略。
+
+Web2 的营销增长法则
+============
+
+在传统互联网行业中，常见的市场增长策略，比如当前一些讨论中的 MPCM 法则，即，
+
+![](https://lh5.googleusercontent.com/pyZ_F8YpVYPnR9yl7ure7Dw-vWSNREOHKoezfjaJG2k2Toqni78wu5VVCeYsts8J7soYqPr0DTdXC46ggtUyN6fdAybIQHpuYs_8mIfvqD-lyY29XiiW7A86gwJUMaOQqjVLNoS2M30GuKiVrKDZrvw)
+
+*\*The 4 Growth Frameworks You Need to Build a $100M Product*
+
+当然，该策略更偏向于产品调研、构建与开发，比较属于上层战略型方案，对于用户增长执行层面，实际上指导意义不算至关重要。真正对市场曝光和用户增长上有指导意义的，编者认为“增长黑客”策略当仁不让，且最容易掌握与执行。
+
+增长黑客，本质上是一种精准的、低成本、高效率的营销方式，其核心在于：
+
+1. *如何搭建一个完整的增长黑客体系，这个体系里包括哪些要素。*
+2. *增长黑客的方法是怎么把一个陌生人变成忠实用户的。*
+最典型的案例莫过于网红主播带货。通过“福利反馈”、“粉丝低价”、“折扣福利”等营销手段，向自己的观众精准投放产品广告，并通过忠实观众的宣传、转发，进一步快速增长自己的粉丝数量，实现正向循环。
+
+比如中国淘宝主播李佳琪。有媒体统计，2022 年双十一第一天李佳琦带货 GMV 为 215 亿，尽管后续被美 ONE 否认。但有业内知情人士透露，当晚 10 点多，其直播间的 GMV 就已经破了百亿，直播间的同时在线人数有几百万人。
+
+那么，Web3 是否能够使用“增长黑客”策略？又如何与去中心化的特性进行结合呢？
+
+在此之前，我们需要了解 Web3 的营销增长路径。
+
+Web3 的营销增长法则
+============
+
+Lattice Capital 对 Web3 项目制定的增长手册中提出：合作伙伴关系、用户所有权和代币驱动的增长池是 Web3 增长战略的支柱。
+
+![](https://lh6.googleusercontent.com/cUOdXBp5RUmFdfpRXS_vqYYckag4NhgFLE6j_PvgV5umVQC4C-wzxKjGuSN3HXQaJ7iyqEoX07xp_6rmUYKzh0kqRGAfLMZJgHGtIfY-foc3QdqiQ9GL-oo7gH6vlvlHemjzVzpeXfgD22h72fhzJ4o)
+
+*\*The Web3 Growth Playbook*
+
+* 合作伙伴关系。合作共建共赢是 Web3 接下来的主流，不管是同赛道的组合，还是不同赛道，比如钱包与 dapp 的集成，通过合作进行生态融合，扩大网络效应。
+* 用户所有权。本质是用户中心，在 Web3 中不仅是所有权的个人化，还是 DAO 类型社区的“用户当家做主”，不仅会提升用户忠诚度，更会激励用户自发建设生态的热情。
+* 代币驱动。即，通过激励的手段，提升原有用户的粘性，更会吸引更多用户，实现生态增长。
+结合以上 3 点，Web3 的“增长黑客”模式已经初露端倪：通过发放代币激励的模式，吸引用户加入社区，并赋予各种对应角色与权利，以提升用户留存及忠诚度，并促进自主宣传与吸引，进而持续实现用户增长。与此同时，与更多项目开展此类合作，也将无限放大增长效应。
+
+案例：ENS 空投（数据统计截至写文时）
+
+ENS 原计划向符合的用户地址空投 25M 代币，最终被 Claim 19.6M，折合 $2.75B（按 $14.00 算）。
+
+![](https://img.foresightnews.pro/202303/11403-1679303319790.png?x-oss-process=style/scale70)
+
+如果粗略地按一年及最低注册价格为单位，那么截至目前，新增的注册已经实现了 2.8M\*$20=56M 的新增收益。无论是数量还是收益方面，都远超 Web3 生态中的绝大部分项目。
+
+然而，在组织此类活动时，项目还需要做好更多充足的准备，例如：
+
+* 如何设计活动规则
+* 如何识别用户是否符合
+* 如何 0 错误发放空投
+* 如何引导用户进入社区
+解决以上问题，将要花费项目更多的时间与人力成本。这也是近 2 年来，任务型营销工具平台得到飞速增长的原因。
+
+Web3 任务型营销工具盘点
+==============
+
+据 Safary 统计，当前整个增长赛道共计已诞生超过 160+ 项目，且新项目正在源源不断的进入。其中，能够成为 Web3“黑客增长”的任务型工具，有[Galxe](https://galxe.com/)、[TaskOn](https://taskon.xyz/?utm_source=google&utm_medium=FN&utm_campaign=growthhacker)、[Quest3](https://quest3.xyz/)、[Port3](https://soquest.xyz/)、[Crew3](https://crew3.xyz/)以及[DeNet](https://denet.me/)等等。
+
+其中，近期在推特搜索#Giveaway 后出现的相关活动中，则以下方工具较多：
+
+![](https://img.foresightnews.pro/202303/11403-1679303422312.jpg?x-oss-process=style/scale70)
+
+* 如果需要品牌效应和用户流量的项目，可以选择 Galxe 和 Quest3，比较知名且用户量高；
+* 如果需要更多链选择的项目，可以选择 Galxe 和 TaskOn，这两个接链较多的平台；
+* 如果追求用户真实性，那么拥有 92.9% 真实用户量的 TaskOn 将会是各项目的首选平台；
+当然，如果想综合使用，那么用户的重复率也将是一个必须考察的指标。根据@SunnyZ\_Crypto 的统计，我们可以得到如下图表：
+
+![](https://lh6.googleusercontent.com/rMtL_iRk43dwPBSEpshkC3kIVfojrVritwK1prxys4hmVP2Dtl3pPJ4W7jycDB3tZmZMWFDbOZBYWsPcb4O5izJYiw-lrb6IvqUYPLEwSLGQgTYsXgzWLHpmrIvdNcszD9-9vR2CfidsRxrMgri-qQ)
+
+* TaskOn 用户与其它各平台用户重叠度最少，可以与其他平台搭配使用；
+* Galxe，Port3 和 Link3，用户重叠度均比较高，尽量减少三者的搭配使用；
+* Quest3 与 Pyme，Link3，Trantor，TaskOn 重叠较少，可配合使用。
+当然，无论在传统互联网行业，还是 Web3 中，“黑客增长”并不是项目营销增长的唯一核心策略，如何留住用户，如何提高忠诚度以及如何激励忠实用户促进裂变增长等等，同样也是营销增长的一大课题。而实现的路径，同样可以在 Web2 中找到，这个将是我们的下一个话题。
+

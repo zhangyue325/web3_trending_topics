@@ -1,0 +1,77 @@
+The Summoning 终于来了，这是 Yuga Labs 互动式 NFT 铸造机制的下一次迭代。
+
+成千上万的 Sewer Pass（下水道通行证）持有者正准备销毁他们的 NFT 通行证以换取 Power Source。Power Source 是用户进入下一阶段所需的物品，届时 Yuga Labs 还将公布一套全新的 NFT。
+
+BAYC 品牌的支持者和批评者都在屏息以待，关注该项目的进展。
+
+作为最大的 NFT 品牌之一，BAYC 是如何以边玩边赚（P2E）为战略核心不断实现下一阶段发展的呢？The Summoning 对 Sewer Pass 持有者和 BAYC 生态系统的未来而言又意味着什么呢？
+
+![](https://img.foresightnews.pro/202303/4fc695b7b3d509d65bfea3fa99d79384.png?x-oss-process=style/scale70)
+
+Dookey Dash
+-----------
+
+2022 年 12 月，Yuga Labs 发布了一部名为《猴子吉米的审判》（The Trial of Jimmy the Monkey）的短片，预告了 BAYC 接下来的叙事方向。
+
+影片围绕着一把钥匙、一个箱子、穿越时空的猿猴等展开。
+
+无聊猿们正在畅饮之际吉米猴去上厕所，上完厕所后一位士兵突然从马桶冲出，将含有一把金色钥匙和一个宝箱交给其中一位无聊猿。因为众猿庆祝过于兴奋，将金色钥匙扔入了酒杯中，恰巧吉米猴端起这杯酒一干而尽，金色钥匙也落入了吉米猴的腹中。
+
+众猿纷纷想法拿出钥匙，但吉米猴也因疼痛而昏死过去。现在无聊猿们在想尽办法拿到那把金色钥匙，唯一的办法就是通过 BAYC 的下水道。
+
+1 月 18 日，Yuga Labs 推出游戏 Dookey Dash，故事传承于猴子吉米。Dookey Dash 是类似于地铁跑酷的游戏，玩家需要在下水道中摧毁障碍物、捡拾碎片并尽可能的持续游玩以获取高分。
+
+Sewer Pass 持有者有两周的时间进行参与，而这些都是为了争夺终极奖品：钥匙。
+
+两周结束，Sewer Pass 在二级市场上的交易总额已经达到 37,000 ETH（约 6200 万美元）。
+
+据官方发布的数据，总计 25,525 名 Sewer Pass NFT 持有者参与了 7,487,850 次游戏，游戏总时长达到 706,436 小时（约 80 年），平均每个玩家参与时间约为 27.7 小时；共有 8,094 名通行证持有者使用 Powershart Packs 来加速游戏，总计支付 424,566 枚 APE。
+
+2 月 16 日，Yuga Labs 公布了 Dookey Dash 排行榜的第一名。在电子竞技界被称为“Mongraal”的 Fortnite 玩家 Kyle Jackson 获得了 928522 分的高分，这为他赢得了钥匙。
+
+随后，Jackson 将获胜钥匙以 2222ETH 的价格上架 OpenSea，最终该钥匙被一位名叫 Adam Weitsman 的玩家以 1000 ETH 的价钱买下。
+
+Dookey Dash 不仅证明了 Yuga 可以为其持有者带来游戏化体验，还帮助扩展了 BAYC 宇宙。
+
+2 月 22 日，Yuga Labs 宣布重新开放 Dookey Dash，并带来全新的蟾蜍模式（Toad Mode），Sewer Pass 持有者可以在一周时间内进行游戏参与。蟾蜍模式是 Dookey Dash 的一个特殊版本，用户通过收集蟾蜍来解锁 Power Source 的伴生特质。蟾蜍模式为排名为“N/a”或得分为零的 Sewer Pass 持有者提供了参与游戏并上榜排名的机会。
+
+Yuga Labs 有意发展 NFT 游戏。一段时间以来，Yuga Labs 一直在大力投资 P2E 行业。
+
+![](https://img.foresightnews.pro/202303/fb644866469bb447e2e32ce0ea2d41c2.png?x-oss-process=style/scale70)
+
+2022 年秋天，该公司宣布聘请 Spencer Tucker 担任其第一任首席游戏官，以帮助 Yuga Labs 完成这一业务过渡，Tucker 在 2 月份接受 NFTNow 采访时指出，在 Dookey Dash 游戏推出期间，BAYC 生态增长了 40%。
+
+随后，当 Yuga 透露动视暴雪总裁 Daniel Alegre 将担任新首席执行官时，人们不再质疑其是否会认真对待游戏业务。Tucker 和 Alegre 的到来都为 Yuga 提供了游戏行业的丰富经验。
+
+The Summoning
+-------------
+
+从 3 月 15 日起，Sewer Pass 持有者可以将他们的通行证转换为 Power Source。而 Dookey Dash 分数会转换为不同的 Power Source 类型（总计八种类型），用户可自行进行申请。
+
+据了解，这些 Power Source 与“机械型”（mech types）NFT 有关。
+
+1 月 19 日，Yuga 在推特上发了一张图片，图上为各种机械机器人的素描，并写着这样一句话：“狗先知 Gary 舔了一只蟾蜍，跌跌撞撞地走进沼泽，然后带着他画的草图回来了。不知道这是什么意思。他说这是‘未来’。”
+
+Yuga 明确表示，这些 Power Source 将用于未来的迷你游戏，这表明 Yuga Labs 在 Dookey Dash 中采用的游戏化策略仍会继续。
+
+此外，Yuga 在发起 Summoning 时指出，目前有大约 3500 枚下 Sewer Pass NFT 从未被认领，789 个被认领但不符合召唤资格。这些无人认领的通行证将来会被提供给 BAYC 社区。
+
+现在，持有合格 Sewer Pass 的人可以访问 mdvmm.xyz/summoning 申请 Power Source。此外 Yuga 还表示用户可以不急于铸造 Power Sources，因为 Summoning 将无限期开放，Yuga 也将提供更多关于 Power Source 和机械人的相关信息。
+
+BAYC 下一步要怎么做？
+-------------
+
+值得注意的是，The Summoning 只是 BAYC 接下来发展的一个阶段。根据 Yuga Labs 网站 mdvmm.xyz/summoning 的信息，The Summoning 之后的阶段将于 3 月下旬到来，届时 BAYC 将展示持有者的“机械型”NFT。
+
+除了猴子吉米的传奇故事，Yuga 还围绕上述 Otherside MMORPG 展开叙事。
+
+3 月 8 日，Yuga Labs 宣布 Otherside 元宇宙平台的“Otherside：2nd Trip”活动暂定于 3 月 25 日上线。Otherdeeds NFT 持有者将有机会参加此次活动，并有机会收集“FIRST TRIP Obelis”NFT。
+
+我们可以从这些项目中窥见 Yuga Labs 对于未来发展的野心，相信接下来会 Yuga Labs 会给我们带来更多值得期待的惊喜。
+
+Nftnow：Yuga Labs’ Summoning Is Here: Everything You Need to Know
+
+编译：Dali@Web3CN.Pro
+
+声明：NFT 中文社区编译作品，内容仅代表作者立场，且不构成投资建议，请谨慎对待，如文章 / 素材有侵权，请联系官方客服处理。
+

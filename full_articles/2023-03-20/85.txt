@@ -1,0 +1,71 @@
+![](https://img.foresightnews.pro/202303/0b8ced9131312da01220596f9d363e39.jpeg?x-oss-process=style/scale70)
+
+近期硅谷银行暴雷引起传统银行危机四起，一周多之前市场对 USDC 无法完全兑付的担忧引起了 USDC、BUSD、DAI、FRAX 等一系列稳定币的脱锚。尽管目前这些稳定币已基本重新锚定 1 美元，但这次危机让加密市场对这些稳定币的风险有了新的认识，并再次提出了去中心化稳定币的需求。  
+而作为目前流通量最大的去中心化稳定币 DAI 及其项目方 MakerDAO 能否抓住机会让 DAI 被更多用户接受呢？**今天，我们就来聊一聊 MakerDAO 的困境与机遇。**  
+![](https://img.foresightnews.pro/202303/a7481371de44e2d92feb4c020f8531d0.png?x-oss-process=style/scale70)### **MakerDAO 简介**
+
+  
+MakerDAO 是一个运行在以太坊上集超额抵押稳定币（DAI）、借贷、存储、用户共同治理为一体的老牌 DeFi 项目。在 MakerDAO 系统中，主要使用两种代币：DAI 和 MKR。DAI 是 MakerDAO 推出的去中心化稳定币，MKR 是 MakerDAO 的治理代币。  
+当用户需要借贷资金时，他们可以通过将加密资产抵押在 MakerDAO 平台上，借出稳定币 DAI。而 MKR 持有者可以参与 MakerDAO 平台的治理、更改利率、提出提案并参与投票决定 MakerDAO 系统的未来。2023 年 2 月，MakerDAO 的团队宣布成立了 Phoenix Labs 开发 Spark Protocol 等新的 DeFi 项目以扩大 MakerDAO 的生态。  
+### **MakerDAO 会有生存危机吗？**
+
+  
+**1. 协议处于亏损状态**  
+MakerDAO 的创始人 Rune Christensen 指出在熊市中，MakerDAO 的借贷收入和清算收入大幅下降，而整个协议需要大约 115 人的团队来维护，团队支出加上 MKR 的补偿使得整个协议处在亏损状态且没有增长点。此外，MKR 的赋能有限。MKR 从 21 年 5 月后价格一路阴跌，MKR 持有者无法清楚地了解 MakerDAO 创造的收入具体是如何被耗尽的。  
+![](https://img.foresightnews.pro/202303/e56a63748509d9bcb61ba658eece455a.png?x-oss-process=style/scale70)信息来源：https://forum.makerdao.com/t/the-endgame-plan-parts-1-2/15456  
+**2. 治理困难**  
+MakerDAO 目前的治理流程所需时间长，流程复杂。在黑天鹅事件中无法快速反应，也降低了新产品、新功能的开发速度。2020 年 3 月 12 号，整个市场大跌，MakerDAO 中大量的抵押物跌破清算门槛，因未能及时清算而造成 400 万美元的坏账，之后社区提案增发 MKR 来填补坏账和引入清算熔断机制。2023 年 3 月 10 号有超过 7 亿的 USDC 通过 PSM 兑换成 DAI 出逃导致 DAI 的脱锚。随后社区紧急提案增加 USDC 兑换 DAI 的费率但为时已晚。3 月 13 号，社区提议增加 PSM 紧急开关以便在危机时刻无需通过治理就可暂停稳定币的兑换。  
+**3. 外部竞争**  
+Frax Finance 同为去中心化稳定币赛道的竞争者，通过抓住 Liquid Staking Derivatives(LSD) 的机会推出 frxETH 与 sfrxETH，目前铸造的 frxETH 已超过 11 万枚。而 Curve、Aave、Liquity 等头部 DeFi 项目均下场准备发行自己的稳定币，这些去中心化稳定币的出现会持续抢夺 DAI 的市场份额。MakerDAO 在去中心化稳定币赛道里将面临更激烈的竞争。  
+![](https://img.foresightnews.pro/202303/322df225292b1d300b5cb0f72fb09c68.png?x-oss-process=style/scale70)图片来源：Vulcan post  
+**4. 监管风险**  
+在 Tornado Cash 被制裁后，USDC 的发行商 Circle 积极配合美国执法机构的制裁，冻结标记地址的 USDC。部分黑客会将所盗资产转换为 DAI 以逃脱 USDC 和 USDT 发行商的冻结，加上 MakerDAO 国库中大部分为 USDC，在未来美国监管机构有可能会对 MakerDAO 施加更多监管的压力。  
+### **DAI 的锚定机制解读**
+
+  
+MakerDAO 目前最核心的竞争力是 DAI。它是链上使用最多的去中心化稳定币。MakerDAO 采用了四种机制帮助 DAI 更加稳定地锚定 1 美元。  
+**1. 超额抵押加密资产**  
+首先 MakerDAO 认可的抵押资产的风险都相对较小。可抵押的资产为 BTC、ETH、LINK、YFI、MATIC、稳定币等经受过市场考验的加密货币。此外，根据资产的波动水平和风险，MakerDAO 会设置 102%-5000% 的抵押率，以保证在抵押资产下跌后能及时地清算资产，确保 DAI 是足额抵押的。它与 UST 这类算法稳定币不同。DAI 的价值是由多种风险较小的加密资产支撑，而 UST 是由 LUNA 转换和 Anchor 生息产生的，其背后的支撑是市场对 UST 的信心。  
+**2. DAI 存款利率**  
+持有 DAI 的用户可以将 DAI 锁入 MakerDAO 的 DSR 合约中以获得储蓄收益。MKR 持有者可以投票决定调整 DAI 存款利率。如果 DAI 价格超过 1 美元，MKR 持有者可以选择降低存款利率来降低 DAI 的需求量，使得 DAI 降至 1 美元；反之，MKR 持有者可以选择提高存款利率来增加 DAI 的需求量，使得 DAI 升至 1 美元。  
+**3. Peg Stability Module(PSM)**  
+用户可以使用 PSM 模块将 USDC 和 DAI1:1 兑换，每日总限额为 9.5 亿（3 月 14 号已改为 2.5 亿）。这种无滑点的稳定币兑换降低了用户的交易成本，激励用户兑换并持有 DAI。这在一般情况下扩大了 DAI 的采用，同时当 DAI 面临脱锚时可市场可用 USDC 套利帮助 DAI 重新锚定 1 美元。![](https://img.foresightnews.pro/202303/ce0cc79599a0b7ea20363013b84baf76.png?x-oss-process=style/scale70)  
+**4. Curve 的稳定币 3pool**  
+Curve 的稳定币 3pool 由三种稳定币 DAI、USDC 及 USDT 所组成。通过稳定币 3pool，DAI 与 USDC、USDT 绑定。一般情况下，3pool 中有稳定币偏离 1 美元时，普通用户以及套利者可以通过存入 3pool 中占比最小的稳定币或是取出 3pool 中占比最大的稳定币来套利，帮助 3pool 回到平衡状态。  
+### **DAI 的争议**
+
+  
+通过 DAI 的锚定机制我们可以发现，除去抵押加密资产而铸造出的 DAI 外，DAI 还可以通过 PSM 用 USDC 直接兑换，以及在 Curve 的 3pool 用 USDC 和 USDT 兑换。下图很好地展示了 DAI 背后的大部分抵押物的本质：美联储的资产储备。  
+![](https://img.foresightnews.pro/202303/4a04567c8715f4b2c05e90f0e60ee567.png?x-oss-process=style/scale70)  
+目前，62% 的 DAI 是通过 PSM 用 USDC 兑换得来，通过非稳定币的加密资产抵押铸造出的 DAI 不到 20%。这使得 DAI 的中心化程度越来越高，并且 DAI 很可能会承受 USDC 和 USDT 的风险。  
+![](https://img.foresightnews.pro/202303/2616839da8682f3cc85ba4abc0d4da4f.png?x-oss-process=style/scale70)数据来源：Dai Stats  
+3 月 10 号，发行 USDC 的 Circle 公司在硅谷银行有 33 亿美元的风险敞口，硅谷银行的破产可能导致 USDC 无法完全赎回。市场的恐慌情绪持续上升，USDC 出现脱锚，最低脱锚至 0.88 美元。大量 USDC 出逃，其中有超过 7 亿的 USDC 通过 PSM 换成 DAI 出逃，加上 DAI 大部分的抵押物也是 USDC，市场对 DAI 也产生恐慌，导致了 DAI 的脱锚。目前 USDC、DAI 已重新锚定 1 美元，但对于 DAI 越来越像 USDC 的担忧并未消失。如何减少 USDC、USDT 相关风险对 DAI 的冲击是 MakerDAO 需要思考的问题。  
+此外，作为抵押在 MakerDAO 金库的 USDC 被 MakerDAO 用来购买美国国债。目前 MakerDAO 已购买了 5 亿 6 个月期限的美国国债，并在 3 月 8 号提出额外分配 7.5 亿美元资金购买美国国债以增加国库的收入。一方面这让 DAI 的大部分抵押物变成了美国国债，受制于中心化的政府机构，很可能面临监管审查。另一方面，这在一定程度上消除了 USDC 的风险并增加了 MakerDAO 协议的收入。  
+### **MakerDAO 未来的布局**
+
+  
+**1. 扩大债券和贷款的投资。**  
+尽管 MakerDAO 购买美国国债引起了不少争议，但在 2022 年 11 月后国债的收益成为了 MakerDAO 的主要来源，并且 MakerDAO 的社区大部分也支持这一做法。购买债券的收益可以帮助 MakerDAO 在熊市里继续运转和开发新产品。  
+![](https://img.foresightnews.pro/202303/0fec50b744bd1d6d045f3631e7d91c3b.png?x-oss-process=style/scale70)数据来源：MakerDAO - Assets per type  
+**2. 推出 MetaDAO 架构简化治理并为 MKR 赋能。**  
+每一个 MetaDAO 都是 MakerDAO 的一个子 DAO，可以拥有自己的代币和金库，专注于自己 DAO 内部的分工、治理和开展活动，而无需被其它 MetaDAO 分散注意力。每个 Meta 都可以发行自己的代币并与 MKR 组成流动性池子，MakerDAO 会发放额外的 MKR 作为流动性激励。即将推出的 Spark Protocol 就是第一个 MetaDAO，主要业务为借贷，与 Aave 直接竞争。在 Spark Protocol 中有可能会允许抵押 MKR 借出 DAI，这将会极大地提高 MKR 的需求。Spark 将支持 stETH 等 LSD 抵押借出 DAI 来吸引更多以太坊资产，减少 DAI 抵押物中 USDC 的占比。  
+![](https://img.foresightnews.pro/202303/61100b8ccbcc22d6ce52e4f874ce49a5.png?x-oss-process=style/scale70)信息来源：https://forum.makerdao.com/t/the-endgame-plan-parts-1-2/15456  
+### **总结**
+
+  
+MakerDAO 目前面临亏损和激烈竞争，DAI 背后的中心化问题和监管风险也不可忽视。Spark Protocol 是 MakerDAO 在 DeFi 赛道杀出重围的一个机会。它的成功推出将提高 DAI 的需求和使用量，并增加了 MKR 的应用场景：抵押借贷、流动性挖矿。后续其它 MetaDAO 的推出将继续为 MKR 赋能，继续提高 DAI 的需求和 MKR 的估值。  
+此前，Beosin 曾与日本区块链企业 HashPort 建立战略合作伙伴关系，在链平台和智能合约的安全审计、合规评估等方面开展合作，**审计项目包括 DAI 等稳定币，目前，DAI 也被Beosin EagleEye 安全风险监控、预警与阻断平台实时监测中。**  
+![](https://img.foresightnews.pro/202303/caad3718e3876c9e75b579003d23e87b.png?x-oss-process=style/scale70)**Beosin 作为一家全球领先的区块链安全公司，在全球 10 多个国家和地区设立了分部，业务涵盖项目上线前的代码安全审计、项目运行时的安全风险监控、预警与阻断、虚拟货币被盗资产追回、安全合规 KYT/AML 等“一站式”区块链安全产品 + 服务，**目前已为全球 3000 多个区块链企业提供安全技术服务，审计智能合约超过 3000 份，保护客户资产高达 5000 多亿美元。**欢迎点击公众号留言框，与我们联系。**  
+🕹**热点文章阅读：**[![](https://img.foresightnews.pro/202303/b048d7d098b1876ab13b23d0493f97cd.jpeg?x-oss-process=style/scale70)](http://mp.weixin.qq.com/s?__biz=Mzg2NTg2MzE5NA==&mid=2247484611&idx=1&sn=034bf0ea6648d9103816ae1702f6fdd6&chksm=ce52d7b6f9255ea05c349d120602e02a459bc230d126be0944cae8c3dc476895f5c47cc159d6&scene=21#wechat_redirect)[**Beosin2022 年全球 Web3 区块链安全年报**](http://mp.weixin.qq.com/s?__biz=Mzg2NTg2MzE5NA==&mid=2247484611&idx=1&sn=034bf0ea6648d9103816ae1702f6fdd6&chksm=ce52d7b6f9255ea05c349d120602e02a459bc230d126be0944cae8c3dc476895f5c47cc159d6&scene=21#wechat_redirect)[![](https://img.foresightnews.pro/202303/0f2db4c340b66ba2aab504ac492706ad.jpeg?x-oss-process=style/scale70)](http://mp.weixin.qq.com/s?__biz=Mzg2NTg2MzE5NA==&mid=2247485300&idx=1&sn=b12f845112ca8655ef1271fa792b0171&chksm=ce52d401f9255d17c78af1a690dac5929e26663803ce22d52f7c305d522a3c320fde8f1de916&scene=21#wechat_redirect)[**OpenAI 推出“王炸”产品 GPT-4，能不能完整检测智能合约漏洞？**](http://mp.weixin.qq.com/s?__biz=Mzg2NTg2MzE5NA==&mid=2247485300&idx=1&sn=b12f845112ca8655ef1271fa792b0171&chksm=ce52d401f9255d17c78af1a690dac5929e26663803ce22d52f7c305d522a3c320fde8f1de916&scene=21#wechat_redirect)[![](https://img.foresightnews.pro/202303/e43a9a2cabf2887a015d13fc36c44646.png?x-oss-process=style/scale70)](http://mp.weixin.qq.com/s?__biz=Mzg2NTg2MzE5NA==&mid=2247485261&idx=1&sn=aca90c6ca734ac9480d65f5c6cbbc435&chksm=ce52d438f9255d2e11be20b189b80e1902f2dae6da03dbe02c19afc8e9dc837c3e9db8de7efa&scene=21#wechat_redirect)[**复盘 Euler Finance 2 亿美元被盗案的来龙去脉**](http://mp.weixin.qq.com/s?__biz=Mzg2NTg2MzE5NA==&mid=2247485261&idx=1&sn=aca90c6ca734ac9480d65f5c6cbbc435&chksm=ce52d438f9255d2e11be20b189b80e1902f2dae6da03dbe02c19afc8e9dc837c3e9db8de7efa&scene=21#wechat_redirect)**![](https://img.foresightnews.pro/202303/6a4eebd183cfb5b18bc28f0e8512b079.jpeg?x-oss-process=style/scale70)**![](https://img.foresightnews.pro/202303/43c79b0850fe4e5efd834300881350da.jpeg?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/f4202f7124db893689d24fe97bc5a41f.jpeg?x-oss-process=style/scale70)  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  

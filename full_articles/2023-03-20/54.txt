@@ -1,0 +1,72 @@
+*作为代币经济学（Tokenomics）的组成部分，代币解锁（Token Unlocks，也称释放时间表）是指在设定的时间段内向市场释放锁定代币的过程，其目的是确保团队、投资者和社区用户之间的激励机制一致。代币解锁（尤其是一次性解锁）可能带来市场的抛售压力，进而导致代币价格出现明显波动，因此在代币解锁节点前后，投资者需注意风险。*
+
+*通常而言，代币解锁可分为线性解锁（Linear Unlocks）和一次性解锁（Cliff Unlocks）。一次性解锁是指代币处于锁定状态，直到一个特定事件或日期发生时，锁定的代币将会一次性全部释放。一般情况下项目方空投的代币就是「一次性解锁」的一部分。线性解锁是指代币在一段时间内以稳定、固定的速度每日进行释放。流动性激励通常包含在线性解锁中。*
+
+据 Token Unlocks 与 VestLab 整理的数据显示，本周（2023 年 3 月 20 日至 3 月 26 日），GAL（Galxe）、ARB（Arbitrum）、1INCH（1inch）、GPT（CryptoGPT）、ACA（Acala）、LOOKS（LooksRare）与 IMX（Immutable）代币将迎来一次性解锁节点：
+
+其中，Galxe 代币 GAL 将于 3 月 23 日 20:00:00 解锁 192,307.69 枚（约 40 万美元），占总供应量的 0.096%；
+
+![](https://img.foresightnews.pro/202303/2173-1679243981056.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/2173-1679243994563.png?x-oss-process=style/scale70)
+
+Arbitrum 代币 ARB 将于 3 月 23 日 20:30:00 解锁 5,553,000,000 枚，占总供应量的 55.53%。其中，「Arbitrum DAO 财库」、「Individual Wallets」与「Daos in Arbitrum Ecosystem」会一次性解锁；（注：「Arbitrum DAO 财库」代币分配会直接解锁至财库地址，目前已有逾 32 万 ARB 转至财库地址，但后续仍需 ARB 代币持有者提议和进行治理投票才会进一步分配）
+
+「Team, Future Team + Advisors」与「Investors」部分将于 2024 年 3 月 23 日一次性解锁。
+
+![](https://img.foresightnews.pro/202303/2173-1679244045830.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/2173-1679244063415.png?x-oss-process=style/scale70)
+
+1inch 代币 1INCH 将于 3 月 24 日 04:00:00 解锁 53,572 枚（约 3 万美元），占总供应量的 0.004%；
+
+![](https://img.foresightnews.pro/202303/2173-1679244103790.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/2173-1679244114488.png?x-oss-process=style/scale70)
+
+CryptoGPT 代币 GPT 将于 3 月 24 日 20:00:00 解锁 15,000,000 枚（约 190 万美元），占总供应量的 0.5%；
+
+![](https://img.foresightnews.pro/202303/2173-1679244155032.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/2173-1679244172009.png?x-oss-process=style/scale70)
+
+Acala 代币 ACA 将于 3 月 25 日 08:00:00 解锁 4,657,535 枚（约 49 万美元），占总供应量的 0.466%；
+
+![](https://img.foresightnews.pro/202303/2173-1679244208489.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/2173-1679244220041.png?x-oss-process=style/scale70)
+
+LooksRare 代币 LOOKS 将于 3 月 25 日 12:55:40 解锁 12,500,000 枚（约 199 万美元），占总供应量的 1.25%；
+
+![](https://img.foresightnews.pro/202303/2173-1679244270980.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/2173-1679244281737.png?x-oss-process=style/scale70)
+
+ImmutableX 代币 IMX 将于 3 月 25 日 18:00:00 解锁 18,075,990.71 枚（约 2675 万美元），占总供应量的 0.904%；
+
+![](https://img.foresightnews.pro/202303/2173-1679244326856.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/2173-1679244320735.png?x-oss-process=style/scale70)
+
+除此之外，目前持续线性解锁的热门代币包括 OP、FIL、UNI、BLUR、CRV、LDO、GMT、ILV、IMX、ENS、AXL、MINA、STG、MC、C98、MANA、COMP、SWISE、RPL、RBN、EUL、FXS、AAVE、LOOKS、GLMR、SWEAT、X2Y2、FORT、SUSHI、YFI 与 GEL 等。
+
+其中，Stargate Finance 代币 STG「Team」部分将于 3 月 25 日起开始线性解锁，每日解锁 239,726.03 枚（约 19 万美元），当前 STG 「Protocol Launch」每日解锁 549,451 枚（约 43 万美元），已解锁 1%；
+
+![](https://img.foresightnews.pro/202303/2173-1679244380546.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/2173-1679244392003.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/2173-1679244413180.png?x-oss-process=style/scale70)
+
+Optimism 代币 OP 每日解锁约 2,411,115 枚（约 444 万美元），「生态系统基金」和「追溯性公共物品资金」仍有 20% 尚未解锁，用户空投仍有 60% 尚未解锁；
+
+![](https://img.foresightnews.pro/202303/2173-1679244460687.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/2173-1679244474550.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/2173-1679244483883.png?x-oss-process=style/scale70)
+
+Blur 代币 BLUR 每日解锁约 1,282,192 枚（约 76 万美元），「Community Treasury」的「Community Year 1」部分已解锁 9%。
+
+![](https://img.foresightnews.pro/202303/2173-1679244513442.png?x-oss-process=style/scale70)
+

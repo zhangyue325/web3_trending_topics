@@ -1,0 +1,63 @@
+  
+
+
+![](https://img.foresightnews.pro/202303/73f782de8ab3bd838c450d4ec80c9704.jpeg?x-oss-process=style/scale70)**REBASE EVENT POOL**
+
+  
+
+
+这里是 Rebase
+
+社区的活动聚集地
+
+活动组织者可以自由发布活动信息
+
+![](https://img.foresightnews.pro/202303/a751b9e5d4fac9f6dfcdf33faa70fd1f.png?x-oss-process=style/scale70)交互式零知识证明及其应用
+
+  
+
+
+![](https://img.foresightnews.pro/202303/c0fcc1ecdb385a5452af9f1852a2d897.jpeg?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/e59b09f75ebc4eb99b33763c714c0f8a.png?x-oss-process=style/scale70)2023 年 3 月 21 日 20:00
+
+![](https://img.foresightnews.pro/202303/1369da4d6f1dcdc453e63a1b3437f6ec.png?x-oss-process=style/scale70)**报名链接**
+
+https://meeting.tencent.com/dw/42Csh1U6K8kl( 请提前点击链接报名 )
+
+![](https://img.foresightnews.pro/202303/f239deb880e8d4a89633f076ff380563.png?x-oss-process=style/scale70)
+
+**分享学者**谢翔  
+· PADO Labs 联合创始人 / 密码学博士；  
+· 长期从事安全多方计算、零知识证明和同态加密等前沿密码技术的研究与工程实践；曾带领团队研发推出多个隐私计算开源框架；在密码学领域国际顶级会议上发表数十篇论文。
+
+  
+
+
+**本期相关论文**
+
+AntMan (CCS' 22):  https://eprint.iacr.org/2022/566
+
+Wolverine (IEEE S&P' 21): https://eprint.iacr.org/2020/925
+
+Quicksilver (CCS' 21): https://eprint.iacr.org/2021/076
+
+Mystique (USENIX' 21): https://www.usenix.org/system/files/sec21-weng.pdf
+
+![](https://img.foresightnews.pro/202303/aee73189f1d4f7a35f3bc5071870c07d.png?x-oss-process=style/scale70)**Rebase Event Pool**
+
+     Rebase Event Pool 用来发布活动信息，任何人都可以发布。社区志愿者发现如果某个活动比较有趣，也会同步到 Rebase 的其它媒体渠道中。
+
+  
+
+
+可访问 👇 创建 issue 发布活动
+
+https://github.com/rebase-network/event-pool
+
+  
+
+
+  
+
+
