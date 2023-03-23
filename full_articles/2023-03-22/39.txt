@@ -1,105 +1,122 @@
-![](https://img.foresightnews.pro/202303/6f61a349b69ce92fe1eccd4baa16d25a.png?x-oss-process=style/scale70)  
+![](https://img.foresightnews.pro/202303/665bdd49193d17cf10a1be7bf0fa9bd7.png?x-oss-process=style/scale70)
 
+**部分结论**
+--------
 
-作者 | Rocky
+\**本文 2300 字左右*
 
-来源 | @Rocky\_Bitcoin
+* **各大平台仅存的优势就只剩下数据了**
+* **AI as a service 会加速行业迭代**
+* **平台 App 会继续裁员...**
+* **其实 OpenAI 一开始就是冲着开发者去的...**
 
-![](https://img.foresightnews.pro/202303/f7463f1a8a7820532ec33b49e40854b0.jpeg?x-oss-process=style/scale70)  
-
-
-从 2020（个别 2019 年）-2021 年整个大牛市周期中，市值前 600 的加密货币中，诞生了 61 个百倍以上的项目。
-
-今天我们来看看它们有什么特征、属性，并对我们即将到来的 2023-2025 新周期有什么启示！( 由于数据源原因，个别数据有些许出入，请谅解，选取二级市场可买品种，一级除外 )
-
-  
-
-
-![](https://img.foresightnews.pro/202303/94b7f4a8b7e17aa3d7d39628fb307152.jpeg?x-oss-process=style/scale70)  
-
-
-1.首先我们来看一下，2020 年 3 月 15 日，加密货币市场，前 100 的币种。再来看看 2021 年 11 月 8 日，市场巅峰时刻，加密货币市场，前 100 的币种。其中大家还认识多少？
-
-2020 年 3 月 15 日，加密货币前 100 的项目图表
-
-![](https://img.foresightnews.pro/202303/07acdd31ddaebc644d647baf0442662a.png?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/7f2f6df3ed5f703d78016745c684dd86.png?x-oss-process=style/scale70)不难发现，绝大多数都被替换了，替换率为 67%。下一轮牛市，大概率也如此。现在前 100 的项目，下一轮牛市，往往需要新的叙事来填充。
-
-2021 年 11 月 8 日巅峰时刻，加密货币前 100 的项目图表。
-
-![](https://img.foresightnews.pro/202303/2855e522f67f053e9790d608d33fdb5c.png?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/75955771c243ab3fac7fdfbf017ba666.png?x-oss-process=style/scale70)以前在证券研究所的时候，师父经常告诉我们一句话，**做投资要有想象力，要大胆假设，小心求证。在币圈，我认为更加要天马行空，**动辄几十上百倍，非天马行空的超前理想主义者莫属。
-
-![](https://img.foresightnews.pro/202303/716985b3fbc2172b77b3676c047b10c7.jpeg?x-oss-process=style/scale70)2.从市值排名看，2020 年 3 月份，市值前 600 的币种中，诞生了 61 个百倍币（二级市场）。**市值排名前 100 的币种，诞生百倍币，总共有 11 位**，占比 18%，分别是#BNB,#LINK,#ADA,#DOGE,#VET,#SNX,#SOL,#THETA,#HOT,#ENJ,#LUNA,**老币有新叙事，也是一个新的增长爆发点。**比如 BNB 与 BSC 链，脱离了单一的交易所代币属性
-
-**市值前 100-300 的币种中，诞生了 21 个百倍币，占比 34.4%。市值前 300-600 的币种中，诞生了 22 个，占比 36%。**还有 7 个，市值太低，无法抓取数据。所以整体来看，市值前 300 中，总共诞生了 32 个百倍币，占整体的 10.6%，十里挑一。
-
-3.从投资机构角度来看，仅仅 9 家有可查的机构投资。占比较低。主要分析来看，**当时加密货币的募资方式，依旧套用了 17 年传统的 ICO 逻辑，**机构玩家较少。另外由于受限二级市场筛选逻辑，较多项目当时还未发币。而当时的机构例如：#Multicoin #Polychain #Alameda #BN #A16Z ，后期也成为加密货币顶级资本！
-
-4.从解锁流通情况来看。MC 集中分布在 40%-60% 区间，并不是全流通就很好，也不是流通很少就很好。这是一个奇怪的现象，无法证伪。暂时没有充足的理由说服我自己（欢迎讨论）。**大概率跟诞生时间有关联，大多在 18，19，20 年诞生。**
-
-![](https://img.foresightnews.pro/202303/b6b8c4eba75d701dec3354af00a1d736.jpeg?x-oss-process=style/scale70)5.从项目成立时间看。100 倍项目中，76% 的项目是在 18-20 年熊市周期中成立，而只有 24% 是在 2017 年之前成立（上上个周期）。200 倍以上项目：85% 是在 2018 年、2019 年、2020 年创建。而 100 倍项目中，只有 1.7% 是在牛市晚期（2021 年）创建。**所以从这个逻辑来看，22 年，23 年的项目，要多多关注。**
-
-![](https://img.foresightnews.pro/202303/a68b352f28ffd8579f4cf8a5d52a65b5.jpeg?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/85c7f6baa4c4c4196ed28e87518c0904.jpeg?x-oss-process=style/scale70)6.从代币单价来看，**普遍大家比较喜欢单价便宜的品种，**单价越低，往往从主观上给人同等单位 USDT，可换回更多的项目代币，让人比较有成就感或者快感。这是一个奇怪的现象，但事实却摆在这里。或许便于 CX...
-
-![](https://img.foresightnews.pro/202303/8f332177a6225c6f47243c3dcc7d1907.png?x-oss-process=style/scale70)7.最佳配置时间，百倍币的低点，基本跟 BTC 低点同步，百倍币的高点，也基本跟 BTC 高点同步。**从当前情况看，二次探底，15000 或者 15000 以下，大概率是山寨较佳购入时间点。**我预期大饼在美国金融危机中，预测低位可能在 9800，但谁又知道呢。做好策略，分批建仓。
-
-8.赛道分类，**百倍币数量最多属于公链，**总共 17 个，占比 27.8%。其中 L1 有 14 个，L2 2 个，L0 1 个。点评：上轮周期中为了解决 ETH 扩容，TPS，GAS 费等痛点，跟 17 年牛市相似，公链出现了百家争鸣的现象，其中不乏诞生出#SOL，#MATIC，#BNB 等高性能公链，给我们加密货币市场带来了繁荣！
-
-![](https://img.foresightnews.pro/202303/50313ea2dae2b64ca94f2f73a4427e13.jpeg?x-oss-process=style/scale70)从投资角度来看，**投资公链是容错率最高的选择，生态应用何其多，**生存与凋零，但只要此公链生长出个别超级应用，它便能长期生存，所以投资人趋之若鹜。从这个角度来说，未来诞生百倍公链大概率在 L2，L0，隐私公链。再去做 L1 其实意义已经不大。L2 不论是现在的 OP 还是 ARB，还是未来 ZK，它们都是好的选择项
-
-L0 解决底层的互操作性，ATOM，Layerzero 属于这类，以前我对 DOT 抱有很大期望，主要对 Gavin Wood 的信任，可惜插槽让很多项目方望而却步，慢慢走向封闭。
-
-隐私公链，一直是我很看好的方向，我一直在论述下一个 DEFI SUMMER 的远景图，是信贷 + 衍生品的繁荣，我们现代金融基于信贷而生，区块链信贷的孕育，会放大加密货币市场 1000 倍的规模。而隐私公链不可或缺，可用而不可见。
-
-**从目前隐私公链基本每一个都上亿规模的融资来看，可见一斑。**
-
-当前我比较看好两个，一个是 #ALEO（未发币），ZK 技术，基础设施搭建完善，包括自己的开发工具。另一个是 #ROSE，TEE 技术，宋教授的项目，其实本质是投人。
-
-![](https://img.foresightnews.pro/202303/767246a31210932aaeaf023892333bf5.jpeg?x-oss-process=style/scale70)9.百倍币数量第二属于 GAMEFI，总共 5 个，占比 8.2%。GAME 一直是传统 WEB2 兵家必争之地，前有腾讯网易，后有米哈游。这个赛道最赚钱，也最赚流量。同时也是培养圈外用户进入 WEB3 的最好教育工具，只有人多共识强，加密货币市值不断新高，机构才能更好价格套现离场。所以机构也愿意投，自然是热点中的热点。
-
-![](https://img.foresightnews.pro/202303/deb0bcdcf47c64af3558dedd48b91218.png?x-oss-process=style/scale70)游戏赛道，有做超级应用的，比如 #AXS， #GMT，有做游戏公链的，比如 #IMX， #RON。有做整个游戏生态的，比如 #GALA， #MAGIC。路径选择很多。这个赛道大概率是下一个周期诞生百倍币最多的领域。这里挖掘了几个下个周期大概率百倍币游戏品种，可私信我。
-
-10.百倍币数量第三属于跨链，IOT（物联网），DEFI，MEME 币。分别有 3 个，分别占比 4.9%。这几个方向来说，物联网大概率下一个周期没它什么事了 跨链是刚需，肯定会诞生一两个王者 MEME 就看命了，肯定也会有，方法就是多做链上分析，地址之间的关联性，巨鲸的捕获能力。这个以后可以展开说，结合工具
-
-DEFI 应该也是下一个周期里面，产生百倍币前三的赛道。其中我重点关注：DEFI 里面衍生品方向，算法稳定币方向，信贷方向，NFT 借贷，NFT 流动性，CRV 生态，这几个领域大概率诞生百倍币品种。幸运的是，这些项目已经出现，并在不断壮大，值得期待。
-
-![](https://img.foresightnews.pro/202303/bb52c1945a241cf75dac1773249c91de.png?x-oss-process=style/scale70)11.由于篇幅原因，更详细的数据分析和图表，这里暂不赘述。假如您喜欢这篇文章，请点赞转发，感谢。
-
-同时感谢我们团队，感谢线上的加密伙伴和社区，一同探讨。
+**现象**
+------
 
   
 
 
-***7UPDAO***
+**我们首先说一下事件，再讲一下笔者看到的其他背后的东西。**  
 
-声明：请读者严格遵守所在地法律法规，本文不代表任何投资建议。
 
   
 
 
-原文链接：
+2023 年（北京时间）3 月 24 凌晨，OpenAI 宣布，ChatGPT 中初步实现对插件的支持。*（Plugins are tools designed specifically for language models with safety as a core principle, and help ChatGPT access up-to-date information, run computations, or use third-party services.）*插件专门为大语言模型设计，以安全为核心原则，能够帮助 ChatGPT 访问最新的信息，运行计算，以及使用第三方服务。  
 
-https://twitter.com/Rocky\_Bitcoin/status/1634470640093888512
+
+也就是说，OpenAI 插件会将 ChatGPT 直接连接到第三方应用程序。插件能够使 ChatGPT 参与开发者定义的 API 互动，增强 ChatGPT 的能力，使其能够执行各类广泛场景的任务。  
+**什么是 API？**  
+*API 代表应用程序编程接口，它是一组用于构建和集成应用程序软件的定义和协议。你可以把 API 理解为服务员，ta 很会 ta 工作的那一套服务，有事儿说话就行，API 也 属于前后端间的联通。举个例子，假如我们去一家饭馆，桌面上摆着一份菜单，而厨房能提供菜单上的菜式。那么，这里还缺少一个能和后厨联系的人，服务员就是去告诉后厨你选的菜，再将菜带回到你的桌子上。服务员带着你的 request 去告诉 system，然后将 response 带回给你。*  
+*这里再举个例子：airline system ，订机票，你将你的航程提交，会访问网站的 database,来看你选择的日期，座位是否是可选。但如果你不是在他的网站上订机票，你是在一个汇总不同的航班信息的 online travel service 上，那么这个 service 调用了 前面 airline system 的 API 。*  
+*这个接口就像上面例子的服务员，带着你的要求去 airline system 上 收集信息 ，然后带回到 online travel service 上 。所以你就把它想象成你的服务员在前后端间交付数据，创建联系。*  
+***参考资料：****https://zhuanlan.zhihu.com/p/533996770*
+
+*https://zhuanlan.zhihu.com/p/347125981*
+
+*https://baijiahao.baidu.com/s?id=1711681533512807688&wfr=spider&for=pc*
+
+  
+那么，通过新推出的插件（Plugins），ChatGPT 执行哪些事情？  
+  
+* **检索实时信息：**例如，实时体育比分、股票价格、最新新闻等。
+* **检索知识库信息：**例如，公司文件、个人笔记等。
+* **协助用户进行预订航班、订购外卖等操作**
 
   
 
 
-**7up DAO**
+目前，OpenAI 的插件还处于 alpha 阶段，需要申请试用，接下来将与用户和开发者密切合作，对插件系统进行迭代，该系统会持续更新换代。之后会公开一个或多个 API 端点，并附上标准化要求和 OpenAPI 规范，这些会对插件功能进行定义。  
 
-**关于我们**
 
-7upDAO 是一个 Web3 投资与研究驱动型社区，致力于分享 Web3 前沿动态，深度分析各赛道热点话题。
+**通过这块，开发者可以对自己定义的 API 进行调用。**  
+
+
+**一个场景：**我们把 AI 大模型看做智能的 API 调用者，首先给定 API 规范和关于何时使用 API 的自然语言描述，模型就会主动调用 API 来执行操作。  
+例如，如果用户问："我应该在巴黎哪个继续预定住宿？模型就会选择调用酒店预订插件 API，接收 API 响应，并结合 API 数据和自然语言能力，生成一个面向用户的答案。  
+
+
+随着时间的推移，预计系统将不断发展以适应更高级的应用场景。  
+
+
+注意：要建立一个插件，就需要了解端到端流程。  
+
+
+比如说创建一个清单文件，并将其托管在 yourdomain.com/.known/ai-plugin.json  
+
+
+**该文件包括关于插件的元数据（名称、标识等）*****什么是元数据？****元数据白话解释就是，事物为了适配某种标准而必须具备的数据。比如说，地图类型、地图图例，图名、空间参照、地图内容说明、比例尺和精度、都是地图的元数据，即符合某标准的最小集的，静态的数据。*  
+**所需认证的细节（认证类型、OAuth URL 等）****以及想公开的端点的 OpenAPI 规格。**  
+
+
+该模型将有 OpenAPI 的描述字段，它可以用于为不同的字段提供自然语言描述、在未来，OpenAI 希望建立一些功能来帮助用户发现有用的和流行的插件。**解读**
+------
+
+  
+2023 年 2 月 24 日，笔者发过一篇文章[*ChatGPT 爆火的下一步：API 与平台战争*](http://mp.weixin.qq.com/s?__biz=MzI5MjE4NzYzNw==&mid=2247486575&idx=1&sn=064efc5c7d746750b3232e31554eaf7d&chksm=ec0470f5db73f9e32803189a3c39c5f3d073ce6b279e13323f21946c2402bd13dc82aaf4f27d&scene=21#wechat_redirect)  
+其中提到了几点预测：**首先，****对于 OpenAI 来说，所赚的钱绝大部分将来自开发者，而 ChatGPT 只是通往所有业务的入口，其次，****在这场属于 AI 的热度进程中，API 是最重要的要素之一。**也就是说，像我们 2 月讲的一样，ChatGPT 与 Bing 的聊天机器人并不是这类产品的终极形态。  
+**ChatGPT 和 Bing，其实属于一种应用层面的展示，主要是强调这种基于 GPT 模型，如果做成应用工具，到底能有多么先进。**  
+**而正是这种演示效应，和在公众、企业、科研机构中造成的影响，导致生成式 AI 领域的军备竞争帷幕，徐徐展开。**  
+Octane AI 的创始人 Ben Parr 认为："对于 OpenAI 来说，所赚的钱绝大部分将来自开发者，而 ChatGPT 只是通往所有业务的入口。”  
+**在人工智能聊天机器人进入公众视野之前，OpenAI 早就为开发者群体准备好了 API：****2023 年 1 月，ChatGPT 一跃爆红，而 OpenAI 负责人 Greg Brockman 就开始预告：ChatGPT 的 API 马上就会推出。****就在几乎同一时间，微软提供了基于 Azure 的 OpenAI 业务。**而其他大厂也没有停下脚步。谷歌是这样操作的：谷歌 CEO Sundar Pichai 推出 Bard 聊天机器人的当天，也承诺会在 2023 年 3 月之前，推出底层技术（类别的产品和支持），而就在本周，亚马逊宣布将与 Hugging Face 合作，通过 AWS（亚马逊云科技）提供生成语言工具。  
+  
+英伟达（*NVIDIA* ）首席执行官黄仁勋，在 2023 年 2 月 22 日的电话会议上提出：**"所有开发软件的工程师，都会逐渐觉醒，或者是被现实教育，这种教育指的是，大家会逐步将类似于 ChatGPT 这类工具整合到自己开发的应用程序中，或整合到其他服务中。** 由于英伟达公司（*NVIDIA*）提供了技术和算力运行的芯片，因此它也从这个领域中受益，英伟达股票周四跳涨了 14%。  
+寻找生成式 AI 的广泛而有用的应用，将会是一种挑战，但是，我们逐步会发现：很多早期应用会很突出，比如说：  
+**客户服务部门可以使用能够对话式聊天机器人****游戏公司可以用它来建立智能角色，使 NPC 这种固定而古老的模式，成为历史。****而营销人可以试着使用生成式模型与客户建立更深的联系。**  
+**其他解读&推测**
+-----------
+
+  
+**1.平台化的公司，未来的优势应该仅仅限于自己的数据本身了，数据直接通过 AI 触达，用户跳过了中间的这个工程架构的设计。**  
+  
+比如说，假如我们现在要模仿 B 站开发一个 C 站，传统上是需要先看一下 B 站的业务结结构是怎么样的，然后找架构师克隆一遍，该用开源代码就用开源代码，但是，随着 ChatGPT Plugin 的横空出世，这种形式可能将成为过去式，以后可能会变成一种叫平台业务租赁的这种方式，来直接把数据一步到位转化给用户。  
+  
+**2.Open AI 作为行业的裁判员，直接开始下场参赛。既是选手，还是裁判。这一切发生得太快了。**  
+如果你有其他解读，欢迎在后台交流。  
+  
+***参考资料****1.https://openai.com/blog/chatgpt-plugins*  
+
+
+*2.Alex Kantrowitz-Next Up For AI Chatbots: It’s All About The APIs-The magical demos displayed the capability. Now the platform wars begin-2023-02-24*
+
+*3.https://zhuanlan.zhihu.com/p/533996770*
+
+*4.https://zhuanlan.zhihu.com/p/347125981*
+
+*5..https://baijiahao.baidu.com/s?id=1711681533512807688&wfr=spider&for=pc*
 
   
 
 
-7upDAO 私董会是面向 Web3 行业的资源联盟。加入联系微信 c112606
+**【阅读更多】**
 
-  
-
-
-微信群：加微信 seven7upDAO 入群
-
-Twitter：@7upDAO
-
-Discord：https://discord.gg/7updao
-
+* [最新！彻底颠覆 Office，微软发布 Copilot](http://mp.weixin.qq.com/s?__biz=MzI5MjE4NzYzNw==&mid=2247486670&idx=1&sn=039a8ca1c4a172e2dc6770246d9a1c2b&chksm=ec047054db73f94276da7adbdb8214b3d71c2248d171a7ce28adb5cdc5826b570a50fed028af&scene=21#wechat_redirect)
+* [生成式 AI 颠覆前端，你该何去何从？](http://mp.weixin.qq.com/s?__biz=MzI5MjE4NzYzNw==&mid=2247486646&idx=1&sn=1593c1bef9c5698b15336a757dc49843&chksm=ec04702cdb73f93a235f4b40d0e1e6861a02a7d7992b562cfd104935b0bc633cd5f9b12163ed&scene=21#wechat_redirect)
+* [重磅突发！OpenAI 正式推出多模态 GPT-4](http://mp.weixin.qq.com/s?__biz=MzI5MjE4NzYzNw==&mid=2247486658&idx=1&sn=22b21401074e7febca44d88ab4d3e32c&chksm=ec047058db73f94ed2396ca6fddfb7ffd7c3770df64b6e753ef8107686fb213acceb70c48ed7&scene=21#wechat_redirect)
+* [战略|回首 20 年，百度做错了什么？](http://mp.weixin.qq.com/s?__biz=MzI5MjE4NzYzNw==&mid=2247483794&idx=1&sn=e12827cd8b918ac91e7f8aaacae578ee&chksm=ec047d08db73f41e7ecc96d6c12b6cfebe0e0d115549d882dee6e41af9e0a8187a4472a8f42c&scene=21#wechat_redirect)
+* [A16Z | 生成式 AI 的机遇与挑战分析（上）](http://mp.weixin.qq.com/s?__biz=MzI5MjE4NzYzNw==&mid=2247486227&idx=1&sn=3530e96c27ca3e3f2ce0c19386e4c8f4&chksm=ec047789db73fe9fca373ccb11e5370534606739d730e4aeca9e80c3a28b16fdec710f59c25b&scene=21#wechat_redirect)
+* [A16Z | 生成式 AI 的机遇与挑战分析（下）](http://mp.weixin.qq.com/s?__biz=MzI5MjE4NzYzNw==&mid=2247486233&idx=1&sn=05d4d0eb0482adb6e413c24b852e394e&chksm=ec047783db73fe95da4e6f04d8f629d498dd42ec83bce5b5b2fd0bb3b52ec09dbb82e4185152&scene=21#wechat_redirect)
+* [微软人工智能 Office 和电邮即将登场...](http://mp.weixin.qq.com/s?__biz=MzI5MjE4NzYzNw==&mid=2247485993&idx=1&sn=173a65b8ad18518e86021138a7ddb217&chksm=ec0476b3db73ffa5355bd2ac4ecde325ca758682e7831fc8c9ed68dedd869f6809805cd3a44d&scene=21#wechat_redirect)
+* [重新定义搜索：人工智能 + 搜索带来的机会](http://mp.weixin.qq.com/s?__biz=MzI5MjE4NzYzNw==&mid=2247486180&idx=1&sn=0eec060ea40a9be7b8715c12167fdf55&chksm=ec04767edb73ff68cecb4345c0eb51e58770d3d03f95e5ad9c393a67fe2f61dda2d75a060bea&scene=21#wechat_redirect)
+* [VC 进军生成式 AI，机会到底在哪里？](http://mp.weixin.qq.com/s?__biz=MzI5MjE4NzYzNw==&mid=2247485762&idx=1&sn=fd3ce8386481a4ddc2894a1ec27c343f&chksm=ec0475d8db73fccedc168dd5024f64fcd07fa02dd9d866cdb15f12e4f9882f925a0c49334a10&scene=21#wechat_redirect)
+* [白皮书 | AIGC 的机会到底在何处?](http://mp.weixin.qq.com/s?__biz=MzI5MjE4NzYzNw==&mid=2247485825&idx=1&sn=79f5b5aa504f707d49f4d2ab15424df7&chksm=ec04751bdb73fc0d86776656ce64f5a13c4561a41f2339c1f2697288f168f3e5e7fc17e25125&scene=21#wechat_redirect)

@@ -1,0 +1,14 @@
+2023 年 3 月 29 日至 31 日，Web3 安全公司 Numen Cyber 将举办首届国际智能合约安全 CTF 与链上安全监测机器人开发大赛。此次比赛由 COCloud， Alibaba Cloud 以及 The Collective Solution 赞助，奖金池总额达到 2 万多美元，旨在促进智能合约安全以及链上安全监测技术的不断发展与提高，推进 Web3 更加安全快速发展。
+
+此次大赛包含两个比赛项目，**智能合约安全 CTF** 和**链上安全监测机器人开发大赛**。参赛队伍可以根据自己的兴趣选择报名其中的一个。两个项目独立评比,赛后分别评选出一等奖，二等奖及三等奖各一名。
+
+**报名时间：** 即日起至 2023 年 3 月 30 日
+
+**比赛时间：**2023 年 3 月 29 日 -2023 年 3 月 31 日
+
+**注册报名网址：**
+
+* 智能合约安全 CTF： https://ctf.numencyber.com
+* 链上安全监测机器人开发大赛**：** https://immunx.numencyber.com
+更多比赛相关问题，欢迎加入 discord 账号：https://discord.com/invite/bVDtnphtWa或者发送邮件到 contact@numencyber.com 联系 Numen Cyber 团队。更多比赛资讯，欢迎关注 twitter @numencyber，或加入 telegram 社群https://t.me/numencyber。![](https://img.foresightnews.pro/202303/c5287e143f049d2d0158fa9b88a75209.png?x-oss-process=style/scale70)
+
