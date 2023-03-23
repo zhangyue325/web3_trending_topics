@@ -1,0 +1,12 @@
+DefiLlama 是加密市场使用最多的 DeFi 数据仪表板，因其全面而详细的数据而广受好评。但是 web3 和 web2 不同。传统大厂因其有雄厚的财力可以供养一个有价值但不盈利的项目。但 web3 的项目往往需要自己产生盈利来支持项目运行。DefiLlama 产品做得很好，但是因其产品属性无法盈利。团队也一直寻求怎么能产生收益。![](https://img.foresightnews.pro/202303/c62940b950cfec461f0213873bbde907.png?x-oss-process=style/scale70)
+
+在最近 DefiLlama 团队分裂中，让大众注意到它光辉背后的危机！**本次事件的主人公有三个0xLLam4、0xngmi 和 DefiLlama 团队。**DefiLlama 由 0xLLam4 发起，0xngmi 帮助构建，很快 0xngmi 就接管了该项目的所有工作，毫不夸张地说，对于 DefiLlama 如今的成功，0xngmi 承担了 绝大部分的责任，他不仅领导 DefiLlama 团队，同时也是 DefiLlama 的大股东。一个很大的问题是 DefiLlama 成立至今没有产生任何的利润，**联合创始人 (0xLLam4) 觉得等不下去了，于是给出了一个可以快速盈利的解决方案：推出 DL 代币。****但是以 0xngmi 为首的团队一直反对发行代币**，他们觉得从根本上说，代币没有价值，因为 DefiLlama 不是协议，代币不能合法地成为一种股权形式。不仅如此，一旦代币价格下降，人们的注意力就不会放在 DefiLlama 平台上，而是仅仅盯着价格数字。DefiLlama 联合创始人 **0xLLam4** 并没有接受 0xngmi 的解释，**仍然坚持表示无论是否获得 DefiLlama 团队的批准都会推出代币**。在 0xngmi 看来，这种行为无疑是一种对 DefiLlama 的“恶意收购”……因为他并不希望将该项目的价值和声誉被包含在代币中。虽然没有团队的批准代币有可能不会启动，但让 0xngmi 没有想到的是，“DL 代币”已经启动并且已经编写代码来支持它了（DefiLlama 联合创始人 0xLLam4 没有告诉任何人）。0xngmi 认为，如果代币被发行，就真的没有回头路了，这将永远玷污 DefiLlama 的声誉，并扼杀他们多年来辛勤打造的一切。真正的问题是，这位联合创始人已控制 DefiLlama 的官方推特和域名，这意味着他们可以随时宣布发行代币。从本质上来说，DefiLlama 的开发团队已经被当作“人质”给绑架了，所以 DefiLlama 团队决定：如果 DL 代币发行不可避免，唯一的方法就是用一个新名称来分叉 DefiLlama 并创建一个新的推特和域名。两位创始人激烈对抗，产生分裂。DefiLlama 创始人 0xngmi 宣布其团队推出分叉版本网站 Llama.Fi。![](https://img.foresightnews.pro/202303/1f0569ac79a7e1ea706f43a190e88018.png?x-oss-process=style/scale70)
+
+**就这样，0xLLam4 控制着DefiLlama 官方推特和域名，0xngmi 控制着产品还有跟随的团队。在分叉版本网站Llama.Fi推出一天之后，两位合伙人选择握手言和。**DefiLlama 推特发文称，目前还没有发行 LLAMA 代币的计划，任何空投都将与社区讨论。团队将采取措施，以更加透明的方式运作，以确保这种情况不会再次发生。DefiLlama 创始人之一 0xngmi 也发推表示：“所有工作将在 DefiLlama.com 上进行，Llama.Fi 已重定向到 DefiLlama.com。”![](https://img.foresightnews.pro/202303/78f28eec497c3ba0ffe528532ec720b4.png?x-oss-process=style/scale70)
+
+虽然联合创始人0xLLam4 选择妥协，但DefiLlama 的问题还是没有被解决，仍然需要赢利为项目的继续运行提供动力。web3 项目的尽头是不是发币？可能0xLLam4 还是想发。未来在平衡团队和社区意见之后。不难想象未来可能的盈利方向。一种是付费使用，但是由于DefiLlama 产品的特性，收费之后很可能会给其他聚合器赶超的机会，失去优势。另一种方向就是发行一种与社区及产品绑定的代币。相比之下。我还是觉得后者的可能性更大一点。你们觉得呢？关注我，每周为你带来新有价值的加密内容。  
+
+
+  
+
+

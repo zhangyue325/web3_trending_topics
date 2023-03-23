@@ -1,0 +1,173 @@
+![](https://img.foresightnews.pro/202303/0d17317c5be14df82774bc6a4cccaf43.jpeg?x-oss-process=style/scale70)*Mina 基金会及其生态合作伙伴，包括 O(1) Labs，致力于通过链上投票进行去中心化治理。*
+
+  
+
+
+在接下来的几周内，社区成员将提出新的 Mina 改进提案 (MIP)，引导社区进行投票。为此，Mina Foundation 提醒社区了解 MIP 流程以及如何参与链上投票。
+
+  
+
+
+**什么是 MIP？**
+
+  
+
+
+MIP 代表 Mina Improvement Proposal（Mina 改进提案）。社区成员可以通过 MIP 流程向 Mina 提出更改协议或新功能的提议。每一个  MIP 应提供相关改进的简明技术规范以及对协议进行改动的理由。MIP 发起人负责对其提案提供支持、在社区内建立共识并整合反馈。
+
+  
+
+
+**MIP 理论基础**
+
+  
+
+
+MIP 旨在成为向协议提出新功能的主要机制。整个过程由社区驱动，旨在实现高参与度和透明度。
+
+  
+
+
+**MIP 流程**
+
+  
+
+
+MIP 流程对所有人开放。社区成员可以在 Github 上查看提交的提案 (查看示例) 也可以按照Github 上概述的流程提出自己的想法。MIP 流程会根据参与者的反馈定期进行评估和调整。此外，一组 MIP 编辑者 (MIP Editors) 确保流程得到正确遵循。
+
+  
+
+
+MIP 流程的关键阶段包括：
+
+  
+
+
+**起草 (Draft)**：发起人根据 Github 上概述的指南起草 MIP，并提交到 Github
+
+  
+
+
+**审查 (Review)**：MIP 发起人寻求并采纳来自社区和特定技术专家的反馈；例如通过 Github 和 MinaResearch 上进行社区电话和讨论
+
+  
+
+
+**最终通话并敲定 (Last call and finalize)**：获得反馈和通过的最后环节
+
+> 阅读完整 MIP 流程以及如何创建 MIP
+
+  
+
+
+**即将推出的 MIP**
+
+  
+
+
+查看以下即将推出的 MIP，它们将影响整个 Mina 生态系统，我们呼吁社区在未来几周内参与链上投票。此外，请参阅下面有关社区电话的关键详细信息，与其发起人讨论 MIP 并收集社区反馈。
+
+  
+
+
+
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| **MIP** | **背景** | **MIP****阶段** | **MIP****发起人** | **Call 细节** |
+| MIP3:Kimchi: 一种新的证明系统 | Kimchi: 提议升级 Mina 证明系统Kimchi: Mina 证明系统近期更新 | 起草 | 来自 O(1) Labs 的工程架构师 mimoo#7625 和来自 O(1) Labs 的密码学工程师 anais#7001 | 3/28/2311 AM(UTC-6)注册参加电话会议 |
+| MIP4:主网上更简易的 zkApp 可编程性 | [什么是 zkApp](http://mp.weixin.qq.com/s?__biz=Mzk0OTIzNzg3Nw==&mid=2247485607&idx=2&sn=e24f32b0fb9c07a341e71231d77e9893&chksm=c35a29bdf42da0aba6e4e58a21fa3f71d63b54a41036a1b16769b866e7a17028ff1a09f3023d&scene=21#wechat_redirect) | 起草 | 来自 O(1) Labs 的工程架构师 bkase#2492 | 时间日期待定注册详情即将公布 |
+| MIP1:根据初始代币经济学减少超额奖励 | 代币分配 | 定稿 | garethdavies#4963 | 12/12/2210 AM(UTC-7)录制链接(密码: b%37J6c$) |
+| MIP2:降低钱包创建费 | MinaResearch 上的讨论 | 起草 | flushthefashion#5369 | TBD |
+
+最后更新于 2023 年 3 月 21 日  
+
+
+  
+
+
+***备注**：MIP 流程是一个开放流程，MINA 代币持有者可以对特定提案进行投票。因此无法保证此类投票的特定结果。MIP 作者可以随时撤回他们的提案，在审查阶段出现的反馈可能最终会造成 MIP 无法进入社区投票环节。此类反馈将由相应的 MIP 编辑者发布。下一次投票定于 2023 年 4 月进行，具体日期和时间待定。*
+
+  
+
+
+更多细节和提醒将在每个 MIP 的投票日期临近时于 Mina 的 Discord 和社区频道上分享。由生态合作伙伴和其他社区成员发起的进一步投票可能在第二季度和 2023 年晚些时候举行。
+
+**>** 注册参加 3 月 28 日 11 AM (UTC-6) 的 O(1) 社区电话会议，了解有关新证明系统 Kimchi 的更多信息。
+
+  
+
+
+**>** 有关完整 MIP 流程的更多详细信息，请访问MIPs Github
+
+  
+
+
+  
+
+
+  
+
+
+![](https://img.foresightnews.pro/202303/8ad00eb87c26124a611431bde01b30c0.png?x-oss-process=style/scale70)**About Mina Protocol**
+
+**#PoweredByParticipants**
+
+  
+
+
+Mina 是全球最轻量区块链，由参与者参与治理。
+
+  
+
+
+凭借其优雅的设计，Mina 是首个实现简易编程性零知识智能合约（[zkApp](http://mp.weixin.qq.com/s?__biz=Mzk0OTIzNzg3Nw==&mid=2247485607&idx=2&sn=e24f32b0fb9c07a341e71231d77e9893&chksm=c35a29bdf42da0aba6e4e58a21fa3f71d63b54a41036a1b16769b866e7a17028ff1a09f3023d&scene=21#wechat_redirect)）的一层网络。Mina 独特的隐私和安全功能及其通过 zkApp 与任何网站链接的能力，使得 Web3 更具安全性和私密性，极大地推动着所有人都应享有的安全民主未来的构建。Mina 由总部位于美国的非营利组织 Mina 基金会管理。
+
+  
+
+
+  
+
+
+![](https://img.foresightnews.pro/202303/8ad00eb87c26124a611431bde01b30c0.png?x-oss-process=style/scale70)Website
+
+![](https://img.foresightnews.pro/202303/25f6d27300aa7a637dda8d8d431dbcd6.png?x-oss-process=style/scale70)Twitter
+
+![](https://img.foresightnews.pro/202303/ac5035c4e361768efbc6a8208d26b1a1.png?x-oss-process=style/scale70)Medium
+
+![](https://img.foresightnews.pro/202303/7759921919ffc27d66bd86b43f381f6e.png?x-oss-process=style/scale70)Weibo
+
+![](https://img.foresightnews.pro/202303/1ee92846c08b30f7874189937b986e79.png?x-oss-process=style/scale70)Discord
+
+![](https://img.foresightnews.pro/202303/bf420670dec2ca347bacc727313585ac.png?x-oss-process=style/scale70)Telegram
+
+![](https://img.foresightnews.pro/202303/9e83f576d1cff43acfe2e5f405ed9a6e.png?x-oss-process=style/scale70)GitHub
+
+  
+
+
+  
+
+
+![](https://img.foresightnews.pro/202303/c71175429cee859cffd07621795a49ea.png?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/77dc10027926c49a8f878ab38abe133f.png?x-oss-process=style/scale70)**全球最轻量区块链 人人皆可参与**
+
+公众号｜Mina Protocol Official
+
+微　博｜Mina\_Protocol
+
+  
+
+
+  
+
+
+![](https://img.foresightnews.pro/202303/5db10ece9608cadeab0d06a41d1e422c.png?x-oss-process=style/scale70)**往期回顾**
+
+[![](https://img.foresightnews.pro/202303/7f2c9707fc25bd0815cfc4b581f6d897.jpeg?x-oss-process=style/scale70)](http://mp.weixin.qq.com/s?__biz=Mzk0OTIzNzg3Nw==&mid=2247494586&idx=1&sn=98a1d6851a6573ced101013754be0fb8&chksm=c359caa0f42e43b6c88a5a8173b0ee74978c4418ec58a2278fb43065ed65a7dd6284649ae009&scene=21#wechat_redirect)**zkIgnite Cohort 阶段 1 回顾｜4 周内编写一个 zkApp 或工具方案**  
+
+
+[![](https://img.foresightnews.pro/202303/44dbd0a13d0eb9e72bdeed23b918337c.png?x-oss-process=style/scale70)](http://mp.weixin.qq.com/s?__biz=Mzk0OTIzNzg3Nw==&mid=2247494530&idx=1&sn=75d4a02dc0f831b3a032b3fd33fc6586&chksm=c359ca98f42e438e7708d15dfabe1fda4d559d492b72893ada8d4f6b8b9cb9f6df5e2969b46a&scene=21#wechat_redirect)**Mina 生态开发进展月度更新｜2023 年 2 月**
+
+  
+
+

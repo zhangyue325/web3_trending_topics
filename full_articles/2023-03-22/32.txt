@@ -1,0 +1,512 @@
+**总结来说**
+--------
+
+### **1.热门币种方面：**
+
+SUIBG（Token）：SUI Futures Token。BitKeep 与 Bitget 联合推出一项名为 SUIBG (SUI Futures Token) 的期货空投，可作为未来 Sui Network 主网上线后，其原生代币 SUI 的兑换凭证。用户可以在 BitKeep 钱包参与红包空投、交易奖励等活动，或在 Bitget 交易平台参加 SUIBG 嘉年华活动领取 SUIBG；目前 DEX 上有相关交易池，但是流动性较差深度较低，建议从 Bitget 和 Bitkeep 官方渠道申领； （目前 SUIBG 已在链上有 13,470 holders，链上转账次数达 34.5 万次）
+
+ARBK（Token）- Arbitrum Futures BitKeep，ARBK 是 BitKeep 推出的作为 Arbitrum 官方 Token 兑换凭证。持有 ARBK 并完成相应任务，可获得未来 100% 兑换 Arbitrum 官方 Token 的资格，提前兑换用户对 Arbitrum 生态的预期。昨日 ARB 正式发币，ARBK 兑现预期增强，获得了流量加持；
+
+ENS（Token）：Spaceid 将于今晚 9 点上线，将 DID 的一些项目重新带回了大众视野，例如 ENS、LIT 等都有一定程度的价格反馈，但是目前 DID 赛道还没有形成合力，整体赚钱效应不高，不过 ENS3 月 22 日宣布将于 3 月 30 日举办 ENS Town Hall，包含多项更新，ENS 的产品处于持续迭代的过程，未来在 DID 赛道占据头部位置，可以持续关注；
+
+Blur（Token）：Blur3 月 21 日平台一共成交了 1.76 万 E，Opensea 成交 5563E，近期交易额维持稳定，BLUR 近期相对 BTC 表现很差，目前价格 0.56u，BLUR 短期价格回升能够提振 NFT 用户交易；Blur 第二轮的空投交易正在进行中，4 月 1 日前 通过 Bidding 和 Listing 的平台分数是加倍的，用户在最后加倍分数的 10 天内更频繁交互，以期获得更多空投奖励；
+
+HOBBES（Token）：定位是 Elon 养了 15 年的约克犬，Elon 在 3 月 19 日发布了关于约克犬的名字以及其他相关信息推文，Elon 的母亲也回复了此条推文并表达了对 Hobbes 的喜爱，目前 token24 小时成交额 289 万美金，链上流动性 12.2 万美金，市值 109 万美金，合约检测无重大风险，可以保持关注；
+
+BARD（Token）：定位是 Google 推出人工智能聊天 AI Bard 的 token 对标，目前主要是蹭热度，不过代币 3 月 21 日单日上涨 426%，目前链上流动性 10.9 万美金，近 24 小时成交额 87.3 万美金，合约检测无重大风险，可以保持关注；
+
+BEAST（Token）：项目是一个新上线的 meme 代币，3 月 22 日宣布即将发布白皮书，并在 facebook、Avedex、dexscreener 上投放广告，但目前还没有进展公布，近 24 小时成交额 16 万美金，流动性只有 1.5 万美金，合约检测无重大风险，建议观察；
+
+GATSBY（Token）：定位是 Elon 的狗狗 meme，2019 年 4 月 29 日，Elon 发布一条推特介绍他有一只大狗叫 Gatsby，项目的出处来自于此，代币链上流动性只有 1.36 万美金，24 小时成交额 49 万美金，合约检测无重大风险，建议观察；
+
+GROOM（Token）：项目定位是一个照顾 Shibarium 社区的 meme，代币刚刚上线，链上流动性仅 7900 美金，24 小时交易额 12 万美金，合约检测无重大风险，建议观察；
+
+HEX（Token）：HEX 由 Richard Heart 在 2019 年 12 月 2 日设计并发布，自称是区块链上的存款证明，近期市场交易热度极高，最近 24 小时仅 HEX/USDC 这一个交易对的交易额就达 815 万美金，多次出现在各国热搜币种榜单上，代币相较 2022 年 12 月的底部上涨了 6 倍左右，社区用户关注度高；
+
+SQUA（Token）：定位是一个支付类型代币，专门为 GoFintech Group 的公司和合作伙伴生态系统内的支付系统开发的代币，在支付时自动销毁，近 24 小时成交额 1526 万美金，链上流动性达 736 万美金，交易活跃度非常高，合约检测无风险，可以重点关注；
+
+ATH（Token）：代币刚刚上线，链上池子达 7.2 万美金，近 24 小时交易额 78 万美金，代币今日暴跌 72%，合约检测无重大风险，可以保持观察；
+
+Onyx Dao（Token）：实验性的 Arbitrum Defi 协议，目前链上流动性 $86 万，24 小时交易量 $477 万，总市值 $180 万,代币推出后二级市场目前价格已上涨近 5 倍，热度非常高；ONYX 可以在矿池中质押赚取蓝筹代币；
+
+### **2.热门 NFT 方面：**
+
+Credit Dao Proof V2（NFT）：改 NFT 是 Credit DAO 发布的最新凭证，目前已经上线 Opensea，无成交额，持有地址达 118,226 个，目前更多是收藏意义，未来会赋能持有用户，可以保持观察；
+
+Pix nft assets（NFT）：Planet IX 相关 NFT 资产，Planet 是 Polygon 上的热度最高的游戏之一，常年盘踞在 polygon 生态榜单盘踞榜首，用户活跃度非常高；
+
+### **3.热门 DAPP 方面：**
+
+Bitkeep swap（Dapp）：Bitkeep 在推出 ARBK、SUIBG 等多个蓝筹币的期货代币后，使用率提高明显，目前已经进入全链 Dapp 的前十，未来也会持续推出大蓝筹的期货代币，满足更多用户的交易需求，带给用户更多奖励；
+
+Zksync、Starknet（Dapp）：在 Arbitrum 的空投效应影响下，其他未发币重点项目的交互度快速提升，未来可以重点关注交互的项目是 Zksync、Starknet、Scroll、Layerzero、Lens 等；
+
+Stake.com（Dapp）：世界领先的菠菜平台，和 Alfa Romeo F1 方程式合作，该网站只对除美国、澳洲和英国的 18 岁以上的用户开放；可以用加密货币进行菠菜，项目的官方 Twitter 有 21.7 万粉丝，平均每条推文都有 2 万以上的浏览量，Similarweb 显示月访问量 153 万次，主要流量来源是加拿大、巴西、阿根廷、美国、德国，用户基数大，分布非常广泛；
+
+Alien Worlds（Dapp）：Alien Worlds 是由 Dacoco GmbH 公司基于 WAX 公链开发的一款太空探索游戏。Alien Worlds 可以为玩家提供土地所有权、部署工具、士兵和武器，并定制专属游戏角色，是一款目前已支持以太坊、WAX 和 BSC 的多链 NFT DeFi 元宇宙游戏，3 月 22 日宣布也会参与 2023 年的游戏开发者大会（2023GDC），项目运营的非常积极；
+
+Element Market（Dapp)：Element NFT 交易平台的 Genisis Pass 正式上线，24 小时交易量达 240ETH，总量 2500 个，持有者 1322 个；随着平台用户和社区的增长，Genisis Pass 的持有者将从中受益；
+
+Unltiverse（Dapp):由 Binance 和红衫投资的 3A 级元宇宙项目，成功集齐 8 个 CyberPink 和 WhiteDay 徽章的前 2500 个用户将有资格活鹅限量版皮肤，活动在凌晨结束；
+
+Tiny world（Dapp)：Tiny world 是 BSC 上一款结合 NFT、Defi 的 P2E 游戏，玩家可收集英雄 NFT 进行 PVP 战斗获得奖励；PVP Arena 公测版本在 3 月中已推出，目前正进行 53 季排行榜比赛；
+
+MiningNetwork(Dapp)：Wax 上的挖矿游戏，界面是 Windows 98 系统风格，可 Free to Play 及 Play to Earn，特点是使用的经济模型为游戏资源随参与的用户数增多，生态的代币产出减少，使资产增值；
+
+Worldcoin(Dapp) - OpenAI 首席执行官 Sam Altman 创立的加密货币公司 Worldcoin 计划在今年上半年启动主网，Worldcoin 计划向全球每个人发行一种全球化的数字货币，并通过其开发的一种球形装置扫描虹膜来构建一个独特的个人识别码，使得每个人获得的数字货币具有独特性，该代币计划于今年上半年推出。据其网站称，该项目迄今为止已有近 120 万注册用户；
+
+### **4.Twitter 热议方面：**
+
+EVMOS（Token）：Cosmos 生态的 EVM 网络，它将通过 IBC 与以太坊主网、EVM 兼容环境和其他 BFT 链互操作，使用户和开发人员可以轻松地在链之间进行无缝交互，最近新建立了面向开发者的 YouTube 频道；
+
+DBX（Token）公链网络，推特有 3 万人关注，日交易量 1,616,162 美元，价格据最高点下跌 99.8%，绝大多数交易量集中在小所 probit，链上没有池子，建议观察；
+
+JOE（Token）- Trade Joe 的全链代币 JOE，受益于 Arbitrum 生态的火热，在 Uniswap V3 即将部署至 Avalanche 上与其竞争的情况下，币价强势，过去 7 日币价翻倍；
+
+### **5.区域热搜方面：**
+
+XRP（Token）- XRP 24h 内上涨 +20% 以上。 尽管面临来自美国监管机构对 XRP 可能被归类为证券的外部压力，XRPL 旨在为个人和现有金融实体提供数字支付基础设施。自 2 月以来，XRPL 的采用率显着增加，随着越来越多的机构和个人将 XRPL 用于跨货币交易和其他用例，这种更广泛的采用可能会推高对 XRP 代币的需求。
+
+### **正文**
+
+*数据统计时间：3 月 22 日 10:30*
+
+*数据来源：Dune、Dapps、Twitter、Google*
+
+*说明：*
+
+*1）新增活跃用户：是指在该公链过去 24 小时新产生，并在链上有交互行为的钱包地址*
+
+*2）存量活跃用户：是指在该公链 24 小时前产生，但过去 24 小时在链上有交互行为的钱包地址*
+
+*3）Dapp 日活 (UAW: unique active wallets)*
+
+*4）TGE (Token Generation Event)*
+
+**1.公链画像 - ETH 公链**
+-------------------
+
+### **1.1 用户画像**
+
+ETH 活跃用户总数：456,806
+
+ETH 新增活跃用户数：85,218 相比昨日增减幅：-0.89%
+
+ETH 存量活跃用户数：371,588 相比昨日增减幅：-3.78%
+
+核心数据：ETH 昨日新增活跃用户数 85,218，相比昨日 -0.89%
+
+热门赛道情况
+
+![](https://img.foresightnews.pro/202303/10214-1679473337493.png?x-oss-process=style/scale70)
+
+热门项目情况
+
+![](https://img.foresightnews.pro/202303/10214-1679473344703.png?x-oss-process=style/scale70)
+
+重点项目：
+
+Zksync、Starknet（Dapp）：在 Arbitrum 的空投效应影响下，其他未发币重点项目的交互度快速提升，未来可以重点关注交互的项目是 Zksync、Starknet、Scroll、Layerzero、Lens 等；
+
+ENS（Token）：Spaceid 将于今晚 9 点上线，将 DID 的一些项目重新带回了大众视野，例如 ENS、LIT 等都有一定程度的价格反馈，但是目前 DID 赛道还没有形成合力，整体赚钱效应不高，不过 ENS3 月 22 日宣布将于 3 月 30 日举办 ENS Town Hall，包含多项更新，ENS 的产品处于持续迭代的过程，未来在 DID 赛道占据头部位置，可以持续关注；
+
+核心数据：ETH 存量活跃用户 371,588，相比昨日 -3.78%
+
+热门赛道情况
+
+![](https://img.foresightnews.pro/202303/10214-1679473352344.png?x-oss-process=style/scale70)
+
+热门项目情况
+
+![](https://img.foresightnews.pro/202303/10214-1679473359153.png?x-oss-process=style/scale70)
+
+重点项目：
+
+Stake.com（Dapp）：世界领先的菠菜平台，和 Alfa Romeo F1 方程式合作，该网站只对除美国、澳洲和英国的 18 岁以上的用户开放；可以用加密货币进行菠菜，项目的官方 Twitter 有 21.7 万粉丝，平均每条推文都有 2 万以上的浏览量，Similarweb 显示月访问量 153 万次，主要流量来源是加拿大、巴西、阿根廷、美国、德国，用户基数大，分布非常广泛；
+
+Blur（Token）：Blur3 月 21 日平台一共成交了 1.76 万 E，Opensea 成交 5563E，近期交易额维持稳定，BLUR 近期相对 BTC 表现很差，目前价格 0.56u，BLUR 短期价格回升能够提振 NFT 用户交易；Blur 第二轮的空投交易正在进行中，4 月 1 日前 通过 Bidding 和 Listing 的平台分数是加倍的，用户在最后加倍分数的 10 天内更频繁交互，以期获得更多空投奖励；
+
+### **1.2 热门币对**
+
+![](https://img.foresightnews.pro/202303/10214-1679473365809.png?x-oss-process=style/scale70)
+
+HOBBES（Token）：（https://www.dextools.io/app/en/ether/pair-explorer/0x6178081202165c521c80b95d2c7ef54893c7232c）定位是 Elon 养了 15 年的约克犬，Elon 在 3 月 19 日发布了关于约克犬的名字以及其他相关信息推文，Elon 的母亲也回复了此条推文并表达了对 Hobbes 的喜爱，目前 token24 小时成交额 289 万美金，链上流动性 12.2 万美金，市值 109 万美金，合约检测无重大风险，可以保持关注；
+
+BARD（Token）：（https://www.dextools.io/app/en/ether/pair-explorer/0x1c8a9844091d5136b50f5b04b30de9e564ce397b）定位是 Google 推出人工智能聊天 AI Bard 的 token 对标，目前主要是蹭热度，不过代币 3 月 21 日单日上涨 426%，目前链上流动性 10.9 万美金，近 24 小时成交额 87.3 万美金，合约检测无重大风险，可以保持关注；
+
+BEAST（Token）：（https://www.dextools.io/app/en/ether/pair-explorer/0x3448d508f0e93f85300c4b8aacb99ff7d9d4dc24）项目是一个新上线的 meme 代币，3 月 22 日宣布即将发布白皮书，并在 facebook、Avedex、dexscreener 上投放广告，但目前还没有进展公布，近 24 小时成交额 16 万美金，流动性只有 1.5 万美金，合约检测无重大风险，建议观察；
+
+GATSBY（Token）：（https://www.dextools.io/app/en/ether/pair-explorer/0xc37ecc839ba67a46847dc367252b057f8feae680）定位是 Elon 的狗狗 meme，2019 年 4 月 29 日，Elon 发布一条推特介绍他有一只大狗叫 Gatsby，项目的出处来自于此，代币链上流动性只有 1.36 万美金，24 小时成交额 49 万美金，合约检测无重大风险，建议观察；
+
+GROOM（Token）：（https://www.dextools.io/app/en/ether/pair-explorer/0x2fc51f1201349266cee7e99c5c238bd90ce526e0）项目定位是一个照顾 Shibarium 社区的 meme，代币刚刚上线，链上流动性仅 7900 美金，24 小时交易额 12 万美金，合约检测无重大风险，建议观察；
+
+![](https://img.foresightnews.pro/202303/10214-1679473374202.png?x-oss-process=style/scale70)
+
+HEX（Token）：（https://www.dextools.io/app/en/ether/pair-explorer/0x69d91b94f0aaf8e8a2586909fa77a5c2c89818d5）HEX 由 Richard Heart 在 2019 年 12 月 2 日设计并发布，自称是区块链上的存款证明，近期市场交易热度极高，最近 24 小时仅 HEX/USDC 这一个交易对的交易额就达 815 万美金，多次出现在各国热搜币种榜单上，代币相较 2022 年 12 月的底部上涨了 6 倍左右，社区用户关注度高；
+
+MATIC（Token）：（https://www.bitget.com/en/spot/MATICUSDT\_SPBL?type=spot）3 月 27 日 Polygon 将正式上线 zkEVM 的 Beta 版本，用户期待度比较高；
+
+GALA（Token）：（https://www.bitget.com/en/spot/GALAUSDT\_SPBL?type=spot）2023 年 3 月 20 日 -24 日，2023GDC 在美国旧金山举行，该活动一般决定未来游戏领域的发展方向，受此消息面刺激，大量游戏相关项目出现一定异动；
+
+**2.公链画像 - BSC 公链**
+-------------------
+
+### **2.1 用户画像**
+
+BSC 活跃用户总数：1,263,076
+
+BSC 新增活跃用户数：169,268 相比昨日增减幅：+25.82%
+
+BSC 存量活跃用户数：1,093,808 相比昨日增减幅：+4.06%
+
+核心数据：BSC 昨日新增活跃用户数 169,268，相比昨日 +25.82%
+
+热门赛道情况
+
+![](https://img.foresightnews.pro/202303/10214-1679473381720.png?x-oss-process=style/scale70)
+
+热门项目情况
+
+![](https://img.foresightnews.pro/202303/10214-1679473388980.png?x-oss-process=style/scale70)
+
+重点项目：
+
+SpaceID（Token）：是币安第 30 个 Launchpad 项目，将于 3 月 22 日晚 8 点左右开盘，用户关注度很高，Bitget 将在第一时间上线代币；
+
+SQUA（Token）：(https://www.dextools.io/app/en/bnb/pair-explorer/0xc70734ef92893cf7ae131b13874f8c531584fc4e) 定位是一个支付类型代币，专门为 GoFintech Group 的公司和合作伙伴生态系统内的支付系统开发的代币，在支付时自动销毁，近 24 小时成交额 1526 万美金，链上流动性达 736 万美金，交易活跃度非常高，合约检测无风险，可以重点关注；
+
+Yesworld（Token）：（https://www.dextools.io/app/en/bnb/pair-explorer/0x1391614b95634ec0e5e604a2520a32eff3a3d4d4）绿色新能源降碳减排相关概念币，链上 48.5 万美金流动性，近 24 小时 24.4 万美金成交，代币走势高度控盘，合约检测有可增发的风险，可以持续保持关注；
+
+核心数据：BSC 存量活跃用户 1,093,808，相比昨日 +4.06%
+
+热门赛道情况
+
+![](https://img.foresightnews.pro/202303/10214-1679473396006.png?x-oss-process=style/scale70)
+
+热门项目情况
+
+![](https://img.foresightnews.pro/202303/10214-1679473403335.png?x-oss-process=style/scale70)
+
+业务机会：
+
+Link3（Dapp）：由 CyberConnect 孵化的 Web3 社交任务网络，用户通过完善自己的链上、链下资料信息，建立一个自己专属的去中心化社交图谱。大量知名项目方（如 BNB Chain、SpaceID 等以及近期较火的 ImageAI 等）都会去 Link3 举办、参与 Events。 Similarweb 显示月访问量 76.2 万次，主要流量来源是日本、波兰、土耳其、美国、俄罗斯；
+
+KOGE（Token）:BNB48 Club（https://www.dextools.io/app/en/bnb/pair-explorer/0x26de6c26dd5560c181011907d8f70c202c2a29d6），48 Club 是一群对 BNB 有共同热情的投资者创立的 DAO，ROGE 代表 48 Club 的开放治理投票权，持有代币的用户可以享受俱乐部提供福利，代币 24 小时链上交易额 3.2 万美金，交互比较频繁，但交易量不高，可以保持观察;
+
+### **2.2 热门币对**
+
+![](https://img.foresightnews.pro/202303/10214-1679473411321.png?x-oss-process=style/scale70)
+
+CBC（Token）:（https://www.dextools.io/app/en/bnb/pair-explorer/0x648a833ef370bdf299fbea7c0b42e312fcdf6d77）代币刚刚上线，链上池子 48.4 万美金，24 小时交易额 44 万美金，市值 497 万美金，合约检测买入税 20%，风险较高；
+
+INTER（Token）：（https://www.dextools.io/app/en/bnb/pair-explorer/0x142e708fcab726988d4ee5c3ce872da14934dbc5）代币刚刚上线，链上池子达 10.4 万美金，近 24 小时交易额 222 万美金，不过代币已经破位，合约检测显示 owner 可修改余额，风险较大；
+
+ATH（Token）：（https://www.dextools.io/app/en/bnb/pair-explorer/0x64e19414b0264b1141562deec4fc87310e4216ed）代币刚刚上线，链上池子达 7.2 万美金，近 24 小时交易额 78 万美金，代币今日暴跌 72%，合约检测无重大风险，可以保持观察；
+
+TTAI（Token）：（https://www.dextools.io/app/en/bnb/pair-explorer/0xd800badd250f38028b89665805c0643016bf98ad）项目定位是一个交易 AI，代币刚刚上线，已经在 CMC 和 Coingecko 登录，链上池子达 8 万美金，近 24 小时交易额 63.5 万美金，代币今日上涨 20%，合约检测无风险，可以持续关注；
+
+**3.公链画像 - Polygon 公链**
+-----------------------
+
+### **3.1 用户画像**
+
+Polygon 活跃用户总数：414,441
+
+Polygon 新增活跃用户数：86,614 相比昨日增减幅：-38.95%
+
+Polygon 存量活跃用户数：327,827 相比昨日增减幅：-3.30%
+
+核心数据：Polygon 昨日新增活跃用户数 86,614，相比昨日 -38.95%
+
+热门赛道情况
+
+![](https://img.foresightnews.pro/202303/10214-1679473420023.png?x-oss-process=style/scale70)
+
+热门项目情况
+
+![](https://img.foresightnews.pro/202303/10214-1679473427244.png?x-oss-process=style/scale70)
+
+重点项目：
+
+SUIBG（Token）：SUI Futures Token。BitKeep 与 Bitget 联合推出一项名为 SUIBG (SUI Futures Token) 的期货空投，可作为未来 Sui Network 主网上线后，其原生代币 SUI 的兑换凭证。用户可以在 BitKeep 钱包参与红包空投、交易奖励等活动，或在 Bitget 交易平台参加 SUIBG 嘉年华活动领取 SUIBG；目前 DEX 上有相关交易池，但是流动性较差深度较低，建议从 Bitget 和 Bitkeep 官方渠道申领； （目前 SUIBG 已在链上有 13,470 holders，链上转账次数达 34.5 万次）
+
+Credit Dao Proof V2（NFT）：（https://opensea.io/collection/credit-dao-proof-v2）改 NFT 是 Credit DAO 发布的最新凭证，目前已经上线 Opensea，无成交额，持有地址达 118,226 个，目前更多是收藏意义，未来会赋能持有用户，可以保持观察；
+
+核心数据：Polygon 存量活跃用户 327,827，相比昨日 -3.30%
+
+热门赛道情况
+
+![](https://img.foresightnews.pro/202303/10214-1679473435658.png?x-oss-process=style/scale70)
+
+热门项目情况
+
+![](https://img.foresightnews.pro/202303/10214-1679473442612.png?x-oss-process=style/scale70)
+
+重点项目：
+
+Galxe（Dapp）：链上任务平台，DID 头部应用。随着 Space ID 发币将币圈用户的部分视野转移到 DID 赛道上，加上 Arbitrum 发币致使用户对多种项目的空投预期（很多项目方会将“用户参与 Galxe 举办的活动、持有活动 OAT”作为空投依据之一），使得 Galxe 日活持续上升，3 月 22 日，项目方宣布上线 Avalanche，未来多链部署将会持续提高 Galxe 的项目储备库，成为链接用户和项目的关键桥梁；
+
+Pix nft assets（NFT）：（https://opensea.io/collection/planet-ix）Planet IX 相关 NFT 资产，Planet 是 Polygon 上的热度最高的游戏之一，常年盘踞在 polygon 生态榜单盘踞榜首，用户活跃度非常高；
+
+### **3.2 热门币对**
+
+![](https://img.foresightnews.pro/202303/10214-1679473450142.png?x-oss-process=style/scale70)
+
+TXAU（Token）：（https://www.dextools.io/app/en/polygon/pair-explorer/0x6488adfdbb85ce0302faa6ac72c8693eba81df83）定位是一个 Web3 贵金属市场，谷歌上线 app 下载量超 1 万次，代币链上流动性 4.3 万美金，24 小时成交额 2.4 万美金，合约检测显示有代理合约，保持观察；
+
+RUNY（Token）：（https://www.dextools.io/app/en/polygon/pair-explorer/0xfc704de88db4858419d5d0af080486a95343ba15）搭建在 Polygon 上的元宇宙游戏，链上流动性 9 万美金，24 小时交易额 11 万美金，推特关注度 2412，目前热度还不高，已有产品，近期价格走势高度控盘，合约检测可以增发，建议保持观察；
+
+**4.公链画像 - Arbitrum 公链**
+------------------------
+
+### **4.1 用户画像**
+
+Arbitrum 活跃用户总数：268,512
+
+Arbitrum 新增活跃用户数：121,644 相比昨日增减幅：+133.16%
+
+Arbitrum 存量活跃用户数：146,868 相比昨日增减幅：+6.48%
+
+核心数据：Arbitrum 昨日新增活跃用户数 121,644，相比昨日 +133.16%
+
+热门赛道情况
+
+![](https://img.foresightnews.pro/202303/10214-1679473458325.png?x-oss-process=style/scale70)
+
+热门项目情况
+
+![](https://img.foresightnews.pro/202303/10214-1679473465485.png?x-oss-process=style/scale70)
+
+重点项目：
+
+VELA（Token）： Vela Exchange 是 Dexpools($DXP) 品牌重构后的产品，Dexpools 原来是做 Token 与 NFT 点对点 OTC 交易的平台，现在 Vela Exchange 要打造一个类似 GMX 的交易平台，目前链上的 TVL 有 $49M；
+
+Sushi（Dapp）：3 月 21 日，Sushi DAO 以及其首席执行官 Jared Grey 收到美国 SEC 传票，Jared 提议建立 300 万美元的法律辩护基金，Sushi 当前的发展不容乐观，外部有传统 Uniswap、Curve 等 dex 牢牢把握市场份额，新兴的 Ve+3,3 模式的 dex 也在逐渐成长起来形成规模，可以持续关注后续 Sushi 的发展；
+
+核心数据：Arbitrum 存量活跃用户 146,868，相比昨日 +6.48%
+
+热门赛道情况
+
+![](https://img.foresightnews.pro/202303/10214-1679473472809.png?x-oss-process=style/scale70)
+
+热门项目情况
+
+![](https://img.foresightnews.pro/202303/10214-1679473479134.png?x-oss-process=style/scale70)
+
+重点项目：
+
+Lighter Router（Dapp）：A16Z、Light speed 投资的 Defi 路由器，特点是路由价格更合适、更快、更便宜；作为去中心化订单簿交易所，刚刚上线有较大的潜力；
+
+Layerzero（Dapp）：LayerZero 是一个全链的互操作协议，允许部署在不同链上的应用程序相互交流，且不需要任何中间链或共识机制。 作为重要的信息传递基础，LayerZero 开启了跨链组合性和功能的全新维度，近期受 Arbitrum 发币影响， 大量用户开始使用 Layerzero 进行跨链等操作，提高了项目的活跃度；
+
+### **4.2 热门币对**
+
+![](https://img.foresightnews.pro/202303/10214-1679473485714.png?x-oss-process=style/scale70)
+
+MAGIC（Token）：（https://www.bitget.com/en/spot/MAGICUSDT\_SPBL?type=spot）Magic 宣布推出新游戏 Zeeverse，同时叠加游戏开发者大会的时间驱动，代币底部反弹了 80%，近 24 小时交易额达 3 亿美金，游戏类项目从 1 月份反弹以来主要围绕炒作的核心标的是 GALA 和 MAGIC，随着产品成熟度变高，游戏赛道存在一定的认知差和成长空间；
+
+GDX（Token）：Arbitrum 生态的订单簿现货交易所，通过空投引起了更多用户关注，币价持续上涨；近期宣布 airdrop 3 开始，maker 单交易 arb 获得 GDX 空投奖励。$GDX 目前已经上线 Bitget 交易，欢迎到 Bitget 交易；
+
+RAM（Token）：Ramses Exchange，Arbitrum 生态的 ve(3,3) DEX，TVL 上涨迅速达到 $68M；
+
+**5.DAPP 生态 - 所有公链**
+--------------------
+
+![](https://img.foresightnews.pro/202303/10214-1679473495409.png?x-oss-process=style/scale70)
+
+Alien Worlds（Dapp）：Alien Worlds 是由 Dacoco GmbH 公司基于 WAX 公链开发的一款太空探索游戏。Alien Worlds 可以为玩家提供土地所有权、部署工具、士兵和武器，并定制专属游戏角色，是一款目前已支持以太坊、WAX 和 BSC 的多链 NFT DeFi 元宇宙游戏，3 月 22 日宣布也会参与 2023 年的游戏开发者大会（2023GDC），项目运营的非常积极；
+
+Bitkeep swap（Dapp）：Bitkeep 在推出 ARBK、SUIBG 等多个蓝筹币的期货代币后，使用率提高明显，目前已经进入全链 Dapp 的前十，未来也会持续推出大蓝筹的期货代币，满足更多用户的交易需求，带给用户更多奖励；
+
+**6.DAPP 生态 - ETH 公链**
+----------------------
+
+![](https://img.foresightnews.pro/202303/10214-1679473504475.png?x-oss-process=style/scale70)
+
+Metamask swap（Dapp):Metamask swap 近一周每日交易量在 1500 万美元左右，未出现特别趋势；主要表现在 3 月 11 日，受 USDC Fud 影响交易量创下 1.74 亿美金的历史新高，并赚取 150 万美金的费用；
+
+Element Market（Dapp)：Element NFT 交易平台的 Genisis Pass（https://element.market/collections/element-pass-genesis）正式上线，24 小时交易量达 240ETH，总量 2500 个，持有者 1322 个；随着平台用户和社区的增长，Genisis Pass 的持有者将从中受益；
+
+Galxe（Dapp)：galxe 宣布与 Avalanche 的开发商 Ava Labs 达成合作，在 AVAX 上推出专有的链上成就令牌 (OAT) ，使 Avalanche dApps 能够通过基于奖励的忠诚度连接 Web3 用户，用户可以无需 Gas 铸造；
+
+**7.DAPP 生态 - BSC 公链**
+----------------------
+
+![](https://img.foresightnews.pro/202303/10214-1679473513026.png?x-oss-process=style/scale70)
+
+Unltiverse（Dapp):由 Binance 和红衫投资的 3A 级元宇宙项目，成功集齐 8 个 CyberPink 和 WhiteDay 徽章的前 2500 个用户将有资格活鹅限量版皮肤，活动在凌晨结束；
+
+Tiny world（Dapp)：Tiny world 是 BSC 上一款结合 NFT、Defi 的 P2E 游戏，玩家可收集英雄 NFT 进行 PVP 战斗获得奖励；PVP Arena 公测版本在 3 月中已推出，目前正进行 53 季排行榜比赛；
+
+**8.DAPP 生态 - Polygon 公链**
+--------------------------
+
+![](https://img.foresightnews.pro/202303/10214-1679473523806.png?x-oss-process=style/scale70)
+
+Bomb Crypto 2（Dapp): Play-To-Earn Game，玩家在其中管理一群机器人炸弹英雄，这些英雄在游戏中搜索 BOMB 并与怪物战斗，并有战斗排名；目前在 Polygon 的游戏 Dapp 上的日活排名第 8，活跃度较好；
+
+**9.DAPP 生态 - WAX 公链**
+----------------------
+
+![](https://img.foresightnews.pro/202303/10214-1679473531366.png?x-oss-process=style/scale70)
+
+Alien worlds（Dapp)：Alien Worlds 是由 Dacoco GmbH 公司基于 WAX 公链开发的一款太空探索游戏。上文已描述，3 月 22 日宣布也会参与 2023 年的游戏开发者大会（2023GDC），项目运营的非常积极；
+
+MiningNetwork(Dapp)：Wax 上的挖矿游戏，界面是 Windows 98 系统风格，可 Free to Play 及 Play to Earn，特点是使用的经济模型为游戏资源随参与的用户数增多，生态的代币产出减少，使资产增值；
+
+**10.DAPP 生态 - Solana 公链**
+--------------------------
+
+![](https://img.foresightnews.pro/202303/10214-1679473539079.png?x-oss-process=style/scale70)
+
+Solana 上项目的 UAW 仍由 Magic Eden 引领，前五基本保持不变，前五以外项目处于用户非常少的困境；
+
+**11.DAPP 生态 - Arbitrum 公链**
+----------------------------
+
+![](https://img.foresightnews.pro/202303/10214-1679473548810.png?x-oss-process=style/scale70)
+
+Bitkeep Swap（Dapp)：Bitkeep 在推出 ARBK、SUIBG 等多个蓝筹币的期货代币后，使用率提高明显，目前已经进入全链 Dapp 的前十，在 Arbitrum 生态上近期长期占据前列，用户活跃度非常高，提供各类最新的 Dapp 支持以便用户及时把握机会；
+
+Uniswap（Dapp)：由于 Arbitrum 宣布空投后，Arbi 的交易量也持续增长，已达到 ETH 主链的三分之一，位居所有公链第二，链上各个 Dex 产品的交易活跃度增长明显，Uniswap 在今日也出现近 20% 的 UAW 增长；
+
+Onyx Dao（Token）：实验性的 Arbitrum Defi 协议（https://www.dextools.io/app/en/arbitrum/pair-explorer/0xb8fcc49ecc9206dabb48b28ecbcfd31d5c6346d1），目前链上流动性 $86 万，24 小时交易量 $477 万，总市值 $180 万,代币推出后二级市场目前价格已上涨近 5 倍，热度非常高；ONYX 可以在矿池中质押赚取蓝筹代币；
+
+**12.DAPP 生态 - 全公链 GameFi 板块**
+------------------------------
+
+![](https://img.foresightnews.pro/202303/10214-1679473558316.png?x-oss-process=style/scale70)
+
+Alien Worlds、Ultiverse、Tiny World 的 UAW 增长幅度明显，在上文已作描述；
+
+**13.Gas 费消耗情况 - ETH 公链**
+-------------------------
+
+![](https://img.foresightnews.pro/202303/10214-1679473585502.png?x-oss-process=style/scale70)
+
+zkSync（Dapp）- ARB 空投引起链上用户对其它 Layer2 知名项目的交互热潮，zkSync 首当其中。比较鲜明的例子是，基于 zkSync Lite 的订单薄 DEX ZigZag 昨日发推称 24 小时内处理了近 10 万笔交易；
+
+**14.Gas 费消耗情况 - BSC 公链**
+-------------------------
+
+![](https://img.foresightnews.pro/202303/10214-1679473594195.png?x-oss-process=style/scale70)
+
+Space ID（Dapp）- 将在 Binance Launchpad 上线 Token $ID，SPACE ID 发布空投细则：超 29 万个地址有资格领取，3 月 22 日开放申领；
+
+**15.Gas 费消耗情况 - Polygon 公链**
+-----------------------------
+
+![](https://img.foresightnews.pro/202303/10214-1679473607526.png?x-oss-process=style/scale70)
+
+Worldcoin(Dapp) - OpenAI 首席执行官 Sam Altman 创立的加密货币公司 Worldcoin 计划在今年上半年启动主网，Worldcoin 计划向全球每个人发行一种全球化的数字货币，并通过其开发的一种球形装置扫描虹膜来构建一个独特的个人识别码，使得每个人获得的数字货币具有独特性，该代币计划于今年上半年推出。据其网站称，该项目迄今为止已有近 120 万注册用户；
+
+**16.Gas 费消耗情况 - Arbitrum 公链**
+------------------------------
+
+![](https://img.foresightnews.pro/202303/10214-1679473622947.png?x-oss-process=style/scale70)
+
+D5 Exchange（Dapp） - GDX（Gridex）背后的 DEX Aggregator，Arbitrum 生态的订单簿现货交易所，通过空投引起了更多用户关注，币价持续上涨；近期宣布 airdrop 3 开始，maker 单交易 arb 获得 GDX 空投奖励。$GDX 目前已经上线 Bitget 交易，欢迎到 Bitget 交易；
+
+ARBK（Token）- Arbitrum Futures BitKeep，ARBK 是 BitKeep 推出的作为 Arbitrum 官方 Token 兑换凭证。持有 ARBK 并完成相应任务，可获得未来 100% 兑换 Arbitrum 官方 Token 的资格，提前兑换用户对 Arbitrum 生态的预期。昨日 ARB 正式发币，ARBK 兑现预期增强，获得了流量加持；
+
+**17.Twitter trends token top 20**
+----------------------------------
+
+![](https://img.foresightnews.pro/202303/10214-1679473631401.png?x-oss-process=style/scale70)
+
+从 Twitter 趋势代币热度角度看：
+
+热度上升较高的代币：EGLD、EVMOS、BNB、FIL；
+
+新上榜代币：MAGIC、GMX （受 Arbitrum 生态热度影响，其生态中 Tier1 的项目开始被反复提及和炒作）；
+
+EVMOS（Token）：Cosmos 生态的 EVM 网络，它将通过 IBC 与以太坊主网、EVM 兼容环境和其他 BFT 链互操作，使用户和开发人员可以轻松地在链之间进行无缝交互，最近新建立了面向开发者的 YouTube 频道；
+
+**18.Twitter KOL 提及代币次数**
+-------------------------
+
+![](https://img.foresightnews.pro/202303/10214-1679473638402.png?x-oss-process=style/scale70)
+
+Super Kol 提及较热代币：BTC、ARB、USDC、gDAI；
+
+Builder 提及的代币：DBX、DQUICK、USDC；
+
+DBX（Token）公链网络，推特有 3 万人关注，日交易量 1,616,162 美元，价格据最高点下跌 99.8%，绝大多数交易量集中在小所 probit，链上没有池子，建议观察；
+
+**19.Twitter VC 机构提及代币次数**
+--------------------------
+
+![](https://img.foresightnews.pro/202303/10214-1679473646725.png?x-oss-process=style/scale70)
+
+从 VC 机构在 TW 上提及的次数看：USDC、BTC、SIDUS、NOM、THOR、ALGO、ARB、APE；
+
+**20.Google 热搜词云 - 全区域**
+------------------------
+
+![](https://img.foresightnews.pro/202303/10214-1679473661531.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/10214-1679473667825.png?x-oss-process=style/scale70)
+
+XRP（Token）- XRP 24h 内上涨 +20% 以上。 尽管面临来自美国监管机构对 XRP 可能被归类为证券的外部压力，XRPL 旨在为个人和现有金融实体提供数字支付基础设施。自 2 月以来，XRPL 的采用率显着增加，随着越来越多的机构和个人将 XRPL 用于跨货币交易和其他用例，这种更广泛的采用可能会推高对 XRP 代币的需求。
+
+JOE（Token）- Trade Joe 的全链代币 JOE，受益于 Arbitrum 生态的火热，在 Uniswap V3 即将部署至 Avalanche 上与其竞争的情况下，币价强势，过去 7 日币价翻倍；
+
+**21.Google 搜索热词飙升 - 东亚、南亚、东南亚、港澳台**
+------------------------------------
+
+![](https://img.foresightnews.pro/202303/10214-1679473681808.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/10214-1679473686646.png?x-oss-process=style/scale70)
+
+「印度」热搜 token：XRP、WAVE；
+
+「巴基斯坦 」热搜 Token：XRP；
+
+「菲律宾」热搜 Token：XRP, ADA, BLUR;
+
+「印度尼西亚」热搜 Token：WAVES;
+
+「越南」热搜 Token：BTC、GPT;
+
+**22.Google 搜索热词飙升 - 英文区、欧洲、CIS 区**
+-----------------------------------
+
+![](https://img.foresightnews.pro/202303/10214-1679473710090.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/10214-1679473716356.png?x-oss-process=style/scale70)
+
+「美国」热搜 token：SOLO, XRP;
+
+「加拿大」热搜 Token：ADA, FLOKI;
+
+「澳大利亚」热搜 Token：OP, STX, JOE, GMX, XRP;
+
+「英国」热搜 Token：WTK, XRP, GALA;
+
+「西班牙」热搜 Token：T23, XRP,JOE,HEX,EGLD
+
+「意大利」热搜 Token：FLOKI, XRP;
+
+「法国」热搜 Token： HOOK, DAI, QTUM, MAGIC;
+
+「德国」热搜 Token：XRP;
+
+「波兰」热搜 Token：XRP, HEX, SHIB,TRX;
+
+**23.Google 搜索热词飙升 - 中东、拉丁美洲、非洲**
+---------------------------------
+
+![](https://img.foresightnews.pro/202303/10214-1679473750861.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/10214-1679473736703.png?x-oss-process=style/scale70)
+
+「尼日利亚」热搜词：paxful，Kraken；
+
+「南非」热搜词：truth gpt crypto，VALR；
+
+「巴西」 热搜 Token：XRP, ADA, SDAO, JOE, Elrond;
+
+「墨西哥」热搜 Token：SHIB, GRT；
+
+「阿根廷」热搜 token：SHIB, CAKE;
+

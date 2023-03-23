@@ -1,0 +1,54 @@
+据 TechCrunch 报道，由 AI 驱动、专注于开发者的数字身份生态 Aspecta 官宣 350 万美元种子轮融资，同时公布其旗舰产品 Aspecta ID 的全球公开测试计划。
+
+ 
+
+Aspecta 的种子轮融资由 A、B 两个阶段构成。A 阶段于 2022 年 4 月完成，由真格基金、奇绩创坛（原 YC China）、UpHonest Capital、耶鲁校友基金等机构参与，B 阶段于 2022 年 11 月完成，由 HashKey Capital、Foresight Ventures、SNZ Holding、Infinity Ventures Crypto 等机构参与，共募资 350 万美元。
+
+ 
+
+此外，Aspecta 获得了来自 Galxe、CyberConnect、Mask Network、P12 等项目方与生态的战略投资与捐赠支持。
+
+![](https://img.foresightnews.pro/202303/8-1679496017663.png?x-oss-process=style/scale70)
+
+### **关于 Aspecta**
+
+ 
+
+Aspecta 是横跨 Web2 与 Web3 的数字身份生态，其核心产品 Aspecta ID，基于云端与链上数据，应用 AI 打造了用户可控，具有价值深度的数字身份。Aspecta ID 专注于开发者，以展示，记录和探索三大核心功能，结合协议和系统驱动数字身份生态，打造数据所有权、互通性与智能应用的新范式。
+
+Aspecta 创始团队来自耶鲁、清华、伯克利、麦吉尔等顶尖大学，拥有强大的的技术基因，获得了 7 项大型语言模型与图学习算法等 AI 方向的专利及论文。加拿大工程院院士、Tinder 前首席科学家，Steve Liu 为创始团队成员，并担任首席科学家。
+
+ 
+
+### Aspecta ID 全球公开测试 （Aspecta ID Beta Launch）
+
+ 
+
+Aspecta ID 拥有超过 13 万的预注册用户，截止 2023 年 3 月，通过对其中部分用户的激活，已完成了辐射超过 200 位全球开发者的非公开测试（Alpha Launch）。现在 Aspecta ID 已经开启公开测试（Beta Launch），预计将辐射超过 10,000 位全球开发者。Aspecta ID Beta Launch 由三部分组成 1. 全链路生态接入 2. 早期支持者回馈 3. Aspecta ID 大使项目
+
+ 
+
+### 全链路生态接入
+
+Aspecta ID 作为数字基建为开发者打造全链路闭环生态，接入并赋能黑客松、Hacker House、孵化器、开发者社区、开发者课程、区块链生态等，进而开创社交、招聘、声誉系统、精准投放等应用的新范式。 
+
+Aspecta ID 合作的黑客松包括：ETH Beijing，斯坦福大学官方黑客松，OKX & Google 全球黑客松，麻省理工 Bitcoin 黑客松，耶鲁大学官方黑客松等；合作的 Hacker House/ 孵化器 / 开发者社区包括 Antalpha Labs，ForesightX，ScalingX，EduDAO，Buidler DAO，ETH San Diego 等，合作的开发者课程系统包括 WTF Academy，Moonshot Commons，Blockchain Academy 等，针对不同区块链，多样化的生态和不同类别的开发者的课程体系实现 Aspecta ID 的驱动，同时 Aspecta 也在与多条公链生态深度合作，推进生态开发者声誉系统，成就榜单等项目的开发，帮助导流更多的开发者进入生态开发和成长。
+
+ 
+
+开发者通过参与上述 Aspecta ID 支持的生态活动，将能够直接加入 Aspecta ID 公开测试。
+
+### 早期支持者回馈
+
+Aspecta 将会从早期支持者（预注册用户，Aspecta Early Supporter OAT 持有者，Aspecta Evangelist OAT 持有者，Discord 成员）中抽取用户给予 activation code 来激活 Aspecta ID 进而加入 Aspecta ID 公开测试。
+
+ 
+
+### Aspecta ID 大使项目
+
+Aspecta 已经非公开招募了十余位全球范围内的明星开发者和开发者社区领袖，他们的背景包括 Ethereum Foundation，A16Z，Starkware，Celestia，Developer DAO，及多位 Web3 创业公司 CTO 作为 Aspecta ID 大使。Aspecta ID 大使将定向招募更多有代表性的开发者来共建 Aspecta ID 生态，Aspecta ID 大使将在 Aspecta ID 全球公开测试中期开放公开招募。
+
+![](https://img.foresightnews.pro/202303/5-1679453528708.png?x-oss-process=style/scale70)
+
+欢迎关注 [Aspecta 推特](https://twitter.com/aspecta_id)与 [Medium](https://news.aspecta.id/)，获取 Aspecta ID Beta Program 的更多信息与进展。
+

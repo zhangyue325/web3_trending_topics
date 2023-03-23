@@ -1,0 +1,112 @@
+### Starknet Alpha v0.11.0 已上线测试网，敬请期待主网！
+
+概要
+--
+
+* Starknet alpha v0.11.0 已部署至测试网
+* 现在可以在 Starknet 测试网上部署 Cairo 1.0 合约并交互
+* Starknet 计算成本降低五倍！
+* 主网升级到 Starknet alpha v0.11.0 将通过首次治理投票决定
+* 标志着状态重置前过渡期开启
+* 在测试网上运行几周后，确保新系统顺利运行，才会在主网上启用部署 Cairo 1.0 合约
+引言
+--
+
+我们激动宣布备受关注的 Starknet alpha v0.11.0 版本正式上线测试网！该版本的发布使 Starknet 向前迈进一大步，在 Starknet v0.11.0 版本中支持声明、部署、运行 Cairo 1.0 智能合约。同时我们还引入一个全新的系统调用，允许将现有合约顺滑迁移至 Cairo 1.0 实现。
+
+Cairo 1.0 从两个不同方面改善了 Starknet。首先它提供了更加丰富的编程语言，为 Cairo 引入类型、范例、特性、错误处理（等新功能），进一步提高开发体验。其次，Cairo 1.0 在 Starknet 去中心化道路上发挥出关键作用：Cairo 1.0 合约在 Starknet alpha v0.11.0 版本中发送至 Sierra 编译。Sierra 确保每个合约执行都可证明，是实现 Starknet 去中心化的关键特性。
+
+v0.11.0 版本另一个重要改进就是计算成本降低五倍。能够加快 Starknet 实现对计算密集型应用程序友好。下文将详细阐述。
+
+为重置计划做好准备
+---------
+
+Starknet alpha v0.11.0 版本标志迁移过渡期正式开始，为 Starknet 主网重置计划做好准备。StarkWare 在几个月前[公布了](https://medium.com/starkware/starknet-regenesis-the-plan-bd0219843ef4) Starknet 主网重置计划，重点将 Cairo 0 系统过渡到 Cairo 1.0 系统。
+
+在此过渡期间，需要确保将现有 Cairo 0 版本合约（合约可升级型）的地址和存储数据无缝迁移至 Cairo 1.0 版本（详情查看下一章节）。
+
+作为 Starknet 用户的你只需要在全新的 Cairo 1.0 版本帐户发布后，完成钱包升级（同样支持在状态重置前完成升级）。在此期间不会出现停机情况，系统中所有应用程序都将继续正常运行。
+
+在重置计划完成后，Starknet 将暂停运行系统中所有的 Cairo 0 合约。我们会提前发布通知，以便开发者们有足够时间完成合约迁移。预计过渡期将持续几个月的时间，同时应用程序开发者可以将部署合约迁移至 Cairo 1.0。当过渡期结束后将迎来主网重置。
+
+顺滑迁移至 Cairo 1.0
+---------------
+
+随着向 Cairo 1.0 过渡，将弃用现有的 Cairo 0 合约，且在状态重置时不再支持旧版本 Cairo 合约。为了让可升级的 Cairo 0 合约在重置后继续运行，且保持状态至重置完成，StarkWare 团队添加了一个新的系统调用，即 `[replace_class]`。可升级合约升级到 Cairo 1.0 实现没有问题，但是底层代理合约（保留实际状态的合约）仍将停留在 Cairo 0 实现上。`replace_class`系统调用解决了这个问题，允许代理合约替换其底层类，即保持相同的地址和存储，但替换实现。
+
+计算成本降低五倍！
+---------
+
+现在的 Starknet 交易费用由两个主要组成部分组成：计算和链上数据。Starknet 交易费用的计算部分由在 L1 上验证其证明的边际成本决定（有关详细信息，请参见[文档](https://docs.starknet.io/documentation/architecture_and_concepts/Fees/fee-mechanism/)）。
+
+最初，在证明中使用 2 亿个 Cairo 步骤，进行验证需要 500 万 gas，因此团队粗略估计每个 Cairo 步骤所需 0.05 gas。自那时起，团队就转向[递归证明](https://mirror.xyz/starknet-zh.eth/6rwRfn13xaGo6FU1PtXGsy5ui2K8TPorZOAWNUpMnhA)，这可以大大降低 L1 验证成本（仅递归树的根到达 L1）。现在也是时候更新成本估算了，利用递归证明，每个 Cairo 步骤在 L2 上的成本将降低 5 倍，现在仅需花费 0.01 gas。
+
+对于计算密集型应用程序，例如带有非本地签名的帐户合约，这种成本降低非常显著。简单交易的成本会略有降低（约 5%）。在未来的版本中，StarkWare 团队将处理第二个部分：链上数据成本。一旦链上数据的替代方案引入到 Starknet（也就是 Volition），成本全面降低。
+
+Starknet 治理的首次投票
+----------------
+
+Starknet 治理的第一阶段已启动（详情见这篇[博客](https://medium.com/starknet-foundation/starknets-governance-first-phase-4614c7566f40)）。社区成员现在可以通过对协议变更进行投票，以参与塑造 Starknet。
+
+Starknet 治理第一阶段将专注于 Starknet 协议升级。每一次 Starkent 版本升级都会首先部署在测试网上，投票者将有六天时间来检查和测试 Goerli 上运行的升级版本，期间开启快照投票，社区可以投票决定是否批准新版本部署主网。
+
+如果提案在六天天的投票期内获得多数「赞成」票，则提案通过，Starknet 主网将相应升级。
+
+Starknet alpha v0.11.0 是第一个等待投票的版本。从测试网部署开始，投票将开放六天。
+
+相关链接：
+
+* [Snapshot 页面](https://snapshot.org/#/starknet.eth/proposal/0x00889bc468509610e516e8602f00b21ca8c32466dd4f0140eca38becb7f40bef)
+* [委托代表](https://delegate.starknet.io/)
+* [社区论坛](https://community.starknet.io/t/proposal-starknet-alpha-v0-11-0/50334)上关于 Starknet alpha v0.11.0 的讨论帖
+Cairo 1.0 和 Sierra
+------------------
+
+Sierra 即安全中间代表式 (**S**afe **I**nt**e**rmediate **R**ep**r**esent**a**tion)，是可以编译为 Cairo 程序集 (CASM) 的中间代表式。Starknet alpha v0.11.0 版本之前，开发者需要将 Cairo 0 编译为 CASM，再将结果送至 Starknet 排序器。有了 Cairo 1.0 开发者可以将代码编译为 Sierra，然后将中间表达式发送给排序器。排序器再编译为 CASM。Sierra 保证安全编译 CASM 安全。例如，CASM 自己不会失败，每次执行都可证明。这就保证即便撤销交易排序器也可以收取费用，籍此防范 DOS 攻击。详情[请参阅文档](https://docs.starknet.io/documentation/architecture_and_concepts/Contracts/cairo-1-and-sierra/)。
+
+![](https://img.foresightnews.pro/202303/9d5d9b46b063f30e0399093e065a1c04.png?x-oss-process=style/scale70)
+
+Starknet alpha 0.11.0 开始使用 [Cairo 1.0-alpha.6 版本](https://github.com/starkware-libs/cairo/releases/tag/v1.0.0-alpha.6)。此版本接近 Cairo 0 全功能匹配，全部 Starknet 系统调用都可以使用。
+
+请注意 Starknet 排序器使用特定编译器版本，语言升级 Starknet 不会立即支持，只有 Starknet 版本升级后才会支持 Cairo 升级。具体来说就是，Cairo 1.0 → Sierra 编译器升级可立即使用，Sierra → CASM 编译器要等 Starknet 升级后才会更新。
+
+其他新功能
+-----
+
+### 新交易类型 — Declare v2
+
+新增交易类型，声明 Cairo 1.0 类型。这种新 `declare` 交易与现有 `declare` 类似，但有两点差异：
+
+* 发送的类型目标现代表 Sierra 而非 CASM，也就是类型语义由 Sierra 表达式定义。
+* 用户也要签名编译后的 class hash。这是 Starknet 操作系统证明 Sierra→CASM 编译的重要步骤。
+详情请[参阅文档](https://docs.starknet.io/documentation/starknet_versions/upcoming_versions/#what_to_expect)。
+
+对开发者来说，开发体验未变。写好 Cairo 1.0 代码后，就可以使用 CLI 命令行工具声明类型。
+
+### 波塞冬来了
+
+[波塞冬](https://www.poseidon-hash.info/)是为实现高效代数电路的新型哈希函数。因此在 STARK 和 SNARK 这类证明系统中非常有用。从 Starknet alpha v0.11.0 开始，开发者可以使用。另外，Starknet 部分哈希计算会转向波塞冬（特别是类型哈希、编译后类型哈希和部分状态密诺会使用波塞冬，详情请[参阅文档](https://docs.starknet.io/documentation/starknet_versions/upcoming_versions/#poseidon_hash)）。未来内部组件也会转向使用波塞冬哈希函数。
+
+Starknet 中使用的具体版本和参数[请看这里](https://docs.starknet.io/documentation/architecture_and_concepts/Hashing/hash-functions/#poseidon_hash)。
+
+### 其他更新
+
+* 不再支持 v0 发起 / 声明交易
+* L1→L2 消息现在需要[支付费用](https://docs.starknet.io/documentation/architecture_and_concepts/L1-L2_Communication/messaging-mechanism/#l1-l2_message_fees)。也就是说， Starknet 排序器不会再处理以零费用发送的消息
+* 链上数据格式[已更改](https://docs.starknet.io/documentation/architecture_and_concepts/Data_Availability/on-chain-data/#on_chain_data_post_v0_11_0)
+* [API 更改](https://docs.starknet.io/documentation/starknet_versions/upcoming_versions/#api_changes)（这里未列出所有更改，请参阅文档以获取详尽的列表）
+* 添加了一个新的 `get_compiled_class_by_class_hash` 端点
+* `get_class_by_hash` 返回 Cairo 0 / Cairo 1.0 类型（取决于请求的哈希）
+* `get_state_update` 有一个新的部分用于替换类，且区分 Cairo 0 和 Cairo 1 的类型声明。
+* `estimate_fee` 和 `simulate_tx` 现在可以跳过验证
+* [新版本](https://github.com/starkware-libs/starknet-specs/releases/tag/v0.3.0-rc1) Starknet JSON-RPC
+后续期待
+----
+
+现在所有与 Cairo 1.0 相关的基础设施已经就绪，您还可以期待：
+
+* Cairo 1.0 语言进一步改进
+* 性能改进：正如[我们承诺的](https://mirror.xyz/starknet-zh.eth/SIB8tYMW0LozQL4lh4G-LF_EgVDa8blvxdX335YJuCA)，我们会不断显著提高 TPS。路线图的下一步是过渡到 [Rust 排序器](https://github.com/starkware-libs/blockifier)。排序器是用 Apache 2.0 许可开发的开源软件。新排序器将利用[Rust CairoVM](https://github.com/lambdaclass/cairo-rs) 和 [Papyrus](https://github.com/starkware-libs/papyrus) 全节点，组成「性能三件套」。
+* 链下[数据可用](https://docs.starknet.io/documentation/architecture_and_concepts/Data_Availability/on-chain-data/)！这个版本中，我们处理了交易成本中的计算组件。在即将推出的版本中，我们将处理链上数据成本，这是目前普通交易的主要成本。
+![](https://img.foresightnews.pro/202303/a618debbed030ce8713715e8c6432b38.jpg?x-oss-process=style/scale70)
+

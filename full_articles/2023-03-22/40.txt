@@ -1,0 +1,27 @@
+![](https://img.foresightnews.pro/202303/8fc8fd33f357d7647f1e2425bdcdb50e.jpeg?x-oss-process=style/scale70)
+
+  
+*编辑 | 黑米*根据一篇最新的论坛帖子，DeFi 项目 SushiSwap 及主要负责人 Jared Grey 已被美国证券交易委员会（SEC）传唤。
+
+该帖子建议建立一个 300 万美元的法律基金来支付法律费用，来减少贡献者和 DAO 的责任，并保护核心贡献者。
+
+该基金将由 Tether 的 USDT 稳定币资助，并通过 DAO 提案引入。资金来源：
+
+1. Kanpai 费用：50%
+2. Grants：35%
+3. $SUSHI：15%
+Grey 引用了一份早期民意调查，社区论坛中的大部分人都支持这样一个合法基金，62 名选民中有 89% 的人表示他们赞成建立该基金。但是，该投票并不是由 Sushi DAO 做出的决定。  
+![](https://img.foresightnews.pro/202303/3453a3f278f5736427fec92525ded08a.jpeg?x-oss-process=style/scale70 "2NMcvvFHZZyPY3rB0RQurH1FfS56jiEGHLes6cmp.png")论坛帖子几乎没有提供有关传票性质的其他详细信息：Sushi 和“主厨” Jared Grey 最近收到了 SEC 传票，我们正在与 SEC 合作。我们无意就正在进行的调查或其他法律事务公开发表评论。消息传出后不久，Sushi 的原生代币 ($SUSHI) 的价格从 1.22 美元跌至 1.15 美元，下降了约 6.5%。### **SEC 能监管 DeFi 吗？**
+
+从理论上讲，由于缺乏可以被监管机构针对的集中权力，所以任何 DeFi 项目都应该能够抵抗监管。因此，Sushi 社区质疑 Sushi 本身是如何被传唤的。![](https://img.foresightnews.pro/202303/4bc525acc7d0b26ff40d2ad294e08fb4.png?x-oss-process=style/scale70)有第三方网站表明该项目的总部位于纽约或日本，但尚不清楚是否存在任何办事处。据推测，该项目的 DAO 成员可能会被传唤，但至少有一名 DAO 成员否认收到传票。![](https://img.foresightnews.pro/202303/474d99b1f8fccf99ddc44ad040026f5e.png?x-oss-process=style/scale70)Sushi 并不是第一个引起 SEC 关注的去中心化加密项目。2021 年，SEC 对具有欺诈行为的 DeFi Money Market 采取了行动。并且在 2018 年，SEC 对早期的去中心化交易平台 Etherdelta 及其创始人采取了执法行动。SEC 也有可能正在研究其他的去中心化项目。今年 3 月，网传有几个 DeFi 平台在不同的时间段内分别收到了来自 SEC 的 Wells 通知。然而，Wells 通知将表明 SEC 打算采取执法行动——而 Sushi 的传票仅意味着调查。  
+**>END<****风险提示：**
+
+根据央行等部门发布的《关于进一步防范和处置虚拟货币交易炒作风险的通知》，本文内容仅用于信息分享，不对任何经营与投资行为进行推广与背书，请读者严格遵守所在地区法律法规，不参与任何非法金融行为。
+
+  
+
+
+  
+由于公众号改版，文章不再定时推文  
+如果《白泽研究院》对你有所收获，  
+点个”赞“和”在看“。

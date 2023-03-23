@@ -1,0 +1,98 @@
+![](https://img.foresightnews.pro/202303/9ecffc73e39a6aca94fbaee9317636db.gif?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/4c4210cf95e53bc6cd11a7fe18b449eb.png?x-oss-process=style/scale70)  
+
+
+原文转载自律动 BlockBeats
+
+撰文：Cookie，律动 BlockBeats
+
+![](https://img.foresightnews.pro/202303/4c4210cf95e53bc6cd11a7fe18b449eb.png?x-oss-process=style/scale70)  
+
+
+在 ETH NFT 行情趋冷的市场环境下，越来越多的玩家把目光转移到了比特币 NFT 市场。虽然比特币 NFT 市场的热度持续上升，但很多玩家依然在比特币 NFT 世界的大门外徘徊。除了基建不完善导致操作的学习门槛较高，对比特币 NFT 市场当前的项目趋势感到陌生也是问题之一。律动 BlockBeats 将在本文为您梳理目前比特币 NFT 项目的主要类别。比特币 NFT 玩家们都在玩什么？让我们一起来看看。  
+**BRC-20 Token**简单来说，目前的 BRC-20 Token 依然可以理解为「炒 NFT」，因为转账相关的基建尚未完善，大部分的场外交易是通过 OTC 直接出售具有「有效的 Mint 铭文 (NFT)」的钱包私钥来完成的。
+
+同时，绝大部分的场外交易也都是 $ordi 的交易，因为 $ordi 是第一个被成功部署的 BRC-20 Token。目前，$ordi 在场外的交易价格已经从 1000 $ordi = 10u 上涨到了 1000 $ordi = 50~60u。
+
+BRC-20 Token 交易相关的基建在近期没有特别大的进展，但是已经有了一些统计索引的网站出现，比如「brc-20.io」。通过该网站，我们可以快速检索目标地址下有多少 BRC-20 Token 余额，也可以查看所有已经被成功部署的 BRC-20 Token 的种类及其可供 Mint 的余量。
+
+  
+![](https://img.foresightnews.pro/202303/43890b2a474ed07e9e7bda1132d4b235.other?x-oss-process=style/scale70)brc-20.io  
+  
+### **.sats 域名**
+
+如果您是一名刚接触比特币 NFT 的玩家，Mint 一个属于自己的 .sats 域名作为开始是一个不错的选择。目前，.sats 域名已经有了初步的赋能。比如在 UniSat 钱包中，已经支持对 .sats 域名对应的比特币地址进行转账：![](https://img.foresightnews.pro/202303/704ee363fedcdc9e894c2163b511e60c.other?x-oss-process=style/scale70)使用 UniSat 对.sats 域名对应的地址进行转账  
+又比如，基于去中心化社交协议 Nostr 的首个社交应用「Damus」即将支持以 .sats 域名作为用户名。  
+![](https://img.foresightnews.pro/202303/08b933fe4d5da3bd050f1b5457b91650.other?x-oss-process=style/scale70)  
+和 BRC-20 Token 一样，Mint .sats 域名等于 Mint 了一个文本类型的 BTC NFT。  
+![](https://img.foresightnews.pro/202303/8467eb2865c91674b0723e56544a0afc.other?x-oss-process=style/scale70)  
+确定 .sats 域名有效性的规则很简单，也是目前为比特币 NFT 市场所广泛接受的规则——「先到先得 First is First」。尽管任何人都可以重复写入相同的文本以 Mint 出相同的文本类型 NFT，但只有第一笔成功的 Mint 被判断为真。想要 Mint 属于自己的 .sats 域名前，需要通过 Sats Names 官方的索引 API 对目标域名是否已被 Mint 进行查询。查询方法是直接访问 https://api.sats.id/names/xxx.sats（将 xxx.sats 更改为您将要 Mint 的目标域名）。  
+若目标域名未被 Mint，则将出现以下提示：![](https://img.foresightnews.pro/202303/5d5dfcd546b33dbbf4c4cc0fa78ca94b.other?x-oss-process=style/scale70)「xxxx.sats not found」  
+  
+若目标域名已被 Mint，则将出现以下提示：![](https://img.foresightnews.pro/202303/eb489cb4f74a835ad3aec525082f4bb7.other?x-oss-process=style/scale70)提示将包含目标域名的铭文 ID、持有人地址等信息  
+  
+确定无误后，我们就可以使用一些比特币 NFT Mint 工具来进行域名注册。在「在比特币网络上发 Token？一文了解如何铸造 BRC-20」中，笔者已详细介绍过 BRC-20 Token 的 Mint 流程。对于域名，只需要将 Mint 种类更改为「.sats」并参照 BRC-20 Token 的 Mint 流程即可。  
+![](https://img.foresightnews.pro/202303/555bc2a5939991964e25163b5fe40517.other?x-oss-process=style/scale70)选择 Mint 种类为「.sats」  
+若是想要购买域名，需要在购买前查询 NFT 的有效性。现在已经有UniSat等工具可以方便地进行查询，以 UniSat 为例：![](https://img.foresightnews.pro/202303/be20cb0a3bba6e4065707ff040bdc908.other?x-oss-process=style/scale70)  
+从查询结果我们可以看到，有 342 个「111.sats」被 Mint 出来。但根据「先到先得 First is First」规则，只有铭文编号为 #173458 的「111.sats」NFT 为真（UniSat 在此 NFT 上做了打勾标记），购买其他的「111.sats」NFT 都是无效的。  
+![](https://img.foresightnews.pro/202303/d945b0155c1f699c32e9b74728065b48.other?x-oss-process=style/scale70)  
+目前，已有近 60000 个有效的（独立的）域名被注册（Mint），域名所对应的 NFT 占比特币 NFT 总数量的近 15%。在 Ordinals Wallet 的市场上，.sats 域名已完成了 1800 笔交易，其中成交金额最高的域名为「gm.sats」，该域名以 0.125 BTC 的价格售出。  
+![](https://img.foresightnews.pro/202303/ae78a5def3f6cd0b5bd7253ac31c2bbb.other?x-oss-process=style/scale70)  
+比较受到玩家追捧的是纯数字域名，比如「896.sats」以 0.1 BTC 的价格成交，「04.sats」、「988.sats」与「8848.sats」均已 0.05 BTCC 的价格成交。最近几日内，5 位纯数字域名的成交较多，价格范围较多在 0.0002~0.0005 BTC 间。  
+### **普通 NFT**
+
+这里的普通 NFT 指的是大家熟悉的「小图片」，比如 PFP、Art 等等。在这个赛道下，我们可以从四个角度来挑选有潜力的 NFT 项目。  
+#### **「大牌卡位」的 NFT 项目**
+
+指 ETH 和 Solana 上的蓝筹项目来比特币网络上发行的 NFT 项目，比如 Yuga Labs 的「TwelveFold」还有 DeGods 的比特币版本。  
+这类项目已经具有很大的影响力，因此发售价格也都很高。Yuga Labs 的「TwelveFold」以竞拍的形式出售了 288 个 NFT，最高中标价为 7.1159 BTC，最低中标价为 2.2501 BTC，共获得拍卖收入约 1650 万美元。目前，在 ordinals.market 上，「TwelveFold」的地板价超过 30 ETH，累计成交额为 108.49 ETH。DeGods 则是以 0.333 BTC 的价格在 2 分钟内卖出了 500 个比特币版本 DeGods。  
+![](https://img.foresightnews.pro/202303/69b8b60bcc7263f45ab88cd52bb28756.other?x-oss-process=style/scale70)Yuga Labs 的「TwelveFold」  
+![](https://img.foresightnews.pro/202303/bc2b716ef7a88184e867753ba4084c9f.other?x-oss-process=style/scale70)DeGods 的比特币版本  
+  
+由于比特币网络上没有智能合约，这些「大牌卡位」的 NFT 项目之后会如何赋能尚不明确。一个有趣的细节是，Yuga Labs 在发售过程中很注意地使用了「Inscribe」一词，而 DeGods 用的依然是「Mint」。虽然只是一个很小的用词差异，但对于比特币 NFT 来说意义则完全不同——比特币上其实本没有 NFT，所谓 NFT 只是往不同的 Satoshi 上写入了不同的内容。既然没有新的 Token 被「铸造」，「Mint」一词也就不适用了。  
+#### **「Sub 10K」**
+
+每个铭文（比特币 NFT）都有一个铭文序号，Mint 的时间越早，序号数越小，因此序号在 10000 与 100000 以下的 NFT 就被赋予了一层「古董」的意味。尽管这些早期铭文在内容上往往没有什么主题，但炒的就是一个「时间」价值。  
+  
+目前，第 2 个与第 8 个被 Mint 出来的比特币 NFT——Inscription #2 和 Inscription #8 都被上架到了 Ordinals Wallet 的市场。![](https://img.foresightnews.pro/202303/f90381b87d366dc7fc397627b5e11359.other?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/138ab250103aacf20dee947707db2399.other?x-oss-process=style/scale70)Inscription #2 与 Inscription #8  
+目前成交价最高的「Sub 10K」比特币 NFT 是 Ordinals Punk #87（Inscription #613），成交价为 2.77 BTC。3 月 17 日，比特币 Logo 图像 Inscription #3384 以 0.31 BTC 的价格成交。影响力较大的「Sub 10K」系列有 Ordinals Punks 、Bitcoin Shrooms 以及 Planetary Ordinal，大家熟悉的 Bitcoin Punks 则是「Sub 100K」。  
+#### **「铲子」**
+
+指持有后不断获得有价值的空投的 NFT 系列。目前比较出名的「铲子」是 BTC Machine，他们已经后续空投了 BTC Operators 与 BTC Virus 两个项目。目前，BTC Machine 在 Ordinals Wallet 市场上的地板价为 0.088 BTC，BTC Operators 与 BTC Virus 的地板价则分别为 0.018 BTC、0.0012 BTC。  
+![](https://img.foresightnews.pro/202303/98afe485d98c8f404bc6a36445f20428.other?x-oss-process=style/scale70)BTC Machine  
+  
+更值得我们关注的角度是，使用各种比特币 NFT 相关工具，极有可能被空投「铲子」。Ordinals Wallet 在 2 月底就向自己的早期用户空投了 1563 个悲伤蛙主题的像素 PFP——「Pixel Pepes」，目前该系列的地板价为 0.066 BTC。作为目前成交量最大的比特币 NFT 交易市场，Pixel Pepes 的价值很大程度上正来源于「铲子」预期。由于现在的比特币 NFT 相关工具在所提供的功能上比较重叠，通过给使用者空投 NFT 来吸引流量是非常有可能的。因此，从现在开始大家要注意多交互比特币 NFT 相关工具了。（推荐阅读：「比特币 NFT 生态实用工具一览」）  
+![](https://img.foresightnews.pro/202303/c30b92f04902744dc7ba416d0c2b4d4b.other?x-oss-process=style/scale70)Pixel Pepes  
+#### **「原生 Meme」**
+
+比特币 NFT 是一个新生市场。在这个早期阶段，许多项目的创意是直接从 ETH NFT 上搬运过来的，比如 Punk、Toadz、Apes 等等。但是，如果我们对比特币 NFT 市场的长期发展抱有较高的期望，那么比特币上的蓝筹一定会从底层逻辑和玩法上与 ETH NFT 区分开来，从叙事性与艺术性上都会发展出自己独特的路线。  
+Meme 文化一直是 NFT 艺术的重要一环，比特币原生文化中就有很好的 Meme 积淀，目前最火的比特币 NFT 项目 Taproot Wizards 就是比特币原生的 Meme 文化。（推荐阅读：「一文解析比特币 memeNFT，光头巫师 Taproot Wizard 在致敬和表达什么？」）此外，比特币原生 Meme 文化的另一个重要元素就是「披萨」，目前已经有关于「披萨」的项目 Ordinal Pizza OG 出现。  
+![](https://img.foresightnews.pro/202303/00b967332054e16366887e064d100238.other?x-oss-process=style/scale70)  
+### **结语**
+
+现阶段来看，比特币 NFT 的投资逻辑与 ETH NFT 相比还没有体现出太大的差异性。由于本身对 NFT 感兴趣的玩家更多来自于 ETH，所以 ETH 上积累了一定流量的项目迁移到比特币上较容易获得成功。比特币上的 NFT 项目在冷启动阶段也大多数沿用了 ETH 上的白名单、Paid Mint（付费铸造）等机制。就像去年曾经火爆一时的 Solana NFT 市场，具有影响力的巨鲸嗅到气息以后纷纷入场「卡位」，带领自己的势力在新的注意力经济大饼中啃下一口。  
+但长期来看，如果我们相信比特币 NFT 会发展成另一个比肩甚至超越 ETH NFT 的市场，比特币 NFT 一定会且一定要从艺术内容、文化逻辑等角度发展出自己的独特性，形成比特币 NFT 圈独特的「圈子文化」。比特币原生的 Meme 文化元素、长期以来比特币公平、纯粹的价值塑造过程（比如，Free to Inscribe 是理应如此的，因为中心化的项目方并没有对比特币定价的权力。比特币的价值塑造是一个长期的去中心化凝聚的过程）加上经过积淀后的艺术创作，新的比特币 NFT 蓝筹会由此脱颖而出。  
+比特币其实没有 NFT，1 Satoshi = 1 Satoshi 是永恒的价值等式，而 Ordinals 协议赋予我们的，是自由探索比特币价值多样性的权利，市场会给出价格，判断所有比特币价值多样性探索实验的价值。在中期的寄望上，笔者希望比特币能够以最酷的艺术文化载体的角度，给中小创作者更多的机会空间。  
+
+
+![](https://img.foresightnews.pro/202303/4c4210cf95e53bc6cd11a7fe18b449eb.png?x-oss-process=style/scale70)  
+
+
+**【1435 社群福利】**4 月香港活动临近！万向区块链 +Hashkey 大会吸引了近万名全球 Web3 朋友们。香港 Web3 嘉年华时间为 4 月 12 日 -15 日，1 个主会场 +4 个分会场。  
+![](https://img.foresightnews.pro/202303/9eb2299b61f2a3aa523c023004eb3015.jpeg?x-oss-process=style/scale70)
+
+  
+**报名链接（或点击阅读原文购买）**：https://www.eventbrite.hk/e/hong-kong-web3-festival-2023-tickets-531397453087优惠码： 1435DC（区分大小写）步骤：在购票页面输入优惠码，点击 apply，即可享受社群专属优惠。  
+个人参会购票有两种方式1、USDT、USDC 付款，发送邮件至 w3@blockchainlabs.org，写明要用哪个数字货币付款，买多少张，发邮件过去后，负责收款的同事会回复的，发邮件时备注有（优惠码 1435DC）2、Visa、MasterCard、Express（美国运通卡）付款：直接在付款的时候使用优惠码（1435DC）付款就行。统一在官网购买：www.web3festival.org  
+🎈 同期还有很多周边会及晚宴酒会，参与可扫描文末二维码，添加小助手入群，及时关注群消息。🪄如果有更多的活动问题，可咨询 1435 小助手！![](https://img.foresightnews.pro/202303/4c4210cf95e53bc6cd11a7fe18b449eb.png?x-oss-process=style/scale70)
+
+  
+  
+![](https://img.foresightnews.pro/202303/bb3c2ecd20b6844afa5e1ab1aeddc858.jpeg?x-oss-process=style/scale70)
+
+声明：请读者严格遵守所在地法律法规。以上内容不构成任何投资建议。  
+
+
+---
+
+  
+内容筛选及编辑：秋老师  

@@ -1,0 +1,122 @@
+### 【1】Auros
+
+金额：1700 万美元
+
+轮数：未披露
+
+时间：3 月 21 日
+
+投资机构：Bit Digital、Trovio、Epoch Capital、Primal Capital
+
+项目类型：CeFi、量化交易
+
+项目介绍：Auros 是一家量化交易和做市商公司，专注于数字资产领域的流动性提供
+
+官网地址：<https://www.auros.global/>
+
+推特：<https://twitter.com/GlobalAuros>
+
+### 【2】Carbonable
+
+金额：120 万美元
+
+轮数：种子轮
+
+时间：3 月 21 日
+
+投资机构：Ethereal Ventures、La Poste Ventures、StarkWare
+
+项目类型：ReFi
+
+项目介绍：Carbonable 是一个 Web3 驱动的碳减排平台，为用户提供简单、直观和经济高效的碳补偿管理，为当地社区和生物多样性产生可持续影响
+
+官网地址：<https://carbonable.io/>
+
+推特：<https://twitter.com/Carbonable_io>
+
+### 【3】Gryfyn
+
+金额：750 万美元
+
+轮数：未披露
+
+时间：3 月 21 日
+
+投资机构：Liberty City Ventures、GameFi Ventures、LeadBlock Partners、Brinc、Animoca Brands Japan、Animoca Brands、Mind Fund、Lavender Hill Capital Partners、Angel Hub
+
+项目类型：CeFi、托管、钱包
+
+项目介绍：Gryfyn 是 Animoca Brands 和 Hex Trust 的合资企业，旨在提供托管加密钱包，让任何人在任何地方都可以轻松安全地访问数字体验，拥有和处理数字资产，并与他们最喜欢的品牌建立联系。世界各地的人们使用 Gryfyn 作为数字护照来参与活动、娱乐和相互交流
+
+官网地址：<https://gryfyn.io/>
+
+推特：<https://twitter.com/gryfynwallet>
+
+### 【4】OP3N
+
+金额：2800 万美元
+
+轮数：A 轮
+
+时间：3 月 21 日
+
+投资机构：Animoca Brands、Dragonfly、Superscrypt、Republic Crypto、Galaxy Digital、Connect Ventures 、华纳音乐集团、GSR、Spartan Group、Blizzard Fund、Creative Artists Agency、BRV Capital Management、Russell Westbroo
+
+项目类型：社交、NFT
+
+项目介绍：OP3N 是一款超级应用程序，它集成了 NFT 的所有方面，从创建到铸造到社区建设。OP3N 带来了 web3 中最好的娱乐——展示艺术家、元宇宙体验和 NFT 项目预览。NFT 充当应用程序内独家 NFT 门控内容和体验的所有 VIP 访问通行证
+
+其他补充：2021 年 12 月完成 1000 万美元种子轮融资
+
+官网地址：<https://op3n.world/>
+
+推特：<https://twitter.com/OP3Nworld>
+
+### 【5】Crossover Markets
+
+金额：未披露
+
+轮数：种子轮
+
+时间：3 月 21 日
+
+投资机构：Flow Traders、Gate Labs、Laser Venture Capital、Wintermute、Two Sigma Ventures、Exness Ltd.、GMO Internet Group、Pepperstone、Think Markets、TMGM
+
+项目类型：CeFi 解决方案
+
+项目介绍：Crossover Markets 是一家数字资产交易技术公司，专注于满足机构在现货和衍生加密货币市场的独特流动性要求。CROSSx 是该公司的加密货币电子通信网络 (ECN)，旨在通过将交易执行与托管和经纪脱钩来避免利益冲突，让机构能够自由选择自己的信用交易对手。作为仅执行的交易场所提供商，Crossover 不持有客户资金，不直接处理资产或承担交易对手风险
+
+官网地址：<https://crossovermarkets.com/>
+
+推特：<https://twitter.com/crossover_mkts>
+
+### 【6】CCP Games
+
+金额：4000 万美元
+
+轮数：未披露
+
+时间：3 月 21 日
+
+投资机构：a16z、Makers Fund、Kingsway Capital、Hashed、Bitkraft Ventures、Nexon
+
+项目类型：游戏开发
+
+项目介绍：CCP Games 是一家独立游戏开发商，计划利用区块链技术全面开发 EVE 宇宙中的新 AAA 游戏。通过链上开发的关键游戏系统，其新项目还将利用智能合约区块链技术，专注于持久性、可组合性和真正开放的第三方开发，以创建虚拟世界和玩家之间的新关系
+
+官网地址：<https://www.ccpgames.com/>
+
+推特：<https://twitter.com/CCPGames>
+
+### 关于 veDAO
+
+veDAO 是致力于发掘早期潜力项目的投融资社区。通过集结大众智慧和专业意见，为社区参与者、投资人、项目方提供公平、透明、民主的项目评价及投融资流程，让所有参与者共享项目发展红利。
+
+Website: <https://app.vedao.com/>
+
+Twitter: <https://twitter.com/vedao_official>
+
+Telegram：[t.me/veDAO\_zh](http://http/)
+
+Discord：<https://discord.gg/NEmEyrWfjV>
+

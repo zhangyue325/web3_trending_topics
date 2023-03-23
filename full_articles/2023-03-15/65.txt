@@ -1,5 +1,0 @@
-由 AI 领域知名专家、Stability AI 的前联合创始人 Cyrus Hobes 发布的 AIGC Chain 正式发布测试节点的相关规则。根据相关规则，测试积分将可以累加，并且在主网上线前按一定兑换比例获得主网空投。测试节点 NFT 还可以携带积分转让的创新，开创了测试节点可进行链上转让的先河。
-
-Cyrus Hobes 表示，离开 Stability AI 后将全力投入 AIGC Chain 的建设，意在打造无准入制的全人类共同建并且通过区块链实现价值共享的开放式 AI 体系。据悉 Stability AI 此前正按 40 亿美元估值进行融资。
-
-![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=8f7278ecc1aa)

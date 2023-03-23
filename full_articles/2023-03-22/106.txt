@@ -1,0 +1,203 @@
+![](https://img.foresightnews.pro/202303/41b9a6bfb1310e676e3076cdd150feae.png?x-oss-process=style/scale70)
+
+  
+
+
+**主网和项目进展**
+
+**3 月 14 日 Seeed Studio 和 IoTeX 共同推出 DePIN 开发者工具包**
+
+由 Seeed Studio 和 IoTeX 共同推出的 DePIN 开发者工具包为开发者降低了 Web3 开发门槛，轻松连接现实世界与智能合约：
+
+  
+
+
+* DePIN 开发者工具包为开发者提供了**体验现实世界基础设施和区块链技术相结合的机会**，加深了解这两个世界间技术的交叉与融合。
+* **低成本的开发工具包 ( 约为 49 美元 )：**以一种经济实惠的方式，使开发者可以在花费不多的情况下，大胆测试自己最新最具创意的 DePIN 项目开发想法，而不必担心成本问题。
+* **快速验证和迭代 DePIN 原型机：**使用 DePIN 开发者工具包可以连接任何类型的物理传感器，以快速构建和测试原型机。在更短的时间内验证开发想法，进行项目迭代。
+* **一站式开发工具包和资源包：**DePIN 开发者工具包像是一个硬件乐高，可以解锁构建 DePIN MVP 所需的所有工具和资源，使开发者能以更快、更高效地进行产品开发和上市。
+* **收获早期用户和使用反馈：**开发者可以在一个全球物联网和 Web3 爱好者社区中，获得有价值的使用反馈，完善自己的创新产品并收获早期用户。
+![](https://img.foresightnews.pro/202303/ec2e36802f8413b06a38b6f5d8b8187d.png?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/d56a17b99c4e46b3761237f443214f59.png?x-oss-process=style/scale70)  
+
+
+**3 月 3 日 IoTeX 主办的首届 R3AL WORLD 峰会成功举行，反响热烈**
+
+由 IoTeX 主办的首届 R3AL World 峰会在以太坊年度盛会 EthDenver 期间举行，吸引了 800 多名与会者。凭借其新颖前沿的创新项目演示，SamsungNext 等 30 多位投资人、初创领域领导者深入浅出的专业演讲，R3alWorld 峰会成为 ETHDenver 上最令人难忘的活动之一。
+
+  
+
+
+R3AL WORLD 峰会现场展示了 DePIN 最具潜力的赛道和头部项目，是 IoTeX 及其开发的链下计算基础设施 W3bstream 赋能和合作的生态项目的线下首次展示。
+
+![](https://img.foresightnews.pro/202303/cfce77aeffdbfe84f7bc66cce9a6854a.png?x-oss-process=style/scale70)  
+
+
+**链上生态项目和合作伙伴进展**
+
+**3 月 15 日 IoTeX 链上实时激活设备数达 18287 台**
+
+截至今日，IoTeX 链上实时激活设备数达 18287 台，分布全球 71 个国家，共销毁 2.85 亿个 IOTX，空投 8027 万个 IOTX 给社区长期支持者 ( 开启自动质押超过 91 天 )。
+
+  
+
+
+IoTeX 于 2020 年 11 月 3 日上线”Burndrop 烧投计划”，每台由 IoTeX 区块链赋能的智能设备都将触发销毁和空投 IOTX，总共将销毁 9 亿和空投 1 亿 IOTX 给社区长期支持者。
+
+  
+
+
+IoTeX 链上实时数据检测：*iott.network*
+
+![](https://img.foresightnews.pro/202303/f8c69b099a24eda31b6aa8840e49d1cd.png?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/d56a17b99c4e46b3761237f443214f59.png?x-oss-process=style/scale70)  
+
+
+**3 月 15 日 IoTeX 社区提案 IoTeX IIP-13 开启正式投票**
+
+提案内容：赋能质押中的 IOTX 质押桶 NFT 属性。该提案可以加速流动性质押和其他 DeFi 创新，同时提高网络质押率和安全性。
+
+  
+
+
+投票地址：*http://gov.iotex.io*
+
+![](https://img.foresightnews.pro/202303/3468289f19f3d1e7bce21d032383c8f6.png?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/d56a17b99c4e46b3761237f443214f59.png?x-oss-process=style/scale70)  
+
+
+**3 月 11 日 社区提案 IoTeX IIP14 提议实现账户抽象**
+
+最新社区提案 IoTeX IIP14 提议实现账户抽象，使用户无需拥有外部所有账户（EOA）即可访问智能合约钱包，为用户提供更简单、安全的去中心化体验。
+
+  
+
+
+*参与讨论：**https://bit.ly/3T53JMS*
+
+![](https://img.foresightnews.pro/202303/cf685133156f1869c988fbb130ecea96.png?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/d56a17b99c4e46b3761237f443214f59.png?x-oss-process=style/scale70)  
+
+
+**3 月 9 日 IoTeX 推出 Trusted Location 可信位置服务，Perkable 将成为第一个使用该设施的项目**  
+
+
+IoTeX 对 Meta-Pebble 完成了重大升级，推出了 Trusted Location 可信位置，提供基于 W3bstream 将现实世界地理位置接入区块链网络智能合约的地理位置数据服务。
+
+  
+
+
+Perkable 将成为第一个使用可信位置基础设施的项目。
+
+  
+
+
+*更多详情：*[*Trusted Location 可信位置：孵化海量 Web3 商业用例*](https://mp.weixin.qq.com/s?__biz=MzU0MzY5NjI4OQ==&mid=2247496776&idx=1&sn=ab51f1ef3982ec2c0896e696e671f9c9&chksm=fb05c086cc724990bc69c851831fe583952175ccdb93e6f6a03055b9d9e61977e5ab65c88536&token=892468505&lang=zh_CN&scene=21#wechat_redirect)
+
+  
+
+
+![](https://img.foresightnews.pro/202303/17d886e0578a75d16211a1b8e08eb49f.png?x-oss-process=style/scale70)  
+
+
+**市场活动和媒体报道**  
+
+
+**3 月 3 日 Cointelegraph 报道由 IoTeX 主办的 R3alWorld 峰会**
+
+知名加密媒体 Cointelegraph 报道由 IoTeX 在 ETHDenver2023 上主办的 R3alWorld 峰会。此次峰会由 Samsung Next，ARM 等 30 多位投资人和项目创始人出席演讲，是聚焦 DePIN 和 MachineFi 的首次项目展示峰会 - Web3 CES!
+
+![](https://img.foresightnews.pro/202303/683c46d12d33e936d71fcf5c1ff605f0.png?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/d56a17b99c4e46b3761237f443214f59.png?x-oss-process=style/scale70)  
+
+
+**3 月 15 日 “ioMonthly”聚焦 R3ALWORLD 峰会回顾**
+
+  
+
+
+来自 IoTeX 团队的 Christian 最新一期的“#ioMonthly 月度热点”，带我们闪回 ETHDenver 周上最成功的 Web3 创新峰会——R3ALWORLD 峰会。
+
+  
+
+
+*视频链接：**https://twitter.com/i/status/1635767889679757312*![](https://img.foresightnews.pro/202303/ea611c9a12d73c1ee59faeb85da3ba43.png?x-oss-process=style/scale70)  
+
+
+**IoTeX 链上实时数据**
+
+IoTeX 网络节点数量：88 个
+
+公链交易数量：59,938,789 txn
+
+IOTX 流通总量：9,449,018,389 IOTX
+
+IOTX 质押总量：3,210,813,700 IOTX
+
+IOTX 烧投质押量：1,259,319,548 IOTX（自动质押超过 91 天）
+
+烧投质押桶数量：19263 个
+
+总质押率：34.24%
+
+上链设备数量：18287 个
+
+分布国家：71 个
+
+销毁 IOTX 数量：285,135,938 IOTX
+
+链上交易数据：*https://iotexscan.io*  
+
+
+链上设备实时数据：*https://iott.network/*
+
+烧投实时数据：*https://burndrop.iotex.io/*
+
+IoTeX 生态网页：*https://ecosystem.iotex.io/projects*
+
+  
+
+
+  
+
+
+**关于 IoTeX**
+
+IoTeX 作为硅谷开源项目成立于 2017 年，以链接现实世界和数字世界为愿景，是新一代与以太坊全兼容的高性能公有区块链。IoTeX 致力于将区块链、可信硬件与物理世界数据预言机结合起来，为分布式应用和数字资产提供开放、可信、高效、自治的基础设施，创造全新的机器金融和数据信息市场。
+
+  
+
+
+**联系 IoTeX**
+
+了解更多关于 IoTeX 的信息，或进行项目技术方面的探讨，欢迎随时通过以下渠道与 IoTeX 团队取得联系！
+
+* 官网: https://iotex.io
+* MachineFi 官网：https://machinefi.com/
+* W3bstream 官网：https://w3bstream.com/
+* 链上生态：https://ecosystem.iotex.io/
+* 质押门户网站：https://stake.iotex.io/
+* 开发者门户网站：https://developers.iotex.io/
+* 多链钱包 ioPay：https://iopay.me/
+* 超级跨链桥 ioTube：https://iotube.org/
+* 微信公众号：IoTeX 社区
+* 微博：IoTeX 社区
+* 中文电报群：https://t.me/IoTeXGroupCN
+* 中文推特：https://twitter.com/iotex\_cn
+* Twitter：https://twitter.com/iotex\_io
+* Blog：https://iotex.io/blog
+* Youtube：https://www.youtube.com/channel/UCdj3xY3LCktuamvuFusWOZw
+* Reddit：https://www.reddit.com/r/IoTeX/
+  
+
+
+**推荐阅读**
+
+[***Trusted Location 可信位置：孵化海量 Web3 商业用例***](http://mp.weixin.qq.com/s?__biz=MzU0MzY5NjI4OQ==&mid=2247496776&idx=1&sn=ab51f1ef3982ec2c0896e696e671f9c9&chksm=fb05c086cc724990bc69c851831fe583952175ccdb93e6f6a03055b9d9e61977e5ab65c88536&scene=21#wechat_redirect)  
+[***R3AL WORLD 的全新理念：Right Here. Right Now. 此时此刻，就在这里!***](http://mp.weixin.qq.com/s?__biz=MzU0MzY5NjI4OQ==&mid=2247496055&idx=1&sn=d23c79d009bb223182ad2dd886e628fc&chksm=fb05c5b9cc724caf789688a8e598a37f9dd2d4fec1ece911c8e739cc8560472abcf03bdcf6d5&scene=21#wechat_redirect)  
+
+
+[***艾坦星 IoTeX 月度热点更新 (2023.02.16-02.28)***](http://mp.weixin.qq.com/s?__biz=MzU0MzY5NjI4OQ==&mid=2247496775&idx=1&sn=9d353987780670910f442423fb0d1254&chksm=fb05c089cc72499fc4911e7beeb0c919802cea327f154bd53c9e929ed85a66f83c8c13a107d8&scene=21#wechat_redirect)  
+
+
+  
+
+
+![](https://img.foresightnews.pro/202303/86ffae73b57a861b3e5d860367002d21.png?x-oss-process=style/scale70)**喜欢 IoTeX，就点个“在看”**
+
+![](https://img.foresightnews.pro/202303/12d974c71dcd26ec6e05697b73564f58.png?x-oss-process=style/scale70)

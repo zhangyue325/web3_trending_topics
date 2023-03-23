@@ -1,0 +1,54 @@
+微信不支持外部链接，可以点击文章底部的**阅读原文** ，方便阅读文中的链接，也可通过 https://daily.rebase.network/ 浏览每期日报内容。
+
+
+> **Circumventing Layer Zero: Why Isolated Security is No Security**
+> 
+> https://medium.com/l2beat/circumventing-layer-zero-5e9f652a5d3e   
+> 
+> 
+> **0xMax**: L2beat 团队关于 layer zero 的安全性分析，及对未来跨链机制的推演
+> 
+> 
+
+
+> **不同 NFT 相关 EIP 介绍和对比**
+> 
+> https://m.odaily.news/post/5185880   
+> 
+> 
+> **Frozen**: NFT 发展以来有很多新的尝试，不仅仅是小图片，文章列举了当前正在推进的一些 EIP，拓展了 NFT 的能力和应用场景
+> 
+> 
+
+
+> **视觉搜索引擎**
+> 
+> https://same.energy/   
+> 
+> 
+> **Mark Tang**: Same Energy 可以通过关键字或图片搜索与预期相似的图片。根据作者的介绍 Same Energy 使用了与 OpenAI CLIP 类似的深度学习能力
+> 
+> 
+
+  
+
+
+
+
+---
+
+  
+
+
+**Web3 极客日报是为 Web3 时代的极客们准备的日常读物，由一群极客协作完成，每天更新，每期包含三个推荐内容，都来自极客们各自关注的领域。每晚由 Rebase 志愿者整理发出。若有意参与内容贡献，请添加微信 ljyxxzj 并注明日报贡献。**
+
+
+
+---
+
+****网站:****https://rebase.network****
+
+****公众号:****rebase\_network****
+
+**![](https://img.foresightnews.pro/202303/ad193951832a510fc76b55b6ad7aa334.png?x-oss-process=style/scale70)**
+

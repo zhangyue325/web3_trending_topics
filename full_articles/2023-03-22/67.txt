@@ -1,0 +1,86 @@
+作业笔记 2023.3.21 回顾
+
+<https://twitter.com/ZF_lab/status/1638004218283057152?s=20>
+
+
+
+---
+
+2）link3 收集：<https://link3.to/gamespace/post/54eea88c553fd71895321928e65cb70ba5480fdfaa154861d1f234ec2c6eafc8>
+
+3）gas:<https://zora.co/collections/0xabba7d7f7f2e9eb818e7bd0c965f276b5b348fb9>
+
+4）<https://galxe.com/SuiMo/campaign/GCV9NUvxHA>
+
+
+
+---
+
+
+
+---
+
+
+
+---
+
+2）大嘴鸟：<https://snapshot.org/#/shellprotocol.eth/proposal/0xeeeb025dd2dbf06807658e770dfa3a054fabc9334ef9d89543d8ae41e06dbacf>
+
+3）sturdyfi：<https://snapshot.org/#/sturdyfi.eth/proposal/0x2e7708b819ff41096f4ee83d505b5ed1a8181f2bd0158baf301346e02f1b55f8>
+
+
+
+---
+
+空投 1)1000 万个 HALO:<https://airdrop.halonft.art/>2)Chainflip 公布代币分配细节，参与 20/21 年 节点计划的有空投，社区 NFT 持有者没有空投：<https://twitter.com/Chainflip/status/1638205061175078919>
+
+3）spaceid 今日空投领取。注意钓鱼链接，可以用下面活动链接进入第一期空投发放了总量的 2.5%，还剩 7.5% 的空投规则：3.10 之前的快照 ENS 域名持有者未注册 SpaceID 账号，注册一个域名双方得一个盲盒。类似于 Blur 模式，前一百名有额外奖励。23 号积分兑换，传送门：<https://space.id/voyage/season-2?inviter=0x09876.bnb>
+
+4）SOS 空投，小钱包尝试：<https://www.aidao.site/dapp/#/?uid=371980>
+
+
+
+---
+
+2）zetachian 全简短攻略：<https://twitter.com/Ecosystem10K/status/1638345765730029568?s=20>
+
+3）Fuel 的“Beta-3”测试网已上线！体验 P2P 网络等新功能，并参与塑造以太坊的未来。<https://fuel-labs.ghost.io/announcing-beta-3-testnet/>与之前的测试网类似，社区成员可以通过测试应用程序、下载 Fuel 钱包并从水龙头接收测试网代币来参与 Beta-3。可以在以下位置查看 25 多个正在开发的应用程序中的一些应用程序： <https://fuel.build/>
+
+4) 如何在 ConsenSys zkEVM 上部署智能合约：<https://mirror.xyz/pranjalbora.eth/l7X0hi75vzV7lB-R4FGeldH8lolpOCvnVf9CVSzCHLg>
+
+
+
+---
+
+2）ARB 领币和查询空投：<https://arbitrum.foundation/>ARB 代币：<https://arbiscan.io/token/0x912ce59144191c1204e64559fe8253a0e49e6548>领币合约：<https://arbiscan.io/address/0x912ce59144191c1204e64559fe8253a0e49e6548>Dune 数据统计：<https://dune.com/wust419/arb-airdrop>委托投票可以参考这个 txn：<https://arbiscan.io/tx/0xdb503c3d0543306cc338f04f7b795fc4f771fc3fee69d0f57bd62fee22ade569>
+
+
+
+---
+
+
+
+---
+
+2）OpenAI 创始人要向 10 亿人空投的@worldcoin 是什么：<https://twitter.com/jason_chen998/status/1637845333056294913?s=20>
+
+3）Arbitrum 终发币，谁能乘风而起：<https://foresightnews.pro/article/detail/28562>
+
+4）首个 Sui 上的 3A 游戏，还原娱乐本质的救赎之路：<https://www.techflowpost.com/article/2277>
+
+5）全球 300 家加密基金中谁最活跃：<https://www.techflowpost.com/article/2280>
+
+6）Layer Zero 生态协议纵览：潜在的空投机会和全链叙事的爆发：<https://www.techflowpost.com/article/2281>
+
+👤 Linker: <https://linktr.ee/ZFlab>
+
+🐦 Twitter: <https://twitter.com/ZF_lab>
+
+🚀 Lenster:<https://lenster.xyz/u/zf_lab>
+
+👾 Discord: <https://discord.gg/Gy5RhbMyCW>
+
+💬 Telegram Group: <https://t.me/cryptozflab>
+
+🪞 Subscribe to us on Mirror & Collet Entry: <https://mirror.xyz/zflab.eth>
+
