@@ -1,0 +1,128 @@
+1. ETH 本周动态汇总
+
+a. Topia、Eigen Network 入选 DoraHacks 上的第 2 轮
+
+ETH 研究资助在 DoraHacks 上的第 2 轮投票结果公布：Topia、Antsyb、Eigen Network、DeGov MODEL、MemeBook 入选。@TopiaLayer2 是首个分布式存储 Layer2 解决方案；Eigen Network 旨在构建一个以隐私为中心的 zkVM。
+
+b. 在 Shanghai/Capella 升级中识别漏洞的最高漏洞赏金已翻倍至 500,000 美元
+
+3 月 24 日，据 Christine Kim 博客，从现在到以太坊硬分叉时间，在 Shanghai/Capella 升级中识别漏洞的最高漏洞赏金已从 250,000 美元增加了一倍至 500,000 美元。以太坊开发者鼓励以太坊上的所有节点运营商在升级之前升级他们的节点，升级计划于 2023 年 4 月 12 日下午 6:27（东部时间）激活。
+
+2. MakerDAO 社区投票通过保留稳定币 USDC 作为其主要储备
+
+3 月 24 日，MakerDAO 社区投票通过保留稳定币 USDC 作为其主要储备，结果显示 79% 赞成，其余人则更愿意使储备多样化。对于 USDC PSM，建议的参数为将 USDC 兑换 DAI 的掉期费从 1% 降低到 0%，将目标可用债务从 2.5 亿 DAI 增加到 4 亿 DAI。
+
+3. Layer 2 本周动态汇总
+
+a. Arbitrum 头部借贷协议 Radiant 宣布 v2 已上线
+
+3 月 19 日，Arbitrum 头部借贷协议 Radiant 宣布 v2 已上线，其称有 32,000 名用户支付了近 700 万美元的费用。v2 引入了锁仓 LP 独享 RDNT 代币排放，更快的无缝跨链借贷、更好的 UI/UX 、多个新链推出、采用 LayerZero OFT，以及 RDNT 排放延长至 2027 年。
+
+b. 徐明星：OKB Chain 将是以太坊的 L2 链
+
+3 月 20 日，OK 创始人徐明星表示，OKB Chain 将是以太坊的 L2 链，从侧链技术开始，向 ZK 技术发展。OKT 链将继续是 L1 链，最近的发布将是 OKTC WASM，它允许我们通过 rust 或 c++ 开发高性能 Dapp。
+
+c. Immutable 宣布与 Polygon Labs 合作推出 Immutable zkEVM
+
+3 月 21 日，以太坊二层扩容方案 Immutable X 开发团队 Immutable 宣布与 Polygon Labs 建立战略合作伙伴关系，创建由 Polygon 提供支持的 Immutable zkEVM，IMX 成为 Immutable zkEVM 的原生 gas Token。此外 Immutable 还公布了费用更新计划，平台费用 20% 必须以 IMX 支付。
+
+d. StarkNet 宣布任命五个委员会 负责 STRK 的供应等任务
+
+3 月 21 日，StarkNet 宣布任命五个委员会。供应委员会负责规划、监督和执行 Starknet 生态系统 Token — STRK 的供应（STRK 还将作为参与 Starknet 共识机制的质押 Token、网络的治理 Token 和支付网络交易费用的 Gas Token）；早期采用者资助委员会将向 Starknet 上创新应用程序的团队提供资助；治理委员会负责研究、规划和执行 Starknet 治理的初始阶段，此外还有生态系统入职委员会、开发商合作委员会。
+
+e. Starknet alpha v0.11.0 在测试网上线 
+
+3 月 22 日，Starknet alpha v0.11.0 在测试网上线，开发者可在 Starknet 测试网上部署 Cairo 1.0 合约并与之交互。在测试网顺利运行后才能在主网上部署 Cairo 1.0 合约，主网升级到 Starknet alpha v0.11.0 将首次进行治理投票。
+
+f. GMX 社区提议在 BASE 上部署 GMX 
+
+3 月 21 日，GMX 社区提议在 BASE 上部署 GMX。Base 是 Coinbase 于 2 月份推出的以太坊 L2 网络，目前处于测试网版本。Defillama 数据显示，GMX 当前 TVL 为 4.92 亿美元，是 Arbitrum 上最大的 DeFi 协议。
+
+g. zkSync 交易笔数高达 259,225 笔 创下历史新高
+
+3 月 21 日，据 Orbiter 数据，24 小时内 zkSync 交易笔数高达 259,225 笔，逼近 Optimism（259,759），创下历史新高；活跃地址数达 56,773 个，超过了 Optimism 仅次于 Arbitrum；此外单日新地址数高达 1.6 万个。另外一个空投大热门 StarkNet 也有类似的大幅度数据增长。不过，值得注意的是，@subinium 数据面板显示，尽管近几日 zkSync 存款笔数节节攀高，但平均存款金额仍处于低位。
+
+h. zkSync Lite 拥堵导致 ZigZag 做市商机器人很难完成订单
+
+3 月 24 日，zkSync DEX ZigZag 在社区 tg 上表示，由于 zkSync Lite 遇到了拥堵问题，导致做市商机器人很难完成订单，用户出现“nonce mismatch”和“invalid timestamp”错误，这意味着用户的限价单和市价单都很难被执行，交易在匹配和提交时被卡住。目前仍在等待 zkSync/MatterLabs 来解决这个问题。在此期间，交易不能保证成功。
+
+i. zkSync Era Mainnet Alpha 现已向所有用户开放
+
+3 月 24 日，zkSync Era Mainnet Alpha 表示现已向所有用户开放。开发人员、项目和用户现在可以体验 zkEVM 的功能。已经花费了一年多的时间和数百万美元来 测试和审核 zkSync Era 的所有组件，此时有信心它足够安全，可以向公众开放。zkSync Era 从第一天起就有了本地账户抽象，任何账户都可以用任何代币支付费用，甚至可以在愿意补贴使用的协议上以零费用进行交易。
+
+4. MetaMask 本周动态汇总
+
+a. 尼日利亚的 MetaMask 用户可以使用本地银行转账购买加密货币
+
+3 月 21 日，MetaMask 扩大和尼日利亚 web3 支付公司 MoonPay 的合作伙伴关系，尼日利亚的 MetaMask 用户可以使用本地银行转账购买加密货币。据估计，近 1240 万人（占尼日利亚人口的 5.7%）拥有加密资产，尼日利亚是 MetaMask 全球最大的市场之一，在移动活跃用户中排名第三。
+
+b. Metamask 公布其与 Kiln、Blockdaemon 和 Allnodes 合作的质押市场 
+
+3 月 22 日，Metamask 机构钱包今日公布了其与 Kiln、Blockdaemon 和 Allnodes 合作的质押市场，该市场将采用该 ConsenSys 自己的 ConsenSys Staking，预计于 3 月 27 日上线。此前 SEC 主席 Gary Gensler 表示，根据美国法律，使用抵押协议的 Token 可被视为证券。
+
+c. MetaMask 宣布已兼容 EIP-4361 
+
+3 月 24 日，MetaMask 宣布已兼容 EIP-4361，即可用 Ethereum 登陆，还提供了“域绑定”功能以检测来自恶意 URL 的签名 / 批准。该功能是通过与数字身份认证公司 Spruce 合作实施的。
+
+5. Space ID 本周动态汇总
+
+a. Space ID（ID）发布空投领取细则
+
+3 月 19 日，Space ID（ID）发布空投领取细则，用户可于 3 月 22 日在 BNB Chain 上领取，早期采用者和生态系统贡献者空投认领的总分配为 4200 万枚 ID ，约占 ID 代币供应总量的 2.1%。快照时间是 3 月 14 日 22 时，共 29.4 万个地址符合要求。用户可在 https://space.id/voyage 查询空投数量。
+
+b. Space ID 项目快照时间更改为 3 月 10 日并增加额外奖励 
+
+3 月 20 日，由于此前社区对空投不满，Space ID 团队表示，快照时间从 3 月 14 日更改为 3 月 10 日晚上 10 点，将额外奖励 560 万个 ID 代币给所有用户，由于更新的快照和额外的空投，总共将额外奖励约 760 万个 ID 代币给所有符合条件的用户，每个用户的代币数量都会增加。
+
+6. Sui 本周动态汇总
+
+a. Sui 开发团队 Mysten Labs 宣布收购 Sui 生态域名服务 SuiNS 部分资产
+
+3 月 21 日，Sui 开发团队 Mysten Labs 宣布收购 Sui 生态域名服务 SuiNS 部分资产。Mysten Labs 表示，此次收购将使开发人员和用户能够轻松、安全地在 Sui 上构建他们的链上身份。SuiNS 于 2022 年推出，为 Sui 社区提供 .sui 和 .move 域名扩展名。
+
+b. Sui 主网将于今年第二季度推出 
+
+3 月 22 日，Sui 在推文表示，主网将于今年第二季度推出，目前没有正式的空投计划，当前开启的 Wave to Mainnet 活动旨在让社区了解 Sui protocol 在主网之前改造 web3 的潜力。
+
+c. Sui 开发团队 Mysten Labs 以 9630 万美元回购 FTX 所持优先股
+
+据法庭文件，Sui 开发团队 Mysten Labs 周三与 FTX 达成协议，以 9630 万美元现金购买 FTX 在 Mysten Labs 的股权投资和 SUI 代币认股权证。FTX 在去年 8 月以约 1.01 亿美元购买这些优先股， 11 月申请破产保护后，债权人正在争夺 FTX 及其附属公司持有的资产。
+
+7. Avalanche 本周动态汇总
+
+a. Avalanche C 链停止出块 2 小时后恢复正常
+
+3 月 23 日早晨，Avalanche C 链出块，当时最新出块时间为 7：26，区块高度为 27788298。随后 Ava Labs 联合创始人 @kevinsekniqi 表示，造成此问题的原因是 v1.9.12 的错误，v.1.9.14 刚刚发布，网络将在升级后恢复稳定。约两小时后 Avalanche C 链恢复出块。
+
+b. Avalanche 宣布将进行 Cortina 升级
+
+3 月 24 日，Avalanche 宣布将于 3 月 27 日在 Fuji 测试网上发布 Avalanche Cortina 升级的预发布代码，升级将于 3 月 30 日 23:00 激活。最新版本的 AvalancheGo 将迁移 X-Chain 以运行 Snowman++ 共识，使 X-Chain 与 Avalanche Warp Messaging 兼容，并使交易所更容易支持 X-Chain。 此外，还引入批量授权奖励并提升 C-Chain Gas 上限至 1500 万 gas。
+
+8. Osmosis 基金会已把国库中大于 10% 的现金转为比特币
+
+3 月 20 日，Osmosis 联合创始人 sunnya97 表示，Osmosis 基金会已经把国库中大于 10% 的现金转为比特币。Osmosis 是 Cosmos 生态最大的去中心化交易所。但目前不确定国库金额的总数以及具体兑换为比特币的比例。此前应该主要由 OSMO 和 USDC 组成。
+
+9. Chainlink Labs 与 PwC Germany 建立战略合作伙伴关系 
+
+3 月 25 日，Chainlink Labs 宣布，已与 PwC Germany（普华永道德国）建立战略合作伙伴关系。PwC Germany 通过开发内部区块链解决方案参与区块链技术，包括区块链浏览器和交易分析器、通证化框架、智能合约形式验证框架、数字资产估值模型、转账规则集成等。
+
+10. NFT 本周动态汇总
+
+a. Bitcoin Ordinal Punks 历史上首笔借贷已通过 Arcade 完成 
+
+3 月 20 日，NFT 借贷协议 Arcade 顾问 @CirrusNFT 表示，Bitcoin Ordinal Punks 历史上首笔借贷已通过 Arcade 完成。Ordinal Punks 58 持有者将其用 Emblem Vault 包装在 Ethereum 链上，随后在 Arcade 上将其抵押并贷出 32 ETH，还款金额为 32.53 ETH，期限为 30 天，APR 为 20%。此外，当前 Ordinals Inscriptions 铸造累积所支付的费用已超过 100 BTC。
+
+b. Magic Eden 宣布推出一个经过审计的比特币 NFT 市场 
+
+3 月 22 日，Magic Eden 宣布推出一个经过审计的比特币 NFT 市场，交易者可以购买铭文，或其他在比特币网络中用 satoshis 铸造的 NFT。Magic Eden 宣布与比特币钱包 Hiro 和 Xverse 合作，以允许交易者列出、购买和出售 Ordinal NFT。
+
+c. NFT 交易市场 LooksRare 宣布上线聚合器第一阶段 
+
+3 月 22 日，NFT 交易市场 LooksRare 宣布上线聚合器第一阶段，用户可从 LooksRare 和 OpenSea 批量购买 NFT，同时表示聚合器智能合约经过 Peckshield 正式安全审计与 Code4rena 审计竞赛。
+
+更多阅读官网：
+
+https://www.wu-talk.com/index.php?m=content&c=index&a=show&catid=6&id=12770
+
+根据央行等部门发布“关于进一步防范和处置虚拟货币交易炒作风险的通知”，本文内容仅用于信息分享，不对任何经营与投资行为进行推广与背书，请读者严格遵守所在地区法律法规，不参与任何非法金融行为。不为任何虚拟货币、数字藏品相关的发行、交易与融资等提供交易入口、指引、发行渠道引导等。吴说内容未经许可，禁止进行转载、复制等，违者将追究法律责任。
+

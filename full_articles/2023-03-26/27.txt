@@ -1,0 +1,46 @@
+### 【1】Dylibso
+
+金额：660 万美元
+
+轮数：种子轮
+
+时间：3 月 25 日
+
+投资机构：Felicis、boldstart ventures、Pebblebed、Crew Capital
+
+项目类型：基础设施、虚拟 ISA
+
+项目介绍：WebAssembly（简称 wasm）是一个虚拟指令集体系架构（virtual ISA），整体架构包括核心的 ISA 定义、二进制编码、程序语义的定义与执行，以及面向不同的嵌入环境（如 Web）的应用编程接口（WebAssembly API）。据悉，Dylibso 公司推出的首款产品 Modsurfer 目前已经上市，将专注于 Web3/ 区块链、浏览器、插件和去服务器四个核心领域
+
+官网地址：<https://dylibso.com/>
+
+### 【2】HouseAfrica
+
+金额：40 万美元
+
+轮数：未披露
+
+时间：3 月 25 日
+
+投资机构：Future Africa、SSE Angel Network (SSEAN)、ARM Labs、CV VC、Startupbootcamp Afritech、Niche Capital、Rebel Seed Capital
+
+项目类型：基础设施、数字工具
+
+项目介绍：HouseAfrica 为房地产开发商及其客户提供房地产数字化和透明度工具，该公司的旗舰产品 Sytemap 利用专有的区块链和地图技术创建私人土地登记将房地产项目站点地图数字化
+
+官网地址：<https://sytemap.com/>
+
+推特：<https://twitter.com/sytemaphq>
+
+### 关于 veDAO
+
+veDAO 是致力于发掘早期潜力项目的投融资社区。通过集结大众智慧和专业意见，为社区参与者、投资人、项目方提供公平、透明、民主的项目评价及投融资流程，让所有参与者共享项目发展红利。
+
+Website: <https://app.vedao.com/>
+
+Twitter: <https://twitter.com/vedao_official>
+
+Telegram：[t.me/veDAO\_zh](http://http/)
+
+Discord：<https://discord.gg/NEmEyrWfjV>
+

@@ -1,0 +1,20 @@
+先知每日作业 03.26 进群添加微信号：hhszd404 审核加入先知电报组获取更多信息：<https://t.me/seerlabs666>
+
+1.红杉资本和 coinbase 联合投资 750 万美金的私钥基础设施 Turnkey 官网申请一下加入候补名单<https://www.turnkey.io/>
+
+2. Aleo 生态的隐私保护钱包 Leo Wallet 申请加入等待名单<https://leo.app/>
+
+3.Zebec 测试网交互， @Zebec\_HQ 是一个多链流支付协议，早前完成三轮共计 $42M 的融资，参投方不乏 Coinbase, Lightspeed 等明星机构。 近 期宣布 Dapp 链改，转型成为一条专注于支付的 Zebec Chain. @nautilus\_chain 作为其“先行链” 已上线测试网。速览测试 <https://twitter.com/nautilus_chain/status/1635446715254964224?s=20>1、领水； <https://faucet.nautchain.xyz>2、PoseiSwap 交互；代币 Swap+ 添加 / 移除 LP<https://poseiswap.xyz/swap?chain=triton>3、填表等激励奖励。 <https://docs.google.com/forms/d/e/1FAIpQLSffkOpZBR5lBX39pD55CJ13kIY5Lr2vmVSdtzPe_L81Y1_yDQ/viewform>
+
+4.Nautilus Chain 是基于 @EclipseFND 构建的 Layer 3, 融合了模块化区块链 / zk/ SVM 等热点。关于 Dapp 的链改是大势所趋，后续会针对此项目发推介绍。 相关信息传 送门： Dapp 链改探讨： <https://twitter.com/y_cryptoanalyst/status/1632714825058099201?s=20>激励测试网介绍：<https://nautchain.medium.com/unveiling-nautilus-chain-triton-launch-incentive-8bcdfda2c914>
+
+5.几个短线可撸项目：<https://twitter.com/ZF_lab/status/1638779909907836928?s=20>
+
+6.AAve 投票：<https://snapshot.org/#/aave.eth>gtc：<https://snapshot.org/#/gitcoindao.eth>ape：<https://snapshot.org/#/apecoin.eth>1inch：<https://snapshot.org/#/1inch.eth>bal：<https://snapshot.org/#/balancer.eth>领完了 arb 空投的朋友别忘了去委托投票：<https://tally.xyz/gov/arbitrum>
+
+7.slingshot 有候补名单的可以领碎片奖励了，邮箱里有私人链接<https://help.slingshot.finance/en/articles/7065398-waitlist-reward-claiming>
+
+8.<https://thalalabs.medium.com/thl-token-generation-event-15294b1bd51b>
+
+9.zksync 交互相关：1、详细教程：<https://mirror.xyz/0xdearmoon.eth/j02VyJ4xeHJbd1IXNCxTWHXiAPdPfiygEWdCYCCKPL4>2、添加 RPC：<https://chainlist.org/?search=zksync+era>3、官方桥：<https://bridge.zksync.io/>4、飞碟桥：<https://www.orbiter.finance/>5、区块浏览器：<https://explorer.zksync.io/>6、ZKS 域名：<https://app.zkns.domains/>7、数据看板：<https://dune.com/gm365/era>8、syncswap：<https://syncswap.xyz/pool>9、mute：<https://app.mute.io/swap>10、spacefi：<https://swap-zksync.spacefi.io/#/swap>
+

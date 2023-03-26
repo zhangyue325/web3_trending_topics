@@ -1,0 +1,48 @@
+Provide the latest and most complete industry financing news, get first-hand news, please pay attention to veDAO financing daily!
+
+### 【1】Dylibso
+
+Amount: $6.6 million
+
+Stages: Seed round
+
+Date: March 25
+
+Investors: Felicis, boldstart ventures, Pebblebed, Crew Capital
+
+Category: Infrastructure, Virtual ISA
+
+Description: WebAssembly (wasm) is a virtual instruction set architecture (virtual ISA), the overall architecture includes the core ISA definition, binary coding, definition and execution of program semantics, and application programming interfaces (WebAssembly API) for different embedded environments,such as the Web. It is reported that the first product launched by Dylibso, Modsurfer, is now available and will focus on four core areas: Web3/blockchain, browser, plugins and de-server.
+
+Website: <https://dylibso.com/>
+
+### 【2】HouseAfrica
+
+Amount: $400,000
+
+Stages: Undisclosed
+
+Date: March 25
+
+Investors: Future Africa, SSE Angel Network (SSEAN), ARM Labs, CV VC, Startupbootcamp Afritech, Niche Capital, Rebel Seed Capital
+
+Category: Infrastructure, digital tools
+
+Description: HouseAfrica provides real estate developers and their clients with real estate digitization and transparency tools. The company’s flagship product, Sytemap, uses proprietary blockchain and mapping technology to create private land registries to digitize real estate project site maps.
+
+Website: <https://sytemap.com/>
+
+Twitter:<https://twitter.com/sytemaphq>
+
+### About veDAO
+
+veDAO is an investment and funding community dedicated to discovering early-stage potential projects. By gathering public wisdom and professional opinions, veDAO provides a fair, transparent and democratic project evaluation and investment and financing process for community participants, investors and project parties, allowing all participants to share the project development dividends.
+
+Website: <https://app.vedao.com/>
+
+Twitter: <https://twitter.com/vedao_official>
+
+Telegram: <https://t.me/veDAO_EN>
+
+Discord: <https://discord.gg/NEmEyrWfjV>
+
