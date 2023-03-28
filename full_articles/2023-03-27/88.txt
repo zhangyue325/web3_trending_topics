@@ -1,0 +1,132 @@
+前言：
+
+SixthDaoVC 是由加密眼界成立的一个专为一级市场投资的投研社区DAO。我们的使命是建立最大的初级市场投资研究社区组织。我们旨在为想要进入一级市场的玩家提供安全透明的投资环境。以社区为主，全面赋能优质项目。积极寻找具有创新性、实用性和成长性的项目，为其提供全方位的投资研究支持，帮助项目方实现良性发展，为投资者提供更好的投资机会。
+
+SixthDaoVC投资宗旨：首先我们认为团队是最重要的，具有可持续性发展并且有创新的团队
+
+是我们所认可的，我们希望能够陪伴项目成长，帮助项目在加密领域成为一方赛道霸主，能够走完至少一轮牛熊。其次我们参投标准很简单，以领投机构为主，前面已经有知名机构参投我们才会考虑参与项目的下一轮投资。
+
+以下正文开始，文章中所介绍项目均是SixthDaoVC可参投或已参投的一级项目，因为项目并未上线，我们不会透露项目参投估值以及释放规则，所以不存在利益牵扯，主要帮助大家了解早期项目动态，扩大项目知名度为主。
+
+**1.Celestia**
+
+简介：第一个模块化共识和数据可用性网络
+
+**融资：轮次：2，筹资总额：5650 万美元**
+
+**参投机构：Bain Capital Crypto、Polychain、Binance Labs等**
+
+项目进展：，Celestia 的激励测试网计划 Blockspace Race正在进行，1500万代币将用于奖励参与人员，主网预计2023年第二季度上线
+
+生态项目如图：
+
+![](https://img.foresightnews.pro/202303/e34a688bd6c9dac970bcf7f1a9d518e7.png?x-oss-process=style/scale70)
+
+SixthDaoVC关注理由：作为首次提出模块化概念的项目，毫无疑问会得到最多的关注，在许多有关于2023哪个赛道会崛起大多数都提到了模块化概念，发展前景以及发展进度不错。
+
+**2.Sei**
+
+简介：使用 Cosmos SDK 和 Tendermint 核心构建的具有内置订单簿第 1 层区块链
+
+**融资：轮次：1，筹资总额：500 万美元 更多轮次融资等待公布，据我们的消息，第二轮融资估值千万美金以上**
+
+**参投机构：Multicoin Capital、Coinbase Ventures**
+
+项目进展：即将启动测试网最终版本Atlantic-2。Sei Network将该版本视为Sei在主网启动前的最后一个里程碑。预计第二季度上线主网。
+
+生态项目如图：
+
+![](https://img.foresightnews.pro/202303/2bbf2e9e117a93e36d04175c0d8c2ea7.png?x-oss-process=style/scale70)
+
+SixthDaoVC关注理由：作为新生代公链，Sei在海外的热度不输Sui和Aptos，同时Sei 通过其针对 DeFi 的新颖行业特定优化，会带动defi的下一轮叙事，可以拭目以待。
+
+**3.Berachain**
+
+简介：以 DeFi 为中心的 EVM 兼容 L1，它建立在 Cosmos SDK 之上，由流动性共识证明提供支持。
+
+**融资：尚未公布，据我们与项目方沟通，已经完全至少千万美金融资，参投机构有polychain等**
+
+项目进展：Berachain 实施了一种新颖的“三代币系统”，测试网启动将在四月份
+
+![](https://img.foresightnews.pro/202303/e46b1fe23ff42ce74fc29796b99bbab8.png?x-oss-process=style/scale70)
+
+生态项目：
+
+![](https://img.foresightnews.pro/202303/51c6e05a88dca8cfd5132fab5ac27949.png?x-oss-process=style/scale70)
+
+SixthDaoVC 关注理由：虽然目前官网还未上线，但是项目在 22 年就已建立，目前也是有很多有趣的生态项目，三代币系统有点加强版 LUNA 的意思，在早期肯定是值得关注并且有很大成长性的项目。
+
+**4.Space**
+
+简介：SPACE是一个商业元宇宙，允许用户为游戏、艺术、时尚、音乐设计自己的虚拟商业空间，并在虚拟世界中体验社交商务。
+
+**融资：轮次：1，筹资总额：700 万美元；目前正在进行第二轮千万美金融资**
+
+**机构：Binance labs、Dapper Labs、CoinFund、DCG、Animoca Brands等、**
+
+项目进展：正在为2023年春季的网络测试方案做准备，预计第二季度或第三季度上线
+
+![](https://img.foresightnews.pro/202303/d4386e51845f868bd3030e85a98a0fdb.png?x-oss-process=style/scale70)
+
+SixthDaoVC关注理由：Binance LABS投资了挺多的元宇宙项目，Space热度不算高，可能是与其技术开发难度有关，但是元宇宙赛道是有很强大的叙事能力，在新生的元宇宙项目中，团队的资源不错，可以关注。
+
+**5.Magpie**
+
+简介：去中心化的流动性聚合协议，旨在为跨顶级区块链的任何资产提供最佳交易，而无需直接桥接资产。
+
+**轮次：1，筹资总额：300 万美元**
+
+**机构：Jump Crypto、Sandeep Nailwal（Polygon联创）、Parafi Capital、Republic Capital等**
+
+项目进展：已部署在Ethereum、BNB Chain、Polygon、Avalanche四条链上，公开 Alpha 测试即将结束，预计第二季度上线
+
+![](https://img.foresightnews.pro/202303/fcd02620cabb7095245615dfb9427c22.png?x-oss-process=style/scale70)
+
+SixthDaoVC关注理由：Jump Crypto是量化领域排名前三的机构，投资Magpie属于是专业对口，项目各方面进展也不错，集成了uniswap、babyswap，因为早期估值不算太高，是一个具有高性价比的投资项目。
+
+**6.Taker**
+
+简介： NFT 流动性协议，允许用户清算和出租各种新颖的加密资产，包括加密收藏品、元宇宙资产、金融票据、合成资产等
+
+**融资：轮次：1，筹资总额：300 万美元**
+
+**机构：Electric Capital、Dragonfly、Spartan Group等**
+
+项目进展：启动了Taker NFT 赋能计划，将会上线Polygon 、ZkSync
+
+![](https://img.foresightnews.pro/202303/af8b049368b6cddebb4e11746e2025d0.png?x-oss-process=style/scale70)
+
+SixthDaoVC关注理由：经过blur之后把NFTfi赛道给带火了，同时也让更多人看到了NFT赛道的可能性，尽管目前NFT最大的问题是缺失流动性，在熊市更是如此，但是我们相信整个赛道在一轮牛市会来的更加猛烈，所以Taker是具备发展前景的，同时投资机构基本都是顶级，只要坚持到市场行情的风口到来，就会有收获。
+
+**7.Fluidity**
+
+简介：收益生成协议，它奖励人们使用他们的加密货币，持有人在使用其加密货币时会获得随机支付的奖励。
+
+**融资：轮次：1，筹资总额：130 万美元**
+
+**机构：Multicoin Capital、Circle Ventures等**
+
+项目进展： 已在Arbitrum上启动，当你在 Fluidity WebApp 上为 fDAI 包装你的 DAI 时，它会自动在 Aave 上借出并开始产生收益。
+
+以下为收益截图
+
+![](https://img.foresightnews.pro/202303/be171e5046a1390588f911464a56a79c.png?x-oss-process=style/scale70)
+
+SixthDaoVC关注理由：原本Fluidity是要建立在solana链上，但目前先发在ARB链上，并且跟ARB生态已经有了密切合作，说明项目团队是紧跟市场，同时因为有Circle Ventures（USDC发行方）的投资和Multicoin(前5加密机构）的加持，早期参投项目投资预计能获得不错的收益。
+
+**8.Mohash**
+
+简介：新兴市场债务的 DeFi，可为投资者提供由现实世界债务资产支持的可持续可扩展稳定高收益。
+
+**融资：轮次：1，筹资总额：600 万美元**
+
+**机构：Sequoia Capital、Jump Crypto、Coinbase Ventures以及两位polygon联创和知名天使投资人Balaji Srinivasan等**
+
+项目进展：22年6月份完成的融资，项目运营没有到位，社交媒体许久未更新
+
+SixthDaoVC关注理由：因为项目处于早期，并且投资机构阵容很强大，Sequoia是web2领域很出名的投资机构，跟a16z差不多，这个项目获得的资源相当不错，早期估值也不算高，而且还是RWA赛道项目，这个赛道未来存在爆发的可能性，可以观察留意，等待项目更新动态。
+
+以上就是我们为大家带来的八个一级项目，我们在一级投资领域深耕三年，过去投资的项目有亏损的，也有十倍收益甚至百倍收益，一级市场的魅力在于，你可以了解和接触项目核心的资源以及信息，不会像二级市场一样做个无头苍蝇没有目的的交易。
+
+欢迎关注我们，感兴趣加入的我们可私信，目前我们有免费的投研群和内部投研群。
+

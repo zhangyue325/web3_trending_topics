@@ -1,0 +1,6 @@
+Getaverse 是基于多条公链进行开发部署的区块链信用系统，旨在打造基于 Web3 数字认证引警协议的元宇宙生态服务平台。用户注册进入 Getaverse 后，将获得一个 DID 身份，通过该 DID 身份用户开始建立自己的信用系统，并参与到平台生态应用、建设与治理中。
+
+Getaverse DID 通过中心化身份标签 SBT 和链上身份标签 SBTSA 事件任证下数进行敦合合建寸田乃 Getaverse ID 更像人类在 Web3 的新式的简历，能够成为联系链上行为和链下社会的桥梁
+
+![](https://img.foresightnews.pro/202303/7a26b6361385ede70003f106bd419c0f.png?x-oss-process=style/scale70)
+

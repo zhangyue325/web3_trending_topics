@@ -1,0 +1,140 @@
+加入 PolkaWorld 社区，共建 Web 3.0！
+
+![](https://img.foresightnews.pro/202303/f2bb93b215ef03baf3df39a65d4e0662.png?x-oss-process=style/scale70)波卡的第 109 号公投已通过，敲定了波卡 2023 年的插槽竞拍计划。
+
+ 
+
+**今年全年，波卡将进行 18 次插槽竞拍。**时间安排如下（LP 指插槽租赁期，长约 3 个月，如 LP 12 指第 12 个租赁期）：
+
+ 
+
+* **3 月 25 日 - 3 月 31 日：**2 场竞拍，在 LP 12 上线
+* **5 月 31 日 - 7 月 7 日：**2 场竞拍，在 LP 13 上线
+* **7 月 31 日 - 10 月 18 日：**7 场竞拍，在 LP 14 上线
+* **10 月 23 日 - 2024 年 1 月 10 日：**7 场竞拍，在 LP 15 上线
+
+ 
+
+目前第 42 场插槽竞拍正在进行中，持续时间为 3 月 25 日 - 4 月 1 日，Moonsama、peaq、InvArch 和 SORA Polkadot 正在参与此次竞拍。
+
+![](https://img.foresightnews.pro/202303/d151db960f86576389684616e75b7fe6.png?x-oss-process=style/scale70)来源：https://parachains.info/auctions/polkadot
+
+  
+
+
+  
+
+
+**插槽数量收缩**
+
+ 
+
+我们可以看出波卡今年安排的竞拍数量有所减少 —— 在今年余下的约 9 个月里，只安排了 18 场竞拍，平均每月 2 场竞拍；相比之下，而从 2021 年 11 月末的首次竞拍至今这大概 16 个月里，波卡进行了 41 场竞拍，平均每月 2.56 场竞拍。
+
+ 
+
+乍一看好像和以前差不多？但如果算上现有平行链的续租，就不一样了。
+
+ 
+
+因为今年下半年预计有 13 条现存平行链租约到期，也需要重新竞拍插槽才能续租。假设这 13 条链都选择续租，那么如果不算无需竞拍的系统平行链的话，波卡今年只能 **“上新” 5 条平行链**，平均每个月只有 0.56 场为了新平行链而进行的竞拍。这样一看，是不是还挺少的？
+
+  
+
+
+  
+
+
+**收缩原因**
+
+ 
+
+那为什么要这样安排？
+
+ 
+
+在第 109 号公投中，只有这样一句解释：“本次插槽竞拍安排的原则是确保可以引入新的平行链成员，同时让已经上线运营的平行链能够续租插槽”，也就是并没有解释插槽数量收缩的原因。我只能在这里做一些猜想，仅代表我个人的观点：
+
+ 
+
+**猜想一：技术上暂时容纳不了更多的平行链了。**目前的安排可以把波卡上正在运行的平行链数量维持在 50 条以下，这可能已经接近目前波卡能够支撑的平行链数量的瓶颈了，如果继续增加平行链数量，可能会影响波卡网络和现有平行链的正常运行。毕竟作为先行网的 Kusama，平行链数量也基本是控制在 50 条以内的。不过未来随着[异步支持](http://mp.weixin.qq.com/s?__biz=MzI3MzYxNzQ0Ng==&mid=2247498200&idx=1&sn=c6789c2517dae56de1e0c81212edaa2a&chksm=eb223e91dc55b7871e9c1de9b8f2be3683994648c738da8262d03ea57cd41a1f96977f404638&scene=21#wechat_redirect)和[系统平行链](http://mp.weixin.qq.com/s?__biz=MzI3MzYxNzQ0Ng==&mid=2247497481&idx=1&sn=613cb892feca82c0a0c6c192133ae871&chksm=eb223040dc55b956d2aedac25cad53810189fade1bed39ab16c77e2a70769fedc1fb1f107c61&scene=21#wechat_redirect)等功能上线，波卡的可扩展性还会提高，中继链的负载也会减轻，因此能支持的平行链数量还会有所提升。
+
+ 
+
+**猜想二：为了调节平行链插槽的价格。**近几个月竞拍成功的平行链插槽价格大部分在 5 万 - 10 万 DOT 左右，相较于第一批平行链动辄上千万 DOT 的价格，实在是太便宜了。减少平行链插槽竞拍的次数其实就是收紧了插槽的供应量，可以调节插槽的供需关系，可能会让平行链插槽价格上涨，从而让插槽竞拍市场更加健康。
+
+ 
+
+**猜想三：为了促进平行链项目的优胜劣汰。**平行链上线至今已经有一年多的时间了，目前波卡上有 42 条平行链。如果市面上本来优质项目就不多，又强行增加平行链数量，可能导致一些质量不高的平行链项目占用着网络资源。
+
+  
+
+
+  
+
+
+**更多资源**
+
+  
+
+
+如果想进一步了解波卡插槽竞拍，可以参考以下资料：
+
+ 
+
+* 波卡插槽竞拍简介及规则：《[最新 | 关于波卡的插槽竞拍、Crowdloan，看这一篇就够了](http://mp.weixin.qq.com/s?__biz=MzI3MzYxNzQ0Ng==&mid=2247490797&idx=1&sn=67a49e655456223a361a4f7e9b21dd22&chksm=eb21dba4dc5652b2eff433539e638d343e8d9c0c59d9a2d14196c38fea9f3647aeca686c5059&scene=21#wechat_redirect)》
+* 全年插槽竞拍时间表：https://docs.google.com/spreadsheets/d/1audL4P9LhCIFuX9AXB5K7cQEvn4JgukBmcA\_vxwYfTY/edit#gid=218733256
+* 正在进行的竞拍：https://parachains.info/auctions/polkadot
+  
+
+
+**活动预告**
+
+明晚（3 月 28 日）晚 7 点，Bifrost 做客波卡世界直播间，分享 **SLP 协议为 FIL 首个流动性质押方案带来了哪些机会**。点击下方按钮立即预约：
+
+  
+
+
+**4 月 11 日**，PolkaWorld 与 Parity 主办，OneBlock、香港区块链协议 HKBA.club、亚洲元宇宙联盟 AsiaMeta.club 联合主办的 Polkadot Meetup 将在香港举办！我们邀请了 **20+** 团队，除了讨论**去中心化、L2、平行链**之外，我们还将讨论**跨链协议、Web3 资本市场的变局、社交网络的未来以及 Web3 基础设施的愿景与困境**。如果你感兴趣，欢迎报名参加我们的活动！有机会获得有趣的 NFT、免费的域名以及超酷的 Polkadot 2023 新周边！**点击下方卡片**立即免费报名。
+
+  
+
+
+  
+
+
+* **PolkaWorld Telegram 群：**
+
+t.me/polkaworld
+* **PolkaWorld Youtube 频道：**
+
+https://www.youtube.com/c/PolkaWorld
+* **PolkaWorld Twitter：**
+
+@polkaworld\_org
+![](https://img.foresightnews.pro/202303/a8f10b59139a7d343010ec83324551c0.gif?x-oss-process=style/scale70)**更多内容**
+
+  
+
+
+[波卡周报｜Polkadot 2023 共安排 18 次插槽 Auction，OpenGov 代码已合并到 Polkadot！](http://mp.weixin.qq.com/s?__biz=MzI3MzYxNzQ0Ng==&mid=2247498466&idx=1&sn=f018388c25e4615ec7d5a628ab701355&chksm=eb223dabdc55b4bd406dca0adbac526b5a67e08d99fd44914f4ef340d45422cee7d5d86a39c8&scene=21#wechat_redirect)  
+
+
+[平行链们选择波卡的 4 大原因](http://mp.weixin.qq.com/s?__biz=MzI3MzYxNzQ0Ng==&mid=2247498449&idx=1&sn=f310b9805153ea8bf095eede58b8264e&chksm=eb223d98dc55b48e70afe1de89734730aa68659ef7a80815ec15cb14a2001153a81937892b32&scene=21#wechat_redirect)  
+
+
+[2023 全球加密投资格局分析：香港或成新焦点！](http://mp.weixin.qq.com/s?__biz=MzI3MzYxNzQ0Ng==&mid=2247498435&idx=1&sn=82bfc2533e19b165174e1793f1d44ce8&chksm=eb223d8adc55b49c973a13f11427bdd600061fe3f9bd40adec190a96d06844d432d17e011b8d&scene=21#wechat_redirect)  
+
+
+  
+
+
+![](https://img.foresightnews.pro/202303/b2c59d601e52ff269db62e55d33c4ba1.jpeg?x-oss-process=style/scale70)关注 PolkaWorld
+
+发现 Web 3.0 时代新机遇
+
+  
+
+
+点个 “在看” 再走吧！
+

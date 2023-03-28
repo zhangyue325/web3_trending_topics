@@ -1,0 +1,98 @@
+在 DeFi 领域，永续合约去中心化交易所已经成为了一个备受关注的话题。随着区块链技术的发展和创新，越来越多的团队正在努力构建各种类型的永续 DEX。本文将介绍一些最近在零知识技术领域活跃的永续 DEX 项目，并简要介绍它们的特点和功能。
+
+![](https://assets.techflowpost.com/20230207/23710cd2243a4ae9b605157f3e1ef7e9.png)
+
+  
+
+
+Derivio
+-------
+
+Derivo 正在构建一系列衍生品产品，涵盖零售和机构投资者的需求范围。测试网即将推出。
+
+![](https://assets.techflowpost.com/20230207/779854800c0a497ca60abc4044a4b313.png)
+
+  
+
+
+MESprotocol
+-----------
+
+MES 代表多卷积交换解决方案。他们旨在在 Rollups（Optimistic 和 ZK）之间建立一个统一的订单簿，解决流动性碎片化的问题。
+
+他们在 Medium 上非常活跃。
+
+![](https://assets.techflowpost.com/20230207/93071d04ba1443c59c1d5a790eda3efc.png)
+
+  
+
+
+Phezzan Protocol
+----------------
+
+Phezzan Protocol 将成为一个订单簿式永续 DEX，以吸引更多散户投资者。这要归功于他们的市场制造策略，在他们的文档中可以找到更多信息。在图片中，你可以看到当前 DeFi 中的 Dex 模型以及各自的优缺点。
+
+![](https://assets.techflowpost.com/20230207/15b251ad0ece45d7a7f96ef0d1e0d369.png)
+
+  
+
+
+PerpDex
+-------
+
+PerpDex 是一种无损 AMM 交易所，这意味着你可以提供流动性而不用担心无常损失。
+
+这是可能的，因为 PerpDEX 在任何交易发生之前都会计算潜在的无常损失，并调整交易费用以进行补偿。
+
+![](https://assets.techflowpost.com/20230207/ec4ed75059f5465990cddefd586c3df1.png)
+
+  
+
+
+Increment
+---------
+
+Increment 利用由抵押品支持的合成资产，并利用 Curve V2 AMM 实现了链上永续掉期。主要特点：
+
+* 自动集中流动性；
+* 动态费用；
+* 可参数化池；
+他们将很快部署在 ZkSync Era Mainnet 上。
+
+![](https://assets.techflowpost.com/20230207/4bbfa0be00be47d2ad4e762d78aa9411.png)
+
+  
+
+
+SynFutures
+----------
+
+他们的 v2 已经在 Polygon 上线了，v3 即将推出。几天前，他们推出了 NFT 期货。该协议允许任何人列出任意资产对，无需经过 DAO，这是其中最有趣的功能之一。
+
+![](https://assets.techflowpost.com/20230207/72ad18c16dcd4f5db634b36817c5a947.png)
+
+  
+
+
+Atomic Green
+------------
+
+他们目前在 Ethereum、Polygon、Arbitrum 和 Aurora 上线运行。我认为他们的用户界面非常棒，不用说太多。下面是他们的路线图：
+
+![](https://assets.techflowpost.com/20230207/3f13b5ea8e014c05b62f4999ece4d340.png)
+
+  
+
+
+SatisDEX
+--------
+
+SatisDEX 是一个有趣的多链订单簿永续 DEX，具有以下特点：
+
+* 跨链抵押品；
+* 单代币流动性挖矿；
+* 零滑点；
+通过 Satis，用户不再需要桥接他们的抵押品。
+
+![](https://assets.techflowpost.com/20230207/92a3b26fe5d34b58af2e9e3421b2c120.png)
+

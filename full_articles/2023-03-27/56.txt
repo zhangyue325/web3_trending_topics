@@ -1,0 +1,512 @@
+你是否因错过了 Arbitrum 空投而感到惋惜？
+
+上周，$ARB 空投获得者平均赚了 2350 美元。像 $ARB、$OP 和 $APT 这样的空投让很多空投猎人成为了百万富翁。
+
+不用急，在本文中，我们整理了即将到来的所有热门空投项目以及交互策略，助你找寻下一个顶级 Airdrop。
+
+一、zkSync
+--------
+
+zkSync 是以太坊的第 2 层扩展解决方案，可提供低 Gas 和快速交易，而不会影响安全性。
+
+zkSync 在投资方面是重量级人物，从 VCs 那里筹集了创纪录的 4.58 亿美元，其中包括以太坊基金会、a16z 和 Coinbase。
+
+![](https://img.foresightnews.pro/202303/7889cc28e4ad0b93b19a0ae8f6be62e7.jpeg?x-oss-process=style/scale70)
+
+zkSync 开发商 Matter Labs 的 CEO 暗示 $ZKS 将在大约一年后发布，进一步提高了 zkSync 的空投概率。
+
+zkSync 筹集了 4.58 亿美元的资金，而 Arbitrum 筹集了 1.2 亿美元，所以你可以想象这个空投有多大。
+
+Matter Labs 的 CEO 暗示 $ZKS 将在大约一年后发布，这也是对 zkSync 空投的确认。
+
+网上已有很多关于 zkSync 1.0（Lite）的测试教程，今天我们重点看 2.0（Era）。
+
+在 metamask 上添加 zkSync Era 主网（https://chainlist.org/chain/324）
+
+• 打开 <https://portal.zksync.io/> > 将钱包与以太坊主网连接。
+
+• 输入 ETH 数量（建议至少存入 0.02 个 ETH，如果能存入 0.1 个 ETH，就领先了 80% 的用户）>点击「存入」> 钱包确认。
+
+• 点击「取款」> 然后取出少于你存入的 10% 的 ETH。
+
+![](https://img.foresightnews.pro/202303/e63b43926c35cebee7ca327159b6230e.png?x-oss-process=style/scale70)
+
+  
+
+
+测试部分在 zkSync Era 上运行的 dApp（使用更多资金来交互，增加空投机会）。
+
+• 打开 [https://app.mute.io/](https://app.mute.io/ )，并连接钱包（zkSync Era）
+
+• 将部分 ETH 交换成 MUTE 
+
+• 将部分 ETH 交换成 USDC
+
+• 为 USDC/ETH 或 MUTE/ETH 添加流动性。
+
+![](https://img.foresightnews.pro/202303/5b317cfb15fd78223ab18b9619bc9140.png?x-oss-process=style/scale70)
+
+  
+
+
+以相同的流程交互 SpaceSwap：<https://swap-zksync.spacefi.io/#/swap>
+
+• 打开 https://mintsquare.io/zksync 并连接钱包。
+
+• 点击主页上的「Mint」。
+
+• 上传任意图片 > 给它起个名字 > 点击「Mint」> 在钱包上确认。
+
+• 上架出售刚铸造的 NFT > 在市场上购买一个任意的 NFT
+
+![](https://img.foresightnews.pro/202303/d4ce30b0fe9cd00200ee448aa8109483.png?x-oss-process=style/scale70)
+
+  
+
+
+二、LayerZero
+-----------
+
+LayerZero 是一个全链互操作性协议，旨在使不同的区块链更容易相互连接。它可以用于资产跨链和消息传递。
+
+LayerZero Labs 最近从 VCs 筹集了超过 1.7 亿美元，包括 a16z、红衫资本、Binance Labs。
+
+LayerZero 可能会将其代币分发给基于其构建的协议的用户。
+
+![](https://img.foresightnews.pro/202303/8e726d367219d9126335edc579bf227a.jpeg?x-oss-process=style/scale70)
+
+  
+
+
+通过 http://theaptosbridge.com/bridge 和 http://bridge.liquidswap.com ，将资金从 Arbitrum 或 Polygon 等费用低的网络跨链到 Aptos 网络。建议至少跨链 100 美元至 10,000 美元的资金。
+
+![](https://img.foresightnews.pro/202303/5fc62b9b9aa73d15453772b6d219d9e7.jpeg?x-oss-process=style/scale70)
+
+  
+
+
+• 质押 $STG
+
+• 在 http://snapshot.org/#/stgdao.eth 上用 $veSTG 投票
+
+• 通过该平台跨链资金
+
+• 为跨链桥提供流动性
+
+![](https://img.foresightnews.pro/202303/a09bbbfcbdf251d6e0ad9ea8620236e4.jpeg?x-oss-process=style/scale70)
+
+  
+
+
+• 合约交易
+
+• 将 USDC 存入金库
+
+![](https://img.foresightnews.pro/202303/88c2c3726918e18a7c424500582c518a.jpeg?x-oss-process=style/scale70)
+
+  
+
+
+• 存入和借出代币
+
+![](https://img.foresightnews.pro/202303/1e0c1336a328637a46b41aff7ab1f392.jpeg?x-oss-process=style/scale70)
+
+  
+
+
+要获得 LayerZero 的空投资格，你应该每周至少一次使用上述所有协议。
+
+三、StarkNet
+----------
+
+StarkNet 是一个去中心化的 ZK-Rollup。它作为以太坊上的 L2 网络运行，允许任何 dApp 因其计算实现无限规模。
+
+StarkWare Industries（开发商） 从 VCs 筹集了超过 2.8 亿美元，包括红衫资本、a16z、Paradigm。
+
+StarkNet 已经发展成为了一个非常大的生态系统，包括 DeFi 协议、NFT、钱包、GameFi 项目等等。因此，StarkNet 团队很可能会将 $STARK 空投给其网络上关键项目的用户。
+
+![](https://img.foresightnews.pro/202303/04aba3ed18fe00f16f675c863ba7d9fd.jpeg?x-oss-process=style/scale70)
+
+  
+
+
+想要最大化你的空投，请按照以下步骤操作。
+
+安装 Argent X 并创建一个 StarkNet 钱包（https://chrome.google.com/webstore/detail/argent-x/dlcobpjiigpikoobohmabehhmhfoodbb）
+
+使用 http://starkgate.starknet.io 或 http://orbiter.finance 将 ETH 从以太坊跨链到 StarkNet 。
+
+![](https://img.foresightnews.pro/202303/f1c56302ffef0cdbeae13b1d873b4d05.jpeg?x-oss-process=style/scale70)
+
+  
+
+
+• 在 10KSwap 上交易、添加流动性。（https://10kswap.com/）
+
+• 在 mySwap 上交易、添加流动性。（https://www.myswap.xyz/）
+
+• 在 JediSwap 上交易、添加流动性。（https://app.jediswap.xyz/）
+
+• 在 Nostra Finance 上存入、借出代币。（https://alpha.nostra.finance/）
+
+• 在 Mint Square 上铸造、买卖 NFT。（http://mintsquare.io）
+
+每周交互一次上述的所有协议（进行 1-2 笔交易）。
+
+四、Lens Protocol
+---------------
+
+Lens Protocol 是社交应用程序的去中心化社交图谱协议，它统一了你在所有支持 Lens 的应用程序上的个人资料、受众和内容。与 ENS 域名类似，你的个人资料可以在市场上进行交易。
+
+![](https://img.foresightnews.pro/202303/83b2ebb138e12daee10fc315a22034d9.jpeg?x-oss-process=style/scale70)
+
+  
+
+
+Lens Protocol 的领投方是 FTX，但可能还有其他尚未公布的 VC。并且未来有可能会有新的投资轮次。
+
+由于该协议有向 DAO 的过渡以及未来启用协议费用的计划，因此 $LENS 代币空投似乎是有可能的。
+
+请按照以下步骤增加你获得空投的机会。
+
+• 如果你符合条件，可以申请个人资料（https://claim.lens.xyz） 
+
+• 或者在 Opensea 上购买一个，底价约 160 美元（https://opensea.io/collection/lens-protocol-profiles）
+
+![](https://img.foresightnews.pro/202303/c2cd97010eb9aa86eeaef444914bef17.jpeg?x-oss-process=style/scale70)
+
+  
+
+
+![](https://img.foresightnews.pro/202303/83b2ebb138e12daee10fc315a22034d9.jpeg?x-oss-process=style/scale70)
+
+  
+
+
+交互部分基于 Lens Protocol 的 dApp。
+
+• 打开 https://lensfrens.xyz，并连接钱包 
+
+• 使用你的 Lens 个人资料关注其他人（建议关注超过 50 人）
+
+![](https://img.foresightnews.pro/202303/3f23af268a9e31d6df227251a958603a.jpeg?x-oss-process=style/scale70)
+
+  
+
+
+• 打开 https://lenster.xyz，并连接钱包
+
+• 自定义编辑你的个人资料，添加你的 Twitter
+
+• 定期发帖 
+
+• 点赞 / 评论其他帖子 
+
+![](https://img.foresightnews.pro/202303/c150f74f24821e0e6bdc8f2dd2f2fe39.jpeg?x-oss-process=style/scale70)
+
+  
+
+
+• 打开 https://lenstube.xyz
+
+• 连接个人资料
+
+• 发布视频
+
+• 定期点赞 / 评论其他视频，保持活跃
+
+![](https://img.foresightnews.pro/202303/107e0f25a553e5815f7576f10c80a950.jpeg?x-oss-process=style/scale70)
+
+  
+
+
+• 打开 https://memester.xyz 
+
+• 连接个人资料 
+
+• 创建模因
+
+• 收集和评论其他模因
+
+![](https://img.foresightnews.pro/202303/c39db04ca55082d8b6733276133da151.jpeg?x-oss-process=style/scale70)
+
+• 打开 https://lensport.io，并连接钱包 
+
+• 交易你的帖子 
+
+• 铸造其他帖子
+
+五、Scroll
+--------
+
+Scroll 是以太坊上基于 zkEVM 的 zk-Rollup，它可以原生兼容现有的以太坊应用程序和工具。这对开发人员来说是一件非常有用的事情，可以节省他们很多时间并让他们的工作更轻松。
+
+该项目从 VCs 筹集了 8000 万美元，包括 PolyChain、红衫资本、Variant Fund。
+
+![](https://img.foresightnews.pro/202303/8bb6b230d9b22d0eca197f4d8e54a267.jpeg?x-oss-process=style/scale70)
+
+  
+
+
+Scroll 有可能为它们的早期用户提供慷慨的空投。
+
+将 Goerli 测试网 和 Scroll Alpha 测试网添加到 Metamask 中（在 http://scroll.io/alpha 一键添加）
+
+![](https://img.foresightnews.pro/202303/7a7e5b2ba4b110a91ea096ddbb4f65e1.jpeg?x-oss-process=style/scale70)
+
+  
+
+
+• 在 Goerli 上获取 ETH 测试币（http://goerlifaucet.com）
+
+• 从 Goerli 测试网将 ETH 测试币跨链到 Scroll Alpha 测试网（http://scroll.io/alpha/bridge）
+
+![](https://img.foresightnews.pro/202303/41baa73c8dd99a720cd6865459f864ce.jpeg?x-oss-process=style/scale70)
+
+  
+
+
+• 将 ETH 换成代币 
+
+• 添加流动性
+
+![](https://img.foresightnews.pro/202303/f7629f4d2c9b022c49e50d213ddd81b8.jpeg?x-oss-process=style/scale70)
+
+  
+
+
+六、Base
+------
+
+Base 是一个安全、低成本、对开发人员友好的 L2 区块链，旨在将更多 Web2 用户带入 Web3。Base 将作为 Coinbase 的「链上家园」和任何人都可以使用的开放生态系统。
+
+Base 由 Coinbase、Optimism 这两个行业巨头共同打造，它们的丰富经验将有助于确保项目的成功。
+
+Base 团队表示不会有 $BASE 代币，但我们知道其他 L2 如 Arbitrum 或者 Optimism 在为活跃用户空投之前也这样说。
+
+• 在 Metamask 中添加 Goerli 测试网（https://chainlist.org/?search=goerli&testnets=true）
+
+• 获取 ETH 测试币（https://goerlifaucet.com） 
+
+• 在 MetaMask 中添加 Base Goerli 测试网，使用 Chainlist 一键添加（https://chainlist.org/?search=base+goerli&testnets=true）
+
+• 打开 https://bridge.base.org/deposit，连接钱包 
+
+• 将 Goerli 测试网的 ETH 测试币，跨链到 Base Goerli 测试网
+
+![](https://img.foresightnews.pro/202303/95d1c988710a3785f2f2acab6957f1ba.jpeg?x-oss-process=style/scale70)
+
+  
+
+
+• https://rinkeby.orbiter.finance/?dest=zkSyncEra(G)&source=Base(G)&sources=&dests=
+
+• 对不同的链进行多次跨链（在不同的时间里，总共交互超 50 笔交易）
+
+![](https://img.foresightnews.pro/202303/ecb08c7d77a958fee6d9b60863209454.jpeg?x-oss-process=style/scale70)
+
+  
+
+
+https://layer3.xyz/quests/intro-to-base
+
+![](https://img.foresightnews.pro/202303/067b13cb6475eff35819231cadb581fe.jpeg?x-oss-process=style/scale70)
+
+  
+
+
+• 前往 https://guild.xyz/buildonbase
+
+• 连接您的钱包和账户
+
+• 完成任务
+
+![](https://img.foresightnews.pro/202303/62ec0cc6f72ced91a43fdcb6342e91ad.jpeg?x-oss-process=style/scale70)
+
+  
+
+
+![](https://img.foresightnews.pro/202303/742db182266ec9c043abb62511ccd65b.jpeg?x-oss-process=style/scale70)
+
+  
+
+
+• http://opensea.io/collection/base-introduced ($4.3)
+
+• http://opensea.io/collection/base-subscription ($2.6)
+
+七、ZetaChain
+-----------
+
+ZetaChain 是一个 L1 区块链，支持全链、通用智能合约和任何区块链之间的消息传递。
+
+![](https://img.foresightnews.pro/202303/f8ddf5b8de1f6a30f7644931f60bc9e0.jpeg?x-oss-process=style/scale70)
+
+  
+
+
+融资信息暂未公开，但 Delphi、Amber Group、The Soartan Group 都关注了 ZetaChain 的推特账号。这些 VCs 可能投资了 ZetaChain。
+
+要获得 $ZETA 空投的资格，遵循以下步骤：
+
+• 在 Metamask 中添加 Goerli testnet 网络（https://chainlist.org/?search=goerli&testnets=true）
+
+• 获取 ETH 测试币（https://goerlifaucet.com）
+
+• 在 Metamask 中添加 Polygon Mumbai 测试网（https://chainlist.org/?search=mumbai&testnets=true）
+
+• 获取 MATIC 测试币（https://goerlifaucet.com）
+
+• 打开 http://labs.zetachain.com/get-zeta，并连接钱包
+
+• 点击「获取资产」
+
+对于此任务，你每周将获得 7,000 ZetaPoints。所以不要忘记每周重复一次交易。
+
+• 打开 http://labs.zetachain.com/swap，并连接钱包
+
+• 将一种资产从一个网络，交换为另一个网络的另一种资产
+
+![](https://img.foresightnews.pro/202303/fd2f0fa7e7c00fd39654395f5b65fbd4.jpeg?x-oss-process=style/scale70)
+
+http://galxe.com/ZetaChain/campaign/GCatUUwYSY
+
+https://crew3.xyz/c/zetachain/invite/pEpGZI\_HGMl0LRIIN50uy
+
+八、Fuel
+------
+
+Fuel 是最快的模块化执行层，可提供最大的安全性和灵活的吞吐量。这是通过以下方式实现的：
+
+• 并行事务执行 
+
+• Fuel 虚拟机 (FuelVM) 
+
+Fuel Labs 在 Blockchain Cap 和 Stratos 领投的一轮融资中筹集了 8000 万美元。
+
+Fuel 生态系统不断发展，现在已经有 30 多个 dApp 构建在其中。
+
+dApp 列表：https://fuel.build
+
+Fuel 可能会向基于其区块链的关键项目的用户空投 $FUEL。
+
+![](https://img.foresightnews.pro/202303/ac1049db7df0a63ed82478c83606f368.jpeg?x-oss-process=style/scale70)
+
+  
+
+
+• 打开 https://wallet.fuel.network/docs/install/
+
+• 下载钱包
+
+• 转到 Chrome 扩展程序并打开开发模式
+
+• 拖拽钱包的 ZIP 文件进行安装
+
+![](https://img.foresightnews.pro/202303/5627b4e0a0399805ce1b935556ed020b.jpeg?x-oss-process=style/scale70)
+
+  
+
+
+• 打开 https://faucet-beta-3.fuel.network
+
+• 输入钱包地址
+
+• 前往 https://wallet.fuel.network/docs/how-to-use/
+
+• 向下滚动并点击「连接」
+
+• 向下滚动并与「绿色按钮」互动
+
+![](https://img.foresightnews.pro/202303/d24dddd5cc5c3674a5d9ce5a25c10581.jpeg?x-oss-process=style/scale70)
+
+  
+
+
+• 在 SwaySwap 上交易、添加流动性。（https://fuellabs.github.io/swayswap/）
+
+• 测试 Fuel 上的 NFT 市场 Thunder，申请内测：https://q26om88816b.typeform.com/to/uq4trEq3?typeform-source=medium.com
+
+九、Shardeum
+----------
+
+Shardeum 是一个基于权益证明（PoS）和法定人数证明（PoQ）共识机制运行的 L1 区块链。由于动态状态分割，Shardeum 可以提供非常低的 Gas 费用，同时保持真正的去中心化和可靠的安全性。
+
+![](https://img.foresightnews.pro/202303/5d6fcf739e60e0984ed81c5a87582d97.jpeg?x-oss-process=style/scale70)
+
+  
+
+
+该项目在 TheSpartanGroup 领投的种子轮融资中筹集了 1800 万美元。
+
+$SHM 代币经济学：
+
+• 最大供应量：5.08 亿枚代币
+
+• 51% 社区 - 对节点的奖励
+
+• 18% 销售 
+
+• 15% 团队
+
+• 11% 基金会
+
+• 5% 生态系统
+
+![](https://img.foresightnews.pro/202303/4d8560c014369d453940ebc597f617b3.jpeg?x-oss-process=style/scale70)
+
+  
+
+
+Shardeum 提供了大量赚取 $SHM 代币的机会： 
+
+• 51% 的代币分配给社区作为运行节点的奖励。
+
+• 5% 的代币分配给 Shardeum 生态系统的用户。
+
+方法如下。
+
+• 添加 Shardeum Liberty 1.X 测试网（https://chainlist.org/chain/8080）
+
+• 添加 Shardeum Liberty 2.X 测试网（https://chainlist.org/chain/8081）
+
+• 加入 Discord（https://discord.gg/shardeum）
+
+• 进入水龙头 1.6 和 2.1 频道
+
+• 填写钱包地址
+
+• 在 Swapped Finance 上交易、添加流动性。（https://app.swapped.finance/swap）
+
+• 在 NFT 市场 Spriyo Market 上铸造 NFT。（https://spriyo.xyz）
+
+• 在域名服务 Dotshm Domains 上注册一个域名。（https://dotshm.me）
+
+运行节点的空投已经确认。如果你是开发者，请查看官方关于设置节点的指南：
+
+https://docs.shardeum.org/node/run/validator
+
+十、Rage Trade
+------------
+
+Rage Trade 正在构建流动性最强、可组合且唯一的全链杠杆协议（由 UNI v3 提供支持）。
+
+确切的投资规模尚未公布，但它获得了 CMS Holdings、Zee Prime、Robot Ventures 等 VCs 的投资。
+
+![](https://img.foresightnews.pro/202303/cc853ef206177f7b3e3abe1acd5046af.jpeg?x-oss-process=style/scale70)
+
+  
+
+
+Rage Trade 团队多次暗示将有 $RAGE 空投给用户。此外，通过使用 Rage Trade，你将有机会同时获得 $RAGE 和 $ZRO 空投，该协议也适用于获取 LayerZero 空投。
+
+按照以下步骤交互，增加空投机会：
+
+• 进行交易（建议在 1-2 周内至少进行 5-10 次交易，每笔交易的价值不应低于 100 美元）
+
+• 将 $USDC、$GLP 和 $ETH 存入金库。Rage Trade 有两种类型的金库：Risk-On 和 Risk-Off。Risk-On 金库有风险，但同时它提供了更高的 APY。如果你只想获得空投，我建议将 $USDC 存入 Risk-Off 金库。
+
+• 90% 的 Rage Trade 用户在金库中存入的资金少于 1,000 美元，因此我建议您至少存入 1,100 美元，才有资格获得空投。
+
+![](https://img.foresightnews.pro/202303/ea6fc70c03419d1e690654f9e3c08e6a.jpeg?x-oss-process=style/scale70)
+

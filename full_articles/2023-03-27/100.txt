@@ -1,0 +1,32 @@
+![](https://img.foresightnews.pro/202303/a9b5753963977e03899b17f817e85328.gif?x-oss-process=style/scale70)### 
+
+摘要：这是 12 个独立的系列故事「各种 Web3 项目（包括众筹平台、NFT 、 DeFi 和游戏）如何解决去中心化社区建设」中的第 2 篇。您可以点击下方链接阅读有关所有项目见解的汇总概述。（https://mirror.xyz/bethanymarz.eth/AaD1J972TKT9xhzSNVFH7hCgfucB5BiQp4nWPwfyYho）  
+  
+**Juicebox 社区概要**### **去中心化程****度：**
+
+完全去中心化 ⬤ ⬤ ⬤ ⬤ ⬤ 完全中心化**创始起源：Sharks, Nouns 以及美国宪法**2021 年秋，peri 与  jango 悄然推出了一个名为 Juicebox 的全新加密原生众筹平台。这种可编程的资金库可以让投资者们按贡献获得定制代币奖励，从而获得所投资项目中的所有权。从 jango 与 peri 各自发家故事的分享中，可以了解到该项目的灵感源于 jango 之前的工作经历，他当时在 Slack 与 iOS 系统开发人员一起做 Web2 项目。他表示：「我们并不关注价格、商业模式以及广告等等这些。我们只是想建立一个组织，但又不希望组织还是用户作为消费者，贡献者作为生产者获得收益的结构。因为我们觉得使用软件的伙计们也是参与组织建设的一部分。」当他们认识到最好的办法就是放弃 Web2 的理念后，便开始深入研究 Web3 架构了—— Juicebox 应运而生。确实，众筹平台的成功很大程度上归功于参与项目生态系统中的用户。有两个大型项目在初始阶段注资：一个是 SharkDAO（集体竞购 Nouns NFTs 的 DAO 组织），另一个是 Constitution DAO（发起了在苏富比拍卖会上竞标美国宪法副本的快闪活动）。这两个悄然兴起的社区中，Juicebox 团队通过增加「你说的都对，请继续」的影响力（从即兴喜剧团体普及开来的一种话术）并提供平台的机制，让每个社区都能达成它们的目标。短短 7 天，仅 Constitution DAO 就通过该平台收益折合约 4700 万美元的以太坊，并在 Verge 等出版物中占据了科技版的新闻周期，甚至登上了《华尔街日报》的头版。最后，约有 17000 多人围观，其中 5% 未了解过加密货币领域。突然之间去中心化所有权和资金成为焦点，这还只是开始。Juicebox 的一些热门项目特别显示在官网主页上：https://www.juicebox.money/![](https://img.foresightnews.pro/202303/808438886f3e49c4ce07089ab9fbd0b0.png?x-oss-process=style/scale70)  
+  
+**项目现状**Juicebox 通过这两个大型的初始项目所获的关注促进了产品研发与人才招纳。截止 2022 年 7 月，共有 37000 多名独立用户通过 Juicebox 为 700 多个项目献力, 其主页包括 AssangeDAO 和 MoonDAO 等项目。该团队在用户体验和开发生态系统方面不断调整和迭代——实现了理想的平衡。如今，Juicebox 不仅是对于用户（通过 Notion 网页），对开发人员（只需几分钟就可以找到他们的网站源代码、GitHub 问题和产品蓝图）来说也是透明、公共文档以及入门材料最清晰的典范之一。值得关注的是，根据 Dune Analytics 平台数据，除去生态系统的开放性和社区规模（Discord 中有 12000 多名成员），其核心贡献者相对较少，只有约 17 人。如其协议文档中所示，「Juicebox 协议是一个可编程的资金库。该协议既可以轻巧地在朋友间使用，也可以十分强大，足以服务于共享数千个 ETH、ERC-20 或其他资产的全球匿名网络群体。」如今，JuiceboxDAO 维护者一个「开放的贡献政策」，即鼓励提案，涵盖不同「重点领域」或分管不同项目部分的群体，比如从前端开发商 Peel 到管理其视觉识别的 WAGMI Studios。新人贡献者从完成任务开始，通过为他们进行的工作申请定期报酬的提案，不断升级打怪。  
+**成功背后**在 Web2 中，API 文档是促进招纳开发人员的重要因素，而在  Web3 中，Juicebox 的团队似乎早就意识到，其社区公开的内容越多，就会吸引越多的开发者。毕竟，「物以类聚」，这种对透明度的关注也体现在他们的治理理念中，是他们的一大超能力。就构建者、用户和 DAO 成员的文档而言，Juicebox 是一个很出色的项目。链接在此：https://info.juicebox.money/user/![](https://img.foresightnews.pro/202303/345edaa197531184c7621f3504e3651e.png?x-oss-process=style/scale70)第二个促使成功的主要因素是，该项目能够触及人类心理的一个特点，即只想成为更大集体的一份子，在做一些对于一个人十分棘手的事情上尤其如此。如果，你曾同情体育赛事中的弱势方，或者对许多文学人物的「英雄之旅」感同身受，你就能明白参与一件「反常合道」的事是多么振奋人心。Constitution DAO 会让你获得肾上腺素激增的体验，就像橄榄球决赛中的「孤注一掷」和篮球赛中的「压哨得分」带来的反转胜利一样令人兴奋。Constitution DAO 的一位核心贡献者与我分享说，这是他在短短一周时间里玩得最开心的一次。「压力非常大，我每晚只能睡 3-4 小时，」penryn 在谈到苏富比竞标前的日子时说道，「但这是个极其典型的例子，每个人都不可思议地投入到大家伙儿一块儿设定的这个「荒诞不经」的目标中。我们还登上了《华尔街日报》头版——这可不是大部分人可以经历的。」
+
+  
+**如何决策****核心团队：**根据 jango 的说法，核心团队成员并不多。由于提案已获得 JBX 持有者的批准，职责就委托给个人进行日常决策、采取措施。JBX 选民在评估未来提案时需要考虑之前的决策及其结果。  
+**Juicebox DAO 成员：**JBX 代币持有者有资格在其治理过程中投票，该过程为期 14 天（包括意见流调、快照投票、多签执行以及休整期）**Juicebox DAO 贡献者：**完成任务，递交提案，并予以一次性或者定期薪酬**🌍** **Web3 三大共鸣：*** 拥有参与社区主导项目的敏捷度，并参与早期建设
+* 将公开透明且周到细致的「撸起袖子加油干」的流程贯彻文档和人才招纳中
+* 让人们自由地享受快乐
+**💡****给 Web3 创始人和建设者的建议：**了解创作者和贡献者的灵感来源是十分有益的。以下是 jango 列出的对他产生启发的书籍清单——他想分享这些书，让其他人也能在那些智慧中有所收获：* Janus: A Summing Up, Arthur Koestler
+* Man's Search for Meaning, Viktor Frankl
+* Architecture of Happiness, Alain de Botton
+* Immoderate Greatness: Why Civilizations Fail, William Ophuls
+* DAO of Capital, Mark Spitznagel.
+* Americana, Bhu Srinivasan.
+特别感谢 @jango 与 @penryn 对本文的贡献。作为本研究的一部分，您还可以查看所有项目的全文和参考资料库。  
+作者：Bethany翻译：JG校对：jomosis1997排版：Qiao  
+审核: SuanNai![](https://img.foresightnews.pro/202303/c5fa9704185a28c5bbb2354825f45483.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/3850b019fea7f501431824d75c4e4d5d.jpeg?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/8502ae821de5d5f2e3c377b76abfe244.png?x-oss-process=style/scale70)
+
+  
+  

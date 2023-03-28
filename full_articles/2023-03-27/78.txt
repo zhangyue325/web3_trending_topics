@@ -1,0 +1,28 @@
+![](https://img.foresightnews.pro/202303/8763a5eff421f734058f3d5e054aca18?x-oss-process=style/scale70)💡 *Web3 正在加速发展，Arweave 作为基础设施将被更多的开发者采用，创造一个全新的、更加丰富多彩的生态系统。 PermaDAO 正是为此而建立起来的共建者社区。所以参与的人都能在这里找到自己的角色来贡献 Arweave 生态，任何关于 Arweave 的提案与任务都可以发布于此，并得到整个社区的支持与回馈。* [*加入 PermaDAO*](https://www.notion.so/PermaDAO-052d694af9f841f1a07916df7f9d19b7)*，建设 Web3！*
+
+ChatGPT-4 的发布代表着 AI 领域的新突破，这一技术变革十分激动人心。而 PermaDAO 所在的 Arweave 生态同样承载着宏伟的使命，我们也迫切地希望 web3 的技术变革能够找到节奏，真正地推动世界朝着更加美好的方向发展。
+
+### 工作量一览
+
+上周，PermaDAO：
+
+* [内容公会](https://permadao.com/e9d5bbfe68a6457cb8ccf7e4badeaed1)共完成了 46 项任务
+* [翻译组](https://www.notion.so/Translation-2d0b313af6fe425b81535a33cecb98a0)完成了 16 篇文章的翻译任务
+* [策划组](https://permadao.com/4df13eb77ee84970b47ea15b7de3ff9f)完成了 2 项任务
+* [投稿中心](https://permadao.com/Submission-64f2fa9175924d7eb95593ca68e8fdf6)通过了 28 篇生态内容文章投稿
+* [活动公会](https://permadao.com/Operational-Activities-700bff8d61044229b486d76f5be05aec)发起了 34 项活动
+* [研发公会](https://permadao.com/Development-151ef30f13794430aebf15343d314a1e)完成了 4 项任务
+* [品宣公会](https://permadao.com/Promotion-7a29d29fdc7542bba3d5f695f48db87f)进行了 240 篇文章的宣发。
+PermaDAO 为努力贡献的自愿者们发放了 **424.4** 枚 $AR 代币，希望自愿者们再接再厉！
+
+### 重要事件
+
+1. PermaDAO 发放首个二级 grant 资助去中心化法律组织 LegalDAO。未来 LegalDAO 将使用 PermaDAO 孵化的 Arseeding 工具将法律文件永久存储至 Arweave，确保所有法律业务过程中的资料永存且不可篡改。PermaDAO 也将不断为更多优秀的项目组织发放 grant 以传播 Arweave 永存共识。
+2. PermaDAO 与 DAOrayaki 线上策展直播分享顺利进行！第一、二期直播在腾讯会议与 Binance Live 双平台同步进行，最高实时观看量超 1,100 人次，感谢大家的支持！本次系列直播分享将持续至 4 月中旬，欢迎保持关注。
+3. 由 PermaDAO 研发公会内部孵化的存储项目 Weweave Beta 正式上线！Weweave（薇薇存储）支持即存即取以及多 token 支付，用户可以实时浏览上传的文件，无需等待链上确认。访问 [weweave.xyz](http://weweave.xyz) 立刻体验。
+4. PermaDAO 支持的 OpenBuild 黑客松开启报名！奖金最高达到 $4,000USD。欢迎对本次黑客松感兴趣的小伙伴在社区内咨询报名。
+感谢各位自愿者为 PermaDAO 作出的贡献！我们期待着各位在接下来的一周里可以发挥更大的作用，与社区一起推动 PermaDAO 发展，携手跨越技术革新的边界！
+
+🔗 **关于 PermaDAO 更多信息：**[**Website**](https://www.notion.so/PermaDAO-OLD-4c0bd73f5a1c4410ad72a32e1718ebb6) **|** [**Twitter**](https://twitter.com/perma_daoCN) **|** [**Telegram**](https://t.me/+UEnIssIHTn0wZDc1) **|** [**Discord**](https://discord.gg/y6CmaAdVD8) **|** [**Medium**](https://medium.com/@permadao) **|**[**Youtube**](https://www.youtube.com/@permadao)
+
+![](https://img.foresightnews.pro/202303/37b2fe2f4bca965344971ce38c970796?x-oss-process=style/scale70)![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=b714b0d0e276)

@@ -1,0 +1,19 @@
+![](https://img.foresightnews.pro/202303/b1d215e630be34addd43c0cd4b6bf49f.png?x-oss-process=style/scale70)
+
+4月13日上午，由HashQuark与2023香港Web3嘉年华联合主办的“Node Validator As a Service”主题论坛将在活动现场分会场四精彩呈现。  
+
+
+2023 香港 Web3 嘉年华 Node Validator As a Service 主题论坛特别邀请全球区块链节点验证、安全保护、资产管理等领域的知名公司负责人及区块链经济学方向的专家学者参与讨论，分享真知灼见。
+
+目前，HashKey Group 市场及客户策略经理 Jason Li、Forbole 首席执行官兼联合创始人 Kwun Yeung、BlockBeats 编辑 Jack、HashKey Group 及万向区块链首席经济学家邹传伟、Persistence One 创始人兼首席执行官 Tushar Aggarwal、Ebunker 创始人 Allen Ding、Frax Finance 中国区总裁 Kevin Wang、Klaytn Foundation 技术推广负责人 Neo Yiu、HashQuark CEO Leo Li、ssv.network 业务发展主管 Matthias Ang、HashQuark CMO Dora Luo、阿里巴巴达摩院基础视觉团队总监赵德丽、Trust Wallet 首席执行官 Eowyn Chen，Consensys 全球战略总监 Shuyao Kong、Ince Capital 创投 Czhang、Ledger Enterprise APAC 总经理 Andrew Leelarthaepin 及 Slowmist 首席技术官 Blue（按嘉宾演讲顺序排列）等已确认出席并担任演讲嘉宾。
+
+在区块链网络中，节点验证是非常重要的一环。随着区块链技术的普及和应用场景的扩大，越来越多的企业和机构开始关注节点验证服务的可靠性和安全性。相关项目和公司也通过不断创新和优化服务，致力于为用户提供更加安全、高效、低延迟的节点验证服务。
+
+同时在区块链经济学中，节点验证服务也扮演着至关重要的角色，因为它不仅可以保证交易的安全性和透明度，还可以促进社区的协作和共识，从而推动整个区块链生态系统的发展。此外，通过节点验证服务，用户还可以获得更多的经济激励，使得社区，甚至整个生态和经济环境更加活跃和繁荣。
+
+然而，当前区块链节点验证服务面临着技术、法律、市场等多方面的挑战。如何在保证安全性的前提下，提高节点验证服务的效率和可扩展性，以适应日益增长的用户数量和交易量？如何通过技术加强隐私保护、智能合约安全以提升整个生态系统的可靠性和稳定性？如何让节点验证服务与其他 Web3 技术和应用场景相结合，以实现更多的创新和协同效应？等关键话题都将是 2023 香港 Web3 嘉年华 Node Validator As a Service 主题论坛关注的重点内容。
+
+期待与更多关注区块链节点验证服务及区块链经济学的小伙伴相约 2023 香港 Web3 嘉年华 Node Validator As a Service 主题论坛，共探机遇与未来！
+
+「2023 香港 Web3 嘉年华（Hong Kong Web3 Festival 2023）」由万向区块链实验室、HashKey Group 联合主办，W3ME 承办，将于 4 月 12 日 - 15 日在香港会议展览中心举行。此次嘉年华活动持续四天，预计将吸引超过 10,000 名现场观众，超过 300 位极具全球影响力的演讲嘉宾，以及超过百家热门 Web3 项目、社区及媒体现场参展。活动将与全新推出的「国际创科营商周（Business of Innovation and Technology Week）」旗下多场活动同场举办，凸显香港作为国际创新科技中心和亚洲国际贸易展览中心的独特优势。
+

@@ -1,0 +1,34 @@
+随着主网上线临近，Manta Network 发布 MantaPay 上线、NPO 平台发布、生态项目上线、开发者 Grants 资助基金等多个重大进展。  
+让我们回顾近期重要进展。**MantaPay 上线：全行业最快的、基于 ZK 的隐私转账协议**MantaPay 是基于 ZK 技术的、支持多资产的去中心化隐私转账协议，用户可将多种类型的资产，桥接至 MantaPay，实现隐私转账。也可支持 ERC721、ERC1155 等 NFT 资产转账，及 SBT 创建。MantaPay 使用 ZK 技术，既保证转账信息 100% 无法追踪，也提供 Viewing Key ，支持用户在需要时自主披露信息。目前，MantaPay ZK 交互速度全网最快，可短至 2-4 秒。MantaPay 已正式 Calamari 上线，待 Manta Network 主网上线后，将正式于主网部署。入口：*https://app.manta.network/calamari/transact*可查看关于 MantaPay 的更多信息（[Manta Network 正式在先行网 Calamari 上线 ZK 隐私转账协议 MantaPay](http://mp.weixin.qq.com/s?__biz=MzkxMDAwMjM2Nw==&mid=2247484914&idx=1&sn=2738db9c36f3f364c875aefdbe8938c8&chksm=c1335422f644dd34917791d96dd1919b02bbf2c0fcaeb1bddd5071f8da1f9a2701c3c3b26900&scene=21#wechat_redirect)）![](https://img.foresightnews.pro/202303/2531c65d20487835dc5f5f7ccd044f01.png?x-oss-process=style/scale70)
+
+**NPO（NFT Private Offering）：基于 ZK 的隐私 NFT/SBT 发行平台**NPO 是 zkNFT/zkSBT Launchpad 平台，开发者和项目方可直接调用 API，实现 zkAddress 和 MantaPay 的 ZK 电路调用，创建隐私 zkNFTs/zkSBTs。通过 ZK 生成 Proof Key，可实现链上生成 SBT 等 DID 信息，在链下验证，甚至可以与 Web2 应用程序实现即插即用的结合。Proof Key 是一种协议，允许用户在链下验证链上 DID 身份，无需钱包，甚至移动端 App 也可轻松检查 zkSBT 身份 / 所有权。移动端应用开发人员可轻松地将 zkSBT 直接集成到 Web2 应用程序中。用户仅需将 Proof Key 复制到移动端 App 中，与链上身份对应即可。可查看关于 NPO 的更多信息（[Manta Network 推出基于 ZK 的隐私 NFT/SBT 发行平台 NPO（NFT Private Offering）](http://mp.weixin.qq.com/s?__biz=MzkxMDAwMjM2Nw==&mid=2247484938&idx=1&sn=715f0c47fd9956c86faf0b15804b125a&chksm=c13357daf644deccdda46cb846a28334c1622ba2bbc397791c248947c6ef0a882f522d0f5e21&scene=21#wechat_redirect)）![](https://img.foresightnews.pro/202303/2b11c44abdad5b842066aff2b08bacad.png?x-oss-process=style/scale70)
+
+**Ultiverse、Asmatch 加入 Manta Network 生态**Ultiverse 是币安和红杉支持的 3A 游戏元宇宙。旗下游戏 MetaMerge 将通过 NPO 发行 zkNFT/zkSBT。带有隐私属性的 zkNFT/zkSBT 将为游戏带来更多可玩性。Asmatch 是 Free to Play，Match to Earn 的星盘社交应用，使用 ZK Proof Key，将用户链上身份应用至链下 App 中。目前 Asmatch 早期支持者身份领取中：*https://guild.xyz/asmatch*。![](https://img.foresightnews.pro/202303/5530976144732520da9bd46727310661.png?x-oss-process=style/scale70)
+
+**Grants 基金资助计划，Manta 生态开发者可申请资助**Manta Network Grants 旨在资助 Manta 生态项目开发者，使更多开发者可以基于 Manta 开发更多应用，可通过该表单提交申请：*https://docs.google.com/forms/d/e/1FAIpQLSc9xaJwJ8ZFJsO0GTQhnpMisdPFbnvfmI-aV2XAM9H2HTPwlw/viewform* 。任何 Manta 生态开发者，都有机会获得 Grants 资助。Grants 分配完全由 Manta 社区治理决定。可查看关于 Grants 的更多信息（[Manta Network 发布 Grants 基金资助计划，Manta 生态开发者可申请资助](http://mp.weixin.qq.com/s?__biz=MzkxMDAwMjM2Nw==&mid=2247484946&idx=1&sn=a13260d84bb85fea6849a6a6474ac54f&chksm=c13357c2f644ded42869fcf6826f0f8f6700ef0df19f4781aa448764e1cd0b2913d7fd0b5c8e&scene=21#wechat_redirect)）除资金支持外，我们还可提供多种资源支持。![](https://img.foresightnews.pro/202303/9d3b51eb2ac435a7a57cadbf2ad6aca8.png?x-oss-process=style/scale70)
+
+**技术资源**参与资助计划的项目，将与 Manta 核心工程团队直接沟通，获得帮助。您可以提出问题，获得直接反馈，并及时解决问题。**资金资源**提供资金支持。**市场营销和增长资源**开发者可与 Manta 核心团队安排每周会议，就市场营销和增长战略进行咨询。Manta 还会邀请项目进行联合营销活动，提高生态项目增长和曝光。**合作资源**Manta 将帮助开发者与外部资源联系，以寻求合作和推广机会，以便最好地推动增长。在目前阶段，我们特别关注以下类别的项目：
+
+1/ SocialFi 移动应用程序2/ GameFi 移动应用程序3/ 跨链桥解决方案4/ 隐私导向的 DeFi 解决方案  
+
+
+****Giant Squid ：**KMA 持有者激励计划**
+
+活动期间，满足任意 10 天 KMA 平均持仓要求的用户，可进入 http://Galxe.com，切换至 BNB 链，验证 KMA 平均持仓量，领取代表身份的 NFT 奖励。 活动网址：*https://galxe.com/calamarinetwork/campaign/GCTmWUg4C4*近期，Manta Network 生态还有更多进展即将宣布，欢迎大家持续关注。可关注 Manta Network 中文社区推特，获得更多、更一手信息：*https://twitter.com/manta\_china*  
+**关于 Manta Network**
+
+Manta Network 是基于 ZK 的 Layer1 公链，拥有最高的 Prover 效率和最去中心化的可信设置，致力于为 Web3 带来可编程隐私。核心产品和技术组件，包括 zkNFTs 和 MantaPay 等等，为用户提供友好的、可访问的、强大 ZK 应用。 
+
+项目创始团队履历丰富，来自哈佛大学、麻省理工学院和 Algorand 等著名机构。团队自 2019 年在麻省理工学院数字货币倡议下，以及新加坡金融管理局跨境支付研究项目中，开始了对零知识证明的研究。
+
+Manta Network 已获得多家顶级 Web3 基金的投资，包括 Binance Labs 和 Polychain Capital，且通过参与最好的 Web3 加速器，包括 Alliance DAO 和 Berkeley Blockchain Xcelerator，实现发展。Manta Network 已准备作为下一代 Web3 用户的入口，开创以隐私为重点的 Web3 应用新篇章。
+
+关注官方频道了解有关 Manta/Calamari 的更多信息：Website:https://manta.network/  
+Github:https://github.com/Manta-Network  
+Twitter:https://twitter.com/MantaNetwork  
+Medium:https://mantanetwork.medium.co  
+Telegram:https://t.me/mantanetwork  
+Discord：https://discord.gg/ZtSuSKRy8X  
+Telegram 中文：https://t.me/mantanetwork\_zh  
+Twitter 中文：https://twitter.com/manta\_china  
+![](https://img.foresightnews.pro/202303/685ff7ccaf6747b2758eb353fdf487cb.png?x-oss-process=style/scale70)

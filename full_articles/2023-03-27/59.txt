@@ -1,0 +1,49 @@
+2017 年 IDO 热潮随着 uniswap 等 dex 的出现转化为了 2020 年的 Defi Summer，可见 dex 是 defi 积木中最重要的一块，能够发挥可组合性促进整体生态的繁荣。NFT Summer 的爆发是否也只差一个成熟的 NFT DEX？2022 年从 sudoswap 的上线到 uniswap 支持 nft 聚合交易，市场的目光开始聚焦在 NFT 交易模式的革新。
+
+Midaswap 是一个无需许可的去中心化 NFT MarketPlace，用户可以使用任意 ERC20 与 NFT 资产创建自己的 NFT Pool。比如构建 Bayc-Ape 的 Pool，在该 Pool 中交易者可以使用 Ape 购买 Bayc，也可以卖出 Bayc 获得 Ape。在 Midaswap 中只需要添加单边 NFT 资产或 ERC20 即可成为 LP 来赚取手续费，该操作与在 Uniswap v3 中仅需添加单边流动性一致，这降低了 LP 的准入门槛、吸纳更多的流动性。Midaswap 目前已经完成种子轮融资，获得 foresight 投资和 polygon 官方的支持，将首先上线以太坊主网，后续兼容 polygon 等。
+
+### NFT 市场的想象力不是没有打开，而是...还没有开始
+
+根据 Dune 的数据统计目前所有 NFT 的总市值约为 43 亿美元，且大部分 NFT 的定价和交易媒介是 ETH、SOL、BNB、MATIC 等 Native Token，USDT、USDC 等稳定币还未进入 NFT 市场；相比之下，稳定币市值 1369 亿美金。当稳定币逐步渗透进 NFT 的交易中时，NFT 的市场总规模将会扩大数倍，同时 native token 定价带来的价格的周期性和波动性也会随着稳定币的进入而消失。另一方面，NFT 市场的交易还不能实现类似 uniswap 等 ERC20 DEX 无需许可式交易，无论是 opensea 还是 blur 都不能支持他们组成无需许可的 NFT-ERC20 交易对，如 stepn 的 GMT-Sneaker NFT 交易对，而由于一个 gaming 项目的经济模型由多个 NFT 和 erc20 代币组成，这类交易对将会成为 NFT 市场上的一大需求。当无需许可的交易模式进入 NFT 交易中，NFT 生态也会迎来蓬勃发展。
+
+### NFT 资产种类和市值在快速发展，NFTFI 是大势所趋
+
+随着 NFT 越来越多的应用于不同的领域，市面上开始涌现出众多的 NFT 项目。但是 NFT 由于非同质化以及难以定价的特性，使得 NFT 市场始终存在流动性差的问题，这也限制了 NFT 往更大范围受众群体扩散的势能。
+
+而在解决 NFT 流动性的问题上，不同的人给出了不同的答案，一部分人采取了 NFT 传统的点对点订单薄模式，而另外一部分人则借鉴了 DEFI 的思路，用金融化的方式增加 NFT 的流动性和可组合性，来创造更好的 NFT 玩家的用户体验，后者的思路被称为 NFTFI。
+
+在 DEFI 领域核心基建产品有四个，分别是 Oracle、Lend、StableCoin 和 DEX。目前在 NFTFI 领域 Oracle 和 Lend 的解决方案已经相对成熟并已经解决了部分 NFT 流动性问题。未来伴随着 NFT 资产流动性的持续改善，蓝筹 NFT 将会直接被稳定币协议接入从而带来更大的流动性。可以说前三个解决方案已经使得 NFTFI 初具雏形，但要让 NFTFI 真正解决 NFT 的流动性问题还需要一款直接解决流动性和定价问题的核心产品：NFT DEX 。或许由于技术门槛过高的原因，目前迟迟没有一款 NFT DEX 产品能够满足市面上用户对 DEX 的需求
+
+NFTFI 目前渗透率不足 1%，且市场上并没有一款为大众提供服务的 NFTFI 产品
+
+根据 Dune 统计全球约有 425 万个活跃地址持有 NFT，其中在过去一年中有交易行为的占 40%，过去一个月有交易行为的占 7%。Opensea 是目前最大的 NFT MarketPlace 平台。它有大约 30 万个独立地址。但绝大多数用户对于 NFT 资产都只涉及到交易，并没有参与过其他金融行为。在这 30 万个独立资产中参与过 NFT 的借贷的地址数有 6363 个，参与过碎片化的地址数有 3321 个 ，参与过 NFT 衍生品的地址数有 2228 个，参与过 NFT 租聘的有 3393 个，均不超过 Holder 数量的 0.2%，不超过月交易用户的 3%。因此 NFTFI 仍然是一个小众玩的游戏，他们中的大多数人是 NFT&DEFI 的 OG、极客和鲸鱼。市面上现在并没有一款为大众提供服务的 NFTFI 产品。
+
+### NFT DEX 是 NFTFI 的核心基建，解决 NFT 流动性的关键拼图
+
+在 NFT 市场中 NFT 的非同质化导致 NFT 资产难以定价，这提高了做市商为 NFT 提供流动性的门槛。NFT 项目方募资难度高于 Altcoin 项目方，因此 NFT 项目方用于 NFT 做市的流动性很少。NFT 做市商在传统金融没有直接对标岗位，学习成本很高、人才稀缺。在交易市场中，绝大部分流动性都是做市商提供的，缺乏做市商的参与使得 NFT 市场的流动性很难从根本上得到改善。因此我们会看到很多的 NFT 项目或者 gamefi 项目因为没有做市商的参与最终因为地板价的不断走低，慢慢消失在大众的视野。
+
+Midaswap 采用的 AMM 自动做市商机制可以根据设定的定价算法自动完成资产的定价和交易，并且由 LP 来提供流动性。当传统中心化做市商由于成本、人才储备等原因无法为 NFT 市场提供流动性时，那么此时唯一可以大规模为 NFT 市场提供大量流动性服务的只有 NFT DEX。并且 NFT DEX 的大范围应用可以从根源上有效缓解 NFT 市场流动性困难问题，促进 NFT 的交易效率和交易体验。受益于智能合约的可组合性，NFT DEX 还可以与其他 NFTFI 协议进行组合，从而释放出更多的流动性。同时利用 NFT DEX 的可组合性，NFT 项目方可以结合产品构建出更多的玩法，如 Liquidity Mining、LBP 等等。因此当 NFT 市场大规模爆发时，NFT 领域的 DEX 在总交易量的占比将会超过 FT 领域的 DEX 在总交易量的占比。
+
+### 我们在建造什么
+
+Midaswap 正在构建一个去中心化的 NFT DEX，旨在让用户可以在该平台上无需许可的创建自己的 nft Marketplace，交易者以最优的价格随时买卖 NFT 资产。
+
+* Creat Pool：用户可以无需许可创建任意 NFT-FT 资产交易对，如 BAYC-ETH、BAYC-USDC 和 Land-Sand
+* Single-Side Liquidity：LP 只需要添加单边资产即可成为 LP 赚取手续费，如 LP 可以在 BAYC-ETH 交易对中添加 ETH 作为流动性，也可以添加 BAYC 作为流动性，降低了用户做 LP 对流动性要求
+* Liquidity Book：根据 Uniswap v3 AMM 算法优化而来的新一代 AMM 算法，再针对 NFT 交易场景进行了定制化改造，即继承了 Uniswap v3 对于流动性的利用效率，同时又降低了合约的复杂度和 gas 消耗
+* 统一路由购买 NFT：用户在购买 NFT 时可以同时在多个 Pool 中选择 NFT，并在支付时选择任意主流代币作为支付资产。如用户可以在 BAYC-ETH、BAYC-USDC 的 Pool 中同时选择想要购买的 NFT，并选择 UNI 作为支付资产。
+* 统一路由卖出 NFT：用户在出售 NFT 时也可以在多个 Pool 中以最优价卖出，并在收款时选择任意主流代币作为收款资产。如果用户选中自己想要批量出售的 NFT，以地板价在 Land-Sand、Land-USDC 的 Pool 中进行批量卖出，统一路由可以自动将获得的资产兑换为 ETH。
+* Liquidity Mining：LPs 添加完流动性后可以获得 LP Token，可以基于 LP Token 做 Liquidity Mining 来吸引更多的流动性
+* 可组合性：Liquidity Book 的 AMM 算法架构与 Uniswap v3 一致，LP Token 本身也是一个 ERC721 的资产，因此可以在其他 NFTFI Lending 协议中进行嵌套如 Benddao。
+详情请阅读：<https://midaswap.gitbook.io/docs>
+
+### 未来 NFTFI 将会是什么样子
+
+我们认为 NFTFI 总有一天会如同 DEFI 一样，成为加密金融领域底层的基石之一。
+
+范式转变期间总会有巨大的机会。从互联网时代到移动互联网时代，从 Facebook 到 Instagram 和 TikTok，从 Cefi 到 Defi，每次在转变中都创造了大量机会。
+
+从 Punk、BAYC 到 ENS、Lens，再到 Axie、Stepn，我们可以看到 NFT 正在逐步从加密艺术爱好者小众圈层开始破圈，快速扩大受众群体和影响范围。比特币创造了数字资产，以太坊创造了智能合约，当数字资产和智能合约第一次紧密结合创造了 Defi Summer，成为了加密金融的第一级火箭。现阶段 NFT 作为一种新型的数字资产，将借助 Nftfi 成为加密金融发展过程的第二级火箭开启 Nfifi Summer，伴随着这个进程的推进，NFT 也将走向千亿美金市场。
+
+Midaswap 将于 4 月初开启内测，在 dc 和 twitter 中密切关注活动进展和产品功能更新，来体验无需许可创建 NFT Pool,交易 NFT，并感受 NFT 的可组合性魅力。
+

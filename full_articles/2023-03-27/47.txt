@@ -1,0 +1,114 @@
+ 
+
+3 月 25 日公布的最新一期 CFTC CME 比特币持仓周报（ 3 月 15 日 - 3 月 21 日）显示，比特币标准合约总持仓量自 13472 上升至 14049，该数值两周连涨，不过暂未回到 2 月市场的平均水平。
+
+ 
+
+![](https://img.foresightnews.pro/202303/8-1679883923031.png?x-oss-process=style/scale70)
+
+ 
+
+规模最大的经销商账户多头头寸自 305 下降至 292，该数值创出近 7 周新低，空头头寸自 3881 下降至 3299，该数值创出近 15 个统计周期新低，这类账户在最新统计周期内进行了多空双向同步减持，整体持仓量出现了特别明显的下滑，虽然多单持仓占比相比上一周略有上升，但是整体持仓量的降低显示大型机构对于后市态度仍然偏悲观。
+
+ 
+
+![](https://img.foresightnews.pro/202303/8-1679883956719.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/8-1679883972118.png?x-oss-process=style/scale70)
+
+ 
+
+资管机构多头头寸自 5924 上升至 6899，该数值收复上一周跌幅的同时几乎回到了 2 月均值水准，空头头寸自 318 下降至 243，资管机构在最新统计周期内进行了净多调仓，与经销商账户的选择不同，资管机构对于后市的态度明显偏多。
+
+ 
+
+![](https://img.foresightnews.pro/202303/8-1679883989705.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/8-1679884012949.png?x-oss-process=style/scale70)
+
+ 
+
+杠杆基金多头头寸自 2551 上升至 3483，空头头寸自 6047 上升至 7746，该数值创出近 16 个统计周期新高，杠杆基金在最新统计周期内进行了多空双向同步增持，不过空单增持幅度明显更大，而且空头头寸「净额」的增长也不容小觑，杠杆基金对于后市的态度偏空。
+
+ 
+
+![](https://img.foresightnews.pro/202303/8-1679884039514.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/8-1679884050992.png?x-oss-process=style/scale70)
+
+ 
+
+大户账户多头头寸自 2030 骤降至 605，创近 14 个统计周期新低，空头头寸自 949 下降至 716，大户账户在最新统计周期内进行多空双向同步减持的同时，净持仓直接由净多转为净空，这种减仓同时的多空反转表达出了非常明确的看空态度。
+
+ 
+
+![](https://img.foresightnews.pro/202303/8-1679884063195.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/8-1679884077584.png?x-oss-process=style/scale70)
+
+ 
+
+散户多头头寸自 1248 上升至 1450，空头头寸自 863 下降至 726，散户在最新统计周期内进行了净多调仓，表现出了与资管机构一致的乐观情绪。
+
+ 
+
+![](https://img.foresightnews.pro/202303/8-1679884092631.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/8-1679884102321.png?x-oss-process=style/scale70)
+
+ 
+
+比特币微型合约总持仓量自 11001 上升至 13339。
+
+ 
+
+![](https://img.foresightnews.pro/202303/8-1679884119925.png?x-oss-process=style/scale70)
+
+ 
+
+经销商账户多头头寸自 2431 下降至 1860，空头头寸自 3849 下降至 3299，这类账户在微型合约中进行了多空双向同步减持，空单持仓占比略有上升，一定程度上巩固了这类账户在标准合约中表达的偏空思路。
+
+ 
+
+![](https://img.foresightnews.pro/202303/8-1679884159204.png?x-oss-process=style/scale70)
+
+ ![](https://img.foresightnews.pro/202303/8-1679884173139.png?x-oss-process=style/scale70)
+
+ 
+
+资管机构账户多头头寸自 212 张上升至 158 张，空头头寸自 52 张下降至 11 张，资管机构在微型合约中进行了多空双向同步减持，由于持仓绝对值不大，所以不做过度解读。
+
+ 
+
+![](https://img.foresightnews.pro/202303/8-1679884203172.png?x-oss-process=style/scale70)
+
+ ![](https://img.foresightnews.pro/202303/8-1679884224318.png?x-oss-process=style/scale70)
+
+ 
+
+杠杆基金多头头寸自 3634 上升至 4447，空头头寸自 3950 上升至 6433，杠杆基金在最新统计周期内进行了多空双向同步增持，不过空单增持幅度较大，偏空信号与标准合约一致。
+
+ 
+
+![](https://img.foresightnews.pro/202303/8-1679884236816.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/8-1679884251975.png?x-oss-process=style/scale70)
+
+ 
+
+大户多头头寸自 2201 上升至 3643，该数值创出近 18 个统计周期新高，空头头寸自 990 上升至 1448，这类账户在最新统计周期内进行了多空双向同步增持，多单创逾四个月新高的表现表达出了清晰的看多态度，这一调仓表现同样与标准合约一致。
+
+ 
+
+![](https://img.foresightnews.pro/202303/8-1679884261751.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/8-1679884271168.png?x-oss-process=style/scale70)
+
+ 
+
+散户多头头寸自 2131 上升至 2865，空头头寸自 1768 上升至 1782。
+
+![](https://img.foresightnews.pro/202303/8-1679884284693.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/8-1679884294307.png?x-oss-process=style/scale70)
+

@@ -1,0 +1,87 @@
+zkEVM 向我们释放了一个新的生态系统，它建立在最前沿的 zk 执行层上。但更重要的是，现在我们需要提前了解在该层上即将推出的优质的 DeFi dapps，以先人一步。本文将分享一些还没有发行代币的新型原生 zkEVM 协议，未来它们完全有机会成为市场的主流。
+
+Satori Finance
+--------------
+
+订单簿永续合约将成为以太坊 L2s 的重要力量。Satori Finance 拥有一个团结紧密且勇于挑战极限的团队。他们完成了 1000 万美元的融资。他们的特色是链下匹配引擎和链上结算。
+
+![](https://img.foresightnews.pro/202303/5-1679881851756.png?x-oss-process=style/scale70)
+
+Clober
+------
+
+与订单簿论点相一致，Clober 是唯一全链 EVM 订单簿。
+
+它使用了一种名为「LOBSTER」的新算法，用于高效订单匹配，以实现链上订单匹配和链上结算。
+
+![](https://img.foresightnews.pro/202303/5-1679881866168.png?x-oss-process=style/scale70)
+
+Mantis Swap
+-----------
+
+Mantis Swap 是一种新型的稳定币交换 AMM，通过独创的单边质押实现了突破。
+
+![](https://img.foresightnews.pro/202303/5-1679881884851.png?x-oss-process=style/scale70)
+
+D8X
+---
+
+D8X 正在推出一个基于池对手方的最前沿永续合约引擎。它主要产品是动态 AMM 定价模型，可确保：
+
+1. 执行价格最低；
+
+2. AMM LP 风险降低；
+
+3. LP 的资金费率配置文件增加。
+
+![](https://img.foresightnews.pro/202303/5-1679881900148.png?x-oss-process=style/scale70)
+
+Syn Futures
+-----------
+
+Syn Futures 是另一家 Polygon 原生的永续合约平台。v1 名义上的交易量已接近 190 亿美元。如今，该团队已经筹集了 1400 万美元的资金，并将很快发布 v2 版本，以便提供 NFT 杠杆交易。
+
+![](https://img.foresightnews.pro/202303/5-1679881916542.png?x-oss-process=style/scale70)
+
+Timeswap Labs
+-------------
+
+TimeswapLabs 可能是空间中最聪明的 DeFi 协议之一。想象一下完全在链上且不需要预言机的流动性借贷市场，好吧，你不必想象，TimeswapLabs 已经到来。Timeswap 也可以成为构建期权产品的基本构件。
+
+Polymarket
+----------
+
+Polymarket 最近在社区圈子里大放异彩。它围绕 Arbitrum 空投、Balaji 预测等活动话题，吸引了所有人的注意力。在我看来，Polymarket 可能在未来几个月成为领域中最大的 dApps 之一。
+
+![](https://img.foresightnews.pro/202303/5-1679881939512.png?x-oss-process=style/scale70)
+
+0Vix
+----
+
+0Vix 正在通过使用 PolygonID 的原生 zk，将链上借贷推向下一阶段。但其主要的杀手级功能是动态利率曲线。我肯定会押注他们成为 zkEVM 借贷市场的领导者。
+
+![](https://img.foresightnews.pro/202303/5-1679881950900.png?x-oss-process=style/scale70)
+
+Quickswap
+---------
+
+Quickswap，Polygon 上原生的 OG 协议，过去六个月一直在疯狂增长：
+
+* Quickswap v3 每日交易额> 5000 万美元；
+* Quickswap LP Gamma 集成；
+* QuickPerps——自过去 2 年以来，该 DEX 得到了持续的流动性，因此永续合约定能得到很好的流动性。
+![](https://img.foresightnews.pro/202303/5-1679881968429.png?x-oss-process=style/scale70)
+
+QiDao
+-----
+
+QiDao 是 Polygon 上的 OG 稳定币协议，他们的推出速度令人难以置信，并保持着去中心化稳定币领域最稳定的锚定价。
+
+许多团队都想成为全链稳定币，但 Mai 已经实现了这个目标，未来发展前景可期。
+
+![](https://img.foresightnews.pro/202303/5-1679881984152.png?x-oss-process=style/scale70)
+
+zk L2s 的新时代已经来临，我们需要仔细关注。这个领域已经取得了以往不可及的流动性，现在是将其用于创新 DeFi 的真正肥沃土地的时候了。
+
+![](https://img.foresightnews.pro/202303/5-1679881990094.png?x-oss-process=style/scale70)
+
