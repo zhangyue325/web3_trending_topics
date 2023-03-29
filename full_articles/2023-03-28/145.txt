@@ -1,0 +1,86 @@
+  
+FlashDAO
+
+读完需要
+
+3分钟速读仅需 1 分钟
+
+3 月 26 日至 4 月 12 日，M7e 元宇宙特攻队与 Social Layer、Plancker、Mask Network、ECN、togETHer、DRK Lab 等社区以「上海升级 FlashDAO」的名义聚在一起，联合举办一系列活动庆祝即将在 4 月 12 日举行的以太坊上海升级。
+
+  
+**预告：[ETH Shapella | 以太坊上海升级庆典：系列活动精彩揭幕](http://mp.weixin.qq.com/s?__biz=Mzg2ODYyNTE2Mw==&mid=2247486607&idx=1&sn=1034cf2728568cb97f248f4a702ec5e4&chksm=cea832ebf9dfbbfdce5b66e2b63a54302a8f297a31aab5640517e24cc83c4561a410b54ef1dd&scene=21#wechat_redirect)**
+
+***1***
+
+**前天 3 月 26 日 | Kick-Off 对谈：作为公共物品的以太坊**
+
+![](https://img.foresightnews.pro/202303/a7868627d10a8f766e2b18e1f0255061.jpeg?x-oss-process=style/scale70)
+
+3 月 26 日 21 点，Twitter Space 小型对谈，启动 SHANGHAI UPGRADE CELEBRATION。内容主要介绍本次纪念活动的形式、内容和参与方，讨论以太坊上海升级和「公共物品」，全程录音拷贝链接在推特打开收听：https://twitter.com/SocialLayer\_im/status/1639971933201764352?s=20  👏 👏
+
+***2***
+
+**明天 3 月 29 日 | Plancker 登船系列 #00：用费曼学习法读以太坊白皮书**
+
+![](https://img.foresightnews.pro/202303/aa2205505e20625355cb5402ce3040ca.png?x-oss-process=style/scale70)
+
+⌚️ 时间： 3/29（周三）20:00 (UTC+8)
+
+🔥 介绍： 深入浅出分享以太坊白皮书内容
+
+📚 内容：
+
+
+> 1. 以太坊的底层是怎样的？
+> 2. Vitalik 为何在了解 Bitcoin 之后希望创建一个执行智能合约的机器？
+> 3. 它和 Bitcoin 又有何不同？
+> 
+
+🍃 会议链接：https://us02web.zoom.us/j/82018700610 
+
+会议号：820 1870 0610 密码：plancker
+
+***3***
+
+**明天 3 月 29 日 | ECN 播客访谈：上海升级与 LST**
+
+![](https://img.foresightnews.pro/202303/6f4c481b657438bdece3ccc7571f6157.jpeg?x-oss-process=style/scale70)
+
+ECN 有幸邀请了重要的流动性质押提供商 Lido、Rocket Pool 和 StakeWise 的代表做客 ECN Podcast，详细聊聊他们对以太坊上海升级影响的看法，Lido 的 V2 升级、Rocket Pool 的 Atlas 升级、StakeWise 的 V3 升级有哪些重要内容，质押行业将迎来哪些创新等。
+
+如果对这些问题感兴趣，或者有更多问题想要被讨论和解答，欢迎进入 ECN discord 的 #shanghai-upgrade 频道进行提问。
+
+ECN discord： http://dsc.gg/ecn
+
+这三期播客的录制时间为：
+
+**🕛 3.29 StakeWise**
+
+**🕛 4.3 Rocket Pool**
+
+**🕛 4.6 Lido**
+
+***4***
+
+**后天 3 月 30 日 | Crypto Tech Night：以太坊上海升级**
+
+![](https://img.foresightnews.pro/202303/30c8e409a2b9c6ed51c4f79eae1b5222.jpeg?x-oss-process=style/scale70)
+
+以太坊上海升级庆典系列的 Tech Track，本周四（3/30）晚 19:30 开启 Crypto Tech Night，欢迎参加[庆祝]
+
+👀 什么是以太坊上海升级 ？其中包含的 EIP 的技术内容是什么？对以太坊生态会有什么样的影响？来跟 CTN 一起学习！
+
+Space： https://twitter.com/CryptoTechNight/status/1639991999649677315
+
+腾讯会议： https://meeting.tencent.com/dm/XZkpoe4THbGL
+
+  
+
+
+**ETH SHANGHAI UPGRADE CELEBRATION 后续活动预告，敬请关注：**  
+
+
+[![](https://img.foresightnews.pro/202303/88ac017666c483d4181b57aae162743c.png?x-oss-process=style/scale70)](http://mp.weixin.qq.com/s?__biz=Mzg2ODYyNTE2Mw==&mid=2247486607&idx=1&sn=1034cf2728568cb97f248f4a702ec5e4&chksm=cea832ebf9dfbbfdce5b66e2b63a54302a8f297a31aab5640517e24cc83c4561a410b54ef1dd&scene=21#wechat_redirect)
+
+**点击「阅读原文」直达纪念官网**
+

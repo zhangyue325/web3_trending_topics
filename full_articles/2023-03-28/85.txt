@@ -1,0 +1,38 @@
+1/ 打开：https://manta.network/ 官网，右上角 “Go to App”，进入 MantaPay 应用。![](https://img.foresightnews.pro/202303/5aaacec4d98795f4dbae16e8ab1bc823.png?x-oss-process=style/scale70)
+
+2/ 右上角分别点击 Connect Signer 和 Connect Wallet。Signer 是 Manta Network 开发的 ZK 证明快速生成插件，可将 ZK 交互缩短至 2-4 秒，是目前最快的 ZK 交互体验。下载 Signer 后，按步骤注册，并记好助记词，Signer 会为用户分配基于 ZK 的、可复用的隐私地址 zkAddress。未来，Signer 可能会变为独立钱包，请务必保管好助记词。![](https://img.foresightnews.pro/202303/3a3849d76a8381d2ed1ad17eefccc71e.png?x-oss-process=style/scale70)
+
+3/ 钱包链接推荐使用 Subwallet，操作体验更接近 Metamask，使用也更为便捷。尽管 Manta Network 是基于 ZK 的隐私 Layer1 公链，由于前期开发使用 Substrate 框架，所以可使用波卡钱包登录。当前，Manta Network 正在开发独立钱包，并计划于近期上线。点击 “Allow use on any chain”，点击 “Custom Networks”，搜索框输入 “Calamari”，点亮。![](https://img.foresightnews.pro/202303/cd7509a38720205bd1c39d3c40f71b9e.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/4539406fd049910666387b9580d55a82.png?x-oss-process=style/scale70)
+
+4/ 依旧点击 “Allow use on any chain”，选择 Calamari Parachain。![](https://img.foresightnews.pro/202303/1726d7f54955425ad742ca870e132ba4.png?x-oss-process=style/scale70)
+
+5/ 右上角点击 “zkAddress” 和 “Account1”，可查看 ZK 隐私地址和普通地址情况。![](https://img.foresightnews.pro/202303/2ace250073f4a498ec2dd9c70eb080dc.png?x-oss-process=style/scale70)
+
+6/ 可从 Kucoin、Gate、MEXC，购买 KMA，并提现到链上 Calamari 普通地址内。7/ 使用 MantaPay 要注意区分 Public 和 Private 两种状态。Public 指公开的地址和资产，与大家通常在链上使用的资产和地址一致。Private 是指 Manta 链上的隐私地址 zkAddress 和隐私资产 zkAsset。1）可点击红框位置，将公开资产利用 ZK 变为隐私资产。![](https://img.foresightnews.pro/202303/0c613dfd3d3706e39ed78cf23f336873.png?x-oss-process=style/scale70)
+
+2）也可反向将隐私资产 “To Public” 变为公开资产。![](https://img.foresightnews.pro/202303/1f02384f3960ba70acad80fdfb59b88f.png?x-oss-process=style/scale70)
+
+3）或在隐私地址间转账。![](https://img.foresightnews.pro/202303/602f7cdda6d121c1841bade0243fe733.png?x-oss-process=style/scale70)
+
+需要注意的是，若想实现隐私转账，需将自己的公开资产 “To Private” 变为隐私资产后，在隐私地址之间转账。8/ 若想将 KMA 提现回交易所。可反向将隐私资产 “To Public” 变为公开资产，输入交易所 KMA 地址，将 KMA 提现回交易所。![](https://img.foresightnews.pro/202303/134ce77174919231ed49b5ec2312e8d2.png?x-oss-process=style/scale70)  
+
+
+**关于 Manta Network**
+
+Manta Network 是基于 ZK 的 Layer1 公链，拥有最高的 Prover 效率和最去中心化的可信设置，致力于为 Web3 带来可编程隐私。核心产品和技术组件，包括 zkNFTs 和 MantaPay 等等，为用户提供友好的、可访问的、强大 ZK 应用。 
+
+项目创始团队履历丰富，来自哈佛大学、麻省理工学院和 Algorand 等著名机构。团队自 2019 年在麻省理工学院数字货币倡议下，以及新加坡金融管理局跨境支付研究项目中，开始了对零知识证明的研究。
+
+Manta Network 已获得多家顶级 Web3 基金的投资，包括 Binance Labs 和 Polychain Capital，且通过参与最好的 Web3 加速器，包括 Alliance DAO 和 Berkeley Blockchain Xcelerator，实现发展。Manta Network 已准备作为下一代 Web3 用户的入口，开创以隐私为重点的 Web3 应用新篇章。
+
+关注官方频道了解有关 Manta/Calamari 的更多信息：Website:https://manta.network/  
+Github:https://github.com/Manta-Network  
+Twitter:https://twitter.com/MantaNetwork  
+Medium:https://mantanetwork.medium.co  
+Telegram:https://t.me/mantanetwork  
+Discord：https://discord.gg/ZtSuSKRy8X  
+Telegram 中文：https://t.me/mantanetwork\_zh  
+Twitter 中文：https://twitter.com/manta\_china  
+![](https://img.foresightnews.pro/202303/685ff7ccaf6747b2758eb353fdf487cb.png?x-oss-process=style/scale70)

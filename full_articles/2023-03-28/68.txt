@@ -1,0 +1,4 @@
+据官方推文，由 AI 领域知名专家、Stability AI 的前联合创始人 Cyrus Hodes 发布的 AIGC Chain 第一阶段测试网将于美国西部时间 3 月 31 日上午九点正式上线。测试网分为多个阶段，总计将有不超过 1 亿枚代币用于测试网的激励。  
+据悉，AIGC Chain 是第一个基于 AI 内容共同训练和生成的公链，任何人都可以用它来训练自己的小 AIGC 模型，并且实现了分布式大模型训练，意在构建全球最大的人工智能共同训练公链系统。
+
+![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=c4c56720dbaf)

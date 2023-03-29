@@ -1,0 +1,191 @@
+2022 年 7 月，PolygonLabs、zkSync 和 Scroll 开始了争夺最佳 zkEVM 的竞赛，Polygon zkEVM 主网将于 3 月 27 日启动，作者与 ChaosDAO 一起编写了关于 Polygon 的最全面的指南，这将成为下一个牛市最大的叙事。
+
+![](https://img.foresightnews.pro/202303/5-1679965156779.png?x-oss-process=style/scale70)
+
+以太坊的可扩展性问题导致了替代 L1 链的兴起，这些链为了可扩展性而牺牲了去中心化和安全性。
+
+这是因为区块链三难问题（即去中心化、安全性和可扩展性）概念的普及所带来的权衡。
+
+![](https://img.foresightnews.pro/202303/5-1679965167677.png?x-oss-process=style/scale70)
+
+该概念认为，一个区块链无法同时最大化可扩展性、安全性和去中心化。
+
+为了解决这个三难问题，以太坊生态系统内外的开发者们建立了各种可扩展性解决方案，从 L2 解决方案（如侧链或状态通道）到新的 L1 架构（如同质或异质执行分片）。
+
+![](https://img.foresightnews.pro/202303/5-1679965174852.png?x-oss-process=style/scale70)
+
+然而，所有这些解决方案都有其缺点。
+
+Rollup 扩展技术旨在克服的缺点是，在独立的链外执行层上实现极高的可扩展性，同时继承来自第 1 层的安全性保障作为结算和数据可用性层。
+
+Rollups 在链外处理交易，将交易打包成大量的批次（rolled up）。
+
+在 L2 上处理完交易后，仅会将批次产生的状态更改或在 zk-rollup 中，批次的有效性证明发布到以太坊 L1 上（并进行验证）。
+
+![](https://img.foresightnews.pro/202303/5-1679965189320.png?x-oss-process=style/scale70)
+
+Rollup 有两种类型：
+
+* 基于乐观机制（Optimistic），依赖验证节点启动欺诈证明机制，如果提交到 L1 的数据无效。
+* 零知识机制（Zero Knowledge），使用 zk 证明系统确保在 L1 上交易和状态更改的可验证性。
+![](https://img.foresightnews.pro/202303/5-1679965220221.png?x-oss-process=style/scale70)
+
+zk-rollup 采用「不信任，靠验证」的方法，依靠数学上可验证的证明，而不是欺诈证明机制。
+
+此外，将交易挂起批处理，然后在链外提交聚合、压缩后的数据到 L1 的一般机制也类似。
+
+![](https://img.foresightnews.pro/202303/5-1679965256437.png?x-oss-process=style/scale70)
+
+预见到这一技术的潜力，Polygon 投入了 10 亿美元开发这种复杂技术，并首先以 4 亿美元收购 Mir 协议（现在是 Polygon Zero），以 2.5 亿美元收购 Hermez 协议（现在是 Polygon Hermez）。
+
+由于拥有这样的内部能力，他们决定打造 Polygon zkEVM。
+
+对于许多 zk-rollup 来说，终极目标是成为以太坊虚拟机（EVM）的等价物。达到 EVM 等价意味着实现了完整的字节码级兼容性。
+
+这与仅仅具有兼容性不同，后者常常需要开发人员修改甚至重新实现某些更低层次的代码。
+
+![](https://img.foresightnews.pro/202303/5-1679965270400.png?x-oss-process=style/scale70)
+
+当一个开发环境具有 EVM 等价性时，这对开发者来说是一个巨大的优势，因为这意味着基本上任何来自以太坊的智能合约或开发工具都可以在等价的 EVM 网络上使用。
+
+它还简化了基于 ETH 的去中心化应用程序（dApps）的迁移，并使其更容易与 L1 上的其他 EVM dApps 或其他 zkEVMs 进行互操作。
+
+此外，EVM 等价（Solidity 和对以太坊开发工具的支持）使 rollups 能够利用 Web3 中最大的开发和流动性池。
+
+Vitalik Buterin 指出，共有 4 种不同类型的 zkEVM rollup，从类型 1 受益于完全的 ETH 等价性但降低了性能，到类型 4 则相反。
+
+zkEVM 正在建立在类型 2 等价性上，并力争成为类型 1。
+
+![](https://img.foresightnews.pro/202303/5-1679965286118.png?x-oss-process=style/scale70)
+
+除了采用 Bytecode-level 的 EVM 兼容性方法外，Polygon zkEVM 在其竞争对手中脱颖而出，因为它实现了一种称为 Proof Of Efficiency（POE）的新型共识机制，这种机制可以提高去中心化程度并增加网络安全性。
+
+此外，Polygon 的 zkEVM 使用了最先进的 zk 证明系统之一。
+
+Plonky2 是一种递归的 zk 证明系统，将 STARK 和 SNARK 证明的优点结合起来，很可能是以太坊上最便宜、最高效的证明系统。
+
+![](https://img.foresightnews.pro/202303/5-1679965299187.png?x-oss-process=style/scale70)
+
+在达到重要的里程碑后，Polygon 团队和开发者决定在 3 月 27 日进行全面推出（最初），这比他们的所有竞争对手都要早。
+
+（唯一缺失的指标是每秒交易数（TPS），即使我们可以假定最低 2k TPS）
+
+![](https://img.foresightnews.pro/202303/5-1679965310633.png?x-oss-process=style/scale70)
+
+该链吸引了超过 10 亿美元的锁定价值（TVL），以及 83 亿美元的总价值跨链转移至该链（其中 60% 为 $MATIC）。
+
+这个区别很重要，因为 DefiLlama 的 TVL 只涉及锁定在协议中的价值，而不是存放在钱包中的资产（这一点很重要要考虑到）。
+
+![](https://img.foresightnews.pro/202303/5-1679965320551.png?x-oss-process=style/scale70)
+
+财务指标
+----
+
+在过去的一年中，Polygon 是收入最高的链，收入超过 2600 万美元，而 Arbitrum 和 Optimism 分别为 1900 万美元和 1800 万美元。
+
+然而，需要考虑到净收益（成本 - 收入），平均每年约为负 3 亿美元，主要是由于代币激励措施，根据 Token Terminal 的数据。
+
+这仍然不到 Polygon 拥有的 24 亿美元资金库的 15%。
+
+![](https://img.foresightnews.pro/202303/5-1679965343950.png?x-oss-process=style/scale70)
+
+代币经济学
+-----
+
+Polygon 的代币是 $MATIC，供应量为 100 亿枚，当前价格为 1.12 美元（比历史最高价下跌 60%）。该代币用于治理、在 POS 链上支付交易费用（zkEVM 上的交易费用将以 $ETH 结算），以及验证和保障该链的质押。
+
+![](https://img.foresightnews.pro/202303/5-1679965358995.png?x-oss-process=style/scale70)
+
+供应量已在不同的利益相关者之间分配，现在几乎完全在流通（90%），但抵押奖励还没有被解锁。
+
+有趣的是，Binance launchpad 的投资者目前已经获得了 458 倍的投资回报，而历史最高价时曾达到了 1100 倍。
+
+![](https://img.foresightnews.pro/202303/5-1679965369331.png?x-oss-process=style/scale70)
+
+生态系统
+----
+
+尽管没有最高的 TVL，Polygon 拥有一个拥有 7000 多个活跃 dApp 的最大生态系统之一。
+
+与其竞争对手相比，该团队专注于开发其环境，例如 NFT 和游戏 Fi，而不是仅仅专注于 DeFi。
+
+![](https://img.foresightnews.pro/202303/5-1679965383611.png?x-oss-process=style/scale70)
+
+因此，Polygon 是过去几年中吸引了最多 Web2 公司进入其生态系统的链（主要是 GameFi 和 NFT），这对于该行业来说是一个至关重要的步骤，使得 Polygon 成为 Web2 公司的首选去处。
+
+![](https://img.foresightnews.pro/202303/5-1679965391674.png?x-oss-process=style/scale70)
+
+沟通
+--
+
+加密行业仍然不成熟和不理性，这就是为什么拥有最好的技术并不是区块链（例如前 15 名市值）最重要的成功因素之一。
+
+炒作、营销和品牌知名度与链所拥有的技术同样重要。
+
+![](https://img.foresightnews.pro/202303/5-1679965406069.png?x-oss-process=style/scale70)
+
+关于品牌知名度，Polygon 在其 Twitter 账户上拥有 180 万关注者，成为最受关注的链，然而，zkEVM 仅有 3.2 的关注者，明显低于拥有 64 万关注者的 zkSync、58.8 万关注者的 Arbitrum 或 26.1 万关注者的 Scroll。
+
+虽然关注者并不真正代表什么，ETH Daily 对前 9 个 L2 进行了一项调查，但在当时 zkEVM 并未出现在其中。
+
+![](https://img.foresightnews.pro/202303/5-1679965416712.png?x-oss-process=style/scale70)
+
+该研究还显示，新用户正在寻找通过空投获得金融机会，而 zkEVM 不应该发布空投。
+
+这对该链来说是一个问题，因为空投通过带来 TVL、交易量、费用等参与链的增长，作为结果吸引了建设者、项目和更多的用户，形成了一种无限循环。
+
+![](https://img.foresightnews.pro/202303/5-1679965425543.png?x-oss-process=style/scale70)
+
+资金
+--
+
+2022 年，Polygon 以 4.5 亿美元的规模进行了区块链历史上最大的融资，将其当前资金库增加到 24 亿美元。
+
+这样的资金使 Polygon 有能力尽可能多地开发、雇用和吸引人才，同时不必担心熊市的影响。
+
+![](https://img.foresightnews.pro/202303/5-1679965437144.png?x-oss-process=style/scale70)
+
+团队
+--
+
+为了运营这样一个项目，Polygon 可以依靠 400 名员工，这些员工在 2017 年由 4 位联合创始人创建后加入了这个项目。
+
+* Jaynti KananiCEO
+* Sandeep Nailwal COO
+* Anurag Arjun CPO（现在正在独立地开发 Avail）
+* Mihailo Bjelic
+![](https://img.foresightnews.pro/202303/5-1679965458278.png?x-oss-process=style/scale70)
+
+在 zkEVM 团队方面，我们有：
+
+* Eduardo 和 Jordi Baylina 是 Polygon Hermez 的共同创始人，现在是项目领导和开发者。
+* Brendan Farmer 和 Daniel Lubarov 是 Mir 协议（现在是 Polygon zero）的共同创始人。
+该团队已经做好了充分准备，以提供功能齐全、高效的扩展解决方案。
+
+优势
+--
+
+* 与 Web2 公司的合作。
+* 类型 2 zkEVM 将允许轻松开发和 dApp 的入门，具有巨大的潜力。
+* 大量的资金和储备为平滑适应、市场阶段管理（牛市 / 熊市）、营销和活动提供了支持。
+* 具备技能的团队开发了一个重要的链，并从合并的项目（Mir、Hermez）中收购了开发者来运行该项目。
+![](https://img.foresightnews.pro/202303/5-1679965498200.png?x-oss-process=style/scale70)
+
+风险
+--
+
+* 由于其复杂性和在区块链行业内的最近实施，存在 zk 风险。
+* 零知识证明带来的隐私问题可能带来监管风险。授予隐私的项目曾受到监管机构（Monero、Tornado cash 等）的针对。
+* 竞争越来越激烈，正在开发尖端技术（zkSync、Scroll、Starknet、Taiko 等）。
+* 在缺乏空投潜力和充满活力的 DeFi 生态系统的情况下吸引用户 / 开发者 / 项目将需要比竞争对手更多的努力。
+![](https://img.foresightnews.pro/202303/5-1679965523418.png?x-oss-process=style/scale70)
+
+结论
+--
+
+Polygon 推出 zkEVM 是一个非常重要的行业事件，zk rollup 技术将可以使区块链网络更加高效和可扩展，并且对于采用 EVM 的 dApp 来说，具有无缝集成的优势。
+
+虽然存在风险和竞争，但 Polygon 已经证明了自己在生态系统发展、资金筹集和团队建设方面的实力和能力。
+
+在未来的一段时间里，该项目将继续走向成功并塑造整个行业的发展方向。
+

@@ -1,0 +1,247 @@
+元宇宙平台 Decentraland 将于 3 月 28 日至 31 日举办第二届元宇宙时装周（MVFW）。
+
+今年 MVFW 以“Future Heritage”为主题，将展示开放元宇宙之间互操作性的潜力，突破数字时尚的界限，致力于将新兴数字设计师与成熟的传统时尚机构联系起来，并探索当代时尚如何在数字领域创造未来。
+
+Decentraland 基金会 MVFW 负责人 Giovanna Graziosi Casimiro 说：“非常荣幸能够延续 MVFW 的传统，我们看到许多品牌的回归，以及数字原生时尚的出现，很高兴看到全世界的时尚人士参与数字时尚……”
+
+如何体验 MVFW
+---------
+
+使用桌面应用程序登入 Decentraland 会比浏览器流畅，在 MVFW 期间，Decentraland 默认起始位置将变成 Neo Plaza 中心，Neo Plaza 是本次时装周的核心区域之一。如果需要跳转到其他街区，最简单方法是通过屏幕左上角粉红色框打开 MVFW 界面。
+
+![](https://img.foresightnews.pro/202303/916bb510a10830ffc1ab5f43d65a0b15.png?x-oss-process=style/scale70)
+
+如果您第一次使用 Decentraland，可以参考下面步骤：
+
+1.访问 Decentraland。可以通过<https://play.decentraland.org/ 进入 Decentraland。>
+
+2.使用您的钱包或以访客身份玩游戏。
+
+3.创建您的虚拟形象。可自定义您想创建的任何人物形象。
+
+4.学习内置的快速教程。学习之后就可以尽情在 Decentraland 中游玩。
+
+![](https://img.foresightnews.pro/202303/f0def9e8bbc75a72e9344ff0fc1c9c8b.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/6dd1dffb69be52f9d40d9732a3ede5c6.png?x-oss-process=style/scale70)
+
+时装秀日程
+-----
+
+时装秀将从 3 月 28 日开始持续到 3 月 31 日。
+
+### DUNDAS 时装秀
+
+3.28 | 5pm-6pm UTC | (-101,-19)
+
+DUNDAS 本季与 DressX 合作进行可穿戴设备创作，与 UME 合作进行头像设计，展示三周前巴黎时装周秀场的最新造型。他们将在 Luxury District 的商店提供新系列的可穿戴设备。
+
+### 阿迪达斯时装秀
+
+3.29 | 5pm-6pm UTC | (-101,-19)
+
+阿迪达斯将把他们 Virtual Gear 系列作为可穿戴设备产品带到 Decentraland。
+
+### DCL Main Runway 社区时装秀
+
+3.30 | 5pm-6pm UTC | (-101,-19)
+
+作为最受期待的时装秀之一，社区时装秀将与 Tangpoko 和 Decentraland 基金会合作策划，邀请 Decentraland 时尚社区的 11 位时尚达人参加。
+
+### Dear Vivienne’s ‘Anti-Fashion’ 走秀
+
+3.30 | 7pm-8pm UTC | (-75,-4)
+
+Vivienne Westwood 是一位标志性的英国设计师，她重新定义了时尚。可以通过游戏“Dear Vivienne”来了解她的生活与工作。
+
+### BRAmazing 时装秀
+
+3.30 | 11pm-12am UTC | (4,-111)
+
+这是一场支持提高乳腺癌意识的虚拟时装秀。元宇宙第一位官方超级名模 Tangpoko 将莅临现场。
+
+### Metaparty 社区时装秀
+
+每日 | 2:30pm-4pm UTC | (2,16)
+
+在为期 4 天的活动中，社区可穿戴创作者受邀走秀并向 Decentraland 元宇宙市民展示他们的设计。
+
+### Haus of Fuego 时装秀
+
+每日 | 6pm-7pm UTC | (-84,-9)
+
+Haus of Fuego 为 Decentraland 的 2023 MVFW 制作了一场时装秀，有望突破虚拟时尚的边界。
+
+具体活动可参考下方日程表：
+
+![](https://img.foresightnews.pro/202303/0ff132f367f2feac09b5ec5d33be2274.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/13f105fb7787b92208f03fe86ff81dac.jpg?x-oss-process=style/scale70)
+
+狂欢派对
+----
+
+### GAIAN 官方开幕派对
+
+3.28 | 12:00am-11:59pm UTC | (-90,-4)
+
+GAIAN 是可穿戴设备初创公司，将主持此次活动。一些最热门的 web3 、音乐领域重量级人物将出现在活动现场。
+
+### LowPolyModels 派对
+
+3.28 | 9pm UTC | (72, -24)
+
+体验来自西班牙的 DJ 音乐，观看他们独家 TechWear 可穿戴设备系列的发布。
+
+### MANGO 开幕派对
+
+3.28 | 6pm UTC | (-120, 5)
+
+加入 Mango 的开幕派对，探索春季限量单品，可免费获得一件纪念 T 恤。
+
+### Decentral Games x DCLBabydolls 开幕晚会
+
+3.28 | 10pm UTC | (-78,78)
+
+将会是难忘的音乐、娱乐之夜，可领取 POAP，并有机会赢得稀有的 MVFW 可穿戴设备。
+
+### 布宜诺斯艾利斯 Colón 剧院盛大开幕
+
+3.28 | 8am UTC | (24,81)
+
+世界著名的 Colón 剧院在 MVFW 期间与布宜诺斯艾利斯市政府合作，将于 Decentraland 博物馆区展示其虚拟版本！
+
+### Vroomway 每日派对
+
+每日 | Times Below | (-75,2)
+
+在 Neo 时尚广场举办为期 4 天的时装周派对中，每晚都有不同的音乐，免费的可穿戴设备，保证让您度过一段美好的时光。
+
+### DIESEL x HAPE
+
+3.29 | 9pm UTC | (-91,-13)
+
+这个交互式虚拟派对将为所有访客提供可穿戴设备 NFT 空投。
+
+### Gavin Magnus x Faith Tribe 派对
+
+3.29 | 9pm UTC | (-101,-19)
+
+今年，Gavin Magnus 将接管 Runway，将其改造成拥有歌手专属皮肤的音乐舞台。
+
+### TRU Band Room
+
+3.29 | 10pm UTC | (27, -118)
+
+TRU Band Room 是 Decentraland 上首屈一指的音乐场所。
+
+### Knights of Antrom
+
+3.29 | 12am | (144, -7)
+
+将在令人惊叹的 3D 数字舞台上播放最新系列中最热门的曲目。
+
+### The Fabricant X SuperMIND 闭幕派对
+
+3.31 | 5pm UTC | (-140,8)
+
+加入 Meta Tokyo 的 The Fabricant 和 SuperMIND，享受美妙音乐！
+
+### Roland Lifestyle x Random Ravers 闭幕派对
+
+3.31 | 7pm UTC | (87,9)
+
+在 Raverse 与可穿戴创作者 Roland Lifestyle 一起庆祝 MVFW 的闭幕。
+
+### DKNY.3 MVFW23 闭幕派对
+
+3.31 | 9:30pm UTC | (-105,-17)
+
+DKNY.3 将播放来自 DJ Sarah Main 的音乐，来庆祝元宇宙时装周的正式结束，由官方超模 Tangpoko 和 DCLBabydolls 主持。
+
+![](https://img.foresightnews.pro/202303/8d2b9e9f29725707770a5c1805eeb928.png?x-oss-process=style/scale70)
+
+虚拟商店
+----
+
+### 蔻驰的巨大 Tabby Bag
+
+( -76,-7 )
+
+Coach 为参观今年 MVFW 的访客创造了一种非常特别的体验，一旦看到他们巨大的漂浮 Tabby Bag，就能够领取免费的可穿戴设备等。
+
+### 巴黎世家的展览和商店
+
+( -78,9 )
+
+在 1950 年代，Cristóbal Balenciaga 开创了时尚界前所未见的新造型，包括娃娃装连衣裙、麻袋连衣裙和茧型大衣，为世界上优雅尊贵的女性设计礼服，从欧洲皇室和社会名流到好莱坞明星。
+
+受 Lorenzo Riva 收藏的 9000 多幅由 Cristóbal Balenciaga 在时装运动高峰期创作的图画的启发，为 Decentraland 设计了十款不容错过的可穿戴设备。
+
+### 阿迪达斯休息室
+
+(-87,-4)
+
+阿迪达斯社区将带来独特的、以社区为中心的体验。以文化和时尚为中心，该品牌将展示其开创性的“阿迪达斯虚拟装备”系列。
+
+### 杜嘉班纳专卖店
+
+2023 元宇宙时装周，Dolce&Gabbana（杜嘉班纳）和 UNXD 发起了一场数字可穿戴竞赛，以发掘新兴人才。在时装周期间，Dolce&Gabbana 空间的整个二楼都专门用于展示 Future Rewind 决赛入围者和他们的比赛造型，在本周末将公布由社区以及 Dolce 和 Gabbana 先生选出的最终获奖造型。
+
+### 龙城「中国有大美」馆
+
+(96,-84)
+
+Metaverse Labs 将与 WWD China 进行跨界合作，在龙城建造「中国有大美」馆，并在 2023 亚洲元宇宙时装周（MVFW Asia 2023）对外开放。关注龙城的推特账号可获取 NFT 和 POAP 赠品的详细信息。
+
+![](https://img.foresightnews.pro/202303/0c20c069defc5ed32afc72bd1fc6732f.png?x-oss-process=style/scale70)
+
+小组讨论
+----
+
+### 3 月 28 日
+
+9am UTC | Vogue Singapore: Love in the Metaverse: A New Age of Connectivity（元宇宙中的爱情：互联互通的新时代）
+
+12:30pm UTC | Dragon City: Fashion Opera: Aesthetics In The Metaverse（时尚歌剧：元宇宙中的美学）
+
+1pm UTC | Threedium: Luxury on the Blockchain: Authenticating Goods in the Metaverse（区块链上的奢侈品：在元宇宙中验证商品）
+
+4pm UTC | Digital Fashion Week: Interview with Ready Player Me（Ready Player Me 专访）
+
+### 3 月 29 日
+
+1pm UTC | Threedium: Fashion, Technology and the Metaverse: Exploring Web3 Opportunities（时尚、技术和元宇宙：探索 Web3 机会）
+
+3pm UTC | The Fabricant: Becoming a Digital Designer（成为一名数字设计师）
+
+5pm UTC | Sea Foam Gardens: Wearable Tutorial（可穿戴设备教程）
+
+6pm UTC | NUNC: The New Look: Fashion & AI Revolution（新面貌：时尚与人工智能革命）
+
+### 3 月 30 日
+
+5am UTC | Uniqly.io & PunksClub: Open Debates about the Intersection of fashion, NFTs, and Web3 Technology（关于时尚、NFT 和 Web3 技术交叉的公开讨论）
+
+9am UTC | Vogue Singapore: A New World: Fashion in the Metaverse（新世界：元宇宙中的时尚）
+
+11am UTC | Threedium: Building Community in the Metaverse（在元宇宙中建立社区）
+
+1pm UTC | Threedium: The Technology Leading the Metaverse Innovation at MVFW（引领 MVFW 元宇宙创新的技术）
+
+2pm UTC | Boson Metaverse Commerce Toolkit Product Unveiling（Boson ：Toolkit 产品发布会）
+
+2:30pm UTC | Commerce in the Metaverse（Boson：元宇宙中的商业）
+
+3:15pm UTC | The Future of Digi-physical Fashion（Boson：数字实体时尚的未来）
+
+5pm UTC | Sea Foam Gardens: Wearable Tutorial（可穿戴设备教程）
+
+6pm UTC | The New Look: AI Masterclass with Andrea Baioni（Andrea Baioni 的 AI 大师班）
+
+来源：Decentraland
+
+编辑：Bowen@Web3CN.Pro
+
+声明：NFT 中文社区编辑作品，内容仅代表作者立场，且不构成投资建议，请谨慎对待，如文章 / 素材有侵权，请联系官方客服处理。
+

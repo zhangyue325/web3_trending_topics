@@ -1,0 +1,859 @@
+  
+![](https://img.foresightnews.pro/202303/73d515d3ea9bc11fa37191e9ac2d21ab.jpeg?x-oss-process=style/scale70)  
+
+
+作者：Zubin Pratap ( 英语 )
+
+译者：Frank Kong
+
+  
+
+
+本文是《学习 Solidity——智能合约开发手册》的第三篇文章。点击此处，了解本系列的[第一篇文章](http://mp.weixin.qq.com/s?__biz=MzU0MTgyMDQwNQ==&mid=2247496474&idx=1&sn=a306b56bca5a810d7c7381613c83b063&chksm=fb26a780cc512e9669bf996e7b43330783aba8e56c0eb87d311d840117eff2b41123198bee5d&scene=21#wechat_redirect)和[第二篇文章](http://mp.weixin.qq.com/s?__biz=MzU0MTgyMDQwNQ==&mid=2247496601&idx=1&sn=c6c01525c30d6fd87f5641c201c0bd02&chksm=fb26a703cc512e15dd87589088a1deaafa2a289bf33cf802786c9d36edd441d9c5e7e2545bab&scene=21#wechat_redirect)。
+
+  
+
+
+**目录**
+
+  
+
+
+* 这本手册是为谁而写的
+* 必要的前置知识
+* 什么是 Solidity
+* 什么是智能合约
+* 怎样在 Solidity 中声明变量和函数
+* 智能合约中的变量作用域
+* 如何使用可见性标识符（visibility specifier）
+* 什么是构造函数
+* 接口和抽象合约
+* 智能合约案例 #2
+* 什么是合约状态
+* 状态可变性关键字（修饰符：modifier）
+* 数据存储类型 – storage/memory/stack
+* Solidity 数据类型
+* Solidity 中数组如何声明和初始化数组
+* 函数修饰符（function modifier）是什么
+* Solidity 中的异常处理 - require/assert/revert
+* **Solidity 中的继承**
+* **继承与构造函数参数**
+* **Solidity 中的类型转换**
+* **Solidity 中如何使用浮点数**
+* **哈希、ABI 编码（encoding）和解码（decoding）**
+* 如何调用合约并且使用 fallback 函数
+* 如何发送和接收 Ether
+* Solidity 库（library）
+* Solidity 中的事件（events）和日志（logs）
+* Solidity 中的时间逻辑
+* 总结和更多资源
+
+  
+
+
+**Solidity 中的继承**
+
+  
+
+
+继承是面向对象编程 (OOP) 中的一个非常重要的概念。我们不会在这里详细介绍 OOP 是什么。但是，可以将继承理解为，一段代码通过导入和嵌入另一段代码来“继承”数据和函数。
+
+  
+
+
+Solidity 中的继承还允许开发人员访问、使用和修改继承自合约的属性（数据）和函数（行为）。
+
+  
+
+
+接收这种继承材料的合约称为派生合约、子合约或子类。其代码可用于一个或多个派生合约的合约称为父合约。
+
+  
+
+
+继承让代码的重用变得更加方便——想象一下继承链，应用程序代码从其他代码继承，而被继承代码又从其他代码继承，等等。与其写出整个继承层次结构，我们可以只使用几个关键词来“扩展”继承链中所有应用程序代码获得的函数和数据。通过这样的方式，合约就可以从其层次结构中的所有父合约中受益，就像每一代都继承下来的基因一样。
+
+  
+
+
+与 Java 等某些编程语言不同，Solidity 允许多重继承。多重继承是指派生合约能够从多个父合约继承数据和方法。换句话说，一个子合约可以有多个父合约。
+
+  
+
+
+你可以通过查找 is 关键字来发现子合同并识别其父合同。
+
+  
+
+
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+
+```
+contract A { string public constant A\_NAME = "A";  
+ function getName() public pure returns (string memory) { return A\_NAME; }}  
+contract B is A { string public constant B\_NAME = "B";}
+```
+  
+
+
+如果你使用浏览器内的 Remix IDE 仅部署合约 B，你会注意到合约 B 可以访问 getName() 方法，即使它从未写在合约 B 中。当你调用该函数时，它返回“A”，这是在合约 A 中实现的逻辑数据，而不是合约 B。合约 B 可以访问存储变量 A\_NAME 和 B\_NAME，以及合约 A 中的所有函数。
+
+  
+
+
+这就是继承的工作原理。这就是合约 B 如何重用合约 A 中已经编写的代码，这些代码可能是由其他人编写的。
+
+  
+
+
+Solidity 允许开发人员更改父合约中的函数在派生合约中的实现方式。修改或替换继承代码的函数称为“重写 (overriding)”。为了理解它，让我们探讨一下当合约 B 尝试实现自己的 getName() 函数时会发生什么。
+
+  
+
+
+通过向合约 B 添加 getName() 来修改代码。确保函数名称和签名与合约 A 中的相同。子合约在 getName() 函数中的逻辑实现可能与它在父合约中的实现方式完全不同，尽管函数名称及其签名是一模一样的。
+
+  
+
+
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+
+```
+contract A { string public constant A\_NAME = "A";  
+ function getName() public returns (string memory) { return A\_NAME; }}  
+contract B is A { string public constant B\_NAME = "B";  
+ function getName() public returns (string memory) { // … any logic you like. Can be totally different // from the implementation in Contract A. return B\_NAME; }}
+```
+  
+
+
+编译器会给出两个错误：
+
+1. 在合约 A 中，会提示你“trying to override non-virtual function（试图覆盖非虚函数）”，提示你是否忘记添加 virtual 关键字。
+2. 在合约 B 中，它会抱怨 getName() 函数缺少标识符 override。
+
+  
+
+
+这意味着你在合约 B 中的新 getName 试图重写父合约中同名的函数，但父合约的函数未标记为 virtual - 这意味着它无法被重写。
+
+  
+
+
+你可以更改合约 A 的功能并添加 virtual 关键字，如下所示：
+
+  
+
+
+* 
+* 
+* 
+
+
+```
+function getName() public virtual returns (string memory) { return A\_NAME;}
+```
+  
+
+
+添加关键字 virtual 不会改变函数在合约 A 中的运行方式。并且它不要求继承合约**必须**重新实现它。它只是意味着如果开发人员选择，此功能**可能**会被任何派生合约重写。
+
+  
+
+
+添加 virtual 修复了编译器对合约 A 的提出的问题，但对合约 B 没有。这是因为合约 B 中的 getName 还需要添加 override 关键字，如下所示：
+
+  
+
+
+* 
+* 
+* 
+
+
+```
+function getName() public pure override returns (string memory) { return B\_NAME;}
+```
+  
+
+
+我们还为合约 B 的 getName() 添加了 pure 关键字，因为这个函数不会改变区块链的状态，并且只读取 constant（constant，你会记得，在编译时被硬编码到字节码中，不在存储数据位置）。
+
+  
+
+
+请记住，只有在父合约和子合约中，函数的名称和签名相同时，你才需要重写它。
+
+  
+
+
+但是对于名称相同但参数不同的函数会发生什么情况呢？当这种情况发生时，它不是重写，而是重载。并且没有冲突，因为这些函数有不同的参数，所以它们的签名可以向编译器表明它们是不同的。
+
+  
+
+
+例如，在合约 B 中，我们可以有另一个带有参数的 getName() 函数。与父合约 A 的 getName() 实现相比，不同的参数会使得函数的“签名”不同。重载函数不需要任何特殊关键字：
+
+  
+
+
+* 
+* 
+* 
+* 
+* 
+* 
+
+
+```
+// getName() now accepts a string argument. // Passing in “Abe Lincoln” returns the string “My name is: Abe Lincoln”function getName(string memory name) public pure returns (string memory) { bytes memory n = abi.encodePacked("My name is: ", name); return string(n);}
+```
+  
+
+
+不要担心 abi.encodepacked() 方法调用。稍后当我们谈论编码和解码时，我会解释这一点。现在只需了解 encodepacked() 将字符串编码为字节，然后将它们连接起来，并返回一个字节数组。
+
+  
+
+
+我们在本手册的前一节（在类型那一节）讨论了 Solidity 字符串和字节之间的关系。
+
+  
+
+
+此外，由于你已经了解了函数修饰符，这恰是可以添加修饰符也是可继承的地方。以下是你的操作方式：
+
+  
+
+
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+
+```
+contract A { modifier X virtual { // … some logic }}  
+contract B is A { modifier X override { // … logic that replaces X in Contract A }}
+```
+  
+
+
+你可能想知道如果继承链中存在具有相同名称和签名的函数，将调用哪个版本的函数。
+
+  
+
+
+例如，假设有一个合约继承的链条，如 A → B → C → D → E，它们都有一个 getName() 且都重写了前一个父合约中的 getName() 。
+
+  
+
+
+哪个 getName() 被调用？答案是最后一个——这个合约继承结构中的“最后派生”的函数实现。
+
+  
+
+
+子合约中的状态变量不能与其父合约具有相同的名称和类型。
+
+  
+
+
+例如，下面的合约 B 将无法编译，因为它的状态变量“隐藏”了父合约 A 的状态变量。但请注意合约 C 如何正确处理此问题：
+
+  
+
+
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+
+```
+contract A { string public author = "Zubin";  
+ function getAuthor() public virtual returns (string memory) { return author; }}// Contract B would not compilecontract B is A { // Not OK. author shadows the state variable in Contract A! string public author = "Mark Twain";}// This will work.contract C is A { constructor(){ author = "Hemingway"; }}
+```
+  
+
+
+值得注意的是，通过将新值传递给合约 C 的构造函数中的变量 author，我们实际上覆盖了合约 A 中的值。然后调用继承方法 C.getAuthor() 将返回 'Hemingway' 而不是 'Zubin' ！
+
+  
+
+
+还值得注意的是，当一个合约继承自一个或多个父合约时，区块链上只会创建一个（组合）合约。编译器有效地将所有其他合约及其父合约（parent contract）等编译成一个单一的编译合约（称为“扁平化（flatten）”合约）。
+
+  
+
+
+**继承与构造函数参数**
+
+  
+
+
+一些构造函数指定输入参数，因此它们需要你在实例化智能合约时将参数传递给它们。
+
+  
+
+
+如果该智能合约是父合约，则其派生合约也必须传递参数以实例化父合约。
+
+  
+
+
+有两种方法可以将参数传递给父合约——在列出父合约的语句中，或者直接在每个父合约的构造函数中。你可以在下面看到这两种方法：
+
+  
+
+
+![](https://img.foresightnews.pro/202303/1d36b1b04a3540a40466afda437cbd35.png?x-oss-process=style/scale70)  
+
+
+在 ChildTwo 合约的方法 2 中，你会注意到传递给父合约的参数首先提供给子合约，然后沿着继承链向上传递。
+
+  
+
+
+这不是必需的，但却是一种非常常见的模式。关键是父合约构造函数期望输入参数，而我们需要在实例化子合约时提供它们。
+
+  
+
+
+**Solidity 中的类型转换**
+
+  
+
+
+有时我们需要将一种数据类型转换为另一种数据类型。当我们这样做时，我们需要非常小心地转换数据，同时考虑计算机会如何理解转换后的数据。
+
+  
+
+
+正如我们在关于类型化数据的讨论中看到的那样，JavaScript 有时会对数据做一些奇怪的事情，因为它是动态类型的语言。但这也是为什么一般地介绍类型转换和类型转换的概念是有用的。
+
+  
+
+
+采用以下 JavaScript 代码：
+
+  
+
+
+* 
+* 
+* 
+* 
+
+
+```
+var a = "1"var b = a + 9 // we get the string '19'!!typeof a // stringtypeof b // string 
+```
+  
+
+
+有两种方法可以将变量 a 转换为整数。第一个称为类型转换，由程序员显式完成，通常涉及使用 () 的类似构造函数的操作符。
+
+  
+
+
+* 
+* 
+* 
+
+
+```
+a = Number(a) // Type casting the string to number is explicit.typeof a // numbervar b = a +  9 // 10. A number. More intuitive!
+```
+  
+
+
+现在让我们将 a 重置为字符串并进行隐式转换，也称为类型转换。这是编译器在执行程序时隐式完成的。
+
+  
+
+
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+
+```
+a = '1'var b = a \* 9 // Unlike addition, this doesn't concatenate but implicitly converts 'a' to a number!   
+  
+b // number 9, as expected!typeof b // numbertypeof a // still a string…
+```
+  
+
+
+在 Solidity 中，类型转换（显式转换）在某些类型之间是允许的，代码类似于下面这样：
+
+  
+
+
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+
+```
+uint256 a = 2022;bytes32 b = bytes32(a);  
+// b now has a value of// 0x00000000000000000000000000000000000000000000000000000000000007e6// which is 32 bytes (256) bits of data represented in// 64 Hexadecimal Characters, where each character is 4 bits (0.5 bytes).
+```
+  
+
+
+在此示例中，我们将大小为 256 位的整数（因为 8 位构成 1 个字节，所以这是 32 个字节）转换为大小为 32 的字节数组。
+
+  
+
+
+由于 2022 的整数值和字节值的长度均为 32 字节，因此在转换过程中没有“丢失”信息。
+
+  
+
+
+但是，如果您尝试将 256 位转换为 8 位（1 字节），会发生什么情况？尝试在基于浏览器的 Remix IDE 中运行以下代码：
+
+  
+
+
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+
+```
+contract Conversions { function explicit256To8() public pure returns (uint8) { uint256 a = 2022; uint8 b = uint8(a); return b; // 230.  }}
+```
+  
+
+
+为什么整数 2022 会转换为 230？这显然不是我们预想的结果。明显是一个错误，对吧？
+
+  
+
+
+原因是大小为 256 位的无符号整数将包含 256 个二进制数字（0 或 1）。所以 a 保存整数值 '2022' 并且该值（以位为单位）将有 256 位数字，其中大部分将为 0，除了最后 11 位数字将是......（通过将 2022 从十进制系统到二进制此处）。
+
+  
+
+
+另一方面，b 的值只有 8 位或数字，即 11100110。这个二进制数转换为十进制时（你可以使用相同的转换器 - 只需再另一个框中填写！）是 230。不是 2022 .
+
+  
+
+
+哎呀。
+
+  
+
+
+所以发生了什么事？当我们将整数的大小从 256 位减少到 8 位时，我们最终去掉了数据的前三位数字 (11111100110)，这完全改变了二进制值！
+
+  
+
+
+朋友们，这就是信息丢失。
+
+  
+
+
+所以当你显式转换时，编译器在某些情况下会允许你这样做，但是你可能会丢失数据。因为你明确要求这样做，所以编译器会假设你知道自己在做什么。这可能是许多错误的根源，因此请确保正确测试代码以获得预期结果，并在将数据显式转换为较小尺寸时要小心。
+
+  
+
+
+投射到更大的尺寸不会导致数据丢失。由于 2022 只需要 11 位来表示，您可以将变量 a 声明为 uint16 类型，然后将其向上转换为 uint256 类型的变量 b，而不会丢失数据。
+
+  
+
+
+另一种有问题的转换是从无符号整数转换为有符号整数。尝试以下示例：
+
+  
+
+
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+
+```
+contract Conversions { function unsignedToSigned() public pure returns (int16, uint16) { int16 a = -2022; uint16 b = uint16(a); // uint256 c = uint256(a); // Compiler will complain return (a, b); // b is 63514 }}
+```
+  
+
+
+请注意，作为 16 位大小的带符号整数的 a 将 -2022 作为（负整数）值保存。如果我们想要将它类型转换为一个 unsigned 整数（只有正数）值，编译器也会允许我们这样做。
+
+  
+
+
+但是如果你运行代码，你会看到 b 不是 -2022 而是 63,514！因为 uint 无法保存有关减号的信息，它丢失了该数据，并且生成的二进制被转换为大量十进制（以 10 为基数）数字 - 显然这和预期不一样，是一个 bug。
+
+  
+
+
+如果你更进一步，取消注释给 c 赋值的那一行，你会看到编译器报错 *“不允许从 “int16” 到 “uint256”* 的显式类型转换”。即使我们在 uint256 中向上转换为更多的位，因为 c 是一个无符号整数，它不能包含负号信息。
+
+  
+
+
+因此，在显式强制转换时，请务必考虑，在强制编译器更改数据类型后，该值的计算结果会是什么。这会是许多错误和代码错误的根源。
+
+  
+
+
+Solidity 类型转换和类型转换还有更多内容，你可以在这个文章 中深入了解一些细节。
+
+  
+
+
+**Solidity 中如何使用浮点数**
+
+  
+
+
+Solidity 不处理小数点。这在未来可能会改变，但目前你无法真正使用浮点数，如 93.6。事实上，在您的 Remix IDE 中键入 int256 floating = 93.6; 会抛出如下错误：
+
+*Error: Type rational\_const 468 / 5 is not implicitly convertible to expected type int256.*
+
+  
+
+
+这里发生了什么？ 468 除以 5 是 93.6，这似乎是一个奇怪的错误，但这基本上是编译器说它不能处理浮点数。
+
+  
+
+
+按照错误的提示，将变量的类型声明为   
+
+
+fixed 或 ufixed16x1
+
+* 
+
+
+```
+fixed floating = 93.6;
+```
+  
+
+
+你会收到
+
+*“UnimplementedFeatureError：Not yet implemented - FixedPointType”*错误。
+
+  
+
+
+因此，在 Solidity 中，我们通过将浮点数乘以 10 的指数，将浮点数转换为整数（无小数点）来解决这个问题，指数大小为小数点右边的小数位数。
+
+  
+
+
+在这种情况下，我们将 93.6 乘以 10 得到 936，我们必须在某处的变量中跟踪我们的因子 (10)。如果数字是 93.2355，我们会将其乘以 10 的 4 次方，因为我们需要将小数点右移 4 位以使数字完整。
+
+  
+
+
+使用 ERC 代币时，我们会注意到小数位通常为 10、12 或 18。
+
+  
+
+
+例如，1 Ether 是 1\*(10^18) wei，即 1 后接 18 个零。如果我们想用浮点数表示，我们需要将 1000000000000000000 除以 10^18（这将得到 1），但如果它是 1500000000000000000 wei，那么除以 10^18 将在 Solidity 中抛出编译器错误，因为它无法处理 1.5 的返回值。
+
+  
+
+
+在科学计数法中，10^18 也表示为 1e18，其中 1e 表示 10，后面的数字表示 1e 的指数。
+
+  
+
+
+所以下面的代码会产生一个编译器错误*：“Return argument type rational\_const 3 / 2 is not implicitly convertible to expected type…int256”*：
+
+  
+
+
+* 
+* 
+* 
+
+
+```
+function divideBy1e18()public pure returns (int) { return 1500000000000000000/(1e18); // 1.5 → Solidity can’t handle this.}
+```
+  
+
+
+上述除法运算的结果是 1.5，但是有小数点，Solidity 目前不支持。因此 Solidity 智能合约返回非常大的数字，通常最多 18 位小数，这超出了 JavaScript 的处理能力。因此，你需要在前端使用 Ethersjs 等 JavaScript 库处理这个问题，这些库为 BigNumber 实现辅助函数 /v5/api/utils/bignumber/) 类型。
+
+  
+
+
+**哈希、ABI 编码（encoding）和解码（decoding）**
+
+  
+
+
+随着你使用 Solidity 越来越多，你会看到一些听起来很奇怪的术语，例如哈希、ABI 编码和 ABI 解码。
+
+  
+
+
+虽然这些可能需要一些学习才可以理解，但它们对于使用密码技术（尤其是以太坊）来说是非常基础的。它们原则上并不复杂，只是一开始可能有点难以掌握。
+
+  
+
+
+让我们从哈希开始。使用加密数学，你可以将任何数据转换为（非常大的）唯一整数。此操作称为哈希算法。哈希算法有一些重要的特点：
+
+1. 它们是确定性的——相同的输入将总是产生相同的输出，每次都是如此。但是使用不同的输入产生相同输出的概率极小。
+2. 如果只有输出，基本不可能（或计算上不可行）对输入进行逆向工程。这是一个单向过程。
+3. 输出的大小（长度）是固定的——无论输入大小如何，算法都会为所有输入生成固定大小的输出。换句话说，哈希算法的输出将始终具有固定的位数，具体取决于算法
+
+  
+
+
+哈希算法有许多行业标准，但你可能会最常见地看到 SHA256 和 Keccak256。这些非常相似。256 指的是大小——生成的哈希中的位数。
+
+  
+
+
+例如，请进入此网站并将“FreeCodeCamp”复制并粘贴到文本输入中。使用 Keccak256 算法，输出将（始终）为
+
+“796457686bfec5f60e84447d256aba53edb09fb2015bea86eb27f76e9102b67a”。
+
+  
+
+
+这是一个 64 字符的十六进制字符串，由于十六进制字符串中的每个字符代表 4 位，因此该十六进制字符串为 256 位（32 字节长）。
+
+  
+
+
+现在，删除文本输入框中除“F”之外的所有内容。结果是一个完全不同的十六进制字符串，但它仍然有 64 个字符。这是 Keccak265 哈希算法的“固定大小”性质。
+
+  
+
+
+现在粘贴回“FreeCodeCamp”并更改任意字符。你可以把“F”变成小写。或者加一个空格。对于你所做的每个单独更改，哈希十六进制字符串输出都会发生很大变化，但长度不变。
+
+  
+
+
+这是哈希算法的一个重要特性。最细微的变化都会大大改变散列。这意味着你始终可以通过比较它们的哈希来测试两个事物是否相同（或根本没有被篡改）。
+
+  
+
+
+在 Solidity 中，比较哈希比比较原始数据类型要高效得多。
+
+  
+
+
+例如，比较两个字符串通常是通过比较它们的 ABI 编码（字节）形式的哈希值来完成的。在 Solidity 中比较两个字符串的常见辅助函数如下所示：
+
+  
+
+
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+
+```
+function compareStrings(string memory str1, string memory str2) public pure returns (bool) { return (keccak256(abi.encodePacked((str1))) == keccak256(abi.encodePacked((str2))));    }
+```
+  
+
+
+稍后我们将讨论 ABI 编码是什么，但请注意 encodePacked() 的结果是一个 bytes 数组，然后使用 keccak256 算法（这是 Solidity 使用的哈希算法）对其进行哈希处理。比较输出的哈希值（256 位整数）是否相等。
+
+  
+
+
+现在让我们转向 ABI 编码。首先，我们记得 ABI（Application Binary Interface：应用程序二进制接口）是指定如何与部署的智能合约进行交互的接口。 ABI 编码是将给定元素从 ABI 转换为字节以便 EVM 可以处理它的过程。
+
+  
+
+
+EVM 在位和字节上运行计算。所以编码是将结构化输入数据转换为字节的过程，使得计算机可以运行它。解码是将字节转换回结构化数据的逆过程。有时，编码也称为“序列化”。
+
+  
+
+
+你可以在此处。编码数据的方法将它们转换为字节数组（“bytes”数据类型）。相反，解码其输入的方法期望字节数据类型作为输入，然后将其转换为已编码的数据类型。
+
+  
+
+
+你可以在以下代码片段中观察到这一过程：
+
+  
+
+
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+
+```
+// SPDX-License-Identifier: MITpragma solidity ^0.8.13;  
+contract EncodeDecode {  
+// Encode each of the arguments into bytes function encode( uint x, address addr, uint[] calldata arr) external pure returns (bytes memory) { return abi.encode(x, addr, arr); }  
+ function decode(bytes calldata bytesData) external pure returns ( uint x, address addr, uint[] memory arr){ (x, addr, arr) = abi.decode(bytesData, (uint, address, uint[])); }}
+```
+  
+
+
+我在 Remix 中运行了上面的代码，并为 encode() 使用了以下输入：
+
+1981, 0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC, [1,2,3,4]。
+
+  
+
+
+我返回的字节以十六进制形式表示为：
+
+0x00000000000000000000000000000000000000000000000000000000000007bd0000000000000000000000003c44cdddb6a900fa2b585dd299e03d12fa4293bc000000000000000000000000000000000000000000000000000000000000006000000000000000000000000000000000000000000000000000000000000000040000000000000000000000000000000000000000000000000000000000000001000000000000000000000000000000000000000000000000000000000000000200000000000000000000000000000000000000000000000000000000000000030000000000000000000000000000000000000000000000000000000000000004.
+
+  
+
+
+我将其作为我的输入，输入到 decode() 函数中，并取回了我原来的三个参数。
+
+  
+
+
+因此，编码的目的是将数据转换成 EVM 处理数据所需的字节数据类型。解码将其转换为开发人员可以使用的人类可读结构化数据。
+
+  
+
+
+（未完待续...）  
+
+
+  
+  
+END  
+  
+‍‍▲获取 Chainlink 官方最新资讯  
+加入 Chainlink 官方渠道▼
+
+![](https://img.foresightnews.pro/202303/3b448bcab9371465762484a634e88fa4.jpeg?x-oss-process=style/scale70)  
+**Chainlink 官方渠道**   
+微博:  https://weibo.com/chainlinkofficial  
+知乎：https://www.zhihu.com/people/chainlink  
+中文 Twitter: https://twitter.com/ChainlinkCN  
+Twitter:  https://twitter.com/chainlink  
+中文爱好者电报群：https://t.me/chainlinkfans  
+Telegram:  https://t.me/chainlinkofficial  
+Discord:   https://discord.gg/aSK4zew  
+GitHub:  https://github.com/smartcontractkit/chainlink  
+SegmentFault：https://segmentfault.com/u/chainlink  
+QQ 群: 6135525  
+合作联系:  china@smartcontract.com  
+  
+![](https://img.foresightnews.pro/202303/acbd2417f9c7a98a99dbd7dd06376440.gif?x-oss-process=style/scale70)点击“阅读原文”，查看更多
+
+  
+
+

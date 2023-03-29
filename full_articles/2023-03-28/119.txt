@@ -1,0 +1,194 @@
+类似于古希腊的 “神谕 (oracle)”，区块链预言机是一类抓取现实世界的信息并将其写入区块链的技术。
+
+  
+
+
+Mina 生态合作伙伴 O(1) Labs 正致力于开发一种新型的区块链预言机，称为 zkOracle。在本文和视频中，O(1) 团队的产品经理 Brett Carter 深度介绍了什么是 oracle 和 zkOracle。*( 注：为清晰起见，已对采访进行编辑）*
+
+  
+
+
+  
+  
+
+
+**👨🏻‍💻** **什么是 Oracle**
+
+“在今天的现实生活中，我们正处于所谓的 Web2 和 Web3 之间的过渡期。这意味着我们的很多个人化数据仍然存在于 Web2 层上。因此产生了一个问题，我们如何在链上获取得这些数据？
+
+  
+
+
+为了让区块链与现实世界交互，它们需要一个接口，一种进入现实世界抓取数据并将其写入到链上的方式。”
+
+  
+
+
+**👨🏻‍💻****如何确保预言机带来的是正确的信息**
+
+“目前存在一些可选方案，例如从许多预言机中获取数据，并在这些预言机中对其进行平均，以确保这些数据的准确性得到保留。  
+
+
+  
+
+
+为了在链上获取这些数据，基本上你必须将数据推送到链上。这样做会产生高昂的 gas 成本和手续费。而且你必须支付在以太坊上存储数据的费用，这是相当昂贵的。
+
+  
+
+
+当今预言机中最常见的用例是以太坊上的 Price feed，你想向特定的智能合约提供比特币的价格。
+
+  
+
+
+目前在以太坊上运行 Price feed 非常昂贵。你需要必须不断地将价格推给智能合约，并为以太坊上的存储付费，即使在你不打算查询的时候。”
+
+  
+
+
+**👨🏻‍💻****zkOracle 有何不同**
+
+“由于 zkApp 的特性，在 Mina 上使用 zkOracle 的优势在于其独特的两步执行模型。首先我们在链下证明我们有一些信息，即已经执行了一部分计算。然后我们将其打包成一个小的证明，相当于它在链上通过验证。
+
+  
+
+
+首先链下证明的这一步骤是非常独特的，因为你可以在你的机器上运行计算。
+
+  
+
+
+比如说在 Price feed 的用例中，你可以向一个你信任的 API 进行查询，可以通过许多 API 进行查询，并在彼此之间平均价格，你可以在链下执行一些非常复杂的操作，在不支付任何费用的情况下多次查询价格。只有在你收到你需要的价格时才需要执行链上部分，这只是一个更有效的架构。”
+
+  
+
+
+**👨🏻‍💻****可以在购房者和银行之间运作，实现获得贷款吗**
+
+“不管怎么说，目前支持的操作就像屏幕截图。这是非常不安全的。因为这些数据在 Web2 上，你可能会想使用银行余额的零知识 (ZK) 证明来申请链上贷款。  
+
+
+  
+
+
+我们该怎么做？如果只需要给银行一通电话就可以实现的话，将会非常方便：“嘿，你能否用私钥签署一个信息？然后我就可以在链上使用这个信息来申请贷款”。但实际上，你的银行绝不会这样做。我称之为合作问题。
+
+  
+
+
+如果我们的银行不合作怎么办？我们如何获取该信息并维护链信任，以便我们可以在链上提供余额证明？
+
+  
+
+
+这就是 zkOracle 的用武之地，通过在向银行提出网络请求时增加一个额外的当事方来解决这个问题，我们称之为公证人。比如在这种情况下，公证人将能够在不查看用户的信息的情况下在浏览器中观察这些网络请求，并代表你的银行对其进行签名，就像公证人亲自签署一样。通过真正强有力的保证维护你和银行以及链之间的网络请求信任，这样用户就可以利用它在 DeFi 中获得贷款。”
+
+  
+
+
+**👨🏻‍💻****zkOracle 的发展面临怎样的挑战**
+
+“zkOracle 通常非常复杂。其中一个挑战我将其描述为 MPC，或者我们称之为三方握手。  
+
+
+  
+
+
+它的工作方式是你需要三方：用户（你）、终端用户和数据提供者（可能是银行或 Price feed）。你需要公证人在他们之间的快速交互中执行操作，以便建立你对数据提供者的请求。在这个复杂的过程中，它需要一直保护你的信息隐私。
+
+  
+
+
+像这样的解决方案尚未建立，所以我们非常期待 Mina 生态系统帮助我们测试这个协议并确保其安全性。我也很期待 Mina 社区能够构建一些我们未曾设想过的有趣的工具。”
+
+  
+
+
+**👨🏻‍💻****密切关注有关 zkOracle 的最新消息**
+
+许多开发者将能够使用 zkOracle 轻松地从链上网站提取现实世界的信息，并在 Mina 的零知识智能合约（zkApp）中使用这些数据。  
+
+
+  
+
+
+查看有关预言机如何工作以及如何使用 SnarkyJS 开发简易预言机的高阶教程
+
+  
+
+
+如果你想了解 Mina 上的 zkOracle 和由社区开发的全新 zkApp 的最新进展，请注册月度newsletter。
+
+  
+
+
+  
+
+
+  
+
+
+![](https://img.foresightnews.pro/202303/8ad00eb87c26124a611431bde01b30c0.png?x-oss-process=style/scale70)**About Mina Protocol**
+
+**#PoweredByParticipants**
+
+  
+
+
+Mina 是全球最轻量区块链，由参与者参与治理。
+
+  
+
+
+凭借其优雅的设计，Mina 是首个实现简易编程性零知识智能合约（[zkApp](http://mp.weixin.qq.com/s?__biz=Mzk0OTIzNzg3Nw==&mid=2247485607&idx=2&sn=e24f32b0fb9c07a341e71231d77e9893&chksm=c35a29bdf42da0aba6e4e58a21fa3f71d63b54a41036a1b16769b866e7a17028ff1a09f3023d&scene=21#wechat_redirect)）的一层网络。Mina 独特的隐私和安全功能及其通过 zkApp 与任何网站链接的能力，使得 Web3 更具安全性和私密性，极大地推动着所有人都应享有的安全民主未来的构建。Mina 由总部位于美国的非营利组织 Mina 基金会管理。
+
+  
+
+
+  
+
+
+![](https://img.foresightnews.pro/202303/8ad00eb87c26124a611431bde01b30c0.png?x-oss-process=style/scale70)Website
+
+![](https://img.foresightnews.pro/202303/25f6d27300aa7a637dda8d8d431dbcd6.png?x-oss-process=style/scale70)Twitter
+
+![](https://img.foresightnews.pro/202303/ac5035c4e361768efbc6a8208d26b1a1.png?x-oss-process=style/scale70)Medium
+
+![](https://img.foresightnews.pro/202303/7759921919ffc27d66bd86b43f381f6e.png?x-oss-process=style/scale70)Weibo
+
+![](https://img.foresightnews.pro/202303/1ee92846c08b30f7874189937b986e79.png?x-oss-process=style/scale70)Discord
+
+![](https://img.foresightnews.pro/202303/bf420670dec2ca347bacc727313585ac.png?x-oss-process=style/scale70)Telegram
+
+![](https://img.foresightnews.pro/202303/9e83f576d1cff43acfe2e5f405ed9a6e.png?x-oss-process=style/scale70)GitHub
+
+  
+
+
+  
+
+
+![](https://img.foresightnews.pro/202303/c71175429cee859cffd07621795a49ea.png?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/77dc10027926c49a8f878ab38abe133f.png?x-oss-process=style/scale70)**全球最轻量区块链 人人皆可参与**
+
+公众号｜Mina Protocol Official
+
+微　博｜Mina\_Protocol
+
+  
+
+
+  
+
+
+![](https://img.foresightnews.pro/202303/5db10ece9608cadeab0d06a41d1e422c.png?x-oss-process=style/scale70)**往期回顾**
+
+[![](https://img.foresightnews.pro/202303/627f477a70d61d9331339d564e139f46.png?x-oss-process=style/scale70)](http://mp.weixin.qq.com/s?__biz=Mzk0OTIzNzg3Nw==&mid=2247494530&idx=1&sn=75d4a02dc0f831b3a032b3fd33fc6586&chksm=c359ca98f42e438e7708d15dfabe1fda4d559d492b72893ada8d4f6b8b9cb9f6df5e2969b46a&scene=21#wechat_redirect)**Mina 生态开发进展月度更新｜2023 年 2 月**  
+
+
+[![](https://img.foresightnews.pro/202303/76d96fd1b31f8402abbe7699fe2616b0.jpeg?x-oss-process=style/scale70)](http://mp.weixin.qq.com/s?__biz=Mzk0OTIzNzg3Nw==&mid=2247494593&idx=1&sn=618bedb8d780d87688366c8cb8504cef&chksm=c359cadbf42e43cd7eb683c42fceef0e9c67003155e9ca37bd481d397baca3c0b8d99afaac08&scene=21#wechat_redirect)**23-03-21 更新｜Mina 改进提案（MIP）链上投票 Part 1**  
+
+
+  
+
+

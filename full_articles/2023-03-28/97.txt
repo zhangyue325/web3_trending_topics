@@ -1,0 +1,450 @@
+**总结来说**
+--------
+
+### **1.热门币种方面：**
+
+GETH（Token） - Goerli 是以太坊的测试网，为那些还未正式上线的 ETH 生态项目提供一个测试的环境，从而优化自身产品。对于用户而言，一般在测试网上配合项目方积极参与测试，会获得空投的机会。GETH 就是在 Goerli 测试网上用来测试的“测试网版 ETH”。 近期 Goerli ETH 供给减少（申领网站为了防止机器人用户滥领水龙头，必须有 Alchemy 的账户才可以申领）；为此，有人在 Uniswap 建立了交易池，几个主要的流动池深度加起来只有 30 万美金左右，但上面的 GETH 是以太坊主网上的 GETH，用户在 Uniswap 买了之后可以通过 LayerZero 跨链桥，把以太坊主网的 GETH 跨链到测试网 GETH。
+
+GDX（Token）、 Gridex（Dapp）- GDX 是 Arbitrum 上结合了订单簿和网格交易的 DEX，昨日 GDX 币价大涨，目前刷分撸空投的热度很高；因空投原因，目前 GDX 链上已有 11,548 holders；
+
+ARB（Token），Arbitrum L2 Token，上周 Arbitrum 完成发币后，交易需求较大；根据目前 Nansen 的数据显示，前已有超 10 亿枚 Arbitrum 代币 ARB 被认领，占此次空投供应量的 87%。此次空投符合条件的地址数为 625,143 个，已认领地址数为 540,079 个，占比约 86%。Bitget 作为全球首发 ARB 的 CEX，提供了良好的交易深度和做市条件。https://www.bitget.com/en/spot/ARBUSDT\_SPBL?type=spot
+
+MMIT（Token）- MangoMan Intelligent，“A DeFi coin for crypto beginners”概念的老项目，近期资金进入代币走势良好，在 CMC、dextool 上做了代币推荐，引起短期炒作热情；过去 24h 链上发生 6651 笔交易达成了 $5M 交易量；
+
+IC（Token）- Icy，Twitter Followers 不到 2k，但关注者中包含了 Crypto Lord、SHIB ARMY 等较大 KOL 账户的 meme 项目。合约无明显风险，筹码分散，链上 holders 有很多 ENS holders，风险较大，请谨慎投资；
+
+PAW（Token）- PAWZONE，需要特别注意，此 PAW 并非那个在 Shibarium 测试网上线前曾有过连续惊人涨幅的 PAWSWAP（PAW），是一个蹭 SHIB 生态和 PAWSWAP 热度的新部署 Token，代币合约没有明显风险，过去 24h 在 ShibaSwap 上有 3,870 笔交易和惊人的 $10M 交易量，但币价在过去 24h 大跌 -30%， 请谨慎投资；
+
+SUIBG（Token）- SUI Futures Bitget。BitKeep 与 Bitget 联合推出一项名为 SUIBG (SUI Futures Token) 的期货空投，可作为未来 Sui Network 主网上线后，其原生代币 SUI 的兑换凭证。用户可以在 BitKeep 钱包参与红包空投、交易奖励等活动，或在 Bitget 交易平台参加 SUIBG 嘉年华活动领取 SUIBG；目前 DEX 上有相关交易池，但是流动性较差深度较低，建议从 Bitget 和 Bitkeep 官方渠道申领；
+
+### **2.热门 NFT 方面：**
+
+The Dev Public Mint（NFT）- the dev 是一个比特币开发者，推上经常会发一些币圈相关的视频短片，关注度很高。被 CZ 关注，且置顶推文是和 CZ 的互动视频，浏览量 187 万。其最近推出了以本人为蓝本的 NFT 系列，总量 7770 个，27 日开始 free mint，目前总交易量 758E，热度不错可以关注；
+
+LFISoftwareNFT（NFT）- 目前已经 mint 22 万个，持有者 3,091 人，在 opensea 中没有交易额，名字来源于一个工程师间的会议， 一个由顶级专家、研究人员和行业领导者组成的论坛，用于与处理大型分布式软件系统的软件工程师分享事件、事件处理和学习的故事；
+
+Adidas Originals Into the Metaverse（NFT），开启了“Rift Valley Motel”新叙事，用户可以通过 Burn 第二阶段的 NFT 来 Mint 第三阶段的 NFT “ALTS”，社区的反映较为热烈，关注度较大；
+
+### **3.热门 DAPP 方面：**
+
+Polygon POS Bridge （Dapp）- Polygon zkEVM 主网 Beta 版正式上线，以太坊创始人 Vitalik Buterin 将在美国东部时间上午 10:30（北京时间 22:30）执行了第一笔象征性交易。此外， 原 Solana 生态知名 NFT 项目 y00ts 目前已向 NFT 持有者开放向 Polygon 的迁移。前 24 小时内迁移的用户有机会获得 BTC DeGod 和迁移费用补偿；
+
+TT prize（Dapp）- ThunderCore（TT 链）上的新博彩项目，（https://www.prize-dapp.com/），交互量大，有多个游戏模块，TT Prize 平台的主要优势在于其去中心化特性，Lottery 活动不受任何中心化组织的控制、抽奖过程自动化 + 安全性，确保公平性和透明度；
+
+zkSync Era（Dapp）- ，在 Arbitrum 的空投效应影响下，Zksync 链上存款交互的用户和资金增加，Zksync 目前存款 ETH 达超 3 万个；目前刷空投和寻找财富效应的资金已经往 Zksync 迁移，用户可保持关注；上周五宣布上线 zksync Era Mainnet，社区的反响极为热烈；
+
+1inch（Dapp）- 1inch 的提案 1IP-21 以 71.44% 的支持率获得通过，该提案同样提议为社区创建一个 NFT 聚合市场，开发服务将外包给 Blockchain App Factory (BAF)， BAF 将与 1inch 架构和 BE 团队保持一致，领导拟议 NFT 市场的开发执行。该提案的申请的预算约为 38.7 万美元。（此前 3 月 22 日，1inch 发起创立 NFT 交易聚合器的提案投票，该提案提议 Solidity.io 将为此聚合器提供技术支持）;
+
+D5 Exchange（Dapp）- GDX（Gridex）背后的 DEX Aggregator，Arbitrum 生态的订单簿现货交易所，通过空投引起了更多用户关注，币价持续上涨；近期宣布 airdrop 3 开始，maker 单交易 arb 获得 GDX 空投奖励。$GDX 目前已经上线 Bitget 交易，欢迎到 Bitget 交易；
+
+Optimus AI（Dapp）- 个去中心化的人工智能风险基金和人工智能前沿的孵化器，最近与 OKX 钱包宣布合作，任何 OKX 钱包用户现在都可以连接到主网 ，每周有机会在赢得 $100 OPTI；
+
+Link3（Dapp）- Link3 Profile NFT 将个人信息转换为 NFT，帮助用户在去中心化世界建立信誉。用户可用 ENS 地址和头像创建个人 Profile NFT，以在去中心化应用中使用。通过创建并拥有这种 Profile NFT，用户可以在去中心化生态系统中建立信誉，从而更好地参与各种去中心化应用和服务。
+
+Rabbit Hole（Dapp）- 链上任务 + 教学平台，通过参加各类 Dapp 的合约操作来在平台获得认证点数，项目刚刚部署在 Polygon 上，用户交互可以省去较多手续费，项目的社群流量基数较大，可以持续关注；https://rabbithole.gg/
+
+### **4.Twitter 热议方面：**
+
+KMA（Token）：Calamari Network 是波卡生态隐私项目 Manta Network 的社区化先行网，同时也是在 Kusama 上的隐私保护平行链，旨在为整个 Kusama 的 DeFi 网络提供链上隐私服务，代币 KMA 日交易量 14 万美金，热度一般，建议观察；
+
+### **5.区域热搜方面：**
+
+昨日全球各个区域在 Google 上的热搜 Token 十分分散，无突出的热搜项目；
+
+"fud in crypto"、"CFTC" 成为行业热搜词；
+
+### **正文**
+
+*数据统计时间： 3 月 28 日 10:30*
+
+*数据来源：Dune、Dapps、Twitter、Google*
+
+*说明：*
+
+*1）新增活跃用户：是指在该公链过去 24 小时新产生，并在链上有交互行为的钱包地址*
+
+*2）存量活跃用户：是指在该公链 24 小时前产生，但过去 24 小时在链上有交互行为的钱包地址*
+
+*3）Dapp 日活 (UAW: unique active wallets)*
+
+*4）TGE (Token Generation Event)*
+
+**1.公链画像 - ETH 公链**
+-------------------
+
+### **1.1 用户画像**
+
+ETH 活跃用户总数：447,370
+
+ETH 新增活跃用户数：80,806 相比昨日增减幅：+5.08%
+
+ETH 存量活跃用户数：366,564 相比昨日增减幅：+10.38%
+
+核心数据：ETH 昨日新增活跃用户数 80,806，相比昨日 +5.08%
+
+热门赛道情况
+
+![](https://img.foresightnews.pro/202303/10214-1679993542593.png?x-oss-process=style/scale70)
+
+热门项目情况
+
+![](https://img.foresightnews.pro/202303/10214-1679993549627.png?x-oss-process=style/scale70)
+
+zkSync Era（Dapp）- ，在 Arbitrum 的空投效应影响下，Zksync 链上存款交互的用户和资金增加，Zksync 目前存款 ETH 达超 3 万个；目前刷空投和寻找财富效应的资金已经往 Zksync 迁移，用户可保持关注；上周五宣布上线 zksync Era Mainnet，社区的反响极为热烈；
+
+1inch（Dapp）- 1inch 的提案 1IP-21 以 71.44% 的支持率获得通过，该提案同样提议为社区创建一个 NFT 聚合市场，开发服务将外包给 Blockchain App Factory (BAF)， BAF 将与 1inch 架构和 BE 团队保持一致，领导拟议 NFT 市场的开发执行。该提案的申请的预算约为 38.7 万美元。（此前 3 月 22 日，1inch 发起创立 NFT 交易聚合器的提案投票，该提案提议 Solidity.io 将为此聚合器提供技术支持）
+
+核心数据：ETH 存量活跃用户 366,564，相比昨日 +10.38%
+
+热门赛道情况
+
+![](https://img.foresightnews.pro/202303/10214-1679993557754.png?x-oss-process=style/scale70)
+
+热门项目情况
+
+![](https://img.foresightnews.pro/202303/10214-1679993564751.png?x-oss-process=style/scale70)
+
+zkSync Era 已在前文阐明；
+
+### **1.2 热门币对**
+
+![](https://img.foresightnews.pro/202303/10214-1679993756804.png?x-oss-process=style/scale70)
+
+IC（Token）- Icy，（https://www.dextools.io/app/en/ether/pair-explorer/0xeaabb2ee89221455302d9ffb5325689ff8f0c37b），Twitter Followers 不到 2k，但关注者中包含了 Crypto Lord、SHIB ARMY 等较大 KOL 账户的 meme 项目。合约无明显风险，筹码分散，链上 holders 有很多 ENS holders，风险较大，请谨慎投资；
+
+GETH（Token） - （https://coinmarketcap.com/currencies/goerli-eth/），Goerli 是以太坊的测试网，为那些还未正式上线的 ETH 生态项目提供一个测试的环境，从而优化自身产品。对于用户而言，一般在测试网上配合项目方积极参与测试，会获得空投的机会。GETH 就是在 Goerli 测试网上用来测试的“测试网版 ETH”。 近期 Goerli ETH 供给减少（申领网站为了防止机器人用户滥领水龙头，必须有 Alchemy 的账户才可以申领）；为此，有人在 Uniswap 建立了交易池，几个主要的流动池深度加起来只有 30 万美金左右，但上面的 GETH 是以太坊主网上的 GETH，用户在 Uniswap 买了之后可以通过 LayerZero 跨链桥，把以太坊主网的 GETH 跨链到测试网 GETH。
+
+SOV（Token）- ShibOriginalVision，（https://www.dextools.io/app/en/ether/pair-explorer/0xf126ac81688aa0fc16aa41361a3891b6cd78736f），蹭 SHIB 热度的土狗项目，合约存在未开源的重大风险，过去 24h 链上发生 2337 笔交易、交易量达 $12M，风险较大，不建议参与；
+
+BUMBLEC（Token）- BUMBLEC，（https://www.dextools.io/app/en/ether/pair-explorer/0x0d1ff2b09a23c6422da22e5bfa2fedf3deaaba03）卖出税率为高达 26.35%、且存在可暂停交易风险的项目，不建议参与；
+
+![](https://img.foresightnews.pro/202303/10214-1679993765661.png?x-oss-process=style/scale70)
+
+PAW（Token）- PAWZONE，（https://www.dextools.io/app/en/ether/pair-explorer/0x7e439bfe38105802fa295a25115c42544011427a），需要特别注意，此 PAW 并非那个在 Shibarium 测试网上线前曾有过连续惊人涨幅的 PAWSWAP（PAW），是一个蹭 SHIB 生态和 PAWSWAP 热度的新部署 Token，代币合约没有明显风险，过去 24h 在 ShibaSwap 上有 3,870 笔交易和惊人的 $10M 交易量，但币价在过去 24h 大跌 -30%， 请谨慎投资；
+
+**2.公链画像 - BSC 公链**
+-------------------
+
+### **2.1 用户画像**
+
+BSC 活跃用户总数：1,323,582
+
+BSC 新增活跃用户数：146,495 相比昨日增减幅：-9.52%
+
+BSC 存量活跃用户数：1,177,087 相比昨日增减幅：+2.11%
+
+核心数据：BSC 昨日新增活跃用户数 146,495，相比昨日 -9.52%
+
+热门赛道情况
+
+![](https://img.foresightnews.pro/202303/10214-1679993773086.png?x-oss-process=style/scale70)
+
+热门项目情况
+
+![](https://img.foresightnews.pro/202303/10214-1679993779873.png?x-oss-process=style/scale70)
+
+TTGameEvents（Dapp）- 合约地址疑似为 https://www.bscscan.com/address/0x7192611537108231ce07ac20ddf40c850a00ef6a ，尚不能定位到是具体哪个哪个项目。疑似是 3 月 19 日创建的小游戏的 dapp，可能和 ThunderCore（TT 链）上的新博彩项目 TT prize 有关；
+
+Space ID（Dapp）- 目前用户调用 Space ID 的 Reverse Register，可以把自己购买的地址.bnb 和.arb 的地址反解析到 EOA 地址上，与 ENS 的反解析到 ETH 地址的操作相似；
+
+Link3（Dapp）- Link3 Profile NFT 将个人信息转换为 NFT，帮助用户在去中心化世界建立信誉。用户可用 ENS 地址和头像创建个人 Profile NFT，以在去中心化应用中使用。通过创建并拥有这种 Profile NFT，用户可以在去中心化生态系统中建立信誉，从而更好地参与各种去中心化应用和服务。
+
+核心数据：BSC 存量活跃用户 1,177,087，相比昨日 +2.11%
+
+热门赛道情况
+
+![](https://img.foresightnews.pro/202303/10214-1679993786970.png?x-oss-process=style/scale70)
+
+热门项目情况
+
+![](https://img.foresightnews.pro/202303/10214-1679993793708.png?x-oss-process=style/scale70)
+
+Fintoch STO（Dapp）- 近期在越南线下举办主网上线庆祝会，在越南地区有一定的影响力。全球化做的一般，TW 上的关注度不高，建议持续观察；
+
+### **2.2 热门币对**
+
+![](https://img.foresightnews.pro/202303/10214-1679993800140.png?x-oss-process=style/scale70)
+
+MMIT（Token）- MangoMan Intelligent，（https://www.dextools.io/app/en/bnb/pair-explorer/0x7f36fded4229f37e409ddebf42e8860e5acf4b26），“A DeFi coin for crypto beginners”概念的老项目，近期资金进入代币走势良好，在 CMC、dextool 上做了代币推荐，引起短期炒作热情；过去 24h 链上发生 6651 笔交易达成了 $5M 交易量；
+
+AI（Token）- GPT4 AI，（https://www.dextools.io/app/en/bnb/pair-explorer/0x9ab6ac4cdb87dda305b1fda384e739b0bbf60d9b），疑似貔貅盘的高风险项目，蹭 GPT4 热度的三无土狗 Token，过去 24h 链上交易量高达 $9M+，不建议参与，谨防貔貅风险；
+
+LiquidSwap（Token）- （https://www.dextools.io/app/en/bnb/pair-explorer/0x738d93e0c3ef2d24c0c52ba1b5e05534ceeec374），疑似 Aptos 上 DEX - LiquidSwap 的冒名假币，合约未检测出明显风险，项目方把币打到 Mexc、Binance、Gate 等钱包账户，风险较大不建议参与；
+
+**3.公链画像 - Polygon 公链**
+-----------------------
+
+### **3.1 用户画像**
+
+Polygon 活跃用户总数：430,003
+
+Polygon 新增活跃用户数：85,271 相比昨日增减幅：-10.48%
+
+Polygon 存量活跃用户数：344,732 相比昨日增减幅：+9.15%
+
+核心数据：Polygon 昨日新增活跃用户数 85,271，相比昨日 -10.48%
+
+热门赛道情况
+
+![](https://img.foresightnews.pro/202303/10214-1679993809806.png?x-oss-process=style/scale70)
+
+热门项目情况
+
+![](https://img.foresightnews.pro/202303/10214-1679993820736.png?x-oss-process=style/scale70)
+
+SUIBG（Token）- SUI Futures Bitget。BitKeep 与 Bitget 联合推出一项名为 SUIBG (SUI Futures Token) 的期货空投，可作为未来 Sui Network 主网上线后，其原生代币 SUI 的兑换凭证。用户可以在 BitKeep 钱包参与红包空投、交易奖励等活动，或在 Bitget 交易平台参加 SUIBG 嘉年华活动领取 SUIBG；目前 DEX 上有相关交易池，但是流动性较差深度较低，建议从 Bitget 和 Bitkeep 官方渠道申领；
+
+Rabbit Hole（Dapp）- 链上任务 + 教学平台，通过参加各类 Dapp 的合约操作来在平台获得认证点数，项目刚刚部署在 Polygon 上，用户交互可以省去较多手续费，项目的社群流量基数较大，可以持续关注；https://rabbithole.gg/
+
+核心数据：Polygon 存量活跃用户 344,732，相比昨日 +9.15%
+
+热门赛道情况
+
+![](https://img.foresightnews.pro/202303/10214-1679993833902.png?x-oss-process=style/scale70)
+
+热门项目情况
+
+![](https://img.foresightnews.pro/202303/10214-1679993843790.png?x-oss-process=style/scale70)
+
+Polygon 上活跃度最高的项目依然是 链游 Planet IX 和 热门 SocialFi 项目 Lens Protocol；
+
+### **3.2 热门币对**
+
+![](https://img.foresightnews.pro/202303/10214-1679993855696.png?x-oss-process=style/scale70)
+
+Polygon 公链在 Uniswap V3 上的头部活跃交易对以主流币、稳定币为主；
+
+**4.公链画像 - Arbitrum 公链**
+------------------------
+
+### **4.1 用户画像**
+
+Arbitrum 活跃用户总数：210,837
+
+Arbitrum 新增活跃用户数：41,126 相比昨日增减幅：-10.55%
+
+Arbitrum 存量活跃用户数：169,711 相比昨日增减幅：+6.25%
+
+核心数据：Arbitrum 昨日新增活跃用户数 41,126，相比昨日 -10.55%
+
+热门赛道情况
+
+![](https://img.foresightnews.pro/202303/10214-1679993864102.png?x-oss-process=style/scale70)
+
+热门项目情况
+
+![](https://img.foresightnews.pro/202303/10214-1679993872032.png?x-oss-process=style/scale70)
+
+GDX（Token）、 Gridex（Dapp）- GDX 是 Arbitrum 上结合了订单簿和网格交易的 DEX，昨日 GDX 币价大涨，目前刷分撸空投的热度很高；因空投原因，目前 GDX 链上已有 11,548 holders；
+
+核心数据：Arbitrum 存量活跃用户 169,711，相比昨日 +6.25%
+
+热门赛道情况
+
+![](https://img.foresightnews.pro/202303/10214-1679993879774.png?x-oss-process=style/scale70)
+
+热门项目情况
+
+![](https://img.foresightnews.pro/202303/10214-1679993887030.png?x-oss-process=style/scale70)
+
+D5 Exchange（Dapp）- GDX（Gridex）背后的 DEX Aggregator，Arbitrum 生态的订单簿现货交易所，通过空投引起了更多用户关注，币价持续上涨；近期宣布 airdrop 3 开始，maker 单交易 arb 获得 GDX 空投奖励。$GDX 目前已经上线 Bitget 交易，欢迎到 Bitget 交易；
+
+### **4.2 热门币对**
+
+![](https://img.foresightnews.pro/202303/10214-1679993894468.png?x-oss-process=style/scale70)
+
+ARB（Token），Arbitrum L2 Token，上周 Arbitrum 完成发币后，交易需求较大；根据目前 Nansen 的数据显示，前已有超 10 亿枚 Arbitrum 代币 ARB 被认领，占此次空投供应量的 87%。此次空投符合条件的地址数为 625,143 个，已认领地址数为 540,079 个，占比约 86%。Bitget 作为全球首发 ARB 的 CEX，提供了良好的交易深度和做市条件。https://www.bitget.com/en/spot/ARBUSDT\_SPBL?type=spot
+
+**5.DAPP 生态 - 所有公链**
+--------------------
+
+![](https://img.foresightnews.pro/202303/10214-1679993922880.png?x-oss-process=style/scale70)
+
+TT prize（Dapp）- ThunderCore（TT 链）上的新博彩项目，（https://www.prize-dapp.com/），交互量大，有多个游戏模块，TT Prize 平台的主要优势在于其去中心化特性，Lottery 活动不受任何中心化组织的控制、抽奖过程自动化 + 安全性，确保公平性和透明度；
+
+**6.DAPP 生态 - ETH 公链**
+----------------------
+
+![](https://img.foresightnews.pro/202303/10214-1679993931558.png?x-oss-process=style/scale70)
+
+昨日行情动荡，几个 DEX 和 Uniswap NFT 聚合器的 UAW 明显上升；
+
+Polygon POS Bridge （Dapp）- Polygon zkEVM 主网 Beta 版正式上线，以太坊创始人 Vitalik Buterin 将在美国东部时间上午 10:30（北京时间 22:30）执行了第一笔象征性交易。此外， 原 Solana 生态知名 NFT 项目 y00ts 目前已向 NFT 持有者开放向 Polygon 的迁移。前 24 小时内迁移的用户有机会获得 BTC DeGod 和迁移费用补偿；
+
+Adidas Originals Into the Metaverse（NFT），开启了“Rift Valley Motel”新叙事，用户可以通过 Burn 第二阶段的 NFT 来 Mint 第三阶段的 NFT “ALTS”，社区的反映较为热烈，关注度较大；
+
+**7.DAPP 生态 - BSC 公链**
+----------------------
+
+![](https://img.foresightnews.pro/202303/10214-1679993941318.png?x-oss-process=style/scale70)
+
+TinyTap（Dapp），项目的愿景是通过 Web3 技术做一个去中心化教育平台，由 Animoca Brands 支持；前几日项目举办题为"The Future of NFTs"的线下交流会，并将视频录制放到 Youtube 上，引起社区的一定反响，导致 UAW 的大幅提高；https://www.start.tinytap.com/publisher-nft
+
+**8.DAPP 生态 - Polygon 公链**
+--------------------------
+
+![](https://img.foresightnews.pro/202303/10214-1679993950352.png?x-oss-process=style/scale70)
+
+在用户的强空投预期下，Lens Protocol 的 UAW 数据持续居于 Polygon 生态前列；
+
+**9.DAPP 生态 - WAX 公链**
+----------------------
+
+![](https://img.foresightnews.pro/202303/10214-1679993960706.png?x-oss-process=style/scale70)
+
+WAX 链上 GameFi 项目等的 DAU 正常波动；
+
+**10.DAPP 生态 - Solana 公链**
+--------------------------
+
+![](https://img.foresightnews.pro/202303/10214-1679993973894.png?x-oss-process=style/scale70)
+
+Solana 上依然由头部项目 Magic Eden、MeanFi、Rarible 等占据头部，整体生态 UAW 平稳波动，已长时间无突破；
+
+**11.DAPP 生态 - Arbitrum 公链**
+----------------------------
+
+Arbitrum 生态数据今日异常，因此不做统计。
+
+**12.DAPP 生态 - 全公链 GameFi 板块**
+------------------------------
+
+![](https://img.foresightnews.pro/202303/10214-1679993985475.png?x-oss-process=style/scale70)
+
+GameFi 应用 UAW 数据集体下滑，P2E 打金的活跃度被撸空投压制；
+
+**13.Gas 费消耗情况 - ETH 公链**
+-------------------------
+
+![](https://img.foresightnews.pro/202303/10214-1679993998688.png?x-oss-process=style/scale70)
+
+The Dev Public Mint（NFT）：https://opensea.io/collection/the-devs-nft/analytics，the dev 是一个比特币开发者，推上经常会发一些币圈相关的视频短片，关注度很高。被 CZ 关注，且置顶推文是和 CZ 的互动视频，浏览量 187 万。其最近推出了以本人为蓝本的 NFT 系列，总量 7770 个，27 日开始 free mint，目前总交易量 758E，热度不错可以关注；
+
+**14.Gas 费消耗情况 - BSC 公链**
+-------------------------
+
+![](https://img.foresightnews.pro/202303/10214-1679994009023.png?x-oss-process=style/scale70)
+
+Optimus AI（Dapp）- 个去中心化的人工智能风险基金和人工智能前沿的孵化器，最近与 OKX 钱包宣布合作，任何 OKX 钱包用户现在都可以连接到主网 ，每周有机会在赢得 $100 OPTI；
+
+**15.Gas 费消耗情况 - Polygon 公链**
+-----------------------------
+
+![](https://img.foresightnews.pro/202303/10214-1679994019250.png?x-oss-process=style/scale70)
+
+LFISoftwareNFT（NFT）- 目前已经 mint 22 万个，持有者 3,091 人，在 opensea 中没有交易额，名字来源于一个工程师间的会议， 一个由顶级专家、研究人员和行业领导者组成的论坛，用于与处理大型分布式软件系统的软件工程师分享事件、事件处理和学习的故事。
+
+**16.Gas 费消耗情况 - Arbitrum 公链**
+------------------------------
+
+![](https://img.foresightnews.pro/202303/10214-1679994029771.png?x-oss-process=style/scale70)
+
+MetaMask：Arbitrum Router（Dapp）：metamask 近期交易量大增，与加密钱包 MetaMask 内置 DEX 聚合器 MetaMask Swap 交互过的用户地址数已突破 160 万，共计 1446 万笔的 Swap 交易实现了超 556 亿美元的累计成交额，为 MetaMask 带来了 4.87 亿美元的平台费用。
+
+**17.Twitter trends token top 20**
+----------------------------------
+
+![](https://img.foresightnews.pro/202303/10214-1679994061516.png?x-oss-process=style/scale70)
+
+从 Twitter 趋势代币热度角度看：
+
+热度上升较高的代币：APT、EGLD；
+
+新上榜代币：BUSD；
+
+BUSD（Token）：因事件驱动，昨日 BUSD 流出 2.1 亿左右，市值达到 78.32 亿美元；
+
+**18.Twitter KOL 提及代币次数**
+-------------------------
+
+![](https://img.foresightnews.pro/202303/10214-1679994070165.png?x-oss-process=style/scale70)
+
+Super Kol 提及较热代币：BTC、ARB、ETH；
+
+Builder 提及的代币：ARB、KMA；
+
+KMA（Token）：Calamari Network 是波卡生态隐私项目 Manta Network 的社区化先行网，同时也是在 Kusama 上的隐私保护平行链，旨在为整个 Kusama 的 DeFi 网络提供链上隐私服务，代币 KMA 日交易量 14 万美金，热度一般，建议观察；
+
+**19.Twitter VC 机构提及代币次数**
+--------------------------
+
+![](https://img.foresightnews.pro/202303/10214-1679994079113.png?x-oss-process=style/scale70)
+
+从 VC 机构在 TW 上提及的次数看：USDC、BNB、ZEUM、NOM、THOR；
+
+近期多日持续提及，无特别更新项目；
+
+**20.Google 热搜词云 - 全区域**
+------------------------
+
+![](https://img.foresightnews.pro/202303/10214-1679994091586.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/10214-1679994101187.png?x-oss-process=style/scale70)
+
+热词：Binance、Coinbase、CFTC；
+
+Binance（Dapp)：加密交易平台 Binance 及其 CEO CZ 因涉嫌违反交易和衍生品规则而被美国商品期货交易委员会（CFTC）起诉。监管机构表示，Binance 没有正确注册，从而逃避了应尽义务。至少从 2021 年起，CFTC 就一直在调查 Binance 是否未能阻止美国居民买卖加密货币衍生品。CFTC 规则通常要求平台在允许美国人交易这些产品时向该机构注册。
+
+**21.Google 搜索热词飙升 - 东亚、南亚、东南亚、港澳台**
+------------------------------------
+
+![](https://img.foresightnews.pro/202303/10214-1679994116147.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/10214-1679994121870.png?x-oss-process=style/scale70)
+
+「印度」热搜 Token：gtc、mana；
+
+热搜词汇：watcher guru twitter；
+
+「巴基斯坦 」热搜词：fud in crypto、cryptoquant、tradingview；
+
+「菲律宾」热搜 Token：btc、pi、polygon；
+
+「印度尼西亚」热搜词：pancakeswap、coingecko、bscscan；
+
+「马来西亚」热搜词：Binance、xrp；
+
+「越南」热搜词：coinmarketcap；
+
+「新加坡」热搜 Token：luna、binance 新闻；
+
+**22.Google 搜索热词飙升 - 英文区、欧洲、CIS 区**
+-----------------------------------
+
+![](https://img.foresightnews.pro/202303/10214-1679994145992.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/10214-1679994151462.png?x-oss-process=style/scale70)
+
+「加拿大」热搜 Token：vra、sand；
+
+「澳大利亚」热搜 Token：shib、xen；
+
+「英国」热搜 Token：bax、avax、fet；
+
+「西班牙」热搜 Token：gala、xrp、link、ada；
+
+「意大利」热搜 Token：axs、gtc、id、xlm；
+
+「法国」热搜 Token： chz、matic、cfx、kmd、dydx；
+
+「德国」热搜 Token：comp、xen；
+
+「波兰」热搜 Token：luna、xen；
+
+**23.Google 搜索热词飙升 - 中东、拉丁美洲、非洲**
+---------------------------------
+
+![](https://img.foresightnews.pro/202303/10214-1679994172224.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/10214-1679994177110.png?x-oss-process=style/scale70)
+
+「尼日利亚」热搜词：fud in crypto；
+
+「南非」热搜词：Berry Crypto Trading、xrp news、binance；
+
+「巴西」 热搜 Token：btc、id、arb；
+
+「墨西哥」热搜词：Crypto Arena 、UST；
+
+「阿根廷」热搜 token：无
+

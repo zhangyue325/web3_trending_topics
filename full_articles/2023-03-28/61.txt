@@ -1,0 +1,52 @@
+Provide the latest and most complete industry financing news, get first-hand news, please pay attention to veDAO financing daily!
+
+### 【1】Midaswap
+
+Amount: Undisclosed
+
+Stages: Angel round
+
+Date: March 27
+
+Investors: Undisclosed
+
+Category: NFT, NFTFi, NFT AMM
+
+Description: Midaswap is a Liquidity Book-based NFT automated market maker protocol, which aims to aggregate different pricing strategies of different LPS in the same liquidity pool by combining customizable liquidity positions, Multihop Swap and other means to achieve full aggregation of asset liquidity on the FT side.
+
+Website: <https://midaswap.org/>
+
+Twitter: <https://twitter.com/Midaswap>
+
+### 【2】Cega
+
+Amount: $5 million
+
+Stages: Undisclosed
+
+Date: March 27
+
+Investors: Dragonfly, Pantera Capital, Robot Ventures
+
+Category: DeFi, Derivatives
+
+Description: Cega is a decentralized alternative derivatives protocol that builds exotic option structured products for retail investors that generate superior returns and provide built-in protection against market downturns.
+
+Additions: $4.3 million closed in seed round funding on March 9, 2022
+
+Website: <https://www.cega.fi/>
+
+Twitter: <https://twitter.com/cega_fi>
+
+### About veDAO
+
+veDAO is an investment and funding community dedicated to discovering early-stage potential projects. By gathering public wisdom and professional opinions, veDAO provides a fair, transparent and democratic project evaluation and investment and financing process for community participants, investors and project parties, allowing all participants to share the project development dividends.
+
+Website: <https://app.vedao.com/>
+
+Twitter: <https://twitter.com/vedao_official>
+
+Telegram: <https://t.me/veDAO_EN>
+
+Discord: <https://discord.gg/NEmEyrWfjV>
+

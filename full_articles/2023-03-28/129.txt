@@ -1,0 +1,217 @@
+![](https://img.foresightnews.pro/202303/decf015fdcce7c27fddc3028b3b8ff14.png?x-oss-process=style/scale70)**前言：**上周，一级市场的主要融资领域集中在基础设施、游戏、Metaverse、DeFi 和 Web3 应用，融资金额从 150 万美元到 4000 万美元不等。
+
+![](https://img.foresightnews.pro/202303/3b3ebff7ae01710dfa1ea1a1ef72447d.jpeg?x-oss-process=style/scale70)从上周统计的投融资数据（共计 9 个项目）看，投资方向主要包括 Web3 基础设施（3 个）、Game（1 个）、Metaverse（3 个）、DeFi（1 个）和 Web3 应用（1 个）。
+
+  
+
+
+其中，基础设施领域的 Gryfyn 完成了 750 万美元融资，Particle Network 融资 700 万美元，Radix 融资 1000 万美元。游戏领域，链游开发商 CCP Games 完成 4000 万美元融资。在 Metaverse 领域，Gamitronics 完成 150 万美元战略融资，LandVault 融资 3700 万美元，Hadean 融资 500 万美元。而在 DeFi 领域，Megaton Finance 完成 150 万美元种子轮融资。最后，在 Web3 应用领域，OP3N 完成了 2800 万美元的 A 轮融资。
+
+  
+
+
+**CGV 总结了加密市场一周值得关注的投融资信息，以下是 2023 年 3 月 20 日至 2023 年 3 月 26 日全球加密市场的投融资信息：**
+
+  
+
+
+**基础设施**
+
+  
+
+
+**1.Gryfyn | 融资 750 万美元｜Animoca Ventures 等参投**
+
+3 月 21 日，加密托管钱包 Gryfyn 完成 750 万美元融资，Liberty City Ventures、GameFi Ventures、Lavender Hill Capital Partners、Mind Fund、Animoca Ventures、LeadBlock Partners、Angel Hub、Brinc，以及天使投资人 Gabby Dizon 参投。Gryfyn 旨在提供托管加密钱包。
+
+  
+
+
+官网：
+
+https://www.gryfyn.io/
+
+原文链接：
+
+https://www.animocabrands.com/animoca-brands-and-hex-trust-launch-gryfyn-nft-centric-custodial-wallet-joint-venture
+
+  
+
+
+**2. Particle Network | 融资 700 万美元｜ABCDE Capital 领投**
+
+3 月 24 日，Web3 开发平台 Particle Network 宣布完成 700 万美元融资，此轮融资由 ABCDE Capital 领投，Animoca Brands、Longhash Ventures、ArkStream Capital、GSR Ventures、OP Crypto 和 HashKey 等机构参投。
+
+  
+
+
+Particle Network 核心产品是登录和钱包中间件解决方案，可帮助开发人员将用户友好的 Web3 身份验证解决方案集成到他们的去中心化应用程序中。
+
+  
+
+
+官网：
+
+https://particle.network/
+
+原文链接：
+
+https://www.theblock.co/post/221975/particle-network-raise
+
+  
+
+
+**3. Radix | 融资 1000 万美元｜DWF Labs 领投**
+
+3 月 23 日，Layer1 公链 Radix 宣布完成 1000 万美元融资，本轮融资完全由 DWF Labs 支持，投后估值达到 4 亿美元。
+
+  
+
+
+Radix 有自研的共识系统和执行环境，预计将于今年第二季度推出名为 Babylon 的主网。
+
+  
+
+
+原文链接：
+
+https://www.theblock.co/post/222264/layer-1-developer-radix-reaches-400-million-valuation-in-new-token-round?utm\_source=twitter&utm\_medium=social
+
+  
+
+
+**Game**
+
+  
+
+
+**4. CCP Games | 融资 4000 万美元｜a16z 领投**
+
+3 月 21 日，链游开发商 CCP Games 完成 4000 万美元融资，a16z 领投，Makers Fund、Bitkraft、Kingsway Capital、Nexon、Hashed 等参投。
+
+  
+
+
+CCP Games 本轮融资用于制作一款以 Eve Online 宇宙为背景的新的 3A 区块链游戏。
+
+  
+
+
+官网：
+
+https://www.ccpgames.com/
+
+原文链接：
+
+https://venturebeat.com/games/ccp-games-raises-40m-for-new-triple-a-web3-game-in-the-eve-universe/
+
+  
+
+
+**Metaverse**
+
+**5. Gamitronics | 战略轮融资 150 万美元｜Big Viking Games 参投**
+
+3 月 22 日，元宇宙营销平台 Gamitronics 宣布完成 150 万美元战略融资，Big Viking Games 参投，该公司首席执行官 Rajat Ojha 透露目前已启动 pre-A 轮融资，预计将在未来几个月内完成。
+
+  
+
+
+Gamitronics 推出的元宇宙营销平台 PartyNite 主要帮助品牌商吸引受众，通过出售虚拟地块帮助品牌商在虚拟世界中投放广告。
+
+  
+
+
+官网：
+
+https://sgsthegame.gamitronics.com/
+
+原文链接：
+
+https://finnoexpert.com/2023/03/21/metaverse-startup-gamitronics-in-talks-to-raise-funding/
+
+**6. LandVault | 融资 3700 万美元｜软银、The Sandbox 等领投**
+
+3 月 23 日，元宇宙开发公司 LandVault 宣布完成 3700 万美元新一轮融资，The Sandbox、软银和 Kingsway Capital 领投，HodlCo、Gemini Frontier Fund 等参投。
+
+  
+
+
+LandVault 已经与喜力、欧莱雅和万事达卡等合作伙伴共同创建元宇宙基础设施，该公司将利用这笔资金继续其 Web3 扩张并创建 AI 工具，同时扩大亚洲、迪拜、欧洲和美国团队规模。
+
+  
+
+
+官网：
+
+https://t.co/w5E2mmlHcA
+
+原文链接：
+
+\https://nftevening.com/animoca-brands-backs-metaverse-construction-company-landvault/
+
+**7. Hadean | 融资 500 万美元｜Ericsson Ventures 等参投**
+
+3 月 24 日，元宇宙基础设施开发商 Hadean 完成 500 万美元融资，本轮融资由 Ericsson Ventures、Metrea Discovery、VU Venture Partners、Sanctor Capital 和 Tirta Ventures 等参投。Hadean 表示将加快其基于云的元宇宙解决方案的开发。
+
+  
+
+
+原文链接：
+
+https://venturebeat.com/games/hadean-raises-5m-for-metaverse-infrastructure-solutions/
+
+  
+
+
+**DeFi**
+
+**8. Megaton Finance | 种子轮融资 150 万美元｜TONcoin.Fund 领投**
+
+3 月 21 日，The Open Network（TON）生态 AMM 协议 Megaton Finance 完成 150 万美元种子轮融资，The Open Network（TON）生态孵化加速器 TONcoin.Fund 领投，Cypher Capital、First Stage Labs、Orbs、MEXC Ventures 等参投。
+
+  
+
+
+Megaton Finance 由韩国区块链技术公司 OZYS 开发，OZYS 开发的跨链平台 Orbit Bridge 已将 TON 连接到基于 EVM/NEVM 的多链社区，并通过开发 TON 的封装协议 WTON Gateway 提高了 TONcoin (TON) 的实用性。
+
+  
+
+
+原文链接：
+
+https://mondovisione.com/media-and-resources/news/toncoinfund-leads-15-million-seed-funding-for-megaton-finance-driving-defi-gr/
+
+  
+
+
+**Web3 应用**
+
+  
+
+
+**9. OP3N | A 轮融资 2800 万美元｜Animoca Brands 领投**
+
+3 月 21 日，基于 AI 的 Web3 平台 OP3N 以 1 亿美元估值完成 2800 万美元 A 轮融资，Animoca Brands 领投，Dragonfly Capital、SuperScrypt、Creative Artists Agency 和 New Enterprise Associates 的 Connect Ventures、Republic Crypto、Avalanche 的暴雪基金、Galaxy Digital 和 Warner Music Interactive、GSR Markets、The Spartan Group、BRV Capital Management 和 NBA 球员 Russell Westbrook 等参投。
+
+  
+
+
+OP3N 推出的聊天产品 Superapp 旨在通过将区块链和去中心化技术扩展到 Web 2.0 友好界面中以弥合 Web 2.0 和 Web3 之间的差距。该应用程序将能够将音频、视频和混合媒体内容添加到链上交互中，以便用户可以获得「一站式」体验。
+
+  
+
+
+官网：
+
+https://op3n.world/communities/now-united
+
+原文链接：
+
+https://techcrunch.com/2023/03/21/op3n-raises-28m-to-build-whatsapp-meets-amazon-for-web3/?guccounter=1
+
+  
+
+
+![](https://img.foresightnews.pro/202303/7f109d4309aee7e0218df3437717ae23.png?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/9bebb1974fb2dd454ae69b9542987816.png?x-oss-process=style/scale70)Cryptogram Venture (CGV) 是一家总部位于日本、具备合规资质的加密行业研究及投资机构。以“研究驱动投资”为业务导向，曾参与 Republic、CasperLabs、AlchemyPay、The Graph、Bitkeep、Pocket 和 Powerpool，以及接受日本政府监管的日元稳定币 JPYW 等早期投资。同时，CGV FoF 是 Huobi venture、Rocktree capital、Kirin fund 等基金的 LP。旗下设立 Web3 黑客松及行业峰会等品牌活动，2022 年 7 月至 10 月，发起日本首个 Web3 黑客马拉松（TWSH），并获得日本文部科学省、庆应大学、SONY、软银等机构和专家联合支持。目前，CGV 在新加坡、加拿大及中国等地区设有分支机构。
+

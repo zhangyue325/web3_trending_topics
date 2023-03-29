@@ -1,0 +1,44 @@
+北京时间 3 月 31 日早 9:30，Web3 创投集团 EVG(Everest Ventures Group) 将举办第二期 EVG Demo Day 活动，届时将会有[Legend of Arcadia,](https://wp.legendofarcadia.io/) [Metakey](https://themetakey.com/), [Social Future](https://web3.may.social/), [AstroX](https://astrox.me/), [Gabby World](https://twitter.com/gabby_world_) 和[Suia](https://suia.io/)参与路演，涵盖了元宇宙、GameFi、AI、Web 3 基础设施、NFT 和去中心化社交等领域。
+
+ 
+
+EVG(Everest Ventures Group) 成立于 2018 年，是一家立足于中国香港具有国际化视野的综合性 Web3 创投集团。早期通过风险投资切入 Web3 领域，现成长为以内部创业和项目孵化为主、风险投资为辅的新兴 Web3 创投集团。投资项目包括 Dapper Labs, Animoca Brands, Immutable、 The Sandbox, Yuga Labs, Kraken, Lukka, Upbit 和 Celestia 等。集团旗下运营的公司 / 项目包括 Kikitrade, Aspen Digital, Mugen Interactive, Liveart, Cassava, Vibra 等。
+
+ 
+
+我们一起来看下会亮相本次 EVG Demo Day 的项目：
+
+### [Legend of Arcadia](https://wp.legendofarcadia.io/)
+
+Legend of Arcadia 是一个 Free2Play 、Play2Earn 的策略休闲卡牌游戏，融合了丰富的游戏经济循环和 GameFi 2.0 概念系统。游戏不仅支持 Android 和 iOS 平台玩家，还支持 Metamask 和 Unipass 钱包 (Google, Apple ID) 登录，旨在吸引所有 web2 和 web3 玩家社群，打造以社交为核心的策略休闲卡牌游戏。除了可以体验游戏内的丰富故事情节外，玩家还可以通过质押、战斗和挖矿来提高收益。
+
+ 
+
+### [Metakey](https://themetakey.com/)
+
+Metakey 是一个连接 web2 与 web3 的元宇宙项目，提供一系列元宇宙服务，包括战略、设计和架构、游戏开发、品牌激活、营销和公关、虚拟土地收购 / 租赁和数字可穿戴设计等。公司与许多组织合作，包括时代广场、澳大利亚公开赛和 Cap Gemini 等，并与毕马威、微软和爱立信联手为沙特阿拉伯提供数字解决方案。目前拥有 6,000 多个 Metakey 持有者，用户可以访问 Metakey 及其合作伙伴的游戏、应用程序、平台和元宇宙等。
+
+ 
+
+### [Social Future](https://web3.may.social/)
+
+Social Future 是一个 AI 驱动的虚拟体验平台，在保护用户隐私的同时，通过 AI 动作捕捉系统，实时捕捉用户的完整表情动作，并通过 AI 生成的元宇宙 (AIGM) 释放创造力。团队包括多名社交、游戏、AI 领域的专家，目前拥有超过 5 万用户与 3.5 万独立钱包地址，2023 年 1 月以来，DAU 增长超过三倍。
+
+ 
+
+### [AstroX](https://astrox.me/)
+
+AstroX Network 正在通过易用、去中心化的自托管钱包解决方案，解决 web3 的大规模应用门槛问题，面向未来的十亿用户提供更安全、更友好的钱包方案。 其账户抽象 (AA) 钱包基础设施，让用户能够在无需助记词的情况下跨链保护他们的资产，并可在任何设备上访问。 此外，AstroX 还为 Web3 项目合作伙伴提供新用户导入的解决方案以分发 NFT/ 代币等。
+
+ 
+
+### [Gabby World](https://twitter.com/gabby_world_)
+
+Gabby World 是一个基于 AIGC 的社交元宇宙，用户通过用自然语言聊天来培养自己的 Gabbies，每个 Gabby 将通过聊天培养过程拥有自己的人格和兴趣，然后代替用户在 Web3 世界中进行社交，比如与其他 Gabbies 交朋友，发布他们的日常生活，关注、点赞和评论彼此的社交活动。
+
+ 
+
+### [Suia](https://suia.io/)
+
+Suia.io 是一个基于 Sui 构建的社交 dApp，用户可以在其中建立基于 NFT 所有权的新关系，目前拥有超过 20 万用户、50 个 Sui 品牌，3 个月内积累了 110 万笔交易，日独立访客超过 5 千，项目获得 Sui Grant 与 Sui Hero 等。团队也是 Mysten Labs 的第一个开发者合作伙伴。
+

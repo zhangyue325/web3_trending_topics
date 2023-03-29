@@ -1,0 +1,43 @@
+Progress Report March 21-March 28
+
+![](https://img.foresightnews.pro/202303/2002e6c8f8614898d94ed355c2467bb8.png?x-oss-process=style/scale70)### Key points:
+
+* Strategic partnership with SolyzerX and William Hill
+* REI Network Educate: BLS signature algorithm
+### A. Product Development Progress
+
+REI-CORE
+
+- DAO module to support on-chain parameter governance @in progress
+
+REI-DAO
+
+- REI-DAO’s own data table synchronization logic @in progress
+
+- REI-DAO data loading logic optimization @in progress
+
+### B. Operational Progress
+
+* REI Network is developing the BLS signature algorithm to realize signature aggregation and key aggregation. This article explains the functions&advantages of the BLS signature algorithm, and how it will improve REI Network: [https://medium.com/gxchain-project/bls-digital-signature-reduces-validator-storage-space-on-rei-network-d63f72a2b62](https://medium.com/gxchain-project/bls-digital-signature-reduces-validator-storage-space-on-rei-network-d63f72a2b62b)
+### C. Ecosystem
+
+* We’re thrilled to announce REINetwork’s partnership with SolyzerX. With their expertise in Web3 security assessment & advisory services, we’re committed to fortifying the Web3 space & to help the builders to have a greater chance of securing their funding too!
+* We’re thrilled to announce the partnership with William Hill, a web 3.0 encryption industry’s first football hedging technology. Stay tuned for more exciting news!
+### Join the REI Network Community
+
+REI Network is an EVM-compatible public blockchain. As an Ethereum para chain, it owns the features of lightweight, free and dev-friendly. REI Network is to effectively solve the current high-cost and low-efficiency problems of public chains. Therefore, GXChain can achieve free, low-cost development, and rapid migration of applications, and can be shared and symbiotic with the EVM ecosystem, also supporting the development of Defi, GameFi, and NFT.
+
+*Users can access the REI token on:*
+
+[Binance](https://www.binance.com/en/trade/GXS_USDT) | [Huobi Global](https://www.huobi.com/en-us/exchange/gxc_usdt?invite_code=d8c53)| [Upbit](https://upbit.com/exchange?code=CRIX.UPBIT.BTC-GXC) | [Bithumb](https://www.bithumb.pro/en-us/spot/trade?q=GXC-USDT) | [Bittrex](https://global.bittrex.com/Market/Index?MarketName=USDT-GXC)
+
+If you are interested in participating in our community and receiving timely updates from the following official channels:
+
+[Twitter](https://twitter.com/GXChainGlobal) | [Telegram](https://t.me/GXChain_international) | [Medium](https://medium.com/gxchain-project) |[Github](http://github.com/gxchain/) | [Reddit](http://www.reddit.com/r/GXS/) | [Website](http://www.gxchain.org/en/)| [Discord](https://discord.com/invite/qHWZR5fJQa)
+
+![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=cea6ef6979f5)
+
+---
+
+[Partnership with SolyzerX and William Hill, REI Network Educate: BLS Signature Algorithm](https://medium.com/gxchain-project/partnership-with-solyzerx-and-william-hill-rei-network-educate-bls-signature-algorithm-cea6ef6979f5) was originally published in [REI Network Project](https://medium.com/gxchain-project) on Medium, where people are continuing the conversation by highlighting and responding to this story.
+

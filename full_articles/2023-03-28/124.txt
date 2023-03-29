@@ -1,0 +1,264 @@
+![](https://img.foresightnews.pro/202303/e3a443c5662b52ca1208d0804bf858f2.jpeg?x-oss-process=style/scale70)  
+
+
+Bifrost 已于 3 月 28 日 18 点开启 vFIL 流动性质押入口。所有持有 FIL 的用户都可以铸造 vFIL，在赚取 Staking 收益的同时，享有 vFIL 的流动性并参与 vFIL/FIL 的 farming，获得额外收益。
+
+  
+
+
+Bifrost FIL 流动性质押分为两个阶段，第一阶段目前已开始，铸造硬顶为 30 万 FIL，超过 30 万后将暂关闭流动性质押功能。第二阶段待升级至 FVM 版本后，取消 vFIL 铸造硬顶，更多详细内容请参考文章 [Bifrost 即将上线 Filecoin 原生资产 FIL 的首个流动性质押方案](http://mp.weixin.qq.com/s?__biz=MzIyODk1OTIyMw==&mid=2247508275&idx=1&sn=34e6e8e2254e00a2baa13a4182761c7a&chksm=e84b17abdf3c9ebdb9d70593b0faf98c3dd201eb4cbba97919afe83b7f3b7e880134c690d7ca&scene=21#wechat_redirect)
+
+  
+
+
+* FIL 流动性质押：  
+bifrost.app/vstaking/vFIL
+* vFIL/FIL Farming:   
+bifrost.app/farming
+  
+
+
+在 Bifrost 开始 FIL 流动性质押之前，你需要首先完成 FIL 转至 Filecoin EVM 地址、绑定 Filecoin 和 Bifrost 地址以及 FIL 跨入 Bifrost 链上等步骤。
+
+  
+
+
+![](https://img.foresightnews.pro/202303/8b39bb52c0c718c3f4f58d37a6cd23a9.png?x-oss-process=style/scale70)**Filecoin EVM 地址转账 (OKX)**
+
+1. 由于 Filecoin FEVM 刚上线主网，目前支持向 Filecoin FEVM 地址提币的 CEX 有 OKX、Kraken、Anchorage、Bittrex、Btcturk，更多 CEX 仍在持续增加中，这里以 OKX 为例，首先将 FIL 转至 Filecoin EVM。选择 FIL 提币，填写 Filecoin EVM 提币地址，选择 FIL-Filecoin 提币网络之后，直接将 FIL 提至 Filecoin EVM 网络。使用 Metamask 钱包将网络切换至 Filecoin - Mainnet 可以查看并复制 Filecoin EVM 地址
+
+  
+
+
+注：OKX Filecoin 提币网络中填写 Filecoin EVM 地址并选择 FIL-Filecoin 可将 FIL 直接提至 Filecoin EVM 地址。使用 Metamask 钱包将网络切换至 Filecoin -Mainnet 可以查看 FIL 提币余额。
+
+  
+
+
+![](https://img.foresightnews.pro/202303/097c63c8999b6f14850bc622eb0f7a3e.png?x-oss-process=style/scale70)  
+
+
+![](https://img.foresightnews.pro/202303/c637c8636aaaf6cca526584005962c65.png?x-oss-process=style/scale70)  
+
+
+![](https://img.foresightnews.pro/202303/8b39bb52c0c718c3f4f58d37a6cd23a9.png?x-oss-process=style/scale70)**Filecoin EVM 地址转账 (Foxwallet)**
+
+1. 另一种 FIL 提至 Filecoin EVM 账户，我们选择 Foxwallet 作为提币钱包演示。首先通过钱包提示添加 Ethereum、Filecoin 以及 Filecoin EVM 这三个网络。如果初次使用钱包，Foxwallet 会自动生成一个 EVM 地址，如选择使用请确保助记词的安全并将该钱包导入 Metamask 钱包，方便后续操作。  
+Foxwallet：https://foxwallet.com  
+  
+
+
+![](https://img.foresightnews.pro/202303/545ad1896b2f67bb71757f5bebc346eb.png?x-oss-process=style/scale70)  
+
+
+2. 点击左上角 FIL 账户，选择 Filecoin EVM 网络并点击进入
+
+  
+
+
+![](https://img.foresightnews.pro/202303/149fe2c1816ab3ff735247f638b97ff5.png?x-oss-process=style/scale70)  
+
+
+3. 进入 Filecoin EVM 地址，点击 Receive 并选择复制 Filecoin EVM 地址
+
+  
+
+
+![](https://img.foresightnews.pro/202303/b483303d1c69970569ebea3d57a5032a.png?x-oss-process=style/scale70)  
+
+
+4. 返回 Filecoin 网络，选择转账  
+
+
+  
+
+
+![](https://img.foresightnews.pro/202303/7938c66a60b86158671bb8889298f907.png?x-oss-process=style/scale70)  
+
+
+5. 选择转账，在收款地址输入你的 Filecoin EVM 地址，将 Filecoin 网络中的 FIL 转至 Filecoin EVM 地址
+
+  
+
+
+![](https://img.foresightnews.pro/202303/c18cc929f4fae44a25fa5e1f928c7073.png?x-oss-process=style/scale70)  
+
+
+6. 转账成功后，将 Filecoin EVM 地址导入 Metamask 钱包，并在 Metamask 钱包上将网络切换至 Filecoin - Mainnet 查看 FIL 余额
+
+  
+
+
+![](https://img.foresightnews.pro/202303/0bce5e60f1425f48d9065932eb8df1b9.png?x-oss-process=style/scale70)  
+
+
+![](https://img.foresightnews.pro/202303/8b39bb52c0c718c3f4f58d37a6cd23a9.png?x-oss-process=style/scale70)**Polkadot js 插件安装**
+
+1. 将 FIL 跨入 Bifrost 网络质押之前，需要绑定 Filecoin 和 Polkadot/Bifrost 地址。如果你未曾使用过 Polkadot js 钱包插件，请提前下载安装。Polkadot js extension:  
+ https://polkadot.js.org/extension
+
+  
+
+
+![](https://img.foresightnews.pro/202303/c13e0a4fb7191bb4857b35b9a250715c.png?x-oss-process=style/scale70)  
+
+
+2. 如果你有 Polkadot/Bifrost 地址，请在安装 Polkadot js 后，通过设置将助记词或者 JSON 文件导入。
+
+  
+
+
+![](https://img.foresightnews.pro/202303/8444f120c5a4cc7978563a9d8249b606.png?x-oss-process=style/scale70)  
+
+
+注：请在导入地址过程中，将网络调整为 **Allow use on any chain**  
+
+
+  
+
+
+![](https://img.foresightnews.pro/202303/3973d108e81235c9da30545cf02d1597.png?x-oss-process=style/scale70)  
+
+
+3. 如你之前未曾使用 Polkadot/Bifrost 地址，请通过设置创建新的地址，并安全保管 Polkadot/Bifrost 地址的助记词或 JSON 文件
+
+  
+
+
+![](https://img.foresightnews.pro/202303/5b93a563bb733b74dae21ec75433e7e7.png?x-oss-process=style/scale70)  
+
+
+![](https://img.foresightnews.pro/202303/8b39bb52c0c718c3f4f58d37a6cd23a9.png?x-oss-process=style/scale70)**Filecoin & Bifrost 地址绑定**
+
+1. 登录 bifrost.app/vstaking/vFIL 将右上角网络切换至 Polkadot  
+
+
+  
+
+
+![](https://img.foresightnews.pro/202303/f6c4203f94083eb8106f26ff455268ff.png?x-oss-process=style/scale70)  
+
+
+2. 选择 Cross in，根据提示按步骤点击 Bind Filecoin 绑定 Filecoin EVM 地址和 Bifrost 地址 **（注：出于安全的考虑，地址一旦绑定成功后不能解绑，请选择需要的地址绑定）**
+
+  
+
+
+![](https://img.foresightnews.pro/202303/ca85ef219beb76e7898f537a099ca5a8.png?x-oss-process=style/scale70)  
+
+
+3. 根据提示，首先签名 Bifrost 地址验证，然后签名确认 Filecoin 地址和手续费
+
+  
+
+
+![](https://img.foresightnews.pro/202303/07092895a1f26de0b3b5aaa0e0b82ec5.png?x-oss-process=style/scale70)  
+
+
+4. 点击 OK 完成地址绑定，Bifrost 将自动空投 0.1 BNC 作为链上手续费
+
+  
+
+
+![](https://img.foresightnews.pro/202303/d544caffa91e12d44f78f2c6dae3ac23.png?x-oss-process=style/scale70)  
+
+
+![](https://img.foresightnews.pro/202303/8b39bb52c0c718c3f4f58d37a6cd23a9.png?x-oss-process=style/scale70)**FIL 跨入 & 流动性质押**
+
+1. 点击 Cross in 跨入
+
+  
+
+
+![](https://img.foresightnews.pro/202303/5291fadc2ccf03d1182415d32a1ceb9b.png?x-oss-process=style/scale70)  
+
+
+2. 输入要跨入的 FIL 数量，点击 Cross in 后签名确认 ( 签名后需要等待 5-10 分钟 )
+
+  
+
+
+![](https://img.foresightnews.pro/202303/61be885824a54c5263d216259ae71640.png?x-oss-process=style/scale70)  
+
+
+**注：为了确保跨链安全性跨入过程需要多重验证根据网络情况所需时间较长，请耐心等待确认**
+
+  
+
+
+![](https://img.foresightnews.pro/202303/34c19f49b46331d3c0c48bdace90a16e.png?x-oss-process=style/scale70)  
+
+
+3. 完成跨链后，Balance 将展示 FIL 在 Bifrost 上的余额
+
+  
+
+
+![](https://img.foresightnews.pro/202303/85b17de713a8467c36aae77cc32834c1.png?x-oss-process=style/scale70)  
+
+
+4. 在 FIL 铸造模块输入需要流动性质押 FIL 的数量，然后点击 Mint 
+
+  
+
+
+![](https://img.foresightnews.pro/202303/b0f26076e5e53c2d602fa1aec7842bc6.png?x-oss-process=style/scale70)  
+
+
+5. 铸造成功后，可以在上方查看 vFIL 数量，收益和 Farming 参与情况
+
+  
+
+
+![](https://img.foresightnews.pro/202303/993e0f8af78b5ded6d7632131198e6c6.png?x-oss-process=style/scale70)  
+
+
+以上就是 vFIL 流动性质押涉及到的操作步骤，如操作过程中有任何疑问或建议，请联系 Bifrost 社区管理员：bifrostchina（微信）。更多 vFIL 详细内容请查看文章 [Bifrost 即将上线 Filecoin 原生资产 FIL 的首个流动性质押方案](http://mp.weixin.qq.com/s?__biz=MzIyODk1OTIyMw==&mid=2247508275&idx=1&sn=34e6e8e2254e00a2baa13a4182761c7a&chksm=e84b17abdf3c9ebdb9d70593b0faf98c3dd201eb4cbba97919afe83b7f3b7e880134c690d7ca&scene=21#wechat_redirect)和[LSD for Hardware：Bifrost 开启硬件流动性质押新时代](http://mp.weixin.qq.com/s?__biz=MzIyODk1OTIyMw==&mid=2247508143&idx=1&sn=492fb6dd065b5791873653d6fc37dd6a&chksm=e84b1637df3c9f214abc0aeed1e8824c88c0c41af37aa640f3975cdd190dfe35f6449a8cb49a&scene=21#wechat_redirect)  
+  
+  
+
+
+![](https://img.foresightnews.pro/202303/03a56bd25c98c40cac1e8e0e540b54db.svg?x-oss-process=style/scale70)  
+
+
+  
+
+
+  
+
+
+![](https://img.foresightnews.pro/202303/8b39bb52c0c718c3f4f58d37a6cd23a9.png?x-oss-process=style/scale70)**Bifrost 是什么？**
+
+  
+
+
+Bifrost 是基于 Polkadot Layer-1 打造的一个可扩展的、非托管的去中心化全链流动性质押专用平行链，已为 9 条或更多区块链网络提供标准化的流动性质押衍生品。
+
+  
+
+
+Bifrost 的使命是通过跨链衍生品来聚合超过 80% PoS 共识链的 Staking 流动性，为波卡中继链、平行链，以及与波卡桥接的异构公链提供标准化可跨链的**带息衍生品**，降低用户 Staking 门槛、提升多链质押比例、提高生态应用收益基础，打造**用户、多链、生态应用**三方赋能、正向循环的 **StakeFi 生态**。
+
+  
+
+
+目前 Bifrost 已获得 **NGC、SNZ、DFG、CMS** 等机构数百万美金融资和 Web3 基金会 Grant，同时也是 **Substrate Builders Program、Web3 Bootcamp** 成员。
+
+  
+
+
+![](https://img.foresightnews.pro/202303/8b39bb52c0c718c3f4f58d37a6cd23a9.png?x-oss-process=style/scale70)**往期文章**
+
+[![](https://img.foresightnews.pro/202303/1a2408fb3a7dd99731260a4527d24331.png?x-oss-process=style/scale70)](https://mp.weixin.qq.com/s?__biz=MzIyODk1OTIyMw==&mid=2247499788&idx=1&sn=84f4aa9b2de6b626c518626612bb1519&scene=21#wechat_redirect "https://mp.weixin.qq.com/s?__biz=MzIyODk1OTIyMw==&mid=2247499788&idx=1&sn=84f4aa9b2de6b626c518626612bb1519&scene=21#wechat_redirect")[![](https://img.foresightnews.pro/202303/42beecd7ad86481689020ea513aa4e4f.png?x-oss-process=style/scale70)](https://mp.weixin.qq.com/s?__biz=MzIyODk1OTIyMw==&mid=2247498502&idx=1&sn=aa8f38d8f98fba1c0567df56969ebaec&scene=21#wechat_redirect "https://mp.weixin.qq.com/s?__biz=MzIyODk1OTIyMw==&mid=2247498502&idx=1&sn=aa8f38d8f98fba1c0567df56969ebaec&scene=21#wechat_redirect")[![](https://img.foresightnews.pro/202303/f41c3273c8d77b88081132d47c6f2d07.png?x-oss-process=style/scale70)](https://mp.weixin.qq.com/s?__biz=MzIyODk1OTIyMw==&mid=2247494958&idx=2&sn=4f64dc3bd41aaa38b932739ded89efa1&scene=21#wechat_redirect "https://mp.weixin.qq.com/s?__biz=MzIyODk1OTIyMw==&mid=2247494958&idx=2&sn=4f64dc3bd41aaa38b932739ded89efa1&scene=21#wechat_redirect")![](https://img.foresightnews.pro/202303/6af0dcd25eb4906c96d53337ad26edca.gif?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/0e55c6f5c2b40620df6cb98c762dee8b.gif?x-oss-process=style/scale70)**官网** https://bifrost.finance
+
+**白皮书** https://whitepaper.bifrost.finance
+
+**Github**https://github.com/bifrost-finance
+
+**Twitter**  https://twitter.com/bifrost\_finance
+
+**Telegram** https://t.me/bifrost\_finance
+
+  
+
+
