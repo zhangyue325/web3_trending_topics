@@ -1,0 +1,5 @@
+据官方推文，AI 领域知名专家、Stability AI 前联合创始人 Cyrus Hodes 将于 4 月 13 日在香港数码港出席 COSMOS HK Meetup 活动，并在活动上发布 AIGC Chain 的 GPT 大模型。这将是继 OpenAI、百度、谷歌后全球首个基于 Web3 的 GPT 大模型发布。
+
+据悉，AIGC Chain 是第一个基于 AI 内容共同训练和生成的公链，任何人都可以用它来训练自己的小 AIGC 模型，并且实现了分布式大模型训练，意在构建全球最大的人工智能共同训练公链系统。
+
+![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=7ba9809eb946)

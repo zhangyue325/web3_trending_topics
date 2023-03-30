@@ -1,0 +1,153 @@
+[「StarkNet 中文社区」](https://linktr.ee/starknet_zh)和 [Nurstar](https://twitter.com/0xNurstar) 推出全新采访系列《对话 Starknet 建设者》，采访 Starknet 生态建设者们，带大家深入了解 Starknet 生态建设的重要进程，从细节中发现 Alpha。本系列涵盖全链游戏、开发团队、 基础设施等多领域，我们一起与 Starknet 项目背后的优秀团队对话。
+
+第四期邀请到 [Starknet ID](https://twitter.com/Starknet_id) 协议联创兼团队核心开发者 [Fricoben](https://twitter.com/Fricoben)，探索 Starknet 通行证，域名服务协议 Starknet ID。随着以太坊上的 ENS 域名协议、Polygon 上的 Lens 社交身份协议等兴起，域名协议成为区块链网络中不可或缺的重要身份 ID，而 Starknet ID 就是构建在 Starknet 生态中的域名服务协议。阅读本期采访内容，进一步了解 Starknet ID 强大功能！
+
+采访英文版由 Nurstar 发布，点击查看**完整内容（+ 超链接）**
+
+
+
+---
+
+### 关于 Starknet ID：
+
+作为 Starknet 生态中的域名服务协议，Starknet ID 旨在为 Starknet 用户打造链上或跨链的个人资料和身份通行证。用户通过认证 Twitter、Discord、GitHub 等社交帐户，为链上和链下行为获得奖励，铸造 .stark 域名获取链上身份和专属 NFT 头像。自 2022 年 12 月初上线主网后，已注册超 5.05 万个 .stark 域名，超 9.37 万个钱包地址数，成为 Starknet 上当之无愧的热门协议之一。
+
+![](https://img.foresightnews.pro/202303/c6f9023b63b6bae5b256cd87dd4700cd.png?x-oss-process=style/scale70)
+
+### 精彩对话：
+
+* 了解 Fricoben 的加密经历和产品构建经验
+* 介绍 Starknet ID 将支持整合的其他身份协议
+* 大胆设想 Starknet ID 未来将推出的新功能和未来路线图
+* Starknet ID 选择构建在 StarkNet 的原因和优势
+* 对 Starknet 新手和开发人员的相关建议
+本文对话经过编辑，以下是翻译后的采访内容
+
+主持人：Starknet 中文
+
+采访嘉宾：Fricoben，Starknet ID 联合创始人兼核心开发者
+
+
+
+---
+
+### 关于从业经验及团队
+
+非常高兴邀请到了 Starknet ID 的联合创始人 Fricoben 参与本期采访。 请问 Fricoben，在进入加密行业前，您从事是哪个行业？又是何时开启了加密货币之旅？请介绍下您的第一个产品。
+
+很高兴也很荣幸能参与本次采访，感谢 Starknet 中文社区的邀请。我在 2017 年进入加密行业，当时我只是个普通的网络开发，为 Saas 公司开发前端产品。我还创建了几个电子商务和利基市场网站，在了解到自己对这类业务并没有什么热情后，就卖掉了这些网站。
+
+
+
+---
+
+你能向我们介绍下你的团队吗？作为项目创始人，你们之间是如何认识的？并迸发出构建 Starknet ID 想法？
+
+当时我在 Twitter 上向 Th0rgal 提出一个关于 Solidity 的问题，他为我解答后，我们很快成为了朋友。后来我们一起参与了 2021 年夏天的几场 Starknet 黑客松活动，我清楚的记得在 Matchbox 七月黑客松上，我们构建了链上护照 Starknet ID，支持用户将社交媒体帐户与之关联，最终获得了第二名的成绩。
+
+
+
+---
+
+### 关于 Starknet ID
+
+你对于 Starknet ID 在 Starknet 生态系统中的定位是什么？相比其他的社交身份有哪些不同点？
+
+Starknet ID 旨在成为 Starknet 链上护照，而其他 Web3 身份认证往往只支持一个特定的身份认证，如 ENS 域名、出席证明的 POAP、用于社交媒体的 Lens 等等。我们坚信互操作性是关键，所以想要通过一个 NFT 连接上述所有应用，将数据汇聚。
+
+
+
+---
+
+Starknet ID 会支持与 ENS 整合吗？例如我持有以太坊的 ENS 域名，能否在 Satrknet 上铸造同样的 .stark 域名呢？
+
+是的，我们计划通过将你的 ENS 名称添加到 Starknet ID 上，完成和 ENS 整合，也许你无法铸造同样的名称，但你能够把 .eth 名称桥接到 Starknet 身份上。
+
+点击查看信息：[关于 Straknet 上 ENS 的 CCIP 实现](https://discuss.ens.domains/t/ccip-implementation-for-ens-on-starknet/15691/7)
+
+
+
+---
+
+对于产品来说，采用整合 Starknet ID 的方式建立社区有什么优点或缺点吗？
+
+可以改善用户体验，从 Starknet ID 市场营销推动力和 Starknet 网络效应中获取收益。
+
+
+
+---
+
+### 关于技术、业务和挑战
+
+Starknet ID 开发有哪些潜在挑战和限制？如何解决这些问题？
+
+目前的挑战主要围绕 Cairo 1.0 和重置计划的技术实现方面。我们正在寻求与 StarkWare、新开发团队、生态系统成员合作，共同攻克这项难题。
+
+
+
+---
+
+协议是如何带来收益的？收益会用在哪些方面？
+
+目前的主要收益来源于 .stark 域名的注册费用。未来也将通过不同的身份认证方式获取收益，如 KYC、PFP 等。
+
+这部分收益将用于开发协议和 Starknet ID 实验室。
+
+
+
+---
+
+如何决定协议的未来发展？会采用 DAO 治理吗？
+
+目前由核心团队决定协议下一步计划和方向。等时机成熟，我们也会推出 DAO，但由于 Starknet ID 作为 Starknet 早期阶段的新兴协议，我们需要时间来完善产品，发展社区。
+
+
+
+---
+
+### 路线图及其他
+
+Starknet ID 在未来会推出哪些新功能或服务？可以分享下未来路线图吗？
+
+我们的主旨是成为 Starknet 护照，为实现该目标，首先从四个方面入手
+
+1. **Stark 域名**：我们将持续发展域名网络效应，让域名协议完成 Starknet 生态整合，推出新功能。
+2. **用户资料头像**：引入 .stark 持有者通用头像，可以应用于 Starknet 所有协议。
+3. **与其他身份协议整合**：与其他热门网络链上身份协议整合，实现 Starknet ID 价值提升，如 ENS、Lens 等协议。
+4. **个人身份证明和 KYC**。
+
+
+---
+
+为什么选择 Starknet？是什么最吸引你们？
+
+我认为 Starknet 是迄今为止最优秀的扩容解决方案（我们同样看好 StarkEx）。我也很期待 Starknet 中游戏生态系统的发展。
+
+
+
+---
+
+有很多开发者对 Starknet 感兴趣但不知道如何入手，你有什么建议？
+
+我认为新手开发者可以从一些小教程入手，如 Starkling，然后多多参与黑客松活动，为开源项目做贡献，一起加入社区建设。
+
+对开发者们而言，[OnlyDust](https://twitter.com/OnlyDust_xyz) 可以作为一个不错的起始点，开始探索 Starknet 吧！
+
+感谢大家！
+
+
+
+---
+
+### 查看 Starknet ID 相关链接
+
+🎴 关注 Starknet ID 推特：<https://twitter.com/Starknet_id>
+
+🔮 Discord 社区：<https://discord.com/invite/8uS2Mgcsza>
+
+💙 前往 Starknet ID 网站铸造专属 .stark 域名：<https://app.starknet.id/>
+
+📑 Starknet ID 文档资料库：<https://docs.starknet.id/>
+
+📚 回顾「Starknet 真知灼见」第四期：Starknet 通行证 - 域名服务协议 Starknet ID
+

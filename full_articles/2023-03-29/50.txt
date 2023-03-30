@@ -1,0 +1,88 @@
+### 【1】LandVault
+
+金额：300 万美元
+
+轮数：B1 轮
+
+时间：3 月 28 日
+
+投资机构：The Sandbox、Gemini Frontier Fund、Kingsway Capital、HodlCo
+
+项目类型：元宇宙解决方案
+
+项目介绍：LandVault 是一个元宇宙构建平台，帮助品牌建立独特的元宇宙体验并以有意义的方式推动参与。LandVault 还提供从土地租赁到项目管理、业务衡量和见解的服务
+
+官网地址：<https://landvault.io/>
+
+推特：<https://twitter.com/TheLandVault>
+
+### 【2】Conduit
+
+金额：700 万美元
+
+轮数：种子轮
+
+时间：3 月 28 日
+
+投资机构：Paradigm、Dan Romero、Lakshman Sankar、Joshua Ma、Robert Miller、Ludwig Pettersson、Guillaume Poncin
+
+项目类型：基础设施
+
+项目介绍：Conduit 是一个加密原生基础设施平台，旨在增强和加速加密领域的建设者。其第一个产品允许团队在很短的时间内启动基于 OP Stack 的生产级 Rollup，从而将他们的应用程序性能扩展 100 倍。Conduit 上特定于应用程序的 Rollup 由基础架构专业人员启动、维护和扩展，以便团队可以专注于最重要的事情：构建用户喜爱的产品
+
+官网地址：<https://conduit.xyz/>
+
+推特：<https://twitter.com/conduitxyz>
+
+### 【3】SO-COL
+
+金额：150 万美元
+
+轮数：未披露
+
+时间：3 月 28 日
+
+投资机构：DWF Labs
+
+项目类型：SocialFi
+
+项目介绍：SO-COL（Social Collectables）是一个 Web3 社交平台，通过为创作者、社区和品牌构建工具来增强 NFT 的可访问性和实用性，从而赋予他们权力。 SO-COL 正在构建社区管理和治理工具、NFT 铸造工具和一个允许创作者和粉丝出售和交易其社区 NFT 的市场。通过消费高级收藏品，用户可以访问私人频道，与喜爱的创作者进行独家互动和独家奖励。 SO-COL 平台具有公共聊天功能，具有基于论坛的平台的所有功能，用户可以在其中与社区中的粉丝和创作者互动
+
+其他补充：2022 年 5 月完成融资 300 万美元；2022 年 2 月 8 号完成种子轮融资 175 万美元
+
+官网地址：<https://www.socol.io/>
+
+推特：<https://twitter.com/socol_io>
+
+### 【4】EigenLayer
+
+金额：5000 万美元
+
+轮数：A1 轮
+
+时间：3 月 28 日
+
+投资机构：Blockchain Capital、Coinbase Ventures、Hack VC、Electric Capital、Polychain
+
+项目类型：基础设施、模块化区块链
+
+项目介绍：EigenLayer 是一种建立在以太坊之上的协议，它引入了再质押概念，这是加密经济安全中的一种新原语。该原语允许在共识层上重新质押 \(ETH。质押 \)ETH 的用户可以选择加入 EigenLayer 智能合约以重新抵押他们的 $ETH 并将加密经济安全性扩展到网络上的其他应用程序
+
+其他补充：2022 年 8 月完成种子轮 1450 万美元融资
+
+官网地址：<https://www.eigenlayer.xyz/>
+
+推特：<https://twitter.com/eigenlayer>
+
+### 关于 veDAO
+
+veDAO 是致力于发掘早期潜力项目的投融资社区。通过集结大众智慧和专业意见，为社区参与者、投资人、项目方提供公平、透明、民主的项目评价及投融资流程，让所有参与者共享项目发展红利。
+
+Website: <https://app.vedao.com/>
+
+Twitter: <https://twitter.com/vedao_official>
+
+Telegram：[t.me/veDAO\_zh](http://http/)
+
+Discord：<https://discord.gg/NEmEyrWfjV>
+

@@ -1,0 +1,535 @@
+![](https://img.foresightnews.pro/202303/43d880b2485d556b607e1bda501c0d19.png?x-oss-process=style/scale70)  
+主办方：OpenJob  7UpDAO
+
+联合主办方：
+
+清华大学学生区块链协会
+
+北京大学区块链协会
+
+中国人民大学区块链协会
+
+中央财经大学区块链协会
+
+北京邮电大学区块链协会
+
+  
+
+
+2023 年 4 月 2 日，OpenJob 联合了十家顶级 Web3 企业在北京举办线下招聘会。此次线下招聘，旨在以 Face to Face 的方式帮助求职者和招聘方之间**快速对接**，促进行业的人才流动性提升。
+
+  
+
+
+此次活动将聚焦于 Web3 行业热门岗位，包括但不限于：**前后端开发、区块链工程师、产品经理、投研分析师、量化交易员、市场运营、商务**等。包含**全职与实习**两种选择。
+
+  
+
+
+我们对接了北京顶尖高校的求职学生资源，其中包括：**清华大学，北京大学，中国人民大学，北京邮电大学，中央财经大学**。此外，我们也邀请了来自**百度、腾讯、阿里、字节、小红书、网易**等大厂背景的求职者。
+
+  
+
+
+出席现场的招聘方包括：  
+
+
+  
+
+
+**Alchemy Pay**
+
+**Combo Research**
+
+**ICG**
+
+**Mask Network**
+
+**NKN**
+
+**OP Crypto**
+
+**Particle Network**
+
+**VDX**
+
+**Versa**
+
+**想象力基金**
+
+**知春资本**
+
+**7UpDAO**
+
+                             （持续更新中）
+
+  
+
+
+***按音序排列***
+
+  
+
+
+**Alchemy Pay**
+
+**公司介绍**
+
+Founded in Singapore in 2018, Alchemy Pay is a **payment gateway that seamlessly connects crypto and global fiat currencies** for businesses, developers, and users. The Alchemy Pay Ramp Solution is integrated, via plugin or API, with platforms and dApps, providing an easy onramp from fiat currency to crypto. Alchemy Pay’s supports payments from **173 countries - Visa, Mastercard, popular regional mobile wallets, and domestic transfers** with a focus on emerging markets. Its offramping capability remits to users **in 27 local fiat currencies**. 
+
+  
+
+
+**ACH** is the Alchemy Pay network token on Ethereum and Binance Chain.
+
+  
+
+
+Twitter：@AlchemyPay
+
+Website：www.alchemypay.org
+
+  
+
+
+**在招岗位**
+
+**1. 管理培训生**
+
+**2. 社区运营经理**
+
+**3. 社交媒体运营经理**
+
+**4. 市场运营**
+
+**5. 智能合约工程师**
+
+**6. 量化策略研究员**
+
+**7. 总经办实习生**
+
+  
+
+
+**Combo Research**
+
+**公司介绍**
+
+Combo Research 成立于 2019 年，是一家全球领先的量化团队，目前主营业务是自营高频交易。
+
+  
+
+
+Combo**日均成交额超过 20 亿美元，管理规模超过 3 亿美元，交易量位居全球 Top 10**。
+
+  
+
+
+**在招岗位**
+
+**1. Crypto 高频交易**
+
+**量化研究员**
+
+**量化开发工程师**
+
+**低延迟系统开发工程师**
+
+**2. DeFi**
+
+**量化策略研究员**
+
+**智能合约开发工程师**
+
+**节点开发工程师**
+
+**运维开发工程师**
+
+**区块链网络开发工程师**
+
+  
+
+
+**3. Crypto 一级市场**
+
+**投资研究分析师（不限赛道）**
+
+  
+
+
+**ICG**
+
+**公司介绍**
+
+ICG.io**成立于硅谷**，团队成员分布于世界各地。ICG**专注于高频量化交易和做市流动性服务**。其中做市流动性服务覆盖所有主流交易所，服务数十家客户，管理数千万美元资金。
+
+  
+
+
+Twitter：@icg\_io
+
+Website：www.icg.io
+
+  
+
+
+**在招岗位**
+
+**1. Web3 研究员**
+
+**2. 交易员**
+
+  
+
+
+**Mask Network**
+
+**公司介绍**
+
+Mask Network 集**去隐私社交，无国界支付网络，去中心化文件存储与分享，去中心化金融，治理（DAO）于一体**，帮助用户在 Twitter，Facebook 等传统社交网络上使用自身的隐私，数据，资产和权利。
+
+  
+
+
+目标是为用户提供更安全、更隐私和更自由的在线交流和社交体验。使命是通过区块链技术和去中心化应用程序，为用户提供更加安全和隐私的在线交流和社交平台，推动区块链技术的发展和普及。
+
+  
+
+
+Twitter: @realMaskNetwork
+
+Website: www.mask.io
+
+  
+
+
+**在招岗位**
+
+**1. 后端开发**
+
+**2. 前端开发**
+
+**3. React Native 开发**
+
+**4. Android 工程师**
+
+**5. iOS 工程师**
+
+**6. 产品经理**
+
+  
+
+
+**NKN**
+
+**公司介绍**
+
+NKN 是由区块链技术驱动的**开放去中心化网络生态系统**。项目旨在平等共享网络资源，构建百分百安全的通信平台，让任何人都能成为 Web3.0 的一部分，在享受互联便利的同时获得实际激励。
+
+  
+
+
+自成立至今，NKN 已在**超 50 多个国家与地区拥有 10 万 + 个全节点，总数量已超过比特币网络**，逐渐成为实现 Web3.0 时代最必不可少的网络基础设施之一。
+
+  
+
+
+Twitter：@NKN\_ORG
+
+Website：www.nkn.org
+
+  
+
+
+**在招岗位**
+
+**1. 高级 flutter 开发工程师**
+
+**2. 高级区块链工程师**
+
+**3. 移动产品经理**
+
+  
+
+
+**OP Crypto**
+
+**公司介绍**
+
+OP 风险投资**基金****一期是一支规模超 5,000 万美元**的风险投资基金，致力于投资 Web 3.0 领域的早期（种子前和种子轮）项目，覆盖包括 DeFi、Metaverse/GameFi、DAO 和基础设施层在内的多元赛道。**基金背靠火币、Bybit、Galaxy Vision Hill、Digital Currency Group 和 Republic 等一线机构的支持及注资**，**同时得到许多知名加密原生天使投资人的投资**。基金团队在加密货币领域拥有丰富的经验，既是资深投资者也是实力派用户。
+
+  
+
+
+OP Crypto 旗下同时有 **OP FOF 一期，专注于对具有独特的地域、专业领域优势的新兴基金进行战略投资。** OP FOF 一期是第一只专注于在全球范围内投资新兴经理人的加密风险母基金。
+
+  
+
+
+OP Crypto 现已启动春 / 夏实习生计划：https://www.opcrypto.vc/internship
+
+  
+
+
+Twitter：@OPCryptoVC
+
+Website：www.opcrypto.vc
+
+  
+
+
+**在招岗位**
+
+**1. 投研分析师 / 实习生**
+
+**2. Deal Associate / Analyst**
+
+**3. 投后管理实习生**
+
+  
+
+
+**Particle Network**
+
+**公司介绍**
+
+Particle Network 是一个**面向 Web3 开发者的中间件平台**，致力于提高开发者的开发效率，加速推动 Web3 的 Mass Adoption。核心产品是**基于 MPC-TSS 技术的登录和钱包中间件**，开发者通过使用这个中间件可以使得其终端用户能直接使用电话，邮件，以及谷歌，Facebook，Twitter 等各类型方式直接登录到 dApp 中，并且自动创建一个 dApp 内的链上非托管钱包。通过 Particle Network 的中间件，可以极大地降低用户的登录门槛，以及大幅度提升后续用户与链交互（包括转账，签名，授权等）的使用体验。Particle Network 是**全行业首个将 MPC-TSS 技术运用到面向开发者服务的这个场景的公司**。
+
+  
+
+
+Particle Network 除了提供登录与钱包中间件以外，也提供 Nodes Services, Data API, NFT Full-stack API / IPFS 服务等中间件产品。未来 Particle Network 希望能够成为**面向开发者的全栈中间件平台**，能够帮助开发者集中在业务场景的建设，释放生产力，提高创造力。
+
+  
+
+
+Particle Network**累计完成了 1000 万美金的种子轮融资**，投资者包括：ABCDE / HashKey / Animoca / LongHash Ventures / GSR Ventures / Op Crypto /  ArkStream 等。
+
+  
+
+
+Twitter：@ParticleNtwrk
+
+Website：www.particle.network
+
+  
+
+
+**在招岗位**
+
+**1. Web 前端开发工程师**
+
+**2. Node 后端开发工程师**
+
+**3. Rust 后端开发工程师**
+
+**4.海外商务**
+
+  
+
+
+**VDX**
+
+**公司介绍**
+
+VDX is creating a world-leading **digital asset platform**, committed to bringing **regulated, reliable, safe and fair services to global investors and financial institutions.**
+
+  
+
+
+VDX Connect delivers customized solutions in the areas of regulation, compliance, trading and risk reporting. Bridging traditional and digital finance, VDX provides a trusted gateway for brokers, banks, fund managers and family offices to access the digital asset space in a compliant way.
+
+  
+
+
+Twitetr：@VDXofficial
+
+Website：www.vdx.com
+
+  
+
+
+**在招岗位**
+
+**1. 品牌经理**
+
+**2. 人事经理**
+
+**3. 中英同声传译**
+
+**4. 项目经理**
+
+**5. 内部律师**
+
+**6. Java 开发实习生**
+
+**7. 海外运营实习生**
+
+**8. 投研实习生**
+
+  
+
+
+**Versa**
+
+**公司介绍**
+
+Versa 是一家 Seed 轮的初创团队，致力于打造**Mass Adoption Ready 的移动端一站式智能合约钱包**。钱包本身基于账户抽象理念打造，围绕着资产管理、权限控制等功能为用户提供低门槛的使用，并支持订阅支付、自动化投资策略等更复杂的支付场景。
+
+  
+
+
+团队成员主要来自**清华，帝国理工，Google，Jump Trading 等**高校与机构。
+
+  
+
+
+Twitter：@versawallet
+
+Website：versawallet.io
+
+  
+
+
+**在招岗位**
+
+**1. 智能合约工程师**
+
+**2. 移动端前端工程师**
+
+**3. 市场运营**
+
+**4. 商务拓展**
+
+  
+
+
+**想象力基金**
+
+**公司介绍**
+
+想象力基金成立于**2017 年，目前在北京和香港**设有办公室。管理规模超过**3000 万美金**，已经投资了包括交易所、公链、Defi、Gamefi 等方向近**100+ 区块链项目**。
+
+  
+
+
+Website: www.imgfund.com
+
+  
+
+
+**在招岗位**
+
+**1. 投资经理**
+
+**2. 二级研究员**
+
+**3. 投研实习生**
+
+  
+
+
+**知春资本**
+
+**公司介绍**
+
+知春资本（Atlas Capital）是一家**专注于新经济领域的私募股权投资基金。**
+
+**投资案例**包括：discord、快手、HY（被腾讯音乐收购）、VYou（被字节收购）、橙光、Oasis 绿洲、Gemsouls、开黑啦、ACE 虚拟歌姬、百果园、Jump、小佩。
+
+  
+
+
+Twitter：@ATLAS\_VC
+
+Website：www.atlascap.com.cn
+
+  
+
+
+  
+
+
+**在招岗位**
+
+**1. 数字藏品内容编辑实习生**
+
+**2. Web3-DEFI 行业研究员（全职 / 实习）**
+
+**3. Web3-2C 行业研究员（实习 / 全职）**
+
+**4. Web3- 公链行业研究员（实习 / 全职）**
+
+**5. Web3-行业研究员实习生**
+
+**6. 投资实习生 - AI 方向**
+
+**7. Web3 方向新媒体编辑实习生**
+
+**8. 海外社区运营实习生**
+
+  
+
+
+**7UpDAO**
+
+**公司介绍**
+
+7UpDAO 是一个**投资与研究驱动的 Web3 社区**，**目前总人数已超过 3 万人**。旗下包括：Web3 私董会、开发者公会、海归公会、投研公会、NFT 公会和大厂 Web3 社区。拥有丰富的海内外资源，是目前华语区头部的社区之一。
+
+  
+
+
+Twitter：@7upDAO
+
+Website：link3.to/7updao
+
+  
+
+
+**在招岗位**
+
+**开发者公会负责人**
+
+  
+
+
+**流程**
+
+  
+
+
+**初筛**：投递简历至活动主办方邮箱：**ym@openjob.pro**
+
+**【格式：OpenJob 线下招聘 + 学校 + 姓名 + 微信号】**
+
+初筛通过后，主办方将与您**主动联系**，发送招聘会详细地址与具体安排。
+
+  
+
+
+  
+
+
+**现场交流：**
+
+14:00-16:00 求职方与招聘方面对面交流
+
+16:00-18:00 室外草坪自由交流
+
+  
+
+
+![](https://img.foresightnews.pro/202303/7b536e4335bd3aaf388b7f8cab287b13.jpeg?x-oss-process=style/scale70)**添加微信**
+
+**关于 OpenJob**
+
+OpenJob 是专门面向 Web3.0 行业的求职招聘平台，旨在为 Web3.0 行业发展提供人才流动性。  
+
+
+  
+
+
+商务合作：ym@openjob.pro  
+
+

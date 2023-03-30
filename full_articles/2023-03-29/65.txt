@@ -1,0 +1,455 @@
+随着埃隆 - 马斯克最近接管了 Twitter，关于从大型社交网络迁移到独立或开放的替代方案的讨论已经越来越多，但是所有那些刚开始幻想在加入繁荣的 Twitter 前居民社区的人，很快就会遇到自 J6 之后的跨平台社交媒体大清洗以来，右派一直在努力解决的问题：**网络锁定是真实的。**
+
+![](https://img.foresightnews.pro/202303/5ce77fe49907297d5fc6bb7566c145ef.png?x-oss-process=style/scale70)
+
+你可以对协调问题、偏好级联、信号和其他游戏理论式的概念进行理论和策略分析–我不否认这些都是理解问题的有用方法–但要理解 Twitter 和 Facebook 对我们数亿人的强大影响，你真正需要知道的是网络时代初期的一个[简单启发式方法](https://en.wikipedia.org/wiki/Metcalfe%27s_law)。
+
+要让人们放弃一个大的、密集的网络图，而选择一个小的、稀疏的网络图，几乎是不可能的，唯一的原因是前者有价值，而后者没有。
+
+不过奇怪的是，web3 解决了这个问题。或者至少如果我们使用一些简单的智能合约，将区块链从一个巨大的用户表变成一个巨大的社交图谱，它可以解决这个问题。
+
+理论依据和以往的工作
+----------
+
+区块链可以而且确实作为一个巨大的、共享的用户表发挥作用，它是开放的、公开的，不受任何一个实体控制。[正如我在《十亿用户表》中写的那样：](https://thenetworkstate.com/the-billion-user-table)
+
+先前的那篇文章用 [Bitclout](https://bitclout.com/)（该项目中的链现在被称为 DeSo）作为可以支持这种用例的区块链的典型例子。但是，尽管我对 DeSo 的整个事情感到兴奋，但它的结果并不那么好。
+
+这里不适合做 Bitclout / DeSo 的事后总结，但标出该区块链的一个方面是有意义的，因为它对现在的讨论很重要。Bitclout 努力将整个社交网络放在链上，每个帖子都被写在链上，作为一个对象，可以累积收入（通过 Bitclout 钻石）。这很聪明，但任何试图承载实际内容的区块链都会看到其数据需求随着用户和连接的数量而非线性增长。
+
+Bitclout 团队非常熟悉这种无限制的数据增长问题，并花费了大量的实际工程努力来解决这个问题。但事后看来，我实际上认为他们试图同时做太多的事情。他们应该只专注于社交图的可移植性问题。
+
+用我之前文章中的数据库术语来描述，Bitclout 试图把以下所有的表都放在链上（另外还有一些是 Bitclout 特有的）：
+
+* `users`
+* `user_follows_user`
+* `posts`
+* `user_likes_post`
+最后两张表总是出现数据爆炸，在用户迅速增长的情况下都会变得不容易操作。
+
+因此，我认为更好的方法是采用现有的区块链，它基本上已经是那个第一张表（即用户），并在其中添加一个 `user_follows_user` 连接表。( 我们还可以为其他类型的关系扩展连接，如 `user_mutes_user`，但目前我们还是保持简单的。)
+
+这个用户对用户的连接表也会随着用户数量的增加而非线性增长，但增长速度会比较慢，更重要的是，为了表示它所需要的额外数据量（=它所消耗的额外块空间量）将远远低于帖子表。
+
+我这样建议是因为用户和粉丝关系构成了每个大型社交网络平台锁定的主要来源。如果你的整个 Twitter 或 Facebook 的社交图谱都是开放的，并且可以随时提供给其他想要托管帖子和其他更多数据密集型的社交网络体验的社交平台，那么这些平台的锁定性基本上为零。
+
+链上社交图谱可能是怎样的
+------------
+
+![](https://img.foresightnews.pro/202303/f39c269c0b0fb37b5a0ee3cb789f9712.png?x-oss-process=style/scale70)
+
+想象一下，我的整个推特图是在链上体现的–包括实际的账户和追随者关系。为了查看该图中的 Twitter 帖子（以及相关的喜欢、转发、引用 - 转发等），我需要用我的钱包连接到 Twitter.com。但是，假设我想跳转到 tribel.com，或 gab.com，或其他一些有自己特殊倾向和节制政策的社交平台–如果他们能从区块链上读取我的社交图谱，那么我可以在那里连接我的钱包，看到同样的连接，并看到他们在这个其他网站上的任何帖子。
+
+这听起来可能没那么有吸引力，但考虑到这样一个事实：如果我在 [Tribel](https://tribel.com/) 上关注一个新的人，那么我现在也在 Twitter 和 [Gab](https://gab.com/) 上关注这个人–以及在其他所有使用相同链上图的用户和关系的社交平台上。取消关注和屏蔽的工作方式也一样–在一个地方做一次，你的图谱的变化就会立即反映在所有地方。
+
+现在，那些在阅读时想利用这一点的已经意识到，在一个如上所述的世界中，将不可避免地发生什么：有人会制作一个全能客户端，让你通过一个界面从任何或所有这些网络中阅读和发布信息。那么，拥有独立的服务就没有意义了，他们都会倒闭……或者他们会吗？
+
+未来事物的预演：电话号码 + 联系人 + 消息应用程序
+---------------------------
+
+![](https://img.foresightnews.pro/202303/c91387d19c727e7be349ad7fb0c265a9.png?x-oss-process=style/scale70)
+
+  
+
+
+我所描述的世界已经以一种原型状态存在，以竞争性信息协议的形式存在，这些协议都与你的电话号码相联系，并从你的联系人数据库中填充自己。**电话号码系统是亿万用户表的原型**，而分布式的联系人应用程序都可以读写标准的 Vcard 格式，构成了建立在该表之上的**关系图**。
+
+有许多信息传递协议都是借助于这种电话号码 + 联系人的组合，其结果有点像我在这里描述的社交网络。例如，当你第一次登录 Telegram 时，它会扫描你的联系人，然后你立即在这个新的应用程序中拥有你现有的网络。
+
+其结果是，你可以选择通过 Signal、Telegram、WhatsApp、iMessage 或传统短信与相同的电话号码交换信息–这一切都在于你和你的网络中的其他人想使用哪种信息协议。
+
+还有一个永恒的循环，就是消息应用的去中心化和再中心化，这从 ICQ 时代就开始了，在 WhatsApp / Signal / Telegram / Facebook / 等的时代仍然在发生。你可以找到任何数量的[多合一](https://www.makeuseof.com/best-all-in-one-messaging-platforms/)消息客户端，在一个窗口中支持许多这些平台。
+
+这些信息应用都没有受到损害，因为它们都从同一个开放的电话号码系统和可互操作的联系人应用和服务生态系统中获取身份–它们都共存并带来不同的东西，而且我们中的许多人在它们之间切换，与我们联系人中具有不同需求和偏好的不同子图交谈。如果我们把社交图谱移到链上，我希望这种动态会持续下去。
+
+关于可组合性和社交关系
+-----------
+
+![](https://img.foresightnews.pro/202303/f7202825fa6b64d64268e6036ccaa3a7.png?x-oss-process=style/scale70)
+
+不同的平台有不同类型的社交连接，用户可以相互之间的连接。Facebook 有朋友、关注和屏蔽。Twitter 有关注、静音和屏蔽。这些对于这些平台来说是很好的，但我们可以改进它们，使它们更适合区块链，使它们更具有可组合性。
+
+可组合性是一个计算机科学术语，大概意思是，你可以混合和匹配这些小的、离散的、明确定义的工具，以获得不同的效果和功能。
+
+考虑到 Facebook 的「朋友」–这是它自己的连接类型，但它也意味着「关注」，因为当你把某人加为好友时，你会自动关注他们。在 Twitter 上，「封杀」意味着「静音」，因为当你屏蔽某人时，你基本上是在让他们静音，同时也阻止他们看到你的帖子。
+
+对于我自己的两个社交图谱的建议，下面，我想建议跟随，更干净和可组合的社交图谱关系集：
+
+* **关注：** 你可以阅读你所关注的人的帖子。
+* **静音：** 你不能阅读你已经静音的人的帖子。
+* **屏蔽：**你屏蔽的人不能阅读你的帖子。
+在这个方案下，一个**封杀**是一个「静音」加一个「屏蔽」，所以它是对同一个目标地址的两个操作，一起组成的（例如，如果我想封杀 annoyinghater.eth，我就把这个地址静音，再把它的屏蔽）。
+
+如果**我想看到**某人的帖子，但**又不想让他们看到我**自己的帖子，我可以关注他们，再加上屏蔽。或者，如果我想保留通过导航到他们的内容或定期取消他们的静音来阅读，我可以关注加静音。
+
+我试图以这种方式理清关系，因为它使我们更容易推理接下来的章节中的合约和关系。
+
+我的两项提案的一些背景
+-----------
+
+在本文的其余部分，我提出了两个将社交图谱分层到十亿用户表中的建议。
+
+* 第一种，**On-Chain Graph（OCG）**，更加开放和简单，但在费用方面也更加昂贵，所以有些人会喜欢它，有些人不会。
+* 第二种，**链式图（CLG）**，更复杂但更便宜，而且提供更多的控制和隐私，所以我预计大多数人会更喜欢它。不过，平台可以同时支持这两种方式。
+要真正理解这两个提案，你需要对以下概念有一些基本的熟悉：
+
+* 不可拆分的代币（NFT）和不可拆分不可转让的代币（NTFT，也叫灵魂绑定的代币）。
+* 以太坊域名服务
+* 智能合约
+了解一点 Solidity（以太坊的智能合约编程语言）也会有所帮助。如果你对上述一项或全部内容模糊不清，我试图以一种你应该仍然能够掌握基本知识的方式来写这篇文章。
+
+对于这两个提案，我假设我们使用 [ENS](https://ens.domains/) 作为身份的根，并向其添加新的地址记录，其中包含一些相当标准的 ERC721 NFT 合约的地址，这些合约分别代表我上面概述的三种类型的社交关系（跟随、静音、屏蔽）。这三个合约的作用从一个提案到另一个提案都非常不同，但把它们的地址放入三个特殊的 ENS 地址记录的基本想法保持不变。
+
+![ENS 记录的例子，在这种情况下是我自己的 ENS 名称](https://img.foresightnews.pro/202303/0102d6b4cb0cba22d49d26d40517831d.png?x-oss-process=style/scale70)
+
+我还想为社交用户数据 URI 提出一个额外的 ENS 记录，这样你就可以更新你的社交数据而不需要消耗 gas。一个拟议的 `profileURI` 记录将链接到一个藏在某些第三方平台上的 JSON 对象，看起来像这样：
+
+curl https://jonstokes.com/jons-profile.json
+
+-H "Accept: application/json"
+
+{
+
+"name": "jonstokes.(eth|com)",
+
+"bio": "Writer. Coder. Doomer Techno-Optimist. Cryptography Brother.",
+
+"website": "https://jonstokes.com/",
+
+"location": "Austin, TX"
+
+}
+
+档案 JSON 中的一些内容与现有的 ENS 字段是多余的，但这没关系；这样做的目的是为了给社交平台提供一些可以显示的东西，并让用户能够对他们的社交档案进行修改，而无需花费 gas 来更新 ENS 记录。
+
+建议 1：链上图
+--------
+
+![](https://img.foresightnews.pro/202303/b5a5fe17a1eb8a6f4c48ce32ca0c99db.png?x-oss-process=style/scale70)
+
+On-Chain Graph 的想法使用 NTFT 来表示上述的三种关系。对于以下三个社交合约，持有 ENS NFT 的同一个钱包也应该拥有这些合约，它们的三个对应的 ENS 地址记录应该指向这些合约：
+
+* **OCG 追随者：** 当你从我的 OCG 追随者合约中存入一个 NTFT 到你的钱包，那么你就跟随了我。我们中的任何一个人都可以销毁这个 NFT，使你取消对我的关注。
+* **OCG 屏蔽：** 当我从我的 OCG Ghosted 合约中空投一个 NTFT 到你的钱包中时，我就对你产生了屏蔽。只有我可以销毁这个 NTFT 来解除对你的困扰。
+* **OCG 静音：** 当我从我的 OCG 静音合约中空投一个 NTFT 到你的钱包时，我已经把你静音了。只有我可以销毁这个 NTFT 来解除你的静音。
+这三种情况的语义基本上都是：「相对于我，即合约所有者，你是 X」，其中「X」是追随者、屏蔽、静音的一种。
+
+这里有一个追随者合约样本：
+
+// SPDX-License-Identifier: MIT
+
+pragma solidity ^0.8.4;
+
+import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
+
+import "@openzeppelin/contracts/token/ERC721/extensions/ERC721Enumerable.sol";
+
+import "@openzeppelin/contracts/security/Pausable.sol";
+
+import "@openzeppelin/contracts/access/Ownable.sol";
+
+import "@openzeppelin/contracts/token/ERC721/extensions/ERC721Burnable.sol";
+
+import "@openzeppelin/contracts/utils/Counters.sol";
+
+contract OCGFollower is ERC721, ERC721Enumerable, Pausable, Ownable, ERC721Burnable {
+
+using Counters for Counters.Counter;
+
+Counters.Counter private \_tokenIdCounter;
+
+constructor() ERC721("OCGFollower", "OCGF") {}
+
+function \_baseURI() internal pure override returns (string memory) {
+
+return "https://jonstokes.com/ocg/follower";
+
+}
+
+function relationship() public {
+
+return "ocg follower";
+
+}
+
+function pause() public onlyOwner {
+
+\_pause();
+
+}
+
+function unpause() public onlyOwner {
+
+\_unpause();
+
+}
+
+function safeMint(address to) public {
+
+//Prevent anyone but the owner from minting
+
+//a token to an address they don't own.
+
+require(isOwner(\_msgSender()) || (\_msgSender() == to), "Unable to mint to this address");
+
+uint256 tokenId = \_tokenIdCounter.current();
+
+\_tokenIdCounter.increment();
+
+\_safeMint(to, tokenId);
+
+}
+
+function \_beforeTokenTransfer(address from, address to, uint256) pure override internal {
+
+//Disable token transfers.
+
+require(from == address(0) || to == address(0), "Cannot be transferred.");
+
+}
+
+// The following functions are overrides required by Solidity.
+
+function supportsInterface(bytes4 interfaceId)
+
+public
+
+view
+
+override(ERC721, ERC721Enumerable)
+
+returns (bool)
+
+{
+
+return super.supportsInterface(interfaceId);
+
+}
+
+}
+
+如果你熟悉 Solidity，你可以看到这个非常简单（而且未经测试！）的合约试图做什么。
+
+首先是扩展：
+
+* `ERC721Enumerable` 扩展被包括在内，因此代币持有者可以被社交网络客户端列出来，而不必扫描整个链。
+* 我使用 `Pausable` 是因为你应该能够暂停造币，以便基本上锁定你的账户一段时间，即停止接受新的粉丝。
+* `Ownable` 是必不可少的，因为有些事情只有合约所有者应该做。我认为没有必要使用更强大的角色功能。
+* `ERC721Burnable` 在这里，因为你需要能够销毁代币，以便删除关注关系。这里面包含的标准 `burn()` 函数有我们需要的权限，即只有所有者或令牌所有者可以销毁代币。
+* 我包含了`Counters`，这样 `tokenID` 就会自动递增，这很方便。
+现在对 OpenZeppelin 向导的输出进行修改：
+
+* `safeMint()` 被修改后，只有合约的所有者可以将代币铸币到其他人的地址。对于所有非所有者，你只能向你调用合约的地址铸币。
+* `_beforeTokenTransfer()` 被重写，这样它就基本上禁止了转让代币的能力，创造了一个简单的灵魂绑定的代币。
+* `relationship()` 函数是一个方便的方法，确保有一个简单的方法来查询合约并确认 NFT 代表什么样的关系。我并不赞成包括这个，但它似乎很有用。
+这一切真的很简单，对于 OCG 的屏蔽和 OCG 的静音变体，你要做以下小改动：
+
+1. 改变合约名称和符号
+2. 改变 `relationship()` 和可能的 `baseURI()` 的返回值，以反映你所代表的关系（即，「muted」或「ghosted」）。
+3. 把 `safeMint()` 和 `burn()` 都变成 `onlyOwner` 函数，这样只有合约所有者可以调用这两个函数。
+显然，这将取决于平台是否以正确的方式履行这些合约（即关注、屏蔽、静音）。不过，这没有听起来那么有威胁性和不稳定，因为如果一个特定的社交平台不履行你所关心的合约，就不要使用它。
+
+增加付费关注
+------
+
+你可以在 `safeMint` 中加入 `payable`，然后使用 `setMintRate` 来设定人们必须为以下内容向你支付的价格。因此，类似于这样的内容：
+
+uint256 public mintRate = 0.01 ether;
+
+function setMintRate(uint256 mintRate\_) public onlyOwner {
+
+mintRate = mintRate\_;
+
+}
+
+function safeMint(address to) public payable {
+
+// Require pay-to-follow
+
+require(msg.value >= mintRate, "Not enough ether to mint");
+
+//Prevent anyone but the owner from minting
+
+//a token to an address they don't own.
+
+require(isOwner(\_msgSender()) || (\_msgSender() == to), "Unable to mint to this address");
+
+uint256 tokenId = \_tokenIdCounter.current();
+
+\_tokenIdCounter.increment();
+
+\_safeMint(to, tokenId);
+
+}
+
+我相信我还能想到许多其他的调整和功能来添加到这个建议中，但最好从简单和容易理解的东西开始。
+
+建议 2：链式连接图
+----------
+
+上面描述的 OCG 合约足够简单，但该方案有一些特质，可能会使很多人产生分歧：
+
+* 所有的东西都是公开的，在链上的，包括屏蔽和静音。你不能这样做锁定账户，但解决这个问题的办法可能是使用一个替代账户。
+* 每一个行动都要花费 gas，这意味着你必须对你关注的人、屏蔽和静音做出真正的选择。但如果 gas 费用足够高，那么这可能会使网络无法使用。
+* 对于一个网络或一个特定的账户来说，付费关注可能是也可能不是一个理想的功能，但你会有这样的选择。
+鉴于不是每个人都会喜欢这个建议的这些特质，我想提出一套替代的社交合约，给用户和平台更细化的控制，特别是谁能看到什么样的信息，而且使用成本更低。
+
+![](https://img.foresightnews.pro/202303/84f5a58d7b3732ae06b074894a9ec398.png?x-oss-process=style/scale70)
+
+  
+
+
+* **发现：** 该合约提供了一个 `listURI()` 函数，该函数返回一个 JSON 列表的链接，该列表中的 ENS 名称是你打算声明某种社交关系的（即，我关注他们，我让他们静音，或者我屏蔽他们）。
+* **访问：** 如果 `listURI()` 返回的链接是令牌控制的，那么合约的令牌就会授予持有者对元数据中发现的链接的读取权限。
+那么该社交关系就不是直接在链上的，而是通过一组合约和 URL 与链相连。
+
+与 OCG 一样，三种社交关系中的每一种都由智能合约来管理，但 CLG 的语义不同：
+
+* **关注：**包含一个链接到你正在关注的 ENS 名字的 JSON 列表，由它发出的令牌授予对该关注列表的读取权限。
+* **静音：**包含一个链接到你正在静音的 ENS 名字的 JSON 列表，由它发出的令牌授予对该静音列表的读取权限。
+* **屏蔽：**包含一个链接到一个你正在屏蔽的 ENS 名字的 JSON 列表，由它发出的令牌授予对该屏蔽列表的读取访问权。
+因此，CLG 令牌的语义是：「这是对我 X 账户列表的读取权限」，其中「X」是「关注」、「静音」或「屏蔽」。
+
+你可以把我在这一节中提出的建议看作是我为信息应用描述的电话号码 + 地址簿组合的一个近似物。你的电话号码是（准）公开的，当你把一个新的消息应用程序连接到它时，你可以授予或拒绝该应用程序对你的联系人的读取权限。
+
+在我的 CLG 社交令牌计划中，你的 ENS 名字就像你的电话号码一样是公开的，你发行和撤销令牌，以便授予和拒绝阅读与你有某种关系的人的名单。如果你愿意，你可以把这些令牌授予随机用户，但主要是你要把它们授予社交平台，以便这些平台知道谁的帖子要显示给你，谁的帖子要隐藏（或谁不应该看到你的帖子）。
+
+( 对构成你的社交图的列表的**写入权限**可能由你正常的 ENS NFT 控制–如果你的钱包里有你的 ENS 名字，你就可以对列表进行写入 / 更新 / 删除的修改。一个可能的替代方案是有第四个社交合约，授予 NTFT 持有者列表写入权限，这样你就可以将列表管理外包给一些第三方）
+
+在链下托管这些列表，同时从链上指向它们，有几个好处：
+
+* 你可以通过在托管列表的端点上使用认证来锁定你的关系，不让公众查看。或者你可以让它对公众开放，这样任何人都可以阅读它。
+* 更新一个链下列表不需要花费 gas。
+* 这个方案使得与社交供应商互通的社交图谱托管服务市场得以建立。
+* 任何人或服务都可以轻易发现你的列表。
+代币访问控制和读取访问
+-----------
+
+实现 CLG 合约的关键创新是代币访问控制。代币访问控制背后的概念是，除非你用含有特定访问代币的钱包连接到主机，否则你不能访问主机上的特定数据。
+
+例如，你可以对 IPFS 上的内容进行代币访问控制，这样只有用钱包中的特定 NFT 连接到端点的读者才能查看特定的文件。
+
+CLG 使用令牌门为我们的社交合约增加了一些间接性，因此，社交 NFT 不是代表一种特定类型的关系–关注、静音或屏蔽–而是代表对你的社交图谱的一部分的读取权限。
+
+很明显，为了使代币门槛发挥作用，平台必须尊重它。据推测，如果平台不尊重代币访问控制，你会把你的关系列表转移到其他平台，并改变你的合约，必要时重新发布任何 NFT。
+
+另外，要清楚的是，有些人的名单在某些时候会泄露。我们生活在一个个人数据泄露的世界，所以如果数据被托管在某个地方，那么有些数据就会被泄露。我将在后面的章节中讨论一些可能的缓解措施。
+
+合约范本：CLG Follows
+----------------
+
+下面的合约将是一个标准的 ERC721 NTFT 合约，与上述 OCG 的合约非常接近：
+
+// SPDX-License-Identifier: MIT
+
+pragma solidity ^0.8.4;
+
+import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
+
+import "@openzeppelin/contracts/security/Pausable.sol";
+
+import "@openzeppelin/contracts/access/Ownable.sol";
+
+import "@openzeppelin/contracts/token/ERC721/extensions/ERC721Burnable.sol";
+
+import "@openzeppelin/contracts/utils/Counters.sol";
+
+contract CLGFollows is ERC721, Pausable, Ownable, ERC721Burnable {
+
+using Counters for Counters.Counter;
+
+Counters.Counter private \_tokenIdCounter;
+
+constructor() ERC721("CLGFollows", "CLGF") {}
+
+function \_baseURI() internal pure override returns (string memory) {
+
+return "https://jonstokes.com/clgfollows/";
+
+}
+
+function listURI() public {
+
+return "https://jonstokes.com/clgfollows/list";
+
+}
+
+function relationship() public {
+
+return "clg follows";
+
+}
+
+function pause() public onlyOwner {
+
+\_pause();
+
+}
+
+function unpause() public onlyOwner {
+
+\_unpause();
+
+}
+
+function safeMint(address to) public onlyOwner {
+
+uint256 tokenId = \_tokenIdCounter.current();
+
+\_tokenIdCounter.increment();
+
+\_safeMint(to, tokenId);
+
+}
+
+function \_beforeTokenTransfer(address from, address to, uint256) pure override internal {
+
+//Disable token transfers.
+
+require(from == address(0) || to == address(0), "Cannot be transferred.");
+
+}
+
+}
+
+所有的扩展都与 OCG 相同，只是我没有包括 `ERC721Enumerable`，因为不清楚是否有人想让他们的 CLG Follows 代币被列举出来（另外它提高了铸币的 gas 成本）
+
+至于函数方面，我对 OpenZeppelin 向导的输出做了以下修改：
+
+* `relationship()`： 与 OLG 一样，它返回社交合约的类型。同样，对于 Solidity 合约来说，这可能没有必要，我也没有见过这样做，但尽管如此，我觉得我想让合约自我报告它的类型。所以我不知道–如果这冒犯了你，请忽略。
+* `listURI()` 返回一个指向 JSON 对象的链接，该对象是你正在关注（或静音或屏蔽，取决于合约类型）的 ENS 名称列表。我们希望这个 URI 能被标记为隐私，但这并不是必须的。
+大多数情况下，你会使用 CLG Follows NTFT，把它发布到社交平台拥有的地址。这样，该平台可以读取你的关注列表，并向你展示正确的帖子。
+
+但你也可以把这些 NTFTs 发给追随者，以便你的追随者可以发现其他追随者。你可以通过空投给追随者，或者通过解禁造币，让任何人造币来实现。
+
+所有其他合约的工作方式与上述完全相同，但有不同的名称和符号，并从 `relationship()` 和 `listURI()` 返回不同的值。
+
+可能的变数
+-----
+
+如果你担心你的列表从不同的服务中泄漏，那么把 listURI() 变成更像 `tokenURI(uint256 tokenId)` 的东西是非常直接的，即签名是 `listURI(uint256 tokenId)`，它把 `tokenID` 连接到一个基本 URI 的末尾，这样每个 token 持有者就可以得到自己的列表 URL。这个功能与列表主机上的一些逻辑相结合，可以让你把列表隔离开来，使不同的令牌持有者得到主图的不同子图。这样一来，如果一个平台被拥有，那么只有我的图的那一部分被泄露了。
+
+和 OCG 一样，你可以把 `safemint` 变成一个可支付的函数，并向访问你的列表的人收费。请看 OCG 部分的代码，以了解这个例子的情况。
+
+你可能希望能够更新 `tokenURI()` 和 / 或 `listURI()` 返回的 URLs，在这种情况下，你需要将这些 URLs 存储在变量中，在构造函数中初始化它们，并为更新它们提供 `onlyOwner` setter 函数。这将增加你的铸币成本，但如果你只打算把它们给服务而不是个人，这可能并不重要。
+
+服务
+--
+
+这里概述的两个建议都提供了一些集中式托管服务的地方，即使它只是一个权宜之计，在生态系统过渡到像 IPFS 这样的分布式系统之前。
+
+最明显的服务类型是托管由 URI 功能之一返回的任何东西–配置文件数据、NTFT 元数据和代币控制的 JSON 列表（在 CLG 的情况下）。
+
+另一个有用的服务是一种专门的 Infura 版本，通过 API 暴露链上的社交数据。或者，Infura 可以为社交数据提供一个专门的 API。
+
+最后，可以有第三方服务来验证账户，以满足用户和组织的需求。
+
+总结
+--
+
+我不知道我是否期望我的链上社交图谱建议会以我在这里描述的形式被采纳。我提出这些想法，更多的是为了引发对话，讨论我们如何从目前完全锁定平台的状态有效地过渡到更便携的状态，即你拥有你的图谱，并可以轻松地将它随身携带。
+
+上述内容有一部分看起来有点像 web5 的提议，但关键的区别在于，我的两个想法被设计得更简单，并利用了智能合约和现有的链上身份提供者（ENS，但也包括其他链上的类似提供者）。
+
+如果你从这篇文章中没有其他收获，我希望我至少已经说明，在一个分布式账本技术和智能合约的世界里，我们任何人都没有必要在 2022 年被锁定在一个社交网络里。解决这个锁定问题的工具是广泛存在的，我们只需要拿起它们并使用它们。
+

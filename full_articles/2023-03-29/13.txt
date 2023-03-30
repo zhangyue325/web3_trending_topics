@@ -1,0 +1,149 @@
+*![](https://img.foresightnews.pro/202303/700ff7d58b3f38f1c9602e5dc057d1d0.gif?x-oss-process=style/scale70)*
+
+摘要：据机器之心报道，在 GPT-4 诞生两周之际，一封公开信正在社交媒体发酵。这封公开信指出，最近几个月，人工智能实验室陷入了一场失控的竞赛，他们没有办法理解、预测或可靠地控制自己创造的大模型。人类社会对其可能造成的影响也没有做好准备。因此，公开信呼吁，所有 AI 实验室应立即暂停训练比 GPT-4 更强大的 AI 模型，为期至少 6 个月。截至目前，图灵奖得主 Yoshua Bengio、特斯拉 CEO（OpenAI 联合创始人）伊隆・马斯克、纽约大学名誉教授 Gary Marcus、UC 伯克利教授 Stuart Russell 等 1000 多人已经在这封公开信上签名。
+
+  
+
+
+![](https://img.foresightnews.pro/202303/f2e1408f346cd63a41a2d425f29e1835.png?x-oss-process=style/scale70)
+
+图片来源：由无界 AI 生成
+
+  
+
+
+热点资讯  
+
+
+**前搜狗 CEO 王小川成立人工智能公司**
+
+  
+
+
+据 IT 之家 3 月 29 日报道，近日，前搜狗 CEO 王小川作为法定代表人成立了人工智能公司“五季智能（北京）科技有限公司”。该公司注册资本 500 万人民币，经营范围包括人工智能应用软件开发、人工智能双创服务平台、人工智能理论与算法软件开发、人工智能通用应用系统、人工智能公共数据平台、人工智能硬件销售等。股东信息显示，该公司由王小川、茹立云共同持股。此外，王小川于今年 2 月曾针对 ChatGPT 罕见发声，并在回复 36 氪是否回归创业做 AI 大模型的消息时，承认在“快速筹备中”。
+
+  
+
+
+**时尚品牌 Tommy Hilfiger 在 Decentraland 推出元宇宙时尚中心**
+
+  
+
+
+据 Vogue Business 3 月 28 日报道，时尚品牌 Tommy Hilfiger 宣布推出可互操作的元宇宙时尚中心，并将于 3 月 28 日至 3 月 31 日在 Decentraland 内启动运营。该时尚中心还部署在其他四个元宇宙平台，分别是 Roblox、Spatial、DressX 和 Ready Player Me，让消费者能够跨多个虚拟空间探索其产品。
+
+  
+
+
+**微软将推出 Microsoft Security Copilot 引入下一代人工智能技术**
+
+  
+
+
+据金十报道，微软公司周二宣布，将通过推出 Microsoft Security Copilot 将下一代人工智能引入网络安全。Security Copilot 将不断学习和改进，提供对最先进的 OpenAI 模型的持续访问，以支持要求苛刻的安全任务和应用程序。
+
+  
+
+
+投融资  
+
+
+**元宇宙开发公司 LandVault 完成 300 万美元 B 轮扩展轮融资**
+
+  
+
+
+据 The Block 3 月 28 日报道，元宇宙开发公司 LandVault 完成 300 万美元 B 轮扩展轮融资，投资方包括 The Sandbox、Gemini Frontier Fund、HodlCo 和对冲基金 Kingsway Capital 等。此前报道，元宇宙开发公司 LandVault 上周完成 3700 万美元融资，该公司将利用这笔资金继续其 Web3 扩张并创建 AI 工具。
+
+  
+
+
+**沙特 NFT 市场 Nuktah 完成种子轮融资，Animoca Brands 领投**
+
+  
+
+
+巴比特讯，沙特阿拉伯 NFT 市场 Nuktah 近期宣布完成种子轮融资，具体金额未披露，Animoca Brands 领投，区块链平台 Polygon 和一些投资者参投，新资金将用于 Nuktah 未来 12 个月内发展产品开发、营销、人才招聘和其他职能领域的业务。Nuktah 由摄影师、艺术家以及 Web3 和区块链倡导者 Salwa Radwi 于 2021 年创立，获得沙特通信和信息技术部和投资部许可。
+
+  
+
+
+**会话搜索引擎公司 Perplexity AI 获 2560 万美元 A 轮融资**
+
+  
+
+
+据 FinSMEs 3 月 28 日报道，总部位于加州旧金山的公司 Perplexity AI 获得 2560 万美元 A 轮融资。本轮融资由恩颐投资领投，Databricks Ventures 和现有天使投资人 Elad Gil、Nat Friedman（GitHub 前 CEO）、Bob Muglia（Snowflake 前 CEO 和微软前总裁）和 Paul Buchheit（Gmail 创建者）参与。据了解，Perplexity AI 于 2022 年成立，提供一款会话式人工智能问答引擎。该公司计划利用这笔资金加速其增长和扩张。
+
+  
+
+
+元宇宙荐读  
+
+
+**《第一批因 AIGC 失业的人已经出现：时薪 1600 的平面模特丢了饭碗》**
+
+  
+
+
+近日，一张身着内衣的虚拟女模特图刷屏网络。她逼真的美艳吸引了很多网友的讨论，一些真人模特也在关注这些虚拟模特，未来是否会取代自己的工作。这张虚拟女模特图，由 AIGC（利用人工智能技术来生成内容）生成，因为省去了聘请真人模特和摄影师的费用，服装厂商赞它降低了成本、提升了效率。这背后还有一个决定虚拟模特是否能有市场的关键——那就是消费者的接受度。目前看，有一部分用户群体正在被新技术的审美所教育，虽然绝对人数还不多，但粉丝群在扩大。这就是 AIGC 时代正在发生的现实。
+
+  
+
+
+https://www.8btc.com/article/6811278
+
+  
+
+
+**《叫停 GPT-4 后续 AI 大模型！马斯克、Bengio 等人发出公开信，千人响应》**
+
+  
+
+
+在 GPT-4 诞生两周之际，一封公开信正在社交媒体发酵。这封公开信指出，最近几个月，人工智能实验室陷入了一场失控的竞赛，他们没有办法理解、预测或可靠地控制自己创造的大模型。人类社会对其可能造成的影响也没有做好准备。因此，公开信呼吁，所有 AI 实验室应立即暂停训练比 GPT-4 更强大的 AI 模型，为期至少 6 个月。截至目前，图灵奖得主 Yoshua Bengio、特斯拉 CEO（OpenAI 联合创始人）伊隆・马斯克、纽约大学名誉教授 Gary Marcus、UC 伯克利教授 Stuart Russell 等 1000 多人已经在这封公开信上签名。
+
+  
+
+
+https://www.8btc.com/article/6811336
+
+  
+
+
+**《迪斯尼不看好元宇宙？裁人第一刀落到元宇宙团队》**
+
+  
+
+
+当 ChatGPT 成为街头巷尾的热门谈资，已经无人记得元宇宙当初的辉煌。近日，迪士尼裁员 7000 人，元宇宙是第一个动刀的部门。
+
+  
+
+
+https://www.8btc.com/article/6811358‌
+
+  
+
+
+**巴比特园区开放合作啦！**
+
+  
+
+
+![](https://img.foresightnews.pro/202303/f7dcb8536e4e40e8e4d847bc9529dfe0.png?x-oss-process=style/scale70)
+
+  
+
+
+![](https://img.foresightnews.pro/202303/ef27af54365ff70cc040f4157e2f6e7a.jpeg?x-oss-process=style/scale70)
+
+  
+
+
+![](https://img.foresightnews.pro/202303/8fa93812717d18039e5848d30555ebd2.gif?x-oss-process=style/scale70)  
+
+
+中文推特：https://twitter.com/8BTC\_OFFICIAL
+
+英文推特：https://twitter.com/btcinchinaDiscord 社区：https://discord.gg/defidao电报频道：https://t.me/Mute\_8btc电报社区：https://t.me/news\_8btc![](https://img.foresightnews.pro/202303/8287da5ef763d915fd33d8b7033c23a1.jpeg?x-oss-process=style/scale70)

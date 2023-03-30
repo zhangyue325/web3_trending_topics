@@ -1,0 +1,47 @@
+![](https://img.foresightnews.pro/202303/5845fc02303e81ed69b74fbd86522818.jpeg?x-oss-process=style/scale70)2022 was the most important year for GameFi’s development. The innovation from Play-to-Earn to X-to-Earn model, together with the influx of capital raising and users rushing into Web3 has forged the glory of Web3 Gaming. It’s inevitable to say that when the bear market arrived, the GameFi sector also was affected on some level. Nevertheless, the Web3 gaming market continues to be one of the fastest growing segments of Web3, with an average number reaching up to 800,000 active unique wallets per day in some periods.​
+
+Recently, Game Space has teamed up with Spinterlands, ImmutableX and Big Time to hold one of the largest Web3 gaming tournaments — the Player One Tournament to bring up the hype of GameFi. The tournament has created mass buzz for the GameFi sector, with 200K+ Twitter engagements and more than 20K+ on chain gamers participating in the 7-day tournament. On top of that, Sky Vee, a streamer with over 1.3M+ fanbase has also joined the tournament to compete and battle for the ultimate prize pool.
+
+​We can see that the love and passion of loyal Web3 gamers are still active in the market, but after Axie Infinity as the representative GameFi V1.0 has faded out from the audience’s eyes, the industry has become quiet and people have high expectations for AAA GameFi projects entering the scene. Many of the top AAA Web2 games including Zynga and Ubisoft have once said to enter Web3 but still haven’t taken any moves, this then leads to the question of why AAA games rarely can make it to Web3?
+
+​
+
+Michael Cameron, CEO of Game Space previously has helped with incubating one of the industry’s first AAA MMORPG Web3 game Bless Global. He states that AAA games require a very high-level of entry, usually teams with over $50 million in funding may barely squeeze into this queue. In addition, long R&D cycles and difficulties in profiting, together with the bear market, all of these are the key factors that are hindering them to make this move.​
+
+Cameron also once worked with his team to launch the industry’s first GameFi as a Service (GaaS) to help traditional Web2 games to enter Web3 and solve the problems of high threshold of participation and non-closed-loop transactions for early GameFi users. However, the downturn of the GameFi sector in the bear market has slowed down the entry pace for Web2 gaming companies, at the same time there are no explosive new games uprising in the industry. Under these circumstances, Game Space is turning strategies and found a great opportunity to focus on — — Casual GameFi (GameFi Mini-Games).
+
+​**If AAA games can’t make it, will mini-games?**
+
+In order to promote GameFi SDK, Game Space developed a Web3 version of the classic mini-game Merge Bird in 2022 as a prototype to show gaming developers how easy it can be to bring them rapidly on-chain within 7 days. This small move immediately brought 20K+ followers on Game Space’s Twitter and mass casual gamers started to flood on Game Space App. Afterwards, Game Space has launched Goat! Goat! (a classic match 3 and clear game) which acquired 600K+ weekly active users in the first week of its launch.
+
+![](https://img.foresightnews.pro/202303/a48f5a7b0c8fb0831a53308076d98835.png?x-oss-process=style/scale70)Despite being an easy to play and fun game, players can earn mystery boxes of varying rarity such as gold, silver and bronze after passing the game. The mystery boxes can be sold on the NFT Marketplace, and through opening the mystery boxes, gamers can win USDT and different levels of Merge Bird NFTs. The random incentive introduced by the mystery boxes has created high participation for gamers, data shows that Goat!Goat! has reached over 6M+ rounds, produced 2M+ mystery boxes and 1.5M Merge Bird NFTs, setting an all-time record for Casual GameFi games.
+
+​After these mini-games, Game Space has launched Magic Pot and MythMania, over 1M+ Merge Bird NFTs were consumed in Magic Pot. In MythMania, the blind box incentive can be amplified 10 times by paying to open a mystery box, making the whole platform consistently profitable. This case is especially rare in a bear market when the platform has not yet issued Tokens to break even and keep growing.​
+
+According to statistics, there are more than 4 billion users of mini-games in the global market, and the casual games market will exceed $500 million in 2022 alone. There has always been a huge strength in mini-games, with short and easy development cycles, relatively easy to design the economic models and a huge user base due to the addition of social attributes. Moreover, with 77% of the user base and over 1 billion monthly users, mini-games are often overlooked by the mainstream market, but are in fact the mainstay of gaming.​
+
+According to Cameron, the success of Game Space in the Casual GameFi sector is due to several reasons. First, it is easy to get started. Mini-games are easy to play, flexible and can consume some of the fragmented leisure time, which makes them able to attract a considerable amount of user scale and engagements. This is a feature and advantage of mini-games compared to AAA games, which require complicated login and account pre-set ups. Second, its due to the choices of the mini-games, from Merge Bird to Goat! Goat! then Melon Fusion, Game Space insists on choosing to transform current or former hit mini-games into Casual GameFi games, which brings promise to the games being playable. Thirdly, the capacity must be efficient. Based on Game Space’s GaaS SDK, all Casual GameFi games modifications are now completed within seven days, which is a key reason why Game Space is able to continue to hunt down market hotspots and breakthroughs.​
+
+A loyal Game Space player Santosh said: “Before, I would be spending 1–2 hours on Voodoo (a traditional Web2 mini-game platform), after downloading Game Space I haven’t played any other platforms games because it has all my favorite mini-games on it. Other than that, I can also win rewards daily. Mini-games are truly a great way to pass time and are friendly to everyone.”​
+
+The combination of a series of Casual GameFi forms an effective ecosystem, similar to “the lego” effect in DeFi. Uniswap, for example, developed the underlying protocol for the AMM mechanism, which can be used in various lending platforms such as Curve, while vault projects such as YFI aggregate the proceeds of the various lending protocols. Each project has only a few or a few dozen developers, but “building these lego blocks” can form an effective overlay of multiple projects together, hence it adds up to a huge DeFi industry.​
+
+It is the same for Game Space, the “lego effect” is evident in Game Space Casual GameFi Hub. By launching a series of Casual GameFi games to form an ecosystem, each with a separate set of output consumption scenarios, while the USDT, game tools, NFTs and Game Points (GP) generated in the games can be interchanged and converted to form an effective overlay. For instance, the mystery boxes obtained in Goat! Goat! can be used in MythMania, the Merge Bird NFTs produced in MythMania can be used in Merge Bird and so on. The combination of multiple games not only multiplies the fun, but also creates a more robust economic model, avoiding the short life cycle of single games in the Play-to-Earn era.​
+
+Game Space has announced it will be upgraded into a Casual GameFi Hub to bring an extra hour of happiness for everyone in Web3! In the first quarter of 2023, Game Space is planning to launch more than 10 hit GameFi mini-games, and expand to 20 in Q2. Game Space’s Twitter followers are about to pass the 100K+ mark and expects to build up to 1M+ users within a year through the Casual GameFi strategy, building up to the explosive growth of the bull market in 2024.​
+
+Game Space will also launch Galaxy Project Plan to invite more small game development teams (CPs) to quickly access the platform, bringing more new ways to play and embrace the growth dividends brought by Casual GameFi. The games that join the Galaxy Project Plan still need to be professional and sophisticated, either new or classic, with a smooth gaming experience and enough mass appeal. Together with partners, Game Space will also work with its partners to explore the future of social gaming, incorporating DIDs and other Social GameFi.
+
+​
+
+Game Space is Web3’s first Casual GameFi Hub, focussing on bringing Web2 mini-games rapidly on chain. Through Free-to-play and Web2 entry methods on the platform, the series of Casual GameFi games will form an ecosystem that allows the game’s rewards of USDT, game props, NFT and Game Points (GP) can interchange and convert to form an effective overlay. Game Space has already launched classic mini-games such as Goat! Goat!, Merge Bird, Melon Fusion and its own reward focus game MythMania. Together with partners, Game Space will explore the future of Social GameFi, including DID and other Web3 innovations to bring an extra hour of happiness every day for Web3 users.
+
+Twitter: \*\*<https://bit.ly/GScasualTW>
+
+Discord: \*\*<https://bit.ly/GScasualDS>
+
+Medium: \*\*<https://bit.ly/GScasualDisc>
+
+Website: \*\*[++https://game.space++](https://game.space/)
+
+![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=74d9cc2fee26)

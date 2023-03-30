@@ -1,0 +1,131 @@
+2023 年 3 月 15 日, Arken Finance 官推与 Impossible Finance 官推联合公告，Arken Finance 将成为第 17 个在 Impossible Finance 平台上启动 IDO 的项目，4 月 4 日至 4 月 5 日期间开放购买。本次 IDO 的总供应量为 237,500,000 个代币，价格为 0.004 美元 /ARKEN。
+
+![ ](https://img.foresightnews.pro/202303/bd95ef81b54db9950dd74ad046991d38.gif?x-oss-process=style/scale70)
+
+什么是 Arken Finance？
+------------------
+
+Arken Finance 是一个为多链未来提供 DeFi 抽象层的项目。Arken Finance 是一个一体化的交易门户和 DeFi 基础设施层，旨在抽象 DeFi 的复杂性。它是一个 DEX 聚合器，为 DEX 交易者提供一站式交易工具，用于监控代币和合成资产、预测市场走势并以最佳汇率进行交易。
+
+Arken Finance 认识到 DeFi 的复杂性是进入的最大障碍之一，它们旨在为开发人员和用户弥合这一差距，使构建应用程序变得更容易，用户&交易者可以无缝地参与 DeFi 领域。
+
+Arken Finance 配备了大量的专业工具来帮助提升用户的 DeFi 交易。其工具结合了实时交易视图，为用户提供了轻松管理数字资产的单一入口，并且可以为高级交易者定制超过 160 多种不同的技术指标和独特的专业图表。
+
+Arken Finance 可以让用户在一个界面上使用多条链和多个协议，无需切换钱包或网络；同时为用户提供最佳的交易价格和流动性。其功能丰富的平台是任何交易者的游乐场，不论是初学者或是高级玩家都可畅通使用，可以监控实时代币价格并发现新的市场机会，以做出最明智的投资决策。
+
+目前 Arken Finance 支持以太坊、BNB Chain、Polygon 和 Solana 共 4 条网络公链，并计划在未来支持更多的链和协议，如 Avalanche, Arbitrum, Fantom 等。在 4 月 3 日马上到来的 IDO 则将在 Arbitrum 公链网络上进行。推出原生代币 $ARKEN 将支持协议的生态系统，并为持有者提供真实的收益，推动 Arken Finance 的强劲增长。
+
+![ ](https://img.foresightnews.pro/202303/0c065c3921d78d98b15eb7c97a337082.gif?x-oss-process=style/scale70)
+
+### 团队背景
+
+Arken Finance 团队主要位于东南亚，拥有开发人员 UX/UI 设计师和市场营销部门, 有着多年区块链和金融经验的专家组成，并有很多创业经验。团队由于重视对市场和用户的配合，所以注意提供以用户的使用便利性为焦点的产品。团队成员包括：
+
+* Jason Lee：创始人兼首席执行官，曾在 Coinbase、币安交易所、Huobi 等知名交易所担任高级职位。
+* Kevin Wang：联合创始人兼首席技术官，曾在谷歌、Facebook 等科技巨头工作，负责开发和维护复杂的软件系统。
+* Alice Chen：联合创始人兼首席运营官，曾在摩根大通、高盛等金融机构工作，负责管理和优化业务流程和风险控制。
+* Henry Liu：联合创始人兼首席市场官，曾在微软、亚马逊等互联网公司工作，负责推广和营销策略。
+### 代币经济模型
+
+原生代币 $ARKEN，作为一种实用代币，促进了 Arken Finance 代币经济学的发展，支持协议的生态系统——围绕着公用事业、奖励和股权，支持未来推出 Arken Governance 体系构建，让社区可以参与到项目的决策过程中。
+
+$ARKEN 公用事业有多种用途和目的，以支持 Arken Finance 的生态系统发展，该生态系统背后有许多产品和协议。这包括但不限于：
+
+* 促进去中心化的治理
+* 向 Arken 池的流动性提供者提供费用返还
+* 成为在 Arken 生态系统中使用的实用代币，例如聚合器协议，分散的私人基金，以及未来的产品。
+* 首批访问权，$ARKEN 持有者也将是首批访问 Arken Finance 最新产品、协议和创新的人。
+$ARKEN 的总供应量为 100 亿枚，并承诺不会增发，分配图以及具体内容如下：
+
+![ ](https://img.foresightnews.pro/202303/fc075803bce134ba7ea87eb519be5617.gif?x-oss-process=style/scale70)
+
+* 51.75% - 社区，明细：
+
+
+	+ 社区建设（20%）：在 208 周内归属，将用于营销目的。该分配额的 15% 将可用于 TGE。
+	+ 财政部（25.75%）：这部分将在 TGE 上完全解锁，旨在支持 Arken 社区的未来需求。这笔资金将在第一天被管理并存储在一个多签名的钱包里，以便在未来的计划中灵活管理这笔资金。
+	+ 公开销售和 IDO 平台（5%）：将平均分配给 Impossible Finance Launch Pad 和 Arken Finance 的公开销售。
+	+ 空投（1%）：用于第一轮空投和未来的下一轮空投。
+* 18.25% - 生态系统增长，将在 208 周内归属，并用于 Arken 生态系统内的贡献者、激励和 DEX 流动性的生态系统发展。该分配额的 15% 将在 TGE 使用。
+* 15% - 团队，在 312 周内归属，有 26 周的悬崖期，没有代币可在 TGE 使用。
+* 13.50% - 投资者，在 312 周内归属，并有 26 周的悬崖期，没有代币可在 TGE 使用。
+* 1.5% - 顾问，在 312 周内归属，并有 26 周的悬崖期，没有代币可在 TGE 使用。
+### $ARKEN 归属期和施放时间表介绍与注意事项：
+
+用于社区和生态系统发展的分配是在 208 周内线性归属的，而用于投资者、顾问和团队的分配是在 312 周内线性归属的，这反映了 Arken Finance 让每个人都能访问 DeFi 的长期承诺。这将与那些相信并支持 Arken Finance 可持续生态系统的人形成一个积极的循环，他们的投资得到保护，而 Arken Finance 的团队则专注于对社区真正重要的事情。
+
+![ ](https://img.foresightnews.pro/202303/dcecf2df18a15c719e76199d42f8c992.gif?x-oss-process=style/scale70)
+
+### IDO 信息以及如何参与
+
+Arken Finance 在 Impossible Finance 平台 IDO 的时间轴：
+
+* 在 Impossible Finance 平台进行 KYC，准备时间：持续进行
+* 质押 $IDIA（Impossible Finance 平台代币或其他代币）时间：2023 年 3 月 15 日 18:00 至 2023 年 4 月 4 日 18:00（UTC）
+* 购买 $ARKEN 时间：2023 年 4 月 4 日 22:00 至 2023 年 4 月 5 日 22:00（UTC）
+* 申领 $ARKEN 时间：预计于 2023 年 4 月 6 日 22:00（UTC）
+![ ](https://img.foresightnews.pro/202303/d2dc37bc2bc1e0cb8be8f99a12cbad99.gif?x-oss-process=style/scale70)
+
+Arken Finance IDO 链接：
+
+<https://app.impossible.finance/launchpad/project/Arken>
+
+Impossible Finance 详细使用教程：
+
+<https://impossiblefinance.notion.site/How-to-use-IF-Launchpad-Step-by-step-d0f5d033d8f3443fa70c52d0d66a3843>
+
+### 代币销售详情：
+
+* 代币代码：ARKEN
+* 质押购买可用网络：Arbitrum( 使用 USDC 购买 ) 和 BNB Chain( 使用 BUSD 购买 )
+* IDO 总供应量：237,500,000 ARKEN
+* 公开销售价格：1 ARKEN = US$0.004 BUSD
+* 公开销售绝对上限：US$1,000,000（分成多个池）
+* 代币销售格式：质押股权认购 支持的质押物：仅限 IDIA（BNB Chain，Arbitrum），vIDIA（BNB Chain），C98（BNB Chain）和 Impossible staking 合作伙伴（更多详情即将公布）
+![ ](https://img.foresightnews.pro/202303/50d7e53594bcf1a615713ffd76027ff5.gif?x-oss-process=style/scale70)
+
+代币归属释放：第一天 100% 分配。
+
+回购保护计划：Arken Finance 已经承诺在代币价格下跌超过一定阈值时回购 ARKEN 代币。更多细节将随后将公布。
+
+![ ](https://img.foresightnews.pro/202303/7b7bcc87b57692ceae8875e04892a2f8.gif?x-oss-process=style/scale70)
+
+质押方式 / 质押池介绍：
+
+![ ](https://img.foresightnews.pro/202303/c72e5d3f109249defe0c2513b3f030db.png?x-oss-process=style/scale70)
+
+质押池以及申领注意： 所有的 ARKEN 代币都将在 Arbitrum 网络上分发，无论用户是在 BNB Chain 还是 Arbitrum 上质押。
+
+![ ](https://img.foresightnews.pro/202303/a1bd9faf7d4e9d0740c550dfba372bbc.gif?x-oss-process=style/scale70)
+
+### IDO 即将来临
+
+Impossible Launchpad 是一个为 Impossible 项目进行 IDO 的公平平台，它通过确定分配与随时间推移持有的股权金额成比例来创新分配股权，这使我们能够以一种对每个人都公平且难以操纵的方式来衡量利益。多链 DEX 聚合器 Arken Finance 与 Impossible Finance 此次 IDO 的合作已经开放质押阶段，IDO 后续我们也会持续关注未来 $ARKEN 价格走势。如果你对 Arken Finance IDO 感兴趣想要更加深入了解它，以下媒介可以供你探索：Website：
+
+<https://arken.finance/>
+
+Twitter：
+
+<https://twitter.com/ArkenFinance>
+
+Discord：
+
+<https://discord.com/invite/GPWDsEAaE7>
+
+Gitbook：
+
+<https://docs.arken.finance/arken-finance/>
+
+Arken Finance IDO 官推转载文献：
+
+<https://medium.com/impossiblefinance/the-impossible-finance-ido-17-arken-finance-token-sale-c924574904a0>
+
+关注我们
+----
+
+veDAO 是一个由 DAO 主导的去中心化投融资平台，将致力于发掘行业最有价值的信息，热衷于挖掘数字加密领域的底层逻辑和前沿赛道，让组织内每一个角色各尽其责并获得回报。
+
+Website： <http://www.vedao.com/>Twitter： <https://twitter.com/vedao_official>Facebook：[bit.ly/3jmSJwN](http://bit.ly/3jmSJwN)Telegram：[t.me/veDAO\_zh](http://t.me/veDAO_zh)Discord：<https://discord.gg/NEmEyrWfjV>
+
+🔴投资有风险，项目仅供参考，风险请自担哦🔴
+

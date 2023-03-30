@@ -1,0 +1,18 @@
+![](https://img.foresightnews.pro/202303/7e24c8dfc6111fc4147c6759980f533b.png?x-oss-process=style/scale70)
+
+​基于 NEAR 开发的去中心化交易所[Orderly Network](https://orderly.network/)宣布获得 CoinDCX Ventures 的投资，后者是印度知名加密货币交易所 CoinDCX 的旗下投资机构。
+
+针对此次投资，Orderly Network COO Arjun Arora 表示：“我们很高兴能获得印度顶级加密货币交易所的投资。DeFi 正在快速演变，Orderly Network 将提供安全可靠的数字资产访问途径，努力满足机构客户的需求。”
+
+“Orderly Network 已准备好驱动一个现货和永续期货订单簿 DEX，最终让 Okto 等 DeFi 平台获益，为其用户打造独特的交易 / 投资体验。自托管、透明以及 CeFi 风格的执行是 Orderly Network 产品线的优势。机构方正在寻找健壮的 DEX 平台来进行构建，而印度市场对数字资产的需求正在不断增长，因此我们对印度市场非常看好，并再次对 CoinDCX Ventures 展示的支持感到兴奋。”
+
+CoinDCX Ventures 董事总经理（MD） Rohit Jain 表示：“我们很高兴对 Orderly Network 进行投资，同时进一步加强我们对推进 Web3 和 Defi 生态发展的承诺。Orderly Network 正在打造一个基于订单簿的去中心化交易所，在 DeFi 环境中为客户提供增强的交易体验。我们相信这是去中心化交易所发展的下一步。我们致力于 Web3 生态，并将继续投资于该技术以实现更广泛的采用。”
+
+Orderly Network 于 2021 年 10 月由 WOO Network 和 NEAR 共同孵化，利用 WOO Network 在构建交易平台和去中心化交易所方面的经验，提供集中的金融级别的交易基础设施。
+
+在 CoinDCX 投资之前，Orderly Network 还曾获得诸多知名机构的多次投资，包括日本银行业巨头野村证券的加密货币子公司 Laser Digital 于 2022 年 12 月宣布投资 Orderly，[红杉中国、Pantera Capital、Dragonfly 和 Jump Crypto 于 2022 年 6 月宣布投资 Orderly](https://nearportal.com/zh-Hans/article/1175)。
+
+Orderly Network 是一种基于 NEAR 开发的 DEX 和模块化生态，具有无需许可和去中心化等特点。它使用了链上订单薄技术，并自带风险引擎、撮合引擎、共享资产池等功能，以方便 DApp 基于其搭建。基于 Orderly 搭建的 DApp 将带有以下金融工具：现货交易、杠杆交易、永续互换、借贷。
+
+CoinDCX 是印度本土最顶级的加密货币交易所之一，致力于为全球客户打造健壮的 Web3 生态。目前该交易所为全球超过 1500 万用户提供服务，不久前还通过 Okto 钱包应用进军 DeFi 服务赛道。自成立至今，CoinDCX 已获得多家顶级投资机构的支持，其中包括 Pantera, Steadview Capital, Kingsway, Polychain Capital, B Capital Group, Bain Capital Ventures, Cadenza, Draper Dragon, Republic, Kindred, Coinbase Ventures 等。
+

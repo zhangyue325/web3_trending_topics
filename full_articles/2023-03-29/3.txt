@@ -1,0 +1,184 @@
+3 月 27 日，Polygon zkEVM 主网测试版本正式上线，Vitalik 在上面完成了第一笔交易。
+
+本文是 Polygon zkEVM 系列文章的第一篇，简要阐述了 Polygon zkEVM 的整体架构和交易执行流程，并且分析了 Polygon zkEVM 是如何实现计算扩容并同时继承以太坊的安全性的。
+
+同时还会在接下来两篇文章里详细介绍 Polygon zkEVM 的 zkEVM Bridge 和 zkEVM 的设计细节，以及 Polygon zkEVM 接下来的去中心化 Sequencer 的路线图。
+
+**一、Rollup 为了给以太坊实现计算扩容**
+-------------------------
+
+首先，我们需要明确 Rollup 的大概工作原理。Rollup 的出现是为了给 Ethereum 实现计算扩容，具体的实现方法是将交易的执行外包给 Rollup，然后将交易和交易执行后的状态 (State) 存储在 Ethereum 的合约内，由于技术路线的不同演变出了两种类型的 Rollup：
+
+乐观的认为发送到 Ethereum 的 Rollup 交易 (Rollup Transaction) 和对应的 Rollup 状态 (Rollup State ) 都是正确的，任何人都可以通过提供欺诈证明 (Fraud Proof) 对还处于挑战期的 Rollup State 进行挑战 (Challenge)。
+
+ZK 会为发送到 Ethereum 的 Rollup 交易和对应的 Rollup 状态提供一个有效性证明 ( 由以太坊上的合约验证，来证明 Rollup 的执行对应交易后的状态是正确的 ) 。
+
+Zero-knowledge Rollup 和 Optimistic Rollup 最大的区别就是由于验证状态有效性的不同方式导致达成 Finality 的时间不同；
+
+Optimistic Rollup 乐观的认为提交到 Ethereum 上的交易和状态都是正确的，所以存在 7 天的挑战期（达成 Finality 的时间是 7 天），期间任何人发现在 Ethereum 上的交易对应状态不正确都可以通过提交正确的状态进行挑战。
+
+Zero-knowledge Rollup( zk-Rollup ) 达成 Finality 的时间，则取决于：交易对应的有效性证明 ( Validity Proof ) 提交到以太坊并且验证通过所花费的时间。目前可能在 1 个小时左右的 Finality 居多 ( 因为需要考虑到 Gas 成本问题 )。
+
+**二、Polygon zkEVM 执行流程**
+------------------------
+
+接下来我们以一个简单的交易被确认流程来看看 Polygon zkEVM 是怎么工作的，从而对整体协议有一个具体的理解，它的整个过程可以主要分为三个步骤:
+
+1. Sequencer 将多个用户交易打包成 Batch 提交到 L1 的合约上；
+
+2. Prover 为每笔交易生成有效性证明 (Validity Proof)，并将多个交易的有效性证明聚合成一个有效性证明；
+
+3. Aggregator 提交聚合了多个交易的有效性证明 (Validity Proof) 到 L1 的合约中。
+
+![](https://img.foresightnews.pro/202303/88cb263e0d878e4157f5d016cdb05124.jpeg?x-oss-process=style/scale70)
+
+### **1. Sequencer 将用户交易打包成 Batch 提交到 L1 合约上**
+
+1) 用户将交易发送给 Sequencer，Sequencer 会在本地按照收到交易的快慢顺序进行处理 (FRFS)，当 Sequencer 在本地将交易执行成功后，如果用户相信 Sequencer 是诚实的，那么他可以认为这个时候的交易已经达成了 Finality。这里需要注意，目前大多数 Sequencer 内部的 Mempool( 交易池 ) 都是私有的，所以暂时可以获取的 MEV 是比较少的。    
+
+2) Sequencer 会将多笔交易打包进一个 Batch 里 ( 目前是一个 Batch 里只包含一个交易 ) 然后在收集到多个 Batches 之后, 通过 L1 上的 PolygonZKEvm.sol 的 SequenceBatch() 函数将多个 Batches 一起送到 L1 的交易 Calldata 上。
+
+![](https://img.foresightnews.pro/202303/498d33f681cee792201a9547e8fb087d.png?x-oss-process=style/scale70)
+
+  
+
+
+*( 需要注意这里一次性提交多个 Batches 是为了尽可能减少 L1 的 Gas 消耗 )*
+
+3) 当 PolygonZkEvm.sol 收到 Sequencer 提供的 Batches 后，它会依次在合约内计算每个 Batch 的哈希，然后在后一个 Batch 里记录前一个 Batch 的哈希，于是我们就得到了下图的 Batch 结构。
+
+![](https://img.foresightnews.pro/202303/7b1fa25001e750c82e287b31c3c3d06f.jpeg?x-oss-process=style/scale70)
+
+4) 每个 Batch 里的交易顺序也是确定的，所以当 Batch 的顺序确定之后，我们认为所有被包含在 Batch 提交到 L1 的 Polygon zkEVM 合约的交易的顺序都被确定了。
+
+![](https://img.foresightnews.pro/202303/13f5c57e44f5eae4699aa1730687fd3f.jpeg?x-oss-process=style/scale70)
+
+以上实际过程也是 L1 充当 Rollup DA 层需要完成的工作 ( 这个时候并没有完成任何状态检验或推进的工作 )。
+
+### **2. Aggregator 为多个 Batch 的交易生成 Validity Proof**
+
+1) 当 Aggregator 监听到 L1 的 PolyonZKEVM.sol 合约中已经有新的 Batch 被成功的提交之后，它会把这些 Batch 同步到自己的节点里，然后给 zkProver 发送这些交易。
+
+2) zkProver 接收到这些交易之后会并行为每笔交易生成 Validity Proof，再将多个 Batch 包含的交易的 Validity Proof 再聚合成一个有效性证明 (Validity Proof)。
+
+![](https://img.foresightnews.pro/202303/8b95c177e008119f23e642fbd568080a.jpeg?x-oss-process=style/scale70)
+
+3) zkProver 将聚合多个交易的 Validity Proof 发送给 Aggregator。
+
+### **3. Aggregator 提交聚合证明到 L1 的合约**
+
+Aggregator 会将这个有效性证明 (Validity Proof) 以及对应的这些 Batch 执行后的状态一起提交到 L1 的 Polygon zkEvm.sol 合约内，通过调用以下方法：
+
+![](https://img.foresightnews.pro/202303/083c22dd574b05ae1b65ef1606888016.jpeg?x-oss-process=style/scale70)
+
+  
+
+
+合约内接下来会执行以下操作来验证状态转换是否正确。
+
+![](https://img.foresightnews.pro/202303/0d29a59465b8a0f960c321e7ca1fec3e.png?x-oss-process=style/scale70)
+
+  
+
+
+![](https://img.foresightnews.pro/202303/372e89e168ccf607a0df738a70ef48c5.jpeg?x-oss-process=style/scale70)
+
+  
+
+
+当这一步在 L1 合约内执行成功时，这部分 batch 包含的所有交易也就真正达成了 Finality（对应 OP 的 7 天挑战期结束）。
+
+**三、 Ethereum 在 Polygon-zkEVM 中充当的角色**
+--------------------------------------
+
+上文我们已经了解了 Polygon zkEVM 的整体流程, 可以回顾下 Ethereum 为 Rollup 做了哪些工作:
+
+第一步，Sequencer 将 Rollup 的交易收集起来打包成 Batch 之后，提交到 L1 的合约中。 L1 不仅 仅提供了 DA 层的功能，实际上还完成了一部分交易排序的功能；当你把交易提交到 Sequencer 时，交易是没有真正被定序的，因为 Sequencer 有权力可以随便 改变交易的顺序，但是当交易被包含在 Batch 里提交到 L1 合约上之后，任何人都没有权利再修改其中的交易顺序。
+
+第二步，Aggregator 将 Validity Proof 提到 L1 合约上来达成新的状态, Aggregator 则是类似 Proposer 的角色，合约则类似 Validator 的角色；Aggregator 提供了一个 Validity Proof 来证明一个新的状态是正确的，并告诉 Validator 我提供的 Validity Proof 涉及 哪些交易 Batch，他们都存在了 L1 的哪个位置。
+
+接着 Validator 从合约中提取对应的 Batch，与 Validity Proof 结合在一起就可以验证状态转换的合法性了，如果验证成功实际上合约内也会更新到对应 Validity Proof 的新状态。
+
+![](https://img.foresightnews.pro/202303/966e673731e8a2f04aa8f70fbaf41897.jpeg?x-oss-process=style/scale70)
+
+**四、从模块化的角度结构 Smart Contract Rollup**
+-------------------------------------
+
+如果从模块化的角度来看，Polygon zkEVM 属于 Smart Contract Rollup 类型，我们可以尝试解构下它的各个模块， 从 Delphi 给的图中， 我们也可以看出实际上 Polygon ZkEVM 作为 Smart Contrat Rollup 的 Consensus Layer，DA Layer 和 Settlement Layer 其实都是耦合在 PolygonZkEVM.sol 合约中，并不能很好的区分。 但是我们尝试着去解构各个模块:
+
+* **数据可用层 (Data Availability Layer):** Rollup 交易存放的地方，对于 Polygon-zkEVM 来说 ，当 Sequencer 调用 SequenceBatch () 方法的时候，实际上就包含了往 DA 层提交交易数据。
+* **结算层 (Settlement Layer):** 具体指的是 Rollup 和 L1 之间的资金流动机制， 具体指的是 Polygon-zkEVM 的官方桥 ( 在下一篇文章会有详细介绍 )。
+* **共识层 (Consensus Layer):** 包含交易排序和如何确定下一个合法状态 ( 分叉选择 )，Sequencer 调用 L1 合约中的 SequenceBatch() 的时候完成了交易排序的工作，当 Aggregator 调用 L1 合约中的 TustedVerifyBatches () 的时候完成了确认下一个合法状态的工作。
+* **执行层 (Execution Layer):** 执行交易并且得到新的世界状态， 当用户向 Sequencer 提交交易，并且 Sequencer 执行完之后得到新状态的过程 ( 所以我们往往说 Rollup 是计算扩容，因为 L1 把执行交易得出新状态的这个过程外包给了 Rollup， 同时 Sequencer 会通过 Aggregator 委托 zkProver 帮忙生成 Validity Proof。
+![](https://img.foresightnews.pro/202303/32b09a5230f9e0631dd2d368debf647c.jpeg?x-oss-process=style/scale70)
+
+  
+
+
+**五、为什么说 Polygon-zkEVM 继承了 L1 的安全性**
+------------------------------------
+
+  
+
+
+从上面介绍的整体流程上看，实际上 Sequencer 做了类似以太坊 Proposer 的工作，提议了一批交易是有效交易，并且给出了这批交易执行后的新状态；而 L1 合约的验证逻辑，相当于所有 L1 的 Validator 都会在自己的以太坊客户端里执行一遍，实际上是所有的以太坊验证者充当了 Rollup 的验证者，因此我们认为 Polygon zkEVM 继承了以太坊的安全性。
+
+从另外一个角度上看，因为 Rollup 的所有交易以及状态都存储在以太坊上，所以即便 Polygon zkEVM 这个团队跑路了，任何人都还是有能力依托以太坊上存储的数据，恢复整个 Rollup 网络。
+
+**六、Polygon zkEVM 激励机制**
+------------------------
+
+Rollup 激励机制主要指的是如何让 Sequencer 和 Aggregator 有利可图，从而保持持续性的工作的？
+
+![](https://img.foresightnews.pro/202303/d82041c3a4e6bfbec3f87b56afe06e48.jpeg?x-oss-process=style/scale70)
+
+首先用户需要支付自己在 Rollup 上的交易手续费，这部分的手续费是采用 ETH 计价的，用 Bridged ETH 支付。
+
+Sequencer 则需要支付这些包含 Rollup 交易的 Batch 上传到 L1 交易的 Calldata 上的成本 ( 调用 SequenceBatch(batches() 的成本 )，同时需要在上传 Batch 的同时支付一定的 Matic 到 L1 合约中，用于之后支付 Aggregator 为这些 Batches 提供 Validity Proof 的成本。
+
+Aggregator 在调用 trusted VerifyBatches 为 L1 合约内还没有被 Finality 的 Batches 提供 Validity Proof 的同时，也可以取出 Sequencer 提前支付在合约内的 MATIC 代币，作为提供 Validity Proof 的报酬。
+
+Sequencer 的收入 = Rollup 所有交易的 Gas 费用 - 将 Batches 上传到 L1 花费的 L1 网络 Gas 费用 - 支付给 Aggregator 的证明费用 (MATIC 计价 )。
+
+Aggregator 的收入 = Sequencer 支付的 MATIC 报酬 - 提交到 Validity Proof 到 L1 的 Gas 费用 - Validity Proof 生成花费的硬件费用。
+
+调整支付给 Aggregator 的证明费用，同时为了避免 Sequencer 因为无利可图罢工，提供了以下的机制来调整 Sequencer 支付给 Aggregator 的证明费用。
+
+合约中存在这样一个方法用来调整为 Batch 提供证明的费用:
+
+function \_updateBatchFee(uint64 newLastVerifiedBatch) internal
+
+它会更改合约中一个名为 BatchFee 的变量，而这个变量决定了 Sequencer 为每个 Batch 支付的 MATIC 代币数量。
+
+更改机制如下:
+
+合约中维护了这样一个变量 VeryBatchTimeTarget ，代表每个 Batch 被 Sequencer 提交到 L1 之后期望在这个时间内被验证状态。
+
+合约内会记录所有超过了 VeryBatchTimeTarget 之后还没有被验证状态的 Batches, 并且将这些 Batches 的总数量记为 DiffBatches。
+
+于是当有 Batches 迟到的时候，会用以下公式来调整 BatchFee:
+
+MultiplierBatchFee 是一个被限制在 1000~1024 范围的数，可以通过函数 setMultiplierBatchFee() 由合约管理员更改：
+
+Function setMultiplier BatchFee (uint16newMultiplierBatchFee) public onlyAdmin
+
+需要注意这里的 采用 MultiplierBatchFee 和 10^3 是为了实现 3 个小数点后的调整精度。
+
+![](https://img.foresightnews.pro/202303/c75104c54876e31b7f507f217c7b51ad.jpeg?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/e5426fbc1dd8ae931a5c4a000e415dcc.jpeg?x-oss-process=style/scale70)
+
+同理假如 Batches 提前了也会触发相应的 batchFee 调整机制:DiffBatches 表示提前验证状态的 Batches 的数量。
+
+![](https://img.foresightnews.pro/202303/5ce082e474e9e78533099803f2a18c66.jpeg?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/939290e2fea19e6815ece26420596762.jpeg?x-oss-process=style/scale70)
+
+**总结**
+------
+
+  
+
+
+在这篇文章里我们梳理了 Polygon zkEVM 的核心机制，并分析了它实现以太坊计算扩容的可行性。有了一个整体的大纲后，在接下来的文章里我们会深入到协议内部，依次解析 zkEVM Bridge 的设计细节以及 Sequencer 的去中心化路线，zkProver 的实现以及 zkEVM 的设计原理。
+
