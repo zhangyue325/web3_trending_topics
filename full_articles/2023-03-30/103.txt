@@ -1,0 +1,44 @@
+GPT4All 基于 LLaMA 架构，实现跨平台运行，为个人用户带来大型语言模型体验，开启 AI 研究与应用的全新可能！
+
+GPT4All 是基于 LLaMA 架构的，可以在 M1 Mac、Windows 等环境上运行。它的开发旨在让更多人能够在自己的设备上使用 GPT。  
+
+
+![](https://img.foresightnews.pro/202303/2b776559b58f627f4f3baff7c0f83068.png?x-oss-process=style/scale70)
+
+GPT4All 在 GPT-3.5-Turbo 的 800k 条数据上进行训练，包括文字问题、故事描述、多轮对话和代码。
+
+作者希望 GPT4All 能加速开放的大型语言模型研究，特别是在对齐和可解释性领域。  
+
+
+项目地址：  
+
+
+* https://github.com/nomic-ai/gpt4all
+  
+  
+
+
+![](https://img.foresightnews.pro/202303/56e45d35b5e1fdd3b254084c50e9d47c.png?x-oss-process=style/scale70)
+
+研究者在技术报告中详细介绍了数据收集、整理、模型训练、可重复性、成本和评估方面的内容。
+
+技术报告地址：
+
+* https://s3.amazonaws.com/static.nomic.ai/gpt4all/2023\_GPT4All\_Technical\_Report.pdf
+![](https://img.foresightnews.pro/202303/2256a0cb897b5f3f36c99bc38760788a.png?x-oss-process=style/scale70)
+
+让我们来看看这个厉害的 GPT4All 的效果吧！用户可以和它无障碍地交流，比如问它：“我能在笔记本上运行大型语言模型吗？” 然后，GPT4All 给出了令人惊叹的回答：“当然可以啊！你可以用笔记本来训练和测试神经网络或者其他自然语言（如英语或中文）的机器学习模型。重要的是，你需要足够的可用内存（RAM）来适应这些模型的大小……”
+
+![](https://img.foresightnews.pro/202303/8ddf65d00bcea74ff8a0f47550fbc172.gif?x-oss-process=style/scale70)
+
+这项研究被一些人称为“改变游戏规则”，因为有了 GPT4All 的支持，现在甚至可以在 MacBook 上本地运行 GPT！让我们一起感受一下这场技术变革的激动吧！
+
+![](https://img.foresightnews.pro/202303/150cc36ba30ff725be1da5f0b79d08d4.png?x-oss-process=style/scale70)
+
+需要注意的是，虽然 GPT4All 是为了促进开放研究而开发的，但其权重和数据仅限于非商业用途。因此，在应用 GPT4All 时，需遵循相应的许可和使用限制。
+
+总之，GPT4All 的出现为大型语言模型领域带来了新的可能性，使得个人用户能够更容易地体验到这类模型的强大功能。随着未来更多类似的研究和项目的出现，我们有望看到更广泛的大型语言模型应用，以及它们在人工智能和机器学习领域的影响。
+
+![](https://img.foresightnews.pro/202303/d61035ccd525f0bc2fb5e011669dc54c.png?x-oss-process=style/scale70)  
+
+

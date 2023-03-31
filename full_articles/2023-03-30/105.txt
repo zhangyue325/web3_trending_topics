@@ -1,0 +1,12 @@
+今年伊始，扩容赛道便发展火热，利好不断。2 月中，Arbitrum 宣布了开发者友好的编程环境 Stylus，Polygon 的零知识以太坊虚拟机（zkEVM）主网的测试版已于 3 月 27 日上线；Scroll 也预计将于今年上线主网；此外，诸如 ConsenSys zkEVM (Linea) 、Taiko、Opside、IntMax 等新秀 L2 和 ZK 项目也在不久前纷纷推出测试网。
+
+Layer2 生态全面开花，基础设施和应用层均取得里程碑式进展。与此同时，以太坊开发者已在测试网 Goerli 开启测试，预计于 4 月 12 日迎接上海升级。伴随着上海升级的临近，Layer2 赛道的未来发展也正在为加密行业创造着新的热点话题。 
+
+据 Vitalik 所披露的以太坊未来路线图显示，上海升级完毕后，以太坊开发者计划于今年年中发布 EIP-4844——该提案将显著提高以太坊网络的可扩展性，Layer2 层的扩展性也将随之提升至更大量级；新升级的到来有望为 Layer2 赛道开创又一轮发展高峰。
+
+![](//:0)![](https://img.foresightnews.pro/202303/842-1680171645478.png?x-oss-process=style/scale70)
+
+4 月 13 日，由 SNZ 与主办方联合组织的 2023 香港 Web3 嘉年华分会场一将聚焦 Layer2 和 ZK，以「Web3 技术基础设施：Layer 2 二层网络」为主题，邀请 Arbitrum 联合创始人兼首席科学家 Ed Felten, ConsenSys 全球战略倡议总监 Shuyao Kong, Scroll Network 联合创始人 Sandy Peng, Polygon Zero 联合创始人 Brendan Farmer, Polygon Labs 社区副总裁 Kurt Patat, Chainlink Labs 亚太开发者社区负责人 Frank Kong, Cysic 联合创始人 Leo Fan, Cysic 高级平台&SoC 架构师 Boyang Han, Taiko 首席运营官 Matthew Finestone, Manta Network 联合创始人 Kenny Li, Celer Network 联合创始人董沫，PADO 联合创始人 Fubiao Xia, Opside 联合创始人兼 CEO NanFeng，ZK Me 联合创始人 David Sheer, IntMax 联合创始人 Leona Hioki, Ola 伙伴关系与增长负责人 Philip Eriksson 等知名 Layer2 及 ZK 项目代表分享其生态进展，共同展望 Layer2 及 ZK 赛道的未来发展与机遇。
+
+「2023 香港 Web3 嘉年华（Hong Kong Web3 Festival 2023）」由万向区块链实验室、HashKey Group 联合主办，W3ME 承办，将于 4 月 12 日 - 15 日在香港会议展览中心举行。此次嘉年华活动持续四天，预计将吸引超过 10,000 名现场观众，超过 300 位极具全球影响力的演讲嘉宾，以及超过百家热门 Web3 项目、社区及媒体现场参展。活动将与全新推出的「国际创科营商周（Business of Innovation and Technology Week）」旗下多场活动同场举办，凸显香港作为国际创新科技中心和亚洲国际贸易展览中心的独特优势。
+

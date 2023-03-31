@@ -1,0 +1,19 @@
+![](https://img.foresightnews.pro/202303/0b82f4c38b18b6332d2230e618aac458.jpeg?x-oss-process=style/scale70)*Support of CIAN’s infrastructure and dApp enables investors to participate in yield-bearing recursive vault strategies*
+
+CIAN, a leading DeFi yield automation and strategy platform, and Matrixport, one of the world’s largest digital assets financial services ecosystem, have partnered to accelerate scalable and expandable institutional adoption of decentralized finance (DeFi).
+
+With the partnership, Matrixport will support CIAN’s infrastructure and dApp, enabling institutional and accredited investors to seamlessly participate in CIAN’s one-stop recursive strategy vault, which taps into top-tier lending protocols such as AAVE and Compound.
+
+Executed by smart contracts, CIAN offers tailored yield strategies and position management. Investors will have access to a fully decentralized architecture targeting optimal transaction routes for specified yield strategies while ensuring transparent fund operations and protection against liquidation risks.
+
+CIAN protocol is a liquid staking derivatives (“LSD”) focused yield strategy platform, where users could earn either through joining algorithmic strategy vaults or through building their own DeFi strategies using CIAN’s advanced automation tools.
+
+CIAN enables LSD holders to benefit from DeFi yield in addition to their staking yield. To the holders of other tokens (eg. BTC, stables etc.), CIAN makes high quality liquid staking yield accessible.
+
+[Website](http://cian.app/) | [Whitepapers](https://docs.cian.app/) | [Twitter](https://twitter.com/CIAN_protocol) | [Discord](https://discord.gg/cian) | [Telegram](https://t.me/CIAN_Protocol) |[YouTube](https://www.youtube.com/@cianprotocol8057)
+
+Matrixport is one of the world’s largest and most trusted digital assets financial services ecosystem. The company’s services include prime brokerage, Cactus Custody™, spot OTC, fixed income, structured products, lending as well as asset management. Matrixport serves individuals as well as over 800 institutions across Asia and Europe.
+
+For more information, please visit [www.matrixport.com](https://www.matrixport.com/)
+
+![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=5167c8f9f9f4)

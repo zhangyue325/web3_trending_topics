@@ -1,0 +1,80 @@
+在本篇报告中，我们将详细介绍 ZetaChain 的跨链机制，并将现有跨链技术与 ZetaChain 的 Omnichain 功能进行详细对比，引导读者深入了解 ZetaChain。在阅读这篇报告后，我们希望读者能解决以下疑问：ZetaChain 是什么？与其他跨链项目相比，ZetaChain 在技术上有何关键创新？ZetaChain 目前的生态发展情况如何？
+
+下面是报告中的部分要点：
+
+ZetaChain 是什么？
+--------------
+
+通俗来说，ZetaChain 是一条公共区块链，允许人们在比特币和以太坊等不同区块链之间发送信息和转移加密资产，且无需任何中间人或额外步骤。这通过 Omnichain 功能实现，它将所有不同的区块链连接在一起，以便人们轻松地移动资产和信息。ZetaChain 还允许开发人员构建适用于所有链的去中心化应用程序，从而可以轻松地从一个地方管理所有内容。
+
+现有跨链通信技术
+--------
+
+* 目前市场中常见的跨链桥资金转移方案主要有两种：【锁定 / 销毁 + 铸造】和【流动性互换】。
+* 目前市场中的跨链桥协议一般使用两种跨链通信技术：【单方 / 多方验证】和【中继器 + 轻客户端】。
+![](https://img.foresightnews.pro/202303/11841-1680169550366.png?x-oss-process=style/scale70)
+
+从对比中可以看出，大部分早期跨链桥协议，如 [WBTC](https://tokeninsight.com/zh/coins/wrapped-bitcoinwbtc/overview) 多使用【锁定 / 销毁 + 铸造】方案进行跨链资产传递；而较新的跨链协议，如 [Stargate](https://tokeninsight.com/zh/coins/stargate-finance/overview)、[Synapse](https://tokeninsight.com/zh/coins/synapse/overview) 则大多选择了【流动性互换】方案。
+
+根据统计，截至 2023 年 3 月 16 日，DefiLlama 上 TVL 总量最高的 10 个跨链桥协议中，有 8 个协议主要使用【锁定 / 销毁 + 铸造】方案。仅有 Stargate 和 Synapse 两个协议单独使用【流动性互换】方案。
+
+![](https://img.foresightnews.pro/202303/11841-1680169565083.png?x-oss-process=style/scale70)
+
+现有跨链桥的局限性
+---------
+
+* 在【锁定 + 铸造】方案中，资金跨链需要使用包装资产作为原生资产的替代品才能实现资金的转移。
+* 【流动性互换】方案则不支持非智能合约平台和链接网络内不可用的资产。
+* 在【单方 / 多方验证】中，单方验证是中心化的。
+* 在【中继器 + 轻客户端】中，第三方中继器的部署成本较高。
+ZetaChain 的创新
+-------------
+
+* 为了解决现阶段跨链协议的弊端并实现全链跨链功能，ZetaChain 开发了一系列用于跨链资金传递和通用多链编排的工具：Omnichain 智能合约、账户以及消息传递。
+* 此外，在验证机制方面，ZetaChain 计划结合【中继器】和【多方验证方案】，使用网络内分布式验证节点架构以及阈值签名方案 TSS 验证交易。
+![](https://img.foresightnews.pro/202303/11841-1680170050816.png?x-oss-process=style/scale70)
+
+ZetaChain 如何实现 Omnichain 跨链功能？
+------------------------------
+
+### 
+
+### ZetaChain 分布式验证节点网络
+
+ZetaChain 的跨链通信功能主要靠其网络内的分布式验证节点实现。它计划利用自己网络内的验证节点代替中继器和预言机，帮助验证跨链交易信息并实现喂价功能。
+
+![](https://img.foresightnews.pro/202303/11841-1680170075882.png?x-oss-process=style/scale70)
+
+### ZetaChain Omnichain 账户 /TSS
+
+ZetaChain 的 Omnichain 账户允许用户连接包括智能合约平台、非智能合约平台在内的全部区块链网络，以实现资金的全链跨链转移。它作为交易的基站，用于管理和验证与外部链相关的交易。具体交易验证由阈值签名方案 TSS 支持。
+
+![](https://img.foresightnews.pro/202303/11841-1680170099066.png?x-oss-process=style/scale70)
+
+### ZetaChain Omnichain 智能合约 / 通信
+
+借助 Omnichain 智能合约，开发者可以构建不同种类的 Omnichain DApps（odApps）。开发者仅需通过 zEVM 在 ZetaChain 网络上部署单个智能合约，即可连接包括 ZetaChain 本身在内的所有目标链。zEVM 上的合约与 ZetaChain 的互操作性层相连，能够协调外部链上的资产，实现链与链之间的资产跨链转移。
+
+![](https://img.foresightnews.pro/202303/11841-1680170118498.png?x-oss-process=style/scale70)
+
+ZetaChain 生态
+------------
+
+### 
+
+### 社群
+
+ZetaChain 目前在包括 Twitter、Telegram、Discord 在内的多个社交媒体上运营官方账户，支持超过 20 种语言。社群总人数超过 100 万。
+
+### 链上生态
+
+针对测试网相关链上数据，ZetaChain 发布了自己的区块链浏览器，Zetascan。Zetascan 可以观测 Athens-2 测试网的运行情况，数据维度包括跨链交易数据、ZetaChain 本地交易数据、DApp 合约部署数据等。
+
+![](https://img.foresightnews.pro/202303/11841-1680170163457.png?x-oss-process=style/scale70)
+
+### 合作伙伴
+
+ZetaChain 与多个涉及不同领域的主要项目 / 协议达成了合作关系，希望通过其主要的 Omnichain 跨链技术帮助这些项目 / 协议解锁更多跨链用例并实现可覆盖全链的数据 / 资产转移。根据 ZetaChain，目前已确定将部署在 ZetaChain 上的 Omnichain DApp 包括 DEX、Identity 基础设施（Galxe）、社交协议（CyberConnect）、DAO（STP） 等。
+
+上面是这整篇报告的部分关键内容，详细内容请[下载报告](https://tokeninsight.com/zh/research/reports/the-future-of-omnichain-zetachain-a-novel-layer-1-blockchain-enables-fully-interoperable-smart-contracts)全文阅读。
+

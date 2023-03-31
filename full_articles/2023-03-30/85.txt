@@ -1,0 +1,453 @@
+![](https://img.foresightnews.pro/202303/28c6032df35143d65b151a91da4ef7b2.png?x-oss-process=style/scale70)
+
+Abstract
+--------
+
+Traditional market-making first emerged in early 19th century, and it has now become mature in development, diversified in trading varieties, and relatively stable in business model and return. As critical as it is in the financial market, market-makers have provided unparalleled liquidity and efficiency to the market. As the market continues to expand, more and more institutions and investment banks have joined the market-making business, which has become an irreplaceable revenue stream. The overall market-making business is dense on the top, and the competition is intense. In order to obtain higher market share, market-makers are continuously upgrading algorithms, technology, risk management and compliance, and the scope has been extended to the crypto world.
+
+Although the market-making business in crypto is not inherently distinct from that in traditional finance, there is a world of difference in terms of operations, technology, risk management and regulation. First, by scale, the crypto market is still relatively small compared to the traditional financial market, and so are the market-makers. The crypto market is volatile with relatively low liquidity level, market-makers have to be more meticulous and apply higher level of risk management. Second, market-makers in the crypto market are also known as the house. Since the trading process in the crypto market is difficult to be regulated and there is no strict code of conduct to be enforced on market-makers, the relationship between exchanges, project parties and market-makers becomes quite complicated. As a result, the market-making business does not only exist on CEXs, but also on-chain, which lays a foundation for some middleware and protocols to provide services to market-making activities. Last but not least, in terms of technical architecture, higher technical capability is desired to ensure the security of transactions in the crypto industry.
+
+The market-making business in the crypto world is a Blue Ocean market that is full of opportunities yet with risks lie within. Currently, the Securities and Exchange Commission (SEC) and the Commodity Futures Trading Commission (CFTC) in the United States are tightening regulation on the crypto market so that many institutions and businesses are being affected. What’s worse, under the bear market, it was frequently seen crashes of large institutions, posing a stronger challenge to market-makers on their risk management capability. In addition, crypto market-makers are also exposed to fragmented market, low interoperability, low capital efficiency, regulatory uncertainty, and undeveloped exchange technology and connectivity.
+
+Even so, room for development and profitability remain considerable for market-makers. Crypto market-makers will look more like market-makers in traditional finance in the future by demonstrating the following characteristics:
+
+* **diversification of participants;**
+* **diversification of varieties**;
+* **high leverage**;
+* **the 80–20 rule will be more prominent**.
+For potential investment, centralized small market- making strategies or service-oriented projects, tools that address interoperability, and CeDeFi projects are worth some attention.
+
+1. Traditional Market-making
+----------------------------
+
+A market-maker is an institution or individual that provides liquidity in the financial markets; the main responsibility is to provide liquidity and market depth to the securities trading market. Market-makers usually trade between buyers and sellers in the securities trading market and provide quotes in the market so that other traders can trade on that quote to buy or sell. Market-makers are usually made up of investment banks, securities firms or professional organizations that play an important role in the market and foster market stability and liquidity. Market-makers typically trade in one or more markets simultaneously and provide liquidity by buying and selling the same asset in order to provide trading opportunities for market participants.
+
+A market-maker’s main goal is to profit from spread when asset prices fluctuate, therefore, algorithms and other techniques are normal tools for market-makers to analyze the market, identify opportunities, and conduct trading activities in a short period. Market-makers may trade in a variety of markets, including stocks, foreign exchange, commodities, and bonds.
+
+![Figure 1. Mechanism of market-making](https://img.foresightnews.pro/202303/98b276b4a66640384265be2dc938bd82.png?x-oss-process=style/scale70)
+
+1.1 Industry Overview
+---------------------
+
+1.1.1 Industry functions and clients
+------------------------------------
+
+The role of market-makers in financial markets is crucial and distinct from other market participants, especially in providing liquidity and market efficiency. **Specifically, market-makers perform six main duties:**
+
+* Providing liquidity: provide liquidity between buyers and sellers to keep the market active.
+* Quoting: providing bid and ask prices at all times to facilitate trading between market participants.
+* Managing risk: market-makers manage trading risk and maintain a healthy risk to reward ratio to protect their own interests and those of their clients.
+* Providing advice: Market-makers provide market information and analysis to help clients make better trading decisions.
+* Improving market efficiency: Market-makers can increase market efficiency, reduce the spread between buyers and sellers, and improve the efficiency and competitiveness of the market.
+* Providing innovative products: Introduce new products according to market demand to meet the different investment needs of clients.
+* Traders: Market-makers provide liquidity to traders and help them trade quickly and efficiently.
+* Investment Institutions: Market-makers provide liquidity and services to investment institutions to help them with asset allocation and risk management.
+* High Frequency Trading Firms: Market-makers provide liquidity and services to high frequency trading firms to help them make fast, high frequency trades.
+* Individual investors: Market-makers provide liquidity and services to individual investors to help them trade financial products such as stocks and futures.
+* Other Financial Institutions: Market-makers also provide liquidity and services to other financial institutions, such as banks and insurance companies.
+1.1.2 History of market-making
+------------------------------
+
+The development path of market-making can be divided into five phases:
+
+* Before the 19th century: At the initial stage of market-making, trades were aggregated in the traditional over-the-counter market. The market-making system is one of the oldest securities trading systems, originated in the traditional over-the-counter market, where dealers took on the role of market-makers themselves to facilitate transactions and reduce transaction costs, providing bilateral quotes to other dealers or clients, and quoting mostly in the traditional way, such as field communication and telephone communication.
+* 1900s-1970s: Regulated exchanges emerged and grew at a rapid pace that market-makers providing liquidity in floor trading. In the 19th century, the American Stock Exchange, the Chicago Stock Exchange and other major US exchanges were established. At that time, market-makers were mostly seen active on the New York Stock Exchange (NYSE). During that period, market-making activities were mostly conducted manually rather than by computer programs. Market-makers list quotes from both buyers and sellers on the stock exchange’s trading book as a basis for providing market liquidity.
+* 1970s-1980s: With the development of computer, market-makers began to gradually apply electronic trading systems, which made trading faster and more efficient. During the 1970s and 1980s, market-makers’ trading volumes grew rapidly, and their trading strategies and techniques continued to be innovative and optimized.
+* The 1990s: The late 20th century saw the rise of institutional investors and retail discount brokers, and the market share of market-making internal aggregation platform trading continued to rise. On the one hand, the rise of institutional investors such as mutual funds and pension funds in the U.S. significantly increased the demand of institutional investors for block trades, and large investment banks represented by Goldman Sachs were able to provide comprehensive services for institutional investors, and had a comparative advantage in undertaking market-making business related to block trades; on the other hand, the volume of retail securities trading undertaken by retail discount brokers such as Robinhood and Charles Schwab has increased dramatically, and such discount brokers mainly transfer orders to the market-making platform in exchange for payment from the market-maker on this purpose (Payment for Order Flow). With the globalization of financial markets, market-makers began to expand their business globally and faced increasingly fierce competition. During this period, market-makers began to adopt more sophisticated and advanced trading strategies and technologies in order to increase trading efficiency and profitability.
+* 21st century: As financial markets continue to innovate and evolve, the role of market-makers has been gradually expanded and consolidated. In the 21st century, market-makers began to enter emerging markets, such as cryptocurrency markets and options markets, while also adopting more advanced technical tools, such as artificial intelligence and machine learning.
+1.1.3 Market size and competitive landscape
+-------------------------------------------
+
+According to FINRA (Financial Industry Regulatory Authority), the regulator of financial industry, the number of legal market-makers registered in the United States exceeds 500 as of September 2021. These market-makers are regulated by FINRA. According to the Office of the Comptroller General of the Currency (OCC), the total combined revenue from transactions by holding companies of U.S. commercial banks remained at the level of \(50 billion from 2012–2018 despite a year-over-year decline in trading revenue in some special years represented by 2018, which is dragged down by secondary market conditions, the fluctuation is relatively small and a trend of growth is spotted. The banking industry has seen further growth in revenue from transactions since 2019, the combined revenue by holding companies of US commercial banks in 2019, 2020, and 2021 is \)75.126, \(79.512, and \)78.946 billion, respectively. The size, or market share, of a market-maker firm is often related to the extent to which it provides liquidity in that market, **specifically, the market share of a market-maker can be measured by several metrics:**
+
+* Volume share: The volume share of a market-maker in a given market reflects its trading activity and influence in that market.
+* Depth of quote: The depth of a market-maker’s quote in a given market, i.e., the volume and price at which it intends to trade, can reflect the extent to which it provides liquidity in that market.
+* Trading efficiency: The efficiency of a market-maker’s trading in a given market, i.e., the capability to trade instantly and efficiently.
+In all, the market share of market-makers is an important indicator of their performance in terms of trading activity, liquidity provision and trading efficiency in the market.
+
+* Jane Street: A quantitative trading firm based in New York City, USA, founded in 2000, focusing on stocks, futures, and foreign exchange.
+* Citadel Securities: A financial company headquartered in Chicago, USA, founded in 2002, is one of the largest market-makers in the world, mainly involved in trading stocks, futures, foreign exchange, bonds and other areas.
+* IMC Trading: A financial company based in Amsterdam, Netherlands, founded in 1989, is one of the world’s leading market-makers in stocks, futures and foreign exchange.
+* Optiver: Financial company based in Amsterdam, Netherlands, founded in 1986, is one of the world’s largest market-makers in options, and also involved in other areas of trading.
+* Susquehanna International Group: Financial firm based in Philadelphia, USA, founded in 1987, is one of the world’s largest market-makers in options, also involved in other areas of trading.
+* Jump Trading: A quantitative trading firm based in Chicago, Illinois, USA, founded in 1999. The company is dedicated to trading using advanced algorithms and sophisticated technology to find profit opportunities. Jump Trading is involved in various markets such as stocks, futures, forex, and digital currencies on a global scale.
+1.2 Prerequisites for a Market-making Company
+---------------------------------------------
+
+Establishing a market-making firm is difficult because it requires a high degree of financial strength, technical capability and market insight, as well as the need to meet the regulatory requirements of financial regulators and the ability to survive a highly competitive market and high-risk management pressure.
+
+1.2.1 Understand the market
+---------------------------
+
+Market-makers need to have an in-depth understanding of market rules, liquidity, trading varieties and behavioal patterns of traders in order to make the right trading decisions. They must be able to capture the trends and opportunities in the market in order to gain an edge in the market. There are several ways to understand the market.
+
+1.2.2 Establish a technological platform
+----------------------------------------
+
+An efficient and stable technological platform that could support real-time trading and data analysis is a must for market-makers. The platform needs to include algorithms for instant trade execution, high-speed data transmission and processing, and secure trade settlement. **Specifically, market-making firms must possess the following five types of technology:**
+
+1.2.3 Determine capital requirements
+------------------------------------
+
+Market-making firms require significant capital to support trading activities. The amount of capital as well as the source of capital must be identified prior to entering the market. **Here is how to determine how much capital will be needed:**
+
+In summary, determining how much capital a market-maker needs requires a variety of factors to be considered, and it needs to be analyzed and calculated on a case-by-case scenario. What’s worth noting is that capital requirements are a dynamic process; it needs to be constantly adjusted based on market changes and business expansions.
+
+1.2.4 Implement risk management
+-------------------------------
+
+Market-makers need to manage risk in order to ensure the safety and stability of trading. A risk management strategy that includes trading risk, liquidity risk, market risk and operational risk must be effective.
+
+Market risk management is to ensure that trading activities remains on track despite the market condition is favorable or not. For example, market-makers may use hedging strategies, leverage controls and trading restrictions to manage market risk. Operational risk management is to confirm that no errors or mistakes are made in the trading process. For example, market-makers can manage operational risk by establishing good trading processes and trading rules, and by strengthening measures such as internal auditing and monitoring. Technical risk management is to eliminate the possibility that the stability and security of the trading system is undermined. For example, market-makers can adopt backup and recovery strategies, network security measures and data encryption to mitigate technical risk. Credit risk management is to prevent issues such as default or loss of non-performing assets from occurring during the trading process. For example, market-makers can employe credit assessment and monitoring, margin management and risk control to lower credit risk.
+
+1.3 Operations and Market-making Mechanism
+------------------------------------------
+
+On a trading platform, market-makers provide liquidity through two-way quotes (buy and sell), which can be generally divided into the following steps.
+
+![Figure 2. Market-making inside trading platform](https://img.foresightnews.pro/202303/60e1b049abfe01beebdeb5601fd2777b.png?x-oss-process=style/scale70)
+
+Under the above operation model, there are two kinds of driving mechanisms: quote-driven and order-driven. The quote-driven mechanism is a counter-offer system in which market-makers provide investors with bilateral quotes for buying and selling, leading to changes in transaction prices through the updating of quotes. The order-driven system, also known as the bidding system, allows investors to transmit their buy and sell orders to the exchange through the internet, and the exchange’s computer hosts will aggregate buy and sell orders according to the priority principle of time and price to form a continuous transaction price.
+
+1.4 Profit Model
+----------------
+
+The profit model of a market-maker is usually based on the bid/ask spread. A market-maker will quote both a bid and an ask price on the trading platform, called a “two-way quote”. When a customer places an order, the market-maker closes it instantly and then sells it at a higher price or buys the same security at a lower price, earning a profit from the spread, which is often called Spread revenues or Facilitation revenues. Market-makers can also make profits through high-frequency trading, hedging, and arbitrage. Among them, high-frequency trading is a trading strategy that uses high-speed algorithms and automated systems for instant trading. Hedging is the use of opposite trades to reduce risk, and arbitrage is the use of different prices in the market to absorb profit. In addition, market-makers have an inventory revenue, which reflects the gains and losses from changes in the value of securities and holding gains such as dividends and interest while the market-maker maintains the position.
+
+The level of profitability usually depends on factors such as market volatility, liquidity and size of trading. With a stable market and sufficient liquidity, market-makers are usually able to make substantial profits.
+
+The profitability of market-makers also requires consideration of transaction costs. The cost structure of market-making is constituted by 3 components: transaction cost, such as brokerage commissions and clearing fees paid when buying and selling securities, financing cost incurred from raising capital for market-making, and costs associated with risks, such as hedging to reduce risk exposure to assets held, and value at risk (VaR) from implacable credit risk and counter-party risk. However, because market-makers typically initiate a large number of transactions, transaction costs can be reduced by economies of scale and effective technologies.
+
+Spread earnings are the main earnings of market-makers. According to publicly available data, most market-makers are relatively stable in terms of profitability, but the margins are not high.
+
+![Figure 3. Diagram of market-making revenue and cost accounts (Source: Committee on the Global Financial System, Ping An Securities Research Institute)](https://img.foresightnews.pro/202303/871b8e2d212c197ff3abbddfd4ed4e36.png?x-oss-process=style/scale70)
+
+1.5 Regulatory and Compliance Requirements
+------------------------------------------
+
+Market-makers are directly involved in the liquidity and price formation of the securities market, and their trading strategies and behaviors may have an impact on the market, hence, market-makers have to be regulated. Regulation can effectively ensure that market-making firms comply with trading rules and market order so that market manipulation and improper trading practices can be prevented, the interests of investors can be protected, and fairness, transparency and stability of the market can be achieved. At the same time, regulation can also promote the compliance level of market-making firms, strengthening the requirements of risk management and information disclosure, improving market confidence and transparency by reducing market volatility, and fostering the healthy development of the market at large. Therefore, market-makers should be regulated not only for the best interest of investors, but to ensure the healthy order of the overall market.
+
+This article focuses on the regulations of market-makers in the US. In the United States, regulations on market-makers are relatively strict. These firms are required to fully comply with regulatory requirements of the Securities and Exchange Commission (SEC) and the Financial Industry Regulatory Authority (FINRA), as well as other securities regulations. In addition, market-making firms are subject to compliance and anti-money laundering requirements. The regulators closely supervise trading and business activities of market-maker firms, including review of trading systems and algorithms, examination of risk control mechanisms, and the requirements for data protection. In terms of regulation, the U.S. securities market is well regulated, and penalties are imposed for violations; market-making firms need to pay extra high attention to compliance in daily operations. **The specific regulatory bodies and laws are as follows:**
+
+* U.S. Securities and Exchange Commission (SEC): Overseeing the securities market, including the registration and regulation of market-making firms.
+* Financial Industry Regulatory Authority (FINRA): Responsible for regulating securities brokers and market-making firms to ensure compliance with securities regulations.
+* Securities Exchange Act: The primary statute that sets forth the rules and regulatory requirements for the operation of the securities market.
+* Securities Act: Establishes the registration and issuance requirements for securities and relates to the business of market-makers.
+* National Securities Markets Reform and Regulatory Improvement Act (NSRRA): A comprehensive revision of the regulation of the securities markets, which also has implications for the business of market-makers.
+1.6 Future trends
+-----------------
+
+Market-makers are side products by the maturing financial market, which has now been irreplaceable in the market. With the development of financial markets, the market demand for market-makers will continue to exist. However, at this stage, the market is complete and saturated, new institutions will find it difficult to enter, and they instead turn to the crypto market as the main battleground.
+
+Opportunities and challenges coexist. As global financial markets continue to evolve, the complexity and size of securities market transactions continue to grow, market-making firms will have more opportunities to participate in the market by providing liquidity services and market-making for higher profits. What’s more, with the rapid development of the crypto market, market-making firms are also exposed to more opportunities by providing market-making services and liquidity provision for crypto assets. At the same time, market-making firms can improve market-making capabilities by developing and applying new technological tools and algorithms to better adapt to market demand in order to earn more market share.
+
+2. Crypto Market-makers
+-----------------------
+
+Market-makers in the crypto industry are not much different from traditional finance in essence: they both provide liquidity to the market, open and close positions instantly, and make profits out of bid-ask spreads. However, there is a world of difference in operation mode, technology, risk management and regulation. Firstly, in terms of market size, the crypto market is relatively small compared to the traditional financial market, and the crypto market-makers are also relatively small. Secondly, the crypto market is relatively less liquid and more volatile, so market-makers need to be more cautious on risk management; furthermore, market-makers in the crypto market are also the house. Because the trading process in the crypto market is difficult to be regulated and there is no strict code of conduct of market-makers to be enforced; last, in terms of technical architecture, the crypto industry mandates higher technical capability to ensure the security of transactions.
+
+Market-makers are vital in the crypto market for (1) providing liquidity and depth to the crypto market and (2) maintaining stable price level in the market to attract more traders. In other words, market-makers are the ones who keep the crypto market function properly so that project owners, exchanges, and investors can fulfill their rules properly.
+
+2.1 History
+-----------
+
+At present, the scope of crypto market-makers is not only limited to inside exchanges, but also expanded to areas such as OTC and decentralized exchanges, providing critical support and protection to ensure the development and maturity of the market.
+
+2.2 Operations
+--------------
+
+Crypto market-makers operate in a similar fashion to traditional financial market-makers, primarily providing liquidity and market depth to the cryptocurrency market while making a profit out of it. Crypto market-makers typically trade on multiple exchanges, and the trading is often automated and connected to exchanges via API. Within the market, quotes are generated by self-owned funds and algorithmic models to attract buyers and sellers to trade. Some crypto market-makers will also offer over-the-counter trading services, supporting block trades and customized trades. Due to the volatility and uncertainty of crypto markets, crypto market-makers need to adjust market strategies in real time, including trade size, quote range and hedging.
+
+![Figure 4. Operation flow of crypto market-maker](https://img.foresightnews.pro/202303/c047893f8d97e1d86853b17f55d43388.png?x-oss-process=style/scale70)
+
+In addition to the above steps, market-makers must constantly monitor market conditions, including market liquidity, actions of competitors, and market risks in order to adjust strategies and quotes in a timely manner.
+
+2.2.1 Market-making Strategy
+----------------------------
+
+Market-making strategy is a risk-neutral intraday spread arbitrage strategy, which is one of the quantitative trading strategies in high-frequency trading that follows the principle of “buy low and sell high”. The basic principle is: between the ask and bid price of a certain asset, insert a buy order and a sell order. If the inserted two orders are filled, the market-maker will absorb the spread between the actual price; the whole process is completed, the market-maker’s position does not change. If there is a surplus in the spread between the buy and sell orders after deducting various transaction fees, then the market-maker has earned a corresponding profit. Common market-making strategies include spread strategies, hedging strategies, quantitative trading strategies, etc.
+
+Market-making strategies are divided into spot market-making and futures market-making depending on the type of market. The spot market-making strategy has four modules: short-term trend determination, market-making, rebalancing and main loop. The futures market-making strategy is more complex, it includes complex logic such as timing of market-making, net position handling, locking, moving, and reduction of holdings according to counter-party.
+
+2.2.2 OTC
+---------
+
+Crypto market-makers typically provide OTC trading services by establishing contact with counterparties to negotiate prices and trade details with them. Specifically, crypto market-makers post market-making prices on trading platforms or other OTC channels and wait for counterparties to accept and trade. In addition, crypto market-makers can utilize their own liquidity pools to provide real-time quotes and trading opportunities to counterparties when needed to meet liquidity needs. At the same time, crypto market-makers can also provide counterparty clearing and settlement services to ensure smooth trading and capital security.
+
+2.3 Threshold of Technology
+---------------------------
+
+Crypto market-makers must be consistent with traditional market-makers in terms of technology, but crypto market-makers need to master additional technologies, namely blockchain. Cryptocurrency trading is based on blockchain, crypto market-makers must understand blockchain technology and its application to cryptocurrency trading in order to understand the nature and technical details of trading. Meanwhile, crypto market-makers must familiarize with how exchanges and wallets interact with the blockchain, and how to identify and resolve issues such as transaction delays due to network congestion or other issues.
+
+Moreover, for the crypto industry, the security of assets cannot be neglected. Since there are certain security risks associated with cryptocurrency transactions, crypto market-makers need to master relevant security technologies to protect the security of the trading system. Specific technologies include multiple signature technology, cold wallet storage, secure communication protocols, transaction monitoring and anti-fraud technology, data backup and recovery technology, etc.
+
+2.4 Exchanges and Market-makers
+-------------------------------
+
+Digital currency exchanges have a subtle relationship with their market-makers. Some crypto exchanges may have their own market-making teams, but there are also many exchanges that choose to partner with third-party market-makers. Exchanges work with market-makers in two forms.
+
+Market-makers work directly with crypto exchanges to provide market-making services for floor trading. Exchanges usually offer some specific market-maker programs that require the cooperation of these teams and provide customized trading interfaces, but these are passive trading interfaces and cannot actively execute orders; it can only be done internally by the exchange in order to implement active management, directly or indirectly embedded in the match-making system of the exchange.
+
+At this point, market-makers need to access information, such as the exchange’s order book and market depth through API, and conduct pricing and match-making by self-owned algorithm and trading strategies.
+
+The exchange needs to provide relevant module interface to the market-maker, which usually includes quote data, order withdrawal, deposit notice, etc.
+
+Market-makers cooperate with crypto exchanges through other intermediaries or platforms to provide over-the-counter market-making services. In this case, the market-maker needs to negotiate with the intermediary or platform, determine the cooperation method and details of cooperation, and obtain the market information of the exchange through the API or other channels, and then conduct OTC trading.
+
+It is important to note that market-makers are not necessary for crypto exchanges in terms of liquidity provision; some exchanges may use other methods to improve liquidity, such as depth pools or order book matching engines. When working with a crypto exchange, market-makers need to negotiate with the exchange on the details of the partnership, fee allocation, trading volume, etc., to ensure a smooth and profitable partnership. At the same time, market-makers need to strictly comply with the rules of the exchange and external regulations to ensure legal compliance of transactions.
+
+In the lens of trading mechanism, market-makers that are internally connected with exchanges are largely involved in the price determination process, which can, to a certain extent, inhibit price manipulation, improving expectations of investors and project teams, and stabilizing the market sentiment.
+
+The presence of market-makers contributes to the liquidity of an exchange. The more liquid an exchange is, the better the trading experience for users, the more loyal the users are, and the more profitable the exchange can be. As a result, an exchange is willing to give rebates to market-making activities.
+
+Around 2017 and 2018, a large number of new exchanges were launched with the concept of “trading as mining”, and some of them even offered 120% rebates based on trading volume in the early stages of their operations to attract market-makers to participate in trading.
+
+In order to attract market-makers to trade on exchanges, all major exchanges have launched their own solutions. First, the trading platform itself must possess diversified service offerings, including more spot trading pairs and futures, interest-bearing products (low-interest-rate lending services, etc.), more trading strategies and algorithmic services. Second, a reasonable and attractive commission rate is convincing. Last but not least, the risk control and reputation of the exchange are of utmost importance. Here is a list of some of the activities offered by exchanges for market-makers.
+
+![](https://img.foresightnews.pro/202303/983da7711715fc5c78bd6494ae091124.jpeg?x-oss-process=style/scale70)
+
+From the list above, Gate has continued to launch market-making campaigns to attract market-making teams since the launch of the Global Market-maker Program in 2021. At the same time, the market-making rates and GT positions are also being adjusted. In addition to that, some services are exclusively available to market-makers, including 0 interest credit lines.
+
+Market-makers participate in the spot, futures, and options markets, and the threshold is getting higher. Accordingly, exchanges grant different privileges in different participating markets. In general, exchanges may grant market-maker privileges in the following items in:
+
+* Fee discount
+* Funds for leverage
+* Limit on deposit and withdrawal
+* API internal access
+* Institutional accounts/accounting system
+For market-makers, transaction fees are particularly critical, especially for high frequency trading. Admittedly, in the early days of an exchange, it is highly likely that some market-makers will be paid to conduct market-making activities, especially in futures and options.
+
+2.5 Projects and Market-makers
+------------------------------
+
+![Figure 5. Relationships of market-makers and participants](https://img.foresightnews.pro/202303/98f580fd93afce49284288754b594f1b.png?x-oss-process=style/scale70)
+
+In the crypto market, the liquidity of tokens is as vital as the product, team, and operations. The relationship between project parties and market-makers is mainly established by liquidity provision services of market-makers to project parties. Project parties, especially new projects in the ICO or IEO phase, are in need of price management for tokens by market-makers. Market-makers play 3 rules:
+
+These tasks are assigned to a professional market-maker, which incurs less cost than the project team to operate on their own.
+
+Due to the lack of regulation, market-makers can drive volume by buying and selling on the market. Evidently, this “forged” volume can attract the attention of some investors.
+
+Project parties will choose some well-known crypto exchanges to work with market-makers for better liquidity and higher market recognition, which requires the project to provide a certain number of tokens to the market-maker for initial circulation. Market-makers agree to provide active liquidity to the order book for at least 90% of the contract term, in exchange for which they receive 2–5% of the project’s total token supply. For market-makers, working with well-known project parties can increase their visibility and reputation in the market-making sector and help attract more trading pairs. Therefore, the partnership between project parties and market-makers is unparalleled in the crypto market.
+
+In addition to providing liquidity, market-makers provide additional services to project owners, including token pricing (especially STG) strategies and cash-out services.
+
+2.6 Profit Model of Crypto Market-makers
+----------------------------------------
+
+Like traditional market-makers, crypto market-makers make their profits from the spreads of trading actions. However, in the absence of regulation in the crypto market, such spreads can be large; with high market volatility, the returns may also be uncertain.
+
+There are two other sources of revenue for crypto market-makers:
+
+A market-maker can profit from the following two modes when partnered with project parties:
+
+* Market-makers provide over-the-counter trading services to help project parties increase liquidity level and increase trading volume, and make profit out of it; the profit comes from covering the bid/ask spread between the two sides of the transaction as well as transaction fees.
+* Market-makers partner with project parties to become liquidity providers for tokens, and participate in liquidity mining of tokens. When the liquidity of the token increases, the market-maker will receive tokens in return. In addition, market-makers can also earn revenue by providing market depth and participating in the project’s airdrop and promotion.
+There are also two profit models for working with exchanges:
+
+* **Market-making rewards**: Some crypto exchanges offer market-making rewards to attract market-makers to participate in the market. Market-makers can receive a reward from the exchange when listing orders on the market and reach a certain volume of transactions, which becomes a revenue stream for market-makers. This part is also known as a trading rebate.
+* **Providing liquidity services:** Market-makers help exchanges attract more users and accumulate trading volume by providing services for buying and selling cryptocurrencies to increase liquidity in the market. Some crypto exchanges pay additional fees on liquidity to market-makers.
+As the number of market-makers increases, it has become more competitive; market-makers will narrow their quoted spreads in order to win over more markets, resulting in less revenue.
+
+2.7 Criteria of Market-maker Evaluation
+---------------------------------------
+
+For market participants, it is vital to have the ability in evaluating the performance of market-makers and choose the right market-maker. Common metrics used to evaluate market-makers include market-maker’s trading volume and frequency, accuracy and stability of quotes, profitability and risk management capabilities, market share and reputation. Nevertheless, for exchanges, market takers and project parties, the performance of liquidity provision is valued the most. The performance can be evaluated by measuring depth of quotes, accuracy, frequency of updates, and efficiency of transactions.
+
+Simple indicators are listed in each exchange’s market-maker activity, including market-maker volume of commission, bid/ask spreads, quotes, requested coverage, market-making duration, etc. However, some exchanges may use complicated indices, such as weighted depth multipliers and liquidity index.
+
+3. Risk analysis and management of crypto market-makers
+-------------------------------------------------------
+
+3.1 Regulation and Compliance
+-----------------------------
+
+Crypto market-makers are still in a grey area, and they are not yet legalized by clear law and regulatory framework in most countries and regions. By all means, crypto market-makers are generally not subject to the strict regulatory standards set forth in traditional financial markets, nor are they regulated by the appropriate regulatory bodies. However, in some countries and regions, regulators have begun to explore ways to regulate crypto market-makers to ensure transparency, fairness and stability in the market.
+
+The regulatory bodies that oversee crypto market-makers include the Securities and Exchange Commission (SEC) and the Commodity Futures Trading Commission (CFTC) in the U.S., which have certain regulatory responsibilities for crypto markets, with the SEC regulating the securities nature of crypto assets and the CFTC regulating transactions such as crypto derivatives contracts. In addition, ESMA, the regulator of EU financial markets, has also begun to explore a regulatory framework for crypto markets, aiming to ensure transparency and stability in crypto markets.
+
+(1) The U.S. Securities and Exchange Commission (SEC) announced in July 2020 that Coinbase and other crypto exchanges can register as brokerage firms and exchanges, and offer market-making services for digital assets on their trading platforms. It indicates the SEC has begun to explore the regulation of crypto market-makers.
+
+(2) The Swiss Financial Market Supervisory Authority (FINMA) released a guide on cryptocurrency regulation in 2019, which mentions the compliance requirements for traders and market-makers, as well as what licenses are to be obtained in order to conduct such activities. This indicates that FINMA has started regulating crypto market-makers.
+
+(3) The Singapore Stock Exchange (SGX) launched its digital currency trading platform SGX iSTOX in 2020 and developed a regulatory framework with market-makers to ensure their compliance and transparency. This indicates that SGX has begun to explore the regulation of crypto market-makers and has started to work with them.
+
+From the above cases, it is evident that regulators have begun exploring on regulations of crypto market-makers and have developed some relevant guidelines and regulatory frameworks. In the future, as the crypto market continues to grow, regulations on market-makers will become a critical part in the industry.
+
+In addition, some countries or regions may have other regulatory requirements, such as regulations in areas such as taxation, securities or futures.
+
+3.2 Market Risk
+---------------
+
+Market-makers are exposed to multiple risks in the crypto market, including:
+
+To cope with the above risks, every market-maker has certain strategies, such as retreat in extremely volatile markets, or hedging to preserve value on current positions, transferring risk to assets based on inventory model and information model.
+
+3.3 On-chain and Off-chain Risks
+--------------------------------
+
+Off-chain risks are generally trading risks, such as historical data integrity, flaws in strategy model design, system failures, lack of risk control, overfitting, and transaction cost-sensitive risks.
+
+* The frequency and number of buy and sell orders placed are random, which may result in the risk that the buy order is not completely filled after the sell order is filled.
+* Exchange bugs, problems with trading pairs, and disabled protection measures may occur on the platforms.
+The source of risks in the crypto market is not only the risk from off-chain trading behavior, but more come from on-chain. First, if the smart contracts for market-making tokens are vulnerable and hacked, this could result in the loss of the market-maker’s inventory of assets. Secondly, crypto market-makers may need to participate in on-chain protocols or DeFi applications to provide liquidity, and all risks on-chain will be transmitted to each participant. For example, a fork in an L1 chain where the protocol is located or low speed for on-chain transactions.
+
+3.4 Risk Management
+-------------------
+
+In order to control the above risks, a market-maker should enforce strict strategies and disciplines.
+
+While market-makers can earn a certain amount of commission by providing liquidity to the exchange, overtrading tends to waste more time and money; the key to effective trading is to focus on the quality of trades rather than the quantity of trades.
+
+* Hoosing quality assets as targets;
+* Choosing a reputable exchange as the trading place;
+* Conducting thorough analysis to determine an appropriate trading strategy.
+Market-makers need to establish good relationships with exchanges, project parties, investors, etc. to get more information and support and reduce their own risks.
+
+This includes exit condition and not abusing leverage. Market-makers must control risk exposure and diversify as much as possible.
+
+* An appropriate position of inventory should be maintained in continuous buying and selling, the appropriateness of which is determined based on the market-maker’s risk aversion and judgment of price trends on cryptocurrency. It is this inventory risk and associated management that drives the market-maker’s motivation to trade, and it is what gives the market an inherent momentum. This is also the reason that market price will be more or less affected in the process of market-makers’ inventory management.
+* Market-makers also utilize leverage to adjust inventory to meet their continuous trading and cost reduction requirements in order to manage inventory positions.
+* By making portfolio investments and hedging in crypto markets.
+In general, inventory volume and inventory risk are positively correlated in the market-maker system. A large amount of inventory is risky, and the correlation between the amount of inventory and price changes is the greatest; when there is an expectation of price increases, the amount of inventory increases, and vice versa.
+
+However, when the price is at a high level, the amount of inventory is in need to be reduced, otherwise, the inventory purchased at high prices will tend to depreciate in value if the market price decreases, and the inventory risk is greater. Therefore, in order to reduce this risk, market-makers will tend to reduce their inventory on cryptocurrencies with higher appreciation. In this case, inventory volume is negatively correlated with price. In addition, the amount of inventory is positively related to the market-maker’s own capital.
+
+Market-makers need to constantly monitor changes in market liquidity, including market depth, volume, trading pairs and other indicators, and adjust quoting strategies in a timely manner to ensure that there is sufficient liquidity to be injected to the market.
+
+4. Typical case study of crypto market-maker
+--------------------------------------------
+
+In recent years, crypto market-making firms have been on the rise as the cryptocurrency market continues to grow. These firms are dedicated to providing liquidity management, price discovery and brokerage services to meet the growing demand for cryptocurrency trading. Currently, there are many global professional crypto market-maker companies, which adopt various technologies and strategies to provide diverse trading services to market participants, contributing to the further development and maturity of the cryptocurrency market. Since the crypto market is still far from traditional finance, there is relatively less effort for market-makers to achieve monopoly, and the liquidity of cryptocurrencies is dominated by a few large market-makers, which includes Jump, Wintermute, Amber Group, B2C2, and DRW Trading.
+
+4.1 The FTX Incident and Alameda Research
+-----------------------------------------
+
+Alameda Research was founded in 2018 in California, USA. The company was founded by mathematician, Samuel Bankman-Fried, who worked at Jane Street, where he gained extensive experience in quantitative trading. In addition to market-making and quantitative trading in the crypto market, the company has developed several cryptocurrency trading tools and infrastructure, such as the crypto exchange FTX and Serum, a crypto trading protocol on Solana.
+
+The FTX crash was followed by the bankruptcy of Alameda Research, and the market-making team at FTX suffered significant losses, as seen in Kaiko’s data on BTC pending orders after the FTX event, indicating a lack of liquidity. The digital assets suffered from the collapse of FTX and Alameda include FTT and SOL; these tokens led to a crunch of liquidity on Solana and liquidation risk for all tokens.
+
+![Figure 6. Kaiko BTC Exchange Liquidity](https://img.foresightnews.pro/202303/ea2953d63e452ef317069955ae0d2eba.png?x-oss-process=style/scale70)
+
+4.2 Wintermute and DeFi Hacking Incidents
+-----------------------------------------
+
+Wintermute Trading is a cryptocurrency market-maker based in London. The company was founded in 2017 by Evgeny Gaevoy and Harro Mantel. Wintermute Trading’s main business is to provide liquidity services to cryptocurrency exchanges, institutions and individuals, as well as market-making services in a number of cryptocurrency derivatives markets. At this stage, Wintermute has partnerships with over 50 cryptocurrency exchanges. It is in a leading position in terms of trading volume on all exchanges. Core team members include:
+
+* **CEO:** Evgeny Gaevoy, who previously headed the exchange-traded funds (ETFs) business for the European market at Optiver.
+* **Chief Technology Officer:** Valentine Samko, who has worked as a software engineer at trading firms and banks, including Barclays and JP Morgan Chase.
+In addition to its business in the cryptocurrency market, Wintermute Trading is actively involved in promoting the development and standardization of the cryptocurrency market. The company is a member of the London Digital Asset Trading Association (LSTA) and a member of the Association of Digital Asset Dealers (ADAM). In February 2021, Wintermute announced the closing of a \(25 million funding round with investors, including Lightspeed Venture Partners and Pantera Capital. However, due to the bear market and hacking, Wintermute’s revenue in 2022 was around \)300 million, far below the $1 billion in 2021.
+
+In September 2022, Wintermute lost $160 million when its EOA wallet was stolen due to the possible use of the Profanity tool to create customized wallet.
+
+4.5 GSR Market
+--------------
+
+GSR Markets is genetically an algorithmic digital trading company in Hong Kong. It provides liquidity by utilizing its own software on order execution solutions for several digital asset classes. The company deploys multiple trading models that integrate more than 30 liquidity pools, and its trading fees are relatively low in the market.
+
+* Top-notch leadership and a strong team of technical and financial practitioners from world-class financial institutions.
+* Intuitive risk management strategies designed for those who have difficulty managing them.
+* Its proprietary trading technology can be modified to meet trading needs. Its sales and aggregation strategies are adjusted for real-time liquidity and volatility so that investors can enjoy the intrinsic best price.
+Recently, GSR has been working frequently with various project parties, including Stargate, which will provide GSR with 8 million STG European-style options on the condition that the average STG price exceeds $1.15 in 24 months. After the proposal is passed, STG surged 36.2% in the last 14 days.
+
+5. Decentralized Market-makers
+------------------------------
+
+Anyone participating in on-chain market-making behavior is a decentralized market-maker, mainly in three forms: (1) participation in the liquidity provision of decentralized exchange DEX, also known as mining behavior, which has a low threshold that anyone can participate, providing liquidity for trading pairs and receiving certain rewards; (2) participation in the decentralized derivatives market, similar to dydx; (3) some DeFi specialized services for market-making protocols, such as Elixir, which becomes liquidity distribution tools for the CLOB and AMM models.
+
+The automated market-maker algorithm AMM is generally deployed inside DEX, where anyone can become a market-maker. It adopts an automated algorithm to **balance the supply and demand for tokens in a trading pool**. AMM functions by allowing liquidity providers to deposit tokens (usually in equal amounts) into the liquidity pool. The price of the tokens in the liquidity pool then follows a formula such as the constant market-maker algorithm x\*y = k, where x and y are the number of tokens in the pool for both tokens and k is a constant. This results in the ratio of tokens in the pool becoming the determinant of the price, ensuring that the pool always provides liquidity regardless of the transaction size, and the amount of slippage is determined by the transaction size compared to the pool size. As the price in the liquidity pool deviates from the global market price, arbitrageurs will enter and push the price back to the global market price. Various protocols iterate on this basic AMM model or introduce new models such as Curve, Balancer, and Uniswap V3 to offer upgraded performance and extend it to derivatives.
+
+Risk also exists in DeFi; LPs bear the risk of original bugs of smart contract, draining pool and default. The DEFI protocol offers different market-making strategies and liquidity pools to lure LPs and professional market-making teams along with higher yields. Even so, each of on-chain market-making and market-making in centralized exchanges has its own merits, and they cannot replace each other.
+
+Another thing to mention is the specialized market-making protocol, represented by Elixir, which has two types of users: (1) project parties and (2) users who desire to become market-makers. The specific mechanism is as follows:
+
+* Project parties can create bonds in Elixir without permission to receive liquidity, similar to the mechanism of Olympus DAO. Users could build liquidity by acquiring LP tokens through the liquidity pool and exchanging them for the project’s native tokens.
+* Providing users with specialized market-making strategies that enable everyone to participate in market-making activities in CEX and DEX; these market-making protocols have opened up a niche track while lowering the barriers to market-making. However, since market-making strategies, quantitative strategies, and risk management strategies are frequently adjusted and updated in different market conditions, DeFi’s market-making protocols will take time to validate; it is not necessarily a bad way for someone who are willing to generate revenue from the market-making business.
+So far, centralized market-makers cannot cooperate with project parties in an open and transparent manner, provided that the commission is high. However, through on-chain market-making protocols can it effectively improve the utilization of users’ funds and become liquidity providers; through suitable algorithms and strategies, liquidity problems can be solved for project parties, and users could benefit at the same time. However, the mechanism of on-chain market-making protocol is intricate and less flexible, which may be difficult to cope with market risks.
+
+6. Opportunities and challenges for crypto market-makers (with a list of financing history)
+-------------------------------------------------------------------------------------------
+
+The rapid growth of the cryptocurrency market has led to an increasing demand for cryptocurrency market-makers, and also given rise to more innovative technologies and business models. **The future trends of crypto market-makers are reflected in the following areas:**
+
+* **Enhancing risk management:** As the cryptocurrency market continues to become mature and more regulated, risk management will become one of the key factors for market-makers in the competition. Market-makers will need to adopt more scientific methods and tools to reduce trading risk and credit risk, and to ensure the safety and stability of operations.
+* **Develop smarter trading systems:** As artificial intelligence and machine learning continue to evolve, cryptocurrency market-makers can adopt smarter trading systems to improve efficiency and trade quality in order to better adapt to market changes and demands.
+* **Absorbing More Liquidity:** As more institutions and investors enter the cryptocurrency market, market-makers have to continue to enhance their own liquidity to meet the demands of more diverse and complex trading. In this case, market-makers will also need to work closely with other market-makers, exchanges and liquidity providers in order to jointly drive the development and growth of the market.
+* **Exploring new business models:** As the cryptocurrency market is everchanging, market-makers need to continuously explore new business models to cope with the changes and challenges in the market. For example, some market-makers have started to provide more specialized services to the market, such as data-analytics-based market-making and cross-chain market-making. Currently, there are also many market-makers who have started to get involved in other crypto businesses, such as custody, OTC, primary investment, etc.
+* **Active experimentation with on-chain protocol market-making:** As the number of on-chain projects and users increases, market-makers will eventually enter the on-chain business, either to work with project parties or strive for higher yields. At the same time, more market-making activities similar to dydx will be spotted. In addition, market-makers will participate in more crypto products that yearn for liquidity. For example, crypto market-maker GSR started the NFT market-making project, which will focus on generative art. The company has already purchased 175 pieces (NFT), but is still working on how to trade through the algorithm.
+Cryptocurrency markets demonstrate many unique characteristics, and face various challenges in liquidity. For example, crypto markets are open 24/7/365; retail investors could do self-custody and directly interact with exchanges (exchanges play the role of broker, exchange and custodian); instant settlement of virtual balances could be done at CEX; fast settlement of on-chain transactions at DEX can be achieved compared to T+2 in traditional financial settlement; stablecoins are in place to facilitate transactions with consideration of the volatility of BTC and still-cumbersome conversion of fiat to crypto. In addition, crypto markets remain highly unregulated, leaving loop holes for price manipulation; the market continues to be highly fragmented with liquidity diverging on-chain and off-chain. Besides, trading technology continues to evolve as the quality of API connectivity on exchanges varies and declines cyclically when the market is active. Finally, the crypto derivatives market is still growing, as derivatives are much smaller relative to spot compared to traditional financial markets. These characteristics pose challenges in providing liquidity, including market fragmentation/interoperability, capital inefficiencies, regulatory uncertainty, and exchange technology/connectivity that is still undeveloped.
+
+In conclusion, as the cryptocurrency market continues the changes, market-makers need to continuously adjust strategies and business models to better adapt to the changes and demand of the market. At the same time, market-makers also need to strengthen cooperation and communication with other market participants in order to jointly promote the development and growth of the market.
+
+![Table 2. Summary of Investment and Financing for Crypto Market-makers 2019–2023](https://img.foresightnews.pro/202303/267165abd648da6a817502688e4487ab.jpeg?x-oss-process=style/scale70)
+
+7. Summary and Thoughts
+-----------------------
+
+Whether in the traditional industry or in the crypto market, market-makers must always immerse in the market in order to trade with “spreads” on hand, and different markets usually hint more profit opportunities. In the future, crypto market-makers will look more alike market-makers in traditional finance:
+
+(4) The 80–20 rule will be more prominent. Top-tier players usually have sufficient talent pool, strong capital strength, rich client resources, excellent pricing ability and large asset size. Large institutions could reduce risk and cost by diversification and hedging, which endows the institutions with more advantages in market-making business.
+
+Although the size of crypto market-makers is expanding and the competition is getting fierce, in fact, crypto market-makers have relatively high technical barriers with higher risks. For example, in the FTX incident, Cumberland, GSR, Wintermute, Jump, folkvang and Nibbio all have open positions in FTX as market-makers. At the same time, the recent news on Silvergate Bank also pose unknow threat to all the market-makers. In all, the capital turnover means everything for a market-maker.
+
+Traders must identify if a market-maker is colluding with a project so that the right price trend can be distinguished. Clues can be found from token price and trading volume.
+
+Decentralized market-maker protocols, including DEX and others, are also competing on some market-making teams to participate on-chain market-making. In my humble opinion, order book could satisfy the diverse trading strategies of market-making teams, while AMM has certain limitations and low ability in control. Market-making teams will participate in on-chain market-making if the opportunity is considerably lucrative, yet it is not commensurate with the status of exchanges in the crypto world. Meanwhile, the impact of some innovative DeFi protocols cannot be ignored. It is worth noting that some market-makers have started to explore market-making in the NFT market, and more explorations will be seen on on-chain products and those derivatives with available secondary market.
+
+However, a pitfall cannot be ruled out here. Similar to Alameda, large market-makers may incubate their own on-chain protocols, either DEX or lending protocols, such as DEX Bebop incubated by Wintermute. The large amount of capital can be a boost to the protocol per se, but it also poses a risk to the market as a whole.
+
+7.1 Thoughts on Direction of Investment
+---------------------------------------
+
+Market-makers play a significant role in the trading segment, and their profitability are potential in both bull and bear cycles. In the market-making sector, the following investment directions are worth some attention:
+
+* Centralized small market-making strategy or services, which provide tools, data, and customized strategic type of services to market-makers.
+* Solving the interoperability problem: Thanks to the development of L1 chains and Layer2, a multi-chain landscape is in shape, which, however, is completely dispersed from users, not to mention market-makers. A potential solution is a Layer2 middleware provider that can interact trustlessly with different chains to discover the most efficient transaction route among many sources of liquidity without fees, settlement delays and liquidity mining wars of current system.
+* CeDeFi: The boundaries between CeFi and DeFi may merge, including liquidity provision.
+References
+----------
+
+[1] [“High-Frequency Trading and Market-making in the Bitcoin Ecosystem”, from the European Central Bank, analyzes high-frequency trading and market-making in the Bitcoin ecosystem.](http://1.%20https://www.coindesk.com/markets/2021/06/23/defi-is-the-next-frontier-of-high-frequency-trading/)
+
+[2] [“The Market Microstructure of Currency Markets,” from the European Central Bank, analyzes the market microstructure and the role of market-makers in currency markets.](https://www.ecb.europa.eu/pub/pdf/scpwps/ecbwp629.pdf)
+
+[3] [“Market-making in the Corporate Bond Market,” from FINRA, explores market-makers in the corporate bond market.](https://www.rba.gov.au/publications/bulletin/2015/mar/pdf/bu-0315-7.pdf)
+
+[4] [“How to Be a Market-maker,” from the Harvard Business Review, describes the fundamentals and strategies of market-making.](http://4.%20https://corporatefinanceinstitute.com/resources/capital-markets/market-maker/)
+
+[5] [“Market-making and Revenues of Stock Exchanges: A Survey of the Literature,” from the European Securities Market Supervisory Authority, provides an overview of the impact of market-makers on stock exchange revenues.](http://www.sse.com.cn/aboutus/research/workstation/c/station20050821.pdf)
+
+[6] [“Market-making with Costly Monitoring: An Analysis of the SOES Controversy,” from the National Bureau of Economic Research, analyzes the market-maker strategy in the NASDAQ exchange SOES system controversy.](http://6.%20https://academic.oup.com/crawlprevention/governor?content=%2frfs%2farticle%2f16%2f2%2f345%2f1580732)
+
+[7] [Thinking about the Future of Market-makers, GSR, 2021.](https://www.gsr.io/reports/chart-of-the-week-pondering-the-future-of-market-making/)
+
+[8] [Digital Currency Market-makers Research Report, TokenClub, 2018.09](http://www.invest-data.com/eWebEditor/uploadfile/2019011018434126662917.pdf)
+
+[9] [Talking about cryptocurrency (digital currency) market-makers](https://zhuanlan.zhihu.com/p/262697312)
+
+[10] [Why your ICO needs a market-maker. Evgeny Gaevoy (CEO at Wintermute) .](https://medium.com/hackernoon/why-your-ico-needs-a-market-maker-e42afd837b7a)
+
+[11] [Getting rid of market-makers: How to create on-chain liquidity?](https://www.panewslab.com/zh/articledetails/vse8ora9.html)
+
+[12] [Pantera Partners: Read about cryptocurrency market-maker Wintermute](http://www.qingtingcaijing.com/news/6899)
+
+[13] [The development path and experience of market-making business in the United States, Ping An Securities, 2022.08](http://13.%20http://english.sse.com.cn/news/newsrelease/c/5710319.shtml)
+
+About Huobi Research Institute
+------------------------------
+
+Huobi Blockchain Application Research Institute (referred to as “Huobi Research Institute”) was established in April 2016. Since March 2018, it has been committed to comprehensively expanding the research and exploration of various fields of blockchain. As the research object, the research goal is to accelerate the research and development of blockchain technology, promote the application of the blockchain industry, and promote the ecological optimization of the blockchain industry. The main research content includes industry trends, technology paths, application innovations in the blockchain field, Model exploration, etc. Based on the principles of public welfare, rigor and innovation, Huobi Research Institute will carry out extensive and in-depth cooperation with governments, enterprises, universities and other institutions through various forms to build a research platform covering the complete industrial chain of the blockchain. Industry professionals provide a solid theoretical basis and trend judgments to promote the healthy and sustainable development of the entire blockchain industry.
+
+Disclaimer
+----------
+
+1. The author of this report and his organization do not have any relationship that affects the objectivity, independence, and fairness of the report with other third parties involved in this report.
+
+2. The information and data cited in this report are from compliance channels. The sources of the information and data are considered reliable by the author, and necessary verifications have been made for their authenticity, accuracy and completeness, but the author makes no guarantee for their authenticity, accuracy or completeness.
+
+3. The content of the report is for reference only, and the facts and opinions in the report do not constitute business, investment and other related recommendations. The author does not assume any responsibility for the losses caused by the use of the contents of this report, unless clearly stipulated by laws and regulations. Readers should not only make business and investment decisions based on this report, nor should they lose their ability to make independent judgments based on this report.
+
+4. The information, opinions and inferences contained in this report only reflect the judgments of the researchers on the date of finalizing this report. In the future, based on industry changes and data and information updates, there is the possibility of updates of opinions and judgments.
+
+5. The copyright of this report is only owned by Huobi Blockchain Research Institute. If you need to quote the content of this report, please indicate the source. If you need a large amount of references, please inform in advance (see “About Huobi Blockchain Research Institute” for contact information) and use it within the allowed scope. Under no circumstances shall this report be quoted, deleted or modified contrary to the original intent.
+

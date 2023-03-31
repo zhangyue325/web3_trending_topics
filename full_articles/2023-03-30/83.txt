@@ -1,0 +1,121 @@
+<https://coal-sauce-0d3.notion.site/eea756c5039c4b4ebe917d9b961c7a08?v=945152e45fcd4a1aa881090ebf93ea01>
+
+
+
+---
+
+### 项目简介：
+
+
+
+---
+
+教程开始：
+-----
+
+### 一：设置钱包网络，领取测试水
+
+![ ](https://img.foresightnews.pro/202303/d2421ab47eb4c59284b12755baa09e4f.png?x-oss-process=style/scale70)
+
+Network Name：Linea (Goerli)
+
+RPC URL：[https://rpc.goerli.linea.build](https://t.co/vtlbnR5cjQ)
+
+Chain ID：59140
+
+Currency Symbol：ETH
+
+Block Explorer URL：[https://explorer.goerli.linea.build](https://t.co/6SZr9W82c4)
+
+
+
+---
+
+<https://goerlifaucet.com/>
+
+<https://mirror.xyz/0xc9f6977cF31F9deCdD2c24DF92aa621e4259469B/23utnk6rJs_Dpd3BOugGPHeSSF8njXTYYt7GZPLmk_A>
+
+
+
+---
+
+### 二：跨链，测试网交互
+
+<https://goerli.hop.exchange/#/send?token=ETH&destNetwork=linea&sourceNetwork=ethereum>
+
+![ ](https://img.foresightnews.pro/202303/ff779f2efb26fbfba255664f027a3b64.png?x-oss-process=style/scale70)
+
+
+
+---
+
+<https://swap.goerli.linea.build/#/swap>
+
+![ ](https://img.foresightnews.pro/202303/1644bf763c96aab1a76e986bac9fe050.png?x-oss-process=style/scale70)
+
+![ ](https://img.foresightnews.pro/202303/d7f2486f7b01bd179b836bc7deec4cfc.png?x-oss-process=style/scale70)
+
+![ ](https://img.foresightnews.pro/202303/e7be4a868ad109c47da305214306bbe0.png?x-oss-process=style/scale70)
+
+![ ](https://img.foresightnews.pro/202303/26b265b61745a3912502d04eb106b270.png?x-oss-process=style/scale70)
+
+![ ](https://img.foresightnews.pro/202303/6f80913372d32a92f79a3761662a9460.png?x-oss-process=style/scale70)
+
+
+
+---
+
+![ ](https://img.foresightnews.pro/202303/4c7aa0d5ba11dddef5b61a616c34ea97.png?x-oss-process=style/scale70)
+
+![ ](https://img.foresightnews.pro/202303/ccf8fff3ab19eb0e9f8b579bf496f5b7.png?x-oss-process=style/scale70)
+
+![ ](https://img.foresightnews.pro/202303/fd991849684185836e8becd949881196.png?x-oss-process=style/scale70)
+
+
+
+---
+
+### 三：合约部署
+
+<https://remix.ethereum.org/#lang=en&optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.18+commit.87f61d96.js>
+
+![ ](https://img.foresightnews.pro/202303/a86e2cdbd12f66c20ef0c124a5c7d8b8.png?x-oss-process=style/scale70)
+
+
+
+---
+
+<https://bscscan.com/token/0xe9e7cea3dedca5984780bafc599bd69add087d56#code>
+
+![ ](https://img.foresightnews.pro/202303/9e4f59422760579dc2802937021734e9.png?x-oss-process=style/scale70)
+
+
+
+---
+
+![ ](https://img.foresightnews.pro/202303/299fab1a3fa49b2374cde043ecd64c74.png?x-oss-process=style/scale70)
+
+![ ](https://img.foresightnews.pro/202303/c19d43f5f29bacf2b9c87f041d4ca2c9.png?x-oss-process=style/scale70)
+
+![ ](https://img.foresightnews.pro/202303/e7c4b94409d800de5d233a09a7a30e4f.png?x-oss-process=style/scale70)
+
+
+
+---
+
+![ ](https://img.foresightnews.pro/202303/7bcd67e35abaa9df7197150d69a18f01.png?x-oss-process=style/scale70)
+
+![  ](https://img.foresightnews.pro/202303/d5c28379779161f7cda3c31466b4c5e0.png?x-oss-process=style/scale70)
+
+
+
+---
+
+### 四：填表反馈
+
+<https://docs.google.com/forms/d/e/1FAIpQLSen0KN2uqKMJuUxBH8yTfwrb-xdN48kA-NmO-DSCJMYRdQyMA/viewform>
+
+
+
+---
+

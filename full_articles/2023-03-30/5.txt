@@ -1,0 +1,35 @@
+![](https://img.foresightnews.pro/202303/87b7527fbe2ef93ae7e0afdee09858c7.png?x-oss-process=style/scale70)Sui 的下一个版本 V0.28 引入一些[不兼容更新](https://docs.sui.io/doc-updates/sui-breaking-changes)，包括新增功能和调整原有功能，可能需要更新您的应用或调整程序，才能正常运行。
+
+要了解如何更新您的项目以适用 V0.28 版本中的相关调整，请参阅[Sui Migration Guide 迁移指南](https://docs.sui.io/doc-updates/sui-migration-guide)。
+
+2023 年 3 月 20 日增加以下条目：
+
+* [RPC] **sui\_getTransaction**和**sui\_multiGetTransaction**现在接受一个名为**options**的附加可选参数，该参数指定要检索的字段（例如**transaction**、**effects**、**events**等）。默认情况下，这些操作仅返回交易签名。
+* [TS SDK] 将**provider.getTransactionWithEffects**重命名为**provider.getTransactionResponse**。新函数采用新增参数**SuiTransactionResponseOptions**，以配置要检索的字段（例如**transaction**、**effects**、**events**等）。默认情况下，此函数仅返回交易签名。
+有关详细信息，请参阅[PR 8888](https://github.com/MystenLabs/sui/pull/8888)。
+
+* 删除了**sui\_executeTransactionSerializedSig**和**sui\_submitTransaction**操作。
+* **sui\_executeTransaction**操作现在采用签名数组而不是单个签名来支持 Sponsored Transactions。
+要了解更多信息，请参阅[PR 9068](https://github.com/MystenLabs/sui/pull/9068)。
+
+* 将**sui\_getDelegatedStakes**升级为新的质押流程
+* 通过质押池对所有**StakedSui**进行分组，以减少响应中重复的验证节点信息
+* 改进**ValidatorMetadata**响应，使其更易于阅读，这也会影响**getSuiSystemState**。
+* 使**SuiSystemState** JSON 响应**camelCased**
+* 为 Sui 初始化设置添加了**— epoch-duration-ms**选项，用于配置本地网络 epoch 时长周期
+有关详细信息，请参阅[PR 8848](https://github.com/MystenLabs/sui/pull/8848)。
+
+2023 年 3 月 20 日添加以下条目：
+
+#### 关于 Sui Network
+
+Sui 是基于第一原理重新设计和构建而成的 L1 公有链，旨在为创作者和开发者提供能够承载 Web3 中下一个十亿用户的开发平台。Sui 上的应用基于 Move 智能合约语言，并具有横向可扩展性，让开发者能够快速且低成本支持广泛的应用开发。获取更多信息: <https://linktr.ee/sui_apac>
+
+[官网](https://sui.io/)｜[Twitter](https://twitter.com/SuiNetwork)｜[Discord](https://discord.com/invite/sui)｜[英文电报群](https://t.me/Sui_Blockchain_English)｜[中文电报群](https://t.me/Sui_Blockchain_Chinese)
+
+![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=641c3796cb1f)
+
+---
+
+[Sui V0.28 版本中的重要更新](https://medium.com/sui-network-cn/sui-v0-28%E7%89%88%E6%9C%AC%E4%B8%AD%E7%9A%84%E9%87%8D%E8%A6%81%E6%9B%B4%E6%96%B0-641c3796cb1f) was originally published in [Sui Network CN](https://medium.com/sui-network-cn) on Medium, where people are continuing the conversation by highlighting and responding to this story.
+

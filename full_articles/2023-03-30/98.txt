@@ -1,0 +1,112 @@
+![](https://img.foresightnews.pro/202303/a29a787c2b9124dcbfb47c763c9e5ea0.png?x-oss-process=style/scale70)
+
+*摘要：合作的高校或高校区块链俱乐部将能获得在 Findora 链上运营节点的技术支持，还可以抢先参加 Findora 举办的独家黑客马拉松和聚会并且与领先的 zk 开发人员进行联系与学习。*
+
+  
+Findora 基金会宣布推出聚焦隐私的高校计划，与宾夕法尼亚大学、达特茅斯学院、加州大学圣巴巴拉分校、罗格斯大学等高校和高校区块链俱乐部合作，未来还将宣布更多合作伙伴。
+
+  
+**这是首个聚焦零知识密码学并关注隐私重要性的高校 Web3 计划。该计划专注于通过 ZK 密码学解决 Web3 隐私问题。**
+
+  
+
+
+通过该计划，高校以及高校区块链俱乐部将获得 Findora 的独家技术支持，优先向 Web3 行业专家学习和对未来的开发提案的投票权。他们在 Findora 上构建和发布自己的 dApp 时还能获得一些必要的工程支持。
+
+![](https://img.foresightnews.pro/202303/0314e6c4d87a8a138eaeb0bdb0c5ef02.png?x-oss-process=style/scale70)
+
+作为与顶级大学区块链俱乐部合作的一部分，Findora 基金会确保世界上最聪明的头脑将运行 Findora 验证器节点，使 Findora 网络更加去中心化和安全，同时帮助构建 Web3 隐私的未来。
+
+  
+首届高校计划成员 
+
+  
+
+
+以下是官方合作伙伴的部分名单!   
+
+
+* FranklinDAO- 宾夕法尼亚大学
+* Dartmouth Blockchain - 达特茅斯学院
+* Rutgers Blockchain Hub- 新不伦瑞克罗格斯大学
+* Blockchain at Cal Poly- 加州理工大学
+* Blockchain at UCSB - 加州大学圣巴巴拉分校
+![](https://img.foresightnews.pro/202303/c1aef1013f3c8ffb0a3b8ec49869fe94.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/8fb44f677b279658889c66907f3fc49c.png?x-oss-process=style/scale70)
+
+Findora 基金会正在与更多的高校和高校区块链俱乐部合作，还有更多的俱乐部和高校将在今年宣布，请持续关注更新!
+
+  
+如果您有兴趣加入 Findora 的高校计划，请在此申请：https://form.typeform.com/to/KE2xyM5i?typeform-source=findora.org
+
+  
+技术支持、区块链教育、黑客松!
+
+  
+Findora 致力于通过提供技术支持、协助举办聚会、提供科研参观和举办黑客松来帮助提高高校学生的能力。通过高校计划，Findora 旨在创建一个对隐私在未来 Web3 中所扮演的角色感到兴奋高校区块链爱好者社区。
+
+  
+技术支持 
+
+  
+
+
+Findora 基金会及其贡献者正在为区块链俱乐部和高校提供技术支持，帮助学生在 Findora 上构建、保护和维护他们的验证器节点。而在 EVM, Solidity, UTXO 账本， RUST 和密码学方面具有专业知识的工程师将帮助高校的学生和教师学习和实践相关区块链技术。
+
+  
+
+
+Meetup 和教育 
+
+  
+
+
+作为该计划的一部分，Findora 可以帮助这些区块链俱乐部举办聚会，将学生聚集在一起，分享思想和知识，并与其他高校学生建立联系。Findora 将经常出席，学生将有独特的机会与行业领袖互动，并学习他们的专业知识。Discreet Labs 首席执行官山姆·哈里森 (Sam Harrison) 很高兴能与下一代区块链爱好者接触，并将经常参加这些聚会。作为 Proof of Privacy 播客的主持人，山姆·哈里森 (Sam Harrison) 将在他访问合作俱乐部和大学期间作为特别嘉宾录制播客现场剧集!
+
+![](https://img.foresightnews.pro/202303/381482d45fca4b3145b3ccc4ba935553.png?x-oss-process=style/scale70)
+
+https://open.spotify.com/episode/777Ah5Xge1mlzaqDLoXXMR?go=1&sp\_cid=016aeea9e0e5f6310ed1bfeacf158c61&utm\_source=embed\_player\_p&utm\_medium=desktop&nd=1
+
+作为隐私和去中心化的倡导者，Harrison 将帮助用户了解这两个原则在 Web3 中的重要性。
+
+  
+
+
+黑客松
+
+  
+
+
+Findora 基金会将帮助这些区块链俱乐部举办黑客马拉松，学生们可以一起合作并利用 Findora 以隐私为重点的区块链的零知识隐私和可审计性来构建创新的 dApp。Findora 基金会将通过 Findora 的资助计划，与学生合作并鼓励他们在 Web3 中构建 dApp。
+
+  
+Findora 基金会很自豪能够通过对隐私、区块链和 Web3 充满热情的一流验证者进一步扩大 Findora 网络。作为回报，高校俱乐部可以优先接触到世界领先的零知识证明密码学的专业开发人员并向他们学习实战经验。
+
+  
+你对 Findora 的高校项目感兴趣吗? 如果你热衷于隐私，区块链，或两者兼而有之，我们很高兴看到你的加入!
+
+  
+
+
+作为会员，您将为您的区块链俱乐部和高校获得 Findora 网络的节点质押通证，协助节点设置，以及上述列出的所有支持。
+
+  
+
+
+快来加入我们吧，申请地址：https://form.typeform.com/to/KE2xyM5i?typeform-source=findora.org
+
+  
+关于 Findora
+
+  
+Findora 致力于通过先进的零知识证明密码学构建 web3 隐私。Findora 是一个创新的 Layer1 项目，它结合了针对隐私优化的原生 UTXO 账本和可编程性和互操作性的 EVM 拓展层，方便开发人员在构建具有可审计隐私的 dApp 时，可以利用任何一种模型。 
+
+  
+由衷的感谢我们的开发人员，并欢迎所有人加入 Findora 生态系统。请加入我们的社媒渠道以了解更多。
+
+  
+
+
+****Findora 相关链接：****  
+**> **Website**：https://findora.org**Mainnet**：https://mainnet.findora.org**Medium**：https://medium.com/findorafoundation**Twitter**：https://twitter.com/Findora**Github**：https://github.com/findoranetwork**Findora Academy**：https://medium.com/findorafoundation/tagged/academy****Reddit****: https://www.reddit.com/r/Findora\_Official/****LinkedIn****: https://www.linkedin.com/company/findorafoundation/******Youtube******: https://www.youtube.com/channel/UCDYiEktpfZzGEPFTFiEQ26Q/featured********Newletter********: https://findora.org/findora-newsletter/**

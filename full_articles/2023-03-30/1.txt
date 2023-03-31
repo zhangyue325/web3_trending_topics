@@ -1,0 +1,204 @@
+![](https://img.foresightnews.pro/202303/795580d0757bc5bb842fde0d490546c3.gif?x-oss-process=style/scale70)  
+
+
+![](https://img.foresightnews.pro/202303/616c69416d7ad1857a4e9d4650f64f3b.png?x-oss-process=style/scale70)期待已久的**「Sui 永久测试网」**终于到来了！不同于前面的测试网 Wave 1 和 Wave 2，这个版本的测试网将长期运行、去中心化且无需许可，并且这个测试网将在主网上线后也会继续运行。
+
+  
+
+
+随着这个版本网络的上线，将为社区带来一些重要功能更新。
+
+**1**
+
+核心网络
+
+Core Network
+
+”
+
+**动态验证节点集**
+
+满足有质押要求的候选验证节点可以在 epoch 边界加入网络，已加入验证者可以在 epoch 边界离开网络。此验证节点模型真正实现了无需许可。  
+
+
+  
+
+
+**协议软件和 Sui Framework 升级支持**
+
+不同于 Devnet，Testnet 不会在每次软件更新时被清空（除非特殊情况下）。如果测试网上计划进行软件更新或者数据清空，将会提前通知社区。  
+
+
+  
+
+
+**可以从数据快照恢复全节点**
+
+节点运营者可以利用 checkpoint 快速启动全节点，而不是等待全节点从零开始全量同步。  
+
+
+  
+
+
+**地址和签名更新**
+
+账户地址、object IDs 和交易 IDs 从 20 个字节升级为 32 个字节以避免哈希冲突。另外，考虑到性能方面的优化，默认哈希函数从 SHA3 更新为 Blake2b。为支持大规模交易，数字签名现在使用哈希签名，而不是系列化的 BCS 数据。从而实现 Sui 与硬件钱包的兼容，硬件钱包的签署 API 通常输入大小非常有限。
+
+  
+
+
+**2**
+
+开发体验
+
+Developer Experience
+
+”
+
+为实现让 Sui 成为最友好开发平台这一愿景，我们将永久测试网视为一个重要时间节点，称为**Sui DevX 1.0**，核心开发者原语：
+
+* 汇集开发者反馈
+* 改进基础设施提高 Sui 开发者效率
+* 实现**去中心化但不分散**的 Sui 生态
+
+  
+
+
+**开发原语包括：**
+
+  
+
+
+**可编程交易块**
+
+这个数据结构能够将一系列的交易串联在一起，包括 splitCoin、mergeCoins、transferObjects、moveCall、makeMoveVec、publish，以创建自定义原子交易区块，更好的实现应用程序的需求。因此 moveCall 可以自定义调用现有的链上功能，可编程交易快本质上是提供交易的可组合性，增强了 Sui Move 编程模型的通用性。  
+
+
+  
+
+
+也简化了 gas 费用管理，应用程序可以传入作为 gas 费 Coin Object 的数组并在可编程交易块中执行 Coins 的拆分 / 合并，而不必在提交执行之前选择 Coin。
+
+  
+
+
+**赞助交易 & gas station**
+
+虽然自 V0.27 版本上线以来已经支持赞助交易，我们很高兴地宣布 Shinami 的 gas station (guide, API) 现在可用于 Sui 的永久测试网！
+
+  
+
+
+**Object Display Standard**
+
+使用一组命名模板标准化相同类型 Object 的链下 display。Sui Explorer 和 Sui Wallet 现已支持 Object Display 标准。Sui APIs 和 Typescript/Rust SDKs 也同样支持 Object Display 标准。该数据结构通过 Sui 社区的多次沟通和共同写作努力所完成，特此感谢 Capsules 和 OriginByte 为这一标准所付出的努力。
+
+  
+
+
+**Kiosk Standard**
+
+Kiosk 是一个功能强大的新模块，它支持列出待售 Object 并在 Object 售出时执行创建者定义的版税政策。Object Display 和 Kiosk 的结合填补了人们在 Sui 上构建收藏品和交易平台的两个关键空白地带。我们鼓励生态系统钱包、浏览器和市场探索 Object Display 标准和 Kiosk 标准，以实现整个生态系统的无缝兼容。
+
+  
+
+
+**RPC Revamp**
+
+现在有更多基于聚合的 RPC get\* 函数：getEpoch、getNetworkMetrics、getMoveCallMetrics、queryObjects。JSON RPC 批处理请求已弃用，取而代之的为 MultiGet\* 方法。系统事件已弃用，取而代之的是交易回应中的专用字段。最后，一些遗留的 RPC 函数（标有 unsafe\_\*）被弃用，取而代之的是 Programmable Transaction Blocks。
+
+  
+
+
+**零知识证明**
+
+现在有 Move API 支持使用 BN254 椭圆曲线和 BLS12-381（两种最广泛使用的曲线）验证 Groth16 ZKP。这提供了 Sui 智能合约中的计算证明，并支持隐私保护应用。
+
+  
+
+
+**Two Granularity of Timestamps**
+
+一个细粒度的时钟（Clock）模块，支持近实时应用的 2-3 秒粒度，以及一个粗粒度的 Epoch 时间戳。
+
+  
+
+
+**Move Package Upgrade**
+
+这是让开发者能够更新 Move 合约依赖相关包更新的基本功能。合约更新将在测试网上下一次更新上线（暂定于 4 月的第一周）！敬请关注！
+
+  
+
+
+除了使用 Devnet 和 Testnet，我们同样鼓励开发者使用本地环境进行开发和迭代。sui-test-validator 二进制文件已得到改进，以帮助本地开发流程。
+
+  
+
+
+**3**
+
+开发网 v.s.
+
+永久测试网
+
+”
+
+以下表格列出了 Devnet 和永久测试网（截至此文章撰写时）之间的不同。
+
+![](https://img.foresightnews.pro/202303/c7de2a08fff17e895a29123dcc8f6d9c.png?x-oss-process=style/scale70)**4**
+
+加入行动
+
+Join the Action
+
+”
+
+如您所见，目前已经可以在去中心化和无需许可的网络上实现许多强大的新功能。如果您是感兴趣成为验证节点或全节点运营者，我们诚挚欢迎您加入网络。如果您是应用程序的开发者，我们很乐意且希望看到您在**Sui DevX 1.0**上的创造力（尤其在于可以编程交易块和赞助交易）！
+
+  
+
+
+感谢您成为 Sui 社群的一员，我们诚挚感谢您对于未来 Sui 主网做出的贡献！
+
+  
+
+
+![](https://img.foresightnews.pro/202303/a76b39564cb0f13ae84aef0a846fe391.png?x-oss-process=style/scale70)  
+
+
+Sui 是基于第一原理重新设计和构建而成的 L1 公有链，旨在为创作者和开发者提供能够承载 Web3 中下一个十亿用户的开发平台。Sui 上的应用基于 Move 智能合约语言，并具有横向可扩展性，让开发者能够快速且低成本支持广泛的应用开发。
+
+  
+
+
+获取更多信息：
+
+https://linktr.ee/sui\_apac 
+
+  
+
+
+  
+
+
+  
+
+
+**关于 Sui Network**
+
+  
+
+
+**获取更多信息**
+
+官方网站: https://sui.io/
+
+Twitter: https://twitter.com/SuiNetwork
+
+Discord: https://discord.com/invite/sui
+
+中文 Medium: https://medium.com/sui-network-cn
+
+中文电报群: https://t.me/Sui\_Blockchain\_Chinese
+

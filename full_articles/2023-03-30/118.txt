@@ -1,0 +1,68 @@
+作业笔记 2023.3.29 回顾
+
+<https://twitter.com/ZF_lab/status/1640959950628470784?s=20>
+
+2）op 的 mirror，收集：<https://optimism.mirror.xyz/Upn_LtV2-3SviXgX_PE_LyA7YI00jQyoM1yf55ltvvI>
+
+
+
+---
+
+
+
+---
+
+2）StarkNet 合约部署的极简教程：<https://mirror.xyz/hanjiangxue.eth/cfd-67RhMpqGh7pGOhEocwjbu5V__Jv5bMirqkqpYD4>
+
+
+
+---
+
+
+
+---
+
+2）uni 投票：<https://snapshot.org/#/uniswap/proposal/0xdc3e034f9b7c876736f1b629c7c9ff9c466205dfe075607d70e69b6af2fa87ef>
+
+
+
+---
+
+2）stg 可能要空投 arb 了 <https://commonwealth.im/stargatetoken/discussion/10551-airdrop-arbitrum-to-vestg>
+
+3）atem 给 lens 用 户空投的钻石 <https://airdrop.atem.io/>
+
+
+
+---
+
+1）作业笔记汇总：<https://twitter.com/ZF_lab/status/1641449632550223880?s=20>
+
+
+
+---
+
+2）多生态 LSD 发展报告：赛道很宏伟，项目很早期：<https://www.panewslab.com/zh/articledetails/r0537830ofok.html>
+
+3）以太坊 L2 zkSync Era 主网上线 有哪些生态项目值得关注：<https://followin.io/zh-Hans/feed/3669064>
+
+4）熊市中获 5000 万美元注资，EigenLayer 要在 LSD 爆发：<https://www.bitpush.news/articles/3886564>
+
+5）简析 EigenLayer 以及其对以太坊生态的影响：<https://www.techflowpost.com/article/2347>
+
+6）zkEVM 方案一览：简析 zkSync、StarkNet、Polygon zkEVM 、Scroll：<https://www.techflowpost.com/article/2346>
+
+![](https://img.foresightnews.pro/202303/5fba3cdfb8d9bb8955814fde933380a6.png?x-oss-process=style/scale70)
+
+👤 Linker: <https://linktr.ee/ZFlab>
+
+🐦 Twitter: <https://twitter.com/ZF_lab>
+
+🚀 Lenster:<https://lenster.xyz/u/zf_lab>
+
+👾 Discord: <https://discord.gg/Gy5RhbMyCW>
+
+💬 Telegram Group: <https://t.me/cryptozflab>
+
+🪞 Subscribe to us on Mirror & Collet Entry: <https://mirror.xyz/zflab.eth>
+
