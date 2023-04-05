@@ -1,0 +1,86 @@
+![](https://img.foresightnews.pro/202303/234f06cee9030f66f459b37bbd9706a6.png?x-oss-process=style/scale70)去年 10 月，Gavin Wood 卸任 Parity Technologies 的 CEO 职位，表示他将专注于在新的首席架构师职位上使得 Polkadot **“与大众更加相关”**。此举并未对波卡的市场形势产生负面影响，相反让行业中的开发者看到了波卡在技术上的坚持和创新。让技术更专注于创新，让技术完全回归和造福大众。
+
+Gavin Wood 是区块链行业的杰出人物，作为以太坊（Ethereum）和波卡（Polkadot）的联合创始人，他在区块链技术的开发上具有深厚的技术专长和创新思维，对行业的发展产生了深远的影响。**他以区块链技术的专业度和创新度、Web3 行业的布道者和环保事业爱好者而著称。**本文将更深入地了解 Gavin Wood 的技术经历和职业生涯，探讨他的背景、成就以及对区块链行业的影响。  
+
+
+**Gavin Wood 的经历一览**
+
+Gavin Wood 1980 年出生于英国，成长在贝德福德郡附近的乡村。他从小就对计算机和编程产生浓厚兴趣，11 岁时就组装了自己的第一台计算机。他曾就读于贝德福德郡一所著名的私立学校——贝德福德现代学校，后来进入约克大学学习计算机科学。他后来获得了伦敦帝国学院计算机科学博士学位，研究方向是程序验证和自动推理。
+
+在完成博士学位后，Gavin Wood 在微软担任研究科学家，专注于编程语言和分布式系统。2013 年，他对比特币和区块链技术产生浓厚兴趣，开始研究一种新的区块链平台，以实现去中心化应用的创建。这个平台后来被称为以太坊，**Gavin Wood 在项目的开发中发挥了关键作用，成为项目的联合创始人之一。**
+
+2015 年，Gavin Wood 离开以太坊，创立了自己的区块链创业公司 Parity Technologies。该公司专注于开发构建去中心化应用的软件，特别强调可扩展性和互操作性。Parity 的旗舰产品是 Substrate，这是一个模块化的区块链框架，允许开发者构建具有独特功能的定制区块链。
+
+2016 年，Gavin Wood 开始研究一个名为波卡（Polkadot）的新区块链项目，旨在创建一个互操作的区块链网络。波卡网络使用 Substrate 构建，使不同的区块链能够相互通信和共享数据。该项目备受期待，在 2017 年 ICO 中筹集了超过 **1.4 亿**美元。
+
+![](https://img.foresightnews.pro/202303/05fe202b97f5fdb49acbaa6ed2d00ed7.png?x-oss-process=style/scale70)
+
+### 
+
+  
+
+
+**从以太坊到波卡，Gavin 需要什么**
+
+众所周知，Gavin Wood 曾担任以太坊首席技术官 (CTO)，负责开发以太坊虚拟机 (EVM)、编程语言 Solidity 以及以太坊网络上使用的基于 gas 的定价模型。在软件工程和密码学方面的专业知识而闻名的 Gavin Wood ，在平台的开发中发挥了至关重要的作用，为以太坊黄皮书和 Solidity 编程语言的创建做出了贡献。以太坊区块链作为加密领域最重要的创新之一，彻底改变了我们对去中心化应用程序和智能合约的思考方式。**我们必须承认这项突破性技术的背后是以太坊创始人，他们的远见和专业知识为其开发和使用铺平了道路。**
+
+Parity 最初被称为**“EthCore”**，致力于为以太坊区块链生态系统开发关键基础设施，解决包括可用性、性能和隐私等问题。EthCore 成功筹集了种子轮资金，开始开发名为 Parity Ethereum 的免费开源软件方案，让用户在公共以太坊网络上运行节点并挖掘以太坊。在开发 Parity Ethereum 的同时，Gavin Wood 等待发布包含分片功能的新以太坊规范时，开始思考区块链将面临的分片挑战。
+
+**分片（Sharding）是区块链扩容的链上解决方案之一，区块链扩容是必然发展的方向之一。**不仅是当时，截止到如今都在面临的分片挑战是数据可用性和数据有效性，分片内部的安全和效率问题以及跨分片交易引发的跨分片安全和效率问题。在经过大约四个月的深思熟虑后，Gavin Wood 提出了一个异构多链框架的愿景，即 Polkadot 协议。于是显然易见的，波卡的异构分片相较于以太坊大大提升了分片效率和可扩展性，业内评价波卡为“分片的极致“。
+
+从以太坊到波卡，改变始于分片挑战的创新解决方案，但远不止于此。波卡在共识上采用提名权益证明 (NPoS) 机制，使用更少的验证者提供可靠性；在跨链上，波卡使用 XCM；在治理上，以太坊使用链下治理方式，波卡采用链上治理，利用多议院制度并通过公投决定提案；在升级上，波卡使用 Wasm 元协议，可以在不使用硬分叉的情况下执行链升级。  
+
+
+**从波卡到 Web3，我们需要什么**
+
+在《为什么我们需要 Web3》一文中，Gavin 写下了这样一句话：**互联网就像一个巨大的婴儿，它在老化，但它从未长大。** 他曾表示，互联网在全球已经拥有大量用户，但由于结构性缺陷，互联网一直没有真正承担起应该完成的责任。他提出数据隐私泄漏、数据主权伤害和中心化控制所带来的一系列问题。虽然互联网的用户和需求都在增长，但是好像互联网所处的时代和使用的技术并未解决现存的问题。因此，Web3 的优势体现在应用程序的**“去中心化”。**在 Web3 中，构建应用程序的过程更类似于创建纯粹的算法，只需进行正确的设计，而无需处理运行服务器的繁琐任务。这使得开发者能够更专注于“开发”本身，而不是**“部署和运行”**。波卡作为坚持 Web3 理念的区块链平台，模块化的设计和开发者友好的 Substrate 技术框架等一系列创新都让开发者更轻松地注重技术和创造。
+
+同时，Web3 的未来是多链和跨链的。基于这一个目标，波卡从底层的多链设计上就已经做好了准备。众多平行链不仅包含行业内常见的 DeFi、链游、NFT、元宇宙等 Web3 风口赛道的链，更有官方促成下的与众多实体行业合作的链，通过区块链技术服务于该实体的商业模式或者经营目标。在多链的基础上，实现了专业、专有和专用。
+
+从波卡的方方面面中，我们看到了：**作为 Web3 时代下的开发者，需要更友好的开发技术和工具，更自由和创新的开发环境；作为 Web3 时代下的用户，需要数据隐私保护、数据主权回归和去中心化的数字生活。**
+
+  
+
+
+**从 **Gavin Wood 到每一个开发者****
+
+Gavin Wood 在区块链行业的贡献众多且重要。除了以太坊和波卡，他积极参与了许多与区块链相关的计划。他曾在世界各地的会议上发表演讲，分享他对区块链技术未来的愿景及其改变金融以外行业的潜力。Gavin Wood 对区块链行业的贡献得到了多家媒体机构的认可。**2018 年，他被 Coindesk 评为区块链领域最具影响力的 100 人之一，并于 2019 年入选福布斯 40 Under 40 技术榜单。**除了区块链行业的工作，Gavin Wood 还因其慈善和环保倡议而广受赞誉。作为环保事业的积极倡导者，他呼吁区块链行业解决能源消耗和碳足迹问题。Gavin Wood 的贡献和成就塑造了行业的方向，他对去中心化未来的愿景继续激励着世界各地的开发者和创业者。从自身的专业技术角度出发，Gavin Wood 帮助着行业内的开发者：**他在技术领域发表了大量论文和文章，积极参与开源软件社区，开发了一些受欢迎的区块链相关工具和框架。**而作为行业的先驱者和布道者，Gavin Wood 也让每一个开发者看到了 Web3 的技术魅力和创新可能。
+
+![](https://img.foresightnews.pro/202303/b7be58916647eab754b4ba681ba1c87f.png?x-oss-process=style/scale70)参考文献：
+
+Gavin Wood | Polkadot
+
+https://polkadot.network/gavin-wood/
+
+Gavin Wood: Cosmos is not enough to trust, not enough to expand Blockchain Network
+
+https://blocking.net/17114/gavin-wood-cosmos-is-not-enough-to-trust-not-enough-to-expand/
+
+Gavin Wood: The Man Behind Polkadot's Revolutionary Blockchain
+
+https://coinnounce.com/gavin-wood-man-behind-polkadot-blockchain/
+
+How Did the Ethereum Founders Contribute to its Development And Success? – Cryptopolitan
+
+https://www.cryptopolitan.com/ethereum-founders-contribution-success/
+
+**About Us**  
+
+
+**关于我们**
+
+OneBlock+ 是全球最大的 Substrate 技术开发者社区，也是 Parity 在亚洲唯一的运营合作伙伴，波卡生态早期项目的创始人、CTO、核心开发者大部分都来自 OneBlock+ 社区。
+> Twitter: https://twitter.com/OneBlock\_
+> 
+> Medium: https://medium.com/@OneBlockplus
+> 
+> Telegram: https://t.me/oneblock\_dev
+> 
+> Discord: https://discord.gg/z2XZZWEcaa
+> 
+> Bilibili: https://space.bilibili.com/1650224419
+> 
+> YouTube: https://www.youtube.com/channel/UCWo2r3wA6brw3ztr-JmzyXA
+> 
+> 
+

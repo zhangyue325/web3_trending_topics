@@ -1,0 +1,58 @@
+关注推特  [@maik2hello](https://twitter.com/maik2hello) 带你做各种精选有价值的项目
+
+5ireChain 公链项目是一个兼容 layer-1 EVM 的智能合约平台，目前项目融资 1.2 亿美元，对于特大高融资项目，那是肯定不能放过的，在这里不过多对项目本身多做研究性解释，有兴趣可以查资料查资料看看
+
+通过页面提示项，点击下载 5ire 钱包，这个项目的特别之处钱包处已经显现，需要手动下载钱包文件解压后，拖入 chrome 扩展程序，完成钱包创建
+
+<https://explorer.5ire.network/>
+
+![](https://img.foresightnews.pro/202303/7be6cc362a604bb18241cbde598f35cb.png?x-oss-process=style/scale70)
+
+下载完成后，找到下载未解压的文件夹先完成解压，解压后找到如下文件夹拖入扩展程序
+
+![](https://img.foresightnews.pro/202303/eda6f28dc5feeb28cc2d1b283829b964.png?x-oss-process=style/scale70)
+
+首先点击“管理扩展程序”
+
+![](https://img.foresightnews.pro/202303/827b0c04016361d4080ab256b6fcdb0d.png?x-oss-process=style/scale70)
+
+将解压的指定文件在“开发者模式”下拖入空白处完成 5ire 钱包插件扩展
+
+![](https://img.foresightnews.pro/202303/3bfcb1161dce47c039d94e2272c4f575.png?x-oss-process=style/scale70)
+
+完成以上准备工作后，开始进行钱包地址创建，一定要保存好助记词和私匙，通过点击浏览器页面右顶端“扩展程序”找到 5ire 钱包
+
+![](https://img.foresightnews.pro/202303/e32c29caa21783211acb82db77a34786.png?x-oss-process=style/scale70)
+
+保存好助记词和私匙
+
+![](https://img.foresightnews.pro/202303/ab824d325e78a7e69c3bb410ab48b955.png?x-oss-process=style/scale70)
+
+注意输入密码时需要大小写字母数字和特殊字符才能创建成功，新的钱包地址创建完成后进入测试网测试
+
+<https://explorer.5ire.network/faucet>
+
+先打开 5ire 钱包，调换到**“swap”**功能，复制**native 地址**
+
+![](https://img.foresightnews.pro/202303/31838ae0ff2dd1970f43d83e365c4f69.png?x-oss-process=style/scale70)
+
+进入测试网领取测试代币
+
+![](https://img.foresightnews.pro/202303/f9c5470c21b5da96b2459c19d48aa157.png?x-oss-process=style/scale70)
+
+成功领取测试代币后，进入钱包进行交互点击 swap 输入适当数量代币完成交互
+
+![](https://img.foresightnews.pro/202303/14a4106b64e0c6f5ac8359532cf78371.png?x-oss-process=style/scale70)
+
+点击 swap 交互完成后 native 地址的代币被发送到 evm 地址
+
+![](https://img.foresightnews.pro/202303/03f0c4e2d9b38c27d2a9d0bba361856d.png?x-oss-process=style/scale70)
+
+同样的我们进行“Transfer”转账功能，需要自己重建一个小号或者转给他人，选择对应的 native 地址或者 EVM 地址，这样我们就完成了整个交互
+
+![](https://img.foresightnews.pro/202303/5f4da37088da6b757847502300266a3f.png?x-oss-process=style/scale70)
+
+完成目前整个交互后，就可以做做 crew3 任务
+
+<https://crew3.xyz/c/5irechain/questboard>
+

@@ -1,0 +1,88 @@
+在 Arbitrum 空投的隔天，另一个被戏称为四大天王的 Layer 2 项目 zkSync 正式发布了其 V2 网络 zkSync Era。尽管 zkSync 官方强调 Era 最初发布不会附带 Token，以及可能需要预计一年左右的时间实现网络的去中心化，但这并未浇灭用户对潜在空投财富效应的热情。在正式向用户开放后的几天里，有大量的资金涌入 zkSync Era。根据 Dune Analytics 数据，在 zkSync Era 发布不到三天的时间里，已有超过 6.4 万个独立钱包、超过 12,000 个 ETH 从 Ethereum 桥接至 zkSync Era。本文将为大家盘点目前已经上线 zkSync Era 主网的 dAPPs，帮助大家更好地认识网络生态以及实现交互。
+
+![](https://cdn-images-1.medium.com/max/912/0*Xb8Hsccziwk0qzgj)
+
+*（数据来源：https://dune.com/gm365/era）*
+
+  
+
+
+Bridge
+------
+
+### Orbiter Finance
+
+![](https://cdn-images-1.medium.com/max/912/0*ObcJO-4aUaDzjw8Z)
+
+[Orbiter Finance](https://www.orbiter.finance/) 是支持 zkSync 网络跨链的第三方桥，尚未发行 Token 。与官方桥尚不支持 zkSync Lite 和 Era 的互转不同，Orbiter 不仅支持 Ethereum、zkSync Lite 和 Era 间的相互跨链，还支持 Polygon、Arbitrum One/Nova、Loopring 等数十条公链与 zkSync Era 的相互传递。用户进行跨链时，Orbiter 会向用户收取包括交易和预扣 Gas 的费用。不过近期由于流量激增，RPC 节点受限，Orbiter 表示，当前 zkSync Era 的跨链服务会优先适用于 Orbiter-ZK-Pilots 用户（即最近使用 zkSync Lite 进行跨链的用户），待未来网络安全稳定，会向全部用户开放。
+
+DeFi
+----
+
+### Mute.io
+
+![](https://cdn-images-1.medium.com/max/912/0*LssiGQMkbN93PFgU)
+
+[Mute](https://mute.io/) 是 zkSync Era 上的第一批 DEX 平台，当前已推出 MUTE Token。用户可以使用该平台进行交易、流动性提供、Amplifier、债券以及 DAO 治理功能。当前 Mute 已经支持 ETH、USDC、MUTE、WETH、ZKDOGE 等十余种资产的交易以及流动性提供。通过收益放大器（Amplifier），用户还可以将 LP Token 进行再质押以获取更高的收益，而 Amplifier APY 主要由平台费用收入进行定向激励，具有的 LP Pool 由团队和 DAO 决定。
+
+债券是 Mute 的创新功能，借鉴了 OlympusDAO 的机制，用户可以将 MUTE/ETH LP 与 Mute DAO 进行交易从而以折价优惠获得 MUTE Token；通过债券，Mute DAO 能够增加协议拥有的流动性，并增加收入和流动性；不过用户获得的 dMUTE 有 7 天锁定期，锁定期结束后将可兑换为 MUTE。此外，用户参与 DAO 治理需要锁定 MUTE，可以自行选择最大 364 天的锁定期获得不同的治理份额。目前 Mute 共有超过 18 万枚 MUTE 被锁定，平台 TVL 价值超过 27 万美元，3 月 25 日单日交易量超过 700 万美元。
+
+### SyncSwap
+
+[SyncSwap](https://syncswap.xyz/) 是 zkSync Era 上的首批 DEX 之一，用户可以在 SyncSwap 上进行交易和流动性挖矿，当前支持 ETH、USDC、WETH 等多种资产的交易，以及 15 对 LP 的流动性提供。当前 SyncSwap TVL 超过 160 万美元，主要集中在 USDC/ETH Pool，该池目前提供超过 100% APR。Classic pool 的交易费用为 0.1%，其中流动性提供者捕获 0.07%，协议收取 0.03% 作为收入。
+
+### SpaceFi
+
+[SpaceFi](https://www.spacefi.io/) 是连接 Cosmos 和以太坊 Layer2 生态系统的跨链 Web3 平台，已发布 SPACE Token，目前集成了 Evmos 和 ZkSync 网络。在 zkSync Era 上，用户可以在 SpaceFi 进行交易 ETH、USDC、WETH 等资产的交易以及流动性提供。使用 SpaceSwap 交易时需要支付 0.3% 的交易费，官方称对于参与创世 LP 池的用户会给予激励。除了基础 DEX 功能外，SpaceFi 还包含 FARM、NFT 、SpaceBase、SpaceBridge、Launchpad 等多个未发布功能，并表示最早将于 3 月 27 日运行。
+
+### rhino.fi
+
+  
+
+
+![](https://cdn-images-1.medium.com/max/912/0*Gs1njUXfF3ugzhJ1)
+
+[rhino.fi](https://rhino.fi/) 是一个多链一站式 DeFi 平台，提供订单薄交易、DEX、收益策略、流动性提供、内部无 Gas 转账以及跨链功能。用户可以通过 zkSync Era 网络向该平台存入 ETH 进行使用，共支持 Arbitrum、Polygon 在内的 6 条公链。目前 rhino.fi 已经推出 DVF Token，参与质押和治理，其中治理模块涵盖丰富，小到交易费用、转账费用、流动性奖励等，大到升级智能合约、从国库分配资金、铸造新的 DVF Token 等。
+
+NFT Marketplace
+---------------
+
+### Mint Square
+
+![](https://cdn-images-1.medium.com/max/912/0*CnIyD9eALnQb0eGR)
+
+[Mint Square](https://mintsquare.io/) 是基于以太坊 L2 ZK Rollups 的 NFT 交易市场，已经集成 StarkNet 和 zkSync Era 网路。用户可以在 Mint Square 里上传铸造、购买、出售和拍卖 NFT。截至 3 月 26 日，Mint Square 上的总交易量前三的 NFT 项目为：zkApe、Mint Square Storefront、zkSync Name Service。
+
+NFT
+===
+
+### zkApe
+
+  
+
+
+![](https://cdn-images-1.medium.com/max/912/0*v-Uluw7PJYPhYDkL)
+
+[zkApes](https://zkape.io/#/) 是一个建立在 zkSync Era 的元宇宙项目，其 NFT 已在近期发售。zkApes NFT 系列总量为 9,999 枚，公开铸造共 8,000 枚，铸造价格为 0.08 ETH（每个钱包限额 30 个），其中 Whitelist 和 Presale 可免费铸造。截至 3 月 26 日，已有接近 3400 枚 zkApes NFT 被铸造。
+
+zkApes 还设立了至少 100 ETH 的生态系统安全基金（ESF） 。当 zkApes NFT 地板价低于 0.08ETH 时，将启动回购机制。目前 Mint Squaer 上 zkApes NFT 地板价为 0.078ETH，已略低于该水平线。根据官方文档，zkApes NFT 持有者可以作为 zkSync 的生态系统建设者获得 zkSync 未来的 Token、zkSync Name Service（ZNS）空投、动态 NFT（dNFT）空投、 DEX（ApeX）收入分红、作为 zkApes DeFi 系统（ApesBank）的抵押品、zkApes arcade 折扣等。不过目前 zkApe 尚未上线所述的生态系统功能。此外，除了 DeFi 模块外，团队还会开发游戏 Arena 和 PTE 等多个元宇宙相关项目。
+
+不难看出，zkApe 颇具野心，意图在 zkSync Era 上打造全生态，不过就目前 NFT 图片的质量而言，任重而道远。
+
+### ZKBoredApes
+
+![](https://cdn-images-1.medium.com/max/912/0*WB2nhMp8uQseu1Ja)
+
+[ZKBoredApes](https://zkboredapes.com/) 是由一个社区驱动的 ZKSync 像素化 NFT 项目，其灵感灵感来自于 BAYC。该 NFT 系列总量为 10,000 枚，共有 150 种属性，有超过 100 万种组合的可能性。不过，目前 ZKBoredApes 尚未开放公开铸造。据 Mint Square 数据，当前已有 190 枚 ZKBoredApes 在流通，地板价为 0.098 ETH。根据官方路线图，ZKBoredApes 未来推出 BORED Token 和 NFT 质押功能。
+
+域名
+--
+
+### zkSync Name Service
+
+[zkSync Name Service](https://zkns.domains/) 又名 zkSync ID，是由 Star Protocol 在 zkSync 网络上创建的域名服务，帮助用户在 zkSync 构建自己的链上 DID。当前 zkSync Name Service 只开放了四位数及以上长度的域名注册，四位数域名一年注册费用（含 gas）约为 0.0571 ETH（约 $102），五位数域名域名一年注册费 0.0043 ETH。截止 3 月 26 日，zkSync Name Service 已有超过 9,400 个域名被注册。
+
+![](https://cdn-images-1.medium.com/max/912/0*64sFhx2VG1qY6yDJ)
+
+目前，zkSync Era 还有不少优质项目在测试网上蓄势待发，可以预见的是，在不远的将来，zkSync Era 链上生态也将百花齐放，不会逊色于今日的 Arbitrum 和 Optimism。
+

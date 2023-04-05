@@ -1,0 +1,44 @@
+![](https://img.foresightnews.pro/202303/2622cc34f1004c2de969eeb9baf18369.jpeg?x-oss-process=style/scale70)2023 年第一季度中 Kava 生态对 Cosmos 和以太坊的跨链需求呈现了爆炸式的增长。随着需求的激增，开发者和用户对速度、安全和性能的需求也逐渐提升。为了满足这一需求，Kava 13 主网的升级将部署相应的架构增强功能，以帮助开发者扩展和推进他们的协议，并优化整个 Kava 生态的用户体验。
+
+以下是全新 Kava 13 主网为 Kava 生态协议和用户带来的升级概览：
+
+### **1. Kava EVM 2.0 上线**
+
+Kava 正在快速扩展，以满足整个 Cosmos 和以太坊跨链的流量涌入，并为协议和用户提供更好的性能。Kava EVM 2.0 主要在两个方面提高了性能：全节点软件优化和托管服务提供商扩展。
+
+Kava 全节点架构升级到 v2，为 RPC 提供商和验证者带来了更快、更可靠的性能。Kava EVM 的重大升级将通过消除停机时间和加速处理来自协议和钱包（如 Metamask）的大量数据的请求来支持新协议的启动。
+
+Kava 13 增强的计算能力来自于对 EVM 软件本身的优化，使交易能够更快地并发处理，并增加了更多专业托管服务合作伙伴来帮助保护网络。
+
+### **2. 无缝的 Cosmos–以太坊跨链体验**
+
+全新内置桥接器利用了 IBC 共识的安全性，支持用户将原生 Cosmos 资产发送到部署在 Kava EVM 上的各个协议。无缝的跨链体验减少了依赖第三方中间链来跨链的点击次数、等待和不确定性。
+
+Kava 13 主网将释放 Cosmos 和以太坊的流动性，并增加 Cosmos SDK 和 EVM 链上的钱包、DApp 和资产的实用性。
+
+### **3. Vault 管理升级**
+
+由 Kava DAO 控制的 Strategic Vault 正在进行重大升级，使社区在支持 Kava 生态中的新兴协议方面拥有更多的掌控权和灵活性。随着 Strategic Vault 功能的扩展，Kava DAO 将能够管理其资金库并将资源部署到 Kava 上的任何协议。除了向钱包或批量钱包发送奖励外，Kava 13 的升级将使 Kava DAO 能够控制提供流动性、资产交换、投资组合多元化等。
+
+对于越来越多的开发者和用户来说，Kava 13 主网将是一次重大的升级，帮助他们利用 Kava 独特的 Cosmos-EVM 共链架构，将 Cosmos 的速度和互操作性与以太坊的灵活性和开发者支持特性相结合。
+
+关注[Kava 中文官方](https://twitter.com/KavaChinese)推特，及时了解关于 Kava 13 主网的更多细节。
+
+### 获取更多**Kava**信息：
+
+官网：<https://www.kava.io/>
+
+中文 Twitter：[@KavaChinese](https://twitter.com/KavaChinese)
+
+中文电报群：<https://t.me/KavaChinese>
+
+查阅代码：<https://github.com/kava-labs>
+
+订阅 Kava YouTube：<https://www.youtube.com/c/Kavalabs/videos>
+
+![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=3dec03ea59dc)
+
+---
+
+[Kava 13 主网升级预告｜Kava EVM 2.0 即将上线并带来更多功能升级](https://medium.com/kavachinese/kava-13%E4%B8%BB%E7%BD%91%E5%8D%87%E7%BA%A7%E9%A2%84%E5%91%8A-kava-evm-2-0%E5%8D%B3%E5%B0%86%E4%B8%8A%E7%BA%BF%E5%B9%B6%E5%B8%A6%E6%9D%A5%E6%9B%B4%E5%A4%9A%E5%8A%9F%E8%83%BD%E5%8D%87%E7%BA%A7-3dec03ea59dc) was originally published in [KavaChinese](https://medium.com/kavachinese) on Medium, where people are continuing the conversation by highlighting and responding to this story.
+

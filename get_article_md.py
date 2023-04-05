@@ -63,7 +63,7 @@ def add_all_articles_md(dt):
 
 
 if __name__ == "__main__":
-    url = "https://foresightnews.pro/article/detail/26237"
+    url = "https://foresightnews.pro/article/detail/29805"
     data = add_article_md_foresightnews(url)
     index = url[-5:]
     with open(f"{index}.txt", "w", encoding="utf-8") as f:

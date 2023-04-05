@@ -25,3 +25,5 @@ prepare_the_html_data(dt)
 print("html table been successfully prepared")
 
 add_all_articles_md(dt)
+
+

@@ -1,0 +1,92 @@
+Provide the latest and most complete industry financing news, get first-hand news, please pay attention to veDAO financing daily!
+
+### 【1】LandVault
+
+Amount: $3 million
+
+Stages: B1 round
+
+Date: March 28
+
+Investors: The Sandbox, Gemini Frontier Fund, Kingsway Capital, HodlCo
+
+Category: Metaverse solution
+
+Description: LandVault is a metaverse building platform that helps brands build unique metaverse experiences and drive engagement in a meaningful way. LandVault also offers services from land leasing to project management, business measurement and insights.
+
+Additions: $37 million funding closed on March 23rd, 2023
+
+Website: <https://landvault.io/>
+
+Twitter: <https://twitter.com/TheLandVault>
+
+### 【2】Conduit
+
+Amount: $7 million
+
+Stages: Seed round
+
+Date: March 28
+
+Investors: Paradigm, Dan Romero, Lakshman Sankar, Joshua Ma, Robert Miller, Ludwig Pettersson, Guillaume Poncin
+
+Category: Infrastructure
+
+Description: Conduit is a crypto-native infrastructure platform designed to augment and accelerate builders in the crypto space. Its first product allows teams to launch production-grade OP Stack-based Rollups in a very short time, thus scaling their application performance by 100x. Application-specific Rollups on Conduit are launched, maintained and scaled by infrastructure professionals so that teams can focus on what matters most- building products that users appreciated.
+
+Website: <https://conduit.xyz/>
+
+Twitter: <https://twitter.com/conduitxyz>
+
+### 【3】SO-COL
+
+Amount: $1.5 million
+
+Stages: Undisclosed
+
+Date: March 28
+
+Investors: DWF Labs
+
+Category: SocialFi
+
+Description: SO-COL (Social Collectables) is a Web3 social platform that empowers creators, communities and brands by building tools to enhance the accessibility and utility of NFT. SO-COL is building community management and governance tools, NFT casting tools, and a marketplace that allows creators and fans to sell and trade their community NFTs. By consuming premium collections, users can access private channels for exclusive interaction and exclusive rewards with their favorite creators. The SO-COL platform features a public chat function with all the features of a forum-based platform where users can interact with fans and creators in the community.
+
+Additions: \(3 million funding closed in May 2022; \)1.75 million closed in seed round funding on February 8, 2022
+
+Website: <https://www.socol.io/>
+
+Twitter: <https://twitter.com/socol_io>
+
+### 【4】EigenLayer
+
+Amount: $50 million
+
+Stages: A1 round
+
+Date: March 28
+
+Investors: Blockchain Capital, Coinbase Ventures, Hack VC, Electric Capital, Polychain
+
+Category: Infrastructure, Modular Blockchain
+
+Description: EigenLayer is a protocol built on top of Ether that introduces the concept of re-pledging, a new proto-language in crypto-economic security. The language allows for the re-pledging of \(ETH on the consensus layer. Users who have pledged \)ETH can choose to join the EigenLayer smart contract to re-pledge their $ETH and extend crypto-economic security to other applications on the network.
+
+Additions: $14.5 million closed in seed round in August 2022
+
+Website: <https://www.eigenlayer.xyz/>
+
+Twitter: <https://twitter.com/eigenlayer>
+
+### About veDAO
+
+veDAO is an investment and funding community dedicated to discovering early-stage potential projects. By gathering public wisdom and professional opinions, veDAO provides a fair, transparent and democratic project evaluation and investment and financing process for community participants, investors and project parties, allowing all participants to share the project development dividends.
+
+Website: <https://app.vedao.com/>
+
+Twitter: <https://twitter.com/vedao_official>
+
+Telegram: <https://t.me/veDAO_EN>
+
+Discord: <https://discord.gg/NEmEyrWfjV>
+

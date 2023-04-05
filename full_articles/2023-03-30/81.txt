@@ -1,0 +1,39 @@
+使用 iPollo Miner 和 Ezil Pool 的提升 ZIL 双挖收益
+
+![](https://img.foresightnews.pro/202303/e5f2bcf69dbc4b894d55b219a2303d9e.jpeg?x-oss-process=style/scale70)#### 一、iPollo 矿机和 ZIL 双挖收益
+
+1.增加收益： 使用 iPollo 矿机和 ZIL 进行双挖可以提高你的整体收益，因为你能够同时挖出两种不同的加密货币。
+
+2.降低能源成本：iPollo 矿机采用节能设计，这意味着你可以在挖矿时节省电费。
+
+3.操作简单：iPollo 矿机操作用户友好且易于设置，新手和有经验的矿工都会使用。
+
+4.稳定的性能：iPollo 矿机性能稳定，这意味着你可以长时间挖矿而不会遇到任何问题。
+
+5.增加了采矿的灵活性： 有了 iPollo Miner 和 ZIL Dual Mining，你可以在不同的加密货币之间灵活切换。
+
+收益表（基于当天的币价）
+
+![](https://img.foresightnews.pro/202303/2dea6f59c295ebea89c97d9ed0c95634.png?x-oss-process=style/scale70)#### 二、iPollo 矿机在 Ezil 矿池的操作步骤
+
+![](https://img.foresightnews.pro/202303/6010a12b08965bd997a987641bba20c8.png?x-oss-process=style/scale70)1.更新固件至最新版本
+
+2.点击“组态”的“矿机配置”界面，对“矿池”和“网络”进行设置
+
+![](https://img.foresightnews.pro/202303/cbdeb36c651713c11c235ddb1f084702.png?x-oss-process=style/scale70)3.填写 Ezil 矿池信息
+
+4.双挖组合可根据个人喜好进行设置，本文以 ETC+ZIL 双挖为例
+
+ETC+ZIL 双挖矿池地址：
+
+stratum+tcp//asia.ezil.me:4444
+
+stratum+ssl//asia.ezil.me:24443
+
+矿工名：ETC 钱包地址.ZIL 钱包地址.矿工名
+
+![](https://img.foresightnews.pro/202303/a1543df4da5d328274eb34fe4a587eda.png?x-oss-process=style/scale70)5.在网络配置选项卡中确认挖矿状态
+
+![](https://img.foresightnews.pro/202303/f4dead7c66f285ac0e0ea8ce8d37e6a9.png?x-oss-process=style/scale70)6.点击储存并套用，开始挖矿
+
+![](https://img.foresightnews.pro/202303/a655033768a02b99e59301c963894ccf.png?x-oss-process=style/scale70)![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=3ff78d84c50f)

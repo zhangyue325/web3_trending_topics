@@ -1,0 +1,315 @@
+来源 | blog.ethereum.org
+
+作者 | Protocol Support Team
+
+翻译 | Franci, ECN
+
+  
+  
+
+
+* 提款来了！Shapella 以太坊主网升级将在 epoch 194048 处激活，定在北京时间 2023 年 4 月 13 日 06:27:35
+* 建议质押者和节点运行者阅读本文以及提款 FAQ
+* 从现在起到 4 月 5 日，针对 Shapella 漏洞的奖励已翻倍，指路：Ethereum Bug Bounty
+* 读者现在可以注册以接收这些升级通知的电子邮件了。滚动到页面底部以订阅 📩
+
+
+
+---
+
+  
+
+
+  
+
+
+  
+
+
+在顺利完成了 Goerli 测试网 Shapella 升级之后，客户端团队计划在主网激活 Shapella 升级。在第 157 次 All Core Devs 执行层会议期间，开发者们很快就 4 月 12 日这个时间达成共识。
+
+  
+
+
+此次升级紧随 The Merge，使得验证者可以把他们的押金从信标链提取回执行层。它还给执行层和共识层引入新功能，请看下文。
+
+  
+
+
+**升级规范**
+
+  
+
+
+Shapella 升级结合了对执行层 ( 上海升级 ) 和共识层 (Capella) 的修改。用于执行层和共识层通信的 Engine API 也在 Shapella 升级里有修改。
+
+  
+
+
+**上海升级**
+
+  
+
+
+在上海升级里纳入的执行层的修改可以在这里找到。作为参考，内容如下：
+
+  
+
+
+* EIP-3651: Warm COINBASE ( 降低访问 COINBASE 地址的 gas 开销 )
+* EIP-3855: PUSH0 instruction ( 新增操作码 `PUSH0)
+* EIP-3860: Limit and meter initcode ( 对 initcode 的大小设限并引入 gas 计量 )
+* EIP-4895: Beacon chain push withdrawals as operations ( 信标链推式提款作为系统操作 )
+* EIP-6049: Deprecate SELFDESTRUCT ( 停用 SELFDESTRUCT)
+
+  
+
+
+请注意，EIP-6049 只是一个操作码弃用警告。客户端团队预计 SELFDESTRUCT 语义将在未来的网络升级中进行修改，但该操作码的行为在上海升级中保持不变。
+
+  
+
+
+此外，上海升级的全套修改现在可以在 以太坊执行层规范 (EELS) 中查看，它是用于执行层的新 Python 参考实现。
+
+  
+
+
+**Capella 升级**
+
+  
+
+
+Capella 升级对共识层的修改详情在 capella 目录 的 v1.3.0-rc.3 规范里。README 清单中列出了完整的更改集。从高层次来讲，这次升级引入了：
+
+  
+
+
+* 验证者的完整和部分提款
+* `BLSToExecutionChange` 消息，它允许使用 `BLS_WITHDRAWAL_PREFIX` 的验证者把提款更新到 `ETH1_ADDRESS_WITHDRAWAL_PREFIX`，这是提款的前提。
+* 分开的状态和区块历史数据累加器，取代原来的单个的历史数据根
+
+我们鼓励质押者都去阅读《提款 FAQ》，以了解更多关于验证者应该如何准备 Capella 的资讯。
+
+  
+
+
+  
+**Engine API**
+
+  
+
+
+对 Engine API 的修改可以在 execution-apis repository 的 shanghai.md 文档里找到。简而言之，引入了 WithdrawalV1 结构，并添加了多个相关结构和方法。自 Merge 以来对执行层 API 的更改已经打包在仓库的最新版本中。
+
+  
+
+
+**客户端版本**
+
+  
+
+
+以下的客户端版本支持在以太坊主网的 Shanghai & Capella 升级。此前的 Shapella 升级客户端版本仅支持测试网的部署，与主网升级并不兼容。
+
+  
+
+
+当在选择运行哪个客户端时，验证者应该特别注意在执行层和共识层运行多数客户端的风险。关于这些风险以及他们的后果可以阅读这篇文章了解更多。而如果想预估当前执行层和共识层客户端的分布，以及了解如何从一个客户端切换至另一个客户端，则可以阅读这篇文章。
+
+  
+
+
+### ****共识层主网升级版本****
+
+  
+
+
+  
+
+
+  
+
+
+
+
+| 客户端 | 版本 | 链接 |
+| --- | --- | --- |
+| Lighthouse | v4.0.1 | https://github.com/sigp/lighthouse/releases/tag/v4.0.1 |
+| Lodestar | v1.7.0 | https://github.com/ChainSafe/lodestar/releases/tag/v1.7.0 |
+| Nimbus | v23.3.2 | https://github.com/status-im/nimbus-eth2/releases/tag/v23.3.2 |
+| Prysm | v4.0.0 | https://github.com/prysmaticlabs/prysm/releases/tag/v4.0.0 |
+| Teku | v23.3.1 | https://github.com/ConsenSys/teku/releases/tag/23.3.1 |
+
+  
+
+
+注意：运行一个验证者时，共识层信标节点和验证者客户端都必须更新至最新版本。
+
+  
+
+
+### ****执行层主网升级版本****
+
+  
+
+
+  
+
+
+  
+
+
+
+
+| 客户端 | 版本 | 链接 |
+| --- | --- | --- |
+| Besu | v23.1.2 | https://github.com/hyperledger/besu/releases/tag/23.1.2 |
+| Erigon | v2.42.0 | https://github.com/ledgerwatch/erigon/releases/tag/v2.42.0 |
+| go-ethereum (geth) | v1.11.5 | https://github.com/ethereum/go-ethereum/releases/tag/v1.11.5 |
+| Nethermind | v1.17.3 | https://github.com/NethermindEth/nethermind/releases/tag/1.17.3 |
+
+     
+
+
+  
+
+
+注意：在 Erigon v2.41.0 中发现一个问题。此版本不适合 Shapella 升级。Erigon 用户应该升级到 v2.42.0。
+
+  
+
+
+**FAQ**
+
+  
+
+
+### ****作为一个以太坊用户或者 ETH 持有者，我需要做什么？****
+
+  
+
+
+简单来说，没有。
+
+  
+
+
+如果你使用交易所、数字钱包或硬件钱包，你不需要做任何事情，除非你的交易所或钱包提供商通知你采取额外的措施。
+
+  
+
+
+如果你运行自己的以太坊节点，请参阅下文。
+
+### 
+
+### ****作为一个非质押的节点运营商，我需要做什么？****
+
+为了与主网的 Shapella 升级兼容，请将你的节点更新到上文表中所列的以太坊客户端版本。
+
+  
+
+
+### ****作为一个质押者，我需要做什么？****
+
+  
+
+
+为了与主网的 Shapella 升级兼容，请将你的节点更新到上文表中所列的以太坊客户端版本。
+
+  
+
+
+我们建议你阅读《提款 FAQ》。
+
+  
+
+
+### ****如果我是一个验证者或节点运行者，且不参加这次升级，会怎么样？****
+
+  
+
+
+  
+
+
+如果你使用的以太坊客户端没有更新到上面列出的最新版本，一旦升级发生，你的客户端将同步到分叉前的区块链上。
+
+  
+
+
+你将被困在一个不兼容的链上，遵循旧的规则，无法发送 ETH 或在 Shapella 升级后的以太坊网络上操作。
+
+  
+
+
+### ****作为一个应用程序或工具开发者，我应该怎么做？****
+
+  
+
+
+Shapella 不会为智能合约引入不兼容的修改。应用程序和工具开发人员应审阅升级修改，以确保任何问题都解决了，或了解如何使用新引入的功能。
+
+  
+
+
+也就是说，应用程序开发者应该意识到在上海升级中，SELFDESTRUCT 操作码已被弃用。虽然它的语义没有在这次网络升级中进行更改，但在后续的升级中可能会更改。更多信息请参考 EIP-6049。
+
+  
+
+
+### ****为什么叫 "Shapella"？****
+
+  
+
+
+执行层的升级按照 Devcon 举办城市来起名，而共识层的升级则根据恒星名字来取。"Shapella" 是上海 (Devcon 2 的举办地 ) 和 Capella (Auriga 北方星座中最亮的星 ) 的结合。
+
+  
+
+
+### **哪里可以观看 Shapella 升级直播？**
+
+  
+
+
+EthStaker 和 Ethereum Cat Herders 会组织 Shapella 升级观看派对，在升级差不多开始前直播。你可以在这里收听。
+
+  
+
+
+
+
+---
+
+  
+
+
+感谢所有为 Shapella 升级做出贡献的人，感谢所有新旧质押者，感谢他们帮助保护了仍处于早期阶段的 PoS 以太坊!
+
+  
+
+
+
+
+---
+
+  
+
+
+封面图片由 Yiran Ding 原创，由 Tomo Saito 改编。
+
+  
+
+
+点击“阅读原文”获取文章内部链接！
+
+原文链接：https://blog.ethereum.org/2023/03/28/shapella-mainnet-announcement
+
+  
+
+
+ECN 的翻译、编辑工作旨在为以太坊中文社区传递优质资讯和学习资源，文章版权归原作者所有，转载须注明原文出处以及 ETH 中文。若需长期转载，请联系 eth@ecn.co 进行授权。
+
+![](https://img.foresightnews.pro/202303/f49c15233c5d398f44865e2226ed8a3e.png?x-oss-process=style/scale70)

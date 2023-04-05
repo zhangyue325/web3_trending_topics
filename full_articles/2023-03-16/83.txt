@@ -1,0 +1,104 @@
+隐私转账协议 MantaPay 已正式上线 Calamari。为感谢 KMA 持有者的支持，KMA 持有者激励计划 Giant Squid 已正式上线。活动从 2023 年 3 月 16 日 0:00 - 3 月 31 日（UTC+8）。  
+活动期间，满足任意 10 天 KMA 平均持仓要求的用户，可进入 Galxe.com，切换至 BNB 链，验证 KMA 平均持仓量，领取代表身份的 NFT 奖励。***网址：***
+
+***https://galxe.com/calamarinetwork/campaign/GCTmWUg4C4*****持有 NFT 可获取以下权益：**
+
+1. 潜在的空投；
+
+2. 受邀参加线下活动，如 ETH Denver zkDay 活动；
+
+3. 持有更稀有的 NFT，可以加入专属 Telegram 群组；
+
+4. 更多未来权益。
+
+  
+
+
+NFT 共四种，按稀有度排序，从高到低分别为：OG Senior、OG Member、OG Junior、OG Recruit。每个地址只能领取一个 NFT。每个 NFT 领取具体要求如下：**OG Senior**![](https://img.foresightnews.pro/202303/e6f450291ccdbc12ad6a1f32a86e9362.png?x-oss-process=style/scale70)
+
+1. 10 天 KMA 平均持有超过 3,000,000 枚。
+
+2. 加入 $KMA Giant Squid Telegram 群组。
+
+  
+**OG Member**![](https://img.foresightnews.pro/202303/2d68d76ed5c3c014d97e0e4a3e80e012.png?x-oss-process=style/scale70)
+
+1. 10 天 KMA 平均持有 1,000,000 KMA ~ 3,000,000 枚。
+
+2. 活动期间使用 MantaPay 完成一笔 Public to Private 交易。
+
+3. 加入 $KMA Giant Squid Telegram 群组。
+
+  
+**OG Junior**![](https://img.foresightnews.pro/202303/601cdedc5c9523edc68909a36c71b3d1.png?x-oss-process=style/scale70)
+
+1. 10 天 KMA 平均持有 500,000 ~1,000,000 枚。
+
+2. 活动期间使用 MantaPay 完成一笔 Public to Private 交易。
+
+3. 加入 Manta ＆ Calamari Network Discord。
+
+  
+**OG Recruit**![](https://img.foresightnews.pro/202303/d064598fea780175f61e2b0024f1bbbf.png?x-oss-process=style/scale70)
+
+1. 10 天 KMA 平均持有 100,000 KMA ~500,000 枚。
+
+2. 活动期间使用 MantaPay 完成一笔隐私交易。
+
+3. 加入 Manta ＆ Calamari Network Discord。
+
+4. 关注 Calamari Network 和 Manta Network Twitter。
+
+  
+
+
+需注意的是，每个钱包地址仅可申领一个 Giant Squid NFT；计算 KMA 持有量时，采用每日平均余额机制，追溯前 10 天数据计算每日平均余额。将快照每日 UTC+8 时间上午 8:00 余额作为当天余额，API 快照 10 次除以 10，结果将是您的最终日平均余额。领取 NFT 所需的隐私交易，需在活动期间进行。![](https://img.foresightnews.pro/202303/211795f6a37f810ef3b3cf8f74ce0edf.png?x-oss-process=style/scale70)
+
+**Calamari 与 KMA Token**Calamari Network 是先行网，也是 Manta Network 的实验场。Manta Network 是主网。Manta Network 团队会先将功能或产品部署在 Calamari Network，待运行稳定后，会将该功能或产品部署至主网 Manta Network。团队利用 ZK 技术，原创出隐私资产类型 zkAssets、隐私地址协议 zkAddress，以及隐私转账协议 MantaPay，目前皆以部署至 Calamari。开发者可以基于 Calamari Network，开发链上原生隐私 dApp。用户可以用跨链桥，将 ERC-20 等同质化代币，和 ERC-721、1155 等非同质化代币桥接到 Calamari，将资产和地址从公开状态，变为隐私状态，将资产、地址、交易状态等信息隐私化。Calamari 已上线 Token KMA，且已上线 KMA Staking 质押功能，用户可通过质押 KMA 获得 APY 收益（年化收益）。KMA 在 Calamari 上有多个应用场景：1/ Calamari 上每一笔交易（包括 Calamari 上的 MantaPay）都会以 $KMA 的形式收取手续费（Gas 费用）。其中，手续费会分为三部分：
+
+45% 销毁；
+
+45% 进入国库，以支持未来的插槽拍卖和社区开支，如发展基金；
+
+10% 分配给该交易的 collator 节点；
+
+2/ 作为交易媒介。
+
+3/ 获得 Calamari 治理权。Calamari 的链上治理机制决定了未来 $KMA 可获得投票权，用于提案，选举理事会成员等。
+
+4/ 在 Calamari 上使用 MantaPay 进行公开资产与隐私资产的相互转换，暂时不收取除 gas 费用以外的额外费用。未来链上治理可以决定对这些交易收取一定的“隐私费用”来让 $KMA 质押者进一步受益。
+
+5/ 为了进一步去中心化，在 $KMA 质押上线前 3 年里，每年将新增发行 3%$KMA，奖励给 $KMA 质押者。同时，国库将定期销毁 $KMA，以抵消该部分通胀的 $KMA，使 $KMA 变为严格意义上的通缩。
+
+3 年后，Calamari 社区将对奖励进行重新决议。KMA Staking 质押入口：https://app.manta.network/calamari/stakeStart staking KMA here:https://app.manta.network/calamari/stake**如何领取 NFT ？（以 OG member 为例）**1. 进入 Galxe.com，选择 BNB 链，进入 Giant Squid。![](https://img.foresightnews.pro/202303/f5093bb8785f6bc84381ad93989bd182.png?x-oss-process=style/scale70)
+
+2. 转到活动页面，根据规则操作。![](https://img.foresightnews.pro/202303/99ffdab1eeb5dbb3037e246bf83e667b.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/2b3475b9de273abe1e7634d039e68723.png?x-oss-process=style/scale70)
+
+3. 在 Giant Squid 活动页面连接 Polkadot 钱包。![](https://img.foresightnews.pro/202303/c90bf84f5b844f8c872920246c0b1dcb.png?x-oss-process=style/scale70)
+
+4. 验证 KMA 持有量。  
+![](https://img.foresightnews.pro/202303/1bbd501680ece25f4ec6a89ee901db55.png?x-oss-process=style/scale70)
+
+5. 完成 MantaPay Public to Private 交易。![](https://img.foresightnews.pro/202303/510dbb940fa230c108f59220ded6cd99.png?x-oss-process=style/scale70)
+
+6. 提交 BNB 链地址。请确保你提供的 BNB 链地址与你在 Galxe.com 上使用的是同一个地址。![](https://img.foresightnews.pro/202303/31990e250170336311a9f74a63da6384.png?x-oss-process=style/scale70)
+
+7. 回到 Galxe.com Giant Squid 活动页面，加入 Telegram 或 Discord 频道。8. 申领 NFT。**关于 Manta Network**
+
+Manta Network 是基于 ZK 的 Layer1 公链，拥有最高的 Prover 效率和最去中心化的可信设置，致力于为 Web3 带来可编程隐私。核心产品和技术组件，包括 zkNFTs 和 MantaPay 等等，为用户提供友好的、可访问的、强大 ZK 应用。 
+
+项目创始团队履历丰富，来自哈佛大学、麻省理工学院和 Algorand 等著名机构。团队自 2019 年在麻省理工学院数字货币倡议下，以及新加坡金融管理局跨境支付研究项目中，开始了对零知识证明的研究。
+
+Manta Network 已获得多家顶级 Web3 基金的投资，包括 Binance Labs 和 Polychain Capital，且通过参与最好的 Web3 加速器，包括 Alliance DAO 和 Berkeley Blockchain Xcelerator，实现发展。Manta Network 已准备作为下一代 Web3 用户的入口，开创以隐私为重点的 Web3 应用新篇章。
+
+关注官方频道了解有关 Manta/Calamari 的更多信息：Website:https://manta.network/  
+Github:https://github.com/Manta-Network  
+Twitter:https://twitter.com/MantaNetwork  
+Medium:https://mantanetwork.medium.co  
+Telegram:https://t.me/mantanetwork  
+Discord：https://discord.gg/ZtSuSKRy8X  
+Telegram 中文：https://t.me/mantanetwork\_zh  
+Twitter 中文：https://twitter.com/manta\_china  
+![](https://img.foresightnews.pro/202303/685ff7ccaf6747b2758eb353fdf487cb.png?x-oss-process=style/scale70)

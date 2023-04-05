@@ -1,0 +1,52 @@
+Mar. 2023, Daniel
+
+数据源： [Arbitrum Ecosystem Overview](https://www.footprint.network/@Shelly/Arbitrum-Ecosystem-Overview?chain=Arbitrum&date_filter=past6months~)
+
+虽然 L2 的甜蜜点一直是 DeFi，但 Arbitrum 在 2022 年 8 月推出 Arbitrum Nova 时主动将其扩展到 GameFi 之外。
+
+现在，这个最大的 L2 协议已经成为头条新闻，因为它与 Covalent 合作，并在交易方面超过了以太坊。然而，在该协议的游戏开发者和 GameFi 项目中还酝酿着其他不太公开的发展。以其游戏生态系统主导 Arbitrum GameFi 的 TreasureDAO，在一年内从 2 个游戏扩展到 6 个，在此过程中不断壮大其社区。当我们看这个链条上的 web3 游戏数据时，Artbitrum 相对于其他 L2 的独特优势也已经凸显出来。
+
+![Daily Gamers Trend](https://img.foresightnews.pro/202303/f68d9215b44170572d9e3ef485a6040d.jpg?x-oss-process=style/scale70)
+
+为了讨论 Arbitrum 上的 GameFi，Footprint Analytics 与 Web3 学院 DAO 的 Juanzie、Tales of Ellerea 的营销负责人 YellowPanther 以及 HandleFi 的 JD 举行了一个空间。
+
+Arbitrum 对游戏开发者的有利点是什么？
+-----------------------
+
+Juanzie 说，与 Optimism 相比，Arbitrum 有几个优势。
+
+“Arbuitrum 的伟大之处在于对智能合约的支持。他说：”Optimism 有更快的处理时间，Arbitrum 有点落后，但这是因为它使用主网来做交易上的一切，而 Optimism 不是这样。
+
+“但正因为如此，对于开发者来说，它使用了更多的智能合约。基于此，你可以使用智能合约以外的更多能力，这是你有更多游戏跳到 Arbiturm 作为第二层的原因之一。”
+
+虽然几个月前 Optimism 短暂地超过了 Arbitrum 的 TVL，但后者后来又重新获得了领先优势。
+
+该协议在区块链领域内以产品为主导的增长是独一无二的，JD 说。
+
+“产品本身已经说明了问题。他说：”它只是一个真正优质的地方，可以扩展和建立一个 Defi 应用程序，而且它是有机地发生的。”而当你看到世界上的 Avalanches、Solanas 和 BSCs 时，他们不得不将他们的整个战略依赖于营销和带来机构流动性来推动项目发展。
+
+![(TVL) Arbitrum vs. Optimism](https://img.foresightnews.pro/202303/7992f0241caaa83a0ca058217282e988.jpg?x-oss-process=style/scale70)
+
+Optimism 的 TVL 急剧增加是由于引入了任务作为协议的第二个空投。然而，一旦 Optimism 放弃了任务，交易量一夜之间就下降了。现在，也有关于 Arbitrum 空投的讨论。它是否会遭受与 Optimism 相同的命运？
+
+Junazie 说这只是市场的一部分。”只要空投，炒作，人们想买，想卖，想获利，那么你就会有交易量的下降。因此，是的，我认为同样的事情会发生，尽管没有达到 Arbitrum 更大的程度”。
+
+Web3 游戏开发者可以从 Treasure DAO 中学到什么？
+---------------------------------
+
+Treasure DAO 是一个去中心化的 DeFi/NFT 生态系统，为 Arbitrum 上的元古代项目而建立。他们都使用一个代币，即 Magic，围绕这个代币建立他们的游戏性和传说。到目前为止，有 6 个游戏。
+
+来自 Treasure DAO 的社区的很大一部分都去了 Arbitrum，因为它的大部分游戏都托管在该链上。
+
+“在游戏方面，这是我见过的最强大的社区之一，”YellowPanther 说。”虽然 GameFi 有很多 DeFi 元素，但有越来越多的游戏更像游戏。它的目标是成为 Web3 的任天堂，我个人认为这个社区是超级强大的。”
+
+在短短一年时间里，Treasure 从一个只有 2 个游戏的小社区变成了 Arbitrum 上最大的游戏生态系统。一个令人印象深刻的成就。
+
+![Total Users by Game - Arbitrum](https://img.foresightnews.pro/202303/763df284a2e4f648066c8f7997b90c44.jpg?x-oss-process=style/scale70)
+
+“Treasure 的一个有趣之处在于，他们是如何垂直整合拥有 Gamefi 生态系统所需的所有元素的，”JD 说。”在基础层，你有魔法代币的流动性。围绕这一点，你有一个 NFT 市场，同样以该代币计价。然后，在这之上，你可以参与其他游戏卡，然后这些游戏正在推出和启动。”
+
+虽然有些游戏开始时很不顺利，但随着生态系统的成熟，它们可以说正在改善。”当像 Arbitrum 这样的新 L2 上没有 GameFi 基础设施时，其中一个挑战是你必须从头开始建立这些 GameFi 元素，而 Treasure DAO 已经做到了。”
+
+其中一个关键的启示是像 Treasure 这样的其他项目的潜力，这些项目与游戏无关，而是旨在为一个链上的所有游戏建立一个生态系统。
+

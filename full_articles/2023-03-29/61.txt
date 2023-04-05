@@ -1,0 +1,102 @@
+代币化的现实世界资产可能是 DeFi 的下一个引擎。
+
+什么是 RWA？
+--------
+
+RWA，Real World Asset，真实世界资产。目前最流行的 RWA 主要有以下几类：现金（美元）、金属（金、银等）、房地产、债券（美国国债居多）、保险、消费品、信用票据、特许权使用费等。
+
+RWA 的资产规模远超 Crypto Native Asset。例如，固定收益债券市场规模约为 127 万亿美元，全球房地产总价值约为 362 万亿美元，黄金的市值约为 11 万亿美元，目前 Crypto Native Asset 的市值为 1.1 万亿，仅为黄金市值的 1/10。
+
+如果把这些 RWA 的一小部分放进 DeFi 领域，DeFi 的总规模将获得大幅提升。
+
+如何将 RWA 带进 DeFi？
+----------------
+
+通常使用智能合约来创建代表 RWA 的 Token，同时提供链下保证，即已发行的 Token 始终可赎回基础资产。
+
+RWA 在 DeFi 中有以下几种常见应用形式：
+
+**1、稳定币**：比如 USDT、USDC、BUSD 这些最头部的稳定币都属于 RWA，Tether、Circle、Paxos 这些发行公司通过维持经过审计的美元资产储备，铸造稳定币 Token 供区块链及 DeFi 协议使用；
+
+**2、合成资产**：合成资产也属于 RWA，比如通过合成资产的形式，将股票、商品等以挂钩的衍生品的形式进行链上交易。目前在合成资产领域发展最好的是 Synthetix，在 2021 年牛市巅峰期其协议中锁定了价值超过 30 亿美元的资产；
+
+**3、借贷协议**：RWA 在借贷协议中已经有较好的发展。借款人以 RWA 作为抵押品，DeFi 平台可以为借款人提供抵押借贷业务；也有一些并未抵押资产，仅凭借其品牌信誉的信用借贷业务。RWA 在 DeFi 借贷协议中的使用，为 DeFi 借贷协议的可持续发展和营收规模带来了非常重要的积极作用。
+
+RWA 赛道的发展现状和案例
+--------------
+
+RWA Tokenization 有助于扩大 DeFi 的市场规模，也有助于传统金融机构探索新的业务模式。头部的 DeFi 协议对 RWA Tokenization 有积极布局，一些传统金融机构对 RWA Tokenization 也很感兴趣。
+
+**MakerDAO：RWA 业务规模超过 6.8 亿美元，贡献超过 58% 的收入。**
+
+因为传统金融系统的收益率现在比 DeFi 协议的收益率高，例如美国国债的收益率约为 3.5%，而头部 DeFi 抵押借贷协议的收益率约为 2%，这给了 DeFi 协议获得可持续收入的机会。
+
+为了管理 RWA 业务，MakerDAO 设立了 RWA Foundation。根据抵押品类型的不同，可能设立不同的 Foundation，而且每个 SPV 还可以根据业务需求选择最合适的管理辖区 / 法律结构。其基本架构如下：
+
+![](https://img.foresightnews.pro/202303/5be9ee268d21d799216710ac0328cf79.png?x-oss-process=style/scale70)
+
+  
+
+
+MakerDAO 针对 RWA 的链下资产，在抵押借贷的业务逻辑上有些调整。主要是**清算部分不是通过链上公开拍卖执行清算，而是由第三方在链下强制执行**。实现新功能的智能合约主要包括：
+
+* `RwaLiquidationOracle`: 充当链下执行者的 liquidation beacon;
+* `RwaFlipper`: 在注销的情况下充当虚拟清算模块；
+* `RwaUrn`: 这有助于借入 DAI，交付到指定账户；
+* `RwaOutputConduit`和`RwaInputConduit`: 支付和偿还 DAI；
+* `RwaSpell`: 部署并激活新的抵押品类型；
+* `RwaToken`: 代表系统中的 RWA 抵押品；
+* `TellSpell`: 允许 MakerDAO 治理启动清算程序；
+* `CureSpell`: 允许 MakerDAO 治理取消清算程序；
+* `CullSpell`: 允许 MakerDAO 治理注销正在清算的贷款。
+MakerDAO 在他们认为必要时，通过tell（）调用RwaLiquidationOracle。这将开始倒计时，修复期结束后，预言机将开始报告该头寸正在清算中。如果触发清算的原因得到补救，则在补救之后 MakerDAO 治理可以通过调用Cure（），恢复正常状态；如果 MakerDAO 治理已触发清算且补救期已过且未被调用时，链下执行者（如受托人等）可以通过调用good（）来报告该头寸处于清算状态。如果在清算过程结束时头寸上仍有债务剩余，并且 MakerDAO 认为债务不会被清偿，它可以通过调用触发注销cull()。注销通过将系统的抵押品价值设置为零来进行，这将导致头寸通过bite()等进行链上清算。与现有抵押品类型的清算模块不同，专门的清算模块RwaFlipper不会尝试出售标的抵押品，而只是通过允许创建系统债务来标记系统资产负债表上的损失。
+
+MakerDAO 在采用 RWA 方面有很大进展。目前，MakerDAO 拥有价值超过 6.8 亿美元的 RWA 支持的去中心化稳定币 DAI。
+
+![](https://img.foresightnews.pro/202303/f7b54a13187cadd76f9d042ed21f2067.png?x-oss-process=style/scale70)
+
+  
+
+
+MakerDAO 在 RWA 方面，将其 6.8 亿美元的 RWA 拆解分析，有三个具体案例：
+
+1、MakerDAO 的大部分 RWA 抵押品（约 5 亿美元）是以由 Monetalis 管理的美国国债形式出现（MIP65）。这些资产为 MakerDAO 协议提供了闲置 USDC 抵押品的收益来源；
+
+2、MakerDAO 还推出了一个由费城一家名为 Huntingdon Walley Bank（HVB）的商业银行提供价值 1 亿美元贷款支持的金库。HVB 使用 MakerDAO 来支持其现有业务的增长以及围绕房地产和其他相关垂直领域的投资，并成为美国监管金融机构与去中心化数字货币之间的首个商业贷款的案例；
+
+3、在一个单独的金库中，法国兴业银行从 MakerDAO 借了 700 万美元，其头寸由价值 4000 万欧元的 AAA 级债券作为 OFH 代币的支持。
+
+通过引入 RWA 作为抵押品，MakerDAO 能够显著增加其协议收入。截至目前，MakerDAO 的收入有超过 58% 来源于 RWA 业务。
+
+![](https://img.foresightnews.pro/202303/c148de73da022f554c4d1cc8ba909d82.png?x-oss-process=style/scale70)
+
+Centrifuge 是通过 NFT 的形式将现实世界资产带入 Crypto 生态系统。Centrifuge 协议的 dApp 叫 Tinlake，Tinlake 的产品逻辑主要如下：
+
+1、资产发起人使用 Tinlake 桥接现实世界的资产。该资产被转换为 NFT，其中包括相关的法律文件；
+
+2、资产发起人可以使用代币化的现实世界资产 NFT 作为基础抵押品来创建资产池；
+
+3、创建池时，会创建两个 Token——DROP Token 和 TIN Token；
+
+4 投资者可以根据个人风险偏好决定向哪个池提供资金，购买 DROP 或 TIN Token；
+
+5、DROP Token 持有者有保证收益，由费用函数决定，每个池有固定利息，每秒复利；
+
+6、另一方面，TIN Token 持有者没有保证收益。他们收到基于池投资回报的可变收益率，这可能高于持有 DROP Token 的回报；
+
+7、TIN Token 持有人承担更高的风险，因为如果借款人违约，他们将承担第一笔损失。
+
+除了 MakerDAO 和 Centrifuge 外，还有一些 DeFi 协议和传统金融机构也在 RWA 方面有些探索：
+
+![](https://img.foresightnews.pro/202303/04dbbb34564d3b7eb4f37b61d214fad7.png?x-oss-process=style/scale70)
+
+  
+
+
+RWA 的机会和风险
+----------
+
+RWA 的信任假设：由于 Tokenization 的 RWA 毕竟是在链下，无法通过智能合约强制执行清算处理，还依赖于传统金融机构的背书，这些 RWA 的信任属性可能永远无法与 Crypto Native Asset 达到同等级别。同时，由于 RWA 信任假设的存在，完全无许可的 DeFi 协议也很难支持 RWA，所以目前的 RWA Tokenization 的项目，在 RWA 资产的处理上，一般还是有中心化主体的作用和影响。
+
+RWA 的潜在机会：STO（Security Token Offerings) 历来被视为 RWA 的有限实施。由于很多 STO 通常是仅在许可平台上可用的利基证券，因此它们的采用尚未达到与公链上的 RWA 相同的水平。目前的 STO 是区块链行业里为数不多被监管认可的资产代币化方案，STO 在拥抱监管方面的发展路径，可能 RWA 也可以尝试探索。
+

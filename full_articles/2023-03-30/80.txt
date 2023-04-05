@@ -1,0 +1,79 @@
+### Next.ID x Unstoppable Domains — Domain Integration with Web5.bio
+
+![](https://img.foresightnews.pro/202303/be6e6ce803ce4db339480e3fc2cb896b?x-oss-process=style/scale70)### An image conveys a multitude of messages
+
+Imagine the following scenarios:
+
+1. You are a Web3 startup founder; a well-known freelancer reaches out to you on Twitter and his portfolio impresses you upon reviewing his work accomplishments. You decide to engage him for his services and he sends you an ENS domain for payment. Because of the prevalence of fake accounts on Twitter, you wish to do a background check to ensure the legitimacy of the Twitter profile, and that the ENS domain actually belongs to the freelancer.
+2. You would like to buy a specific domain name that is currently owned by someone else, but you have no idea how to reach out to the owner.
+3. You are a huge fan of a particular influencer OR you support a particular profile for a certain cause, and you would like to:  
+- Make an anonymous donation to him/her for whatever reason  
+- Follow all of their Web3 & Web2 social accounts
+You may now do so with Web5.bio — An identity search engine that provides visualization of your Web3 & Web2 IDs, powered by Next.ID’s RelationService. This is a workable example of how users can search for Web3 domain connections.
+
+![](https://img.foresightnews.pro/202303/7106f7d24b28d9a32cf763f647229ff0?x-oss-process=style/scale70)Web5.bio Main PageUsing Web5.bio, users have been able to query 2.79M ENS domains, 115k Lens handles, 11k Farcaster handles, and 21.4k dotbit (.bit) domains.
+
+The recent collaboration with Unstoppable Domains have further enhanced the database query to over 3.3 million UD domains, alongside other underlying Web3/Web2 identity connections.
+
+If you are a developer or founder who might benefit from Next.ID’s services, feel free to reach out to us on [Twitter](https://twitter.com/NextDotID) or [Telegram](https://t.me/NextDotIDofficial)!
+
+### How will this partnership benefit Unstoppable Domains users?
+
+Next.ID’s RelationService — 1 of 4 existing Next.ID services have now integrated UD domains into its database of IDs, offering a more enriched identity graph for dApp developers. This is indicated as shown in [Web5.bio](https://web5.bio/).
+
+![](https://img.foresightnews.pro/202303/654b9a3c7e049eeae43a0bdd38d9376f?x-oss-process=style/scale70)Web5.bio Search Bar![](https://img.foresightnews.pro/202303/1316e4decf4691c3da5b1e2df4578b8d?x-oss-process=style/scale70)Web5.bio Identity GraphRelationService is an aggregation of existing DIDs, identity graph queries, and IDs bound to and in parallel to Next.ID. It opens up a range of possibilities for integration with external protocols and creates greater Web3 native social use cases. Developers can access the prototype of the RelationService server [here](http://web5.bio/).
+
+More details to be revealed in Phase 2.
+
+### Promotional Rewards
+
+In the meantime, be sure to get yourself your favorite domain name at Unstoppable Domains at a discount before it gets taken: <https://unstoppabledomains.com/?ref=0cad24b8e7aa47b>
+
+10 lucky Next.ID community members will stand a chance to win $100 worth of UD credits. To enter, follow the instructions below:
+
+1. Register UD domain with [affiliate link](https://unstoppabledomains.com/?ref=0cad24b8e7aa47b)  
+2. Follow [@nextdotid](https://twitter.com/NextDotID) & [@unstoppableweb](https://twitter.com/unstoppableweb)  
+3. Like and retweet <tweet link>  
+4. Leave a comment with a screenshot of your domain search using [Web5.bio](https://web5.bio/)  
+5. All entries should be submitted before 12th April 2023 (GMT+8 00:00 AM)
+
+Happy claiming!
+
+### About Next.ID
+
+Next.ID is a decentralized identity protocol that integrates Web2 and Web3 identities, offering a comprehensive and verifiable identity management and database for open-source developers and projects to innovate and build dApps on.
+
+Next.ID creates an identity infrastructure that securely aggregates and authenticates users’ identities into a Decentralized Identifier (DID) called Avatar, making it the primary touch point for interfacing with any app or dApp.
+
+Next.ID’s identity Avatars exist independently from Web2 and Web3, using a blockchain-like model to retain data integrity. This allows Next.ID to connect to all Web2 and Web3 platforms, aggregating all identities in a fully-agnostic way, unifying them into one single DID.
+
+### About Unstoppable Domains
+
+Your Unstoppable domain is your identity for Web3. Use your Unstoppable Domain to build and verify your digital identity, log in seamlessly to applications, games and metaverses, make payments easier by simplifying lengthy crypto wallet addresses, and create and host websites that you fully own.
+
+Unstoppable Domains are minted on the blockchain with zero gas fees. Best of all, once you buy and claim a Web3 domain, it’s yours forever — no renewal fees.
+
+### Links for Next.ID
+
+Official Website: <https://next.id/>  
+Twitter: <https://twitter.com/NextDotID>  
+Telegram: <https://t.me/NextDotIDofficial>  
+Mirror: <https://mirror.xyz/nextdotid.eth>  
+Medium: <https://medium.com/@Next.ID>  
+Docs: <https://docs.next.id/>  
+Notion: <https://www.notion.so/nextid/Next-ID-Home-0fb4ba9200d6458ab6c4fa81778f6a7b>  
+YouTube: <https://www.youtube.com/channel/UC17C9xWKp0h_pZhfxbNtHsg>  
+Discord: <https://discord.com/invite/PhRCmFCskY>
+
+### Links for Unstoppable Domains
+
+Official Website: <https://unstoppabledomains.com/>  
+Twitter: <https://twitter.com/unstoppableweb>  
+Discord: <https://discord.com/invite/unstoppabledomains>  
+YouTube: <https://www.youtube.com/c/UnstoppableDomains/featured>  
+Tiktok: <https://www.tiktok.com/@unstoppableweb>  
+Instagram: <https://www.instagram.com/unstoppabledomains/>  
+Facebook: <https://www.facebook.com/unstoppableweb/>  
+LinkedIn: <https://www.linkedin.com/company/unstoppable-domains/>
+
+![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=5b0d77ba32ac)

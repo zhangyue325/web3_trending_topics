@@ -1,0 +1,47 @@
+微信不支持外部链接，可以点击文章底部的**阅读原文** ，方便阅读文中的链接，也可通过 https://daily.rebase.network/ 浏览每期日报内容。
+
+
+> **Polygon zkEVM 的整体架构和交易执行流程**
+> 
+> https://m.theblockbeats.info/news/36054  
+> 
+> 
+> **Collin**: 简要阐述 Polygon zkEVM 的整体架构和交易执行流程，并分析论述 Polygon zkEVM 是如何实现计算扩容并同时继承以太坊的安全性的。
+> 
+> 
+
+
+> **LangChain：LLM 模块化框架**
+> 
+> https://github.com/hwchase17/langchain  
+> 
+> 
+> **陈锡亮**: LangChain （和区块链无关）是一个针对 LLM 项目开发的框架。提供了针对 LLM 的抽象，支持包括 OpenAI 在内的不同 AI API，可以更模块化的进行 AI 项目开发
+> 
+> 
+
+
+> **Tango：创建产品教程浏览器插件**
+> 
+> https://tango.us  
+> 
+> 
+> **Sam**: 一个可以帮你快速建立 Web 产品演示文档的浏览器插件，可以将产品操作过程中的行为清晰记录下来，并生成图文文档以供用户查看
+> 
+> 
+
+
+
+---
+
+  
+
+
+**Web3 极客日报是为 Web3 时代的极客们准备的日常读物，由一群极客协作完成，每天更新，每期包含三个推荐内容，都来自极客们各自关注的领域。每晚由 Rebase 志愿者整理发出。若有意参与内容贡献，请添加微信 ljyxxzj 并注明日报贡献。**
+
+****网站:****https://rebase.network****
+
+****公众号:****rebase\_network****
+
+**![](https://img.foresightnews.pro/202303/ad193951832a510fc76b55b6ad7aa334.png?x-oss-process=style/scale70)**
+

@@ -1,8 +1,13 @@
-import wechatsogou
-import ddddocr
+import requests
+from bs4 import BeautifulSoup
 
-OCR = ddddocr.DdddOcr(ocr=True, show_ad=False, use_gpu=True, old=True,beta=True)
+url = "https://www.coindesk.com/"
+response = requests.get(url)
+soup = BeautifulSoup(response.text, "html.parser")
 
-ws_api = wechatsogou.WechatSogouAPI()
-data = ws_api.get_gzh_article_by_history("六维数据")
-print(data)
+# Find all article titles on the page
+article_titles = soup.find_all("h4", class_="heading")
+
+# Print out the titles
+for title in article_titles:
+    print(title.text.strip())

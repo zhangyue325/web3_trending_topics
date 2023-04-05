@@ -1,0 +1,67 @@
+ 
+
+ 
+
+如果在比特币上引入零知识证明，会发生什么？如果能够立即验证链的状态而无需下载区块数据或依赖第三方，这将如何改变比特币网络与用户的交互方式？最近公开的一个项目 ZeroSync 正在带头开发比特币证明系统，帮助构建具有隐私、互操作性和可扩展性等特性的比特币未来。
+
+ 
+
+### ZeroSync 团队背景和项目起源
+
+ 
+
+在 了解 ZeroSync 的实施方式和路线图之前，我们先来看看 ZeroSync 团队背景情况。ZeroSync 背后是一个名为 ZeroSync 协会（ZeroSync Association）的瑞士非营利组织，核心贡献者包括 Robin Linus、Lukas George、Tino Steffens、Max Gillett 和 Andrew Milson。
+
+ 
+
+2022 年 2 月份，Lukas George 在柏林技术大学发布一篇学士论文，实施了比特币 headers chain 的第一个基本证明并对其进行了基准测试，7 月份，Robin Linus 作为项目负责人加入，共同创立了 ZeroSync 以实现全部链证明，之后，曾开发 Giza 证明（Cairo VM 完全开源证明者和验证者）的 Max Gillett 加入团队，帮助用 Cairo 实施 STARK verifier（用于证明递归）。
+
+ 
+
+今年 2 月份，ZeroSync 完成递归链证明的基本原型，可验证除见证数据（数字签名）之外的所有比特币共识规则。目前 ZeroSync 已发展成为非营利组织协会 ZeroSync 协会。
+
+ 
+
+ZeroSync 的开发由深耕零知识隐私技术的 Geometry 和 StarkWare 赞助支持，其中，Geometry 负责人为 Aztec Network 前首席执行官 Tom Walton-Pocock，此前还获得对冲基金大鳄 Alan Howard 支持的孵化器 WebN Group 的孵化，Geometry 提供了一笔研究经费来赞助 ZeroSync 最初的开发。StarkWare 的开源计划 OnlyDust 也提供研究资助来赞助开发。
+
+ 
+
+ZeroSync 的贡献合作伙伴还包括比特币闪电网络研发商 Lighting Labs 和扩展技术研发团队 LambdaClass。
+
+ 
+
+### ZeroSync 是什么？
+
+ 
+
+ZeroSync 致力于在比特币区块链上实现简洁的 ZK 证明，使用 StarkWare 专有的零知识可扩展透明知识论证 (zk-STARK) 有效性证明来为比特币网络生成 ZK 证明（ZK-proofs），并能够即时验证区块链的最新状态，而无需下载区块数据或依赖第三方。为了实现比特币证明，ZeroSync 也使用由 StarkWare 创建的 Cairo 语言。
+
+ 
+
+ZeroSync 认为，目前证明数百 GB 的区块链历史数据在计算上非常昂贵，而压缩后产生的生成证明允许网络中任意数量的节点都可以使用它立即与网络同步。
+
+ 
+
+ZeroSync 表示可以将 UTXO 集的成本降低到几千兆字节，并且 ZKP 证明非常小，不需要任何共识改变或分叉来实现。比特币固有的 UTXO 模型可以让所有比特币节点在任意时刻就比特币的存在情况达成共识。
+
+ 
+
+### ZeroSync 如何实施链证明？
+
+ 
+
+ZeroSync 分三个阶段实施链证明，包括区块头链证明（headers chain proof）、假设有效链证明、全部链证明，其中 ZeroSync 已经完成了前两个原型。
+
+* 区块头链证明仅验证区块头、工作量证明和难度调整，在所有区块块头上使用 Merkle 树扩充区块头链，从而为所有块和交易提供简洁的包含证明。特点为轻量级且计算成本低。
+* 假设有效链证明验证除交易签名之外的所有比特币共识规则（假设所有见证数据「Witness Data，数字签名」都是有效的）。该证明使用 Utreexo 通过 UTXO 集承诺来扩充链。
+* 全部链证明（Full Chain Proof）验证所有比特币共识规则，包括签名信息。对应的，证明会相对昂贵一些。
+ 
+
+更重要的是，ZeroSync 还将发布开发者工具包，帮助开发者将零知识证明应用至他们的产品或服务中，具体的应用场景包括但不限于，比特币交易所可以可以向其客户披露偿付能力，而无需透露具体余额或交易历史信息等内容；证明可以转换或过滤区块链数据，并创建索引以高效查询；由于证明的可组合性可以更方便地扩展和定制；无信任或少信任跨链互操作性等；使用 Zero-Knowledge Contingent Payments 出售证明数据。
+
+ 
+
+综上，ZeroSync 不仅能够允许立即验证链的状态，还将有希望比特币在可扩展性、互操作性、隐私方面实现范式转变。当然，要想打造一个生产级比特币证明，也面临着安全强化以及证明性能等方面的挑战。
+
+ 
+

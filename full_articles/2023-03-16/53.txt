@@ -1,0 +1,108 @@
+北京时间 3 月 15 日凌晨，人工智能初创公司 OpenAI 正式公布最新一代人工智能语言模型 GPT-4。
+
+OpenAI 在当天的声明中称，GPT-4 的诞生，是 OpenAI 在放大深度学习方面的最新里程碑。
+
+那现在进化后的 GPT-4 ，又会带给我们哪些惊喜？
+
+![](https://img.foresightnews.pro/202303/d7a737970283f71549ac3ac66f796a4b.jpeg?x-oss-process=style/scale70)
+
+**进化后的 GPT-4，到底有多「炸」？**
+-----------------------
+
+根据 OpenAI 官方的介绍，GPT-4 是一个超大的多模态模型，**也就是说，它的输入可以是文字（上限 2.5 万字），还可以是图像。**
+
+其 AI 能力的恐怖之处体现在哪呢？比如下面这张照片。
+
+你问它下图中手套掉下去会怎样？
+
+它会回答：**它会掉到木板上，并且球会被弹飞。（这逻辑能力，你能想象吗）**
+
+![](https://img.foresightnews.pro/202303/c014683756258b771124f532695033e0.gif?x-oss-process=style/scale70)
+
+甚至只需要简单在纸上画一个网站的草稿图，他就可以识别该网站。
+
+![](https://img.foresightnews.pro/202303/4e8756c0b9d905203b5b27051bf984bb.gif?x-oss-process=style/scale70)
+
+拍一张照片上传给 GPT-4，它就可以立马生成网站的 HTML 代码！
+
+![](https://img.foresightnews.pro/202303/b59b5f78fd64cd2d220bfe6c913ef95d.gif?x-oss-process=style/scale70)
+
+可见，GPT-4 比 GPT-3.5，更可靠、更有创造力，能够处理更细微的指令。
+
+除此之外，ChatGPT-4 在内容准确性以及逻辑能力相比上一代也要提升不少，在统一律师考试（Uniform Bar Exam）中，GPT-4 成绩超过 90% 其它人，而 GPT-3.5 的成绩只超过 10% 的人，GPP-4 在 SAT Math 获得 700 分，GPT-3.5 的成绩为 590 分，提升了 110 分。在其它标准化考试中，GPT-4 的成绩也都比 GPT-3.5 优秀不少。
+
+![](https://img.foresightnews.pro/202303/a3cdd6f2d7a534ee97cad103c4ba939c.jpeg?x-oss-process=style/scale70)
+
+在官方演示中，GPT-4 几乎就只花了 1-2 秒的时间，识别了手绘网站图片，并根据要求实时生成了网页代码制作出了几乎与手绘版一样的网站。
+
+除了普通图片，**GPT-4 还能处理更复杂的图像信息，包括表格、考试题目截图、论文截图、漫画等，例如根据专业论文直接给出论文摘要和要点。**
+
+这么强，是不是你也感觉快要失业了![](https://img.foresightnews.pro/202303/b634be7ffd8ca3bf39206d3085675d0e.png?x-oss-process=style/scale70)。
+
+![](https://img.foresightnews.pro/202303/4e8c029913fa960c0bddd2d4e628c4f3.png?x-oss-process=style/scale70)
+
+*GPT-4 可对论文进行解读 来源：OpenAI 官网*
+
+  
+
+
+**用 ChatGPT4 审计智能合约会发生什么？**
+---------------------------
+
+我们曾在去年 12 月发了一篇 ChatGPT 的研究文章，看看它审计智能合约会发生什么，**扩展阅读：**[*风靡全网的「最强 AI」ChatGPT，能不能检测智能合约漏洞？*](http://mp.weixin.qq.com/s?__biz=Mzg2NTg2MzE5NA==&mid=2247484339&idx=1&sn=4386fcd9fe8c59758a09a3399354cd33&chksm=ce52d0c6f92559d0c48c3c5c66d408729afc29257ad69e2c6aaa41a5e3b0931e86f5878e97ac&scene=21#wechat_redirect)
+
+3 月 15 日，Coinbase 主管 Conor Grogan 在社交媒体发文称，**他已在 ChatGPT-4 中插入了一个实时以太坊智能合约，结果 AI 瞬间就找到了安全漏洞，甚至还展示了如何利用这些漏洞进行攻击。**
+
+Conor Grogan 表示，该合约的确在 2018 年被黑客利用漏洞攻击，此外他还透露也尝试了 Euler 的智能合约，但由于合约过长而无法被 chatGPT-4 处理，Conor Grogan 坦言 AI 最终将是智能合约更安全、更容易构建。
+
+![](https://img.foresightnews.pro/202303/4115893e006731da5c22c9136d4e4bed.jpeg?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/5ca94981c877166e36aa3d86f5bffc44.jpeg?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/dd204cc6c7eec2ff9fe446124022964b.png?x-oss-process=style/scale70)
+
+也有群友说，ChatGPT 似乎可以审计前两天 Euler Finance 约 2 亿美元被盗案的漏洞。相关事件阅读：[*复盘 Euler Finance 2 亿美元被盗案的来龙去脉，本次事件带给我们哪些启示？*](http://mp.weixin.qq.com/s?__biz=Mzg2NTg2MzE5NA==&mid=2247485261&idx=1&sn=aca90c6ca734ac9480d65f5c6cbbc435&chksm=ce52d438f9255d2e11be20b189b80e1902f2dae6da03dbe02c19afc8e9dc837c3e9db8de7efa&scene=21#wechat_redirect)
+
+**但是，真的有这么简单吗？**
+
+*![](https://img.foresightnews.pro/202303/bda87c2a118ceafcc56d3f0a7ec672b1.jpeg?x-oss-process=style/scale70)图源网络*
+
+其实与早期的 GPT 模型一样，GPT-4 仍然**存在一定的局限性。**
+
+OpenAI 官方称，它并不完全可靠，可能会出现推理错误 ，「GPT-4 缺乏对绝大多数数据切断后（2021 年 9 月）发生的事件的了解，并且无法从中吸取经验教训……**它有时会出现简单的推理错误，它会轻信用户明显的虚假陈述，有时它会像人类一样在难题上失败，例如在它生成的代码中引入安全漏洞。」**
+
+基于此，OpenAI 提醒，用户在使用语言模型时应格外小心，**最好辅助以人工审查、附加上下文、或完全避免在高风险情况下使用它。**
+
+**ChatGPT VS Beosin VaaS，审计合约谁更强？**
+-----------------------------------
+
+Beosin 的形式化验证专家说道：「ChatGPT 可以学习合约的复杂模式，从不同维度对合约进行理解分类，可帮助静态检测技术增强专家模式，增加可识别漏洞的种类，降低漏报率和误报率，可辅助面向属性的测试验证技术与领域属性库进行有效链接，通过自动合约识别与属性插入，实现全自动化的测试验证。**但是 ChatGPT 难以识别日新月异的特定领域深层逻辑漏洞，这种漏动通常是与项目需求紧密结合，需要领域安全专家作为裁判，不断归纳总结形成领域属性库对合约的安全性进行裁定。」**
+
+**我们也发现 ChatGPT 并不能解决所有的问题，比如很多漏洞还是需要审计专家严苛审计，或者使用形式化验证工具 Beosin VaaS 才能发现问题。**
+
+**![](https://img.foresightnews.pro/202303/fb0e8492a8dd035d5fc725b233c114c2.png?x-oss-process=style/scale70)**
+
+Beosin VaaS 作为一款全球领先的「一键式」智能合约形式化验证平台。检测准确率高达 97% 以上，精确定位风险代码位置并给出修改建议，自动检测智能合约 80 余项的常规安全漏洞及功能逻辑缺陷。Beosin VaaS 可自动发现智能合约中存在的常规漏洞、业务逻辑错误等安全问题，并给出专家的修复意见。同时支持 evm，wasm 的所有公链的智能合约的上百种常规安全漏洞和业务逻辑缺陷检测，能精确定位风险代码位置，帮助开发者提高智能合约的安全能力。
+
+*![](https://img.foresightnews.pro/202303/d63e27617a939a6c7fa8d252acb896e3.png?x-oss-process=style/scale70)**形式化验证工具 Beosin VaaS：https://vaas.beosin.com/*
+
+比如我们在 3 月 15 日预警的 Poolz Finance 的 Locked Deal 合约遭到攻击事件里，攻击者调用了 LockedDeal 合约中存在漏洞的函数 CreateMassPools，并且在参数\_StartAmount 中触发了整数溢出的漏洞，**我们测试了这个漏洞能通过 VaaS 工具检测出来，ChatGPT 却不行。**
+
+![](https://img.foresightnews.pro/202303/94391de2aeecc9bf9160be49bd37582c.png?x-oss-process=style/scale70)
+
+![](https://img.foresightnews.pro/202303/01ab234edda9d984b740b3aaf4a37ed8.jpeg?x-oss-process=style/scale70)
+
+**同时，k 值校验的深层逻辑问题 ChatGPT 也检测不出。**
+
+由于 Uniswap 这类 DEX 的实际的兑换转账操作在 Pair 的 swap() 函数中实现，为了防止攻击者越过 Router 合约直接调用 Pair 合约进行 swap() 转账，需要在 Pair 合约的 swap() 函数中进行 K 值校验，即 swap 之后 pair 中的 K 值仍然守恒。如果 K 值检验相关代码存在安全漏洞，那么攻击者能够以极少量的代币兑换出 Pair 中大部分代币。
+
+![](https://img.foresightnews.pro/202303/2e0a69888afa4ddf376cfa29b8bf6eff.png?x-oss-process=style/scale70)
+
+ *合约未检查 k 值的 cheapSwap 函数*
+
+我们通过对 K 值校验问题的研究，总结了该问题的特点，提取出了该问题的通用属性供 VaaS 工具使用。在此之后，我们通过节点信息的分析，提取了 ETH 和 BSC 上共 14W 个地址的合约信息。这些地址合约全部都是相似的业务合约，均可能存在 K 值校验问题。
+
+除了使用形式化验证工具 VaaS，Beosin 形式化验证专家还会将安全审计专家凝练出的安全问题利用严格的数理逻辑抽象成可重用的安全属性不变量，并交给混合机器引擎进行自动化检测、测试、验证，实践证明这些可重用的安全属性不变量可有效发现智能合约中新的微妙漏洞。**这些都是像 ChatGPT****这类****AI 无法代替的部分。**
+
+不过在美国《纽约时报》网站 3 月 8 日刊登题为《ChatGPT 的成功假象》的文章里，作者写到：「今天，我们在人工智能领域取得的所谓革命性进展的确让人既乐观又担忧。令人乐观是因为智慧是我们解决问题的手段；令人担忧是因为我们害怕最流行和最时髦的人工智能（机器学习）会像病毒毒株一样将有根本缺陷的语言和知识概念融入我们的技术，从而降低我们的科学水平并降低我们的道德规范。」
+

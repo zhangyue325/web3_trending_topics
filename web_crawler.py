@@ -67,10 +67,10 @@ def foresightnews_get_title_and_date(url):
     page = requests.get(url)
     soup = BeautifulSoup(page.content, "html.parser")
 
-    article_title = soup.find_all("div", {"class": "topic-body-title"})
-    article_title = str(article_title).split(">")[1].split("<")[0]
+    article_title = soup.find_all("div", {"class": "detail-top font_000000_24"})
+    article_title = str(article_title).split(">")[1].split("<")[0].strip()
 
-    post_date = soup.find_all("div", {"class": "topic-time"})
+    post_date = soup.find_all("div", {"class": "font_686E81_12"})
     post_date = str(post_date).split(">")[1].split("<")[0]
     post_date = datetime.strptime(post_date, '%Y-%m-%d %H:%M')
     return (article_title, post_date)
@@ -84,7 +84,7 @@ def get_foresightnews_article():
 
     err = 0
     while True:
-        if err > 300:
+        if err >300:
             print("loop breaked")
             break
         try:
@@ -109,7 +109,6 @@ def get_foresightnews_article():
             print(f"{url}, invalid url")
             err += 1
             web_id += 1
-            # break
     
     df = pd.read_csv(r"articles.csv")
     n = len(df)
@@ -224,4 +223,3 @@ def move_article_csv():
 
 if __name__ == "__main__":
     get_foresightnews_article()
-    # print(111)

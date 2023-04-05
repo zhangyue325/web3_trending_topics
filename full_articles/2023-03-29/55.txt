@@ -1,0 +1,175 @@
+一、行业动态总结
+
+![](https://img.foresightnews.pro/202303/3af23a455a16afc328480d511fb1c2a7.png?x-oss-process=style/scale70)上周加密市场在经历了一波历史涨幅后开始回温，一周内交易量下降近 50%，并且市场交易量主要还是集中在比特币市场，小币种鲜有行情，整体趋势同美股类似，周内走势跑输美股。截至撰稿比特币收于 27803.3，周内上涨 0.92%，振幅 1.87%；以太坊收于 1762.85，周内下跌 1.71%，振幅 1.63%。近几周市场看似欣欣向荣，但受困于市场整体资金有限并且持续净流出，资金只能向一个或几个板块轮动，上周比特币虽上涨近 1%，但整体 crypto 市值只有 0.3% 的涨幅，表示其他币种较为弱势，另一个反应 altcoin 市占率的指数为 Alcoin Index，这也是一个反应市场情绪的指标，指数越低代表比特币吸血越严重，目前月度的指数已经接近 2020 年 11 月的数值，为近两年多以来的最低。
+
+![](https://img.foresightnews.pro/202303/17e8bbf426012676083e644fe4da12d4.png?x-oss-process=style/scale70)反观美股，本周纳指表现优于标普 500，周内上涨 1.8%，周五的小阳线仍然收在了年线之上，而标普虽然本周也小涨 1.3%，但 K 线与多根均线粘连在一块，走势是相对来说弱势的。上周的焦点聚焦在了 FOMC 的议息会议，加息幅度 25bp 来到了 4.75% — 4.5%，符合市场预期，在会议声明中美联储指出仍将重点放在控制通胀上面，而对银行业的倒闭风波轻描淡写，在量化紧缩这件事上美联储将继续坚定执行减持美国国债、机构债务和 MBS 等等，也不会因银行倒闭所动，即使是这样的一个会议声明，也造成美股在下午 2 点之后的一阵反弹，然后回落等待鲍威尔 2:30 讲话。鲍威尔则是给了市场当头一棒，讲话后市场大跳水跌去了之前的涨幅。鲍威尔首先是较大篇幅说明联储和财政部还有保险公司有足够的工具和措施保证银行存款的安全性，除此之外鲍威尔用更大的篇幅说通胀才是他的主要目标，列举了 2 月份 CPI 和 PCE 数据反应通胀并没有回到美联储的目标区间。他的讲话配合点阵图的预期，也让市场对年底降息少了一分期盼。通过点阵图我们可以看到大多数美联储专家的预测坐落在 5%-5.25% 之间，但仍有近 40% 的专家认为会有更高幅度的加息，因此今年 5 月市场至少将迎来再一次 25bp 的加息幅度，这对银行业带来更大压力，因为他们债券资产的浮亏量巨大，而不明就里的存款户可能因为风吹草动就去挤兑，因此仍需谨慎看待后市。
+
+![](https://img.foresightnews.pro/202303/7b68aaddb7b51477696f7dd65e6b1db5.png?x-oss-process=style/scale70)行业数据
+
+1）稳定币
+
+根据 glassnode 数据，截止 2023 年 3 月 25 日，前五大稳定币（USDT、USDC、BUSD、DAI、TUSD）合计供应量约 1285.11 亿，较上周变动不大，小幅减少约 0.16 亿（-0.01%），币市资金流出趋于稳定。
+
+![](https://img.foresightnews.pro/202303/81bdd69639a7f3ca7517f72551c3b13a.png?x-oss-process=style/scale70)法币稳定币中，USDT 供应量持续大幅上涨。USDT 本周大幅增加约 27.2 亿枚（3.56%），市占率已达 60%。近期 USDT 供应量涨幅较大，推测为部分资金通过 USDC 出场后，置换为 USDT 回归。
+
+USDC 本周供应量再次大幅减少约 23.4 亿枚（-6.45%），自硅谷银行事件后，USDC 供应量已连续三周大幅下跌，市占率跌至 26%。如我们此前预期，USDC 价格虽然恢复，但受损的市场信心和情绪似乎需要更多时间修复。
+
+BUSD 供应量本周下跌速度放缓，仅减少约 2.1 亿（-2.57%）。由于 Paxos 已被禁止铸造 BUSD，预计 BUSD 供应量将持续下跌，BUSD 可能退出历史舞台。作为替代品的 TUSD 本周供应量变动不大，小幅增加 0.13 亿（0.65%），经过一个月内翻倍的大幅增长后，TUSD 增长放缓。
+
+整体而言，币市资金的净流出趋于缓解，但增量资金有限的情况下，市场的拉升需要积蓄更多的流动性，并且存量资金博弈之下，将以结构性行情为主。
+
+2）BTC 矿工余额
+
+BTC 矿工地址余额表明链上被标记为矿工地址的 BTC 持有余额合计，包括 Foundry USA，F2Pool，AntPool，Poolin，Binance 等地址。
+
+该数据通常用于判断对于矿工对于当前 BTC 价格的兴趣，矿工余额升高时，通常说明筹码处于堆积状态；矿工余额降低时，表明矿工正在抛售或抵押其持有的 BTC。
+
+![](https://img.foresightnews.pro/202303/8ae4e50ad084166d565bb6fae163e9f8.png?x-oss-process=style/scale70)根据 OKLink 数据，截止 3 月 26 日，与上周相比，矿工余额几乎没有变动，市场冲高遇阻开始横盘回调，但矿工未见出货离场。由此来看，目前的横盘震荡可能更多属于筹码交换和流动性积累，获利较多的短期交易者兑现离场，市场积蓄力量后可能会再尝试一轮上攻。
+
+3）ETH 通缩数据
+
+截止 3 月 26 日，根据 ultrasound.money 数据，本周 ETH 供应量较上周减少约 2831 枚，自 The Merge 完成后，ETH 供应量已累计减少 6.8 万枚。以近一周数据推算，年化通胀率为 -0.11%，较上周的 -0.24% 持续下降，链上活动平淡，通缩速度下跌。
+
+前两周上涨行情中，BTC 市占率和汇率出现显著提升，相对跑赢 ETH，本周 ETH/BTC 汇率出现止跌企稳迹象。近 2 年以来，ETH/BTC 汇率始终维持在约 0.05~0.08 的宽幅震荡区间，待 BTC 高位横盘后，ETH 可能迎来补涨。
+
+![](https://img.foresightnews.pro/202303/924a85eaebe377a64ec04b1a698e1036.png?x-oss-process=style/scale70)相比 POW 机制下的 ETH，POS 机制下供应量已累计减少约 215 万枚，以当前美元计价这部分抛压近 38 亿美元。
+
+二、宏观与技术分析
+
+市场突破了 28000 之后，横盘震荡调整，下方的空间较上方大
+
+![](https://img.foresightnews.pro/202303/36e6a9f4425c71b64000ef526c4dc871.png?x-oss-process=style/scale70)两年期美债下行至 3.773，主要为市场抛售美债所致
+
+![](https://img.foresightnews.pro/202303/2a7343e5d36295b4658227db8b3f9fda.png?x-oss-process=style/scale70)纳斯达克指数反弹至 11800 以上
+
+![](https://img.foresightnews.pro/202303/e6015d8338fbc78056431eed910c4afd.png?x-oss-process=style/scale70)arh999：0.78
+
+![](https://img.foresightnews.pro/202303/e6015d8338fbc78056431eed910c4afd.png?x-oss-process=style/scale70)持币地址数基本都是横盘
+
+![](https://img.foresightnews.pro/202303/da4e2439b55f00103e9b938384ac5a59.png?x-oss-process=style/scale70)持币地址数跳涨之后，本周开始回撤
+
+![](https://img.foresightnews.pro/202303/fe6273461003747e9aa1e692372cc68d.png?x-oss-process=style/scale70)三、投融资情况总结
+
+投融资回顾
+
+2023 年 3 月 20 号至 3 月 26 日，加密 VC 市场披露的投融资事件 18 笔，累计融资金额超过 2.537 亿美元；（https://www.rootdata.com/Fundraising）
+
+报告期内，超过 1,000w 美金融资额的事件一共 9 起：
+
+![](https://img.foresightnews.pro/202303/31ace22954a1b9308f640415d8a2d1fe.png?x-oss-process=style/scale70)机构动态
+
+![](https://img.foresightnews.pro/202303/2ab6f9d4ccf2602481b926d54f60c7d8.png?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/00f3f21bfe38fc73efac192687851c02.png?x-oss-process=style/scale70)四、不良资产动态跟踪
+
+FTX 数字不良资产债权市场最新动态：
+
+（1）FTX 上周更新的一个重要进展
+
+根据在特 delware distriction 提交的文件，FTX 已经与对冲基金 Modulo Capital 达成协议，从后者那里收回了超过 4 亿美元的现金，根据周三提交的法庭文件。总部位于巴哈马的 Modulo 也同意支付 4.04 亿美元现金归还 FTX，并放弃其在 FTX 交易所持有的价值 5600 万美元的资产所有权。
+
+![](https://img.foresightnews.pro/202303/e1196bde0bf1015ccc2fe046f619f126.png?x-oss-process=style/scale70)FTX 附属的对冲基金 Alameda Research 在 2022 年 5 月开始连续向 Modulo 发送了共计 4.75 亿美元的转账，当时 FTX 正在亏损并且已经处于破产边缘。所以这笔资金很大程度上被定义为非法挪用用户资产必须被追回。据法院文件透露，FTX 创始人 SBF 指示 Alameda 支付了 2500 万美元购买 Modulo 的股权，并向由 Modulo 管理的投资基金投入了 4.5 亿美元。根据文件披露，该协议已经收回了大部分支付款项，并拿走了 Modulo 剩余 99% 的资产。
+
+作为协议的另一部分，FTX 和 Alameda 将放弃对 Modulo 所有权的一切索赔和纠纷，FTX 还同意不采取进一步针对 Modulo 负责人张晓云和邓肯 Duncan Rheingans-Yoo 有关此次付款的调查。
+
+（2）纵览 FTX 资产资产负债表的情况
+
+在寻求偿还债权人的过程中，FTX 此前已经收回了共计 50 多亿美元的资产。FTX 上周还表示，他们正在全力调查用于支付 “公司创始人和重要员工” 的 32 亿美元的款项和贷款费用。
+
+目前虽然 SBF 被指控盗取了 FTX 用户数十亿美元的资金，以弥补 Alameda Research 的亏损，并进行数百万美元的非法政治捐赠，以在华盛顿特区扩大他的影响力。他目前仍然否认自己有罪，并计划于 10 月 2 日做出最后陈述以避免入狱。
+
+上周 FTX 已经向美国法官申请将提交破产重组计划截止日期延长至 9 月 7 日并已经获得批准，他们希望再延长 6 个月的时间以完善并提交一份可实施的计划，并表示公司需要更多的时间来继续理清财务状况，同时他们也宣布将很快公布资产和负债的细节。上周场外 OTC 市场的债权均价继续呈现一个上涨趋势，保持在 18–19% 这个区间。
+
+![](https://img.foresightnews.pro/202303/bf4710e8740211e86e28de3a3771ee57.png?x-oss-process=style/scale70)新闻动态：
+
+Mysten Labs 将斥资 9600 万美元从 FTX 收购其股权和 SUI 代币的股权投资。
+
+![](https://img.foresightnews.pro/202303/f3b7cc4bb9a479da48a3a34bf4b9fa80.png?x-oss-process=style/scale70)Mysten Labs 将斥资 9600 万美元从 FTX 破产财产处收购其股权和代币股权。就在 FTX 创始人 Sam Bankman-Fried 的公司破产几个月前，FTX Ventures 向 Mysten Labs 投资了 1.01 亿美元。现在，Mysten Labs 通过破产法院以 9600 万美元的价格回购了这部分股权和代币认股权。
+
+此次回购协议标志着 FTX 首席执行官 John J. Ray III 不断努力并最大限度地使债权人从 Sam Bankman-Fried 破产的加密交易所中恢复资金的尝试，包括清算 FTX Ventures 组合中的多个明星项目。
+
+（Mysten Labs 还未发布备受期待的 SUI 代币，他们在 3 月 16 日向 FTX 破产财产处提交了一封回购资产的报价信。根据法庭文件，FTX 破产财产聘请了投资银行 Perella Weinberg Partners（PWP）征求其他潜在买家的兴趣，最终与 Mysten 达成了交易。）
+
+五、加密生态跟踪
+
+各板块数据整理
+
+NFT
+
+蓝筹指数：持续震荡下行，ETH 本位上看已经回到了仅略高于去年 11 月的 FTX 暴雷后的位置
+
+![](https://img.foresightnews.pro/202303/bb572eeafbfa1fd2790c7d3c43636433.png?x-oss-process=style/scale70)市值&交易量：持续震荡下行，在上周五伴随大盘的回调出现了更为剧烈的下行
+
+![](https://img.foresightnews.pro/202303/0b8b1f66dd2ce1657302023ca9c6f054.png?x-oss-process=style/scale70)top collection：cryptopunks、BAYC、猴子地排名前三，doodles 在社区出现问题后，目前已跌出前十并且仍在持续创出新低
+
+![](https://img.foresightnews.pro/202303/f4989d8ae4f3c6e798919880666a8dde.png?x-oss-process=style/scale70)（下图为 doodles 近一个月价格变化）
+
+![](https://img.foresightnews.pro/202303/fa80bf558ba9192d114785c5c84c377f.png?x-oss-process=style/scale70)Gamefi 链游
+
+整体回顾
+
+总体来看，Gamefi 行业本周市值回调明显。
+
+从 Token 价格来看，前 10 市值链游 token90% 下跌，且大部分跌幅均在 10% 以上。其中，只有 Sandbox 保持了正增幅，这可能主要得益于 Sandbox 近期积极的宣发，并且推出了新的游戏编辑器。
+
+![](https://img.foresightnews.pro/202303/904532e5ebc5897785a03737de65bf14.png?x-oss-process=style/scale70)<https://degame.com/zh/ranking/game/ALL_GAME>
+
+按链上合约交互量来看，前十活跃链游中，过去一周交互活跃度 60% 上涨。其中，Iskra 和 Benji Bananas 继续保持上涨，而上周大涨近 9 倍的 Hunters 本周下跌 33.16%，继续对其可持续性表示质疑。
+
+![](https://img.foresightnews.pro/202303/eef75639145bbee13174b2034c148e45.png?x-oss-process=style/scale70)数据来源:https://dappradar.com/rankings/category/games
+
+截至撰稿，DeFi TVL 为 49.05B，较上周微幅上涨。按 TVL 排名前五的协议分别为：Lido、MakerDao、AAVE、Curve、Uniswap。Lido 和 Curve 本周分别下跌 3.81% 和上升 2.18%。
+
+![](https://img.foresightnews.pro/202303/d6aef273e2433e153fbda3da537eb478.png?x-oss-process=style/scale70)<https://defillama.com/>
+
+从公链的角度来看，本周 TVL 前三的链分别为：ETH、Tron 和 BSC。Arbitrum 和 Optimism 本周分别增长 17.84% 和下跌 4.51%，分别排名第四和第六。
+
+![](https://img.foresightnews.pro/202303/72925780a0976dbd94efdae1f5ec4744.png?x-oss-process=style/scale70)本周重点事件&项目
+
+RSS3 Open Web
+
+信息分发协议 RSS3 发推称，将推出 RSS3 AI 开放平台，为开发者使用链上数据训练 GPT 模型提供环境。为开发者提供环境来训练 GPT 模型，并使用链上数据进行训练。它的目标是让 GPT 模型能够处理和反映 OpenWeb 世界中的各种信息和事件，例如预测 Dapp 的创意、预测趋势、猜测哪些 NFT 会流行等等。通过这种方法，希望能够突破 DeFi 到 SocialFi 的边界
+
+![](https://img.foresightnews.pro/202303/ee47137e16072bcf741288265210ab85.png?x-oss-process=style/scale70)总结：
+
+gpt 模型的接入，增加链上数据的可读性、可获得，进而降低区块链的进入门槛
+
+在使用链上数据进行价格预测方面，必须持谨慎态度。特别是当考虑到使用 Transformer 模型，如 GPT，与使用 RNN 模型在基于时间序列的预测方面可能存在的差异时。
+
+Aspecta
+
+由 AI 驱动、专注于开发者的数字身份生态平台 Aspecta 完成 350 万美元种子轮融资。
+
+![](https://img.foresightnews.pro/202303/98b796814bf1ced6a4d723bd7129fdbc.png?x-oss-process=style/scale70)简介：
+
+Aspecta 是一家由 AI 驱动、专注于开发者的数字身份生态平台。其核心产品为 Aspecta ID，这是一个基于云端与链上数据、应用 AI 建立的数字身份。Aspecta ID 已开启公开测试，专注于开发者，以展示、记录和探索为三大核心功能
+
+![](https://img.foresightnews.pro/202303/849d4ae326750a4b9c4a559dc9138671.png?x-oss-process=style/scale70)投资情况：
+
+Aspecta 已完成 350 万美元的种子轮融资。该轮融资分为 A、B 两个阶段。A 阶段于 2022 年 4 月完成，由真格基金、奇绩创坛（原 YC China）、UpHonest Capital、耶鲁校友基金等机构参与。B 阶段于 2022 年 11 月完成，由 Foresight Ventures、HashKey Capital、SNZ Holding、Infinity Ventures Crypto 等机构参投。此外，Aspecta 还获得了来自 Galxe、Mask Network、CyberConnect、P12 等项目方与生态的战略投资与捐赠支持。
+
+团队情况：
+
+Aspecta 的创始团队拥有世界顶级大学的背景，如耶鲁、清华、伯克利和麦吉尔等。他们在 AI 领域拥有 7 项大型语言模型与图学习算法的专利和论文。此外，加拿大工程院院士、Tinder 前首席科学家 Steve Liu 是创始团队的成员，并担任首席科学家
+
+rct AI
+
+成立于 2018 年的 rct AI，它是一家主要为游戏行业提供 AI 技术解决方案的服务商，其核心技术混沌球（Chaos Box）是⼀个基于深度强化学习的 AI 叙事引擎，可以帮助游戏制作方大规模地生成具有不同行为模式和台词对话的智能 NPC，智能生物体以及智能环境，目前服务了阅龙智娱、悠米娱乐等 20 多家游戏工作室。
+
+基于 AI 技术，rct AI 海外业务尝试布局了 Web3 游戏相关的生态圈项目:
+
+Mirror World: 是由互操作性 SDK 层驱动的游戏矩阵，旨在帮助 Web2 开发者低代码的完成 Web3 游戏开发。Mirror World 游戏矩阵是由多款资产互通加密游戏组成的虚拟游乐场，将同时让所有用户获得多种休闲游戏体验和加密现实收益；Mirror World 移动端 SDK 是一套跨平台工具，旨在帮助开发者更有效、更容易、更经济地整合区块链技术。22 年 3 月融了 400 万美金，目前大概有三四十个人的团队在运营。
+
+Delysium:3A 级链游，它强调多元化和 3A 开放世界 MMORPG 体验，包括战斗、探索、建造、培养、社交和人工智能驱动的 MetaBeing 游戏，推动链游行业进入下一个阶段。这个项目也在 22 年 3 月份融了 400 万美金，目前团队超过 150 人。 Delysium 中采用了一套新的发行模式。在这个游戏中，游戏分为 \*\*experience layer（体验层）、data layer（数据层） 和 Incentive layer（激励层）\*\* 三个层面。experience layer 是这个游戏本身的内容，用户在 experience layer 产生数据，输送到 data layer，最后再到 incentive layer。在这个模式下，experience layer 和 incentive layer 是分开的。游戏中的组织可以自行吸引用户进入游戏，并根据自己本地化的特点设置不同的激励策略，以及不同的代币系统。平台在得到用户产生的数据后会将数据返还给组织，由组织根据自己的激励规则进行代币分配。这是一个不断自我革新的游戏系统。
+
+AIGC 相关亮点：
+
+通过简单设计并调整不同的参数，rct AI 的混沌球（Chaos Box）算法可以在游戏中大规模地轻松生成具有智能意识的虚拟角色。他们的行为和对话不会重复，皆为动态生成。在游戏场景中，部署具有不同性格的智能 NPC，通过对话、行为等动态交互，增加玩家的游戏时长，同时提供新的变现途径。具体包括性格化 NPC、对抗式 AI、互动式 AI、大规模智能 NPC 部署、智能留存及智能运营策略等。
+
+目前，rct AI 已凭借核心技术 Chaos Box 帮助了 10 余家企业，完成包括对战游戏、虚拟人铸造等多种类型的项目，与世界范围内 20+ 游戏厂商建立了深入合作，触达超过 2 亿用户。
+
+关于我们
+
+JZL Capital 是一家注册于海外，专注区块链生态研究与投资的专业机构。创始人从业经验丰富，曾经担任过多家海外上市公司 CEO 和执行董事，并主导参与过 eToro 的全球投资。 团队成员分别来自芝加哥大学、哥伦比亚大学、华盛顿大学、卡耐基梅隆大学、伊利诺伊大学香槟分校和南洋理工大学等顶尖院校，并曾服务于摩根士丹利、巴克莱银行、安永、毕马威、海航集团、美国银行等国际知名企业。
+
+【免责声明】市场有风险，投资需谨慎。本文不构成投资建议，用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。
+
+![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=7636f18c9e99)

@@ -1,0 +1,156 @@
+![](https://img.foresightnews.pro/202303/7573de67b9fea2e56db21d7cf8adfb83.jpeg?x-oss-process=style/scale70)  
+
+
+Web3 生态越来越趋向于多链，dApp 存在于数百个区块链、2 层网络和应用链中。但是，区块链本身不具备与外部系统或 API 通信的能力。这种限制不仅阻止了区块链与现有网络基础设施的通信，还阻止了与其他区块链的通信。
+
+  
+
+
+鉴于区块链生态系统种类繁多，这些不同的链上环境能够相互操作和通信至关重要。不同区块链之间，交换数据和通证的基础设施的关键部分就是[跨链互操作性](http://mp.weixin.qq.com/s?__biz=MzU0MTgyMDQwNQ==&mid=2247495375&idx=1&sn=2ae8539c1fd24ecea21abe35ec1a5ccb&chksm=fb26ba55cc51334382d522e92621aec1218e8c13d8412ba039a7b15bc4887d7ec3295ceebb5a&scene=21#wechat_redirect)协议。
+
+  
+
+
+以下文章介绍了区块链概念中跨链的含义，概述了跨链消息传递解决方案的工作原理及其局限性，并研究了即将推出的跨链互操作性协议 (CCIP) 如何解决这些局限性。
+
+  
+
+
+**为什么跨链通信很重要?**
+
+  
+
+
+跨链互操作性有利于 Web3 不同生态的集成，同时对于连接现有 Web2 基础设施和 Web3 服务有至关重要的作用。通过启用[跨链智能合约](http://mp.weixin.qq.com/s?__biz=MzU0MTgyMDQwNQ==&mid=2247494784&idx=1&sn=b1d7fe831f79a4b6790e489baf0001cd&chksm=fb26b81acc51310c2e7f7afc978d02f0eecca3333182660de716a2a1318c7c8b47f73603d8b3&scene=21#wechat_redirect)，跨链互操作性解决方案减少了生态系统的碎片化，并释放了更高的资本效率和更好的流动性条件。
+
+  
+
+
+DeFi 的[无需许可的可组合性](http://mp.weixin.qq.com/s?__biz=MzU0MTgyMDQwNQ==&mid=2247490890&idx=1&sn=7e33eb921a55be2ffcf50fe39d9a2690&chksm=fb2549d0cc52c0c661ae462a29db7a071ae48e7146329485a37a1caa1e3280ebea5ae3ded9ab&scene=21#wechat_redirect)催生了越来越复杂的应用程序，这些应用程序允许开发人员将不同的 dApp 组合成一个结构，该结构可以实现的效果超过其各部分的总和。然而，数百个不同网络的可组合性受到显着阻碍，因为智能合约只能与同一网络上的其他合约本地组合。如果一个应用程序想要跟随用户并在快速变化的多链环境中保持竞争力，它必须部署在多个平台上，导致流动性碎片化和用户体验下降。此外，单个 dApp 部署会占用宝贵的开发资源，否则这些资源可能会用于提升应用程序的业务逻辑。
+
+  
+
+
+![](https://img.foresightnews.pro/202303/18b7a14948ebeaa87bf443f07435b5cf.png?x-oss-process=style/scale70)在多链环境中，每个 dApp 实例都是一组孤立的智能合约，与其他区块链没有连接。
+
+  
+
+
+跨链互操作性使开发人员能够构建一个原生的跨链应用程序，其中一个统一的 dApp 可以部署在多个不同区块链上，而不必在不同的网络上部署多个单独的版本。
+
+  
+
+
+![](https://img.foresightnews.pro/202303/98d9fce336bb440baf837d81d76018ae.png?x-oss-process=style/scale70)跨链智能合约由部署在多个网络中的多个智能合约组成，创建一个统一的 dApp。
+
+  
+
+
+**跨链技术的原理是什么?**
+
+  
+
+
+跨链解决方案通常涉及验证源区块链的状态并将后续交易中继到目标区块链。这两个功能都是完成大多数跨链交互所必需的。
+
+  
+
+
+基础设施的一个关键部分是[跨链桥](http://mp.weixin.qq.com/s?__biz=MzU0MTgyMDQwNQ==&mid=2247495443&idx=1&sn=3e9564dc081c7d372dd12845e8dc6163&chksm=fb26bb89cc51329fcadcf0df913b180651829026ee29693b9d1a2f12e9f769a33b4e132c42ec&scene=21#wechat_redirect)，它使通证能够从源区块链转移到目标区块链。跨链桥通常涉及通过智能合约在源链上锁定或销毁通证，并通过目标链上的另一个智能合约解锁或铸造它们。实际上，跨链桥是一种跨链消息传递协议，适用于非常狭窄的用例——在不同区块链之间传输通证。因此，跨链桥通常是两个区块链之间的特定于某个应用程序的服务。
+
+  
+
+
+跨链桥只是一个提供跨链功能的简单应用程序。可编程的通证桥支持更复杂的跨链交互，例如在执行跨链函数的交易中交换、借出、抵押或存入通证，而任意数据消息传递协议提供更通用的跨链功能，它可以支持创建更复杂的 dApp，例如跨链去中心化交易所 ([DEX](http://mp.weixin.qq.com/s?__biz=MzU0MTgyMDQwNQ==&mid=2247495425&idx=1&sn=a6eb778f7f261eb7ee20486fb0d4ebee&chksm=fb26bb9bcc51328d3c9097b581f6434b8b570ee2330abbac3e1e0c1ad6257b51a77eef0ef2a8&scene=21#wechat_redirect))、跨链[货币市场](http://mp.weixin.qq.com/s?__biz=MzU0MTgyMDQwNQ==&mid=2247487040&idx=1&sn=3d5164794d26dd6b19ac4726b2ff676b&chksm=fb255adacc52d3cc1d2c90bf6ae9ffa2cb995f45bdb4b9d4f3094fa4b55ba4988eae0e811ccd&scene=21#wechat_redirect)、跨链 NFT、跨链游戏等等。
+
+  
+
+
+**跨链解决方案所面临的挑战**
+
+  
+
+
+跨链互操作性中存在一些技术挑战，这些挑战在之前的多链设计范例并不存在。但是，如果能够解决这些安全性问题，跨链解决方案可以给区块链开启一个全新的功能。
+
+  
+
+
+跨链通信本质上需要安全性、信任或灵活性权衡，而在单个区块链上发生的交互不需要这些。这也意味着不同区块链上的智能合约之间的可组合性只能通过在安全性、信任假设或灵活性方面进行权衡来实现。
+
+  
+
+
+加密经济系统的弹性取决于它们最弱的点。即使底层网络是安全的，安全性较弱的跨链消息传递协议也会使资金受到攻击。判定跨链桥安全与否的一个关键因素是：攻击成功之前，有多少参与者需要被攻破。从这个意义上说，加强跨链桥的安全性意味着要增加节点的多样性，或在验证和中继后续交易到目标区块链的过程中增加密码学验证的安全性。
+
+  
+
+
+跨链通证桥桥的另一个考虑因素是最终性，这意味着一旦源链的交易成功提交，目标链上的资金应该可用了。如果没有保证最终性，源链上的反向交易（例如区块重组）可能会对目标链造成不利影响。
+
+  
+
+
+**跨链互操作性协议（CCIP）**
+
+  
+
+
+[跨链互操作性协议 (CCIP)](http://mp.weixin.qq.com/s?__biz=MzU0MTgyMDQwNQ==&mid=2247489021&idx=1&sn=49f90de2f7515fdd68db535c54a88683&chksm=fb254167cc52c871539ffccdb30e533b554662ee9b93b16a1e2838a70df10d7ec967c0c4dbd0&scene=21#wechat_redirect) 是一种与[区块链无关](http://mp.weixin.qq.com/s?__biz=MzU0MTgyMDQwNQ==&mid=2247496173&idx=1&sn=8e64a6b7cd8114a22710ac480d4bf03e&chksm=fb26a577cc512c610b4b46c7b5b0038bee24a921b0d655fbf2743ec7d1a1ac989735d2b80037&scene=21#wechat_redirect)的开源标准，用于涉及任意消息传递和通证传输的跨链通信。CCIP 旨在通过单一接口在区块链网络之间建立通用连接，以满足对复杂跨链交互不断增长的需求。CCIP 构建的高度可组合，因此它可以与可编程通证桥框架内的各种其他预言机服务集成，以支持高度复杂的跨链交互和跨链应用程序。
+
+  
+
+
+![](https://img.foresightnews.pro/202303/045ce54998a78895ebc4ab9c329595fe.png?x-oss-process=style/scale70)智能合约将能够跨多个区块链网络进行通信，开发人员无需编写自定义代码来构建特定于链的集成。
+
+  
+
+
+因为跨链桥被黑客攻击所造成的损失超过 20 亿美元，这就是为什么 CCIP 开发背后的驱动原则一直是安全第一的心态。CCIP 的开发得到了 Chainlink 实验室研究团队的支持，其中包括一些世界上最有经验的密码学和计算机安全专家，例如 Ari Juels、Dan Boneh、Lorenz Breidenbach 和 Dahlia Malkhi。CCIP 引入的一些组建来增强安全性，包括监控恶意活动和异常事件的反欺诈网络、去中心化预言机计算（由高质量节点运营商来运营，其性能历史都链上可验证），以及 Off-Chain Reporting (OCR) 协议，该协议已经帮助各种 Chainlink 服务确保了数千亿美元的安全。
+
+  
+
+
+![](https://img.foresightnews.pro/202303/b3f2ac107c92b8c4a3a0714a6b4de70e.png?x-oss-process=style/scale70)CCIP 跨链基础设施技术栈旨在各种跨链应用程序的创新
+
+  
+
+
+**通过安全的跨链应用提升 Web3 的扩展性**
+
+  
+
+
+跨链互操作性是下一代 Web3 的重要组成部分，它将有助于创造全新的用例和用户体验，以满足来自 Web2 世界的期望。跨链解决方案将是加快 Web3 采用率的关键，它允许开发人员创建可通过更传统的用户体验访问的复杂 dApp，并帮助企业、机构和政府安全地访问任何链上环境。
+
+  
+
+
+欢迎关注 Chainlink 预言机并且私信加入开发者社区，有大量关于智能合约的学习资料以及关于区块链的话题！
+
+  
+  
+END  
+  
+‍‍▲获取 Chainlink 官方最新资讯  
+加入 Chainlink 官方渠道▼
+
+![](https://img.foresightnews.pro/202303/3b448bcab9371465762484a634e88fa4.jpeg?x-oss-process=style/scale70)  
+**Chainlink 官方渠道**   
+微博:  https://weibo.com/chainlinkofficial  
+知乎：https://www.zhihu.com/people/chainlink  
+中文 Twitter: https://twitter.com/ChainlinkCN  
+Twitter:  https://twitter.com/chainlink  
+中文爱好者电报群：https://t.me/chainlinkfans  
+Telegram:  https://t.me/chainlinkofficial  
+Discord:   https://discord.gg/aSK4zew  
+GitHub:  https://github.com/smartcontractkit/chainlink  
+SegmentFault：https://segmentfault.com/u/chainlink  
+QQ 群: 6135525  
+合作联系:  china@smartcontract.com  
+  
+![](https://img.foresightnews.pro/202303/acbd2417f9c7a98a99dbd7dd06376440.gif?x-oss-process=style/scale70)点击“阅读原文”，查看更多
+
+  
+
+

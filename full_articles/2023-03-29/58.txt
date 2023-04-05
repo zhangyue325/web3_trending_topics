@@ -1,0 +1,65 @@
+![](https://img.foresightnews.pro/202303/cf04e5270ba7eab4be0058ab45694720?x-oss-process=style/scale70)### Evolution of Ethereum’s Trust Layer
+
+Blockchains have inherently fostered trust networks without the need for centralized regulatory entities. Bitcoin was the first of many to do so, creating a trust layer built upon Proof-of-Work consensus mechanism , thereby supporting the transfer of value between users. However, Bitcoin’s model of trust has severe limitations, such that there was an extremely high barrier to innovation for applications. Ethereum took a different route to not only separate the application layer from the trust layer, but also added a universal Turing-complete execution layer (better known as the EVM). This provided the space for innovation, as applications were able to deploy on Ethereum without requiring them to bootstrap their own security, instead relying on Ethereum’s trust layer.
+
+![](https://img.foresightnews.pro/202303/c975d20f2412e042b0430a2766c0b02f?x-oss-process=style/scale70)Following the Merge, Ethereum made the transition from Proof-of-Work to the Proof-of-Stake consensus mechanism. Compared to PoW where miners compete with hardware and utilise their computational power, PoS required participating nodes to put up (stake) a specified amount of collateral to vote to reach consensus.
+
+This allowed the implementation of an economic punishment mechanism in the form of slashing, to penalise nodes in the event of malicious/dishonest behaviours, in addition to rewarding the nodes that perform their roles correctly. This brought about two main benefits to Ethereum’s trust layer:
+
+* First, an improvement in the economic security of the trust layer since implementation of slashing substantially increases the cost of corruption for an external adversary who attempts a bribery attack, while profit from corruption remains the same
+* Second, an expansion of node governance capabilities that provides more optionality over node behaviors. For example, Ethereum can dynamically determine the penalty for malicious nodes based on the total amount slashed during a certain period, thereby increasing the penalty for colluding malicious nodes. Moreover, Ethereum can also confiscate funds of offline nodes to ensure finality and the liveness of the blockchain in the event of an [inactivity leak](https://eth2book.info/altair/part2/incentives/inactivity), where too many nodes are absent to reach consensus.
+### Existing Limitations with Ethereum’s Trust Layer
+
+While Ethereum has strong economic security, many applications built on top of Ethereum rely on crucial middleware such as oracles (e.g. Chainlink) or cross-chain bridges that are secured by their own set of validators and nodes to ensure economic security. Therefore, the cost of corruption for certain applications on Ethereum is the minimum of the security budget across all the various middlewares that the application relies on. Given Ethereum’s slashing mechanisms happen only at the consensus level, it will be unable to penalise any malicious activity that happens to any of these crucial middleware pieces.
+
+### EigenLayer’s Solutions
+
+#### Re-staking
+
+In order to expand the slashing mechanism of the Ethereum trust layer, EigenLayer introduces a novel mechanism in cryptoeconomic security called re-staking. In this case, Eigenlayer enables staked ETH to be rehypotheticated, allowing applications to be secured by re-staked ETH rather than their own tokens. Ethereum validators are given the choice to opt-in to EigenLayer’s smart contracts, which not only alters their withdrawal addresses, but introduces a new smart contract-level slashing mechanism. As such, when an Ethereum verification node providing security and validation services through EigenLayer is found to have acted maliciously or violated consensus rules, EigenLayer is able to penalise and slash their collateral via the smart contract. This extended mechanism helps to align the economic interests and actions of the application layer and Ethereum validators, making it possible for applications and middleware deployed outside of Ethereum to leverage the pooled security of Ethereum’s trust layer.
+
+![](https://img.foresightnews.pro/202303/05ed8d446d3af684e65f071889ab78ca?x-oss-process=style/scale70)*AVS ecosystem with and without EigenLayer*#### Free-market Governance
+
+To support re-staking, EigenLayer serves an open marketplace where AVSs can rent pooled security, allowing the supply-side (Ethereum validators) and the demand-side (application layer) to determine the value of services provided through a free-market mechanism. Validators can decide whether or not to participate in providing their services to a particular application depending on their preferred risk-benefit ratio and slashing conditions. Applications can easily purchase trust at market-oriented prices, leveraging the diverse resources among validators to achieve a better balance between protocol security and performance.
+
+![](https://img.foresightnews.pro/202303/ef47d7b225beef415b06f55a1032d83a?x-oss-process=style/scale70)*Future EigenLayer-enabled innovation on Ethereum*### What EigenLayer Enables
+
+#### **Accelerating Innovation at the Application Layer**
+
+By establishing a marketplace between applications and Ethereum validators, EigenLayer further modularizes the trust and execution layers of Ethereum. Applications deployed outside of Ethereum are able to utilise the modular trust layer to easily pool trust, greatly reducing the capital cost of security and increasing capital efficiency. This brings huge benefits to applications and middleware that value economic security such as oracles, data availability layers, decentralized sequencers, cross-chain bridges, and side chains, allowing them to direct focus and resources towards protocol innovation and improving user experience, accelerating innovation at the application layer.
+
+#### **Furthering Protocol Layer Innovation**
+
+By introducing a slashing mechanism at the smart contract level, EigenLayer has the ability to implement rules for participating nodes without having to alter the existing consensus mechanism.
+
+An example of such a use case could be to help achieve single-slot finality. Ethereum currently utilises Gasper for consensus, marking blocks as ‘finalised’ and determining which fork of the blockchain should be used. However, Gaspar only provides finality for the first slot of every epoch (checkpoint block), with those in between having to wait until the next checkpoint block is finalised. With EigenLayer, it is possible to implement a mechanism where nodes sign off on the finality of a block. Nodes who have restaked via EigenLayer can attest that they will not fork a block and build on a chain that does not include it, thereby creating a potential pathway to finality.
+
+Another example that contributes towards MEV management, specifically in enabling [partial-block MEV-Boost](https://hackmd.io/@layr/SkBRqvdC5). In MEV-Boost’s current form, block builders are only able to submit complete blocks. To prevent block proposers from stealing profit from builders, they are only allowed to view the contents of the block after signing off its header and proposing it to the rest of the network. With EigenLayer, this behavior can be prescribed to proposers prematurely, making it such that block proposers who deviate from it or fail to include a builder’s transactions be penalised and slashed. This way, not only are block builders able to propose partial blocks instead of only complete blocks, proposers are also able to include their own MEV-extraction transactions as well. This enables block proposers to participate in block building and obtaining MEV profits, further decentralising the builder role. And as block proposers are able to include any type of transactions in partial blocks, they can also contribute to increasing Ethereum’s censorship resistance.
+
+#### Improving Economic Security of the Ethereum Trust Layer
+
+Ethereum validators are able to obtain additional revenue providing services through EigenLayer. This increases the yield on ETH staking, and assuming investors are rational, more capital will flow into the Ethereum ecosystem and more ETH will be staked. With a higher total amount of ETH staked, the economic security of the Ethereum trust layer is further enhanced, providing better security for applications and middleware, attracting more to utilise EigenLayer’s features, creating a positive feedback loop.
+
+#### Incentivising Staker Decentralisation
+
+With EigenLayer, applications are able to specify their preference or criteria for nodes participating in its tasks on EigenLayer. With high levels of decentralisation being a core need for many applications like encryption systems for on-chain privacy, one can expect applications to demand its participating nodes be part of a decentralised quorum. This presents new demand for operators of home validator nodes, who fall under a largely decentralised category of nodes, increasing profitability and thus attracting new entrants, contributing to further decentralization.
+
+### Potential Risks
+
+#### Compromising of the Ethereum Trust Layer
+
+Besides programmed slashing following rule violations, there may be instances of unintended slashing due to programming bugs or malicious protocols, resulting in honest nodes losing their staked funds. In the situation where unintended slashing happens on a large scale, the economic security of the Ethereum trust layer may be greatly compromised. The team has employed two mitigants to such risk cascades, the first being to minimise such risk through rigorous auditing, and the second to provide a veto system for slashing, where the governance committee in place can veto instances of unintended slashing through multi-signature voting, providing a safety net for extreme cases.
+
+#### Overleveraging through Re-staking
+
+As Ethereum validators constantly seek additional revenue providing services through Eigen Layer, the situation where there are multiple instances of re-staking might arise, and a particular validator set might be securing a total value greater than its staked collateral. This opens up potential vulnerabilities as the profit from corruption outweighs the cost of corruption, reducing the economic security of the trust layer. This balance between seeking additional revenue and security will need to be monitored as EigenLayer is implemented, with possible mitigants or restrictions being enforced as required.
+
+### Closing Thoughts
+
+With the future of blockchains trending towards one that heavily emphasises modularity, what EigenLayer is building stands to benefit not only the Ethereum ecosystem as a whole, but even those outside of it. EigenLayer is set to unlock a new innovation paradigm on both the application and middleware layer, while allowing base layer Ethereum to maintain its credible neutrality. This enables Ethereum to break away from the constant trade-off of democracy and agility, by giving application developers a new space to test new implementations and business models.
+
+Today, EigenLayer is already working on developing new products such as EigenDA, that provides a hyperscaled data availability layer for Ethereum to unlock higher bandwidth while optimising for cheaper and more consistent fees. Partnerships with teams like Mantle are a testament to what EigenLayer is setting out to acheive: to push the limits on existing technological boundaries, and we are extremely excited to see how this all fits into hyperscaling Ethereum.
+
+Article Contributors: [Li Dongxuan](https://www.linkedin.com/in/dongxuan-li-4a1699124/), [Chew Jin Hao](https://www.linkedin.com/in/chewjinhao/), [Henry Ang](https://www.linkedin.com/in/henry-ang-288143109/), [Mustafa Yilham](https://www.linkedin.com/in/mustafa-yilham/), [Allen Zhao](https://www.linkedin.com/in/haobo-zhao-hbz/) & [Jermaine Wong](https://www.linkedin.com/in/jermaine-w-8879a61b8/)
+
+![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=360efc4f1453)

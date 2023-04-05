@@ -1,0 +1,177 @@
+*![](https://img.foresightnews.pro/202303/700ff7d58b3f38f1c9602e5dc057d1d0.gif?x-oss-process=style/scale70)*
+
+摘要：据财联社报道，周三，Meta 在其 Horizon Workrooms 平台的一个虚拟空间中召开了一场问答会。其全球事务负责人 Nick Clegg 再次重申，未来计算平台的核心将会是元宇宙，Meta 将坚持下去，但这需要一些时间。当此之际，微软已经终止了其关于元宇宙的项目，其元宇宙部门迎来大量裁员。本周，迪士尼公司裁掉了一个发展元宇宙战略的部门，悄悄将虚拟现实计划收敛。
+
+  
+
+
+![](https://img.foresightnews.pro/202303/0030572a3d0d855f68d844d230363d49.png?x-oss-process=style/scale70)
+
+图片来源：由无界 AI 生成
+
+  
+
+
+热点资讯  
+
+
+**谷歌重组虚拟助手部门，专注于 Bard 人工智能技术**
+
+  
+
+
+据 CNBC 报道，谷歌正在重组其虚拟助理 Assistant 部门的汇报组织架构，以更多地关注该公司新的人工智能聊天技术 Bard。在周三给员工的一份题为“Assistant 和 Bard 团队的变化”的备忘录中，谷歌副总裁兼 Assistant 业务部门负责人 Sissie Hsiao 宣布了组织架构变动。
+
+  
+
+
+根据备忘录，谷歌 Assistant 工程副总裁 Jianchang Mao 将因个人原因离开公司。接替 Mao 的将是在谷歌工作了 16 年的 Peeyush Ranjan，他目前担任谷歌商业部门副总裁，负责支付业务。新的领导层变动表明，Assistant 部门可能计划在未来将 Bard 技术整合到类似的产品中。此前报道，谷歌推出聊天机器人 Bard 测试版，旨在对标 ChatGPT。
+
+  
+
+
+**体育 NFT 公司 Candy Digital 将推出新款 MLB NFT**
+
+  
+
+
+据 Decrypt 3 月 30 日报道，体育 NFT 公司 Candy Digital 未受 Fanatics 撤资影响，将推出新款 MLB NFT。据悉，美国职棒大联盟将与其共同推出 2023 赛季数字藏品系列“2023 MLB Shouwstopper ICON”，其中包含 43 位 MLB 球星。此外，Candy Digital 首席执行官 Scott Lawin 还透露 Fanatics 目前仍然是其投资方之一，只是规模较小，而且暗示未来可能还有合作的机会。
+
+  
+
+
+**机构：2026 年中国人工智能市场总规模预计将超 264.4 亿美元**
+
+  
+
+
+据金十报道，IDC 于近日发布了《2023 年 V1 全球人工智能（161631）支出指南》。最新预测数据显示，中国人工智能（161631）市场支出规模将在 2023 年增至 147.5 亿美元，约占全球总规模十分之一。IDC 预计，2026 年中国 AI 市场将实现 264.4 亿美元市场规模，2021-2026 五年复合增长率（CAGR）将超 20%。
+
+  
+
+
+**周鸿祎宣布实行“两翼齐飞”AI 发展战略**
+
+  
+
+
+据 36 氪报道，三六零集团创始人周鸿祎表示，360 在发展人工智能大语言模型上具备数据获取和处理的工程化能力、人工知识训练、场景三大核心优势，将坚持“两翼齐飞”战略，先占据场景，同步发力核心算法技术。在 To C 端，将推出新一代智能搜索引擎，并基于搜索场景推出人工智能个人助理类产品；To SME 端，将基于生成式大模型推出 SaaS 化垂直应用；To G&To B 端，360 计划结合数字安全业务推出企业私有化 AI 服务。
+
+  
+
+
+**百度沈抖：生成式 AI 会带来新职业，超过 50% 的人要去做“指令师”**
+
+  
+
+
+据 36 氪报道，百度集团执行副总裁、百度智能云事业群总裁沈抖在出席博鳌亚洲论坛时表示，“生成式 AI 的出现，会逐渐使得企业分化成智能企业和非智能企业。非智能企业会逐渐被淘汰，同时新的巨头将会诞生。” 沈抖认为，生成式 AI 会带来一个规模非常大的新职业，未来 50% 以上的人要去做“指令师”，一波职业的消失一定会催生另外一波新职业。
+
+  
+
+
+投融资  
+
+
+**AI 项目 Fetch.ai 完成 4000 万美元融资**
+
+  
+
+
+据 CoinDesk 3 月 29 日报道，专注于人工智能的 Web3 协议 Fetch.ai 获 DWF Labs 4000 万美元投资，本轮融资将用于部署去中心化机器学习、自主代理和网络基础设施。
+
+  
+
+
+**音乐 NFT 交易平台和多合一应用 Muverse 完成 600 万美元种子轮融资**
+
+  
+
+
+据美联社 3 月 29 日报道，音乐 NFT 交易平台和多合一应用 Muverse 完成 600 万美元种子轮融资，Syndicate Capital、Knights Templar Capital、Zonff Partners、AvatarDAO、Sun Artland Ltd 和 BN Blue Fox Limited 等参投，所筹资金将用于扩大平台的功能和服务，加速用户获取并提升用户体验。Muverse 正在开发其第二阶段的产品，其中将包括音乐 NFT 交易所、NFT 碎片化功能。
+
+  
+
+
+**音乐 NFT 项目 Daniel Allan Entertainment 完成 100 万美元种子轮融资，Coop Records 领投**
+
+  
+
+
+巴比特讯，音乐制作人、Web3 爱好者 Daniel Allan 于近期宣布已在种子轮筹集 100 万美元资金用于建立音乐 NFT 项目 Daniel Allan Entertainment，该轮融资由 Coop Records 领投，Palm Tree Crew Crypto、Noise DAO、Woodstock DAO 和 Fire Eyes DAO 以及天使投资人 Adam Kornfield、Ante Hoathe、DegenDavinci、Ash Egan、Nic Carter、George Lambeth、Kyle Samani、Shayon Sengupta、Jacob Horne、Adam Levy、FutureMoney Group 和 Jason Meinzer 参投。
+
+  
+
+
+元宇宙荐读  
+
+
+**《经济学家朱嘉明：AIGC 将为元宇宙解决两个技术难题》**
+
+  
+
+
+本期《元宇宙之约》对话了经济学家、横琴数链数字金融研究院学术与技术委员会主席朱嘉明。在他看来，元宇宙在处理大规模、非结构数据上的能力是薄弱的，刚好 AIGC 能够很好解决这个问题。朱嘉明表示，元宇宙最大的潜力是重新塑造产业形态，需要广泛应用证明它的技术和潜力，以及对社会的积极贡献。
+
+  
+
+
+https://www.8btc.com/article/6811500
+
+  
+
+
+**《暂停 GPT-5 研发呼吁引激战！吴恩达、LeCun 带头反对，Bengio 站队支持》**
+
+  
+
+
+千人签名的 AI 不扩散条约发布一天后，各路大佬纷纷有了后续回应，言谈间耐人寻味。有的非常官方，有的十分个性，也有人并没有直面问题。但有一点可以肯定，不论这些大佬自己的观点，还是背后所代表的利益集团，都值得细品。有趣的是，在图灵三巨头中，一位带头签名，一位强烈反对，还有一位不发一言。
+
+  
+
+
+https://www.8btc.com/article/6811472
+
+  
+
+
+**《全在为 AI 痴狂，只剩 Meta 坚守：未来属于虚拟宇宙！》**
+
+  
+
+
+周三，Meta 在其 Horizon Workrooms 平台的一个虚拟空间中召开了一场别开生面的问答会。Meta 全球事务负责人 Nick Clegg 在该空间内与几位带着 Meta Quest 耳机的记者进行交谈，他在虚拟宇宙中再次重申，未来的计算平台的核心将会是元宇宙。Clegg 表示，Meta 将坚持下去，因为 Meta 相信，且所有过去的证据都证明元宇宙的重要性，但这需要一些时间。
+
+  
+
+
+https://www.8btc.com/article/6811486‌
+
+  
+
+
+  
+
+
+**巴比特园区开放合作啦！**
+
+  
+
+
+![](https://img.foresightnews.pro/202303/f7dcb8536e4e40e8e4d847bc9529dfe0.png?x-oss-process=style/scale70)
+
+  
+
+
+![](https://img.foresightnews.pro/202303/ef27af54365ff70cc040f4157e2f6e7a.jpeg?x-oss-process=style/scale70)
+
+  
+
+
+![](https://img.foresightnews.pro/202303/8fa93812717d18039e5848d30555ebd2.gif?x-oss-process=style/scale70)  
+
+
+中文推特：https://twitter.com/8BTC\_OFFICIAL
+
+英文推特：https://twitter.com/btcinchinaDiscord 社区：https://discord.gg/defidao电报频道：https://t.me/Mute\_8btc电报社区：https://t.me/news\_8btc![](https://img.foresightnews.pro/202303/8287da5ef763d915fd33d8b7033c23a1.jpeg?x-oss-process=style/scale70)

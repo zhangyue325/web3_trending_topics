@@ -1,0 +1,71 @@
+![](https://img.foresightnews.pro/202303/9eb3783d2a847e75f59088ad60582dc4.png?x-oss-process=style/scale70)Recently, MetaOasis announced a milestone in product development progress — completed development of SKD Alpha 0.8 and open recruitment of test partners.
+
+Click it to learn more about [MetaOasis SDK Alpha 0.8](https://metaoasis.medium.com/metaoasis-sdk-alpha-test-is-live-now-9ce40d5e3051)
+
+We’re honored to announce that a total of 10 web3 projects have confirmed their participation in the testing! They are as follows:
+
+[@Ookeenga](https://ookeenga.io/): Ookeenga is a 3D gaming project which is built on the Binance Smart Chain. With breath-taking graphics, appealing world-building, and addictive gameplay, Ookeenga is ready to create an uniquely immersive play-own-earn experience.
+
+[@SoonSwap](https://test.soonswap.xyz/): SoonSwap is the first NFT marketplace with “Limit order & AMM pool” model & “Farm” to enable more NFTs to circulate in real time.
+
+[@AstraOmniRise](https://aor.games/): Astra Universe is a decentralized gaming ecosystem that utilizes Web3 technology. By combining different game types with shared narratives, it offers cross-genre experiences. AOR stands for Astra: OmniRise. In this lightweight MMORPG game, players can play as space adventurers exploring an open virtual world.
+
+![](https://img.foresightnews.pro/202303/e7264fd97ad4014b202c345472e3aa11.png?x-oss-process=style/scale70)Astra:OmniRise’s official web[@Horizon Land](https://horizonland.app/): Horizon Land is the infrastructure platform that empowers metaverse builders to create, own, share, and collaborate effectively.
+
+[@RMG Studio:](https://rmg.studio)RMG Studio is a web3 gaming studio that focus on creating fully on-chain games with sustainable tokenomics.
+
+[@Evermoon:](https://www.evermoon.games/) The World’s First and Biggest Evolution of an Epic 5v5 3-lane MOBA Game on Web3.
+
+[@DuDuLab](https://www.dudulab.io/): DuDuLab is an NFT project team incubated by Baidu. NFT main image is Baidu’s largest IP — DUDU. The project will release the first batch of DuDu NFTs in Japan in early November, with a total of 10,000 PFP images. The first batch of DuDu NFTs is divided into five levels, of which the most rare is Dr.bear (80 copies), followed by Explorer bear, Lonely Bear, Engineering Bear, and Rebellious bear.
+
+![](https://img.foresightnews.pro/202303/7d1d9c13f6a1c963680c329d2214d4be.png?x-oss-process=style/scale70)DuDuLab’s official web[@MetaX:](https://www.meta-x.social/) MetaX is a Social-Fi project. We are creating a Social Protocol called POSW (Proof of Social Work), where we quantify users social behavior on various Social Platform and turn them into this unified POSW standard and record it onto User’s wallet.
+
+[@Hellven’s Gate](https://hellven.io):Hellven’s Gate is a new generation metaverse project developed by an experienced technical team and will be launched globally. Players will choose one of the seven races to start a second life and join in the battle of glory with global gamers. Players can enter Hellven’s world with unique hero NFTs and discover exotic treasures while uncovering the hidden truth.
+
+![](https://img.foresightnews.pro/202303/47c0edb6ea0c7bd3b11209ec792e1e4b.png?x-oss-process=style/scale70)Hellven’ Gate official web[@PlanckX](https://planckx.io/): PlanckX is a web3 game platform, providing marketing services to GameFi projects, including game listing, advertisement & transaction support.
+
+This SDK test is certainly a good opportunity for MetaOasis Lab, which has successfully incubated 5 game studios and is always looking for quality young projects, to meet new quality projects.
+
+Therefore, with the intention of helping with more excellent web3 projects, MetaOasis Lab’s assessment team also conducted very detailed and in-depth research on all the projects that signed up for the SDK test.
+
+We aim to discover and incubate more high-quality web3 projects, therefore contributing to the growth of the web3 ecosystem and advancing the field.
+
+Strictly following our incubation process and also based on the professional six-dimensional radar chart, the MetaOasis Lab team agreed that the projects enrolled in the SDK were of very high quality.
+
+![](https://img.foresightnews.pro/202303/c25d2c2897faea038a0bfd2b2d441492.png?x-oss-process=style/scale70)Incubation process of MetaOasis LabFor example, Horizon Land has built a mature Metaverse Land with very decentralized features. SoonSwap, an NFT platform, increases the revenue of holders by improving the liquidity of NFT. DuDuLab already has a large community and a very loyal group of users!
+
+We are glad to have these projects, and we believe all of us will contribute to the optimization of web3! But what surprised MetaOasis Lab the most is that we found a young but promising project — Astra: OmniRise.
+
+From a data perspective, Astra has outstanding strengths in all aspects, including product, economic model, and level of decentralization, except for being slightly weak in team and community.
+
+However, what attracted MetaOasis Lab most to Astra is that although it is a young and startup project, it already has a grand and mature vision.
+
+“Compared to other interstellar-themed games, Astra: OmniRise puts more emphasis on the personal growth of the characters, and players will experience the story of the universe from a personal perspective. Additionally, there are world events in the game that require players and the community to vote together to decide the story’s plot. This makes the story more dynamic and unpredictable, and players will have a completely different gaming experience compared to past games”, Astra’s co-founder said.
+
+It is worth mentioning that in Astra, most of the player’s assets are comprised of NFTs, which coincidentally aligns well with the spaceship-themed NFT series previously forged by Epoison Studio under the MetaOasis!
+
+Under the leadership of the expert team at MetaOasis Lab, Epoison Studio and Astra have joined forces. In the future, with Astra Studio’s entry into the MetaOasis platform ecosystem, Astra Studio will achieve NFT sharing and interconnection within MetaOasis.
+
+In some way, it enhances the confidence of deep cooperation between MetaOasis Lab and Astra! MetaOasis expects to have more players driving our spaceship shuttle through the fantastic universe of Astra.
+
+![](https://img.foresightnews.pro/202303/f3339f3e50200aab4415d1b3d19e89af.jpeg?x-oss-process=style/scale70)As a result, MetaOasis Lab has announced that we will eventually be working with Astra: OmniRise on a series of product and marketing partnerships, as follows:
+
+* **Add Value to NFT Assets Explore**
+the possibility of NFT MNP(MetaOasis NFT Protocol) integration. With that, the NFTs will be powered and used cross-games. For the NFT games, the more utilities, the higher value.
+
+* **R&D Support**
+Integrate Series SDK to solve complicated problems, optimize game theory, tokenomic and NFTassets systems.
+
+* **Marketing Support**
+Providing support for cold-start marketing: airdrop event, socialpromotions, AMAs, seasonal or themed NFTs campaign etc.
+
+* **Guilds/ Players Acquisition**
+Recommend top guilds for early excellent players, who will build a super reputation rapidly for the games and studios.
+
+![](https://img.foresightnews.pro/202303/61e755b11365cac6e2bc9ae752e66d5d.png?x-oss-process=style/scale70)We also believe that Astra: OmniRise, powered by MetaOasis, can develop a more interesting game and achieve a more prosperous ecosystem!
+
+Last but not least, I would like to thank all the partners who enthusiastically participated in the SDK and the event that brought MetaOasis and Astra: OmniRise together, and I look forward to more achievements in the field of web3!
+
+[**Twitter**](https://twitter.com/Metaoasis_) **|** [**Discord**](https://discord.gg/metaoasis) **|** [**Telegram**](https://t.me/metaoasis) **|**[**OpenSea**](https://opensea.io/collection/playerone-1p) **|** [**Website**](http://www.metaoasis.cc/) **|** [**Youtube**](https://www.youtube.com/channel/UCGLcR_Q72Uvpjf-NDuLgc6Q/featured) **|**[**Medium**](https://metaoasis.medium.com/)
+
+![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=f7635acfe3b0)

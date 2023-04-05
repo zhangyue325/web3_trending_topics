@@ -1,0 +1,51 @@
+ 
+ 精选资讯
+  
+ 我的订阅
+  [![](/_nuxt/img/news_icon1.c4d4fca.png) 彭博社：Tether 曾通过 Signature Bank 支持美国客户将美元兑换成其稳定币   Foresight News 消息，据彭博社援引知情人士报道，虽然稳定币发行商 Tether 无法直接访问美国银行系统，但在今年 3 月 Signature Bank 被关闭并受到监管机构接管之前，Tether 支持用户通过 Signature Bank 的 Signet 支付平台向巴哈马的合作银行 Capital Union Bank 发送美元来兑换其稳定币。
+
+ 快讯 2023-04-05 08:23](/news/detail/20698)[![](/_nuxt/img/news_icon1.c4d4fca.png) Gem v2 更名为 OpenSea Pro，将向早期用户空投「Gemesis」NFT   Foresight News 消息，OpenSea 宣布此前收购的 NFT 市场聚合器 Gem v2 正式更名为 OpenSea Pro，促销期间 OpenSea Pro 将以 0% 的费用运营，而 OpenSea 将恢复 2.5% 市场费用。此外， OpenSea Pro 聚合了 170 多个 NFT 市场，支持移动设备，还具有监视列表、Live Mints 概览、批量转移等功能。
+
+ 快讯 2023-04-05 08:10](/news/detail/20697)[![](/_nuxt/img/news_icon1.c4d4fca.png) DeFi Hub Nibiru Chain 完成 850 万美元种子轮融资   Foresight News 消息，DeFi Hub Nibiru Chain 宣布以 1 亿美元估值完成 850 万美元种子轮融资，Tribe Capital、Republic Capital、NGC Ventures 和 Original Capital 共同领投。Nibiru Chain 表示将利用本轮资金建立技术堆栈、团队和社区。
+
+ 快讯 2023-04-05 00:06](/news/detail/20696)[![](/_nuxt/img/news_icon1.c4d4fca.png) 加密 P2P 交易市场 Paxful 将暂停市场服务，不确定是否会重启   Foresight News 消息，加密货币点对点交易市场 Paxful 首席执行官 Ray Youssef 宣布将暂停市场服务，不确定是否会重启。Paxful 钱包可供客户取回资金。Ray Youssef 表示，「该行业的监管挑战继续加大，尤其是点对点市场和美国，在我们解决这些问题的同时，会采取最安全的选择。」
+
+ 快讯 2023-04-05 00:02](/news/detail/20695)[![](/_nuxt/img/news_icon1.c4d4fca.png) Delphi Labs 完成 1350 万美元融资   Foresight News 消息，据 CoinDesk 报道，Delphi Digital 孵化部门 Delphi Labs 完成 1350 万美元融资，P2P Validator（Lido 质押解决方案技术开发商）领投，Jump Crypto 等参投。 Delphi Labs 将利用这些资金构建一个 Web3 加速器，加速器中的每个团队将获得 20 万美元的资金。
+
+ 快讯 2023-04-04 22:15](/news/detail/20693)[![](/_nuxt/img/news_icon1.c4d4fca.png) ZK 初创公司 Polyhedra Network 完成 1500 万美元融资，Polychain 领投   Foresight News 消息，据 CoinDesk 报道，总部位于加州伯克利的 ZK 基础设施初创公司 Polyhedra Network 完成 1500 万美元 Pre-Series A 轮融资，Polychain Capital 领投。Polyhedra Network 正在构建一套专注于区块链互操作性、可扩展性和隐私的系统，包括促进跨链资产和数据传输的 zkBridge。
+
+ 快讯 2023-04-04 21:10](/news/detail/20687)[![](/_nuxt/img/news_icon1.c4d4fca.png) LayerZero 以 30 亿美元估值完成 1.2 亿美元 B 轮融资   Foresight News 消息，据 CoinDesk 报道，跨链互操作性协议 LayerZero 以 30 亿美元估值完成 1.2 亿美元 B 轮融资。根据 LayerZero 发布的融资信息图片，投资方包括 a16z Crypto、Atrum Global、Bixin Ventures、BOND、BPEA EQT、Chapter One、佳士得拍卖行、Com2uS、Franklin Templeton、GCR、GS Futures、IOBC Capital、K5 Global、King River Capital、Lightspeed Venture Partners、Maple、MVP Ventures、NGC Ventures、OKX Ventures、OpenSea Ventures、Protofund、Samsung Next 和红杉资本等。LayerZero 将利用该笔资金扩大增长计划，包括招聘和扩大公司在亚太地区的业务。
+
+ 快讯 2023-04-04 21:02](/news/detail/20686)[![](https://img.foresightnews.pro/202304/842-1680610034970.png?x-oss-process=style/article_img) PancakeSwap 新推出的 V3 版本有什么不同  PancakesSwap V3 加深了 PCS 一直引以为傲的特性，改善了散户的用户体验和激励，同时受益于 Uni V3 的资本效率。  2023-04-04 21:02](/article/detail/29913)[![](/_nuxt/img/news_icon1.c4d4fca.png) Su Zhu 等人创办的加密索赔和交易平台 OPNX 正式上线   Foresight News 消息，Three Arrows Capital 创始人 Su Zhu 等人创办的加密索赔和交易平台 Open Exchange（OPNX）宣布正式上线。OPNX 表示，接下来将向用户支持 Celsius、FTX 资产索赔。根据官方网站，OPNX 目前支持加密货币现货和衍生品交易服务。
+
+ 快讯 2023-04-04 20:43](/news/detail/20685)[![](https://img.foresightnews.pro/202304/842-1680601517867.png?x-oss-process=style/article_img) 加密显学：ZK Rollup 未来将会与 Op Rollup 形成怎样的竞争格局？​  在 Optimistic Rollup 起势之后，ZK Rollup 正在迎来属于它的春天。  2023-04-04 20:10](/article/detail/29905)[![](/_nuxt/img/news_icon1.c4d4fca.png) 「FORESIGHT 2023 HK」年度峰会议程正式公布   Foresight News 消息，由 Foresight Ventures 与 Foresight News 联合主办的「FORESIGHT 2023」年度峰会完整议程正式公布，4 月 10 日全天设置了多场主旨演讲和八场主题圆桌，圆桌主题分别为《大浪淘沙 | Web3 连续创业者「香江对话」》、《GPT-4 浪潮下，Web3 的未来畅想》、《华人之光 | 世界瞩目的华人 Web3 项目》、《Long China, Long Crypto》、《DeFi VS CeFi ：对抗与融合》、《公链红海中「潜力生态」掘金机会》、《ZK Summer 将至？哪些赛道值得关注》以及《全球顶级投资人眼中 Web3 新风向》，届时 60 余位行业领袖、顶级投资人及 Web3 建设者们将围绕上述话题进行分享及讨论。
+
+ 快讯 2023-04-04 19:56](/news/detail/20682)[![](/_nuxt/img/news_icon1.c4d4fca.png) 沙特公共投资基金风投部门 Sanabil 披露对 a16z、Coatue Management 等的投资   Foresight News 消息，据 The Information 报道，资管规模达 6200 亿美元的沙特公共投资基金 Saudi Public Investment Fund 的风险投资部门 Sanabil 披露其与近 40 家美国风险投资公司和少数国际基金的合作伙伴关系，包括对 Andreessen Horowitz (a16z)、Coatue Management、KKR 和 Peter Thiel 支持的 Valar Ventures 等公司的投资。
+
+ 快讯 2023-04-04 19:47](/news/detail/20680)[![](https://img.foresightnews.pro/202304/842-1680602773472.jpg?x-oss-process=style/article_img) 万字解析 Curve 的演进之路：超越代币设计的协议可持续之道  一文了解 Curve 不同阶段的演进之路，探究其发展背后的重要事实和关键举措。  2023-04-04 19:23](/article/detail/29892)[![](/_nuxt/img/news_icon1.c4d4fca.png) NFT 平台 OneOf 收购区块链奖励公司 Tap Network   Foresight News 消息，据 CoinDesk 报道，NFT 平台 OneOf 收购了区块链奖励工具 Tap Network，以帮助公司在 Web3 中与其消费者建立联系。OneOf 将推出 OnePlatform，这是一个 turnkey 选项，适用于希望扩展到 Web3 的公司，结合了电子商务、数据和忠诚度计划的元素。
+
+ 快讯 2023-04-04 19:08](/news/detail/20677)[![](https://img.foresightnews.pro/202304/5-1680604263501.png?x-oss-process=style/article_img) 一文读懂 Eclipse：可定制的 Rollup 解决方案  使用 Eclipse 构建的 Rollup 可以自定义数据可用性层和执行环境，而共用统一的结算层。  2023-04-04 18:40](/article/detail/29907)[![](/_nuxt/img/news_icon.00f3f96.png) DappRadar DeFi 榜单：BitKeep Swap 过去 30 日活跃钱包数位列第一，增幅超 4 倍   Foresight News 消息，据 DappRadar DeFi 排行榜数据，BitKeep Swap 在过去 30 天内以 330,540 个活跃钱包数（UAW）位居榜首，实现了 436% 的增长。其中主要贡献来自 Arbitrum 和 Polygon 链，过去 30 日，BitKeep Swap 交易用户数在 Arbitrum 链上增长了 5659.3%，在 Polygon 上增幅 47.23%。
+
+ 快讯 2023-04-04 18:31](/news/detail/20672)[![](https://img.foresightnews.pro/202304/842-1680591475563.png?x-oss-process=style/article_img) 深入去中心化媒体：区块链技术与第四产业的过去、现在和未来  比特币最初的主要功能是作为一种金融工具，但其与媒体行业的联系从一开始就显而易见。  2023-04-04 18:07](/article/detail/29887)[![](/_nuxt/img/news_icon1.c4d4fca.png) Dragonfly 向 Bitget 战略投资 1000 万美元   Foresight News 消息，Dragonfly 已向 Bitget 战略投资 1000 万美元。此次投资将支持 Bitget 的全球扩张和产品线扩展，并开展更多加密资产相关的公益教育行动。
+
+ 快讯 2023-04-04 18:03](/news/detail/20671)[![](/_nuxt/img/news_icon1.c4d4fca.png) SPACE ID 发布 2.0 正式版本，支持系列报价、Gift Card 等四大功能或活动   Foresight News 消息，Web3 域名和身份平台 SPACE ID 宣布发布 SPACE ID 2.0 正式版本，支持系列报价、SPACE ID Gift Card、Referral Program（推荐计划）、SPACE ID Voyage Program 四大功能或活动。其中，BNB Chain 和 Arbitrum 现已支持 SPACE ID Gift Card，兑换的积分可用于抵消 .bnb 或 .arb 域名注册和续期费用。另外，从 4 月 3 日开始，SPACE ID Voyage Season 2 — Striking 活动中，SPACE ID 允许用户通过系列出报价来赚取 Striking 积分。
+
+ 快讯 2023-04-04 17:25](/news/detail/20668)[![](https://img.foresightnews.pro/202304/842-1680599518979.jpeg?x-oss-process=style/article_img) 3A 链游的畅想：链游与 3A 大厂面临的困境  从玩家、经济模型、基础设施、缺乏制约等角度来讨论链游的困境。  2023-04-04 17:12](/article/detail/29899)[![](/_nuxt/img/news_icon1.c4d4fca.png) 法庭文件：Voyager 和 Binance.US 交易法律争议需在 4 月 13 日之前得到解决   Foresight News 消息，据 CoinDesk 报道，一份法庭文件称，如果美国政府提出的法律反对意见未能在 4 月 13 日之前得到解决，Voyager 及其债权人将损失 1 亿美元。Voyager 的债权人提交的文件称，在 4 月 13 日之前完成该计划对于维护债权人利益是有必要的。
+
+ 快讯 2023-04-04 16:57](/news/detail/20666)[![](https://img.foresightnews.pro/202304/842-1680593787417.png?x-oss-process=style/article_img) 四个扩容团队聊以太坊前沿技术：去中心化 Sequencer、EOF、4844 和模块化  Arbitrum 的中心化 Sequencer 会产生什么问题？  2023-04-04 16:32](/article/detail/29894)[![](/_nuxt/img/news_icon.00f3f96.png) zkSync：zkSync Era 部分用户出现存款失败问题，将 24 小时内部署修复程序   Foresight News 消息，zkSync 在 Discord 社区表示，zkSync Era 的一部分用户会受到存款失败问题，团队正在努力工作，预计将在未来 24 小时内部署修复程序。
+
+ 快讯 2023-04-04 16:28](/news/detail/20663)[![](/_nuxt/img/news_icon.00f3f96.png) 一零转账骗局攻击者从一笔交易中窃取约 85 万 USDT   Foresight News 消息，据 PeckShield 监测，4 月 4 日 15:03，一个零转账骗局攻击者从一笔交易中获利约 85 万 USDT。
+
+ 快讯 2023-04-04 16:20](/news/detail/20662)[![](https://img.foresightnews.pro/202304/842-1680594418460.jpg?x-oss-process=style/article_img) Foresight Ventures：AI + Blockchain = ?  区块链能给 AI 提供独特的基础设施，AI 也是改变 Web3 生产关系的重要工具，两者互相成就。  2023-04-04 15:48](/article/detail/29893)[![](/_nuxt/img/news_icon1.c4d4fca.png) Bitget 推出 DOGE 交易空投活动   Foresight News 消息，在 Twitter 将网页 Logo 图标更换为 Dogecoin Logo 后，Bitget 宣布推出 DOGE 交易空投活动，总奖池为 50,000 BGB 和 10,000 USDT，活动时间为北京时间 4 月 4 日 13:00 至 4 月 11 日 13:00。另外，Bitget 于今日上线 Meme 专区，包含 DOGE、SHIB、BONE、FLOKI 等多个项目。
+
+ 快讯 2023-04-04 15:23](/news/detail/20656)[![](/_nuxt/img/news_icon.00f3f96.png) 数据：DOGE 名义未平仓合约价值达到 6.39 亿美元，过去 24 小时爆仓 2683 万美元   Foresight News 消息，据 Coinglass 数据显示，当前 Dogecoin 代币 DOGE 名义未平仓合约价值达到 6.39 亿美元，24 小时增加 79.21%。另外，过去 24 小时，DOGE 期货合约爆仓 2683 万美元，仅次于比特币期货合约爆仓量（5804 万美元）。据 OKX 数据显示，DOGE 价格当前已上涨至 0.1 美元左右，日内上涨近 30%。
+
+ 快讯 2023-04-04 15:11](/news/detail/20655)[![](https://img.foresightnews.pro/202304/842-1680590825374.jpeg?x-oss-process=style/article_img) zkSync Era∎ 第一批项目来了，都还没发币  zkSync 预期高涨，5 个值得关注的生态项目交互教程。  2023-04-04 15:08](/article/detail/29886)[![](https://img.foresightnews.pro/202304/842-1680587367696.png?x-oss-process=style/article_img) 马斯克将推特 Logo 改为狗狗币表情，意欲何为？  一文说透狗狗币。  2023-04-04 14:27](/article/detail/29876)[![](https://img.foresightnews.pro/202304/842-1680586855697.png?x-oss-process=style/article_img) 解读 EigenLayer：通过「再质押」扩展以太坊信任层  一文详解 EigenLayer 背景、运作原理、用例及存在的问题。  2023-04-04 13:49](/article/detail/29875) 
+ 查看更多
+  ### 快讯
+
+  [查看更多](/news)    ![](/_nuxt/img/empty.2045058.png) ### 日历
+
+  [查看更多](/calendar)    ![](/_nuxt/img/empty.2045058.png) ### 推荐专栏
+
+  [查看更多](/column)    ![](/_nuxt/img/empty.2045058.png)

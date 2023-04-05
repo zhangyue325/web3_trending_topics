@@ -1,0 +1,96 @@
+3 月 20 日至 24 日，一年一度的游戏行业盛会 Game Developers Conference 2023（GDC 2023）在美国旧金山举行。据 GDC 官方于 3 月 29 日公布的数据，GDC 2023 吸引了超 2.8 万名与会者，共计超过 1000 位演讲者和 700 场会议、研讨会、圆桌会议。要知道，受疫情影响，GDC 大会已连续取消两届，2022 年恢复后也似乎人气不再，仅有 1.2 万人参加，与盛况空前的 GDC 2019 的 2.7 万与会人数相去甚远。正如官方所说，只有一种方式可以描述今年的大会：「GDC 回来了」。
+
+![](https://cdn-img.panewslab.com/panews/2023/03/30/images/HlSwB5428U.png)
+
+GDC 的核心是一年一度的主舞台展示，今年的主题是「游戏的未来」，这与近些年才进入大众视野且方兴未艾的区块链游戏在理念上不谋而合。在 GDC 2023，有超过 20 场的会议专门讨论区块链游戏，举办方既有 Web3 独角兽 Polygon、Immutable，也有转型发展 Web3 游戏的传统游戏巨头 WeMade、Nexon 等。而与会的项目方还有 Avalanche、Boba Network、Chainlink、Cronos 等加密基础设施，以及 Createra 等一众 Web3 游戏开发团队。
+
+总的来看，链游赛道在大会期间颇为热闹，有多家公司相互联手宣布达成战略合作，也有成功转型 Web3 的游戏发行商分享构建游戏及其平台的经验，本文将介绍 GDC 2023 期间部分值得关注的信息。
+
+多家头部机构相互联手建立合作
+--------------
+
+根据 Delphi Digital 的报告，以太坊的 layer2 扩容方案 Immutable X 和 Polygon 的游戏生态系统在 2022 年均累计获得了近 9 亿美元的投资，成为链游赛道名副其实的龙头。就在 GDC 开幕之际，Polygon Labs 和 Immutable X 母公司 Immutable 就先放出了大新闻。双方宣布建立战略合作伙伴关系，以加速 Web3 游戏的开发，将合作创建 Immutable zkEVM，一个基于 Polygon 的零知识技术构建的 EVM 兼容的 zk-rollup 扩容解决方案。值得一提的是，I 在公开这一消息的当天，Immutable 还顺带公布了 IMX 的两项效用升级：平台费用的 20% 必须以 IMX 支付；IMX 将被用作 Immutable zkEVM 的核心 Gas 货币，成为原生网络代币。
+
+![](https://cdn-img.panewslab.com/panews/2023/03/30/images/Lif02Lg0Hr.png)
+
+  
+
+
+Polygon 还将目光聚焦到了亚洲，为韩国游戏巨头 Nexon 进入区块链行业提供了支持。在 GDC 大会的第二天，Nexon 宣布其正在创建一款名为《MapleStory Universe》的 Web3 游戏，并将通过 Polygon Supernet 获得该游戏的「专用应用程序链」。《MapleStory Universe》基于 Nexon 在 2003 年推出的 2D 横版卷轴网络游戏《MapleStory》（枫之谷，又称「冒险岛」），后者在近二十年间一直广受欢迎，迄今已产生超过 40 亿美元的收入，注册用户累计超过 1.8 亿。MapleStory Universe 的开发团队在声明中表示将与 Polygon Labs 的团队密切合作，开发和营销这款新游戏。
+
+![](https://cdn-img.panewslab.com/panews/2023/03/30/images/PgF5kDD6pA.png)
+
+虽未达成进一步战略合作，Polygon Labs 还与韩国游戏巨头 NEOWIZ 一起联合参加 GDC 大会，宣传后者开发的创新 Web3 游戏平台 Intella X，并展示即将在该平台推出的 FPS 游戏《A.V.A》、NFT PFP 项目「Early Retired Cats Club」等。此外，国人熟知的手机品牌 OPPO 也和元宇宙平台 Createra 达成光线追踪技术等合作，将一起为用户带来更好的游戏体验，双方也在美国游戏大会 (GDC) 上联合参展。
+
+![](https://cdn-img.panewslab.com/panews/2023/03/30/images/687s5v7pNI.webp)
+
+GDC 大会第四天，Near Foundation 宣布同已成功转型 Web3 的韩国游戏公司 WeMade 建立战略合作伙伴关系，负责监督 Near Protocol 在韩国和亚洲的业务发展的 Near Korea Hub 在此次合作中发挥了关键作用。WeMade 与 Near Foundation 签署了业务协议，双方将共同支持提高相互品牌知名度的举措；投资于跨链的研究和合作；举办更多社区活动，例如编程马拉松和训练营；以及发掘潜在的 Web3 商机，培育下一代 Web3 开发者。
+
+![](https://cdn-img.panewslab.com/panews/2023/03/30/images/Zdnjwi1huG.jpg)
+
+Immutable X 继续扩张 Web3 游戏版图
+--------------------------
+
+Immutable X 是 Web3 领域中发展最快的独角兽公司之一，其在短时间内吸纳了众多链游项目，并仍保持着快速发展的势头。在 GDC 大会期间，Immutable X 宣布与 BazookaTango、Bit Fry Game Studios 和 Studio 369 三家游戏工作室达成合作关系。Immutable X 将通过与 Polygon 联合推出的 Immutable zkEVM 来与三家工作室共同完成游戏开发，以进一步扩展其 web3 游戏系列。
+
+Bazooka Tango 与 Immutable X 的合作意在通过结合 Web3 的方式，使已经基本「凉透」战棋游戏《Shardbound》东山再起。这款游戏最初由 Spiritwalk Games 于 2015 年推出，有着精美的游戏画面和美术设计，并曾收获了充满热情的玩家社区，但受制于开发团队缺乏资金等原因，造成游戏开发不完整，因而很快就日薄西山，其版权现归 Bazooka Tango 所有。Immutable X 和 Bazooka Tango 仍未决定新的 Web3 版本将在哪些游戏平台上发布，目前 Steam 和对 NFT 友好的 Epic Games Store 都是考虑对象。
+
+![](https://cdn-img.panewslab.com/panews/2023/03/30/images/d3oS899T4T.jpg)
+
+  
+
+
+Bit Fry Game Studios 是一家独立游戏工作室，主打各类体育游戏，得到过专注于游戏的风投公司 BitkraftVentures 和已故的前 NBA 总裁大卫斯特恩等支持。通过与 Immutable X 合作，他们致力于颠覆体育游戏类型，其第一步便是宣布合作推出《Infinite Victory》。这是一款未来科技风的街机体育游戏，在以 Bit Fry Game Studios 早前发布的《Ultimate Rivals》的基础上，通过应用 P2E 和 NFT 机制，打造一款结合篮球、曲棍球等多种运动的快节奏比赛。
+
+![](https://cdn-img.panewslab.com/panews/2023/03/30/images/tOt8P2d8l5.png)
+
+以 Oculus Quest 2 上的 VR 机甲游戏《World of Mechs》而闻名的 Studio 369，正着手开发 Web3 中第一款开放世界的机械化格斗游戏《MetalCore》，与 Immutable 合作旨在进一步优化其 Web3 策略并获得技术方面支持。为顺利进行该游戏的开发，Studio 369 于年三月完成了 1500 万美元的融资，投资者包括 Bitkraft Ventures、Immutable 等。在游戏中，玩家将在矿产丰富的外星球上，通过赢取车辆和机器、制作装备、招募飞行员、开发土地、出售和交易他们的装备等方式，进行外星领土争夺战。在去年年底，该游戏获得了 GAM32022 最佳射击游戏奖。
+
+![](https://cdn-img.panewslab.com/panews/2023/03/30/images/AkSyPYz8ST.jpg)
+
+  
+
+
+Wemade 分享转型生意经
+--------------
+
+在 GDC 大会上，WeMade 着重展示了其 WEMIX PLAY 平台，并围绕它举行了三场会议。WEMIX PLAY 采用包括 Tokenomics、GameFi、Marketplace 和 Community 在内的「四大模块系统」，满足各种游戏类型和平台的需求，提供了将传统游戏转变为区块链游戏的全面解决方案。据 WeMade 称，目前约有 50 万人正在使用该平台。
+
+*相关阅读：《*[*WeMade 打造链游生态 WeMIX，是再造新「传奇」还是谋划新「骗局」*](https://www.panewslab.com/zh/articledetails/o6yo9m4b.html)*》*
+
+WeMade 首席执行官 Henry Chang 就游戏的未来以及区块链技济和游戏的影响发表了主题演讲。讨论了其成功推出 25 款以上的 Web3 游戏、平台的优势以及服务区块链游戏的诀窍。他表示所有游戏最终都会发行自己的代币和 NFT，从而通过区块链技术和代币经济学提升游戏可玩度。不过他也强调，「靠玩赚钱的游戏」不会获得长久的成功，因为它们缺乏具有吸引力的游戏玩法和可持续性；相反，将代币经济学融入本就受到玩家喜爱的游戏中，才是让区块链游戏实现繁荣的关键。
+
+![](https://cdn-img.panewslab.com/panews/2023/03/30/images/jDA740T8DH.jpeg)
+
+WeMade 执行副总裁 Wonil Suh（简称 Won）深入探讨了 Web3 游戏中代币经济学的演变，详细介绍了从低质量并强制性应用 NFT 的第一代游戏，到具有良好游戏性和更平衡的游戏内经济的第三代游戏的转变过程。他向游戏开发商强调，要谨慎对待只依赖销售 NFT 的商业模式，因为不仅竞争对手将会轻松发起挑战，更有经验的游戏玩家也不会再轻易买账。Won 还分享了从 WeMade 的 Web3 游戏中学到的五个重要经验教训：漂亮的代币曲线十分稀少；供应太容易会导致代币价格下降；过早限制供应会损害玩家兴趣；监控游戏的代币经济学至关重要；再好的代币经济学也救不了要凉凉的游戏。
+
+![](https://cdn-img.panewslab.com/panews/2023/03/30/images/HDErr7W46o.jpeg)
+
+此外，WeMade 也强调了游戏行业内协作和伙伴关系的重要性。他认为，培养社区意识并与其他开发人员、平台和利益相关者一起工作，可带来创新的解决方案并进一步发展 Web3 游戏领域。
+
+Com2uS 谈如何塑造 Play to Own
+------------------------
+
+Com2uSUSA 总裁 Kyu Lee 在 GDC 上主持了一场关于可持续代币经济学的会议，分享了对「Play-to-Own (P2O)」的有关见解，并介绍了将如何为《Summoners War: Chronicles 》构建稳定、增强型的代币经济学结构。
+
+《Summoners War: Chronicles》是一款奇幻 RPG 游戏，基于下载量超 1.8 亿次的「Summoners War: Sky Arena」IP。该游戏于去年 8 月在韩国上线，今年 3 月 9 日在全球 170 多个国家发行后，一周内就获得了突破 100 亿韩元（约 765 万美元）的销售额。今年 7 月，Chronicles 的区块链游戏版本将在 Com2uS 自己推出的链游平台 XPLA 上发布。
+
+![](https://cdn-img.panewslab.com/panews/2023/03/30/images/I05uKhrn94.jpg)
+
+Kyu Lee 表示，现有的 Play-to-Earn (P2E) 游戏的代币经济学结构是通过简单的代币奖励系统来关注玩家的流入，它吸引了大量对游戏并不真正感兴趣的玩家。这种情况下，玩家们获得的代币不是用于进一步激活游戏内经济，而是被带离游戏，最终导致代币和游戏内货币之间的汇率崩溃。
+
+「与 P2E 游戏不同，Play-to-Own (P2O) 模型旨在构建可持续的代币经济学。P2O 是为真正的玩家创造核心游戏内容，因此他们可以通过花费时间和精力来生产有价值的游戏内物品，然后鼓励这些物品在游戏内经济中不断循环。」他将《Summoners War: Chronicles》作为理想代币经济学的例子，并表示这款游戏将是第一个将 AAA 游戏链接到区块链主网的成功案例，并将成为「可持续 Web3 游戏的里程碑」。
+
+总结
+--
+
+从 GDC 2023 大会可以看出，游戏行业的业内人士始终在关心 Web3 游戏这一领域的试验、变化与发展。但显然 Web3 游戏开发团队的技术力、制作水准乃至认知水平都亟待提升。无论是「Web3」还是「元宇宙」、「NFT」，这些标签本身并不能广泛激起大多数游戏玩家的兴趣，甚至由于过分注重金融属性、设计敷衍等问题，相当一部分游戏开发人员对可玩性毫不在意，而只顾钻研代币经济体系。
+
+GDC 大会上还公布了多个游戏奖项及提名，其中黑暗奇幻风动作 RPG 游戏《艾尔登法环》（Elden Ring）「无悬念」成为最大赢家，包揽 TGA、金摇杆、DICE、GDC 四大奖项。而各类奖项的提名中，Web3 游戏无一入围。由此可见，回归游戏本身，Web3 游戏现阶段与传统游戏相比并不具备优势，许多项目方大谈特谈的代币经济学，在无聊的游戏设计中变成了空中楼阁。
+
+尽管目前发展水平有限，但近些年来，整个 Web3 行业始终对游戏赛道抱有极高的期望，这也表现在了一级市场的资金流向上：根据 DappRada 发布的元宇宙第一季度报告，区块链游戏和元宇宙项目在 2023 年第一季度中获得的资金最多，占总投资的 32.7%。
+
+随着不同地区的多个传统游戏巨头陆续主动拥抱 Web3，以及区块链基础设施公司不断迭代，构建更加适合大型游戏的底层技术。越来越多人相信，游戏很可能会成为 Web3 破圈的流量入口。而打开这个入口的，或许将会是一个真正优质的，能够笑傲未来某届 GDC 大会的游戏。
+
+会在明后两年吗？让我们拭目以待。
+

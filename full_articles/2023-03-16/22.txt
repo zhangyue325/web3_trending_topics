@@ -1,0 +1,88 @@
+稳定币是区块链世界中绕不开的话题，算法稳定币成了 Ponzi 的代名词，而以往我们普遍认为安全的合规稳定币 USDC 也险些因为硅谷银行的倒闭而遭受损失。如何设计一种既有底层资产支撑，又能帮用户获得收益，且相对去中心化的稳定币，Tangible 给出了一种思路。
+
+Tangible 主打「现实世界资产 + 稳定币」的概念，根据 Defi Llama 的数据，截至 3 月 15 日，它的 TVL 在过去一个月增长了 15.7 倍，是 Polygon 上近期增长最快的项目之一。在快速增长的同时，Tangible 的核心数据并未做到公开透明，也暗藏风险。
+
+![](https://cdn-img.panewslab.com/panews/2023/03/15/images/BAiiH58i0d.png)
+
+USDR：以高息揽储，Velodrome 和 Thena 上的贿赂大户
+-----------------------------------
+
+积极寻找流动性挖矿机会的 DeFi 用户可能会发现，近期 Velodrome 和 Thena 上出现了一种收益率极高的稳定币，wUSDR/USDC 交易对在这两个 DEX 中的 APR 通常高达 100%。根据这两个 Fork 自 Solidly 的 DEX 的机制，USDR 的发行商 Tangible 要么持有大量的 veToken 以用于投票，要么每周支付贿赂，吸引 veToken 的持有者给自己投票。
+
+Dune@0xkhmer 整理的仪表板显示，wUSDR/USDC 交易对目前是 Optimism 上的 DEX Velodrome 的最大贿赂者，超过了 USDC/DOLA、SONNE/USDC 等交易对。最近一周的贿赂金额约为 9.3 万美元，且每周的贿赂金额递增。贿赂的资金主要是稳定币 USDC 或 USDR 的封装版 WUSDR，还有一部分为 OP。
+
+![](https://cdn-img.panewslab.com/panews/2023/03/15/images/Da1Fl7LpuS.png)
+
+![](https://cdn-img.panewslab.com/panews/2023/03/15/images/2OF5vOq1m2.png)
+
+类似的情况也出现在了 BNB 链的 Thena 上，最近一周，wUSDR/USDC 交易对在 Thena 上支付的贿赂金额为 3.5 万美元，贿赂金额同样在持续上升，且全部通过稳定币 USDC 支付。
+
+![](https://cdn-img.panewslab.com/panews/2023/03/15/images/JY1s6gPwtG.png)
+
+这意味着 Tangible 在一周内支付了相当于其 TVL（959 万美元）1.3% 的资金用于贿赂，以吸引流动性，如果支付贿赂的资金来源是铸造稳定币的储备金，这将是非常危险的。Tangible 声称贿赂资金来源于项目收益，那么这是否可信，Tangible 又有些什么业务呢？
+
+TNFT 市场
+-------
+
+Tangible 中主要有两种产品 TNFT（Tangible non-fungible token，Tangible 非同质化代币）市场和稳定币 USDR。
+
+Tangible 允许用户使用加密货币从供应商处购买商品，Tangible 铸造 TNFT 发送给购买者，并将这个 TNFT 代表的实体物品存放在 Tangible Custody 处。TNFT 的所有者可以转移、出售自己的资产，也可以兑换成实物。详细的流程如下所示。
+
+* 用户在 Tangible 市场上浏览和购买商品，智能合约处理相关商品价格和费用。
+* 铸造与该商品对应的 TNFT 并发送到购买者钱包，TNFT 可以用于持有或交易。
+* 同时，Tangible 从供应商合作伙伴处购买实物。
+* 购买的实物被运送到实体保险库中。
+TNFT 对应的实体资产可以是艺术品、葡萄酒、古董、金条、金条、房地产等流动性并不是很好的商品。
+
+另外，Tangible 也提供碎片化服务（Tangible Fractions），TNFT 的持有者可以指定价格出售持有的 TNFT 的一部分。如一款手表价值 10 万美元，TNFT 的持有者可以 4.2 万美元的价格将手表 40% 的价值挂单出售。
+
+Tangible Custody 负责从供应商处采购实体商品，并铸造 TNFT，TNFT 的所有者就是资产的所有者。Tangible 称 Tangible Custody 将每年进行一次审计，涵盖商品来源、供应链的完整性和资金流动等，确保实物信息和铸造的 TNFT 对等。虽然官方称审计已经在进行中，但截至 3 月 15 日，Tangible Custody 并未发布过任何审计报告。
+
+稳定币 USDR 的运行机制
+--------------
+
+在以上系统的基础上，Tangible 发行了一种稳定币 Real USD（USDR），主要投资于通证化的房地产代币，并获得收益。从长期来看，房地产是持续升值的，投资的房地产会出租给租户，收益每天通过 rebase 的方式支付给 USDR 的持有人。
+
+USDR 通常通过 DAI 1:1 铸造，但也有少量份额可通过 Tangible 的原生代币 TNGBL 铸造。可通过 TNGBL 铸造的 USDR 数量 =（已铸造的 USDR 数量 - 已赎回的 USDR）\*10%。
+
+![](https://cdn-img.panewslab.com/panews/2023/03/15/images/aaZ33vLrW0.png)
+
+  
+
+
+铸造 USDR 的储备金中：
+
+* 50%-80% 投资于 Tangible 房地产 NFT；
+* 10%-50% 以 DAI 的形式持有；
+* 10% 以 TNGBL 的形式持有；
+* 10%-20% 为协议 Curve 上协议拥有的流动性；
+* 5%-10% 为保险基金。
+也就是可以有 10% 的 USDR 可以用 TNGBL 1:1 的铸造，其余部分以 DAI 1:1 铸造。大部分储备金投资于 Tangible 房地产 NFT，协议拥有的流动性仅占 10%-20%。Tangible 预计投资于房地产的年化收益率为 5.22%，现在为了进行激励，还有 10% 的 TNGBL 奖励，持有 USDR 的收益率即可达到 15.22%。
+
+不能赎回怎么办？
+--------
+
+由上可知，铸造 USDR 的储备金中，至少有 60% 的资金投向了房地产 NFT 或自身的 TNGBL 代币。Tangible 持有少量 DAI，以方便用户赎回，如果因为房地产或者 TNGBL 价格下跌，或者大户想要退出而没有流动性怎么办？Tangible 持有的用于退出的流动性可能不够，但项目方早已为此想好了办法。
+
+如果 Tangible 中剩余的 DAI 耗尽，想要将 USDR 赎回的用户会 1:1 的收到 pDAI。pDAI 代表了对 DAI 1:1 的索取权，如果房地产 TNFT 卖出，剩余资金将转回国库，让用户赎回。
+
+Tangible 的资产负债表
+---------------
+
+如下图所示，Tangible 官网数据显示，目前发行的 USDR 数量为 782 万，而协议拥有的总的资产为 964 万美元。项目中有 182 万美元的盈余，因此虽然每周支付大量稳定币用于贿赂以吸引流动性，Tangible 也有理由说贿赂资金来源于利润。
+
+![](https://cdn-img.panewslab.com/panews/2023/03/15/images/7Uf1U6eIc7.png)
+
+即使除去持有的 TNGBL，Tangible 的储备金仍然超过 100%。可以认为该数据表明 Tangible 持有的房产 NFT 的升值超过了支付的贿赂。
+
+总结与思考
+-----
+
+USDR 的稳定币模式可以为稳定币设计提供一种思路，即底层持有能够生息的资产，稳定币的持有者可以获得收益，避免 Circle 这类中心化稳定币发行商自己获得资产收益又无法完全保障资金安全的情况。
+
+但是 Tangible 并没有强有力的背书，所有实物资产和发行 TNFT 的权限都由 Tangible Custody 自行控制，在官方给出强有力的证据之前，通过该项目购买 TNFT 有很高的交易对手风险，保持对该项目的怀疑可能是更好的选择。
+
+在 USDR 发行量只有 782 万的情况下，Tangible 每周仅在 Velodrome 和 Thena 中支付的贿赂资金就约为 12.8 万美元。通过高额收益吸引用户用 DAI 1:1 地铸造 USDR，这种情况可能是难以持续的。
+
+同样因为中心化问题，Tangible 也可以操控 Tangible Custody 发行的 TNFT 的价格，以实现「超额储备」。
+

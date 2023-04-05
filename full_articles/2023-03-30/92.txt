@@ -1,0 +1,37 @@
+Unift 协议与 PermaDAO 达成战略合作，将提供第一个具有永久分散数据存储的 Nostr Graph 服务。
+
+![](https://img.foresightnews.pro/202303/83653d22028c0aca8247e7587e4b63af?x-oss-process=style/scale70)去中心化和 Web3 经常被认为是下一个主要趋势之一，许多聪明的人致力于解决当前 Web2 中的过度中心化问题。 然而，许多 Web3 项目仍然依赖于中心化的服务，这使他们无法实现真正的去中心化。
+
+最近出现的 Nostr 协议激发了 Web3 实现真正去中心化的新可能性。简而言之，Nostr 是一个去中心化的消息传递协议，它允许用户在不依赖中央服务器或点对点架构的情况下交换签名信息。相反，它使用一个中继器网络，这是任何人都可以注册运行的服务器。这为创建更理想的去中心化应用提供了全新的可能性。
+
+由于 Nostr 是作为一个简单的轻量级协议建立的，目前还缺少许多开发者需要的组件，其中之一就是开发者需要存储、组织和查询他们的数据进行分析。
+
+Unift 和 PermaDAO 合作，为开发者提供有史以来第一个为 Nostr 量身定做的图谱服务，具有永久性的分散数据存储。
+
+Unift-Nostr-Service 是第一个基于 Nostr 协议的公共图形服务。任何用户都可以通过向图谱账户发送私人信息来管理他们的数据，并通过标准的 graphsql 来查询他们的数据。
+
+ArNostr 是一个由 PermaDAO 孵化的项目，使用 Arweave 基础设施开发。它使 Nostr 上的数据以去中心化的方式永久存储，防止数据丢失。这种合作关系可以帮助开发者节省开发时间，专注于他们的开发，同时知道他们的数据是安全的，并可以通过利用 Unift Nostr Graph 轻松地进行分析。
+
+开发人员可以开始在 Nostr 上构建更好的应用程序，更好地监督他们的数据和分析。了解如何利用 Unift Nostr Graph 快速开始建设：<https://doc.unift.xyz/unift-nostr-service>
+
+在 Nostr 的基础上，Unift Protocol 旨在帮助开发者和企业快速创建完全去中心化的应用程序，可以像 Web2 一样处理复杂的业务逻辑，而不影响可扩展性、安全性和去中心化。
+
+Website: <https://unift.xyz>   
+Twitter: <https://twitter.com/unift_protocol>
+
+PermaDAO 是由 Arweave 共同建设者组成的社区建立的。所有的参与者都可以在这里找到自己的角色，为 Arweave 的生态系统做出贡献。任何关于 Arweave 的建议和任务都可以在这里发布，也可以得到整个社区的支持和反馈。加入 PermaDAO，构建 Web3!
+
+Website：https://permadao.com
+
+Twitter: <https://twitter.com/perma_dao>
+
+Discord: <https://discord.gg/G5UDdPbbkP>
+
+Arweave 是一个建立在 blockweave 技术上的数据存储协议。Arweave 正在开发一个底层网络，在这个网络中，数据可以被永久存储，并在其 permaweb 上进行访问，这是一个二层，数据可以以人类可读的方式进行访问（例如通过网络浏览器）。
+
+Website: <https://www.arweave.org/>  
+Twitter: <https://twitter.com/ArweaveEco>
+
+🔗 **关于 PermaDAO 更多信息：**[**Website**](https://www.notion.so/PermaDAO-OLD-4c0bd73f5a1c4410ad72a32e1718ebb6) **|** [**Twitter**](https://twitter.com/perma_daoCN) **|** [**Telegram**](https://t.me/+UEnIssIHTn0wZDc1) **|** [**Discord**](https://discord.gg/y6CmaAdVD8) **|** [**Medium**](https://medium.com/@permadao) **|**[**Youtube**](https://www.youtube.com/@permadao)
+
+![](https://img.foresightnews.pro/202303/dfd5fda6be9130764bc63bde15d40e09?x-oss-process=style/scale70)![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=192142e185e4)

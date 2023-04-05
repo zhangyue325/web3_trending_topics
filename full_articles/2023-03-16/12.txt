@@ -1,0 +1,146 @@
+最近让团队小伙伴系统研究了市面上所有的#AI 工具，得出 2 个结论：
+
+1、无需焦虑，AI 工具虽多，但目前好用的不多；
+
+2、必须敬畏，人类不会被 AI 淘汰，但会被优先使用 AI 工具的人淘汰；
+
+以下为近 1 个月时间里，团队小伙伴试用 86 种 AI 工具后，按照好用程度筛选出的 17 种 AI 工具👇
+
+此🧵下会重点介绍好用 Top🔟 的工具，包括推荐理由、收费标准、工具链接、和使用场景等⚡️
+
+![](https://img.foresightnews.pro/202303/5607-1678949993151.png?x-oss-process=style/scale70)
+
+好用 No.1-@NotionHQ 「NotionAI」
+============================
+
+推荐理由：可结合 Web clipper 插件，将网页内容剪藏，然后用 AI 进行总结、摘要，提升阅读效率
+
+$10/ 月 -plus 版 2000AI 积分「基本够用」
+
+🔗Notion Ai 介绍 <https://www.notion.so/product/ai>
+
+🔗Web clipper 插件 <https://chrome.google.com/webstore/detail/notion-web-clipper/knheggckgoiihginacbkhaalnibhilkk>
+
+![](https://vg9mjfefb1.feishu.cn/space/api/box/stream/download/asynccode/?code=NjcwMmU5OTBmOTZmYjA2ZDQ0NDU4MWUxNWRmOTgzM2JfSGdiTTBtcklib2xjYU1nZVlEZHZWV1J3OXN3OHZDbk1fVG9rZW46Ym94Y25vU3hMZ1pRVWZJQmtVOFRSQWdyd1VnXzE2Nzg5NDcwNzY6MTY3ODk1MDY3Nl9WNA)
+
+好用 No.2-@bing「New bing」
+=======================
+
+推荐理由：GPT-4 底层，可基于链接进行信息提取，也可生成表格
+
+免费 「但要申请白单，申请方法放在下方🔗」
+
+🔗申请方法<https://twitter.com/jianshubiji/status/1635832682474250240?s=20>
+
+![](https://vg9mjfefb1.feishu.cn/space/api/box/stream/download/asynccode/?code=ZjA4YWYyMjMyZWMzY2RiMjQzYmY2ZjBmYTkyNGI1ZTFfS2U0MnZXMFRldHlybFU1Tnl0MlNndUoxa0h2b3F2YmRfVG9rZW46Ym94Y240WWVsVk9reFRxd1daZzROOXRUa29rXzE2Nzg5NDcwNzY6MTY3ODk1MDY3Nl9WNA)
+
+好用 No.3-chathub.gg by@wong2\_x
+==============================
+
+推荐理由：将 ChatGpt 和 Newbing 聚合，对比结果，更容易筛选信息
+
+需要填写个人 API
+
+🔗插件<https://chrome.google.com/webstore/detail/chathub-all-in-one-chatbo/iaakpnchhognanibcahlpcplchdfmgma>
+
+![](https://vg9mjfefb1.feishu.cn/space/api/box/stream/download/asynccode/?code=MTI4MDc1ZDQ5NmEwNTYyNDg5ZjA3OGY2N2ZmZTIxM2RfVDRhOVF6ejk5OE5kZWVDY1RURHk4M3VUWlp4TW5IR2JfVG9rZW46Ym94Y25tdTRGbEhLVTVDNEVVOXdZV0RNM0llXzE2Nzg5NDcwNzY6MTY3ODk1MDY3Nl9WNA)
+
+好用 No.4-ChatGpt-4
+=================
+
+推荐理由：可输入 2.5W 字、逻辑性大幅提升、支持图片输入并对其解释「暂未开放」
+
+plus 版 -$20 月 「可用币安 VISA 卡支付购买，亲测好用！」
+
+🔗网站<https://chat.openai.com/chat>
+
+🔗币安 VISA 卡注册教程<https://twitter.com/jianshubiji/status/1628368868820373505?s=20>
+
+🔗好用的提示词聚合网站 ChatGPT Shortcut - 简单易用的 ChatGPT 快捷指令表，让生产力倍增！ | 标签筛选、关键词搜索和一键复制 Prompts
+
+![](https://vg9mjfefb1.feishu.cn/space/api/box/stream/download/asynccode/?code=Njc5MzhhYzU2MWQ4Njg4ODczM2ZiN2NjMDI2NmIyZDdfdXRNQXdvN3lvWU1QVlNXTEMxVEdIeThNSzRVMHdpa3JfVG9rZW46Ym94Y25UMkt4M2VKUXRQb2dVdmp1aXpkRFhlXzE2Nzg5NDcwNzY6MTY3ODk1MDY3Nl9WNA)
+
+![](https://vg9mjfefb1.feishu.cn/space/api/box/stream/download/asynccode/?code=ODUyMjY3YWE0OThjZmRmNDJlNjc3YjZiOGVkOTE4NGFfNmcxNlg5d0FrS0VXQ1B1S2NNVFpOWkE0aGdEaVl1QjhfVG9rZW46Ym94Y25KcEFDaG45VjFtakt5RWJuNFA0dWFnXzE2Nzg5NDcwNzY6MTY3ODk1MDY3Nl9WNA)
+
+好用 No.5-Phind
+=============
+
+推荐理由：提供相关链接、信息库更新较快可根据信息的时间筛选
+
+设置 API，免费也能用但有一定限制
+
+🔗网站<https://www.phind.com/>
+
+![](https://vg9mjfefb1.feishu.cn/space/api/box/stream/download/asynccode/?code=OTFhY2Y4OWY1ODViMTkyNDBmNzEzOGM3MDFmNzAyODRfRXZudDNkSlNrVUFacks4bDU2em5sdDVNdnJndjhOR2xfVG9rZW46Ym94Y24ybjQzUWlHSGlyOGhpWTJ5cjNUaXBlXzE2Nzg5NDcwNzY6MTY3ODk1MDY3Nl9WNA)
+
+好用 No.6- ChatPDF
+================
+
+推荐理由：可基于上传的 PDF 进行内容汇总、信息摘取
+
+免费仅限 10mb、3PDF/ 天、50 个问题；plus-$5/ 月有 32mb、50PDF/ 天、1000 个问题
+
+🔗网站<https://www.chatpdf.com/>
+
+![](https://vg9mjfefb1.feishu.cn/space/api/box/stream/download/asynccode/?code=ODkwNjIxOTM2ODIyYjk5ZjdjOWM2ODAwNzFmZjg0N2ZfRjhDUTdvWlJMNm1YakhuZ29SWTFuQjJOWG0yY3JjUzNfVG9rZW46Ym94Y253VnZWN1d4UktsZGlTcUd5RE5NMmNkXzE2Nzg5NDcwNzY6MTY3ODk1MDY3Nl9WNA)
+
+好用 No.7- Freegpt
+================
+
+推荐理由：免费版本的 ChatGPT、性能稳定
+
+免费 「目前版本是 GPT-3.5」
+
+🔗网站<https://freegpt.one/>
+
+![](https://vg9mjfefb1.feishu.cn/space/api/box/stream/download/asynccode/?code=YWIzMWIwZGRlNzYxNGQ4MTczYzkzNzZiMjBkMWJmNmFfWUxGNjQ0cnppVmJaQTFHWUt1dkg1SlIyZ1RrUkN5MVVfVG9rZW46Ym94Y25GSzJ4M2xTNlQyNTBsbUkyV0RsVHRjXzE2Nzg5NDcwNzY6MTY3ODk1MDY3Nl9WNA)
+
+好用 No.8- OpenAI Translator
+==========================
+
+推荐理由：不仅能翻译 15 种语言，还能总结、基于单个词汇扩展解释
+
+需要输入自己的 API
+
+🔗插件<https://chrome.google.com/webstore/detail/openai-translator/ogjibjphoadhljaoicdnjnmgokohngcc>
+
+![](https://vg9mjfefb1.feishu.cn/space/api/box/stream/download/asynccode/?code=ZGU4ZWM2YmQzMTk1ZTBjMjI0YWVlOTY4YjIyYTM3ZjFfYU5qT3NXejRoeGVSM09xZjR3NFdoOVhIaU9wbmxobjBfVG9rZW46Ym94Y25lcE9HRFhhT0o5UDRQR0pMRmxiQldkXzE2Nzg5NDcwNzY6MTY3ODk1MDY3Nl9WNA)
+
+好用 No.9- Language reactor
+=========================
+
+推荐理由：这个不算 AI 工具，但对于 Web3 想学英语的小伙伴非常适用，会根据 YouTube 逐行翻译还可以分等级学习
+
+免费,也有专业版 $8.35/ 月，带储存单词
+
+🔗网站<https://www.languagereactor.com/saved-items>
+
+🔗插件<https://chrome.google.com/webstore/detail/language-reactor/hoombieeljmmljlkjmnheibnpciblicm>
+
+![](https://vg9mjfefb1.feishu.cn/space/api/box/stream/download/asynccode/?code=ZjQ4MWM1ZjFiZjQzYzJhNGVjZWQzMWM0YzM4MTFkZGJfTkliMTczZFdXeVJGbVEwMXJOdWttdXV0RWdkZ1FXeDlfVG9rZW46Ym94Y240cjZ0aGlGSk1kc3ROUXVhM2VBRlJoXzE2Nzg5NDcwNzY6MTY3ODk1MDY3Nl9WNA)
+
+![](https://vg9mjfefb1.feishu.cn/space/api/box/stream/download/asynccode/?code=ZGU4NDQ4MDNmNDNiNTkyMDg2YWY5YjA5OWFjYTQwYTRfUFhBcHQ0M0xyQXF4aElsbVkxMDhnaUdiRExxTElaWk9fVG9rZW46Ym94Y25FZ3BrUmVUdGNNZUk2MlBVRmdQMUFkXzE2Nzg5NDcwNzY6MTY3ODk1MDY3Nl9WNA)
+
+好用 No.10- Glarity
+=================
+
+推荐理由：基于谷歌页面内容总结、YouTube 视频内容总结「仅限带英文字幕」
+
+需接入自己的 API
+
+🔗插件<https://chrome.google.com/webstore/detail/glarity-summary-for-googl/cmnlolelipjlhfkhpohphpedmkfbobjc/related>
+
+![](https://vg9mjfefb1.feishu.cn/space/api/box/stream/download/asynccode/?code=NzMzNjU2ZDVjYTZkNGJlMjU2MWUwZTZjZmQ0ODBmODBfelBpamtQRE9aSkhka0Z0ZTlaNmtrT1ViOVNlN2VQanVfVG9rZW46Ym94Y25ud2ppc1doR1NVbG1Jc0tLZ1NIc3loXzE2Nzg5NDcwNzY6MTY3ODk1MDY3Nl9WNA)
+
+![](https://vg9mjfefb1.feishu.cn/space/api/box/stream/download/asynccode/?code=YzNjNmNlY2M0MWQ0OWIxODZmNDYxZTAxZmM4Y2U2MWJfUlNYUzVsY3c1aEhlS2picFF2dlhWMWd5TVE3dzRGdnpfVG9rZW46Ym94Y25PQndrQVFMZmF4VmE0Unk3OVpVWGVnXzE2Nzg5NDcwNzY6MTY3ODk1MDY3Nl9WNA)
+
+以上就是 Top🔟工具的反馈和基本用法，后续发现更好用的工具，也会持续更新进来，大家有哪些觉得好用的 AI 工具，也可以按照此格式整理到评论区👇
+
+👉工具名称：
+
+🦵推荐理由：
+
+💰成本：
+
+🔗链接：
+

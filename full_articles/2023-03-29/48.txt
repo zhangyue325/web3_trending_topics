@@ -1,0 +1,69 @@
+### ABGA **x Footprint Analytics x** PlanckX**— February Monthly GameFi Report**
+
+![](https://img.foresightnews.pro/202303/ff8e46bc9a930fcc762c4832e48ea346.jpeg?x-oss-process=style/scale70)After a challenging year, the crypto market finally saw a turning point at the end of 2022. With the overall market cap recovering and the market trend improving, the crypto gaming industry also rebounded in January.
+
+Excitingly, Hong Kong rolled out the red carpet for crypto businesses to help revitalize the embattled financial hub, representing a positive signal for the market. The move indicates that Asian forces will once again invest more in the crypto industry.
+
+Game industry giants like Unity and MetaMask announced cross-border cooperation, exchanging SDKs, which will likely bring new opportunities for blockchain games.
+
+In 2023, more emerging public chains will kindle development. Many promising game projects will also enter alpha and beta stages and begin to integrate from Web2 to Web3. The market is still searching for the next popular title after Axie Infinity and STEPN.
+
+In this article, we will summarize and analyze the trends in the GameFi market in February, 2023, from a macro level, including market performance, financing, and the development of different public chains and popular games. The chart data used in this report is provided by Footprint Analytics, an official partner of PlanckX, and more detailed data dashboards can be viewed on the [Footprint Analytics website](https://www.footprint.network/@0xAlina/GameFi-Report-Feb-2023-PlanckX?channel=planckx).
+
+● With the rise of BTC prices in February, the GameFi market showed some improvement, with the total market value remaining stable between $6.3 billion and $7.2 billion.
+
+● The proportion of new GameFi users compared to total users saw a slight decrease in February, reaching only 27.44% of the total, the lowest value since October of last year.
+
+● Wax remains the most active blockchain in terms of transactions, with a transaction of 556M in February, which is 88% of the total, followed by Hive and Flow, with 36M and 2M, respectively.
+
+● After the impact of the FTX scandal subsided, Solana has experienced explosive growth in user numbers since January, with 209,370 new users in February, accounting for 51.07% of the total new users.
+
+● In light of the market downturn in the previous few months, the total investment value of GameFi exceeded $100 million again in February.
+
+● A total of 14 projects received funding in February.
+
+![](https://img.foresightnews.pro/202303/6e5c1161ea14d64d250f4c185243cf68.png?x-oss-process=style/scale70)[GameFi Market Cap vs. Total Crypto Market Cap (EO Feb)](https://www.footprint.network/chart/GameFi-Market-Cap-vs.-Crypto-Market-Cap-(EO-Feb)-fp-38162?channel=planckx)Based on the chart data, looking at the market capitalization performance since last year, the GameFi sector’s market capitalization has generally followed the overall trend of the cryptocurrency market. Witnessing declines greater than the cryptocurrency market’s average and increases that are smaller than the average. As of February 28th, the total market capitalization of cryptocurrencies was 173 times that of the GameFi total market capitalization.
+
+![](https://img.foresightnews.pro/202303/961768cf3ee7df75925252357611f040.png?x-oss-process=style/scale70)[GameFi Market Cap vs. BTC Market Cap (EO Feb)](https://www.footprint.network/chart/GameFi-Market-Cap-Vs.-BTC-Market-Cap-(EO-Feb)-fp-38548?channel=planckx)Most tokens in the cryptocurrency industry have the characteristics of market value bubbles and extreme volatility. The market value of BTC has always been a benchmark for market investments and also serves as an actual market indicator. As of February 28th, 2023, the total market value of BTC is nearly $446.5 billion, which is 70 times the total market value of GameFi.
+
+In conclusion, the overall market value of GameFi has not shown any impressive performance during this period.
+
+![](https://img.foresightnews.pro/202303/7b341eb107ec5c9f6a29432ac219b6dd.png?x-oss-process=style/scale70)[GameFi Monthly Investment Amount](https://www.footprint.network/chart/GameFi-Monthy-Investment-Amount-fp-38055?channel=planckx)Although the secondary market performance has been flat, the financing situation of the GameFi market in February was surprising, surpassing $100 million, representing a 395% increase from the financing total in January. This to some extent indicates that investors recognise the prospects of the GameFi sector and are optimistic about its overall development in 2023. There is still significant potential for future growth.
+
+![](https://img.foresightnews.pro/202303/bebdab6cb0b4c752fffc0eb6caaa83aa.png?x-oss-process=style/scale70)[GameFi Project Financing amount in February 2023](https://www.footprint.network/chart/GameFi-Project-Financing-amount-in-February-2023-fp-38549?channel=PlanckX)In February, a total of 14 GameFi projects received funding with Kratos Studio, Mino Games, and Yield Guild Games ranking first, second, and third respectively. The total amount of funding raised was 20 million, 15 million, and 13.8 million, all of which were first-round financing.
+
+Changes in the number of GameFi Protocols
+
+![](https://img.foresightnews.pro/202303/9a6c06b1051ad57209cc75d0c5518aaf.png?x-oss-process=style/scale70)[Number of GameFi Protocols Chain](https://www.footprint.network/chart/Number-of-GameFi-Protocols-by-Chain-fp-38025?channel=planckx)In February, there were 2,390 on-chain games, which was roughly the same as January’s 2,394. Compared to December, January saw a significant increase in the number of games, but there was a slight decline in February. This may be due to many projects announcing their launch at the beginning of the year with the number of on-chain games stagnating as we entered the mid-quarter of February.
+
+Looking at the distribution of on-chain protocols, BNB Chain and Ethereum are still neck and neck, followed closely by Polygon and Wax. Since March of last year, BNB Chain has been leading and gradually pulling away from other public chains, but whether it will become the preferred public chain for new games in the future remains to be seen and requires further observation.
+
+Changes in transaction volume on the chain
+
+![](https://img.foresightnews.pro/202303/7563a98c9fa87f21c12f90e02715c006.png?x-oss-process=style/scale70)![](https://img.foresightnews.pro/202303/ed66327248a8fd6984cda6861b27be96.png?x-oss-process=style/scale70)[Gaming Volume by Chain](https://www.footprint.network/chart/Gaming-Volume-by-Chain-fp-38049)![](https://img.foresightnews.pro/202303/5cd20b307b08d57201c480b07d8ffbc1.png?x-oss-process=style/scale70)[Gaming Transaction by Chain](https://www.footprint.network/chart/Gaming-Transaction-by-Chain-fp-38050?channel=planckx)Looking at the number and volume of on-chain transactions, there was a slight decrease in the number of transactions compared to January, but the total volume was similar. Ronin and Wax still account for a large portion of both transaction volume and numbers, indicating that the trading activity on Axie Infinity and Alien Worlds is still good.
+
+User changes on the chain
+
+Changes in the number of new users on the chain
+
+![](https://img.foresightnews.pro/202303/fd6fa7f623bf01f37d94d7fc5a8a68e7.png?x-oss-process=style/scale70)[Monthly GameFi Users](https://www.footprint.network/chart/Monthly-GameFi-Users-fp-38020?channel=planckx)![](https://img.foresightnews.pro/202303/32ca3b1d854cfd866af2cbf93234dc8f.png?x-oss-process=style/scale70)[New Users by Chain](https://www.footprint.network/chart/New-Users-by-Chain-fp-38038?channel=planckx)![](https://img.foresightnews.pro/202303/679c41834a5ee993fca425faa353ba45.png?x-oss-process=style/scale70)[The Proportion of New Users by chain](https://www.footprint.network/chart/New-Users-by-Chain%2525-fp-38023?channel=planckx)The number of new users has been declining, with only 410,947 new users added in February, accounting for only 27.42% of the total user base, which is the lowest value in a year. However, it is worth noting that Solana’s user growth has exploded in the past two months, with a growth rate of 51.06% in February alone, mainly due to the increase in users brought by LadderCaster.
+
+![](https://img.foresightnews.pro/202303/1980812eb02cec9a3d8a0f588702c9f9.png?x-oss-process=style/scale70)[GameFi New User Growth in February](https://www.footprint.network/chart/Feb-GameFi-New-Users-Growth-fp-38139?channel=planckx)Changes In Active Users on the chain
+
+![](https://img.foresightnews.pro/202303/3bef0f1cd17ce20467c35801760b1358.png?x-oss-process=style/scale70)[Active Users by Chain](https://www.footprint.network/chart/Active-Users-by-Chain-fp-38031?channel=planckx)![](https://img.foresightnews.pro/202303/83127a7a4f9a877ecadede8199bc1247.png?x-oss-process=style/scale70)[The Proportion of Active Users by chain](https://www.footprint.network/chart/Active-Users-by-Chain%2525-fp-38022?channel=planckx)In February, the total number of active users decreased to 1.5 million, mainly concentrated in Solana, Polygon, and Hive. This data has been continuously declining for 4 months since reaching its peak of 2.5 million in October of last year. This may be due to the fact that there have been no popular games like StepN in the blockchain gaming market since the end of last year, which cannot drive the activity of existing users.
+
+Waiting for dawn in the darkness may be the best summary of February, and it will also be the main theme of the GameFi field in 2023. Whether the market has bottomed out and rebounded remains to be seen, but what is clear is that the confidence of capital has not faded away.
+
+The increase in capital investment in February proves that funds are once again flowing into the gaming industry. Unlike DeFi, NFT, and other traditional public chains that occupy the vast majority of the market share, some specialized gaming public chains are shining in the GameFi field and are not falling behind in competition with traditional public chains. Currently, multi-chain deployment of on-chain protocols has become a trend, and more excellent protocols may migrate to gaming public chains. As public chains are the engine of the blockchain industry’s bull-bear transition, some specialized gaming chains may become the driving force for the explosion of the GameFi industry in the next bull market cycle.
+
+The sluggish market undoubtedly brings pressure to game teams, as deciding to release games during a bear market requires greater caution. It should be emphasized that game development usually takes years and the weakening prospect of financing may pose risks to projects that have not raised enough funds during the bull market. However, for high-quality AAA games, waiting for their development and refining their product is necessary.
+
+A non-profit, blockchain alliance, co-sponsored by leading institutions in the gaming industry. We are optimistic about blockchain games, NFTs and Metaverse, and we are taking the initiative to support ABGA-related activities and investments.
+
+Footprint Analytics is a data platform blending web2 and web3 data with abstractions. We help analysts, builders, and investors turn blockchain data into insights with accessible visualisation tools and a powerful multi-chain API across 20+ chains for NFTs, GameFi, and DeFi. We also provide Footprint Growth Analytics to help with effective growth in GameFi and any web3 projects.
+
+PlanckX is a Web3 game aggregation platform that has hundreds of popular blockchain games. We support cross-chain transactions, instant delivery of blockchain games, and blockchain game community services. Additionally, we provide marketing services including game listing, advertising and transaction support to GameFi projects.
+
+*©Asia Blockchain Gaming Alliance (ABGA) All Rights Reserved. This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.*
+
+![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=e570e6716d68)
