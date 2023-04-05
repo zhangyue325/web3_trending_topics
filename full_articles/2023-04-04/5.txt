@@ -1,0 +1,75 @@
+![](https://img.foresightnews.pro/202304/fb6680d2ff7c088093370a20ee830839.png?x-oss-process=style/scale70)
+
+以太坊 Layer2 解决方案的发展势头仍然强劲，以太坊 2.0 已经承诺了可扩展性的保证。这表明在以太坊未来中，Layer2 解决方案的重要性广受认可。在加密货币中，「更快的速度」总是受欢迎的，而 Layer2 解决方案将提供更多速度。本文将介绍其中一种备受关注的 Layer2 扩展解决方案：Arbitrum。
+
+Arbitrum 是什么？
+-------------
+
+Arbitrum 是一个基于 Optimistic Rollups 的 L2 区块链。它由 Offchain Labs 在 2021 年开发。Offchain Labs 由一组由世界级的区块链研究人员和软件工程师组成的团队创立，包括 Steven Goldfeder（首席执行官）、Harry Kalodne（首席技术官）和 Ed Felten（首席科学家）。
+
+### 
+
+Arbitrum Chains
+---------------
+
+Arbitrum 运行两条并行的链：一条 Roll-up 链称为「Arbitrum Nitro」，另一条 AnyTrust 链称为「Nova」。Arbitrum Nitro 遵循 Optimistic Rollup 的特征操作，即将交易数据捆绑到以太坊链上进行存储。
+
+而 Nova 则依靠第三方称为外部数据可用性委员会存储交易数据，并根据需求进行产生。通过避免将交易数据捆绑到以太坊链上，交易费用大大降低。Nova 最适合游戏项目、DApps 和社交项目。Arbitrum 链的一个显著特点是其惊人的速度。Arbitrum 链的处理速度可以达到每秒 40,000 笔交易。
+
+Arbitrum Virtual Machine（AVM）
+-----------------------------
+
+Arbitrum 运行一个虚拟机（Arbitrum Virtual Machine），它与以太坊虚拟机（EVM）上的编程语言（如 Solidity 和 Vyper）兼容。这对于以太坊开发人员来说非常有吸引力，因为他们无需重写代码就可以在 Arbitrum 链上部署其应用程序。这使得 Arbitrum 比其他 Optimistic Rollup 解决方案如 Optimism 更具优势。
+
+相比之下，Optimism 虚拟机（OVM）仅支持 Solidity 编程语言，从而限制了它与以太坊虚拟机的兼容性。因此，在 OVM 上，一些 EVM 兼容的交易可能无法正确编译。这使得 Arbitrum 成为大多数寻求在更可扩展的平台上部署其以太坊 DApps
+
+多轮欺诈证明
+------
+
+在以太坊网络上，Layer2 扩容技术已经成为了热门话题。Arbitrum 是其中一个备受关注的技术，它使用了多轮欺诈证明（或交互证明）来解决验证者提出的挑战。相比其他 optimistic rollups 技术，如 Optimism，Arbitrum 使用的是多轮证明，而非单轮证明。
+
+在单轮证明中，整个断言或交易块将重新计算以验证其内容是否有效。而在多轮欺诈证明中，只有有争议的交易会被重新计算，这需要更少的工作量，因此消耗更少的 gas 费用，是两者中最受欢迎的技术。
+
+去中心化治理
+------
+
+此外，Arbitrum 还涉及到去中心化治理。最近在 2023 年 3 月 23 日，Arbitrum 进行了空投，并成立了 Arbitrum DAO（去中心化自治组织）。持有 $ARB 代币的 DAO 成员将能够参与 Arbitrum 链的治理，即他们可以使用 $ARB 代币投票决定直接影响 Arbitrum 链的政策。需要注意的是，这些代币仅用于治理目的，以太坊仍然是交易的默认货币。
+
+Arbitrum 为此推出了 AIP。它的目标是建立一个去中心化的治理系统，鼓励社区成员参与到政策制定中来。通过给代币持有人在平台发展中的发言权，AIP-1 旨在增强 Arbitrum 社区的参与度和互动性。
+
+然而，与其他新倡议一样，Arbitrum 社区在推动 AIP-1 的批准过程中遇到了一些问题。但是，Arbitrum 基金会已经发表了详细的解释。同时，基金会还解决了社区提出的两个重要问题：首先，他们确认没有出售 5000 万 $ARB 代币；其次，他们提供了 750 万 $ARB 代币最初分配的详细原因。
+
+我们都知道目前建立 DAO 面临许多障碍，其中一个难题就是「先有鸡还是先有蛋」的困境。为了解决这个问题，AIP-1 希望通过让社区参与到初步选择和架构中来，来展示代币持有人的支持，从而引导平台的发展方向。
+
+ARB 代币
+------
+
+Arbitrum 的原生代币 ARB 用于治理。Arbitrum 的开发人员 Offchain Labs 已经宣布过渡到去中心化自治组织（DAO）结构 — — Arbitrum DAO。ARB 持有人有能力决定影响功能、协议升级、资金分配和安全委员会选举的想法。
+
+Arbitrum 有雄心勃勃的 2023 年计划，其中包括以下内容：推出自己的 Layer3 解决方案 Orbit；允许开发人员使用 Stylus 部署使用流行编程语言（如 Rust、C++ 等）编写的程序；引入一个新的第四层解决方案 Orbit。增加其验证器集中独立机构验证器的数量；Arbitrum One 正在将其协议迁移到 Layer2。
+
+截至撰写本文时，ARB 的交易价格为 1.3 美元，全球市值为 15.7 亿美元，全球交易量为 27.8 亿美元，流通供应量为 12.75 亿枚 ARB，总供应量为 100 亿枚 ARB。
+
+目前，Arbitrum 是以太坊网络中最大的 Layer2 链，其总锁定价值（TVL）超过了 Optimism 和 Polygon 的总和，也超过了 Avalanche 和 Solana 等大型 L1 玩家。许多以太坊知名项目都已经部署在了 Arbitrum 上，包括 Uniswap、Sushi 和 Aave 等。
+
+社交媒体巨头 Reddit 在 2021 年 7 月宣布，将利用 Arbitrum 技术来扩展其社区点奖励计划。未来，我们很可能会看到更多主流机构采用 Arbitrum 技术。
+
+Arbitrum 生态的项目
+--------------
+
+Arbitrum 生态中有很多有趣的项目，除了从以太坊迁移过来的 Uniswap，AAVE 之外，还有包括 GMX、Treasure DAO、Radiant 和 Camelot 等。本文将介绍其中的四个代表项目。
+
+GMX 是一个去中心化永续协议，允许用户可以获得 30 倍杠杆，成为真正的去中心化衍生品交易所。该协议依靠 GLP 作为资金池，提供的交易滑点非常低，成为 Arb DeFi 生态的重要组成部分。
+
+Treasure DAO 是一个去中心化游戏平台，允许建设者使用 $MAGIC 作为储备货币，在平台上推出游戏。Treasure DAO 旨在解决 GameFi 游戏的代币经济学问题，通过让多个游戏插入 $MAGIC 作为基础货币，为代币提供更多的实用性。
+
+Radiant 和 Camelot 则是诞生于 Arbitrum 上的原生 Lending 和 DEX 模块，分别对标 AAVE 和 Uniswap，而它们的不同点在：Radiant 希望通过更好的「跨链兼容」来允许更方便的借贷，而 Camelot 则通过对 IEO 模块的投入，帮助更多新项目走向曝光。
+
+Arbitrum 充分利用了以太坊的安全性和兼容性，同时也具有更高的吞吐量和较低的交易费用，这得益于将大部分计算和存储负载转移出去。以上四个项目都是 Arbitrum 生态系统中的代表性项目。
+
+以太坊的非托管 Staking 平台 Ebunker 创始人 Allen 评价 Arbitrum 说：「Arbitrum 提供了和以太坊同级别的安全性，又提供了和其他竞争 L1 相媲美的性能，其实是变相突破了不可能三角。这必定会带来大量当年因以太坊 L1 性能不足，而外溢到其他 L1 的项目的大回流。」
+
+![](https://img.foresightnews.pro/202304/82098150f39a6e67009b3f2e0c942b36?x-oss-process=style/scale70)
+
+值得一提的是，Arbitrum 的 TVL 仍然在不断提升。Arb 上的 DeFi 项目，都有可能成为未来 DeFi 的新黄金标准，让我们拭目以待 Arbitrum 未来生态的发展。
+
