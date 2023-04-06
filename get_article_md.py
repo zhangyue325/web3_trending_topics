@@ -27,6 +27,22 @@ def add_article_md_foresightnews(url):
             pass
     return article_md
 
+def add_article_md_GZH(url):
+    article_md = ""
+    soup = BeautifulSoup(requests.get(url).content, "html.parser")
+    for data in soup.findAll('div',{'id':'js_content'}):
+        break
+
+    print("get article md Wechat GZH")
+    for ele in data:
+        print(ele)
+    #     ele = str(ele)
+    #     try:
+    #         ele = md(ele)
+    #         article_md += ele
+    #     except:
+    #         pass
+    # return article_md
 
 def add_all_articles_md(dt):
     path = f"full_articles"
@@ -61,10 +77,8 @@ def add_all_articles_md(dt):
     df.to_csv(rf"trending_articles\{dt}.csv", index = False)
 
 
-
 if __name__ == "__main__":
-    url = "https://foresightnews.pro/article/detail/29805"
+    url = "https://mp.weixin.qq.com/s/i6D2Y7x_xYScEDsrGP7oiw"
     data = add_article_md_foresightnews(url)
-    index = url[-5:]
-    with open(f"{index}.txt", "w", encoding="utf-8") as f:
-        f.write(data)
+    print(data)
+
