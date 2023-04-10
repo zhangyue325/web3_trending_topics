@@ -1,13 +1,7 @@
-import requests
-from bs4 import BeautifulSoup
+import numpy as np
 
-url = "https://www.coindesk.com/"
-response = requests.get(url)
-soup = BeautifulSoup(response.text, "html.parser")
+A = np.random.randn(4,3)
 
-# Find all article titles on the page
-article_titles = soup.find_all("h4", class_="heading")
+B = np.sum(A, axis = 1, keepdims = True) 
 
-# Print out the titles
-for title in article_titles:
-    print(title.text.strip())
+print(B.shape)
