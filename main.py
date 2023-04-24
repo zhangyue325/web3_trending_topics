@@ -6,9 +6,9 @@ from get_article_md import *
 
 dt = date.today() - timedelta(days = 1)
 
-get_data()
-move_article_csv()
-print("articles has been successfully collected")
+# get_data()
+# move_article_csv()
+# print("articles has been successfully collected")
 
 dt = date.today() - timedelta(days = 1)
 get_topics_hash(dt)
